@@ -112,6 +112,7 @@ Over 400 years of history including:
 - Continue locating and assembling fragments of the Obsidian Prophecy Disc
 - Maintain and protect already recovered fragments
 - Further development of detection and preservation methods
+- Discovery of a method for using the Lorestone to close rifts
 - Training next generation of scholars and explorers
 
 # Related Elements

@@ -3,10 +3,9 @@ type: note
 kind: fact/relationship
 created: 2025-01-10
 context: 
-processed: no
+processed: yes
 tags:
  - atomic
- - to-process
 ---
 # Core Information
 ## What does Vaud Qalix want?

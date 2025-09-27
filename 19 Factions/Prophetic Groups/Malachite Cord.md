@@ -37,6 +37,7 @@ Leader: [[Rinneth Starsong]]
 - Natural balance must be protected and restored, particularly in regards to the Savalirwood
 - Direct intervention to prevent catastrophic magical events is necessary
 - Prevention and healing are preferred over aggressive countermeasures
+- Fears that assembly of the [[Lorestone of Eryndor]] will result in disaster
 ## Traditions/Customs:
 - Members carry icons of the Aurora's Ascendant during missions
 - Regular rituals involving artifacts and relics connected to Seraphina
