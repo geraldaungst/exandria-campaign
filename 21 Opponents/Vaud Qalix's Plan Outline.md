@@ -22,7 +22,7 @@ tags:
 	- [ ] Residuum dust
 	- [ ] [[Arcanist's Prism]] from [[Korfel Withrethin|The Gentleman]]
 1. [ ] Conduct the assembly ritual and construct a stable [[Harmonic Planar Conduit]]
-2. [ ] Siphon the energy from a rift to feed Ceratos and increase Qalix's power
+2. [ ] Siphon the energy from a rift to feed his patron and increase Qalix's power
 3. [ ] Begin restoring the Ruins of Draconia
 4. [ ] Leverage existing alliances by demonstrating the new power of Draconia
 5. [ ] Declare himself [[Vaud Qalix|Dawnbringer of the New Draconian Dominion]].

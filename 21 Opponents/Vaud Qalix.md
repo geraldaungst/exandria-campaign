@@ -51,9 +51,15 @@ Stakes: Nothing else matters. All in.
 ![[What does Vaud Qalix want#Core Information]]
 
 ## What Vaud Qalix doesn't know...
-[[Ceratos|Ceratos]] is not merely the source of his power. [[Ceratos|Ceratos]] is using him to create chaos and increase their power. [[Ceratos|Ceratos]] knows he will eventually be defeated, but that defeat will unleash a very desirable wave of chaos that will finally give [[Ceratos|Ceratos]] enough power and coherence to act directly in Exandria instead of manipulating mortals.
+[[Ceratos|Ceratos]] is not merely the source of his power. [[Ceratos|Ceratos]] is using him to create chaos and increase their power. [[Ceratos|Ceratos]] knows Qalix will eventually be defeated, but that defeat will unleash a very desirable wave of chaos that will finally give [[Ceratos|Ceratos]] enough power and coherence to act directly in Exandria instead of manipulating mortals.
 
-Not only this, but the rifts he believes are part of a larger pattern are in fact random and chaotic. What Qalix thinks is a "signature" for each rift is merely the specific random variation of arcane noise that happens to exist at that spot at that moment. Over time, the noise shifts and changes, and there is no way to actually associate a specific pattern with a specific rift.
+Not only this, but the rifts Qalix believes are part of a larger pattern are in fact random and chaotic. What Qalix thinks is a "signature" for each rift is merely the specific random variation of arcane noise that happens to exist at that spot at that moment. Over time, the noise shifts and changes, and there is no way to actually associate a specific pattern with a specific rift.
+
+## Qalix's Understanding of His Powers
+- Believes he has natural affinity for far realm energies
+- Thinks his warlock abilities come from "the voice beyond the veil"
+- Views his "insights" as personal breakthroughs in understanding reality's fabric
+- Refers to his patron power source in vague, academic terms
 
 ## The Sentence
 *Vaud wants to assemble the [[Lorestone of Eryndor]] before war breaks out between the Kryn Dynasty and the Dwendalian Empire, but he is having difficulty acquiring the obsidian shards via his network of spies and collectors because of the interference of the player characters.*
