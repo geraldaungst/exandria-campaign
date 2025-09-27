@@ -1,0 +1,7 @@
+Long ago, during the **Age of Arcanum**, when magic surged wildly across Exandria, a group of druids devoted to the **Wildmother** sought to protect the natural world from the unchecked forces of arcane chaos. In their quest, they encountered a vast, uncontrolled rift threatening to warp the surrounding forests. Unable to close the rift, the druids made a desperate choice: they would sacrifice themselves, merging their **souls** with the land to contain the magic.
+
+From the sites of their sacrifice, **trees began to grow**, their roots infused with the essence of the fallen druids. These trees, later called **soulwood**, absorbed the chaotic magic around them, acting as natural insulators, shielding the land from further harm. Though they looked like ordinary trees, the druids’ sacrifice gave them the power to block magical forces.
+
+Legend holds that the souls of those druids still linger in the trees, watching over the land and guarding it from arcane corruption. To this day, soulwood trees are seen as sacred protectors of balance, their name honoring the druids' ultimate sacrifice. Wildlife pause in reverence when passing and 
+
+Soulwood trees can be identified by their lack of undergrowth, their hearty and vigorous growth, their unusually dense wood. The souls of the fallen druids permeate the bark, giving it a barely perceptible iridescence when wet.

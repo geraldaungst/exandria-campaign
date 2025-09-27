@@ -1,0 +1,10 @@
+---
+processed: no
+tags:
+  - to-process
+  - npc
+---
+![[durnvolk-durmir.jpeg|right|300]]
+Durnvolk Durmir embodies the steadfast spirit of Moradin's teachings, his life a testament to the virtues of hard work, devotion, and the sacred art of creation. His personality is a harmonious blend of resilience and gentleness, a reflection of the dual nature of fire - capable of destruction yet essential for forging anew. Durnvolk approaches his mission with a level of patience and precision that commands respect, yet his interactions are marked by an unexpected warmth and approachability. He believes deeply in the power of community and the sharing of knowledge, viewing his role as not just a builder of structures, but as a forger of bonds among people. Despite his formidable expertise in divine magic and blacksmithing, he remains humble, always open to learning and valuing the contributions of others. His calm demeanor belies a fierce determination to see his endeavors through, making him a beloved figure among those who know him well.
+
+Physically, Durnvolk Durmir is the quintessence of dwarven resilience, his stocky frame a testament to years spent at the forge and in the service of Moradin. Standing shorter than most of his kin, his broad shoulders and muscular build speak volumes of his strength, both physical and spiritual. His skin carries the glow of the forge, weathered yet radiant, with a beard as thick and intricately braided as the metalwork he cherishes, peppered with flecks of gray that hint at his years of experience. His eyes, deep-set beneath bushy brows, shine with the light of devotion and the warmth of a craftsman who finds joy in his work. Durnvolk's attire is as practical as it is symbolic, adorned with symbols of Moradin and the tools of his trade, each piece telling a story of faith, craftsmanship, and the enduring legacy of the dwarves. Despite his imposing physical presence, his movements are surprisingly gentle, a reflection of the tender soul that guides his strong hands.
