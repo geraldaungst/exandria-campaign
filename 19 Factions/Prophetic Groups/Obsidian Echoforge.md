@@ -10,7 +10,7 @@ tags:
 # Quick Reference
 > [!info] Essential Details
 > - Base of Operations: Permanent collection and workshop on the outskirts of [[Palma Flora]] on the Menagerie Coast
-> - Primary Goal: Locate and assemble the fragments of the [[Lorestone of Eryndor]]
+> - Primary Goal: Locate and assemble the fragments of the [[Lorestone of Eryndor]] in order to close rifts
 > - Current Status: Active
 > - Party Standing: Pursuing a [[Aethor Kalisk's Secret Mission|quest]] for [[Aethor Kalisk]]
 > - Influence Level: Regional
@@ -59,6 +59,7 @@ Regional organization with multiple field agents and a permanent facility
 - Focus on unity and collective purpose
 - Each fragment discovered is documented, studied, and its contents shared within the organization
 - Strong emphasis on preservation and protection of recovered pieces
+- Believe that the assembled Lorestone can be used to prevent or close the rifts. (They are unaware that this will also require the use of a [[luxon-beacon-egw|Luxon Beacon]].)
 
 ## Historical Evolution
 ### Name Changes and Significance
