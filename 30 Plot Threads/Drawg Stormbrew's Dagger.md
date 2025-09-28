@@ -8,32 +8,28 @@ processed: no
 ---
 # Quick Reference
 > [!info] Essential Details
-> - Stage: 
-> - Priority: (High/Medium/Low)
-> - Timeline: (if time-sensitive)
-> - Key Players: 
-> - Parent Plot: (if subplot)
-> - Last Session: 
-> - Next Steps: 
+> - Stage: Ongoing
+> - Priority: Medium
+> - Key Players: [[Drawg Stormbrew (Brew)|Drawg]], [[Dreyara Drimvar|Dreyara]]
+> - Last Session: [[Session 28]]
+> - Next Steps: Drawg confronts Dreyara
 
 # Overview
 
 # Current State
 ## Recent Events
-(last major development)
+Drawg discovered that Dreyara has a dagger that is shaped remarkably like his scabbard.
+
 ## Active Elements
-(what's currently in motion)
+Dreyara is just behind the party in the Cyrios Mountains, headed towards Cloudfang Keep.
+
 ## Blocking Issues
-(what's preventing progress)
+Dreyara has possession of the dagger and is unlikely to let it go.
 
 # Player Knowledge
-- What they know:
-- What they think they know:
-- What they don't know:
-
-# Plot Hierarchy
-- Parent Plot: 
-- Subplots: 
+- What they know: [[Dreyara Drimvar|Dreyara]] has a dagger strapped to her arm that appears to be the one [[Drawg Stormbrew (Brew)|Drawg]] is searching for.
+- What they think they know: 
+- What they don't know: The dagger is in fact the [[Blade of Maroth Fenn]], one of the [[z_compendium/tables/vestiges-of-divergence-by-advancement-tdcsr|Vestiges of Divergence]].
 
 # Development Stages
 ## Seeds

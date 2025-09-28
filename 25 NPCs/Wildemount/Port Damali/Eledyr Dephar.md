@@ -1,9 +1,27 @@
 ---
 processed: no
 tags:
-  - to-process
   - npc
+  - to-process
+type: npc
+faction:
+  - - Emissaries of the Sunfall
+location:
+  - - Rexxentrum
+status: active/inactive/deceased
 ---
+# Quick Reference
+
+> [!info] Essential Details
+> 
+> - Current Location: Rexxentrum (Scroll and Scribe, Valen's townhouse)
+> - Key Motivation: Climb Clasp ranks while serving Emissary goals; personal vendetta against Qilynn
+> - Attitude toward party: Unknown/Hostile (unaware of party but opposes their likely allies)
+> - Critical Knowledge: [[What Eledyr Knows]]
+> - Status: Active intelligence operative conducting prophecy research
+
+# Description
+
 **Species:** Half-Elf  
 **Age:** 24  
 **Skin Color:** Pale with a slight bluish undertone  
@@ -12,33 +30,97 @@ tags:
 **Style of Dress:** Eledyr favors dark, utilitarian clothing, often wearing a black leather tunic with silver embroidery, dark breeches, and high boots. His attire includes a variety of hidden pockets and sheaths for his tools and weapons.  
 **Significant Item:** Eledyr carries an intricately designed silver dagger, a gift from [[Aelorin Nightshade]] himself, symbolizing his acceptance into the inner circle of the Clasp.
 
-**Background:** Eledyr Dephar was born to a human mother and an elven father, growing up amidst the complexity of both human and elven cultures. He always felt a sense of alienation, never fully belonging to either world. This feeling of being an outsider drove him to the shadows of society, where he found a sense of belonging within the Clasp under [[Aelorin Nightshade]]'s mentorship.
+## Roleplay
 
-**Personality:** Eledyr is cunning, ambitious, and harbors a deep-seated grudge against those he feels have wronged him. His calculating nature often makes him appear cold and aloof. Eledyr is highly intelligent and observant, with a knack for uncovering secrets and using them to his advantage.
+- **Voice:** Smooth and calculating, speaks with measured precision. Uses academic terminology when in cover identity, shifts to street cant when in Clasp mode
+- **Mannerisms:**
+    - Unconsciously touches his silver dagger when feeling threatened or challenged
+    - Takes detailed mental notes of everyone he meets, cataloging potential usefulness
+    - Maintains different postures for different identities (scholarly stoop vs. confident operative stance)
+- **Notable Traits:**
+    - **Personality:** Cunning, ambitious, and harbors deep-seated grudges. Calculating nature makes him appear cold and aloof
+    - **Intelligence:** Highly intelligent and observant, with a knack for uncovering secrets and using them to his advantage
+    - Exceptional memory for grudges and perceived slights
+    - Compartmentalizes loyalties - can genuinely serve multiple masters simultaneously
 
-**Secret:** Eledyr was recruited by [[Valen Elderguard]] and is using his Clasp connections to help the [[Emissaries of the Sunfall|Emissaries]]. He just got an assignment to look into why there is sudden interest about an old [[01 The Prophecy|prophecy]].
+# Current Situation
 
-[[What Eledyr Knows]]
+Currently operating dual identities in Rexxentrum. As an academic researcher, he frequents the Scroll and Scribe and various libraries investigating prophecy-related inquiries. As an Emissary operative, he meets with [[Valen Elderguard]] at the secret townhouse to plan operations against rival factions. Recently arrived to begin comprehensive intelligence gathering on the sudden interest in ancient prophecies, with particular focus on tracking [[Obsidian Echoforge]] activities and identifying other competing factions.
 
-**Goals and Motivations:**
+# Background
 
-- **Primary Goal:** Eledyr seeks to climb the ranks within the Clasp, ultimately aiming to usurp [[Aelorin Nightshade]]'s position. He believes that his sharp mind and ruthless tactics make him the ideal candidate to lead the organization.
-- **Secondary Goal:** Eledyr holds a personal vendetta against Qilynn Duskwhisper for what he perceives as an attempt to humiliate him. His setup of Qilynn was meticulously planned to ensure her failure and disgrace.
+Eledyr Dephar was born to a human mother and an elven father, growing up amidst the complexity of both human and elven cultures. He always felt a sense of alienation, never fully belonging to either world. This feeling of being an outsider drove him to the shadows of society, where he found a sense of belonging within the Clasp under [[Aelorin Nightshade]]'s mentorship.
 
-**Relationships:**
+**Key Events:**
 
-- **[[Aelorin Nightshade]]:** Eledyr respects and fears [[Aelorin Nightshade|Aelorin]], viewing him as both a mentor and an obstacle to his own ambitions. He bides his time, waiting for the perfect moment to strike.
-- **[[Qilynn Duskwhisper (Nicole)|Qilynn Duskwhisper]]:** Eledyr harbors a deep resentment towards Qilynn. He meticulously orchestrated her downfall and relishes in her subsequent disgrace. He remains wary of her potential for revenge.
-- **[[Yrene Shadowthorn]]:** Eledyr sees Yrene as a rival but also recognizes her usefulness. He is aware of her feelings for Qilynn and manipulates this knowledge to keep her off balance.
+- **Training Mission Humiliation:** [[Qilynn Duskwhisper (Nicole)|Qilynn]]'s casual criticism of his stealth skills created lasting resentment
+- **Successful Sabotage:** Orchestrated Qilynn's mission failure through careful manipulation of security arrangements
+- **Emissary Recruitment:** [[Valen Elderguard]] identified and recruited him using his Clasp connections
+- **Current Assignment:** Tasked with investigating sudden interest in ancient prophecy research
 
-**Abilities:**
+# Hidden Information
 
-- **Stealth and Infiltration:** Eledyr is a master of stealth, capable of moving silently and unseen. His training under [[Aelorin Nightshade|Aelorin]] has honed his skills to near perfection.
-- **Arcane Knowledge:** Eledyr has a rudimentary understanding of magic, enough to augment his physical abilities and enhance his stealth techniques.
-- **Manipulation and Deception:** Eledyr excels in manipulation and deception, using his sharp intellect to outwit and undermine his opponents.
+> [!secret]- DM Only
+> 
+> - **Secret motivations:**
+>     - Uses Emissary resources to advance within Clasp hierarchy
+>     - Plans to eventually overthrow [[Aelorin Nightshade]] using external support
+>     - Views current mission as opportunity to prove indispensability to both organizations
+>     - **Primary Goal:** Seeks to climb the ranks within the Clasp, ultimately aiming to usurp [[Aelorin Nightshade]]'s position
+>     - **Secondary Goal:** Holds personal vendetta against Qilynn Duskwhisper for perceived humiliation
+> - **Unknown connections:**
+>     - Reports directly to [[Valen Elderguard]] via coded communications
+>     - Has established academic credentials that can withstand scrutiny
+>     - Maintains emergency escape routes and false identities
+>     - **Secret Recruitment:** Was recruited by [[Valen Elderguard]] to use Clasp connections to help the [[Emissaries of the Sunfall]]
+> - **Future plans:** [[Eledyr's 3-Month Operation Checklist]]
+>     - Phase 1: Map all competing factions and their capabilities
+>     - Phase 2: Identify most vulnerable operations for sabotage/infiltration
+>     - Phase 3: Deploy to field operations to directly interfere with rivals
+>     - Long-term: Use success to demand higher position in Clasp leadership
+> - **Key Relationships:**
+>     - **[[Aelorin Nightshade]]:** Respects and fears him, viewing as both mentor and obstacle to ambitions
+>     - **[[Qilynn Duskwhisper (Nicole)]]:** Deep resentment, orchestrated her downfall, remains wary of revenge
+>     - **[[Yrene Shadowthorn]]:** Sees as rival but useful, manipulates her feelings for Qilynn to keep off balance
+> - **Abilities:**
+>     - **Stealth and Infiltration:** Master of stealth, training honed to near perfection under [[Aelorin Nightshade]]
+>     - **Arcane Knowledge:** Rudimentary magic understanding, augments physical abilities
+>     - **Manipulation and Deception:** Excels in using intellect to outwit and undermine opponents
+> - **Personality flaws:**
+>     - Underestimates opponents due to intellectual arrogance
+>     - Holds grudges far longer than strategically wise
+>     - Increasingly paranoid about exposure of dual loyalties
+> - **Combat capabilities:**
+>     - Master infiltrator with enhanced stealth magic
+>     - Prefers assassination and sabotage over direct confrontation
+>     - Well-equipped with Emissary resources and Clasp contacts
+> - **Plot Potential:**
+>     - Power struggle subplot within the Clasp
+>     - Central antagonist for Qilynn's revenge arc
+>     - Bridge between Clasp and Emissary faction conflicts
 
-**Plot Hooks:**
-
-- **Eledyr's Betrayal:** Eledyr's involvement in Qilynn's setup can serve as a central plot point, driving her quest for redemption and revenge. The players may uncover clues pointing to Eledyr, leading to a confrontation.
-- **Power Struggle:** Eledyr's ambition to overthrow [[Aelorin Nightshade|Aelorin]] can introduce a subplot of internal conflict within the Clasp, providing opportunities for the players to exploit or mitigate this tension.
-- **Hidden Agenda:** Eledyr's true motives and plans could be slowly revealed through interactions with the players, adding layers of intrigue and complexity to the campaign.
+# Connected Elements
+## NPCs
+```dataview
+LIST
+FROM #npc
+WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
+```
+## Places
+```dataview
+LIST
+FROM #location
+WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
+```
+## Items
+```dataview
+LIST
+FROM #artifact 
+WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
+```
+## Related Plot Threads
+```dataview
+LIST
+FROM #plot 
+WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
+```

@@ -28,7 +28,7 @@ Legend says this blade was forged through a collaboration between the elves of S
 
 ## Powers/Effects
 *Weapon (simple, dagger), legendary (requires Attunement by a character who also holds its matching scabbard)*
-blad  
+
 Category: Items
 Damage: 1d4+1
 Damage Type: Slashing
@@ -57,6 +57,7 @@ Proficiency with a dagger allows you to add your proficiency bonus to the attack
 > An Identify spell will only reveal the current magic properties and none of what may develop in the future. However, if the caster succeeds on a DC 20 arcana check while identifying, they will know that there is something else unique about the blade that is magically hidden from them and cannot be revealed by the spell.
 >
 >Progression depends on the skills of the wielder. As long as the character stays attuned to the Blade of Maroth Fenn and keeps it sheathed in its matching scabbard when not being used, the blade will gain the following additional properties each time the character’s proficiency bonus increases. At the DM’s discretion, additional properties may also be gained due to highly significant events in the character’s life.
+>
 >If the blade remains attuned but is somehow separated from its scabbard, the blade will lose one level of progression every five days they are apart until it reverts to its basic properties described above. Reuniting the blade with its scabbard will maintain the dagger at whatever level of progression it currently holds. Lost levels can only be regained through another increase in proficiency or significant life events (at DM’s discretion).
 >
 >Losing attunement will revert it immediately to an ordinary dagger for the player. If the player re-attunes after this, progression starts over, and any lost levels must be regained through additional increases in proficiency. Any character attuned to the blade when it is Awakened or higher will be aware of this risk.
