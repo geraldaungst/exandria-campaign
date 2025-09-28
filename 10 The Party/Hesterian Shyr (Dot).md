@@ -16,6 +16,137 @@ pasperc: 10
 role: Player
 status: Active
 ---
+# Character Overview
+
+Hesterian Shyr is a [[Hollow One]] who was murdered and brought back to life under mysterious circumstances. She seeks justice for her death and the wrongful imprisonment of an innocent man, while grappling with her undead nature and fragmented memories.
+
+# Background
+
+## Life Before Death
+
+Hesterian worked at [[Harmony Hall]] in [[Port Damali]] when it operated as [[Grisul Adder]]'s brothel. She had developed a relationship with another performer, [[Xanaphia Lothliss]], and they planned to escape together from their situation under the patronage system.
+
+## The Murder
+
+The full details of Hesterian's death can be found in [[Port Damali Murders]]. In summary:
+
+- [[Korfel Withrethin]], her patron, discovered their escape plan through Xanaphia's betrayal
+- Both women were murdered in a tavern room in [[Port Damali]]
+- Hesterian was brought back to life as a [[Hollow One]] with incomplete memories
+- Korfel framed an innocent stable boy, [[Rylan Estevez]], for the crime (detailed in [[Rylan Estevez Frame Job]])
+
+## Current Quest
+
+Hesterian knows her killer fled north, possibly to [[Zadash]], and she seeks justice. Her investigation has led her to express interest in infiltrating the [[Myriad]] criminal organization, though she doesn't yet know this will lead her directly to her murderer. See [[Hesterian Shyr's Infiltration]] for full plot details.
+
+## Family
+
+Hesterian has a brother named [[Melthes]] who she believes is studying magic. Unknown to her, [[The Capture of Melthes|Melthes was taken by the Cerberus Assembly]], creating a potential intersection between her personal quest and larger campaign events.
+
+## Mysterious Secret
+
+### The Stone of Memory Visions
+
+Hesterian experiences recurring dreams where an old stranger looks her dead in the eye, screams "Scourger!" at the top of their lungs, and then explodes into a column of flame.
+
+> [!secret]- Explanation (DM Only)
+> 
+> The vision is actually an echo of a memory contained in a [[stone-of-memory|Stone of Memory]] that Hesterian carries, which she pickpocketed from a former client. The client was a Volstrucker agent, and the stone contains memories related to the Cerberus Assembly:
+> 
+> **Memory of Ludinus Da'leth:** You are standing in a spacious, well-organized study, overwhelmed by the scent of old tomes and alchemical concoctions. Somehow you know this is the workshop of [[Evelia Fenzana]], one of Ludinus Da'leth's top researchers. Evelia is holding a battered and rusted artifact.
+> 
+> This memory may become relevant when Hesterian's quest intersects with Assembly-related plots, particularly through [[Cree Deeproots]]' background with the Assembly and potential connection to [[Melthes]].
+
+# Character Traits
+
+## Hollow One Nature
+
+As a Hollow One, Hesterian:
+
+- Remembers who killed her but not all the details of that night
+- Has gaps in her emotional responses and memories
+- Appears alive but with subtle signs of her undead nature
+- Struggles with questions of identity and purpose
+
+## Current Motivations
+
+1. **Justice for Herself:** Finding and confronting [[Korfel Withrethin]]
+2. **Justice for Others:** Freeing [[Rylan Estevez]] from wrongful imprisonment
+3. **Family Concerns:** Learning the truth about [[Melthes]]'s disappearance
+4. **Understanding:** Discovering the meaning behind her mysterious visions
+
+## Skills and Abilities
+
+- **Mastermind Rogue:** Skilled in deception, investigation, and social manipulation
+- **Criminal Background:** Understanding of underworld operations
+- **Performance:** Former entertainer with social skills
+- **Investigation:** Methodical approach to uncovering truth
+
+# Current Relationships
+
+## Allied NPCs
+
+- **[[Grisul Adder]]:** Former employer, source of information about events after her death
+- **[[Annah]]:** Fellow performer at Harmony Hall, potential ongoing contact
+
+## Target NPCs
+
+- **[[Korfel Withrethin]]:** Her murderer, now operating as "The Gentleman" in [[Zadash]]
+- **Unknown Myriad contacts:** Potential infiltration targets
+
+## Potential Allies
+
+- **[[Cree Deeproots]]:** Korfel's employee who may have connections to [[Melthes]] through Assembly background
+- **[[Rylan Estevez]]:** Wrongfully imprisoned victim who could become ally if freed
+
+# Connected Plot Threads
+
+## Primary Plot
+
+- **[[Hesterian Shyr's Infiltration]]:** Her quest to infiltrate the Myriad and find her killer
+
+## Related Plots
+
+- **[[The Capture of Melthes]]:** Her brother's fate with the Cerberus Assembly
+- **Justice for [[Rylan Estevez]]:** Freeing the wrongfully imprisoned stable boy
+- **[[stone-of-memory]] Mystery:** Understanding her visions and their connection to the Volstrucker
+
+## Future Intersections
+
+- **Assembly Opposition:** Potential alliance with others who oppose the Cerberus Assembly
+- **Criminal Justice:** Using Myriad infiltration for broader law enforcement goals
+- **Family Reunification:** Discovering and potentially rescuing [[Melthes]]
+
+# Items of Significance
+
+- **[[stone-of-memory]]:** Unknown source of her mysterious visions
+- **Evidence of [[Rylan Estevez Frame Job]]:** Information that could free an innocent man
+- **Personal effects from her former life:** Connections to [[Harmony Hall]] and [[Port Damali]]
+
+# Character Development Opportunities
+
+## Moral Complexity
+
+- Balancing personal revenge versus systematic justice
+- Deciding how far to go in criminal infiltration
+- Weighing individual versus group loyalties
+
+## Identity Questions
+
+- Accepting her nature as a [[Hollow One]]
+- Integrating fragmented memories with current goals
+- Defining justice in a morally complex world
+
+## Relationship Dynamics
+
+- Building trust with living companions despite undead nature
+- Navigating complex power dynamics in criminal organizations
+- Confronting people from her past life
+
+---
+
+_For detailed background events, see the connected atomic notes and plot threads linked throughout this document._
+
 ![[hesterian-token.png|right|200]] Pallid Elf Bard
 
 [Complete backstory here](https://docs.google.com/document/d/109vjUzyVcwu5tewMmHsuFFG6j3VoYXRjdbY-qQ2gkaU/edit)

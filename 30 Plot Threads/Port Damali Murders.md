@@ -7,18 +7,30 @@ tags:
 created: 2025-09-28
 context:
 ---
-
 # Core Information
 
 ## The Port Damali Murders
 
-### **The Setup**
+### **The Background Context**
 
-[[Korfel Withrethin]], a merchant with criminal ties who had purchased exclusive patronage of [[Hesterian Shyr (Dot)]] from [[Grisul Adder]]'s brothel, discovered that Hesterian planned to escape with her lover [[Xanaphia Lothliss]]. Xanaphia, jealous of Hesterian's patronage and wanting luxury for herself, betrayed the escape plan to Korfel in exchange for becoming his new patron.
+[[Korfel Withrethin]], a merchant with criminal ties, had purchased exclusive patronage of [[Hesterian Shyr (Dot)]] from [[Grisul Adder]]'s brothel for a substantial sum. Korfel was possessive and controlling, wanting sole ownership of Hesterian, which she deeply resented. The patronage system had created tension between Hesterian and her lover [[Xanaphia Lothliss]], as Xanaphia was jealous of the luxury and comfort that came with having a patron.
 
-### **The Plan**
+### **The Escape Plan**
 
-Xanaphia and Korfel devised a trap to draw Hesterian to a neutral location. Xanaphia told Hesterian she would wait at a tavern down the road from Korfel's home for a "last hurrah" celebration before their supposed escape. The plan was for Xanaphia to lure Hesterian to a room above the tavern where Korfel waited to exact revenge.
+In a fit of panic at the prospect of permanent ownership, Hesterian planned to escape with Xanaphia. She intended to sell expensive gifts from Korfel and use the money to travel to another city, creating new identities as traveling musicians. However, Xanaphia was reluctant to leave, coveting the luxury that patronage could provide.
+
+### **The Betrayal**
+
+Driven by jealousy and anger at Hesterian's willingness to "throw away" what she desperately wanted, Xanaphia betrayed the escape plan to Korfel. To avoid arousing suspicion about her own relationship with Hesterian, she lied and told Korfel that Hesterian was planning to flee with "one of the madam's stable boys" ([[Rylan Estevez]]).
+
+### **The Trap**
+
+Korfel and Xanaphia devised a plan to draw Hesterian to a neutral location where Korfel could exact revenge:
+
+- **The Cover Story:** Xanaphia would invite Hesterian for a "last hurrah" celebration at a tavern down the road from Korfel's home
+- **The Timing:** Korfel would pretend to be called away on business, providing cover for the supposed escape
+- **The Location:** A tavern where Xanaphia could lure Hesterian to a rented room above the main floor
+- **The Exchange:** In return for this betrayal, Xanaphia would receive Korfel's patronage
 
 ### **The Murders**
 
@@ -28,22 +40,27 @@ Xanaphia and Korfel devised a trap to draw Hesterian to a neutral location. Xana
 
 **What happened:**
 
-- Hesterian and Xanaphia met at the tavern and celebrated with drinks (paid for with money stolen from Korfel)
-- Both became heavily intoxicated and went upstairs to the rented room
-- Xanaphia had forgotten that Korfel was waiting upstairs
-- When both women entered the room "passionately engaged," Korfel realized he had been lied to about the nature of their relationship
-- In a rage at discovering Xanaphia was Hesterian's lover (not just an accomplice), Korfel attacked both women
+- Hesterian met Xanaphia at the tavern as planned
+- They celebrated with drinks paid for with money stolen from Korfel's gifts to Hesterian
+- Both became heavily intoxicated and went upstairs to the rented room to sleep
+- Xanaphia had become so intoxicated that she forgot Korfel was waiting upstairs
+- Korfel had grown angry and impatient while waiting
+- When both women entered the room "passionately engaged," Korfel was surprised and realized he had been lied to about the nature of their relationship
+- In a rage at discovering Xanaphia was actually Hesterian's lover (not just an accomplice helping her flee with a stable boy), Korfel attacked both women
 - He slashed Hesterian's throat with a knife
-- He beat Xanaphia in a fit of rage, accidentally killing her though he hadn't intended murder
+- He beat Xanaphia in a fit of rage, not intending to kill her but accidentally doing so out of spite
 - Korfel fled the scene, leaving the door open
 
-### **The Discovery**
+### **The Discovery and Resurrection**
 
-- The women were found by other tavern lodgers due to the open door
-- Another lodger with claimed magical abilities attempted to resurrect both women
-- Xanaphia could not be revived despite multiple attempts
-- Hesterian was successfully brought back, but as a [[Hollow One]] with incomplete memories
-- Hesterian remembers who killed her but not the angry words Korfel spoke during the attack
+- The women were found by other tavern lodgers because their door had been left open
+- Another lodger, who claimed to have magical abilities to raise the dead, attempted to save them
+- They were unable to revive Xanaphia despite trying multiple times
+- Hesterian was successfully brought back, but something went wrong in the resurrection
+- She awoke as a [[Hollow One]] with memories of her past life only partially intact
+- **What she remembers:** Who killed her, what her profession had been, who her family was, and who the dead woman lying near her was
+- **What she doesn't remember:** The angry words that Korfel spoke during his fit of rage, scolding both women for betraying him
+- She was left with a deep sense of anger and resentment for the man who killed both her and her lover on the night of their supposed escape
 
 ### **Immediate Aftermath**
 
@@ -94,6 +111,7 @@ This event is the central trauma in [[Hesterian Shyr (Dot)]]'s backstory and the
 # Connections
 
 ## Related Atomic Notes
+
 ```dataview
 LIST
 FROM #atomic
@@ -101,6 +119,7 @@ WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.fil
 ```
 
 ## Related NPCs
+
 ```dataview
 LIST
 FROM #npc 
@@ -108,6 +127,7 @@ WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.fil
 ```
 
 ## Related Plot Threads
+
 ```dataview
 LIST
 FROM #plot  
@@ -115,6 +135,7 @@ WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.fil
 ```
 
 ## Related Locations
+
 ```dataview
 LIST
 FROM #location 
@@ -122,6 +143,7 @@ WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.fil
 ```
 
 ## Related Items/Artifacts
+
 ```dataview
 LIST
 FROM #artifact 
