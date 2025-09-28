@@ -193,6 +193,62 @@ Lady Emer’s books consist mainly of tomes about religious and magical lore.
 ### Treasure
 Lady Emer’s desk holds hundreds of poorly written poems, twelve owlbear-feather quills, twelve griffon-feather quills, and inkpots with black, gold, green, and purple ink. The set of quills and inks is worth 50 gp. The desk drawers contain a disguise kit, a forgery kit, a set of mason’s tools, a poisoner’s kit, a set of thieves’ tools, and a pouch containing 3,130 gp. Lady Emer carries a key to the display cases in the grand salon (area E4).
 
+### Stone Chest
+
+> A rectangular stone chest sits prominently on a reinforced shelf, carved from the same dark stone as the keep's construction. The lid features an elaborate relief carving of Lady Emer's face in her current medusa form - serpentine hair writhing around a beautiful but cold visage. Her eyes are inlaid with polished obsidian stones that seem to gleam with inner light regardless of the room's illumination. The carving shows remarkable detail, from the scales on her snake-hair to the slight curve of her lips, as if she were about to speak.
+> 
+> Around the edge of the lid, carved in flowing Draconic script, are the words: _"Stone eyes see, but do stone ears hear?"_
+
+#### Mechanics
+
+**Lock Mechanism**:
+
+- Both obsidian eyes must be pressed simultaneously
+- The Draconic passphrase _"Stone hearts beat with temporal rhythm"_ must be spoken while pressing the eyes
+- The eyes require firm, deliberate pressure - a casual touch won't activate them
+
+**Discovery**:
+
+- **DC 12 Investigation**: Reveals the Draconic inscription around the lid's edge
+- **DC 15 Investigation**: Notices that the obsidian eyes can be depressed slightly, suggesting they're meant to be pressed
+- Anyone who has read Lady Emer's poetry and succeeds on a **DC 10 Intelligence check** recognizes the "stone" theme connection to her poems
+
+**Trap** (Wrong passphrase, no passphrase, or pressing eyes without speaking):
+
+#### Trap Activation
+
+> The obsidian eyes suddenly flash with brilliant light. The person touching the chest must immediately make a DC 15 Constitution saving throw. On a failure, gray stone begins creeping up their arms from where they touched the eyes, and they become paralyzed as partial petrification sets in.
+> 
+> Simultaneously, the carved mouth snaps open with an audible crack, revealing rows of stone teeth. A piercing, inhuman shriek erupts from the opening - a sound like grinding stone mixed with a serpent's hiss that seems to reverberate through your very bones.
+
+**Trap Effects**:
+
+- **Primary target**: DC 15 Constitution save or paralyzed for 1 minute (can repeat save at end of each turn)
+- **All creatures in room**: DC 13 Constitution save or stunned until end of their next turn
+- **Alert**: The shriek can be heard throughout the keep and will draw any remaining guardians
+
+#### Successful Opening
+
+> As you speak the Draconic phrase and press the obsidian eyes, they sink smoothly into the carved face with a soft _click_. The mouth curves into what might almost be a satisfied smile, and the lid swings open with a whisper of well-oiled hinges.
+> 
+> Inside, nestled in black velvet padding, lies a gray crystalline dodecahedron approximately eight inches across. The artifact pulses with a faint, undulating light that seems to shift and flow beneath its translucent surface. Even at rest, the crystal emanates an almost tangible sense of temporal weight - as if it exists slightly out of step with the normal flow of time.
+> 
+> Beneath the crystal, you can see the edge of leather-bound journal pages covered in Lady Emer's precise handwriting.
+
+**Contents**:
+
+- The [[luxon-beacon-egw|Luxon Beacon]]
+- Lady Emer's [[Lady Emer's Notes|research notes]] on the "Temporal Resonance Crystal"
+- A small silk pouch containing an emerald, a sapphire, and a black pearl, each worth 100 gp. This is her "emergency fund".
+
+#### DM Notes
+
+- The passphrase must be spoken in Draconic for the mechanism to work
+- Players can find the passphrase in Lady Emer's poetry collection scattered throughout her library
+- The "Stone eyes see, but do stone ears hear?" inscription serves as her personal mnemonic to remember the "Stone hearts beat with temporal rhythm" passphrase
+- If players attempt to break the chest open by force, treat it as AC 17, 50 hit points, immunity to poison and psychic damage
+- The trap resets after 24 hours if not properly opened
+
 ## E7. Parlor
 This area has the following features:
 - “Overstuffed armchairs sit among side tables set with vases holding roses.”
