@@ -1,3 +1,5 @@
+# Temporal Resonance Crystal
+
 ## Initial Discovery - Day 1
 
 Found the artifact among the planar debris recovered from the rift near Ashkeeper Peaks. The merchant claimed it came from "somewhere in the eastern wastes" but was vague about specifics. Dodecahedral in shape, approximately 8 inches across, made of some gray crystalline material that defies easy classification. When I first touched it, I experienced what I can only describe as temporal displacement - for a moment, I was simultaneously aware of myself performing this same examination yesterday, tomorrow, and in several alternate versions of now.
@@ -95,7 +97,7 @@ I should probably discontinue the experiments, but the potential applications ar
 
 But I suspect I need additional components to achieve anything beyond stabilization. The energy channeling element, whatever form it takes.
 
-**Note:** Must investigate whether the Cerberus Assembly has encountered similar artifacts in their excavations. The few references I've found to "temporal manipulation devices" suggest this technology predates the Calamity.
+**Note:** Must investigate whether the Cerberus Assembly has encountered similar artifacts in their excavations. It is entirely possible this technology is pre-Calamity in origin.
 
 ---
 

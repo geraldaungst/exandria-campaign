@@ -188,10 +188,10 @@ When fighting inside her lair, Lady Emer can take lair actions. On initiative co
 - Venom Shower. Black venom rains down in a 10-foot-radius, 40-foot-high cylinder centered on a point Emer can see within 90 feet of her. Each creature in that area must succeed on a DC 15 Constitution saving throw or be poisoned until the end of initiative count 20 on the next round.
 
 ### Books
-Lady Emer’s books consist mainly of tomes about religious and magical lore.
+Lady Emer’s books consist mainly of tomes about religious and magical lore. She also has several books full of her [[Lady Emer's Research Notes|research notes]]. Players who spend time reading and searching through her notes will get some useful information.
 
 ### Treasure
-Lady Emer’s desk holds hundreds of poorly written poems, twelve owlbear-feather quills, twelve griffon-feather quills, and inkpots with black, gold, green, and purple ink. The set of quills and inks is worth 50 gp. The desk drawers contain a disguise kit, a forgery kit, a set of mason’s tools, a poisoner’s kit, a set of thieves’ tools, and a pouch containing 3,130 gp. Lady Emer carries a key to the display cases in the grand salon (area E4).
+Lady Emer’s desk holds hundreds of [[Lady Emer's Poems|poorly written poems]], twelve owlbear-feather quills, twelve griffon-feather quills, and inkpots with black, gold, green, and purple ink. The set of quills and inks is worth 50 gp. The desk drawers contain a disguise kit, a forgery kit, a set of mason’s tools, a poisoner’s kit, a set of thieves’ tools, and a pouch containing 3,130 gp. Lady Emer carries a key to the display cases in the grand salon (area E4). The room also contains the stone chest described below.
 
 ### Stone Chest
 
