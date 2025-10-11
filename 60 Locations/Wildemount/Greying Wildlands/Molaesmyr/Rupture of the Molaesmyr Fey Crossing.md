@@ -3,7 +3,7 @@ processed: no
 aliases:
   - cataclysm
 tags:
-  - to-process
+
   - location
 ---
 Almost 300 years ago, at the height of [[Ruins of Molaesmyr|Molaesmyr]]'s grandeur, an elven sorcerer named [[Ilixidor Alo]] was exploring [[The Labyrinth]] beneath the tower of [[Caes Mosor (Historical)]] with the goal of expanding it and finding new opportunities. Ilixidor discovered a previously unknown Fey Crossing in an underground cavern which led to a similar cavern in the Feywild. The parallel location was hidden below ground in the Feywild making it an ideal way to travel there without being discovered by authorities on either plane. The caverns on the Fey side of the Crossing were beneath a thick jungle at the joining of two rivers.

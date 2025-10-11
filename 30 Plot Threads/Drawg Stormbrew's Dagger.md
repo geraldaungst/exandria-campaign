@@ -11,7 +11,7 @@ processed: no
 > - Stage: Ongoing
 > - Priority: Medium
 > - Key Players: [[Drawg Stormbrew (Brew)|Drawg]], [[Dreyara Drimvar|Dreyara]]
-> - Last Session: [[Session 28]]
+> - Last Session: [[Session 28 - Back at Harmony Hall]]
 > - Next Steps: Drawg confronts Dreyara
 
 # Overview

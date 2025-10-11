@@ -1,7 +1,7 @@
 ---
 processed: no
 tags:
-  - to-process
+
   - npc
 ---
 This is the full version. See [[Manifesto - Brief]] for a condensed version that Qalix often distributes to those he is trying to ally with.

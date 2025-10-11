@@ -1,9 +1,8 @@
 ---
-processed: no
+processed: yes
 aliases:
   - riftguard
 tags:
-  - to-process
   - npc
   - faction
 ---

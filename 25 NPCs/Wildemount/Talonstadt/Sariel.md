@@ -1,7 +1,7 @@
 ---
 processed: no
 tags:
-  - to-process
+
   - npc
 ---
 ![[sariel.jpeg|right|300]]

@@ -4,7 +4,7 @@ aliases:
   - triotta
   - thessaly
 tags:
-  - to-process
+
   - npc
 ---
 ![[triotta.png|right|300]]

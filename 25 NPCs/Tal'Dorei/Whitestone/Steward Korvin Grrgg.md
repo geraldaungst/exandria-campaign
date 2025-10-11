@@ -4,7 +4,7 @@ aliases:
   - Korvin
   - Grrgg
 tags:
-  - to-process
+
   - npc
 ---
 ## Appearance:

@@ -6,7 +6,7 @@ context:
 processed: no
 tags:
  - atomic
- - to-process
+
 ---
 # Core Information
 Aethor's primary research focuses on arcane refraction, a method for locating and assembling Lorestone fragments. His device uses prismatic and temporal elements to align chaotic energies with the order inherent in the fragments.

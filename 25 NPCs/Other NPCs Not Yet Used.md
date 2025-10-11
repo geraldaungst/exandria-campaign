@@ -1,7 +1,7 @@
 ---
 processed: no
 tags:
-  - to-process
+
   - npc
 ---
 Copy names to or from here when they are not used in other encounters.

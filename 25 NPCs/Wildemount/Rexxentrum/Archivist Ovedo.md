@@ -1,7 +1,7 @@
 ---
 processed: no
 tags:
-  - to-process
+
   - npc
 ---
 ![[ovedo.webp|right|300]]

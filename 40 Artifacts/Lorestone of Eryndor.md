@@ -43,13 +43,7 @@ first_appeared:
 
 ## Known Locations:
 
-- Shards 1-4: [[Lyren Willowwhisper]] of the [[Obsidian Echoforge]]
-- Shard 5: [[Archivist Ovedo]] at Rexxentrum Archive of the [[Cobalt Soul]]
-    - Ovedo is researching the shard and its powers.
-    - Ovedo knows of the existence of the Obsidian Echoforge, but has chosen not to let the group know that the Cobalt Soul has located this shard.
-- Shard 6: Recently discovered in Marquet, sought by [[Celdric Ambril]]. Currently in possession of [[Dreyara Drimvar]].
-- Shard 7: Brought back aboard the [[Consecution's Hope]] to Xhorhas. The map is in possession of [[Keldar Stonefoot]]. The shard was later acquired by an adult Black Dragon named [[Shoagragoth, The Acid Crown]], Tyrant of the Ebonglass. (Around level 12-14)
-- Shard 8: TBD (Around level 15-17)
+![[Lorestone Shard Status Tracker#Overview]]
 
 # Powers/Effects and Mechanics
 

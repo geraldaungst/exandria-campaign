@@ -3,10 +3,9 @@ type: location
 status: active
 region: Port Damali
 controlling_faction: Ilya the Sorceress
-processed: no
 tags:
- - location
- - to-process
+  - location
+processed: yes
 ---
 # Quick Reference
 > [!info] Essential Details

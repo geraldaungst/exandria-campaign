@@ -1,7 +1,7 @@
 ---
 processed: no
 tags:
-  - to-process
+
   - npc
 ---
 # Reclaiming the Glory of Draconia

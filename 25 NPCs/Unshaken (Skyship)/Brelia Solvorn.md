@@ -1,7 +1,7 @@
 ---
 processed: no
 tags:
-  - to-process
+
   - npc
 ---
 ![[brelia-solvorn.jpeg|right|300]]

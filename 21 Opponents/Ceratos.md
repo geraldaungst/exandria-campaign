@@ -5,7 +5,7 @@ xcssclasses:
 aliases:
   - Ceratos
 tags:
-  - to-process
+
   - npc
 ---
 ![[Ceratos.png|right|400]]

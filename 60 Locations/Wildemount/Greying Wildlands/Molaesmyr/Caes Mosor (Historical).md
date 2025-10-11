@@ -1,7 +1,7 @@
 ---
 processed: no
 tags:
-  - to-process
+
   - location
 ---
 Caes Mosor was the central tower of the elven city of [[Ruins of Molaesmyr|Molaesmyr]]. It was both the seat of government and the center of learning, housing a great library, a university, and the  Senate of [[Ruins of Molaesmyr|Molaesmyr]].

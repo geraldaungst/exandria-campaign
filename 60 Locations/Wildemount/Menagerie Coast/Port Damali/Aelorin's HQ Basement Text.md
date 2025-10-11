@@ -1,3 +1,6 @@
+---
+processed: yes
+---
 ## 4. Security Corridor
 
 > [!info]

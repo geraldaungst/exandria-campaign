@@ -8,7 +8,7 @@ tags:
   - lore
   - history
   - atomic
-  - to-process
+
 ---
 # Quick Reference
 > [!info] Essential Details

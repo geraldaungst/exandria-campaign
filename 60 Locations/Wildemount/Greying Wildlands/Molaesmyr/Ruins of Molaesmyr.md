@@ -3,7 +3,7 @@ processed: no
 aliases:
   - molaesmyr
 tags:
-  - to-process
+
   - location
 ---
 (Pronounced "mo-LAY-əs-meer")

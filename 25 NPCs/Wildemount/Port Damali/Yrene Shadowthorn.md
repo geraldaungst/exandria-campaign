@@ -3,7 +3,7 @@ processed: no
 aliases:
   - Yrene
 tags:
-  - to-process
+
   - npc
 ---
 ![[yrene-token.png|left|100]] **Species:** Elf  

@@ -5,7 +5,7 @@ plot_stage: upcoming/active/inactive/complete
 processed: no
 tags:
   - plot
-  - to-process
+
 ---
 # Quick Reference
 > [!info] Essential Details
@@ -13,7 +13,7 @@ tags:
 > - Priority: Medium
 > - Timeline: 
 > - Key Players: [[Drawg Stormbrew (Brew)|Drawg]]
-> - Last Session: [[Session 28]]
+> - Last Session: [[Session 28 - Back at Harmony Hall]]
 > - Next Steps: Leave for [[Cloudfang Keep]]
 
 # Overview

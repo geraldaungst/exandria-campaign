@@ -6,7 +6,7 @@ context:
 processed: no
 tags:
  - atomic
- - to-process
+
 ---
 # Core Information
 

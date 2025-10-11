@@ -3,9 +3,9 @@ type: location
 status: under construction
 region: The Crescents, Port Damali, Menagerie Coast
 controlling_faction: Temple of Moradin
-processed: yes
 tags:
- - location
+  - location
+processed: yes
 ---
 # Quick Reference
 > [!info] Essential Details

@@ -6,7 +6,7 @@ status: active
 processed: no
 tags:
   - atomic
-  - to-process
+
 ---
 
 > [!info]- Essential Details

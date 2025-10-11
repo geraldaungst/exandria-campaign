@@ -1,15 +1,14 @@
 ---
 type: location
-aliases: 
-status: 
-region: 
-controlling_faction: 
-last_visited: 
-first_appeared: 
+aliases:
+status:
+region:
+controlling_faction:
+last_visited:
+first_appeared:
 tags:
   - location
-  - to-process
-processed: no
+processed: yes
 ---
 # Quick Reference
 > [!info] Essential Details

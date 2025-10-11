@@ -1,3 +1,6 @@
+---
+processed: yes
+---
 ## 1. Main Shop
 
 Evaldo's Elegant Attire

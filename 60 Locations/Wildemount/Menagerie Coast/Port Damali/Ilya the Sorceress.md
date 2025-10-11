@@ -1,12 +1,11 @@
 ---
 type: npc
-faction: 
-location: 
+faction:
+location:
 status: active/inactive/deceased
-processed: no
 tags:
   - npc
-  - to-process
+processed: yes
 ---
 # Quick Reference
 > [!info] Essential Details

@@ -2,10 +2,10 @@
 type: note
 kind: fact/relationship
 created: 2025-01-09
-context: 
-processed: yes
+context:
 tags:
- - atomic
+  - atomic
+processed: yes
 ---
 # Core Information
 ## Key Info

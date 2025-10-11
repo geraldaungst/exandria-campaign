@@ -2,11 +2,10 @@
 type: note
 kind: fact/relationship
 created: 2024-12-22
-context: 
-processed: no
+context:
 tags:
- - atomic
- - to-process
+  - atomic
+processed: yes
 ---
 # Core Information
 ## Pudgy Pigeon Menu

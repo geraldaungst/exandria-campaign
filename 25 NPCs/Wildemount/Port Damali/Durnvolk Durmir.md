@@ -1,7 +1,7 @@
 ---
 processed: no
 tags:
-  - to-process
+
   - npc
 ---
 ![[durnvolk-durmir.jpeg|right|300]]

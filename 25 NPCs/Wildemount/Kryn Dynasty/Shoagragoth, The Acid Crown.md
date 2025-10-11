@@ -6,7 +6,7 @@ status: active/inactive/deceased
 processed: no
 tags:
   - npc
-  - to-process
+
 ---
 # Quick Reference
 

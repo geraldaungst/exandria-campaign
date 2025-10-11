@@ -4,7 +4,7 @@ plot_type: main
 plot_stage: active
 tags:
   - plot
-  - to-process
+
 processed: no
 ---
 # Quick Reference

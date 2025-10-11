@@ -2,12 +2,13 @@
 type: location
 status: active
 region: Port Damali, Menagerie Coast
-controlling_faction: [[Celdric Ambril]]
-processed: yes
+controlling_faction:
+  - - Celdric Ambril
 tags:
- - location
+  - location
 aliases:
- - Drowned Library
+  - Drowned Library
+processed: yes
 ---
 ![[celunors-collection.png|right|300]]
 

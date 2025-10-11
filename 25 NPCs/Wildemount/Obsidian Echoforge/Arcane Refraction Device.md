@@ -6,7 +6,7 @@ context:
 processed: no
 tags:
  - atomic
- - to-process
+
 ---
 # Core Information
 The device is a sophisticated mechanism that requires rare and bespoke components for the proper refraction and alignment of arcane energies. At its core lies the Arcanist's Prism, an artifact from the Age of Arcanum originally crafted to safely harness ley line powers.

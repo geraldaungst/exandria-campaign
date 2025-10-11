@@ -3,7 +3,7 @@ processed: no
 affiliations:
   - "[[Emissaries of the Sunfall]]"
 tags:
-  - to-process
+
   - npc
 ---
 

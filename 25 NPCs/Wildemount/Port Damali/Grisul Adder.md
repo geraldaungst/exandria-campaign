@@ -1,7 +1,7 @@
 ---
 processed: no
 tags:
-  - to-process
+
   - npc
 ---
 ![[grisul-adder.jpeg|right|300]]_Medium humanoid (goliath), Chaotic Good_

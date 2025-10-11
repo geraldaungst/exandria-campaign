@@ -1,5 +1,4 @@
 ---
-processed: yes
 aliases:
   - Coriander & Mallow
   - Coriander & Mallow Exchange Company
@@ -7,8 +6,9 @@ tags:
   - location
 type: location
 status: active/inactive
-region: 
+region:
 controlling_faction:
+processed: yes
 ---
 
 # Quick Reference

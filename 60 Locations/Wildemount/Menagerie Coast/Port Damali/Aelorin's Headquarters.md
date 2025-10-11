@@ -3,10 +3,9 @@ type: location
 status: active
 region: Port Damali
 controlling_faction: Myriad
-processed: no
 tags:
   - location
-  - to-process
+processed: yes
 ---
 # Quick Reference
 > [!info] Essential Details

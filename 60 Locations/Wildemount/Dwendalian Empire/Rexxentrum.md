@@ -1,9 +1,10 @@
 ---
 type: location
 status: active
-region: "Dwendalian Empire"
+region: Dwendalian Empire
 controlling_faction: none
-processed: pending
+processed:
+  - pending
 tags:
   - location
 ---

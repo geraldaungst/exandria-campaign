@@ -3,7 +3,7 @@ processed: no
 aliases:
   - Garnet
 tags:
-  - to-process
+
   - npc
 ---
 ![[garnet-thorne.jpeg|right|300]]

@@ -8,7 +8,7 @@ last_visited:
 first_appeared: 
 tags:
   - location
-  - to-process
+
 processed: no
 ---
 # Quick Reference

@@ -1,8 +1,7 @@
 ---
-processed: no
 tags:
-  - to-process
   - location
+processed: yes
 ---
 ## Exterior of the Shrine:
 

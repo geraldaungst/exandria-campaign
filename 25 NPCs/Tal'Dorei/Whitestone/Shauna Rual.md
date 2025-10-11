@@ -3,7 +3,7 @@ processed: no
 aliases:
   - Shauna
 tags:
-  - to-process
+
   - npc
 ---
 ![[shauna.png|right|300]]

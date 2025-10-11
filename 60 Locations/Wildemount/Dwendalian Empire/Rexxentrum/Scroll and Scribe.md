@@ -1,8 +1,7 @@
 ---
-processed: no
 tags:
-  - to-process
   - location
+processed: yes
 ---
 The shop is a haven for those who appreciate the art of writing. Rows of parchment, vellum, and fine paper greet you as you enter, while a variety of quills and inks are displayed on a large table in the center. The atmosphere is quiet, with the only sounds being the scratching of a quill and the occasional laughter of the tall half-orc woman sitting at a workbench in the back corner of the shop.
 

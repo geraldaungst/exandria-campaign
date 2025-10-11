@@ -6,7 +6,7 @@ context:
 processed: no
 tags:
  - atomic
- - to-process
+
 ---
 # Core Information
 - **Alyndra Sylverfrond**, a reserved half-elf sage, is journeying to [[Port Damali]] to decipher an ancient text she believes holds the key to a lost arcane tradition, embodying the quest for knowledge (Order).

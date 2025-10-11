@@ -1,7 +1,7 @@
 ---
 processed: no
 tags:
-  - to-process
+
   - npc
 ---
 The phenomenon that the [[Emissaries of the Sunfall]] and [[Vaud Qalix]] are attempting to construct with the [[Lorestone of Eryndor]].

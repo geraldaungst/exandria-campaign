@@ -1,11 +1,11 @@
 ---
-processed: pending
 tags:
   - location
 type: location
 status: active/inactive
-region: 
+region:
 controlling_faction:
+processed: yes
 ---
 
 # Quick Reference

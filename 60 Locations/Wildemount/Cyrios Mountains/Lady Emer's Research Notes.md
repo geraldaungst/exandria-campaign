@@ -1,3 +1,6 @@
+---
+processed: yes
+---
 All of the research notes below are scattered among Lady Emer's notebooks, papers, and books in her library. Searching the library for a time will reveal some of the information.
 
 A brief search (15 minutes or less) may locate two items. Roll an Investigation check. Use the list below to determine which items are found based on the roll.

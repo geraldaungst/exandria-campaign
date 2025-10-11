@@ -3,7 +3,7 @@ processed: no
 aliases:
   - dhazar
 tags:
-  - to-process
+
   - npc
 ---
 Bahamut's seven Chosen are mistakenly assumed to be all gold but only 3 are golds.  I believe I have mentioned the strongest of the golds to you both in and out of game, Dhazar Zarakas (real name in draconic is "Dhrazzarkrakazaanon") I wanted to give you the following link for some insight into who he is.  I do this so that if you ever wanted Bahamut to send a messenger who would elicit a 'reaction' from [[Drawg Stormbrew (Brew)|Drawg]] or [[Elby Cinderdash (Brew)|Elby]], you could.  For further insight, [[Drawg Stormbrew (Brew)|Drawg]] and Dhazar have a respectful but intense rivalry.  [[Elby Cinderdash (Brew)|Elby]] generally dislikes Dhazar. https://www.dndbeyond.com/sheet-pdfs/brewdawggaming_116903175.pdf

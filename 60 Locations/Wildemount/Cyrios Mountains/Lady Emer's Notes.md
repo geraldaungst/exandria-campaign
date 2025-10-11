@@ -1,3 +1,6 @@
+---
+processed: yes
+---
 # Temporal Resonance Crystal
 
 ## Initial Discovery - Day 1

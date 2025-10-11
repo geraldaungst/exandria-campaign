@@ -1,6 +1,5 @@
 ---
-processed: no
-tags: to-process
+processed: yes
 ---
 ![[What Radelia Knows#Core Information]]
 

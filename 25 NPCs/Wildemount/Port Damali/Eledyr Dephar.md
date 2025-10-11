@@ -2,7 +2,7 @@
 processed: no
 tags:
   - npc
-  - to-process
+
 type: npc
 faction:
   - - Emissaries of the Sunfall

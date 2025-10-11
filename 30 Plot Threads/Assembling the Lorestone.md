@@ -23,7 +23,7 @@ A three-way conflict over the [[Lorestone of Eryndor]], with competing factions 
 - Recent Events: None recorded yet
 - Active Elements: 
     - Multiple shards of the Lorestone scattered across the region
-    - ![[Lorestone of Eryndor#Known Locations]]
+    - ![[Lorestone Shard Status Tracker#Overview]]
 - Blocking Issues: 
     - Current locations of many shards unknown
     - Multiple competing factions involved

@@ -5,7 +5,7 @@ plot_stage: active
 processed: no
 tags:
   - plot
-  - to-process
+
 ---
 # Quick Reference
 > [!info] Essential Details

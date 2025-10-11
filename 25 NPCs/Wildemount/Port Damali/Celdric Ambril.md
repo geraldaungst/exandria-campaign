@@ -7,7 +7,7 @@ aliases:
 affiliations:
   - "[[Celunor’s Collection]]"
 tags:
-  - to-process
+
   - npc
 race: Human
 class:

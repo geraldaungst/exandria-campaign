@@ -7,7 +7,7 @@ processed: no
 tags:
   - item
   - artifact
-  - to-process
+
 ---
 # Quick Reference
 > [!info] Essential Details

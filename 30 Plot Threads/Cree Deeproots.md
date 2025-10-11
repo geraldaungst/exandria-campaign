@@ -5,7 +5,7 @@ created: 2025-09-28
 processed: no
 tags:
   - atomic
-  - to-process
+
 context:
 ---
 # Core Information

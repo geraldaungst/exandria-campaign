@@ -3,7 +3,7 @@ processed: no
 aliases:
   - Thyakas
 tags:
-  - to-process
+
   - npc
 ---
 ![[thyakas.png|right|300]]

@@ -1,7 +1,7 @@
 ---
 processed: no
 tags:
-  - to-process
+
   - npc
 ---
 ![[dalina-van-devries.png|right|300]]Skin Color: Dusky grey with a hint of green

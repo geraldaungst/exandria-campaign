@@ -4,7 +4,7 @@ aliases:
   - EOTS
   - Emissaries
 tags:
-  - to-process
+
   - npc
   - faction
 ---

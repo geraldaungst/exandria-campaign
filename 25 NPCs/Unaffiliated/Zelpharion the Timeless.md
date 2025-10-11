@@ -3,7 +3,7 @@ processed: no
 aliases:
   - zelpharion
 tags:
-  - to-process
+
   - npc
 ---
 **Zelpharion's Intention**

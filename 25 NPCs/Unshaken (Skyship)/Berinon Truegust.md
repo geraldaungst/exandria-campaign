@@ -5,7 +5,7 @@ aliases:
 affiliations:
   - "[[Emissaries of the Sunfall]]"
 tags:
-  - to-process
+
   - npc
 ---
 ![[berinon-truegust.png|right|200]]

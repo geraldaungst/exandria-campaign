@@ -8,7 +8,7 @@ status: active/inactive/deceased
 processed: no
 tags:
   - atomic
-  - to-process
+
 ---
 # Core Information
 ## Information revealed during [[Session 19 - Interrogating Radelia]]:

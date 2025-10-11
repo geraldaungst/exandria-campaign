@@ -3,9 +3,9 @@ type: location
 status: active
 region: Beaded Alley, Port Damali
 controlling_faction: Ryn Zethergyll and Carlon Talandro
-processed: yes
 tags:
- - location
+  - location
+processed: yes
 ---
 # Quick Reference
 > [!info] Essential Details
