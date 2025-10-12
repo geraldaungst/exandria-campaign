@@ -14,13 +14,15 @@ status: active/inactive/deceased
 
 > [!info] Essential Details
 > 
-> - Current Location: Rexxentrum (Scroll and Scribe, Valen's townhouse)
+> - Current Location: [[Rexxentrum]] ([[Scroll and Scribe]], Valen's townhouse)
 > - Key Motivation: Climb Clasp ranks while serving Emissary goals; personal vendetta against Qilynn
 > - Attitude toward party: Unknown/Hostile (unaware of party but opposes their likely allies)
 > - Critical Knowledge: [[What Eledyr Knows]]
 > - Status: Active intelligence operative conducting prophecy research
 
 # Description
+
+![[eledyr-dephar.jpeg|right|300]]
 
 **Species:** Half-Elf  
 **Age:** 24  
