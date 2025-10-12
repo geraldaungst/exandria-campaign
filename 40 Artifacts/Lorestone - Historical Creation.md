@@ -22,7 +22,7 @@ During the tumultuous events of the Calamity, the protective magic surrounding t
 
 Centuries later, a Firbolg scholar named [[Lys Willowwhisper]], driven by dreams of a shimmering disc and echoing chants of a prophecy, began an expedition to uncover lost artifacts of the pre-Calamity era. After years of piecing together fragmented tales and ancient maps, Lys, accompanied by a team of adventurers, managed to uncover the obscured entrance to what once was the Nightshade Caverns. They finally found the first fragment of the disc. Hungry for the rest of the prophecy and understanding its gravity, Lys began a relentless quest to find the other pieces.
 
-Over the next four hundred years, The Seekers of Eryndor's Echo (later known as the [[Obsidian Echoforge]]) grew in number and dedication. Lys' descendants, along with followers inspired by the tale, dedicated their lives to the search. They braved stormy seas, battled lurking sea creatures, and deciphered ancient clues. With each passing generation, they pieced together more of the prophecy.
+This expedition would begin what became known as the [[Legacy of the Seekers]], a 400+ year quest spanning multiple generations. Over the next four hundred years, The Seekers of Eryndor's Echo (later known as the [[Obsidian Echoforge]]) grew in number and dedication. Lys' descendants, along with followers inspired by the tale, dedicated their lives to the search. They braved stormy seas, battled lurking sea creatures, and deciphered ancient clues. With each passing generation, they pieced together more of the prophecy.
 
 # Source Context
 Brief note about where this information originated (session, NPC conversation, etc.)

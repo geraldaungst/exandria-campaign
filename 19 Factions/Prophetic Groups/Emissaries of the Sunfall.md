@@ -69,7 +69,7 @@ Regional organization with distributed network structure
 # Relationships
 ## Rivals
 - [[Obsidian Echoforge]] - Complex adversarial relationship
-  - Historical enemies after The Massacre
+  - Historical enemies after [[The Massacre]]
   - Current public stance of diplomatic cooperation
   - Secret continued opposition under [[Valen Elderguard]]
   - Most members unaware of leadership's true intentions
@@ -81,7 +81,7 @@ Regional organization with distributed network structure
 - Escalating tensions under Neris Solbane's leadership
 
 ### The Breaking Point
-- Massacre at [[Obsidian Echoforge]] gathering
+- [[The Massacre|Massacre]] at [[Obsidian Echoforge]] gathering
 - Neris Solbane led assault believing group was close to assembling major portion of artifacts
 - Resulted in deaths and loss of gathered shards
 - Created lasting enmity between organizations
@@ -94,15 +94,16 @@ Regional organization with distributed network structure
 
 # Historical Events
 ## The Massacre
-A defining moment in both organizations' histories:
-- Occurred during major [[Obsidian Echoforge]] gathering
-- Neris Solbane ordered attack based on intelligence about artifact assembly
-- Multiple casualties on both sides
-- Successfully scattered previously gathered artifacts
-- Led to significant internal strife within Emissaries
-  - Many members opposed the violence
-  - Some left the organization
-  - Created lasting divide between moderates and extremists
+![[The Massacre#Core Information#The Event]]
+
+### Impact on Emissaries of the Sunfall
+The Massacre had profound internal consequences:
+- Many members opposed the violence
+- Some left the organization in protest
+- Created lasting divide between moderates and extremists
+- Forced eventual leadership changes
+
+*For complete event details, see [[The Massacre]]*
 
 ## Post-Massacre Evolution
 - Initial period of open hostility

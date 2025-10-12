@@ -19,6 +19,8 @@ _Biography:_ Born amidst a time of change, Aelora was exposed to both the tradit
 
 **Aelora's Private Sentiments:**
 
+*(See also [[The Controversial Ascendancy of Lyren Willowwhisper]] and [[Legacy of the Seekers]])*
+
 While Aelora's public endorsement of [[Lyren Willowwhisper|Lyren]] was genuine, privately, she grapples with a mix of emotions. The weight of the Willowwhisper legacy, combined with the trauma of her near-death experience, has left her introspective. She does believe in [[Lyren Willowwhisper|Lyren]]'s capabilities and potential but occasionally feels a pang of loss, not for the leadership role, but for the active involvement in the quests she so cherished.
 
 Aelora also fears the shadow her presence casts. While she truly wishes for [[Lyren Willowwhisper|Lyren]] to grow into her role and make her own mark, she's aware that her own reputation and legacy can inadvertently overshadow [[Lyren Willowwhisper|Lyren]]'s efforts.

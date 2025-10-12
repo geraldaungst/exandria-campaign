@@ -18,7 +18,7 @@ processed: no
 
 # Overview
 - The Savalirwood was originally called the Veluthil Forest - a pristine elven forest in Northern Wildemount
-- The corruption spread from Molaesmyr's center in 585 PD, gradually transforming the forest into the cursed Savalirwood
+- The corruption spread from [[Rupture of the Molaesmyr Fey Crossing|Molaesmyr]]'s center in 585 PD, gradually transforming the forest into the cursed Savalirwood
 
 ## Key effects of the corruption:
 - Dense, sickly purple fog permeates the forest

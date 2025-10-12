@@ -10,7 +10,7 @@ tags:
 ---
 # Core Information
 
-_Research suggests that during the Molaesmyr catastrophe in 585 PD, elven scholars attempted to use a Lorestone shard to stabilize the ruptured Fey Crossing. Without knowledge of the proper stabilization requirements, their attempt created massive temporal chaos that amplified the disaster, turning a localized magical rupture into the widespread corruption that consumed the entire city and created the cursed Savalirwood._
+_Research suggests that during the [[Rupture of the Molaesmyr Fey Crossing|Molaesmyr catastrophe]] in 585 PD, elven scholars attempted to use a Lorestone shard to stabilize the ruptured Fey Crossing. Without knowledge of the proper stabilization requirements, their attempt created massive temporal chaos that amplified the disaster, turning a localized magical rupture into the widespread corruption that consumed the entire city and created the cursed Savalirwood._
 
 # Source Context
 Brief note about where this information originated (session, NPC conversation, etc.)

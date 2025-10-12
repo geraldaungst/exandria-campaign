@@ -16,6 +16,7 @@ processed: yes
 > - Status: Link to status note
 
 # Description
+![[Ilya the Sorcerer.jpeg|right|300]]
 Ilya was an adventurer sorcerress who quested Exandria before retiring to Port Damali. She has multiple items of her time adventuring, which she sells as well as maintaining a business: [[Ilya's Realm Shop]]. She is a 20th level sorceress with dragon's blood.
 
 ## Roleplay

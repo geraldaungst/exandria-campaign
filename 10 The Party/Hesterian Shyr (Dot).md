@@ -41,7 +41,7 @@ Hesterian knows her killer fled north, possibly to [[Zadash]], and she seeks jus
 
 ## Family
 
-Hesterian has a brother named [[Melthes]] who she believes is studying magic. Unknown to her, [[The Capture of Melthes|Melthes was taken by the Cerberus Assembly]], creating a potential intersection between her personal quest and larger campaign events.
+Hesterian has a brother named [[Melthes]] who she believes is studying magic. Unknown to her, [[The Capture of Melthes|Melthes was taken by the Cerberus Assembly]], creating a potential intersection between her [[Rescue Melthes|personal quest]] and larger campaign events.
 
 ## Mysterious Secret
 

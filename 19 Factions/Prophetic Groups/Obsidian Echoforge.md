@@ -69,6 +69,8 @@ Regional organization with multiple field agents and a permanent facility
 4. **Echo's Pursuit** - Emphasized the gravity and formality of their purpose
 5. **Obsidian Echoforge** - Current name, representing their mission to reconstruct the prophecy ("Obsidian" for the disc, "Echo" for [[Eryndor]]'s wisdom, "Forge" for restoration)
 
+For the complete 400-year history of how these name changes reflect the organization's evolution, see [[Legacy of the Seekers]].
+
 ## Traditions/Customs
 - Documentation and interpretation of fragments
 - Guardianship of recovered fragments
@@ -93,20 +95,12 @@ Regional organization with multiple field agents and a permanent facility
 
 # Historical Events
 ## The Massacre
-A devastating attack by the [[Emissaries of the Sunfall]] occurred during a gathering where members believed they would complete a major portion of the disc. The attack resulted in:
-- Loss of several key members
-- Scattering of previously gathered disc shards
-- Forced reorganization and renaming to Obsidian Echoforge
-- Shift in organizational focus to include active protection of fragments
+![[The Massacre#Core Information#The Event]]
+
+For more information see [[The Massacre]].
 
 ## Legacy of the Seekers
-Over 400 years of history including:
-- Exploration of stormy seas
-- Battles with sea creatures
-- Decipherment of ancient clues
-- Progressive recovery of prophecy fragments
-- Building a network of dedicated followers beyond the Willowwhisper family
-- Each discovered fragment treated as a symbol of hope and progress
+![[Legacy of the Seekers#Core Information]]
 
 # Future Developments
 ## Primary Objectives
