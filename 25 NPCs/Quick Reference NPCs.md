@@ -1,0 +1,359 @@
+---
+cssclasses: wide-table
+tags: npc-database
+---
+
+# Quick Reference NPCs Database
+
+**To add a new NPC:** Scroll to bottom, run Templater, insert Templates/New Quick NPC template, fill in fields, leave blank line between NPCs.
+
+**Query Examples:** See [[Quick NPC Queries]] for all query examples and instructions.
+
+---
+
+## NPC Entries
+
+- NPC:
+  - name:: Ivor Draxum
+  - race:: Dragonborn
+  - gender:: Male
+  - age:: 51
+  - category:: scholar
+  - occupation:: Historian
+  - appearance:: Scholarly demeanor
+  - items:: Historical texts
+  - personality:: Curious, methodical
+  - distinctive:: Always taking notes
+  - motivation:: Preserve history
+  - skill:: Ancient ruins, archaeological sites
+  - location:: Libraries, archives
+
+- NPC:
+  - name:: Dalkom Cragenmore
+  - race:: Dragonborn
+  - gender:: Nonbinary
+  - age:: 58
+  - category:: warrior
+  - occupation:: Warrior
+  - appearance:: Emerald green scales, curved black horns
+  - items:: Scale mail, ornate dragon medallion
+  - personality:: Proud, honorable
+  - distinctive:: Scales shimmer in sunlight
+  - motivation:: Clan honor
+  - skill:: Combat tactics, dragonborn customs
+  - location:: Training grounds, gates
+
+- NPC:
+  - name:: Nara Zenya
+  - race:: Dragonborn
+  - gender:: Female
+  - age:: 44
+  - category:: warrior
+  - occupation:: Warrior/Noble
+  - appearance:: Bronze scales, darker bronze crest
+  - items:: Emblazoned armor, dragon-headed staff (heirloom)
+  - personality:: Proud, honorable
+  - distinctive:: Staff never leaves her side
+  - motivation:: Family legacy
+  - skill:: Noble etiquette, heraldry
+  - location:: Manor houses, courts
+
+- NPC:
+  - name:: Borivik Greycastle
+  - race:: Dwarf
+  - gender:: Male
+  - age:: 142
+  - category:: merchant
+  - occupation:: Gem Merchant
+  - appearance:: Boisterous presence
+  - items:: Rare gemstones
+  - personality:: Boisterous, commercial
+  - distinctive:: Loud, infectious laugh
+  - motivation:: Wealth
+  - skill:: Gem appraisal, trade routes
+  - location:: Markets, merchant halls
+
+- NPC:
+  - name:: Leonas Forgefoot
+  - race:: Dwarf
+  - gender:: Male
+  - age:: 165
+  - category:: merchant
+  - occupation:: Smith/Artisan
+  - appearance:: Tanned skin, fiery red beard and hair (short)
+  - items:: Leather apron, wrought iron bracelet
+  - personality:: Practical, skilled craftsman
+  - distinctive:: Burns on both forearms
+  - motivation:: Perfect craft
+  - skill:: Metalworking, weapon repair
+  - location:: Forges, workshops
+
+- NPC:
+  - name:: Adano Cora
+  - race:: Earth Genasi
+  - gender:: Male
+  - age:: 39
+  - category:: wanderer
+  - occupation:: Wanderer/Hermit
+  - appearance:: Polished stone-like skin, short sandy hair
+  - items:: Earth-toned robes, dwarven leather belt
+  - personality:: Grounded, contemplative
+  - distinctive:: Moves with unnatural stillness
+  - motivation:: Inner peace
+  - skill:: Wilderness survival, meditation
+  - location:: Roads, wilderness
+
+- NPC:
+  - name:: Elara Dorne
+  - race:: Elf
+  - gender:: Female
+  - age:: 187
+  - category:: religious
+  - occupation:: Druid
+  - appearance:: Natural grace
+  - items:: Druidic focus
+  - personality:: Healing, balanced
+  - distinctive:: Small birds perch on her
+  - motivation:: Heal the land
+  - skill:: Herbalism, nature lore
+  - location:: Forests, sacred groves
+
+- NPC:
+  - name:: Umba Rofor
+  - race:: Elf
+  - gender:: Female
+  - age:: 213
+  - category:: noble
+  - occupation:: Noble
+  - appearance:: Pale luminescent silver skin, long silver hair
+  - items:: Elven silk gowns, silver circlet with amethyst
+  - personality:: Elegant, aristocratic
+  - distinctive:: Never touches common items
+  - motivation:: Maintain status
+  - skill:: Court politics, ancient bloodlines
+  - location:: Estates, social events
+
+- NPC:
+  - name:: Halia Vale
+  - race:: Gnome
+  - gender:: Female
+  - age:: 67
+  - category:: scholar
+  - occupation:: Inventor
+  - appearance:: Eager expression
+  - items:: Latest invention
+  - personality:: Inventive, enthusiastic
+  - distinctive:: Constantly tinkering
+  - motivation:: Innovation
+  - skill:: Mechanical devices, problem-solving
+  - location:: Workshops, fairs
+
+- NPC:
+  - name:: Nurgthord Requiess
+  - race:: Goliath
+  - gender:: Male
+  - age:: 47
+  - category:: warrior
+  - occupation:: Tribal Leader
+  - appearance:: Nearly 8 feet tall, pale gray skin with dark blue tattoos, bald with single braided lock, piercing blue eyes
+  - items:: Large carved bone necklace (leadership symbol)
+  - personality:: Commanding, traditional
+  - distinctive:: Deep, resonant voice
+  - motivation:: Tribe's honor
+  - skill:: Mountain survival, goliath customs
+  - location:: Mountains, camps
+
+- NPC:
+  - name:: Alyndra Sylverfrond
+  - race:: Half-Elf
+  - gender:: Female
+  - age:: 85
+  - category:: scholar
+  - occupation:: Sage
+  - appearance:: Reserved demeanor
+  - items:: Ancient text
+  - personality:: Reserved, scholarly
+  - distinctive:: Speaks in precise whispers
+  - motivation:: Unlock lost knowledge
+  - skill:: Arcane theory, ancient languages
+  - location:: Libraries, study halls
+
+- NPC:
+  - name:: Jesper Fellanea
+  - race:: Half-Elf
+  - gender:: Male
+  - age:: 23
+  - category:: wanderer
+  - occupation:: Traveler
+  - appearance:: Lean build, olive skin, shoulder-length brown hair
+  - items:: Leather attire, half-cloak with family crest
+  - personality:: Practical, heritage-conscious
+  - distinctive:: Touches family crest often
+  - motivation:: Find belonging
+  - skill:: Local geography, two cultures
+  - location:: Roads, inns
+
+- NPC:
+  - name:: Jenessa Sarthak
+  - race:: Half-Orc
+  - gender:: Female
+  - age:: 26
+  - category:: warrior
+  - occupation:: Ranger
+  - appearance:: Rugged, wild
+  - items:: Tracking equipment
+  - personality:: Skilled tracker, determined
+  - distinctive:: Moves silently through brush
+  - motivation:: Prove herself
+  - skill:: Tracking, animal handling
+  - location:: Wilderness, outskirts
+
+- NPC:
+  - name:: Barret Giliam
+  - race:: Halfling
+  - gender:: Male
+  - age:: 30
+  - category:: wanderer
+  - occupation:: Scout/Adventurer
+  - appearance:: Light brown skin, curly blond hair
+  - items:: Colorful clothes, oversized hats, mentor's sling
+  - personality:: Optimistic, skilled
+  - distinctive:: Collection of ridiculous hats
+  - motivation:: Adventure
+  - skill:: Scouting, sling accuracy
+  - location:: Roads, taverns
+
+- NPC:
+  - name:: Diego Mugmaster
+  - race:: Halfling
+  - gender:: Male
+  - age:: 45
+  - category:: service
+  - occupation:: Tavern Regular
+  - appearance:: Round face, curly brown hair, groomed beard
+  - items:: Colorful vests, large ornate "lucky" mug
+  - personality:: Jovial, superstitious
+  - distinctive:: Never seen without his mug
+  - motivation:: Good fortune
+  - skill:: Local gossip, tall tales
+  - location:: Taverns, alehouses
+
+- NPC:
+  - name:: Cassia Thornwild
+  - race:: Human
+  - gender:: Female
+  - age:: 29
+  - category:: performer
+  - occupation:: Bard
+  - appearance:: Mysterious aura
+  - items:: Musical instrument
+  - personality:: Artistic, enigmatic
+  - distinctive:: Haunting voice
+  - motivation:: Find the truth
+  - skill:: Performance, local legends
+  - location:: Theaters, taverns
+
+- NPC:
+  - name:: Vita Bensharo
+  - race:: Human
+  - gender:: Female
+  - age:: 23
+  - category:: scholar
+  - occupation:: Explorer/Cartographer
+  - appearance:: Dark brown skin, long flowing black hair
+  - items:: Vibrant flowing dresses, map satchel
+  - personality:: Adventurous, dreamer
+  - distinctive:: Always consulting her maps
+  - motivation:: See the world
+  - skill:: Cartography, navigation
+  - location:: Docks, map shops
+
+- NPC:
+  - name:: Flaviu Narrick
+  - race:: Human
+  - gender:: Female
+  - age:: 34
+  - category:: criminal
+  - occupation:: Guild Operative
+  - appearance:: Tanned skin, sharp features, short jet-black hair
+  - items:: Dark leathers, silver raven brooch
+  - personality:: Stealthy, secretive
+  - distinctive:: Observes before speaking
+  - motivation:: Complete the mission
+  - skill:: Stealth, guild contacts
+  - location:: Shadows, rooftops
+
+- NPC:
+  - name:: Sabine Tevura
+  - race:: Human
+  - gender:: Female
+  - age:: 28
+  - category:: law
+  - occupation:: Justicar/Enforcer
+  - appearance:: Tan complexion, short jet-black hair, athletic build
+  - items:: Reinforced leather jacket, mission pendant
+  - personality:: Determined, justice-driven
+  - distinctive:: Touches pendant before action
+  - motivation:: Justice
+  - skill:: Law enforcement, investigation
+  - location:: Guard posts, streets
+
+- NPC:
+  - name:: Gavriel Lightforge
+  - race:: Human
+  - gender:: Male
+  - age:: 38
+  - category:: religious
+  - occupation:: Paladin
+  - appearance:: Noble bearing
+  - items:: Holy symbol
+  - personality:: Righteous, determined
+  - distinctive:: Eyes glow faintly when angry
+  - motivation:: Destroy evil
+  - skill:: Divine magic, detecting lies
+  - location:: Temples, trouble spots
+
+- NPC:
+  - name:: Devon Ilda
+  - race:: Rock Gnome
+  - gender:: Female
+  - age:: 51
+  - category:: scholar
+  - occupation:: Inventor/Tinkerer
+  - appearance:: Deep grey skin, bright blue braided hair
+  - items:: Layered tunics with pockets, magnifying glass pendant
+  - personality:: Curious, inventive
+  - distinctive:: Examines everything closely
+  - motivation:: Understand how it works
+  - skill:: Engineering, trap disarming
+  - location:: Workshops, markets
+
+- NPC:
+  - name:: Fu'urmar Darabound
+  - race:: Tiefling
+  - gender:: Male
+  - age:: 27
+  - category:: scholar
+  - occupation:: Mage/Mystic
+  - appearance:: Deep red-gray skin, shadowy horns, long silver hair
+  - items:: Dark flowing robes, shadow-handled dagger
+  - personality:: Mysterious, contemplative
+  - distinctive:: Shadows cling to him
+  - motivation:: Master shadow magic
+  - skill:: Arcane knowledge, shadow lore
+  - location:: Towers, dark corners
+
+- NPC:
+  - name:: Drexel Vahn
+  - race:: Tiefling
+  - gender:: Male
+  - age:: 34
+  - category:: criminal
+  - occupation:: Rogue/Privateer
+  - appearance:: Roguish appearance
+  - items:: Bounty notice
+  - personality:: Determined, justice-seeking
+  - distinctive:: Always checking exits
+  - motivation:: Redemption
+  - skill:: Criminal underworld, sailing
+  - location:: Docks, seedy taverns
