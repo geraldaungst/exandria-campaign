@@ -12,6 +12,335 @@ IMPORTANT: This document contains notes written by players in our D&D campaign. 
 
 The notes below should be treated as player perceptions rather than definitive campaign truths.
 
+# July 20, 2025 \-  In full transparency…
+
+(Absent: Brent & Amanda Jean)
+
+- Start: Very high, very cold, light snow \- cliffs/rock faces to either side of the entry with the owl bear statues that are moving  
+- Lots of fighting and etc.   
+- Use the drift globe to distract the Owl Bears and sneak in through the door.  
+- Hesterian is invisible and so is Drawg  
+- The whole team gets through, Hesterian and Qilynn are poisoned by something in the room and continue through  
+- Drawg enters a room with a Medusa.   
+- Nothing happens other than Medusa invites them all to stay.  
+- Qilynn gets a corkscrew and some wine.   
+- 
+
+# July 6, 2025 \- Drawg’s Rope Adventures: Now With Extra Owlbears
+
+(Absent: Brent, Amanda Jean, Viv) 
+
+- Settled Funds (Drawg has money accounted for)  
+- Sorted Healing Potions of Many Kinds & Gems  
+- Dreyara \- Determined, but not high risk \- likely taking an easier path than us \- like the middle route.  
+- They have trouble with the trail, so they have to send Laucian with the cart to go the “medium” way.  
+- Drawg hauls the ladies up some difficult terrain with a rope.  
+- They come across a young storm giant  
+  - His name is **Thormun**  
+  - He invites them into the cave out of the increasing snow  
+  - The party follows into the cave \- he warns of ice pits that party could fall through.   
+  - He has been kicked out of the Storm Giant Community \- further north from our location. He questioned some traditions.  
+  - Thormund says the storms whisper of a shadow/darkness consuming everything.   
+  - He says he sees a darkness or a shadow that could consume everything and that Thormund believes that it will destroy everyone.   
+  - He thinks that the darkness is hungry \- a void \- rifts tearing open the sky and crawling through, being drawn to some beacon in the abyss.  
+  - Shards of something lost/scattered are the key \- he says he feels that in his bones.   
+  - Sees spires crumbling, groves whispering secrets, song \- could be a beginning or an end.   
+  - Thormun shares the song: “In the abyss, a beacon bright, its fate a mysterious stone.”   
+  - Echoes of powerful magic \- imbued with ancient wisdom or a prophecy  
+    - City of merchants spun by a man of fine taste who seeks knowledge but his methods are questionable: Look for the one below that deals in shadows  
+      - From the past? This feels more present \- of today. Feelings and impressions \- not an image.   
+      - Someone who does not work in the open \- or if they do, they also have a secret identity as something else. Someone who works around the law rather than within it.   
+    - Vessel \- sailing against the tide, **its name is “a cruel jest”** carries a burden of despair and a promise broken long ago. Its cargo is lost.   
+    - A scaled terror sweeps down upon the vessel, clutches it at its grasp and brings it to a place of darkness and decay in the mountains.   
+    - Scaled Terror \- Black as midnight \- soars thru the sky (Dragon?)   
+  - Giant says it definitely could be that (as far as a black dragon is concerned).  
+  - Thormun shares:   
+    - He came up from the direction we’re heading so he shares the following:   
+      - There are two routes-  the path splits and the route to the South continues through the peaks of the mountains and it is short but treacherous. The easier path is longer and curves north \- it descends to a warmer section of the mountains.   
+      - Believes both routes will get us there.   
+    - Thin wisp of smoke on the easy route \- looks like a campfire observed  
+  - Travel till noon where the team located a cold but recent campfire \- less than a day behind \- the fire builder was clearly not in a hurry which means they didn’t feel like they were being chased or followed.   
+  - Drawing sees signs of footprints that might meet the description of Dreyara \- Human, normal size, wearing boots \- half a day old  
+  - Path ahead \- loose stones- have to take an easier route  
+  - Northern \- higher elevations, easterly at the same elevation \- Take the shorter, icy path  
+  - Take a swift path?   
+- See Coldfang Keep \- About 15 minutes further, the path ends at a cliff that drops off.   
+- Ledge and a bridge with a road that leads to the castle \- we have to figure out how to descend cliff   
+- Feather falled to the path, sneaking closer  
+- Tony Hawk checks out the area around the castle/keep  
+  - Front door \- set of stone double doors flanked by two owlbear statues  
+  - Sees 4 live owl bears who are patrolling around the outside and 4 gryphons in the skies patrolling  
+    - They have keen vision and smell.  
+  - Castle with a gryphon nest in the tower.   
+- Hestarian uses invisibility to approach the doors \- though the 2 owlbear statues have sensed her (her rose perfume specifically).
+
+# June 8, 2025 \- Flesh Pockets and Silver Lockets and Fighting Elementals
+
+(Absent: Brent, Amanda Jean)   
+In addition to 85 Gold pieces, 30 silver, 50 copper (from last time): 
+
+- Coral and gold armband \- valuable and ‘very nice’ \- not magic \-   
+- 4 gemstones: Medium Gray, but very ‘pretty’ pearl, dark blue quartz, flat metallic teal stone, agate with spirals of blue and white and amber \- each one looks like 50-75 gp each if we get them appraised. \- not magic  
+- Vial w/ some sort of a potion \- sea green, foamy liquid \- transmutation magic  
+- Drawg got a Trident \- it is magical \- enchantment magic
+
+They go into the cave to continue investigating and find a ‘sprung trap’ with some scales.  
+5 Silver & 11 Copper in the side ‘room’ of the cave. Bone dice (Hestarian’s) & 2 bottles of wine (Bag of Holding) \- appear to be unopened and unbroken. 
+
+MAP (Qilynn) \- Small piece of parchment under a crate \- rolled up piece of parchment \- crude map of some outdoor area. Some specific formations on the map make it clear that this a map of this part of the mountains. The map has the current location of this cave and it has several roots/paths through the mountains \- all are in a coded writing. It is clearly a criminal group’s code. Map created by a criminal group of some kind.
+
+- Shows 3 main routes into and through the mountains from here:   
+  - Northern Route \= Safe Route \- windy and backtracks a bit (longer)  
+  - Eastern Route \= No marking \- appears direct/faster but uncertain  
+  - Southern Route \= Treacherous/rugged route \- very direct
+
+Down the other cave, they find a partially constructed altar across the water on the stone. It pings for “Detect Magic” and ID’s Evocation and Necromancy. These pings are coming from within the pile of totem and tablets, etc. 
+
+There is a giant monster clamshell thing. It is a giant turtle of death?  
+We talk it out of eating us. Good job. ThaaAaaaAnkkk YOuOuuuOuuu
+
+The alter was to U’ka’toa or whatever Vesla worshipped. Silver Locket, Waterlogged cloth pouch, small bottle that has the word ‘spices’ engraved on it, set of finely carved wooden figurines, small glass sphere, and a scrimshaw whale bone carving. 
+
+* Spice bottle \= necromancy \- Actually a potion of healing  
+* Glass sphere \= evocation \- Drift Globe \- 3” sphere of glass. Hestarian keeps it.  
+* Cloth pouch \- soaked through \- it has a ball of vegetation \- it was a collection of herbs and spices \- some of them, rare. If it could be dried out, it might be worth something.  
+* Locket \- has a pressed, dried flower inside of it. Pink Peony.  
+* Leather Pouch \- 345 GP, 10 Marquette GP, 15 EP \- some of the coins are different from any coins Popcorn has ever seen before. They appear to be from some exotic place.   
+  * These are from Marquette \- revolutionary coins \- they can be spent like regular coins, but also they could get more money from collectors. Approximately 10 GP.   
+* Trident is the Trident of Fish Command  
+* Wooden Figures \- Animal Shapes \- Fey Creatures \- appears to be a set with a similar style \- extremely well-crafted. Seraphina keeps them.
+
+In the water in the front chamber, the team finds 3 human bodies \- they probably owned the map.
+
+They choose the first day \- leaving in the afternoon, to go quickly on the rough route.  
+In investigating before they leave, they find fresher footprints heading north and east. Unclear if that means they are using the Northern or the Middle path. 
+
+We end up in a narrow pass with some rock walls.  1500 foot drop to the water on one side and a wall on the other side. There are two elementals fighting one another in our path \- air and earth elementals.
+
+Hestarian “Mother voices” them to let us through. 
+
+**7 Progress Points today**
+
+# June 1, 2025 \- See Monster? Sea Monster
+
+(Absent: Brent, Amanda Jean)
+
+Path leads into a narrow crevasse near a creek turning this into a mini canyon. Trail continues along the creek into the Crevasse which is where most people travel. The party goes this way and crosses the creek. 
+
+There is a cave near a spot where it looks like travelers stop occasionally \- several fires/camps there. Tony Hawk is sent into the cave \- he sees it is partially filled with water… etc Popcorn tells us that it looked like people were there recently and then in another room there were smashed crates and barrels. 
+
+A weird fog falls over the creek. The fog talks?
+
+Vesla Carr is the name of the fog which starts talking to Drawg when he swims across the river. Fishlike creature that says he seeks no trouble with our kind. This creature says its journey is blessed by the leviathan and that he’s travelled far from saltwaters. 
+
+- It is looking for lake waters with a shrine.  
+- Drawg has heard of these creatures before and he has never known them to be interested in intellectual things, so this is a little unusual. He knows that these creatures prefer saltwaters. He talks about Uk'otoa who is bad? This Uk’lotoa “sees your worth”   
+- There is much fighting of see monsters and a snake attack.  
+- Drawg chases Vesla.  
+- Vesla Creature has 85 Gold pieces, 30 silver, 50 copper  
+- Pick up inside the cave. 
+
+# May 18, 2025 \- Halflings, Death Days, and Bows
+
+(Absent: Viv, Brent, Amanda Jean)
+
+- Total journey will be 10-20 days  
+- It has been 2 days since Dreyara and team have left the safe house  
+- The draft horse is affectionately called “Lady Marshmallow”   
+- On Day three they meet Elderroot Whisperburrow   
+  - He will not let them pass  
+  - He will not help them move the tree in the road  
+  - They persuade him to let him through \- so they do and they do not disturb the flora or fauna on their way through.  
+- We’re now into Day 4  
+  - We go off the road to the East  
+  - They get to a river  
+- 12th Thunsheer \- Hesterian’s Fake Death Day 🎉  
+- Last travellers appear to have traveled like 12 days ago at their current location at the side of the river. Others have camped here.  
+- Hesterian is not excited to celebrate her fake death day.   
+- Hesterian and Drawg have a ❤️2❤️ about her death. She remembers the other girl (Xanaphia Lothliss—and they were 💖roommates💖) was also killed that night? Korfell Withethrin is the person who killed them.   
+- Drawg hears someone in the dark and investigates. Hestarian accompanies him \- stopping her music. They find a female halfling \- well dressed \- in the middle of nowhere \- Her name is Minae. She is heading to Tusela \- town west of here. She is very much lost and does not know how to get to Tuselae or whatever.  
+- Minae (Halfling) offers a story:   
+  - City of Zadash OR Fate of Draconia  
+  - Drawg opts for Draconia \- so they must enjoy it.  
+  - Draconia’s Doom  
+    - Floating Draconia \- Below them, the Ravenites were born without wings and had to maintain the society. Super organized and systematized.  
+    - Chromacon \- 5 Ancient Chromatic Dragons \- attacked \- the white Dragon attacked Draconia. Sounds really dramatic.   
+  - City of Zadash \- “Crown Jewel of the Dwendalian Empire” And it was fancy and full of stuff. Also \- they have tons of systems and super organized \- over organized… these dragonborn have a thing of organization.   
+    - “True stories behind official stories”  
+    - The official space was upstairs, but below it was full of labyrinth and sewers and etc. The Myriad made these places their place to do work. They were, like the Clasp, the mob \- manipulation and crime.  
+    - Water Genasi (species)? They messed up a few times and “The Gentleman” disappeared into the watery domains. He’s changed since he was caught \- more brutal than elegant. He may have been transformed by something \- he may have lost his mind or been possessed.   
+    - \*\*Dreyara is working with ‘the Gentleman.’   
+- Day 6  
+  - They crossed the river successfully  
+    - See Direwolves \- far off the path and to the right so the party goes around them without being seen.  
+    - At the finish \- they’re about one more day’s travel from entering the actual mountains.  
+- Day 7   
+  - Looks like storms to the West \- likely have a yucky time   
+    - Storm is bad \- so the horse goes into the tent  
+    - Drawg goes outside \- creates a lean-to  
+    - Not much progress this day \- get to restart after storm, but don’t get far  
+  - Drawg has a bow in his beard and is sleeping.   
+    - Awoken- but not startled. 
+
+# May 4, 2025 \- Death Chat, Drinks, and Desperate Flirting
+
+Q gets arrows  
+Team goes to Temple of Moradin to investigate their skull 
+
+- Barwynn (f) & Thorlynn (m) \- dwarves at the temple \- they agree to talk to undead (Barwynn) for 20 gp  
+- Qs we plan to ask:   
+  - 1 "What organization do you work for?"  
+    - Hesitates \- ‘grins’ \- Works for no organization \- is a mercenary  
+  - 2 “Who were you contracted to work for when you took over the skyship Unshaken?”   
+    - If I were to sell out my patrons, I would not make money \- I will not tell.  
+  - 3 "What is your relationship with Dreyara Drimvar?"   
+    - I have no relationship with that spy.   
+  - 4 “What else do you know about the spy named Dreyara?”   
+    - All that I know is that she wanted to make sure that one of the passengers would not reach Port Damali.  
+  - 5 "Where did you tell Truegust to take the Unshaken to?"   
+    - Directed to take the ship to Xhorhas
+
+“The Staff and Scimitar”- remember this locale from convo Laucian as a place Georgina was going to meet him \- Docks by the Larboard Light \- Dive Bar
+
+- They decide to go here \- varied crowd of folks enjoying a meal and a drink  
+- There are no empty tables, several seats at the bar \- long tables as a shared table  
+- Drawg approaches Urmrak and challenges him to an arm wrestling contest  
+- Qilynn wins a dart contest  
+- 
+
+Seraphina talks to Bexador \- blonde elf \- trying to pick him up. He was interested, but she walked away.
+
+"Never take love advice from a whore or an assassin." Hesterian Shyr, 835 PD
+
+- Acquired a covered cart and a hort \- 85 GP  
+- 2040gp left in group loot after card  
+- 
+
+\*Also \- Still need to connect Aethor and the Druids (Malachite Kord) for the Riftcage
+
+# April 27, 2025 \- Gift Horse, Drawg
+
+The ladies and Popcorn return to Harmony Hall after drinking to find Sargenta Barrelcrest who was hired by Drawg to be a guard and a bartender. Outside the place are “Huey and Luey” who are Paladins guarding the place. Sargenta is welcomed by Annah. 
+
+Sargenta makes herself at home. She gives Hesterian a box with an atomizer in it with a pink fluid in it \- a perfume of bewitching.
+
+They’ve received: 
+
+- Perfume  of Bewitching \- Hesterian  
+- IOU from Drawg for Popcorn (Cocoa Bazooka)   
+- 3 page letter for Seraphina  
+- Leather studded armor for Q w/ a 3 page letter as well
+
+Qilynn shares two names who are experts that Dreyara is working with (Experts to the North): 
+
+- Vaud Qalix  (Xarzith Kitril)  
+- Lady Emer  (Cyrios Mountains) \- Has Ilia’s Bro
+
+Seraphina shares: 
+
+- There’s a magic pearl and a monster who can turn you to stone  
+- We need to go up north  
+- Ilia’s brother is in trouble and we need to help  
+- Qilynn has an address \- Lady Emer is a bad person  
+- Cyrios mountains are more than a day away   
+- Ilia was an adventurer, but she’s retired. She has a magic shop, but it is high-end and doesn’t cater to the regular guy. 
+
+Drawg saw a clockmaker (shared) and weapons guy (shared) both are like a block or so away across the street. 
+
+- Team goes to Ilias, asks about things, then they talk to her about what he asked about. Ilia gives them something Drawg asked for. Ilias set aside a ring of warmth for him.  
+- Ilias is holding several things for him \- the custom items are still being crafted for him. 
+
+
+Drawg returns to Ilia’s place with the team present. 
+
+- He’s eating fried chicken  
+- There is a fancy flask he got for Popcorn \- it contains hot cocoa \- it is a flask of neverending hot cocoa for Popcorn. It can be used as a weapon \- to shoot hot chocolate at any unsuspecting foe. Decanter of Endless Cocoa.
+
+Team negotiated for $900 Platinum: 
+
+- Prayer Beads \= Popcorn  
+- Ring of Warmth  
+- Periapt of Health
+
+Hesterian \- Hairpins of Nightmares   
+I have two hairpins in my inventory (one was a gift).  But the one that is for enchanting is Hairpins of Nightmares (all caps).  
+	Phantasmal Force x 2 on one of them  
+Drawg \- Acid Breath Potion
+
+# April 12, 2025 \- Catch and Release (Except the Release Part)
+
+Current time \- an hour after sundown on the *longest day ever \- even with a ‘long rest’ nap*  
+Seraphina has a moment at the beginning \- a reflective moment. She believes that the blight that they’re seeing \- the rifts, the way that the dock workers were destroyed reminds her a lot of her friends ‘back home.’  (Reminds them that last time lore stones were reunited it destroyed the Elven city Molaesmyr.. And it never recovered.. It’s in ruins now… That’s what the druids are worried it is going to happen again). 
+
+- Returning to the Pudgy Pigeon, Author mentions that it is important that we retrieve the missing shard   
+- Drawg has hired “Ms. Barrelcrest” to guard Harmony Hall \- through the one dwarf guy.   
+- They explain the eye, emissaries of the sunfall, zarzith kitrill   
+- OEF already has 4  
+- They know of 2 others \- one was what they were expecting to find here  
+- The other one is the one they’re hoping to obtain from Port Zoon once they find the compass.   
+- We share the clay tablets with Aethor \- first on he knows, second one he doesn’t.  
+  - This is “immense/huge”  
+- Hesterian and Qilynn chase someone who appears to be a spy?   
+  - Not dressed to draw attention \- nothing distinctive  
+  - Whole team chases- we catch him, rope him, and gag him  
+- Dreyara \- All this guy knows is that she’s heading north with an artifact which is important to her employer and seeing the expert.   
+  - Some Dragonborn is her employer  
+- Qilynn decides to interrogate/torture this person further, at one point calling in Hesterian and Seraphina to assist   
+- Qilynn returns to the bar bloody, Drawg appears to storm out.
+
+# March 30, 2025 \- Cubed Creepiness and an Orgy of Eye Fucking 
+
+Port Zoon \- Keldar Stonefoot
+
+- Two Slaads (one red, one green) started causing a fuss. Team Third Act defeated them. Drawg was clawed and is concerned.   
+- They found the rift the creatures came through  
+- Qilynn retrieved Aethor & Calderax  
+  - Team shared that Malachite Cord \- Druids has rift cages with Aethor and Calderax  
+    - Drawg explained that Renneth would explain and we could help arrange for them to meet  
+    -   
+  - *Seraphine spent her short rest reflecting on home, noticing certain patterns*  
+  -   
+  - 
+
+# March 23, 2025 \- Drawg dances in the street while everyone falls off the roof. 
+
+They break into dwarf’s house:  
+Drawg gets cookies and does a dance in the street.
+
+They investigate the house: 
+
+- Appears abandoned  
+- Investigation:   
+  - Empty drawer  
+  - Gray flaky dust on the table \- crushed or crumbled clay  
+  - Floor board under rug is loose   
+  - Space beneath board is just a crawl space \- there is nothing under there.   
+  - Upstairs \- thick straw mattress w/ clean sheets and some clothes (dwarf size) in front bedroom, window is covered with a cloth much like downstairs. Tally marks on the wall in clusters of 7 \- there are 18 total tally marks \- Appears to be a spot next to the bed where there used to be something that is not there anymore.  
+  - Smaller back room on second floor \- probably a storage room which was repurposed into a planning space \- 4 nails on the wall where something was hung there \- a map or document of some kind which was removed. Small table with scattered papers. Empty sacks and a coiled rope on top of it. The papers are written in a code. A few that are not in code \- one is several sheets of paper that have notes about Obsidian Artifacts \- not much detail \- appears to be what they needed to recall \- like a list with no context. One note that has a piece of a message that says something about “taking the item to our expert.” Burlap sacks are non descript, one of them has the gray crushed clay \- two larger pieces of clay are in the sack. Half a foot long, 3-4” wide \- similar indentation to whatever was in the Calderax \- covered in “old elvish runes” \- clearly just a fragment of something.   
+    - One of them says “Beam Herald Hope’s Bright Sight” (Seraphina remembers it from a prophecy)  and “Loom in twilight’s reach as cosmic.”   
+    - They appear as though they both belong to a disk-shaped object.   
+  - Other things in room: Spot in wall that has a hidden compartment \- inside is a set of high quality thieves tools \- upgrade for Qilynn & faint chalk marks on the floor:  
+    - Appears that the chalk marks are the floor plan of a building \- clearly a floorplan of the basement of Aelorin’s hideout. Looks like someone tried to erase the chalk.  
+  - Kitchen: Inside the burlap sack is some hard bread, dried meat, small spice box \- also discover near the hearth a loose brick \- spice is black flaky powder (salt) and an orange powder (spicy, jurhasian fire root). Inside the space behind the brick is a small pouch: 6 silver pieces   
+    - The spices indicate Zarsith Kitrill \- capital city of the dragonborn culture after Draconia fell. 
+
+# March 16, 2025 \- Calderax was played. 
+
+They meet with the Zhelezo Jhelezo they know \- Briarfell. Aethor is there.
+
+- One of their operatives was supposed to pick it up \- Calderax was supposed to pick it up. Ship’s captain says he picked up the shard, had the correct papers to collect it, left with it, and never met Aethor.   
+- The ship’s crew is certain that the artifact caused the rift.   
+  - Aethor thinks it isn’t possible, but the rift appeared after the artifact was delivered.  
+  - “No connection that we’re aware of…” regarding the rift and the shards.  
+- They meet up w/ Calderax \- Drawg & Qilynn go with him to his room where he discovers the shard is missing.   
+- Find out that Calderax was ‘seeing’ Dreyara who likely framed him.   
+- The Gentleman \- one of the Myriad Crime bosses in Zadash   
+- Dreyara \- Calderax usually met with her alone \- doesn’t necessarily know all her associations  
+  - She hung out with a dwarf occasionally \- Brunhilda
+
+Calderax agrees not to tell Aelorin  
+Eledyr \- sent to Zadash
+
 # March 8, 2025- AKA \- The 4th of Thunsheer {#march-8,-2025--aka---the-4th-of-thunsheer}
 
 Escaped the dungeon even though Drawg’s stealth is middling at best.  
