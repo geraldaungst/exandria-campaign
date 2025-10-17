@@ -31,9 +31,9 @@ The monastery sits at high altitude in the Cyrios Mountains, where the air is th
 
 ### Constructed vs. Natural Areas
 
-**Worked Stone Sections** (Areas 1-9, 16, 21): These chambers feature smooth walls, level floors (aside from the slight slope), and precise stonework. Surfaces are cold to the touch but dry. Sound carries normally but seems muffled by the stone.
+**Worked Stone Sections** (Areas 1-9, 16-17): These chambers feature smooth walls, level floors (aside from the slight slope), and precise stonework. Surfaces are cold to the touch but dry. Sound carries normally but seems muffled by the stone.
 
-**Natural Cave Sections** (Areas 10-15, 17-20): These areas follow irregular contours with varying ceiling heights, natural rock formations, and uneven surfaces. The stone here is rougher, sometimes damp with condensation, and creates interesting acoustic effects - whispers may echo unexpectedly while shouts might be absorbed entirely.
+**Natural Cave Sections** (Areas 10-15, 18-21): These areas follow irregular contours with varying ceiling heights, natural rock formations, and uneven surfaces. The stone here is rougher, sometimes damp with condensation, and creates interesting acoustic effects - whispers may echo unexpectedly while shouts might be absorbed entirely.
 
 ### Adventure Hooks
 
@@ -49,19 +49,17 @@ The monastery sits at high altitude in the Cyrios Mountains, where the air is th
 
 ### Discovery
 
-A recent avalanche has cleared centuries of accumulated rockfall and snow, revealing a **rectangular opening** (5 feet wide, 8 feet tall) carved directly into the mountain face. The opening appears artificial, with smooth stone edges that show tool marks from long ago.
+A recent avalanche has cleared centuries of accumulated rockfall and snow, revealing a **rectangular opening** (5 feet wide, 10 feet tall) carved directly into the mountain face. The opening appears artificial, with smooth stone edges that show tool marks from long ago.
 
-**Investigation (DC 15)**: The tool marks are consistent with firbolg stoneworking techniques. The passage extends into darkness beyond the reach of normal light.
-
-**Survival (DC 12)**: The avalanche occurred recently - within the past few weeks. Animal tracks around the entrance suggest local wildlife is avoiding the area.
+**Survival:
+- **(DC 12)**: The avalanche occurred recently - within the past few weeks.
+- **(DC 18)** Animal tracks around the entrance suggest local wildlife is avoiding the area.
 
 ### The Entrance Passage
 
 A 30-foot corridor slopes gently downward into the mountain. The walls show ancient chisel marks and are carved from solid granite. Halfway down the passage, keen-eyed characters notice:
 
-**Perception (DC 14)**: Faint scratch marks on the walls at shoulder height - too regular to be natural. These are territorial markings left by phase spiders.
-
-**Arcana (DC 16)**: The air here shimmers occasionally, suggesting weak points between the Material and Ethereal planes.
+**Arcana (DC 16)**: The air here shimmers occasionally.
 
 ---
 
@@ -73,13 +71,11 @@ _Transition from surface to monastery proper_
 
 ### Description
 
-> The sloping entrance passage ends at a carved stone stairway that descends 20 feet deeper into the mountain. The steps are wide and deep, clearly sized for larger inhabitants, but manageable for most humanoids. Ancient iron torch brackets line the walls, their metal darkened with age. The air grows noticeably cooler as you descend and carries a faint metallic taste.
+> The sloping entrance passage ends at a carved stone stairway that descends 20 feet deeper into the mountain. The steps are higher and deeper than typical. Ancient iron torch brackets line the walls every few feet, their metal darkened with age. The air is frigid and carries a faint metallic odor.
 
 ### Features
 
 - **Firbolg Construction**: The stairs show excellent stonework but are sized for Large creatures
-- **Dimensional Resonance**: Magic items begin to glow faintly here
-- **Hidden Observation**: Phase spiders in Areas 10-12 may watch newcomers from the Ethereal Plane
 
 ---
 
@@ -89,22 +85,21 @@ _Formal entrance for guests and ceremonies_
 
 ### Description
 
-> This rectangular chamber spans 20 by 30 feet with smooth granite walls rising to a 13-foot ceiling. Stone benches line the long walls, sized larger than typical human furniture. Several alcoves hold the remnants of what might once have been ceremonial items: wooden bowls darkened with age, tarnished metal implements, and cloth that appears intact but looks brittle. Doorways lead deeper into the complex.
+> This rectangular chamber spans 25 by 25 feet with smooth granite walls rising to a 13-foot ceiling. Large stone benches line the long walls, and four large stone tables sit in the center of the room. Each table is draped with a cloth covering, and you can see remnants of what might once have been ceremonial items: wooden bowls darkened with age and tarnished metal implements. Each wall has a large door in the center.
 
 ### Features
 
 - **Stone Benches**: Carved for larger inhabitants (Medium creatures sit normally, Small creatures need to climb up)
-- **Ceremonial Alcoves**: Contain remarkably well-preserved wooden bowls (darkened with age but intact), metal implements with only light tarnish, and ceremonial cloth that is intact but brittle to the touch
-- **Construction**: _[Worked stone - carved by the original inhabitants]_
+- **Storage Room**: Small room to the east contains remarkably well-preserved wooden bowls (darkened with age but intact), metal implements with only light tarnish, and ceremonial cloth that is intact but brittle to the touch
 
 **DM Notes**:
 
-- **Dimensional Instability**: Magic items glow faintly here; spells with random effects (like _Wild Magic_) have a 10% chance of triggering unusual results
+- **Dimensional Instability**: spells with random effects (like _Wild Magic_) have a 10% chance of triggering unusual results or attracting **1d3 phase spiders** that are watching from the Ethereal Plane
 - **Cultural Clues**: The oversized furniture suggests the original inhabitants were larger than typical humanoids (firbolgs)
 
 ### Hidden Elements
 
-**Investigation (DC 18)**: One alcove contains a **prayer book** with pages that have become brittle and yellow with age but remain legible. Written in Giant script, it describes rituals for "cleansing dimensional corruption" and "communion with ethereal spirits." (Requires careful handling - rough treatment may damage pages)
+**Investigation (DC 18)**: The storage room contains a **prayer book** with pages that have become brittle and yellow with age but remain legible. Written in Giant script, it describes rituals for "cleansing dimensional corruption" and "communion with ethereal spirits." (Requires careful handling - rough treatment may damage pages)
 
 **DM Notes**: This is a firbolg prayer book that reveals the monastery's original purpose.
 
@@ -122,11 +117,11 @@ _Communal sleeping quarters_
 
 ### Description
 
-> This large rectangular chamber served as sleeping quarters. Stone sleeping platforms line the walls, each with carved storage niches and simple desks. The beds are unusually large but could accommodate smaller occupants. Personal belongings remain scattered about: clothing, simple tools, and various personal items that appear remarkably well-preserved. The chamber could have housed 15-20 occupants comfortably.
+> This large square chamber appears to have served as sleeping quarters. Stone  platforms line the walls, each with carved storage niches beneath, and a small desk. Personal belongings remain scattered about: clothing, simple tools, and various personal items that appear remarkably well-preserved.
 
 ### Features
 
-- **Sleeping Platforms**: 18 stone beds with integrated storage
+- **Sleeping Platforms**: 7 stone beds with integrated storage
 - **Personal Effects**: Clothing, simple tools, and personal items remain remarkably well-preserved
 - **Central Brazier**: A large fire bowl provided heat for the chamber (cold ashes remain)
 - **Construction**: _[Worked stone - purpose-built dormitory]_
@@ -135,9 +130,9 @@ _Communal sleeping quarters_
 
 - **Personal Journals** (3): Personal accounts detailing observations of unusual creatures, written in Giant script
 - **Simple Tools**: Basic implements, rope, and survival gear worth 25 gp total
-- **Hidden Compartment** (Investigation DC 16): Behind one bed, contains 100 gp in ancient coins and a **+1 Dagger** with runic engravings
+- **Hidden Compartment** (Investigation DC 16): Behind one bed, contains 100 gp in ancient coins and a **Ring of Obscuring**
 
-**DM Notes**: The journals detail early firbolg observations of phase spider behavior. The dagger has firbolg runes.
+**DM Notes**: The journals detail early firbolg observations of phase spider behavior.
 
 ---
 
@@ -147,11 +142,11 @@ _Junction between monastery sections_
 
 ### Description
 
-> This wide, open area serves as the intersection of two major corridors. The ceiling rises higher here - about 15 feet - and the space feels more like a natural cavern that has been smoothed and widened. Stone markers carved with symbols in Giant script point toward different areas: "Living Quarters," "Workshop," "Sacred Spaces," and "Research Areas."
+> This wide, open area serves as the intersection of two major corridors. The ceiling rises higher here - about 15 feet - and the space feels more like a natural cavern that has been smoothed and widened. Stone markers in the floor are carved with large symbols.
 
 ### Features
 
-- **Directional Markers**: Stone signs indicating "Living Quarters," "Workshop," "Sacred Spaces," and "Research Areas"
+- **Directional Markers**: Stone markers in the floor, written in Giant, indicating "Living Quarters," "Workshop," "Sacred Spaces," and "Research Areas"
 - **Natural Acoustics**: Sounds carry well here, making it easy to hear activity in connected areas
 - **Traffic Hub**: All major monastery areas can be reached from here
 - **Construction**: _[Combination - natural space enhanced with worked stone]_
@@ -164,20 +159,20 @@ _Medical treatment room_
 
 ### Description
 
-> This small chamber (10 by 15 feet) appears to have served a medical purpose. Stone shelves line the walls, holding ceramic jars, metal instruments, and bundles of dried herbs. A central table carved from a single piece of granite dominates the space. Most notably, a rough tunnel has been carved through the back wall - clearly different workmanship than the room itself, as the passage is only 4 feet high and shows claw marks.
+> This small chamber (10 by 15 feet) appears to have served a medical purpose. Stone shelves line the walls, holding ceramic jars, metal instruments, and bundles of dried herbs. A central table carved from a single piece of granite dominates the space. Most notably, a rough tunnel has been carved through the back corner - clearly different workmanship than the room itself, as the passage is only 4 feet high and shows claw marks.
 
 ### Features
 
 - **Medical Supplies**: Many herbs and simple medicines remain potent after centuries
 - **Treatment Table**: Stone surface with restraint points for treating difficult patients
-- **Spider Tunnel**: Leads to Area 12, dug by phase spiders after the monastery's abandonment
+- **Spider Tunnel**: Leads to Areas 11 & 12, dug by phase spiders after the monastery's abandonment
 - **Construction**: _[Worked stone with recent natural modification]_
 
 ### Treasure
 
 - **75 gp** worth of preserved medicinal herbs (still potent after centuries)
 - **Healer's Kit** (fully stocked)
-- **Dimensional Anchor Scroll** (emergency containment measure - parchment yellowed but magic intact)
+- **Death Ward** spell scroll
 
 ### Encounters
 
