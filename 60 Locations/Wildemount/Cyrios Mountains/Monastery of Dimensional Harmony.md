@@ -185,7 +185,7 @@ _Communal gathering space_
 
 ### Description
 
-> This long L-shaped chamber appears to have served multiple purposes.Two large stone tables appear in the northern portion. Each table has a large grid carved into the surface. On the eastern wall is a long stone shelving unit with stacks of bowls, plates, and utensils. A single pottery jug sits on the top shelf. In the southern leg of the L are three open alcoves. They are empty save for one round stone cylinder and a well-preserved wooden shovel. 
+> This L-shaped chamber appears to have served multiple purposes.Two large stone tables appear in the northern portion. Each table has a large grid carved into the surface. On the eastern wall is a long stone shelving unit with stacks of bowls, plates, and utensils. A single pottery jug sits on the top shelf. In the southern leg of the L are three open alcoves. They are empty save for one round stone cylinder and a well-preserved wooden shovel. 
 
 ### Features
 
