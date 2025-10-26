@@ -57,7 +57,7 @@ A recent avalanche has cleared centuries of accumulated rockfall and snow, revea
 
 ### The Entrance Passage
 
-A 30-foot corridor slopes gently downward into the mountain. The walls show ancient chisel marks and are carved from solid granite. Halfway down the passage, keen-eyed characters notice:
+A 130-foot winding passage slopes gently downward into the mountain. The walls are mostly natural, but show ancient chisel marks where walls were smoothed and narrow areas were widened. Ancient iron torch sconces are anchored into the walls on alternating sides every 15 or 20 feet. The floor is paved with stone tiles. Halfway down the passage, keen-eyed characters notice:
 
 **Arcana (DC 16)**: The air here shimmers occasionally.
 
@@ -71,7 +71,7 @@ _Transition from surface to monastery proper_
 
 ### Description
 
-> The sloping entrance passage ends at a carved stone stairway that descends 20 feet deeper into the mountain. The steps are higher and deeper than typical. Ancient iron torch brackets line the walls every few feet, their metal darkened with age. The air is frigid and carries a faint metallic odor.
+> The sloping entrance passage ends at a carved stone stairway that descends 20 feet deeper into the mountain. The steps are unexpectedly tall and deep. More ancient iron torch brackets line the walls every few feet, their metal darkened with age. The air is frigid and carries a faint metallic odor.
 
 ### Features
 
@@ -148,7 +148,6 @@ _Junction between monastery sections_
 
 - **Directional Markers**: Stone markers in the floor, written in Giant, indicating "Living Quarters," "Workshop," "Sacred Spaces," and "Research Areas"
 - **Natural Acoustics**: Sounds carry well here, making it easy to hear activity in connected areas
-- **Traffic Hub**: All major monastery areas can be reached from here
 - **Construction**: _[Combination - natural space enhanced with worked stone]_
 
 ---
@@ -186,13 +185,12 @@ _Communal gathering space_
 
 ### Description
 
-> This long chamber served multiple purposes. Large stone tables with attached benches could seat a sizable community for meals. Game boards carved into some table surfaces suggest this space also served for recreation and leisure. A massive stone fireplace dominates one wall, with a chimney that disappears into the mountain above. Storage alcoves hold dishes, game pieces, and various communal items.
+> This long L-shaped chamber appears to have served multiple purposes.Two large stone tables appear in the northern portion. Each table has a large grid carved into the surface. On the eastern wall is a long stone shelving unit with stacks of bowls, plates, and utensils. A single pottery jug sits on the top shelf. In the southern leg of the L are three open alcoves. They are empty save for one round stone cylinder and a well-preserved wooden shovel. 
 
 ### Features
 
 - **Communal Tables**: Stone furniture sized for firbolgs but usable by all
 - **Game Surfaces**: Stone game boards for various strategy games carved into tables
-- **Great Fireplace**: Large enough to heat the entire chamber and cook for groups
 - **Recreation Storage**: Wooden game pieces, simple instruments, and books
 - **Construction**: _[Worked stone - purpose-built community space]_
 
@@ -200,45 +198,24 @@ _Communal gathering space_
 
 **Investigation (DC 14)**: Game pieces and worn table surfaces suggest this was a lively, social community before the tragedy.
 
----
-
-## Area 7: Storage
-
-_General supplies and equipment_
-
-### Description
-
-> This chamber served as primary storage. Stone shelves and wooden crates contain a variety of supplies: tools, materials, clothing, and ceremonial items. Everything is methodically organized with clearly labeled areas marked in Giant script. The organization suggests the inhabitants were methodical and well-prepared.
-
-### Features
-
-- **Organized Storage**: Clearly labeled areas in Giant script
-- **Tool Collection**: Stoneworking tools, rope, climbing gear, and basic equipment
-- **Material Stockpile**: Raw materials for construction and crafting projects
-- **Emergency Supplies**: Dried food, water containers, and survival gear
-- **Construction**: _[Worked stone with wooden shelving]_
-
 ### Treasure
+The jug is a *Jug of Alchemy*. 
 
-- **Mountaineering Gear**: Rope, pitons, and climbing equipment worth 50 gp
-- **Stoneworking Tools**: Masterwork tools worth 100 gp to the right buyer
-- **Emergency Rations**: Preserved food still edible after centuries
+The stone cylinder is sealed with wax. Inside are a dozen black orbs of various sizes floating in a milky, viscous liquid. A DC 10 Nature or Survival check will confirm that the substance seems safe and nontoxic. The mixture has a faint briny, acidic smell like pickles, and in fact these are *[[Pickled Phase Spider Eyes]]*.
 
 ---
 
-## Area 8: Kitchen
+## Area 7: Kitchen
 
 _Food preparation area_
 
 ### Description
 
-> This rectangular chamber served as a kitchen. Stone counters and preparation surfaces line the walls, while a large fireplace dominates one wall with an adjustable spit and various cooking implements. Irregular alcoves carved into natural pockets appear to serve as cold storage areas. Stone jars, cooking utensils, and carved tablets with what appear to be recipes are scattered throughout.
+> This rectangular chamber served as a kitchen. A large wooden table is overturned in one corner, while a large rusty iron stove dominates one wall with an adjustable spit and various cooking implements. Stone jars, cooking utensils, and carved tablets with what appear to be recipes are stacked on shelves along the southern wall. A stone basin in the northeast corner is filled with water.
 
 ### Features
 
-- **Stone Counters**: Work surfaces at firbolg height with integrated cutting boards
-- **Cooking Fireplace**: Separate from the dining area, designed specifically for food preparation
-- **Cold Storage**: Natural alcoves that stay cool year-round
+- **Cook stove**: Separate from the dining area, designed specifically for food preparation
 - **Water Access**: Stone basin with drainage (fed by mountain springs)
 - **Construction**: _[Combination - rectangular main area with natural alcove features]_
 
@@ -247,6 +224,18 @@ _Food preparation area_
 - **Cooking Utensils**: Carved wood and metal implements, still functional
 - **Stone Jars**: Dried spices and preserved foods (some still edible)
 - **Firbolg Recipe Tablets**: Stone tablets detailing mountain cuisine and preservation techniques
+
+---
+
+## Area 8: Storage
+
+_General supplies and equipment_
+
+### Description
+
+> This chamber is empty save for a long table and two chairs overturned in one corner. The western wall is completely destroyed, opening into  a natural passageway beyond.
+
+This passage used to be separated from the monastery by a wall with a door, but phase spiders expanded the opening over the centuries as they emptied the storage area of its usable materials. The monks would pass through this door to enter the sacred spaces beyond while doing their research and meditations.
 
 ---
 
@@ -268,7 +257,7 @@ _Waste facilities_
 
 ---
 
-## Areas 10-12: Natural Spider Dens
+## Area 10: Spider Nursery
 
 _Former natural caves, now phase spider territory_
 
@@ -299,6 +288,18 @@ _Former natural caves, now phase spider territory_
 - **Non-Hostile Options**: These spiders are not immediately aggressive if approached peacefully
 - **Territorial Defense**: They will defend their nests if threatened
 - **Ethereal Advantage**: Spiders can attack from the Ethereal Plane using natural terrain
+
+---
+
+## Area 11: Spider Guards
+
+_Former natural caves, now phase spider territory_
+
+---
+
+## Area 12: Underground Pond
+
+_Former natural caves, now phase spider territory_
 
 ---
 
