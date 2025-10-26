@@ -96,6 +96,7 @@ _Formal entrance for guests and ceremonies_
 
 - **Dimensional Instability**: spells with random effects (like _Wild Magic_) have a 10% chance of triggering unusual results or attracting **1d3 phase spiders** that are watching from the Ethereal Plane
 - **Cultural Clues**: The oversized furniture suggests the original inhabitants were larger than typical humanoids (firbolgs)
+- Door to the north is completely blocked by rubble on the other side. It is not possible to open it. Removing the door reveals floor-to-ceiling rockfall blocking the entrance. If players use magic to dig through (such as stoneshape) they will discover the passageway leading to area 20.
 
 ### Hidden Elements
 
@@ -117,7 +118,7 @@ _Communal sleeping quarters_
 
 ### Description
 
-> This large square chamber appears to have served as sleeping quarters. Stone  platforms line the walls, each with carved storage niches beneath, and a small desk. Personal belongings remain scattered about: clothing, simple tools, and various personal items that appear remarkably well-preserved.
+> This large square chamber appears to have served as sleeping quarters. Stone  platforms line the walls, each with carved storage niches beneath, and a small desk. Personal belongings remain scattered about: clothing, simple tools, and various personal items that appear remarkably well-preserved. Doors lead to the north and west.
 
 ### Features
 
@@ -147,6 +148,7 @@ _Junction between monastery sections_
 ### Features
 
 - **Directional Markers**: Stone markers in the floor, written in Giant, indicating "Living Quarters," "Workshop," "Sacred Spaces," and "Research Areas"
+- **Locked door**: the double doors to room 21 at the east end of the corridor are locked.
 - **Natural Acoustics**: Sounds carry well here, making it easy to hear activity in connected areas
 - **Construction**: _[Combination - natural space enhanced with worked stone]_
 
@@ -217,7 +219,7 @@ _Food preparation area_
 
 - **Cook stove**: Separate from the dining area, designed specifically for food preparation
 - **Water Access**: Stone basin with drainage (fed by mountain springs)
-- **Construction**: _[Combination - rectangular main area with natural alcove features]_
+- **Construction**: Worked stone.
 
 ### Preserved Contents
 
@@ -233,7 +235,7 @@ _General supplies and equipment_
 
 ### Description
 
-> This chamber is empty save for a long table and two chairs overturned in one corner. The western wall is completely destroyed, opening into  a natural passageway beyond.
+> This chamber is empty save for a long table and two chairs overturned in one corner. To the north is an open doorway. The door which used to be here is broken and lying on the floor in the next room. The western wall is completely destroyed, opening into  a natural passageway beyond.
 
 This passage used to be separated from the monastery by a wall with a door, but phase spiders expanded the opening over the centuries as they emptied the storage area of its usable materials. The monks would pass through this door to enter the sacred spaces beyond while doing their research and meditations.
 
@@ -279,9 +281,7 @@ _Former natural caves, now phase spider territory_
 
 ### Current Occupants
 
-- **Area 10**: 1d3 **Phase Spiders** (50% chance present)
-- **Area 11**: 1 **Phase Spider** with **2d4 eggs** (75% chance present)
-- **Area 12**: 1-2 **Phase Spiders** (always present - guards tunnel to Area 5)
+- 1d3 **Phase Spiders** (50% chance present)
 
 ### Encounters
 
@@ -299,7 +299,69 @@ _Former natural caves, now phase spider territory_
 
 ## Area 12: Underground Pond
 
-_Former natural caves, now phase spider territory_
+_Natural water source, now hunting ground for aberrations_
+
+### Description
+
+> This natural chamber opens into a roughly circular space about 30 feet across. The most striking feature is a dark pool of water occupying much of the floor, its surface perfectly still and invisible in the darkness. The ceiling rises to about 25 feet at its highest point, with irregular stalactites hanging down at various heights and thick webbing stretching between several formations. The air here is noticeably damper than elsewhere in the caves, and condensation coats the rock walls. Natural stone formations create irregular shelves and ledges around the water's edge. The sound of slow dripping echoes through the chamber.
+
+### Features
+
+- **Underground Pond**: Cold, dark water of unknown depth (actually 8-12 feet deep in center, 2-4 feet near edges)
+- **Complete Darkness**: No natural light sources; characters need their own illumination
+- **High Ceiling**: 25-30 feet at peak, creating vertical combat space
+- **Spider Webs**: Ethereal silk stretches between stalactites, though notably absent near the ceiling's center
+- **Natural Acoustics**: Dripping water creates hollow echoes throughout the chamber
+- **Narrow Ledges**: Rock shelves around the pond's edge provide limited safe footing (5 feet wide at most)
+- **Slippery Surfaces**: DC 12 Dexterity save to move around pond edge without slipping into water
+- **Multiple Exits**: Passages lead northwest to Area 13, north to Spider Warren, and a low squeeze passage (4 feet high) connects west to Spider Passage and Area 11
+- **Construction**: _[Natural cave - unmodified by original inhabitants]_
+
+### Hidden Elements
+
+**Investigation (DC 14)** around the pond's edge: Wedged between rocks near the waterline, you find a badly corroded iron key tangled with the remnants of a broken silver chain. Attached to the chain is a tarnished silver medallion about three inches across, bearing geometric symbols - concentric circles with intricate patterns - and script in an unfamiliar language. Scattered nearby are ancient coins: two that still gleam with a golden luster despite their age, five that are completely blackened, a dozen covered in thick green corrosion, and two with a strange pale, dulled yellow color and light surface tarnish.
+
+**DM Notes**:
+
+- The corroded iron key opens the locked door to Area 21 (Abbot's Chamber)
+- The medallion bears the Order of Dimensional Harmony's seal and reads "KEEPER OF DIMENSIONAL HARMONY" in Giant script - identifying this as the Abbot's seal of office
+- The broken silver chain is heavily tarnished and fragile from centuries in water
+- Coins are: 2 gold pieces (12 gp), 5 silver pieces (5 sp), 12 copper pieces (12 cp), 2 electrum pieces (10 sp or 1 gp value)
+- The electrum coins bear subtle decorative patterns that, if cleaned and examined, also show the Order's founding symbol
+- No clear indication of how these items arrived here - players may speculate about the Abbot fleeing during the catastrophe, items dropped in panic, or other explanations
+
+### Current Occupants
+
+**2 Grells** lurk near the ceiling, using the stalactites and webbing for concealment. These floating aberrations have claimed this chamber as their hunting ground, drawn here by the residual dimensional instability from the monks' work.
+
+**Perception DC 18** to notice subtle movement or an unnatural shadow among the stalactites before the grells choose to reveal themselves
+
+### Encounter: Aerial Predators
+
+**Tactics:**
+
+- **Patient Ambush**: Grells wait motionless near the ceiling, resembling stalactites. They may allow cautious, quiet explorers to pass through unmolested
+- **Opportunistic Strike**: If characters appear distracted, vulnerable, or threatening (loud noise, attacking webs, disturbing the water), the grells descend to attack
+- **Coordinated Strikes**: One grell swoops down (10-foot tentacle reach) while the other stays high, ready to descend if the first is threatened
+- **Grab and Lift**: A grell that successfully grapples and paralyzes a victim will retreat to 20-25 feet up, dangling the paralyzed creature over the dark water
+- **Vertical Retreat**: When damaged, grells ascend to maximum ceiling height (25-30 feet) to avoid melee attacks
+- **Pursuit**: If characters flee, the grells will follow through the cave passages, potentially driving them into spider territory
+
+**Environmental Factors:**
+
+- The pond eliminates most ground-based movement options
+- Narrow ledges around the pond's edge require careful positioning
+- Characters who fall or are pushed into the cold water must use swimming speed
+- Ranged attacks and spells become essential
+- Flight, climbing, or creative solutions needed to reach grells at ceiling height
+
+**Why Phase Spiders Avoid This Area:** Phase spiders instinctively bypass this chamber via the Ethereal Plane. The presence of two aberrations - creatures fundamentally "wrong" in their planar nature - makes even creatures comfortable with dimensional travel uneasy. Spiders traveling through the complex use the Ethereal Plane to skip past Area 12 entirely, using the Spider Passage and Spider Warren connections instead.
+
+**Potential Complications:** If characters flee toward Area 11, Spider Passage, or Spider Warren while being pursued by grells, they may inadvertently create a three-way encounter between themselves, the aberrations, and territorial phase spiders. The spiders and grells are not allies and will attack each other as readily as they attack intruders.
+
+### Sacred Site
+
+Despite the current danger, this chamber once held significance for the monastery. The monks used this natural pool for ritual cleansing before engaging in dimensional research, believing the water's purity helped center their minds.
 
 ---
 
@@ -533,6 +595,7 @@ _Combined private quarters, meeting room, and records office_
 
 ### Features
 
+- **Locked door**: This door is locked 
 - **Personal Quarters**: Private sleeping area with quality furnishings
 - **Meeting Circle**: Stone seats for conducting monastery business
 - **Administrative Desk**: Writing surface with organizational materials
