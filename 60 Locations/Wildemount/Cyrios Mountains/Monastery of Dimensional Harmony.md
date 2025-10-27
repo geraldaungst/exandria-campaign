@@ -261,39 +261,79 @@ _Waste facilities_
 
 ## Area 10: Spider Nursery
 
-_Former natural caves, now phase spider territory_
+_Natural cave serving as phase spider breeding ground_
 
-### Description (Each Area)
+### Description
 
-> These natural caverns were left largely unmodified by the original inhabitants. The caves feature irregular walls, varying ceiling heights from 8 to 20 feet, and natural stone formations including stalactites and flowstone. Webs stretch between rock formations - not ordinary spider webs, but something that seems to shimmer and become more visible when disturbed. The air itself seems to shimmer occasionally.
+> This natural cavern features irregular walls and a ceiling that varies from 8 to 15 feet in height. Stalactites hang from above, and flowstone formations create shelves and alcoves throughout. The most striking feature is the dense concentration of webs - not ordinary spider silk, but something that shimmers faintly and seems to fade in and out of visibility. The webs are particularly thick in the alcoves and around the rock formations, creating layered, almost cocoon-like structures. The air here feels heavier, and occasional shimmering distortions ripple across your vision.
 
 ### Features
 
-- **Unusual Webs**: Ethereal silk that becomes more visible when touched or disturbed
-- **Natural Formation**: Stalactites, flowstone, and other typical cave features
-- **Rough Tunnel**: Area 12 connects to Area 5 via a crudely carved tunnel showing claw marks
-- **Construction**: _[Natural caves - unmodified by original inhabitants]_
+- **Dense Ethereal Webbing**: Unusually thick concentration of phase spider silk, especially around alcoves and shelves
+- **Natural Alcoves**: Rock formations create protected nesting spaces
+- **Unstable Reality**: The barrier between planes is particularly thin here
+- **Connection**: A natural passage leads south to another cave area
+- **Construction**: _[Natural cave - unmodified by original inhabitants]_
 
-**DM Notes**:
+### DM Notes
 
-- **Phase Spider Territory**: These areas are now claimed by phase spiders as nesting areas
-- **Dimensional Resonance**: Constant phase spider presence has made barriers between planes thin here
+**Purpose**: This chamber serves as the primary breeding ground for the phase spider colony. The dense webbing conceals egg sacs (some viable, some long-empty) in the alcoves and behind rock formations. The spiders instinctively maintain this space even though many eggs no longer develop properly due to the dimensional instability.
 
-### Current Occupants
+**Protective Behavior**: Any phase spiders present here are EXTREMELY protective. Unlike elsewhere in the complex, spiders in this area:
 
-- 1d3 **Phase Spiders** (50% chance present)
+- Will NOT tolerate peaceful passage
+- Attack immediately if characters disturb webs or move more than 5 feet beyond the entrance.
+- Fight to the death rather than retreat
+- Call for reinforcements (1d3 additional spiders arrive from area 11 at the start of round 3 if combat lasts for more than 1 round)
 
-### Encounters
+**Current Occupants**:
 
-- **Non-Hostile Options**: These spiders are not immediately aggressive if approached peacefully
-- **Territorial Defense**: They will defend their nests if threatened
-- **Ethereal Advantage**: Spiders can attack from the Ethereal Plane using natural terrain
+- 2d3 **Phase Spiders** (always present)
+- One is always alert while others tend the webbing
+
+**Hidden Elements**:
+
+- **Investigation (DC 16)** of the alcoves reveals several egg sacs in various states - some viable and softly pulsing with ethereal energy, others long-dormant
+- Characters who succeed on this check and can communicate with phase spiders might understand why they're so protective
+
+**Dimensional Effects**: Constant phase spider presence over generations has made the planar barrier extremely thin here. Spells or abilities involving the Ethereal Plane function with advantage.
 
 ---
 
 ## Area 11: Spider Guards
 
-_Former natural caves, now phase spider territory_
+_Sentry post and molting chamber_
+
+### Description
+
+> This natural cavern stretches roughly 40 feet east to west, with an uneven ceiling that rises to about 12 feet at its peak. The chamber is dominated by thick, layered webbing that creates a nearly opaque curtain across much of the space. Unlike the shimmering webs elsewhere, these are reinforced and deliberate - clearly maintained rather than incidental. Suspended throughout the webs are roughly a dozen large spider forms, motionless and pale. The air shimmers occasionally with that now-familiar distortion. Natural passages lead east and west.
+
+### Features
+
+- **Dense Webbing**: The entire chamber is difficult terrain. Creatures entering the webs or starting their turn in them must make a DC 12 Dexterity saving throw or become restrained. A restrained creature can use its action to make a DC 12 Strength (Athletics) check to break free.
+- **Cutting Through**: A creature may use its action to cut a 5-foot-wide path while moving through the webs (using their full movement, which is halved by difficult terrain). The cleared path remains difficult terrain but no longer requires saving throws, as most of the webbing has been cleared.
+- **Lightly Obscured**: The webs lightly obscure the area, imposing disadvantage on Perception checks relying on sight and half cover to all creatures within it. Phase spiders ignore the half cover provided by webs when attacking, as they are perfectly adapted to fighting in their own webbing.
+- **Suspended Spider Forms**: Approximately a dozen large spiders hang motionless in the webs throughout the chamber.
+- **Flammable**: The webs are highly flammable. Any 5-foot cube exposed to fire burns away in 1 round, dealing 2d4 fire damage to any creature that starts its turn in the fire.
+- **Multiple Exits**: Natural passages lead east (toward Area 10) and west (toward Spider Warren).
+- **Construction**: _[Natural cave - unmodified by original inhabitants]_
+
+### DM Notes
+
+**Dual Purpose**: Guard post protecting the nursery (east) and molting chamber (though no spiders are currently molting).
+
+**The Illusion of Numbers**: Most suspended forms are shed exoskeletons, not living spiders. Investigation (DC 14) reveals which are hollow shells vs. actual threats.
+
+**Directional Response**:
+
+- **West to East** (toward grells): Spiders allow passage. The grells handle most threats.
+- **East to West** (toward nursery): Immediate attack. Fight aggressively and pursue fleeing enemies eastward.
+
+**Current Occupants**: d4+1 Phase Spiders on guard duty, positioned among the exoskeletons.
+
+**Tactics**: Guards hide among exoskeletons until they attack. Use phase shift for surprise flanking attacks.
+
+**Web Damage**: Spiders tolerate cutting through webs if creatures move westward without threatening behavior - webs are easily repaired and no vulnerable individuals currently need protection. However, fire triggers immediate aggressive response as it spreads uncontrollably and threatens the colony.
 
 ---
 
@@ -389,13 +429,17 @@ _Natural cave converted for communal worship_
 
 ---
 
+Perfect! Now I have everything I need. Let me draft the revised Area 14 with proper connection descriptions, and then we can move on to Area 16 with the exterior exit details.
+
+---
+
 ## Area 14: Workshop (Primary)
 
 _Main crafting and dimensional equipment construction_
 
 ### Description
 
-> This large natural cavern has been extensively modified for workshop use. Workbenches have been carved from the living rock at various heights throughout the space. Stone anvils, tool racks, and material storage areas fill the available space. A sophisticated ventilation system uses the natural cave airflow - you can feel subtle drafts moving through carved channels in the walls.
+> This large natural cavern has been extensively modified for workshop use. Workbenches have been carved from the living rock at various heights throughout the space. Stone anvils, tool racks, and material storage areas fill the available space. A sophisticated ventilation system uses the natural cave airflow - you can feel subtle drafts moving through carved channels in the walls. Three passages lead from this chamber: a low opening to the south requiring you to crawl, a large natural passage to the north, and another passage heading northeast.
 
 ### Features
 
@@ -404,6 +448,7 @@ _Main crafting and dimensional equipment construction_
 - **Tool Storage**: Extensive collection of crafting implements
 - **Material Stockpile**: Raw crystals, metals, and exotic materials for dimensional research
 - **Ventilation System**: Channels cut to direct airflow and remove smoke
+- **Multiple Exits**: Low crawl passage south to Area 13, large natural passage north to Area 15, passage northeast to Area 16
 - **Construction**: _[Natural cavern with extensive worked stone modifications]_
 
 ### Workshop Contents
@@ -417,6 +462,10 @@ _Main crafting and dimensional equipment construction_
 - **Masterwork Tools**: Complete workshop setup worth 200 gp
 - **Rare Materials**: Uncut crystals and planar-touched metals worth 150 gp
 - **Dimensional Component Pouch**: Materials for crafting planar magic items
+
+### DM Notes
+
+**Northeast Passage to Area 16**: This passage opens into what was once a small natural cavern but has been expanded and rebuilt with precision stonework. The contrast between the natural workshop cavern and the geometric construction beyond is immediately apparent.
 
 ---
 
@@ -451,13 +500,17 @@ _Natural cave converted to house research materials_
 
 ---
 
+Here's the revised Area 16 with the exterior exit details added:
+
+---
+
 ## Area 16: Workshop (Secondary) with External Access
 
 _Specialized heavy work area with mountain access_
 
 ### Description
 
-> Unlike the natural caverns elsewhere, this chamber was deliberately carved as a rectangular room. The construction is notably precise - perfectly level floors and straight walls that contrast sharply with the organic cave system nearby. Stone surfaces are carved with permanent geometric guides and measurement marks. A carved stairway leads upward, disappearing into darkness.
+> Unlike the natural caverns elsewhere, this chamber was deliberately carved as a rectangular room, though the western wall opens back to the natural passage you entered from. The construction is notably precise - perfectly level floors and straight walls that contrast sharply with the organic cave system nearby. Stone surfaces are carved with permanent geometric guides and measurement marks. A carved stairway in the northeastern corner leads upward, disappearing into darkness.
 
 ### Features
 
@@ -470,56 +523,111 @@ _Specialized heavy work area with mountain access_
 
 ### Why Constructed Rather Than Natural?
 
-The monks discovered that dimensional magic requires geometric precision that natural caves cannot provide. Irregular surfaces create unpredictable resonances in dimensional fields, making containment magic unstable. This room's mathematical precision was essential for:
+The monks discovered that dimensional magic requires geometric precision that natural caves cannot provide. Irregular surfaces create unpredictable resonances in dimensional fields, making containment magic unstable.
 
-- Calibrating dimensional anchor fields
-- Testing containment rune patterns
-- Creating the precise crystal matrices used in viewing equipment
-- Training monks in dimensional manipulation without endangering others
+### DM Notes
 
-### Workshop Contents
+**The Hidden Exit**: The stairway leads up approximately 80 feet through the mountain, emerging at a concealed exit on the mountainside. This provides the "path through the mountain" mentioned in local legends, allowing passage without traversing the dangerous exterior slopes.
 
-- **Dimensional Calibration Tools**: Precise measuring devices for magical field work
-- **Testing Apparatus**: Safe equipment for dimensional field experimentation
-- **Rune Carving Station**: Tools for creating precise magical symbols
+**Blocked Doorway**: In the northwestern corner (not immediately visible), a small doorway once led to these stairs. However, a recent cave-in (likely occurring around the same time as the avalanche that revealed the main entrance, several weeks to a couple months ago) has blocked this passage with rubble. From inside Area 16, the doorway is not obvious - the rubble blends with the worked stone walls.
 
-### External Exit
+**Perception (DC 12)**: Characters who search the northwestern area can hear and feel air moving through cracks in the cave-in rock, indicating a passage beyond. The airflow is steady and cool, suggesting it connects to the outside.
 
-**Hidden Exit (Survival DC 18 to find from outside)**: The stairway leads to a concealed opening on the mountain's far side, disguised as a natural crack. This provided the monks with emergency escape and supply access.
+**Clearing the Rubble**: The cave-in can be cleared with approximately 2 hours of work (or 1 hour with multiple people working), though this will be noisy and may attract attention from creatures elsewhere in the complex. Alternatively, magic such as _stone shape_ or similar spells can create a passage more quickly and quietly.
+
+**The Exterior Exit**: Once past the rubble and up the stairs, the exit emerges on a rocky outcrop roughly 200 feet above the main entrance. The opening is naturally concealed by an overhang and surrounding boulders. From the outside:
+
+- **Survival (DC 18)** to locate the exit when searching the mountainside
+- The exit is positioned to avoid the avalanche zone that buried the main entrance
+- Provides a commanding view of the valley below
+- The hidden nature of this exit explains why it wasn't buried by the same avalanche
+
+This exit offers the party a safe route out that bypasses both the avalanche-blocked main entrance and the treacherous mountain passes mentioned in the adventure hooks.
 
 ---
 
-## Area 17: Observatory Chamber
+## Area 17: Memorial and Preparation Chamber
 
-_The heart of the monks' research_
+_Sacred space for honoring the dead and preparing for dimensional meditation_
 
 ### Description
 
-> This chamber represents a remarkable blend of natural cave and precise stonework. Natural stone formations rise from the floor, but they've been enhanced and connected by carved steps and ramps. Dozens of small alcoves line the walls, each fitted with crystal viewing ports that gleam with a faint inner light. Stone tablets and papers are scattered throughout the room on various platforms and work surfaces.
+> This rectangular chamber measures roughly 50 by 40 feet with smooth, worked stone walls rising to a 13-foot ceiling. The construction is deliberate and precise, clearly carved with purpose rather than adapted from natural cave. Three large alcoves, each 10 feet deep, are set into the north, east, and west walls. Within each alcove rests a stone sarcophagus, and before each sarcophagus lies a polished stone slab displaying a weapon: a great shield to the west, a longsword to the north, and a longbow to the east. In each corner of the room sits a circular stone object about two feet in diameter - carved stone wheels with decorative geometric patterns. Two smaller alcoves near the southern entrance contain stone vessels similar to preservation jars.
 
 ### Features
 
-- **Viewing Alcoves**: 18 alcoves originally designed to observe phase spiders safely
-- **Crystal Arrays**: 6 alcoves still contain **Crystals of True Seeing** (allow Ethereal Sight for 1 hour, 1 use per day)
-- **Dimensional Resonance**: All creatures in this chamber can sense the Ethereal Plane (advantage on Perception checks to detect ethereal creatures)
-- **Research Notes**: Stone tablets throughout the room detail the monks' findings
-- **Elevated Platforms**: Multiple observation levels connected by carved walkways
-- **Construction**: _[Combination - natural cavern with extensive worked stone modifications]_
+- **Three Founder's Tombs**: Stone sarcophagi containing the remains of the monastery's three founding members
+- **Memorial Weapons**: The founders' signature weapons displayed on stone slabs (not magical, ceremonial/decorative only)
+- **Ritual Wheels**: Four carved stone wheels in corners, used as focal points during purification meditations
+- **Preservation Vessels**: Two stone containers that once held ritual oils and incense for purification ceremonies
+- **Pristine Condition**: Untouched since the catastrophe - no disturbance, no decay
+- **Construction**: _[Worked stone - purpose-built sacred space]_
 
-### The Research Archive
+### Purpose and History
 
-Stone tablets and preserved papers throughout the chamber contain:
+This chamber served dual purposes for the monastery:
 
-- **Phase Spider Behavioral Studies**: Detailed observations of captive subjects
-- **Dimensional Corruption Theory**: The monks' mistaken belief that phase spiders were "damaged"
-- **Treatment Attempts**: Records of failed "healing" experiments
-- **Growing Doubts**: Later notes showing uncertainty about their methods
+**Memorial Function**: The three founders - whose names are carved in Giant script on their sarcophagi - are entombed here with their weapons as symbols of their life's work (shield = protection, sword = discipline, bow = precision). Monks would pay respects before and after major rituals.
+
+**Preparation Function**: Before descending into the Deep Meditation Chamber, monks would enter alone to perform purification rituals. They would:
+
+1. Pay respects at each alcove in sequence
+2. Meditate at each corner wheel, focusing on different aspects of dimensional awareness
+3. Anoint themselves with oils from the preservation vessels
+4. Return to Area 18 in a prepared mental state to be lowered into the Deep Meditation Chamber
+
+The rectangular precision was necessary because dimensional meditation requires geometric clarity - curved or irregular spaces create interference.
+
+### Current State - Brother Kelmen's Prison
+
+**The Trapped Monk**: Brother Kelmen was performing his purification ritual here when the catastrophe struck. The floor of Area 18 collapsed completely, cutting him off from escape. Other monks attempted rescue but couldn't cross the massive pit that now separated them.
+
+Kelmen has been trapped here for three centuries, sustained by... something. Perhaps his partial displacement into the Ethereal Plane slowed his physical needs. Perhaps the dimensional instability itself kept him in stasis. Perhaps the founders' spirits sustained him. Even Kelmen doesn't remember clearly - the centuries have blurred into an incomprehensible haze.
 
 ### Major Encounter: Brother Kelmen
 
-This chamber houses **Brother Kelmen**, the last monk who refused to flee after the catastrophe. He spent years trying to repair the damage, slowly becoming displaced between the Material and Ethereal planes.
+When characters first enter, Kelmen materializes suddenly - he appears startled, as if he's been in a trance for an immeasurable time. His form flickers between solid and translucent, and he seems disoriented about whether characters are real or another vision.
 
-**See "The Ethereal Echo" encounter details below**
+**Initial Appearance**: Kelmen is agitated and confused, his speech fragmented:
+
+- _"Harm... you... I... must... stop..."_ (Is he warning them, or threatening them?)
+- _"Danger... here... you... bring... death..."_ (Does he mean they're in danger, or they bring danger?)
+- _"How long... how... they left me... why..."_ (Confusion and abandonment)
+
+**Communication Challenge**: Kelmen speaks archaic Giant in broken fragments. His mental state is fractured by centuries of isolation.
+
+**Resolution Options**:
+
+1. **Patient Communication** (Intelligence DC 12 + Wisdom DC 15): Piece together his meaning through careful listening and context
+2. **Stabilization**: Use one of the Crystals of True Seeing from another area to help anchor his dimensional state
+3. **Compassion**: Show kindness - offer food, speak gently, demonstrate you're not a threat. He responds to genuine compassion automatically.
+4. **Memorial Recognition**: Pay respects at the founders' tombs - Kelmen sees this as proof of good intentions
+
+**Once Communication Establishes**: Kelmen becomes lucid, though still flickering between planes. He shares:
+
+- The truth about the monastery's hubris and the mental influence
+- Warnings about the Deep Meditation Chamber below (accessible through the pit in Area 18)
+- Locations of important research materials and treasures
+- The real story: they thought they were healing the spiders, but were actually torturing them
+- His gratitude for finally having someone to talk to after centuries of solitude
+
+### Treasure
+
+**Investigation (DC 14)** of the preservation vessels: The ritual oils have long since evaporated, but each vessel contains 50 gp worth of ancient coins (offerings left by monks) and small gemstones used in purification rituals (100 gp total).
+
+**The Memorial Weapons**: While not magical, these are masterwork items of significant historical value to scholars or firbolg communities (500 gp total to the right buyer, or invaluable as cultural artifacts).
+
+### DM Notes
+
+**Kelmen's Survival**: You don't need to explain exactly how Kelmen survived - the mystery itself is part of the horror and tragedy. If players press, Kelmen genuinely doesn't know. Time became meaningless. He remembers meditating, trying to repair the damage, calling for help, then... nothing clear until they arrived.
+
+**Emotional Weight**: Play up the tragedy - Kelmen sees the founders' remains every day, a constant reminder of the monastery's noble intentions and catastrophic failure. He's had three centuries to contemplate their mistakes.
+
+**The Webbing Barrier**: The thin sheet of webbing in the passage is old and undisturbed. Phase spiders placed it long ago to mark territory boundaries but don't actively patrol here. It can be cut through easily (no save required, just takes an action), though doing so creates a 5-foot-wide clear path.
+
+---
+
+Does this work for Area 17? Should we move on to Area 18 next?
 
 ---
 
