@@ -733,7 +733,7 @@ _Combined private quarters, meeting room, and records office_
 
 ## Level 2 (Lower Level)
 
-## Deep Meditation Chamber
+## Area 22: Deep Meditation Chamber
 
 _Site of the final ritual and dimensional catastrophe_
 
