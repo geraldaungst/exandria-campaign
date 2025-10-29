@@ -1,6 +1,59 @@
 ---
 processed: yes
 ---
+# CHANGES NEEDED
+
+### STILL NEEDED - MEDIUM PRIORITY
+
+**11. Qalix Connection Evidence**
+
+- **Locations:** Throughout (but especially E6. Library)
+- **Add:** Correspondence from Qalix, payment records, references to Dreyara's visits, research commissioned specifically about Lorestone shards
+- **Purpose:** Show Lady Emer's employment relationship and role in larger plot
+
+**12. Luxon Beacon Context**
+
+- **Location:** E6. Library > Stone Chest description and Lady Emer's research notes
+- **Current:** Minimal context about how she got it or what she thinks it is
+- **Add:** Notes showing she thinks it's a "temporal resonance crystal," acquired from merchant, frustrated she can't fully understand it, connection to rift experiments
+
+**13. Guardian Purpose Clarification**
+
+- **Locations:** Various (guardians section, individual encounters)
+- **Current:** Guardians exist but unclear why researcher needs this much security
+- **Add:** Context that she's protecting valuable research, working on sensitive Qalix projects, needs isolation from interference
+
+### STILL NEEDED - LOW PRIORITY (Nice to Have)
+
+**14. Lair Actions Flavor Text**
+
+- **Location:** E6. Library > Lair Actions
+- **Current:** Generic magical effects
+- **Potential:** Could add flavor connecting them to planar research themes
+- **Note:** Works fine as-is, just could be enhanced
+
+**15. Transformation Story Details**
+
+- **Location:** Background section (already mostly done)
+- **Current:** Basic transformation story exists
+- **Potential:** Could add more specific details about the rift encounter, experimentation process
+- **Note:** Sufficient detail already present
+
+### SUMMARY BY URGENCY
+
+**Should Fix Before Session:**
+
+- #11 (Qalix connection evidence - adds important context)
+- #12 (Luxon Beacon backstory - players will ask questions)
+
+**Can Wait/Optional:**
+
+- #13 (Guardian purpose - helps logic but not critical)
+- #14 (Lair action flavor - pure enhancement)
+- #15 (Transformation details - sufficient as-is)
+
+---
+
 When Lady Emer was human, she excelled as a scout in the mercenary Emissaries of the Sunfall. During her travels, she encountered a planar rift and became fascinated by the raw, chaotic energy it contained. She began experimenting with planar magic, seeking to understand its nature and harness its power. Her experiments led to her transformation into a medusa, a change she embraced as a step closer to understanding the fundamental forces of reality.
 
 Emer now seeks to master planar magic, driven by a thirst for knowledge and the potential for immense power. She believes the Lorestone shards are keys to unlocking the secrets of the planes and controlling the rifts that scar Exandria.
@@ -153,17 +206,18 @@ A wyvern surveys the garden. Hot-tempered and bored, her only entertainment is p
 If Lady Emer is here, she views the characters as a threat. She attacks from atop the pedestal, using the height to her advantage. Until her death, her arrogance makes her believe she can beat any opponent.
 
 ### Poisonous Plants
-Characters who succeed on a DC 15 Intelligence (Nature) check know the plants in this garden thrive at high altitudes and many are poisonous. A character who is proficient with alchemist’s supplies, herbalism kits, or poisoner’s kits knows which plants are most useful for alchemical purposes and can spend 10 minutes gathering blossoms to make one dose of each of the following poisons: assassin’s blood, malice, and oil of taggit. That character can then spend 1 hour during a short or long rest to create a dose of one of those poisons. 
+Characters who succeed on a DC 15 Intelligence (Nature) check know the plants in this garden thrive at high altitudes and many are poisonous. A character who is proficient with alchemist's supplies or herbalism kits knows which plants are most useful for alchemical purposes and can spend 10 minutes gathering blossoms to make one dose of each of the following poisons: malice and oil of taggit. That character can then spend 1 hour during a short or long rest to create a dose of one of those poisons. 
 
 ### Statues
-The statues in the garden are petrified adventurers who came to the castle seeking treasure or the death of Lady Emer. Each is a retainer who can serve the characters if freed:
-- Alia Sylf: A human mercenary
-- Gorith Tork: An orc blacksmith
-- Kaxor: A lizardfolk hunter
-- Septima Vinculum: A kobold decanus
-- [[Varnes Dwell]]: A hobgoblin tactician
-- Worjo: A minotaur devastator
-- Orgor: a Githzerai monk
+The statues in the garden are petrified individuals who failed Lady Emer's exacting standards in various ways - incompetent assistants who couldn't follow protocols, thieves attempting to steal her research, and unfortunate travelers who stumbled into restricted areas of the keep. Each is a retainer who can serve the characters if freed:
+
+- **Alia Sylf** (human mercenary): Hired as security, caught attempting to sell Lady Emer's research notes to a rival
+- **Gorith Tork** (orc blacksmith): Came seeking work repairing the keep, wandered into the wrong room and triggered a security measure
+- **Kaxor** (lizardfolk hunter): Failed assistant who kept contaminating specimens with improper handling
+- **Septima Vinculum** (kobold decanus): Became too frightened during fieldwork at a rift site and fled, abandoning critical equipment
+- **[[Varnes Dwell]]** (human tactician): Delivered to Lady Emer by Dreyara for interrogation about his knowledge; being held for Qalix rather than displayed as a failed assistant
+- **Worjo** (minotaur devastator): Broke into the keep seeking treasure, destroyed several irreplaceable artifacts in the process
+- **Orgor** (Githzerai monk): Sent by concerned parties to investigate Lady Emer's "dangerous experiments," caught attempting sabotage"
 
 ### Climbable Vines
 The sturdy vines growing on the pedestal can be climbed without an ability check.
@@ -179,9 +233,19 @@ The library has the following features:
 ### Lady Emer
 How Lady Emer handles the characters depends on how they enter the library. If they arrive with weapons drawn, screaming in fear due to the storage room’s trap (area E3), or covered in her guardians’ blood, she attacks, moving into the stone garden (area E5) where she can maneuver freely and fuel her Stone Sacrifice trait with the garden statues.
 
-If the characters arrive in a friendly manner, Lady Emer takes the opportunity to chat. A notoriously deadly and vain assassin, Lady Emer prefers conversations that are short, exciting, and flattering. She is quick to turn her Stone Gaze on anyone who bores or insults her.
+If the characters arrive in a friendly manner, Lady Emer takes the opportunity to chat. A brilliant but vain scholar, Lady Emer prefers conversations that are short, intellectually stimulating, and flattering. She is quick to turn her Stone Gaze on anyone who bores or insults her.
 
-If a character praises Lady Emer’s skill as an assassin, extols a love of literature, or claims to know secrets that could help the medusa ascend to godhood, they can make a DC 19 Charisma (Deception or Persuasion) check. On a success, Lady Emer invites the characters to stay for a party. If they agree, she leads them to the grand salon (area E4), where she plays the harpsichord for them and encourages them to dance. If the characters don’t play along, Lady Emer attacks. If the characters do as she asks, Lady Emer thanks them for their time and conversation, then asks them to leave so she can rest. At your discretion, characters who are particularly engaged receive an item from her hoard (see “Lady Emer’s Hoard”) as a gift and are invited for a return visit.
+If a character praises Lady Emer's research breakthroughs, demonstrates genuine understanding of planar theory, or claims to know secrets about rift stabilization or the Lorestone shards, they can make a DC 19 Charisma (Deception or Persuasion) check. On a success, Lady Emer invites the characters to stay join her for a conversation in the other room. 
+
+If they agree, Lady Emer leads them to the grand salon (area E4), explaining that all potential research assistants must first demonstrate baseline competency and provide physiological data for safety protocols.
+
+**Phase 1 - Competency Examination:** She gestures to her artifact collection and asks them to identify or analyze 2-3 items (player choice which ones they examine). She listens to their observations with increasing excitement or dismissiveness depending on their answers. A successful DC 15 Intelligence (Arcana, History, or Nature) check impresses her; failure bores her but doesn't automatically trigger combat if they remain respectful.
+
+**Phase 2 - Medical Baseline:** She produces a notebook and begins taking measurements - pulse rate, temperature, reactions to altitude, examining their eyes and skin. She explains this is "standard procedure" in case of rift energy exposure accidents. This requires them to submit to somewhat uncomfortable poking and prodding for several minutes while she makes copious notes.
+
+If the characters play along with both phases, Lady Emer thanks them for their time and declares them "provisionally accepted as research assistants." She then suggests they rest while she prepares their first assignment, asking them to leave so she can work. At your discretion, characters who demonstrated genuine knowledge or asked insightful questions receive an item from her hoard as a "signing bonus" and are invited to return when ready to begin their duties.
+
+If the characters refuse to participate, seem insincere, or fail so badly she questions their intelligence, Lady Emer attacks, disappointed that they wasted her time.
 
 ### Lair Actions
 When fighting inside her lair, Lady Emer can take lair actions. On initiative count 20 (losing initiative ties), she can take one lair action to cause one of the following effects; she can’t use the same lair action two rounds in a row:
@@ -191,10 +255,10 @@ When fighting inside her lair, Lady Emer can take lair actions. On initiative co
 - Venom Shower. Black venom rains down in a 10-foot-radius, 40-foot-high cylinder centered on a point Emer can see within 90 feet of her. Each creature in that area must succeed on a DC 15 Constitution saving throw or be poisoned until the end of initiative count 20 on the next round.
 
 ### Books
-Lady Emer’s books consist mainly of tomes about religious and magical lore. She also has several books full of her [[Lady Emer's Research Notes|research notes]]. Players who spend time reading and searching through her notes will get some useful information.
+Lady Emer's extensive library contains treatises on planar theory, rift mechanics, pre-Calamity magical techniques, studies of Molaesmyr's temporal experiments, and texts on controlled transformation magic. She also has several books full of her [[Lady Emer's Research Notes|research notes]]. Players who spend time reading and searching through her notes will get some useful information.
 
 ### Treasure
-Lady Emer’s desk holds hundreds of [[Lady Emer's Poems|poorly written poems]], twelve owlbear-feather quills, twelve griffon-feather quills, and inkpots with black, gold, green, and purple ink. The set of quills and inks is worth 50 gp. The desk drawers contain a disguise kit, a forgery kit, a set of mason’s tools, a poisoner’s kit, a set of thieves’ tools, and a pouch containing 3,130 gp. Lady Emer carries a key to the display cases in the grand salon (area E4). The room also contains the stone chest described below.
+Lady Emer’s desk holds hundreds of [[Lady Emer's Poems|poorly written poems]], twelve owlbear-feather quills, twelve griffon-feather quills, and inkpots with black, gold, green, and purple ink. The set of quills and inks is worth 50 gp. The desk drawers contain alchemist's supplies, cartographer's tools, jeweler's tools, navigator's tools, a set of mason's tools, and a pouch containing 3,130 gp. Lady Emer carries a key to the display cases in the grand salon (area E4). The room also contains the stone chest described below.
 
 ### Stone Chest
 

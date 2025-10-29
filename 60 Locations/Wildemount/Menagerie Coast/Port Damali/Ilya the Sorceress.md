@@ -33,7 +33,7 @@ Transclude Background note here
 - Important events
 
 # Statistics
-_Medium humanoid (any race), neutral good_
+_Medium humanoid (human), neutral good_
 
 ---
 
