@@ -7,15 +7,31 @@ A brief search (15 minutes or less) may locate two items. Roll an Investigation 
 
 Longer searches will locate more items, as well as making them easier to find. For every 30 minutes spent searching, the party will locate 2 more items and the DC for every category is reduced by 2.
 
+## Quick Reference Table
+
+| Item # | Title                                          | DC to Locate (15 min search) | 30 min | 60 min | 90 min | 2 hr |
+| ------ | ---------------------------------------------- | ---------------------------- | ------ | ------ | ------ | ---- |
+| 1      | Personal Transformation Research               | 10                           | 8      | 6      | 4      | 2    |
+| 2      | Correspondence Fragment - Unknown Recipient    | 10                           | 8      | 6      | 4      | 2    |
+| 3      | Theoretical Framework - Rift Origins           | 15                           | 13     | 11     | 9      | 7    |
+| 4      | Final Entry - Growing Concerns                 | 15                           | 13     | 11     | 9      | 7    |
+| 5      | Collaboration Notes - Vaud Qalix               | 15                           | 13     | 11     | 9      | 7    |
+| 6      | Field Study - Savalirwood Site Delta           | 15                           | 13     | 11     | 9      | 7    |
+| 7      | Lorestone Fragment Analysis - Priority Project | 18                           | 16     | 14     | 12     | 10   |
+| 8      | Planar Rift Analysis - General Observations    | 20                           | 18     | 16     | 14     | 12   |
+| 9      | Material Analysis - Planar Samples             | 20                           | 18     | 16     | 14     | 12   |
+| 10     | Energy Signature Analysis                      | 25                           | 23     | 21     | 19     | 17   |
+
 ## Easily Found (DC 10 to Locate)
 
-### Personal Transformation Research
+### Item 1: Personal Transformation Research
 
 _Day 52 - Connecting the Dots_
 
 My transformation occurred when I encountered a planar rift near the Marrow Valley. The energy signature was identical to what I now observe in the Savalir Wood rift. This suggests my medusa transformation was not random curse but **direct exposure to rift energy**.
 
 **Implications**:
+
 - Rift energy can cause permanent biological transformation
 - The transformation follows recognizable patterns (petrification-related abilities)
 - **I may be the key to understanding how rift energy affects living beings**
@@ -26,7 +42,7 @@ My transformation occurred when I encountered a planar rift near the Marrow Vall
 
 ---
 
-### Correspondence Fragment - Unknown Recipient
+### Item 2: Correspondence Fragment - Unknown Recipient
 
 _Date unclear_
 
@@ -38,7 +54,7 @@ _(The letter breaks off mid-sentence. No indication of who the recipient was.)_
 
 ## Requires more Luck or Time (DC 15 to locate)
 
-### Theoretical Framework - Rift Origins
+### Item 3: Theoretical Framework - Rift Origins
 
 _Day 45_
 
@@ -60,19 +76,7 @@ Working theory: The rifts are not random tears but **intentional gateways** crea
 
 ---
 
-### Collaboration Notes - Vaud Qalix
-
-_Correspondence dated 3 months ago_
-
-Vaud's theories about "harmonic resonance" are intriguing but flawed. He believes each rift has a unique "signature" that can be catalogued and predicted. I've tried to explain that the energy patterns I observe are chaotic fluctuations, not meaningful signatures, but he insists his calculations are correct.
-
-**Important**: Vaud mentioned he's seeking something called an "Arcanist's Prism" for his portal project. Claims it's essential for "final stabilization." I should investigate whether this artifact could be useful for my own research.
-
-**Trading opportunity**: He wants access to my Phase Spider specimens. In exchange, he's offered to share his "rift signature database." Might be worth it despite my doubts about his methods.
-
----
-
-### Final Entry - Growing Concerns
+### Item 4: Final Entry - Growing Concerns
 
 _Day 78_
 
@@ -86,9 +90,72 @@ The temporal resonance crystal I acquired may be the key to safely studying the 
 
 ---
 
+### Item 5: Collaboration Notes - Vaud Qalix
+
+_Day 120 - Initial Partnership_
+
+Vaud Qalix has made an interesting proposition. He requires a secure, isolated research facility and someone with expertise in planar phenomena. The compensation is... substantial. 2,000 gp upfront plus ongoing retainer.
+
+His theories about "harmonic resonance" are intriguing but flawed. He believes each rift has a unique "signature" that can be catalogued and predicted. I've tried to explain that the energy patterns I observe are chaotic fluctuations, not meaningful signatures, but he insists his calculations are correct.
+
+**Important**: Vaud mentioned he's seeking something called an "Arcanist's Prism" for his portal project. Claims it's essential for "final stabilization." I should investigate whether this artifact could be useful for my own research.
+
+**Trading opportunity**: He wants access to my Phase Spider specimens. In exchange, he's offered to share his "rift signature database." Might be worth it despite my doubts about his methods.
+
+**Decision**: Accepted his offer. The gold will fund my research for years, and his network might provide access to sites and materials I couldn't reach alone.
+
+---
+
+### Item 6: Field Study - Savalirwood Site Delta
+
+_Day 162 - Commissioned Field Work_
+
+V.Q. insisted I examine this particular rift personally despite the danger. His instructions were precise—document the temporal distortions, measure planar bleed-through, collect ambient energy samples from the Savalirwood site he designated as "Delta."
+
+The rift shows signs of intentional manipulation. Someone has been... experimenting here. The energy patterns are too deliberate, too controlled to be natural deterioration. V.Q. claims this is why he needs my analysis, to understand "what went wrong" at similar sites. But watching the way the rift pulses in response to certain stimulus patterns, I suspect he's more interested in learning what went _right_.
+
+**Observations:**
+
+- Rift diameter: 4.2 meters
+- Dominant energy: Shadowfell (expected for this region)
+- Secondary signature: **Unknown planar source** - same signature I detected at my own transformation site
+- Temporal distortion field extends 15 feet from rift edge
+- Contains traces of recent magical residue (within past 6 months)
+
+He pays well enough that I don't ask too many questions about his ultimate goals. Though I can't help but wonder—if he's reverse-engineering someone else's work here, what is he building toward?
+
+**Payment received:** 1,200 gp for the field study plus hazard compensation.
+
+---
+
+## Harder to Find (DC 18 to locate)
+
+### Item 7: Lorestone Fragment Analysis - Priority Project
+
+_Day 237 - Urgent Commission Expansion_
+
+V.Q. has become obsessed with these shard fragments. What started as general rift research has pivoted entirely to the Lorestone. He wants detailed reports on their individual properties and—more concerning—their potential for reconstruction.
+
+His questions grow more specific with each correspondence:
+
+- "Can the pieces sense each other across distance?"
+- "What happens when multiple fragments come into proximity?"
+- "Could reassembly be achieved through ritual means rather than physical reconstruction?"
+- "Do the fragments require specific positioning or can assembly order vary?"
+
+These aren't theoretical inquiries. He's planning something.
+
+**Critical development:** Dreyara arrives within the week. V.Q. says she may bring a specimen for my examination—an actual Lorestone fragment, not just residue or energy samples. I've prepared the warded analysis chamber in the storage room in case the fragment proves... volatile.
+
+**Security concern:** V.Q. was unusually emphatic in his latest letter about discretion. "Do not discuss this work with anyone. The consequences of loose talk would be unfortunate." I'm being well-compensated for my silence, but his tone suggests he's not merely concerned about academic rivals.
+
+Whatever he's planning with these shards, it's reached a critical phase.
+
+---
+
 ## Hard to Find (DC 20 to locate)
 
-### Planar Rift Analysis - General Observations
+### Item 8: Planar Rift Analysis - General Observations
 
 _Day 12 - Ashkeeper Peaks Survey_
 
@@ -102,7 +169,7 @@ _Day 18_
 
 ---
 
-### Material Analysis - Planar Samples
+### Item 9: Material Analysis - Planar Samples
 
 _Day 67_
 
@@ -118,7 +185,7 @@ _Day 67_
 
 ## Well Hidden (DC 25 to locate)
 
-### Energy Signature Analysis
+### Item 10: Energy Signature Analysis
 
 _Day 31 - Multiple Rift Comparison_
 

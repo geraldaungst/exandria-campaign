@@ -3,50 +3,86 @@ processed: yes
 ---
 # CHANGES NEEDED
 
-### STILL NEEDED - MEDIUM PRIORITY
+Items 1-11 completed previously
 
-**11. Qalix Connection Evidence**
+## STILL NEEDED - MEDIUM PRIORITY
 
-- **Locations:** Throughout (but especially E6. Library)
-- **Add:** Correspondence from Qalix, payment records, references to Dreyara's visits, research commissioned specifically about Lorestone shards
-- **Purpose:** Show Lady Emer's employment relationship and role in larger plot
-
-**12. Luxon Beacon Context**
+### **12. Luxon Beacon Context**
 
 - **Location:** E6. Library > Stone Chest description and Lady Emer's research notes
 - **Current:** Minimal context about how she got it or what she thinks it is
-- **Add:** Notes showing she thinks it's a "temporal resonance crystal," acquired from merchant, frustrated she can't fully understand it, connection to rift experiments
 
-**13. Guardian Purpose Clarification**
+#### The Problem:
+
+The Luxon Beacon exists in the stone chest but has almost no context. We need _just enough_ to make it feel integrated into Lady Emer's research without over-explaining it.
+
+#### What We Need to Accomplish:
+
+**Create minimal context that:**
+
+1. Explains she acquired it at some point (vague on how/when/from whom)
+2. Shows she calls it a "temporal resonance crystal" (misidentification)
+3. Demonstrates her frustration - it's beyond her understanding
+4. Indicates she's tried to use it with rift research but couldn't crack it
+5. Reveals she **put it away** after the mental effects got concerning
+6. Leaves the details deliberately vague and open-ended
+
+#### Recommended Approach:
+
+**Add 2-3 brief entries to her existing research notes** (the ones we just finished) that:
+
+- Reference acquiring "a temporal resonance crystal" without details on source
+- Mention attempts to use it in rift experiments (results unclear/confusing)
+- Note troubling mental effects (whispers, temporal displacement)
+- Final entry: "Sealed it away for now - too dangerous to work with until I understand it better"
+
+This gives players enough to understand:
+
+- She had it
+- She didn't understand it
+- It scared her enough to lock it up
+- It connects somehow to her rift work
+
+But leaves open:
+
+- Where it came from
+- How long she's had it
+- What exactly it does
+- Why Qalix might or might not know about it
+- What she might have learned (if anything)
+
+**Total addition: ~3-4 paragraphs across 2-3 research note entries, deliberately vague and incomplete. These entries should be added to the file: [[Lady Emer's Research Notes]]**
+
+### **13. Guardian Purpose Clarification**
 
 - **Locations:** Various (guardians section, individual encounters)
 - **Current:** Guardians exist but unclear why researcher needs this much security
 - **Add:** Context that she's protecting valuable research, working on sensitive Qalix projects, needs isolation from interference
 
-### STILL NEEDED - LOW PRIORITY (Nice to Have)
+## STILL NEEDED - LOW PRIORITY (Nice to Have)
 
-**14. Lair Actions Flavor Text**
+### **14. Lair Actions Flavor Text**
 
 - **Location:** E6. Library > Lair Actions
 - **Current:** Generic magical effects
 - **Potential:** Could add flavor connecting them to planar research themes
 - **Note:** Works fine as-is, just could be enhanced
 
-**15. Transformation Story Details**
+### **15. Transformation Story Details**
 
 - **Location:** Background section (already mostly done)
 - **Current:** Basic transformation story exists
 - **Potential:** Could add more specific details about the rift encounter, experimentation process
 - **Note:** Sufficient detail already present
 
-### SUMMARY BY URGENCY
+## SUMMARY BY URGENCY
 
-**Should Fix Before Session:**
+### **Should Fix Before Session:**
 
-- #11 (Qalix connection evidence - adds important context)
+- #11 (Qalix connection evidence - adds important context) - DONE
 - #12 (Luxon Beacon backstory - players will ask questions)
 
-**Can Wait/Optional:**
+### **Can Wait/Optional:**
 
 - #13 (Guardian purpose - helps logic but not critical)
 - #14 (Lair action flavor - pure enhancement)
@@ -189,6 +225,10 @@ When the trap triggers, the chandeliers put on a brilliant light display as the 
 
 Treat the trap as a 4th-level spell for the purpose of dispel magic or similar effects. Destroying all three chandeliers ends the effect early. Each 10-foot-diameter chandelier has AC 13, 25 hit points, and immunity to poison and psychic damage. When a chandelier is destroyed, it falls to the ground. Each creature beneath a chandelier when it falls must make a DC 13 Dexterity saving throw, taking 35 (10d6) bludgeoning damage on a failed save, or half as much damage on a successful one.
 
+Hidden in a false shelf in one display case (DC 18 Investigation to locate) is a small leather pouch. Inside: 800 gp in platinum coins and a receipt written in the same precise handwriting as the letters in the library:
+
+"Payment received for services rendered. Quarterly retainer - 500 gp. Bonus for expedited rift analysis - 300 gp. Continue current research protocols. —V.Q."
+
 ### Treasure
 The items in the room and its display cases are Lady Emer’s hoard. See “Lady Emer’s Hoard” for more information.
 
@@ -207,6 +247,8 @@ If Lady Emer is here, she views the characters as a threat. She attacks from ato
 
 ### Poisonous Plants
 Characters who succeed on a DC 15 Intelligence (Nature) check know the plants in this garden thrive at high altitudes and many are poisonous. A character who is proficient with alchemist's supplies or herbalism kits knows which plants are most useful for alchemical purposes and can spend 10 minutes gathering blossoms to make one dose of each of the following poisons: malice and oil of taggit. That character can then spend 1 hour during a short or long rest to create a dose of one of those poisons. 
+
+Among the supplies near the poisonous plants, a wooden crate bears a shipping mark: **"V.Q. - Specimens - Handle with Caution."** Inside are empty glass vials with residue labels: "Rift Sample - Molaesmyr Site," "Planar Ash - Barbed Fields," "Corrupted Soil - Savalirwood."
 
 ### Statues
 The statues in the garden are petrified individuals who failed Lady Emer's exacting standards in various ways - incompetent assistants who couldn't follow protocols, thieves attempting to steal her research, and unfortunate travelers who stumbled into restricted areas of the keep. Each is a retainer who can serve the characters if freed:
@@ -258,7 +300,42 @@ When fighting inside her lair, Lady Emer can take lair actions. On initiative co
 Lady Emer's extensive library contains treatises on planar theory, rift mechanics, pre-Calamity magical techniques, studies of Molaesmyr's temporal experiments, and texts on controlled transformation magic. She also has several books full of her [[Lady Emer's Research Notes|research notes]]. Players who spend time reading and searching through her notes will get some useful information.
 
 ### Treasure
-Lady Emer’s desk holds hundreds of [[Lady Emer's Poems|poorly written poems]], twelve owlbear-feather quills, twelve griffon-feather quills, and inkpots with black, gold, green, and purple ink. The set of quills and inks is worth 50 gp. The desk drawers contain alchemist's supplies, cartographer's tools, jeweler's tools, navigator's tools, a set of mason's tools, and a pouch containing 3,130 gp. Lady Emer carries a key to the display cases in the grand salon (area E4). The room also contains the stone chest described below.
+Lady Emer’s desk holds hundreds of [[Lady Emer's Poems|poorly written poems]], twelve owlbear-feather quills, twelve griffon-feather quills, and inkpots with black, gold, green, and purple ink. The set of quills and inks is worth 50 gp. Lady Emer carries two keys: one to the display cases in the grand salon (area E4), and one for the strongbox in her desk. The room also contains the stone chest described below.
+
+The desk drawers contain alchemist's supplies, cartographer's tools, jeweler's tools, navigator's tools, a set of mason's tools, and a pouch containing 3,130 gp. Among the research tools and coin pouch, careful searchers find a locked iron strongbox (DC 15 to pick, Lady Emer carries the key). Inside:
+ - A leather-bound ledger showing payments received over the past 18 months. Entries are coded with initials "V.Q." alongside amounts (ranging from 500-2,000 gp) and terse notes: "Rift observation - Savalirwood site," "Planar resonance testing," "Shard fragment analysis," "Temporal anchor research."
+ - Three letters on expensive parchment, written in precise, emotionless handwriting:
+ 
+ **Letter 1 (oldest, ~14 months ago):**
+> "Lady Emer,
+> 
+> Your expertise comes highly recommended. I require a secure, isolated research facility and a scholar versed in planar phenomena. The work concerns rift stabilization and artifact analysis—sensitive matters requiring absolute discretion.
+> 
+> Initial compensation: 2,000 gp for facility preparation and first quarter's retainer. Additional materials and specimens will be provided as needed.
+> 
+> My associate will contact you to arrange delivery schedules.
+> 
+> —V.Q."
+
+**Letter 2 (mid-period, ~8 months ago):**
+
+> "Your progress reports on the temporal resonance properties are adequate, though I expect more detailed analysis of the crystal's interaction with planar energy. Dreyara will visit within the fortnight to examine your findings and deliver additional research materials. Provide her with your complete analysis—her assessment will determine our next steps.
+> 
+> Continue monitoring the rift sites I designated. Any anomalous behavior must be documented immediately.
+> 
+> Your latest request for additional funding is approved. 1,500 gp enclosed.
+> 
+> —V.Q."
+
+**Letter 3 (recent, ~1 week ago):**
+
+> "The Lorestone research takes priority above all other projects. I need complete analysis of resonance patterns between fragments—how they react when in proximity, what energies they emit, potential for reconstruction.
+> 
+> Dreyara will be visiting soon. Prepare workspace for sensitive examination. She may bring specimens requiring your immediate attention and will need secure storage during her stay.
+> 
+> Do not discuss this work with anyone. The consequences of loose talk would be... unfortunate.
+> 
+> —V.Q."
 
 ### Stone Chest
 
