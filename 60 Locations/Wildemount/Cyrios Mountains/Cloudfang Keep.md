@@ -20,7 +20,7 @@ The Luxon Beacon exists in the stone chest but has almost no context. We need _j
 
 **Create minimal context that:**
 
-1. Explains she acquired it at some point (vague on how/when/from whom)
+1. Explains she acquired it at some point (can point to the immediate contact point, but the origin should be vague--the provenance is murky by design and Lady Emer doesn't care to know too much.)
 2. Shows she calls it a "temporal resonance crystal" (misidentification)
 3. Demonstrates her frustration - it's beyond her understanding
 4. Indicates she's tried to use it with rift research but couldn't crack it
@@ -43,15 +43,15 @@ This gives players enough to understand:
 - It scared her enough to lock it up
 - It connects somehow to her rift work
 
-But leaves open:
+But leaves open (for both players AND the DM for now):
 
 - Where it came from
 - How long she's had it
-- What exactly it does
+- What exactly it does (DM would know this since it's a known item in Exandrian lore and source books)
 - Why Qalix might or might not know about it
 - What she might have learned (if anything)
 
-**Total addition: ~3-4 paragraphs across 2-3 research note entries, deliberately vague and incomplete. These entries should be added to the file: [[Lady Emer's Research Notes]]**
+**Total addition: ~3-4 paragraphs across 2-3 research note entries, deliberately vague and incomplete. These entries should be added to the file: [[Lady Emer's Research Notes]]**.
 
 ### **13. Guardian Purpose Clarification**
 
