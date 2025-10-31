@@ -9,18 +9,20 @@ Longer searches will locate more items, as well as making them easier to find. F
 
 ## Quick Reference Table
 
-| Item # | Title                                          | DC to Locate (15 min search) | 30 min | 60 min | 90 min | 2 hr |
-| ------ | ---------------------------------------------- | ---------------------------- | ------ | ------ | ------ | ---- |
-| 1      | Personal Transformation Research               | 10                           | 8      | 6      | 4      | 2    |
-| 2      | Correspondence Fragment - Unknown Recipient    | 10                           | 8      | 6      | 4      | 2    |
-| 3      | Theoretical Framework - Rift Origins           | 15                           | 13     | 11     | 9      | 7    |
-| 4      | Final Entry - Growing Concerns                 | 15                           | 13     | 11     | 9      | 7    |
-| 5      | Collaboration Notes - Vaud Qalix               | 15                           | 13     | 11     | 9      | 7    |
-| 6      | Field Study - Savalirwood Site Delta           | 15                           | 13     | 11     | 9      | 7    |
-| 7      | Lorestone Fragment Analysis - Priority Project | 18                           | 16     | 14     | 12     | 10   |
-| 8      | Planar Rift Analysis - General Observations    | 20                           | 18     | 16     | 14     | 12   |
-| 9      | Material Analysis - Planar Samples             | 20                           | 18     | 16     | 14     | 12   |
-| 10     | Energy Signature Analysis                      | 25                           | 23     | 21     | 19     | 17   |
+| Item # | Title                                                  | DC to Locate (15 min search) | 30 min | 60 min | 90 min | 2 hr |
+| ------ | ------------------------------------------------------ | ---------------------------- | ------ | ------ | ------ | ---- |
+| 1      | Personal Transformation Research                       | 10                           | 8      | 6      | 4      | 2    |
+| 2      | Correspondence Fragment - Unknown Recipient            | 10                           | 8      | 6      | 4      | 2    |
+| 3      | Theoretical Framework - Rift Origins                   | 15                           | 13     | 11     | 9      | 7    |
+| 4      | Final Entry - Growing Concerns                         | 15                           | 13     | 11     | 9      | 7    |
+| 5      | Collaboration Notes - Vaud Qalix                       | 15                           | 13     | 11     | 9      | 7    |
+| 6      | Field Study - Savalirwood Site Delta                   | 15                           | 13     | 11     | 9      | 7    |
+| 7      | Lorestone Fragment Analysis - Priority Project         | 18                           | 16     | 14     | 12     | 10   |
+| 8      | Temporal Resonance Crystal - Initial Discovery         | 18                           | 16     | 14     | 12     | 10   |
+| 9      | Planar Rift Analysis - General Observations            | 20                           | 18     | 16     | 14     | 12   |
+| 10     | Material Analysis - Planar Samples                     | 20                           | 18     | 16     | 14     | 12   |
+| 11     | Temporal Resonance Crystal - Experimentation Suspended | 20                           | 18     | 16     | 14     | 12   |
+| 12     | Energy Signature Analysis                              | 25                           | 23     | 21     | 19     | 17   |
 
 ## Easily Found (DC 10 to Locate)
 
@@ -151,11 +153,35 @@ These aren't theoretical inquiries. He's planning something.
 
 Whatever he's planning with these shards, it's reached a critical phase.
 
+### Item 8: Temporal Resonance Crystal - Initial Discovery
+
+_Day 61 - Savalirwood Expedition_
+
+Made an extraordinary discovery at the Savalirwood rift site. The recent expansion of the rift's energy field apparently disturbed the surrounding terrain—found a crystalline dodecahedron partially exposed in the collapsed earth approximately twenty feet from the rift's edge. Gray translucent material, roughly eight inches across, unlike anything in my collection.
+
+The artifact pulses with faint internal light. Even without magical examination, I can feel temporal weight emanating from it—as if it exists slightly out of phase with normal time.
+
+**Initial Analysis**: Cast _Identify_ to determine its properties. The experience was... unsettling. The magic within is utterly alien, operating on principles outside standard arcane theory. Instead of clear information, I received overwhelming sensory input—an expanse of endless void, whispers in languages I don't recognize, the sensation of existing in multiple timelines simultaneously.
+
+What I could determine:
+
+- Definitely magical (obviously)
+- Temporal manipulation properties confirmed
+- Requires physical contact and concentration to activate
+- Origin: Unknown (predates any magical tradition I recognize)
+- Purpose: Unclear
+
+**Working theory**: This "temporal resonance crystal" may be connected to the rift phenomena. Its presence here cannot be coincidence. Perhaps it's a focusing device from pre-Calamity experiments? Or a natural formation created by prolonged exposure to rift energy?
+
+The possibilities are tantalizing. If I can understand how it manipulates time, it might provide the key to predicting or even controlling rift behavior.
+
+**Next steps**: Careful experimentation required. The mental effects from the _Identify_ attempt suggest this artifact should not be handled carelessly.
+
 ---
 
 ## Hard to Find (DC 20 to locate)
 
-### Item 8: Planar Rift Analysis - General Observations
+### Item 9: Planar Rift Analysis - General Observations
 
 _Day 12 - Ashkeeper Peaks Survey_
 
@@ -169,7 +195,7 @@ _Day 18_
 
 ---
 
-### Item 9: Material Analysis - Planar Samples
+### Item 10: Material Analysis - Planar Samples
 
 _Day 67_
 
@@ -183,9 +209,42 @@ _Day 67_
 
 ---
 
+### Item 11: Temporal Resonance Crystal - Experimentation Suspended
+
+_Day 73 - Research Complications_
+
+I've sealed the temporal crystal away in the stone chest. The experiments have become... problematic.
+
+**Attempted Applications**:
+
+- Measuring temporal distortion near active rifts: Inconclusive. The crystal's field interfered with standard measurement enchantments.
+- Using it as a focusing lens for rift observation: The crystal responded to rift proximity, but not in predictable ways. Sometimes it amplified my perception; other times it seemed to suppress rift visibility entirely.
+- Analyzing its internal structure: Impossible. Standard divination magic slides off it like water off glass.
+
+**Mental Effects (Critical Concern)**: After extended exposure during experiments, I've experienced:
+
+- Whispers in my thoughts when near the crystal
+- Sensation of temporal displacement (feeling as though I'm observing myself from moments in the past or future)
+- Difficulty distinguishing which timeline I currently occupy
+- Vivid dreams of other lives, other versions of myself making different choices
+
+These effects persist for hours after handling the artifact and seem to be cumulative. Extended research could lead to permanent mental alteration.
+
+**Conclusion**: The crystal clearly possesses power related to temporal manipulation, but its mechanisms remain beyond my current understanding. It may be designed to work in conjunction with other artifacts or require knowledge I simply don't possess.
+
+Until I can determine safe handling protocols—or find documentation of similar artifacts—it's too dangerous for continued study. The Shadowfell ichor sample caused whispers; this crystal causes temporal dissociation. I need to be more cautious about which artifacts I work with directly.
+
+Sealed in the stone chest with my other volatile specimens. I may revisit this research if I find relevant historical texts or if circumstances demand taking the risk.
+
+**Note for future reference**: The crystal responded most strongly when brought near other powerful magical artifacts. Possible indicator that it's meant to interact with specific paired objects rather than function independently.
+
+---
+
+
+
 ## Well Hidden (DC 25 to locate)
 
-### Item 10: Energy Signature Analysis
+### Item 12: Energy Signature Analysis
 
 _Day 31 - Multiple Rift Comparison_
 

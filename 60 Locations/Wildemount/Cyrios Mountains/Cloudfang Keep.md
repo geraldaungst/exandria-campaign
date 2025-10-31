@@ -1,96 +1,7 @@
 ---
 processed: yes
 ---
-# CHANGES NEEDED
-
-Items 1-11 completed previously
-
-## STILL NEEDED - MEDIUM PRIORITY
-
-### **12. Luxon Beacon Context**
-
-- **Location:** E6. Library > Stone Chest description and Lady Emer's research notes
-- **Current:** Minimal context about how she got it or what she thinks it is
-
-#### The Problem:
-
-The Luxon Beacon exists in the stone chest but has almost no context. We need _just enough_ to make it feel integrated into Lady Emer's research without over-explaining it.
-
-#### What We Need to Accomplish:
-
-**Create minimal context that:**
-
-1. Explains she acquired it at some point (can point to the immediate contact point, but the origin should be vague--the provenance is murky by design and Lady Emer doesn't care to know too much.)
-2. Shows she calls it a "temporal resonance crystal" (misidentification)
-3. Demonstrates her frustration - it's beyond her understanding
-4. Indicates she's tried to use it with rift research but couldn't crack it
-5. Reveals she **put it away** after the mental effects got concerning
-6. Leaves the details deliberately vague and open-ended
-
-#### Recommended Approach:
-
-**Add 2-3 brief entries to her existing research notes** (the ones we just finished) that:
-
-- Reference acquiring "a temporal resonance crystal" without details on source
-- Mention attempts to use it in rift experiments (results unclear/confusing)
-- Note troubling mental effects (whispers, temporal displacement)
-- Final entry: "Sealed it away for now - too dangerous to work with until I understand it better"
-
-This gives players enough to understand:
-
-- She had it
-- She didn't understand it
-- It scared her enough to lock it up
-- It connects somehow to her rift work
-
-But leaves open (for both players AND the DM for now):
-
-- Where it came from
-- How long she's had it
-- What exactly it does (DM would know this since it's a known item in Exandrian lore and source books)
-- Why Qalix might or might not know about it
-- What she might have learned (if anything)
-
-**Total addition: ~3-4 paragraphs across 2-3 research note entries, deliberately vague and incomplete. These entries should be added to the file: [[Lady Emer's Research Notes]]**.
-
-### **13. Guardian Purpose Clarification**
-
-- **Locations:** Various (guardians section, individual encounters)
-- **Current:** Guardians exist but unclear why researcher needs this much security
-- **Add:** Context that she's protecting valuable research, working on sensitive Qalix projects, needs isolation from interference
-
-## STILL NEEDED - LOW PRIORITY (Nice to Have)
-
-### **14. Lair Actions Flavor Text**
-
-- **Location:** E6. Library > Lair Actions
-- **Current:** Generic magical effects
-- **Potential:** Could add flavor connecting them to planar research themes
-- **Note:** Works fine as-is, just could be enhanced
-
-### **15. Transformation Story Details**
-
-- **Location:** Background section (already mostly done)
-- **Current:** Basic transformation story exists
-- **Potential:** Could add more specific details about the rift encounter, experimentation process
-- **Note:** Sufficient detail already present
-
-## SUMMARY BY URGENCY
-
-### **Should Fix Before Session:**
-
-- #11 (Qalix connection evidence - adds important context) - DONE
-- #12 (Luxon Beacon backstory - players will ask questions)
-
-### **Can Wait/Optional:**
-
-- #13 (Guardian purpose - helps logic but not critical)
-- #14 (Lair action flavor - pure enhancement)
-- #15 (Transformation details - sufficient as-is)
-
----
-
-When Lady Emer was human, she excelled as a scout in the mercenary Emissaries of the Sunfall. During her travels, she encountered a planar rift and became fascinated by the raw, chaotic energy it contained. She began experimenting with planar magic, seeking to understand its nature and harness its power. Her experiments led to her transformation into a medusa, a change she embraced as a step closer to understanding the fundamental forces of reality.
+When Lady Emer was human, she excelled as a scout in the mercenary Emissaries of the Sunfall. During her travels, she encountered a planar rift and became fascinated by the raw, chaotic energy it contained. She began experimenting with planar magic, seeking to understand its nature and harness its power. Her transformation into a medusa occurred during one of these early experiments with rift energy—though the exact circumstances remain unclear even to her, the memories fragmented and distorted by the very forces she was studying. Rather than reject what she became, she embraced the transformation as proof of her theories and a unique opportunity to understand how rift energy affects living beings from direct experience.
 
 Emer now seeks to master planar magic, driven by a thirst for knowledge and the potential for immense power. She believes the Lorestone shards are keys to unlocking the secrets of the planes and controlling the rifts that scar Exandria.
 
@@ -292,9 +203,9 @@ If the characters refuse to participate, seem insincere, or fail so badly she qu
 ### Lair Actions
 When fighting inside her lair, Lady Emer can take lair actions. On initiative count 20 (losing initiative ties), she can take one lair action to cause one of the following effects; she can’t use the same lair action two rounds in a row:
 
-- Shadowstep. Emer teleports up to 30 feet to an unoccupied space she can see.
-- Stony Wail. The statues in Emer’s lair scream in pain. Each enemy within 60 feet of Emer who can hear the statues must succeed on a DC 15 Wisdom saving throw or be frightened of Emer until the end of initiative count 20 on the next round.
-- Venom Shower. Black venom rains down in a 10-foot-radius, 40-foot-high cylinder centered on a point Emer can see within 90 feet of her. Each creature in that area must succeed on a DC 15 Constitution saving throw or be poisoned until the end of initiative count 20 on the next round.
+- **Shadowstep**. Emer teleports up to 30 feet to an unoccupied space she can see.
+- **Stony Wail**. The statues in Emer’s lair scream in pain. Each enemy within 60 feet of Emer who can hear the statues must succeed on a DC 15 Wisdom saving throw or be frightened of Emer until the end of initiative count 20 on the next round.
+- **Rift Pulse**. Reality warps as rift energy surges through the lair. Each creature other than Emer within 20 feet of her must succeed on a DC 15 Intelligence saving throw or take 2d6 psychic damage, or half as much damage on a successful save. On a failed save, the creature is also teleported 10 feet in a random direction (including vertically, 1d10 for direction) and has disadvantage on attack rolls until the end of its next turn due to disorientation. If the teleported creature ends up in an occupied space, the creature appears in the nearest unoccupied space instead.
 
 ### Books
 Lady Emer's extensive library contains treatises on planar theory, rift mechanics, pre-Calamity magical techniques, studies of Molaesmyr's temporal experiments, and texts on controlled transformation magic. She also has several books full of her [[Lady Emer's Research Notes|research notes]]. Players who spend time reading and searching through her notes will get some useful information.
