@@ -124,7 +124,7 @@ Once an area is clear of enemies, the characters can take a short rest there uni
 # Entering Cloud Fang Keep
 Perched atop Frigid Summit, Cloud Fang Keep is 23,421 feet above sea level. The area outside the lair is a high altitude and extreme cold environment. You can find rules for these adventure environments in the game’s core rules.
 
-The crumbling castle’s stone double doors are flanked by two trained owlbears disguised as statues thanks to an illusion created by the castle. If the characters observe the castle from a distance for at least 5 minutes before entering, they notice that another four owlbears patrol the castle’s perimeter, while four griffons patrol the skies and occasionally visit a nest atop the ruined tower.
+The crumbling castle’s stone double doors are flanked by two trained owlbears disguised as statues thanks to an illusion created by the castle. If the characters observe the castle from a distance for at least 5 minutes before entering, they notice that another four owlbears patrol the castle’s perimeter, while four griffons patrol the skies and occasionally visit a nest atop the ruined tower.x
 
 As the party approaches the castle, characters who succeed on a DC 15 Wisdom (Perception) check notice the owlbear statues twitching and breathing; otherwise, they are surprised when the owlbears attack. When the characters come within 30 feet of the owlbears, the owlbears attack and the statue illusion ends. At the start of the second round of combat, the four owlbears on patrol join the fray. A blood-borne ooze emerges from the first two owlbears to die.
 
