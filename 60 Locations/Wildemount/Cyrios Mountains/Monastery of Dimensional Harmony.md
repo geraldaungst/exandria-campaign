@@ -77,6 +77,22 @@ When the ritual catastrophically failed 300 years ago, the combination of dimens
 - Don't add meenlocks to spider territory areas (10, 11, 19, 20)
 - Phase spiders remain the monastery's central moral dilemma
 
+## Additional change
+
+Add a Blink Bomb as discoverable treasure somewhere in the Keep (as well as one on Lady Emer's desk).
+
+### Blink Bomb
+
+_Wondrous item, uncommon_
+
+This small sphere contains alchemically treated smoke powder. When thrown or crushed, it creates a brief planar distortion that allows short-range teleportation.
+
+As an action, you can throw the blink bomb at your feet or crush it in your hand. You teleport up to 30 feet to an unoccupied space that you are familiar with or can visualize by describing its location relative to your current position (such as "the room on the other side of this wall" or "15 feet north through the door"). You do not need to see your destination, but if the space is occupied or if there is no valid space at that location, the teleportation fails and the blink bomb is consumed without effect.
+
+The blink bomb produces a brief flash of smoke, a faint crackling sound, and the air appears to twist slightly at both your departure and arrival points.
+
+Once used, the blink bomb is consumed and cannot be used again.
+
 ---
 
 ## Adventure Background
