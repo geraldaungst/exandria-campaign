@@ -41,7 +41,7 @@ tags:
 	- Lady Emer may have a Pearl of Power in her collection
 - What they don't know:
 	- [[Lady Emer]] has transformed herself into a medusa.
-	- The pearl of power she carries is actually the [[Lawbringer's Tear]]. Lady Emer doesn't even realize it is an artifact.
+	- The pearl of power she carries is actually the [[Lawbearer's Tear]]. Lady Emer doesn't even realize it is an artifact.
 
 # Plot Hierarchy
 - Parent Plot: 

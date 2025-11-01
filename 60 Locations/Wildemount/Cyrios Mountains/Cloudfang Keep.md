@@ -334,6 +334,9 @@ Lady Emer’s grand salon (area E4) contains the bulk of her assassination troph
 - 2 viols (worth 30 gp each)
 - Ornate crystal flute (worth 350 gp)
 - Heavy ebony crossbow with gold filigree (worth 1,500 gp)
+- 1 Pearl of Power
+
+The Pearl of Power is actually the [[Lawbearer's Tear]], a Vestige of the Divergence, though Lady Emer has no idea it is this.
 
 ### Griffon Egg
 This 3-foot-diameter, 4-foot-high egg weighs 200 pounds. After 1d6 weeks, a Medium baby griffon noncombatant hatches from the egg. After 1 year, the creature becomes a griffon companion. The GM can advance or slow this timeline to suit the campaign’s pacing.
