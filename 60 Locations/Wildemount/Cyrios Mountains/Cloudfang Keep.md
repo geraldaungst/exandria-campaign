@@ -136,9 +136,9 @@ When the trap triggers, the chandeliers put on a brilliant light display as the 
 
 Treat the trap as a 4th-level spell for the purpose of dispel magic or similar effects. Destroying all three chandeliers ends the effect early. Each 10-foot-diameter chandelier has AC 13, 25 hit points, and immunity to poison and psychic damage. When a chandelier is destroyed, it falls to the ground. Each creature beneath a chandelier when it falls must make a DC 13 Dexterity saving throw, taking 35 (10d6) bludgeoning damage on a failed save, or half as much damage on a successful one.
 
-Hidden in a false shelf in one display case (DC 18 Investigation to locate) is a small leather pouch. Inside: 800 gp in platinum coins and a receipt written in the same precise handwriting as the letters in the library:
+Hidden in a false shelf in one display case (DC 18 Investigation to locate) is a small leather pouch. Inside: 80 pp and a receipt written in the same precise handwriting as the letters in the library:
 
-"Payment received for services rendered. Quarterly retainer - 500 gp. Bonus for expedited rift analysis - 300 gp. Continue current research protocols. —V.Q."
+"Payment received for services rendered. Quarterly retainer - 50 pp. Bonus for expedited rift analysis - 30 pp. Continue current research protocols. —V.Q."
 
 ### Treasure
 The items in the room and its display cases are Lady Emer’s hoard. See “Lady Emer’s Hoard” for more information.
@@ -203,7 +203,7 @@ If the characters refuse to participate, seem insincere, or fail so badly she qu
 ### Lair Actions
 When fighting inside her lair, Lady Emer can take lair actions. On initiative count 20 (losing initiative ties), she can take one lair action to cause one of the following effects; she can’t use the same lair action two rounds in a row:
 
-- **Shadowstep**. Emer teleports up to 30 feet to an unoccupied space she can see.
+- **Shadowstep**. Emer teleports up to 30 feet to an unoccupied space she can see or knows well.
 - **Stony Wail**. The statues in Emer’s lair scream in pain. Each enemy within 60 feet of Emer who can hear the statues must succeed on a DC 15 Wisdom saving throw or be frightened of Emer until the end of initiative count 20 on the next round.
 - **Rift Pulse**. Reality warps as rift energy surges through the lair. Each creature other than Emer within 20 feet of her must succeed on a DC 15 Intelligence saving throw or take 2d6 psychic damage, or half as much damage on a successful save. On a failed save, the creature is also teleported 10 feet in a random direction (including vertically, 1d10 for direction) and has disadvantage on attack rolls until the end of its next turn due to disorientation. If the teleported creature ends up in an occupied space, the creature appears in the nearest unoccupied space instead.
 
@@ -250,7 +250,7 @@ The desk drawers contain alchemist's supplies, cartographer's tools, jeweler's t
 
 ### Stone Chest
 
-> A rectangular stone chest sits prominently on a reinforced shelf, carved from the same dark stone as the keep's construction. The lid features an elaborate relief carving of Lady Emer's face in her current medusa form - serpentine hair writhing around a beautiful but cold visage. Her eyes are inlaid with polished obsidian stones that seem to gleam with inner light regardless of the room's illumination. The carving shows remarkable detail, from the scales on her snake-hair to the slight curve of her lips, as if she were about to speak.
+> A rectangular stone chest sits prominently on a reinforced shelf, carved from the same dark stone as the keep's construction. The lid features an elaborate relief carving of Lady Emer's face in her current medusa form - serpentine hair writhing around a beautiful but cold visage. Her eyes are inlaid with polished moonstones that seem to gleam with inner light regardless of the room's illumination. The carving shows remarkable detail, from the scales on her snake-hair to the slight curve of her lips, as if she were about to speak.
 > 
 > Around the edge of the lid, carved in flowing Draconic script, are the words: _"Stone eyes see, but do stone ears hear?"_
 
@@ -258,21 +258,22 @@ The desk drawers contain alchemist's supplies, cartographer's tools, jeweler's t
 
 **Lock Mechanism**:
 
-- Both obsidian eyes must be pressed simultaneously
+- Both moonstone eyes must be pressed simultaneously
 - The Draconic passphrase _"Stone hearts beat with temporal rhythm"_ must be spoken while pressing the eyes
 - The eyes require firm, deliberate pressure - a casual touch won't activate them
 
 **Discovery**:
 
-- **DC 12 Investigation**: Reveals the Draconic inscription around the lid's edge
-- **DC 15 Investigation**: Notices that the obsidian eyes can be depressed slightly, suggesting they're meant to be pressed
+- **DC 15 Investigation**: Notices that the moonstone eyes can be depressed slightly, suggesting they're meant to be pressed
+- DC 15 Arcana: Realizes there's both a mechanical and a magical element to unlocking the chest.
+- DC 18 Arcana or Investigation: "Stone ears hear" must mean there's a spoken passphrase.
 - Anyone who has read Lady Emer's poetry and succeeds on a **DC 10 Intelligence check** recognizes the "stone" theme connection to her poems
 
 **Trap** (Wrong passphrase, no passphrase, or pressing eyes without speaking):
 
 #### Trap Activation
 
-> The obsidian eyes suddenly flash with brilliant light. The person touching the chest must immediately make a DC 15 Constitution saving throw. On a failure, gray stone begins creeping up their arms from where they touched the eyes, and they become paralyzed as partial petrification sets in.
+> The moonstone eyes suddenly flash with brilliant light. The person touching the chest must immediately make a DC 15 Constitution saving throw. On a failure, gray stone begins creeping up their arms from where they touched the eyes, and they become paralyzed as partial petrification sets in.
 > 
 > Simultaneously, the carved mouth snaps open with an audible crack, revealing rows of stone teeth. A piercing, inhuman shriek erupts from the opening - a sound like grinding stone mixed with a serpent's hiss that seems to reverberate through your very bones.
 
@@ -282,9 +283,36 @@ The desk drawers contain alchemist's supplies, cartographer's tools, jeweler's t
 - **All creatures in room**: DC 13 Constitution save or stunned until end of their next turn
 - **Alert**: The shriek can be heard throughout the keep and will draw any remaining guardians
 
+#### **Disarming the Trap**
+
+**Dispel Magic:**
+
+- **5th level** seems right - it's a serious security measure but not legendary-tier magic
+- Lady Emer is a skilled spellcaster but not an archmage
+- Matches the DC 15 saves, suggesting ~5th level spell equivalency
+
+**Thieves' Tools:**
+
+- **DC 18 Dexterity check** to carefully scratch out or disable the magical runes that trigger the petrification effect
+- Takes 5-10 minutes of careful work
+- Failure doesn't trigger the trap (they realize they're about to mess it up)
+- Failure by 5+ might trigger it
+
+**Alternative Methods:**
+
+- **DC 15 Arcana check** to identify the exact nature of the enchantment, granting advantage on the Thieves' Tools check
+- **Covering the carved eyes** with something (cloth, wax, etc.) could prevent the flash, negating the petrification effect but not the shriek
+- **Muffling the mouth** (stuffing it with cloth before attempting) could reduce the shriek to a 10-foot radius instead of the whole room
+- **Detect Magic** would reveal the trap exists but not how to disable it
+
+**Once Disarmed:**
+
+- **DC 17 Dexterity check with Thieves' Tools** to pick the actual lock mechanism that keeps the lid closed
+- Or use the correct passphrase, which bypasses both trap and lock
+
 #### Successful Opening
 
-> As you speak the Draconic phrase and press the obsidian eyes, they sink smoothly into the carved face with a soft _click_. The mouth curves into what might almost be a satisfied smile, and the lid swings open with a whisper of well-oiled hinges.
+> As you speak the Draconic phrase and press the moonstone eyes, they sink smoothly into the carved face with a soft _click_. The mouth curves into what might almost be a satisfied smile, and the lid swings open with a whisper of well-oiled hinges.
 > 
 > Inside, nestled in black velvet padding, lies a gray crystalline dodecahedron approximately eight inches across. The artifact pulses with a faint, undulating light that seems to shift and flow beneath its translucent surface. Even at rest, the crystal emanates an almost tangible sense of temporal weight - as if it exists slightly out of step with the normal flow of time.
 > 
