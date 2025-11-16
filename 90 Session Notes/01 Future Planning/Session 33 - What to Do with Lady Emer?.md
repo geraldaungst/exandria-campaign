@@ -198,7 +198,8 @@ Then after result, turn to room: "Lady Emer lies beneath the immovable shield, h
 
 - Goal: 4 successes before 3 failures
 - Starting DC: 20 (already accounts for Drawg's dragon nature)
-- Each success lowers DC by 2 for next attempt
+- Each success after the first lowers DC by 2 for next attempt
+- Two consecutive failures increases the DC by 2
 - Timeframe: Hours, not days
 
 **Tracking:**
@@ -231,6 +232,18 @@ Then after result, turn to room: "Lady Emer lies beneath the immovable shield, h
 - Attitude: Hostile (protective of Emer, uncertain about these strangers)
 - If Emer alive: May be easier to sway with her help
 - If Emer dead: More resistant initially (+2 to first 3 DCs) but ultimately more available
+
+**Wyvern dialogue snippets (Int 5, simple thoughts):**
+
+- "Soft things run. Fun chase."
+- "Snakeface brings meat. Good meat."
+- "Snakeface kind to me. Give me play things."
+- "Mine. My sky. My rocks."
+- "Hurt tail-biters before. They stay away now." [referring to basilisks learning to give her space]
+- "Warm here. Safe here. Many meals."
+- "You smell wrong. Not-food?" [confusion at being talked to]
+- "Boring. Boring. Boring... FOOD!" [her typical day]
+- "Sting makes them slow. Easy."
 
 ### Location Details
 
