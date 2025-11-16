@@ -252,9 +252,13 @@ The desk drawers contain alchemist's supplies, cartographer's tools, jeweler's t
 
 ### Stone Chest
 
+![[medusa-chest.png]]
+
 > A rectangular stone chest sits prominently on a reinforced shelf, carved from the same dark stone as the keep's construction. The lid features an elaborate relief carving of Lady Emer's face in her current medusa form - serpentine hair writhing around a beautiful but cold visage. Her eyes are inlaid with polished moonstones that seem to gleam with inner light regardless of the room's illumination. The carving shows remarkable detail, from the scales on her snake-hair to the slight curve of her lips, as if she were about to speak.
 > 
-> Around the edge of the lid, carved in flowing Draconic script, are the words: _"Stone eyes see, but do stone ears hear?"_
+> Around the edge of the lid, carved in flowing script, are the words: _"Thurkilti veth darastrixi vis, shar ir thurkilti avtili thurir?"_
+
+Any creature that can read Draconic will know this translates to: "Stone eyes see, but what do stone ears hear?"
 
 #### Mechanics
 
