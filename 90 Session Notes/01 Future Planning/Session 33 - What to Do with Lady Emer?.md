@@ -17,14 +17,14 @@ tags:
 > - Location(s): Cloudfang Keep (E6. Library → E5. Stone Garden)
 > - Active Plots: Rescue Varnes Dwell, Assembling the Lorestone, Drawg's Dagger Quest
 > - Key NPCs: Lady Emer, Varnes Dwell (petrified), Dreyara Drimvar (arrives later)
-> - Previous Session: Party arrived at Keep, began conversation with Lady Emer in Library
+> - Previous Session: [[Session 32 - Confronting Lady Emer]]
 > - Next Session: TBD (likely travel east / Monastery encounter)
 
 # Pre-Session Review (30-45 min)
 
 ## Previous Content
 
-- [x] Read previous session notes - Party traveled 16 days to reach Cloudfang Keep
+- [x] Read previous session notes - Party subdued Lady Emer and trapped her beneath Drawg's shield
 - [x] Check Seeds Planted - Dreyara has Drawg's blade, party knows she's heading to Keep
 - [x] Review active plot threads - Rescue Varnes, stop Dreyara, protect Lorestone shards
 - [x] Note character goals/interests - Drawg wants blade, party knows Dreyara is threat
@@ -92,26 +92,7 @@ tags:
 
 ## Strong Start
 
-**Opening scene:** Continue conversation with Lady Emer in Library. Multiple players have stated intent to attack her - expect combat to begin within first 10-15 minutes.
-
-**Purpose:**
-
-- Resolve Lady Emer encounter (combat → surrender → information)
-- Rescue Varnes and get Rexxentrum intel
-- Set up party's choice: wait for Dreyara or leave immediately
-
-**Connected plots:**
-
-- Rescue Varnes (resolution)
-- Lorestone assembly (new info about Shard 5)
-- Drawg's dagger (choice point: ambush vs. pursue)
-
-**Required prep:**
-
-- Lady Emer combat stats and tactics ready
-- Surrender speech and information tiers
-- Varnes's urgent intel delivery speech
-- 6-7 freed NPC statues (names, brief descriptions)
+**Opening scene:** Continue conversation with Lady Emer in Library. See [[Lady Emer Conversation Progression]] for more details.
 
 ---
 
@@ -119,20 +100,7 @@ tags:
 
 ### Potential Scenes
 
-**1. Combat with Lady Emer**
-
-- Connected plots/NPCs: All active plots, Lady Emer, indirect connection to Dreyara/Qalix
-- Potential outcomes:
-    - She dies (no intel, can't warn Dreyara beyond dead guardians)
-    - She surrenders (provides information, tries to warn Dreyara)
-    - Party captures her (interrogation, possible bait for ambush)
-- Required prep:
-    - Combat stats (CR 11 medusa modified)
-    - Stone Garden layout and tactics
-    - Surrender threshold and speech (~40 HP)
-    - See [[Cloudfang and Monastery DM Guide#PHASE 1 LADY EMER COMBAT & SURRENDER|Phase 1 - Lady Emer Combat]]
-
-**2. Lady Emer's Surrender & Interrogation**
+**1. Lady Emer's Surrender & Interrogation**
 
 - Connected plots/NPCs: Information about Qalix operation, Dreyara's role, Lorestone research
 - Potential outcomes:
@@ -146,7 +114,7 @@ tags:
     - DCs for detecting/preventing warning
     - See [[Cloudfang and Monastery DM Guide#PHASE 2 PARTY CHOICES FOR LADY EMER|Phase 2 - Party Choices]]
 
-**3. Freeing Varnes and Other Statues**
+**2. Freeing Varnes and Other Statues**
 
 - Connected plots/NPCs: Rescue mission resolution, Varnes provides critical intel
 - Potential outcomes:
