@@ -108,6 +108,8 @@ The rubble is difficult terrain for creatures who walk on four or fewer legs. (T
 ### Basilisks
 Blinkers and Blunders are Lady Emer’s prized pet basilisks. Each wears a dragon-scale collar with a gold name tag. A creature who has a passive Wisdom (Perception) score of 17 or higher notices the basilisks sleeping among the rubble and spots their shiny collars. If the characters succeed on a DC 12 group Dexterity (Stealth) check, they can sneak through the room without waking the basilisks. A character who succeeds on a DC 17 Dexterity (Sleight of Hand) check can remove a basilisk’s collar without waking the creature.
 
+**Alchemical Ingredients**. After the basilisk dies, a creature can make a DC 12 Wisdom (Medicine) check using an herbalism kit and the basilisk’s gullet, destroying the gullet in the process. On a success, the creature creates three doses of a salve. One dose of this salve can be applied to a petrified creature as an action, and 1 minute after the salve is applied, the petrified condition ends for that creature.
+
 ### Trapped Glyph
 The rubble-covered glyph is a trap created by the illusionist who lived in the keep. Lady Emer and her guardians know about the trap and only use the north entrance to the room. A creature who succeeds on a DC 17 Intelligence (Investigation) check notices the glyph on the ground. A detect magic spell reveals the glyph’s aura of illusion magic.
 

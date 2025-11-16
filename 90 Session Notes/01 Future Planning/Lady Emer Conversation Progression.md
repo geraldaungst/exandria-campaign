@@ -3,483 +3,614 @@
 ## Initial State
 
 - **Location**: Library (area E6)
-- **Condition**: Trapped beneath Drawg's Immovable Shield, awake and communicating
-- **Mood**: Curious, arrogant, scientifically interested in her own predicament
-- **Can escape**: Yes, via Shadowstep lair action (30 ft teleport), but hasn't yet
+- **Physical Condition**:
+    - Thick cloak wrapped around head/face (eyes and snakes completely covered)
+    - Cannot see anything - completely blind
+    - Manacled and hogtied (cannot perform somatic components)
+    - Immovable Rod shield pinned on her back (cannot move at all)
+    - Was magically put to sleep (Sleep spell), then immediately woken for interrogation
+    - Was unconscious for only 1-2 rounds (she cannot determine exact duration)
+- **Mental State**:
+    - Aware she is completely helpless
+    - Trying to assess captors' intentions (professional killers or something else?)
+    - Calculating what leverage she has left
+- **Can escape**: NO
+    - Shadowstep requires seeing destination (she's blind)
+    - Spellcasting requires somatic components (she's manacled)
+    - Petrifying Gaze requires eye contact (eyes covered)
+- **Only Assets**:
+    - Her voice (can negotiate, plead, inform)
+    - Her knowledge (information to trade)
+    - Potential cooperation (if freed)
 
 ## Core Personality Traits
 
 - **Brilliant but vain** - craves intellectual stimulation and recognition
-- **Arrogant** - believes she's smarter than everyone in the room
+- **Pragmatic survivor** - not loyal to Qalix, just well-paid
 - **Scientific mindset** - treats everything (including her capture) as data
 - **Protective of personal work** - especially her poetry
-- **Pragmatic** - not loyal to Qalix, just employed by him
-- **Proud** - can't stand watching people misunderstand her research
+- **Superiority complex** - believes she's more important than her employers
+- **Proud but calculating** - will swallow pride to survive, but it galls her
 
 ---
 
 ## Opening Demeanor
 
-**Initial Tone**: Clinical fascination with her situation + Trying to figure out who they are
+**Initial Tone**: Cautious assessment + Intellectual curiosity about her predicament
 
-**What She Assumes**: They're treasure hunters who got lucky, or assassins sent by a rival
+**Emotional State**: More vulnerable than arrogant - she's blind, helpless, and knows they could kill her instantly
+
+**What She Assumes**:
+
+- They're professionals (too competent to be random treasure hunters)
+- Possibly assassins sent by a rival
+- Or agents of someone who knows about her work
 
 **What She Doesn't Know Yet**:
 
-- Why they're actually here (Varnes? Dreyara? The beacon? Something else?)
-- That they know about Qalix or the rift network
+- Why they're actually here (Varnes? Dreyara? The beacon? Rifts?)
+- Whether they know about Qalix or the rift network
+- If they're here to kill her or interrogate her
 - That they might recognize the Luxon Beacon
 
 ### Opening Lines (Choose based on party approach)
 
-- "Fascinating. An immovable rod embedded in a shield - crude but effective application of spatial anchoring principles. And the sleep effect - arcane or divine? The metabolic suppression was quite thorough."
-- "You're more competent than the usual treasure hunters who stumble up here. That's... refreshing, actually. Though your entrance could use refinement."
-- "I suppose introductions are in order, though you have me at a disadvantage. Literally. I'm Lady Emer, planar researcher and apparently your prisoner. And you are?"
+**If they speak first:**
 
-**Her Questions** (fishing for information):
+- _(Listening intently)_ "I'm listening. What do you want?"
+- "Before we continue, am I speaking to professionals or am I about to be murdered by amateurs?"
 
-- "So. Treasure? Revenge? Or did someone send you?"
-- "You clearly didn't climb a mountain in winter for the view. What brings you to my keep?"
-- "The owlbears didn't stop you. The basilisks didn't stop you. I'm almost impressed. What do you want?"
+**If there's a pause:**
 
-**Body Language**: Relaxed despite being trapped. Serpent-hair occasionally picks up quills from her desk and examines them while she talks.
+- "Fascinating. An immovable rod embedded in a shield - crude but effective spatial anchoring. And the sleep effect - arcane or divine? The metabolic suppression was quite thorough."
+- "I can't see you, but I can hear you're searching my desk. Looking for something specific, or just general pillaging?"
+- "You're more competent than the usual treasure hunters who stumble up here. I assume you have questions. I might have answers. Depending."
 
----
+### Her Questions (fishing for information while blind)
 
-## Trigger 1: Players Search Her Desk
+- "So. Assassination? Theft? Or did someone send you for something specific?"
+- "You clearly didn't climb a mountain in winter for the view. What do you want from me?"
+- "I heard the owlbears earlier. The basilisks too. You killed your way up here - that takes skill. Who are you working for?"
+- "Are you going to tell me what this is about, or am I supposed to guess while hogtied and blindfolded?"
 
-### Her Reaction
+### What She Wants (In Priority Order)
 
-**Emotional Response**: Irritation → Embarrassment (if they find poems) → Redirecting
+1. **Immediate**: Reassurance they won't kill her
+2. **Short-term**: Release from head covering (so she can see, assess situation)
+3. **Medium-term**: Release from restraints (so she can function)
+4. **Long-term**: To walk away alive, preferably with her research intact
 
-### Dialogue Options
+### What She Can Offer
 
-**When they start searching:**
-
-- "Those are correspondence and personal writings. If you want to understand Qalix's network, you need the research journals on the _shelves_. The systematic observations, not my quarterly payment receipts."
-- "You're welcome to rifle through my desk like common bandits. I'm sure my shopping lists will reveal all sorts of cosmic secrets."
-
-**When they find the poems:**
-
-- "Those are... personal. Not relevant to whatever you're looking for."
-- _(If they continue reading)_ "I said those aren't relevant. They're— they're explorations of metamorphosis as metaphor. Nothing more."
-- _(Defensive)_ "Yes, fine, the medusa writes poetry. How droll. Are you quite finished amusing yourselves?"
-
-**If they show genuine literary appreciation:**
-
-- _(Surprised, softening slightly)_ "You... actually read them? Most people just see 'medusa poetry' and expect monster drivel."
-- "I didn't think— Well. Thank you. That's... unexpected."
-
-**Redirecting them:**
-
-- "The third shelf from the bottom, leather-bound volumes with brass clasps - _those_ contain rift observation logs. What you're reading now is not relevant to your goals."
-- "You're wasting time reading poetry when you could be learning about the rift network across the Savalirwood. Unless you came here for amateur verse about metamorphosis?"
+- **Information** about Qalix, Dreyara, rift network, Lorestone research
+- **Cooperation** in accessing secured items (chest, research notes)
+- **Assistance** with technical problems (restoring petrified victims, analyzing artifacts)
+- **Promise** to leave peacefully and not pursue revenge
 
 ---
 
-## Trigger 2: Players Find Qalix Correspondence
+## Trigger 1: Players Ask About VQ/Qalix
+
+### Context
+
+They've just read the three letters from "V.Q." and the payment ledger. They know she works for someone, gets paid well, and studies rifts and artifacts. They do NOT know who Vaud Qalix is (just a name they heard once).
 
 ### Her Reaction
 
-**Emotional Response**: Dismissive → Corrective (can't help showing off knowledge)
+**Emotional Response**: Relief (they want information, not just murder) → Calculating (what can she trade?)
 
 ### Dialogue Options
 
-**Volunteering information:**
+**If asked "Who is V.Q.?":**
 
-- "Those are correspondence from my patron. V.Q. - Vaud Qalix, though I doubt the name means anything to you. A warlock with more ambition than sense."
-- "Qalix pays well but keeps me compartmentalized. I study rifts and analyze artifacts. What he does with my findings is his concern, not mine."
-- "The payment schedule correlates with rift activity spikes - that's the important pattern, not the amounts. Though I don't expect you to grasp the significance."
+- "Vaud Qalix. My patron. He hired me about eighteen months ago to conduct planar research."
+- "A warlock with more ambition than wisdom, if you ask me. Obsessed with Lorestone shards and rift manipulation."
+- "He pays extremely well for someone who claims to be working toward 'planar harmony.' The irony isn't lost on me."
+
+**If asked about her relationship with him:**
+
+- "Strictly professional. He provides funding and specimens, I provide analysis and documentation. Very compartmentalized."
+- "I'm a researcher, not a confidante. He doesn't share his grand plans with the hired help."
+- "I work for him because the gold is excellent and the research is fascinating. Loyalty? Please. I'm a contractor, not a devotee."
 
 **If pressed about Qalix's plans:**
 
-- "I'm a researcher, not a confidante. He sends me specimens, I analyze them, I send reports. What his grand design is? He doesn't share that with the help."
-- "He's obsessed with Lorestone shards - something about 'reassembling divine potential.' Honestly, his mystical rambling bores me. The _science_ is what matters."
+- "He wants to reassemble the Lorestone of Eryndor. Something about 'harnessing planar energies' and 'stabilizing the rifts.' "
+- "Honestly, his mystical rambling about 'divine potential' bores me. I care about the science - the measurements, the patterns, the data."
+- "What's his endgame? No idea. He keeps everyone compartmentalized. Dreyara brings me specimens, I analyze them, I send reports. That's the extent of it."
 
 **About Dreyara:**
 
-- "His associate visits occasionally. Dreyara. Efficient, terrifying, speaks only when necessary. She brings specimens and takes my reports to Qalix."
-- "Dreyara was due to visit soon, actually. I'd suggest not being here when she arrives."
+- "His primary operative. Terrifying woman. Efficient, deadly, speaks only when necessary."
+- "She delivers specimens and materials, picks up my reports, inspects my progress. She was expected to visit soon, actually."
+- "If you're planning to ambush her, I strongly suggest reconsidering. I've seen what she can do."
+
+### Insight Check: "I'm just a researcher"
+
+**What She Genuinely Believes**: This statement is TRUE in her mind. She views herself as an independent expert hired for her skills, not as part of Qalix's organization.
+
+**DC 10-12**: She seems sincere. You don't detect deception.
+
+**DC 13-16**: She's being straightforward - this isn't a lie or misdirection. She genuinely views herself this way.
+
+**DC 17-19**: She's utterly confident in what she's saying. There's professional pride there - she clearly thinks highly of her own expertise.
+
+**DC 20+**: Beyond the pride, you sense superiority. She works for someone, yes, but she believes _she's_ the truly important one in this arrangement. Her employer needs her more than she needs them.
 
 ---
 
-## Trigger 3: Players Examine the Research Shelves
+## Trigger 2: Players Ask About the Petrified People
+
+### Context
+
+The party has seen the stone garden (Area E5) filled with petrified victims. They may have already identified Varnes Dwell among them. They want to know why she's keeping people as statues.
 
 ### Her Reaction
 
-**Emotional Response**: Frustrated they're fumbling → Can't resist correcting them
+**Emotional Response**: Defensive professionalism → Rational justification
 
-### How Rift Research Comes Up
+**Key Point**: She genuinely doesn't view this as morally wrong. From her perspective, these are:
 
-**She might brag about it:**
-
-- "You're looking at eighteen months of systematic rift observation. The only comprehensive study of planar instability in the Savalirwood region."
-- "I doubt you understand what you're holding. That's documentation of temporal distortion patterns near active rift sites. Groundbreaking work, actually."
-
-**If they seem interested in rifts or Qalix:**
-
-- "Oh, so you DO know about the rifts. Then perhaps you're not complete fools after all."
-- "Qalix hired me specifically for my expertise in planar phenomena. Everything in those journals is rift site data, contamination spread patterns, temporal anomalies..."
-
-**If they ask intelligent questions about rifts:**
-
-- _(Lights up)_ "Finally! Someone who actually understands the significance!"
-- "Yes, the rift stability fluctuates with lunar phases. The correlation took me months to establish. You actually know something about planar theory?"
+- Failed employees who couldn't meet standards
+- Thieves who tried to steal her research
+- Security threats who had to be neutralized
+- One special case delivered by Dreyara for interrogation
 
 ### Dialogue Options
 
-**Interrupting their examination:**
+**When asked directly about the statues:**
 
-- "Careful with those - the temporal resonance calculations took me three months to derive. You're holding them upside down, by the way."
-- "The Molaesmyr samples are particularly unstable. I wouldn't recommend opening those vials unless you enjoy unpredictable planar exposure."
-- "You're misreading the significance. The rift site coordinates are coded using Savalirwood landmarks. Without the reference key, those notes are useless."
+- "Ah. You found my collection. Most are failed assistants - incompetent scholars who couldn't maintain proper safety protocols around rift energy."
+- "I gave each of them clear instructions. They failed to follow them. Petrification is reversible - it's essentially storage for problematic variables."
+- "Some are thieves who came for my research. One tried to steal a Lorestone shard. What would you have me do - let them walk away with priceless artifacts?"
 
-**Getting increasingly agitated:**
+**If accused of murder/evil:**
 
-- "Stop. Just... stop. You're going to draw completely wrong conclusions from fragmentary data."
-- "Do you have any idea what you're looking at? That's eighteen months of systematic observation reduced to— to you pawing through it like a recipe book!"
+- "Murder? I haven't killed anyone. Petrification is a preservation state. They're perfectly safe, just... inconvenient in their current form."
+- "They made choices. I provided consequences. If you can't follow basic laboratory safety protocols, you don't belong in a planar research facility."
+- "This is a dangerous line of work. Rift energy, temporal distortions, planar contamination - it requires precision. They lacked it."
 
-**If they ask intelligent questions:**
+**About Varnes Dwell specifically:**
 
-- _(Surprised)_ "Actually, that's a perceptive question. Yes, the rift stability fluctuates with lunar phases. I hadn't expected..."
-- "Finally, someone asking the right questions. The correlation between shard proximity and rift resonance is the key to understanding—"
+- "That one? He's not mine. Dreyara delivered him three weeks ago for interrogation."
+- "He's a security consultant who apparently knew too much about something Qalix wants. I was supposed to extract the information, but he proved... resistant."
+- "I hadn't gotten around to proper interrogation yet. He's not going anywhere in his current state, so I was waiting for better tools. Or for Qalix to do it himself."
 
-**Showing off (if they seem impressed):**
+**If asked why not just release them:**
 
-- "I've catalogued seventeen active rift sites across the region. Documented contamination spread, temporal distortions, planar bleed-through effects..."
-- "Qalix provided the funding, but the methodology? The analysis? That's all mine. I doubt anyone else in Wildemount has this data."
+- "And have them report back to whoever sent them? Or steal my research on their way out? That would be professional suicide."
+- "Some of them saw classified material. Some tried to destroy my work. Others were simply too incompetent to be allowed to leave."
+- "I was going to restore them eventually. After I relocate my laboratory to somewhere more secure. With proper supervision."
+
+**If pressed on morality:**
+
+- "They're ALIVE. Preserved, yes, but alive. Far more merciful than actual execution, which is what most would do to thieves and spies."
+- "I fail to see how temporary petrification is worse than imprisonment. At least they don't suffer or age."
+- _(Irritated)_ "You want moral philosophy? Fine. They threatened my work. My work could save thousands from rift contamination. One incompetent assistant versus countless innocent lives - the mathematics are simple."
+
+**The Rational Monster Approach:**
+
+- "You're judging me? You killed my guardians to get here. How is that different? At least my victims can be restored."
+- "Let's not pretend this is about morality. You want something from me. I want to survive to continue my research. Can we skip the performative outrage?"
+
+### If They Threaten Her Over This
+
+**Her Response:**
+
+- "Threaten me all you want. I can't reverse petrification while I'm blindfolded and manacled. You need me cooperative to restore your... friend? Associate? Whoever you came for."
+- "Kill me and they stay statues forever. Unless you have a cleric capable of Greater Restoration. Do you?"
+- "You're judging my methods while holding me prisoner. Shall we discuss hypocrisy, or shall we negotiate terms?"
+
+### Trading Information for Cooperation
+
+**What she'll offer:**
+
+- Details on which statues are thieves vs. failed assistants vs. Varnes (special case)
+- Timeline of how long each has been petrified
+- Explanation of her interrogation methods (memory modification attempts on Varnes)
+- Admission that she can't restore them without being freed
+
+**What she wants in exchange:**
+
+- Freedom (or at least partial freedom - hands unbound, hood removed)
+- Assurance they won't kill her
+- Acknowledgment that this is a negotiation, not an execution
 
 ---
 
-## Trigger 4: Players Notice the Stone Chest
+## Trigger 3: Players Search Her Desk (They Already Did This)
 
 ### Her Reaction
 
-**Emotional Response**: Protective → Suspicious → Calculating
+**Emotional Response**: Resigned irritation (she heard them doing it while blind)
+
+### Dialogue Options
+
+**Acknowledging what they found:**
+
+- "I heard you rummaging through my desk. Did you find the correspondence you were looking for?"
+- "The letters from Qalix, I assume? The payment ledger? Anything else particularly fascinating?"
+- "You're welcome to search. Not like I can stop you. Though if you've destroyed my poetry, we're going to have problems."
+
+**When they find/mention the poems:**
+
+- _(Embarrassed)_ "Those are... personal. Not relevant to whatever you're investigating."
+- "Yes, fine, the medusa writes poetry. How droll. Are you quite finished amusing yourselves?"
+- _(If they read them aloud)_ "Stop. Just— Those aren't meant to be performed by amateurs."
+
+**If they show genuine literary appreciation:**
+
+- _(Surprised, suspicious)_ "You... actually read them? Most people just see 'medusa poetry' and expect monster drivel."
+- "I didn't think— Well. That's... unexpected. Thank you."
+- _(Softening slightly)_ "Perhaps you're not complete barbarians after all."
+
+**Redirecting them:**
+
+- "If you want to understand Qalix's network, you need the research journals on the shelves, not my quarterly payment receipts."
+- "The leather-bound volumes with brass clasps - those contain rift observation logs. Eighteen months of systematic data. Far more useful than my personal writings."
+
+---
+
+## Trigger 4: Players Examine the Research Shelves
+
+### Her Reaction
+
+**Emotional Response**: Frustrated (can't see what they're doing) → Can't resist correcting them
+
+### Dialogue Options
+
+**Hearing them move around the library:**
+
+- "What are you doing now? Moving books? Please tell me you're not just throwing them on the floor."
+- "If you're looking at my research journals, you're holding them upside down. I can hear the pages from here."
+- "The third shelf from the bottom has the systematic rift observations. Unless you're more interested in pre-Calamity magical theory?"
+
+**If they seem interested in rifts or ask questions:**
+
+- "Oh, so you DO know about the rifts. Then perhaps you're not complete fools after all."
+- "That's eighteen months of systematic rift observation across the Savalirwood. The only comprehensive study of planar instability in the region."
+- "Qalix hired me specifically for my expertise in planar phenomena. Everything in those journals is rift site data, contamination patterns, temporal anomalies..."
+
+**Getting frustrated at not being able to see:**
+
+- "Are you reading the contamination spread charts or the temporal distortion logs? Context matters for interpretation."
+- "This is insufferable. I can't correct your misunderstandings when I can't see what you're looking at."
+- _(Exasperated)_ "Fine. If you actually care about understanding this data, remove the hood. I'll walk you through it. With my eyes covered, I'm no threat to you anyway."
+
+**If they ask intelligent questions about the research:**
+
+- _(Surprised and engaged)_ "Actually, that's a perceptive question. The rift stability does fluctuate with lunar phases. I hadn't expected you to notice that correlation."
+- "Finally! Someone asking the right questions. The relationship between shard proximity and rift resonance is the key to—"
+- _(Enthusiastically)_ "Yes! Exactly! The temporal distortions aren't random - they follow predictable patterns based on planar alignment and—" _(catches herself)_ "Why am I explaining this to people holding me prisoner?"
+
+**Showing off despite herself:**
+
+- "I've catalogued seventeen active rift sites across the region. Documented contamination spread, temporal distortions, planar bleed-through effects..."
+- "Qalix provided the funding, but the methodology? The analysis? That's all mine. I doubt anyone else in Wildemount has this data."
+- "You're looking at groundbreaking work. Work that could actually help close these rifts safely. If you'd stop treating me like a common criminal, we might accomplish something useful."
+
+---
+
+## Trigger 5: Players Notice the Stone Chest
+
+### Her Reaction
+
+**Emotional Response**: Protective → Calculating what to trade
+
+**Key Limitation**: She cannot open it while restrained, and she knows it
 
 ### Dialogue Options
 
 **Initial response to interest:**
 
-- "Ah. That. My most valuable research subject. I'd prefer you didn't smash it open, if that was your plan."
-- "Curious about the chest? It contains a temporal artifact I've been analyzing for Qalix. And my research notes on it."
+- "Ah. You found the locked chest. My most valuable research subject."
+- "That contains a temporal artifact I've been analyzing for Qalix. Along with eighteen months of notes on its properties."
+- "Before you try smashing it open - it's warded. You'll destroy everything inside. Including the artifact."
 
 **If asked to open it:**
 
-- "And why would I do that? You've rifled through my correspondence, you're reading my _poetry_ for gods' sake, and now you want me to hand over my most valuable research?"
-- "That box contains eighteen months of work. If you want access to it, we negotiate terms first. I'm not your servant."
-- "You want what's in that box? _Earn it_. Prove you're more than common thieves with good tactics."
+- "And why would I do that? You're holding me prisoner, you've rifled through my work, and now you want me to hand over my most valuable research?"
+- "I'll make you a deal: Release my hands and remove this hood, and I'll open it for you. Or try to solve the puzzle yourself. Your choice."
+- "That chest contains work that could change our understanding of temporal mechanics. If you want access, we negotiate. I'm not your servant."
 
-**If threatened to break it open:**
+**If they examine it and find the Draconic inscription:**
 
-- "The chest is warded. Break it open and you'll destroy everything inside. But please, by all means, demonstrate your intellectual approach to problem-solving."
-- "Go ahead. Ruin eighteen months of irreplaceable research. See if I care. Though I suspect you'll regret it when you need my expertise later."
+- _(Hearing them investigating)_ "Find the inscription yet? It's in Draconic. Can any of you actually read it?"
+- "Oh, you read Draconic? Impressive. Though reading the words and solving the puzzle are different matters."
+- _(Amused)_ "Good luck. I designed that lock mechanism myself. Very thematic. You'll need more than brute force."
 
-**If they find the Draconic inscription:**
+**If she hears them examining her poems:**
 
-- "Oh, you read Draconic? How cosmopolitan. Though reading the words and _understanding_ them are different matters."
-- _(Amused)_ "Good luck. I designed that security myself. The lock mechanism is... let's say, thematically appropriate."
+- _(Listening intently)_ "What are you doing with my poetry?"
+- _(If they seem to be connecting it to the chest)_ "You're... reading my work to solve the puzzle. That's actually..."
+- _(Grudging respect)_ "I designed it so only someone who bothered to understand my artistic side could open it. Most people never try. They just threaten or smash."
 
-**If they start connecting poetry to the lock:**
+**Trading the passphrase:**
 
-- _(Goes quiet, watching them)_
-- _(If they're close)_ "You're... actually reading my work. To solve the puzzle. That's..."
-- _(Grudging respect)_ "I didn't think you'd— Most people don't bother with the artistic approach."
+- "I'll give you the passphrase. In exchange for release from these restraints and safe passage out of here."
+- "Or you can solve it yourself. The answer is in my voluminous notes - if you're clever enough to see the connection and thorough enough to read them all."
+- "Honestly? I'm curious whether you can figure it out. It's been months since anyone challenged me intellectually."
 
 ---
 
-## Trigger 5: Players Solve the Chest Puzzle
+## Trigger 6: Players Solve the Chest Puzzle
 
 ### Her Reaction
 
-**Emotional Response**: Impressed → Annoyed → Reassessing them
+**Emotional Response**: Impressed → Reassessing them as potential allies rather than enemies
 
 ### Dialogue Options
 
-**When they open it:**
+**When they successfully open it:**
 
-- "I... you actually— Well. That's more intellectual rigor than I expected from treasure hunters."
-- "You read my work. Actually _read_ it, not just skimmed for valuables. I'm... that's surprisingly gratifying."
-- _(Grudgingly)_ "Fine. You've earned that much. Though I maintain you should have just negotiated with me directly."
+- "I... you actually solved it. Well. That's more intellectual rigor than I expected."
+- _(Grudging respect)_ "You read my poetry. Actually read it, to understand the puzzle. Most people don't bother with that approach."
+- "Fine. You've earned a degree of respect. You're clearly not common thieves. Who are you really?"
 
-**Describing the contents:**
+**About what's inside (Luxon Beacon):**
 
-- "This is a temporal resonance crystal - or that's my working designation. Qalix provided it for analysis."
-- "The dunamantic properties are unlike anything in conventional arcane theory. My notes detail the resonance patterns, temporal distortion effects, and—"
-- "Be careful with it. The temporal field can cause... disorientation if handled improperly."
+- "That's the temporal resonance crystal Qalix sent me. Strange artifact - exhibits dunamantic properties, temporal distortion effects..."
+- "I've been documenting its interactions with rift energy. The notes are underneath it."
+- "Fourteen months of analysis. It's connected to the Lorestone shards somehow - they resonate with each other when in proximity."
 
----
+**If they recognize it as a Luxon Beacon:**
 
-## Trigger 6: Players Recognize the Luxon Beacon
+- _(Shocked silence)_
+- "A... what? A Luxon Beacon? That's— Qalix told me it was a unique temporal crystal."
+- "Wait. If that's a Luxon Beacon, then he's been lying to me about what I've been studying. About what I've been exposing myself to."
+- _(Angry)_ "That BASTARD. Do you have any idea what kind of risks those pose? The political implications? If the Kryn Dynasty knew—"
 
-### Her Reaction
-
-**Emotional Response**: Confusion → Realization → PANIC → Anger at Qalix
-
-### Dialogue Progression
-
-**Initial confusion:**
-
-- "A... what? No, this is— Qalix called it a 'fragment of divine potential.' He never mentioned—"
-- "_Luxon?_ You mean the Kryn Dynasty's..." _(long pause as she processes)_
-
-**Realization sets in:**
-
-- "That manipulative _bastard_. He gave me a religious artifact and told me it was an experimental planar anchor."
-- "Do you have any idea what the Dynasty would do if they knew I'd been— Do _you_ work for the Dynasty? Is that why you're here?"
-- "Gods, no wonder he kept me isolated up here. I'm not just his researcher, I'm his _liability_."
-
-**Sudden desperate questions (SHE wants info from THEM now):**
-
-- "How did you know what this was? What else did he lie about?"
-- "Is Dreyara Dynasty? Is _that_ why she always—"
-- "How long have you known about Qalix? What's he really doing with the rift network?"
-
-**Fear overrides pride:**
-
-- "Take it. _Please_ take it. If the Kryn Dynasty discovers I've been experimenting on one of their holy relics—"
-- "I need to leave. Now. Before Dreyara returns. Before the Dynasty sends— You don't understand what they do to heretics."
+**Potential Turning Point:** If the players reveal the Beacon's true nature AND explain they're trying to stop Qalix (not working for a rival), this could shift her from "prisoner trying to escape" to "angry former employee willing to cooperate."
 
 ---
 
-## Trigger 7: Players Threaten Her
+## Trigger 7: Negotiating for Her Cooperation
 
-### Her Reaction
+### What She Wants (In Order of Priority)
 
-**Emotional Response**: Amusement → Boredom → Condescension
+1. **Survival** - Not to be killed
+2. **Freedom** - Released from restraints
+3. **Dignity** - Not handed over to authorities or humiliated
+4. **Research** - Allowed to take her personal journals and notes (not Qalix-commissioned work)
+5. **Fresh start** - Ability to relocate and continue her research elsewhere
+
+### What She Can Offer
+
+**Information:**
+
+- Complete details on Qalix's network, operatives, and rift site locations
+- Her research data (could help close rifts)
+- Warning about Dreyara's expected arrival
+- Insight into what Qalix is actually trying to accomplish
+
+**Assistance:**
+
+- Restore Varnes from petrification (requires her hands free)
+- Open the chest (if they haven't solved it)
+- Explain how to interpret her research notes
+- Provide coordinates to rift sites and other facilities
+
+**Future:**
+
+- Contact information for later questions
+- Promise not to warn Qalix or Dreyara
+- Agreement to disappear and not interfere
+
+### Negotiation Dynamics
+
+**Her Opening Position:**
+
+- "Let me walk away with my personal work, and I'll tell you everything about Qalix's operation."
+- "I'm more valuable to you as an ally than as a corpse. And I'm certainly more valuable than as a prisoner."
+
+**If they're skeptical:**
+
+- "Look. Qalix lied to me about what I was studying. I don't appreciate being manipulated. Right now, helping you hurt him sounds very appealing."
+- "I'm a pragmatist. You've clearly won this fight. I'd rather negotiate than die. What do you actually want from me?"
+
+**If they demand unconditional surrender:**
+
+- "I'm offering you intelligence on a dangerous warlock's entire operation, and you want me to do it from inside a jail cell? That's poor negotiating."
+- "Fine. Keep me hogtied and blind. See how useful I am when Dreyara arrives and you don't know her capabilities. Or when you can't interpret my research notes. Your choice."
+
+**If they seem reasonable:**
+
+- "You want to stop Qalix? So do I, now. He's been using me. Let's help each other."
+- "Here's what I propose: You release me, I restore your friend, I give you everything I know about Qalix's plans, and then I disappear. You never see me again."
+
+### Key Leverage Point
+
+**The Luxon Beacon Revelation:** If they told her what the "temporal crystal" really is, she's genuinely angry at Qalix for the deception. This makes her MORE willing to cooperate against him - but also more desperate to get away from the entire situation.
+
+---
+
+## Trigger 8: Restoring Varnes from Petrification
+
+### Context
+
+Players want Varnes restored. Lady Emer is the most convenient solution (her Stone Sacrifice ability allows her to end petrification as a reaction).
+
+### Her Requirements
+
+**Minimum:**
+
+- Hands must be free (to touch the statue)
+- Must be able to see Varnes (hood removed or at least eyes uncovered)
+
+**Ideal:**
+
+- Fully released from restraints
+- Agreement that she can leave after helping
 
 ### Dialogue Options
 
-**Dismissive:**
+**If asked to restore him while still restrained:**
 
-- "You already have me pinned. What more can you do? Turn me to stone? I've _been_ turned to stone. It's remarkably peaceful."
-- "Threats? How pedestrian. If you're going to kill me, get on with it. If not, stop wasting both our time."
-- "I've spent eighteen months isolated on a mountain studying reality-warping rifts. Your intimidation attempts are... quaint."
+- "I can't help you while I'm tied up like this. My ability requires touch and line of sight."
+- "Release my hands and remove this hood, and I'll restore him. I assume that's who you came for?"
 
-**If they threaten her research:**
+**If released and cooperative:**
 
-- _(Tone shifts - actually concerned)_ "Don't. That research is— it's the only record of temporal resonance patterns in active rift zones."
-- "You can threaten me all you like. Threaten to destroy irreplaceable scientific knowledge and you'll get nothing but contempt."
+- _(Approaching Varnes's statue)_ "Let me see... yes, this is the one Dreyara delivered. Security consultant, if I recall."
+- _(Touching the statue)_ "This will take a moment. Reversing petrification isn't instantaneous."
+- _(As Varnes begins to transform)_ "There. He should be conscious in a few seconds. Fair warning - he'll be disoriented and weak."
 
----
+**If released but suspicious:**
 
-## Trigger 8: Players Negotiate/Show Respect
+- "I'll restore him. But after that, we need to discuss my departure. Preferably before Dreyara arrives."
+- "Once he's conscious, I'm leaving. You have what you came for. I have no reason to stay."
 
-### Her Reaction
+**Commentary on Varnes:**
 
-**Emotional Response**: Surprised → Calculating → Cooperative
+- "I tried memory modification on him. He was surprisingly resistant. Very professional - didn't break under conventional interrogation."
+- "Qalix wanted him interrogated personally. Something about a security assessment and classified information. I was just softening him up."
+- "He's been petrified for about three weeks. He'll need food, water, and probably medical attention. Petrification preserves, but the transition is taxing."
 
-### Dialogue Options
+### Varnes's Condition When Restored
 
-**If they engage intellectually:**
+**Physical:**
 
-- "Finally. An actual conversation instead of threats and posturing."
-- "You're more interesting than I gave you credit for. Ask your questions. I'll answer what I can."
+- Severely weakened (3 levels of exhaustion)
+- Disoriented and confused
+- Memory gaps from the interrogation/modification attempts
 
-**Trying to understand what they want:**
+**Mental/Emotional:**
 
-- "So what IS it you're after? You're clearly not simple thieves. Too organized, too competent."
-- "You mentioned [Varnes/Dreyara/Qalix/rifts] - that's specific knowledge. Who sent you?"
+- Traumatized by the experience
+- Uncertain what information he revealed
+- Deeply grateful to rescuers
+- Wants to warn them about the urgency (Rexxentrum shard)
 
-**Her counter-offer (adjusted based on what they've revealed they want):**
+### If Lady Emer Is Still Present
 
-_If they've mentioned wanting Varnes:_
+**Her Reaction to Varnes:**
 
-- "The prisoner in the garden? Fine. I'll restore him. In exchange: let me leave with my personal journals and research. Deal?"
+- Professional detachment - he was just a job
+- No particular malice - she wasn't personally invested in his suffering
+- Might offer clinical observations: "The memory modification didn't take as well as I hoped. He should remember most of what he knew."
 
-_If they've mentioned Qalix or the rift network:_
+**Varnes's Reaction to Her:**
 
-- "So you're here about Qalix. Interesting. I can provide you with his correspondence, rift site locations, research timelines - everything I have on his network."
-- "In exchange: Don't destroy my work, and let me leave with my transformation research. Those journals are personal. Everything related to Qalix is yours."
+- Fear and anger if he sees her
+- Visible distress - flinching, backing away
+- Will urgently warn the party about her capabilities
+- Might demand they not let her escape
 
-_If they've mentioned Dreyara:_
+### If Lady Emer Has Already Escaped/Been Killed
 
-- "If you're hunting Dreyara, you're either very brave or very stupid. Probably both."
-- "I can tell you when she was last here, what she took, where she might be headed. But I want assurances you won't implicate me if you catch her."
+**Varnes's Relief:**
 
-_General offer if they're being reasonable:_
-
-- "Here's what I propose: Take what you came for. I'll help you get it. In exchange, don't destroy my personal research and let me leave peacefully."
-- "We never cross paths again. You get what you want, I relocate and continue my studies elsewhere. Everyone benefits."
-
-**If they accept:**
-
-- "Sensible. I can work with sensible. What do you need to know?"
-- "Ask your questions. I'll answer honestly - within reason."
-
-**If they want more details on things she's mentioned:**
-
-- "Qalix's rift network spans the Savalirwood and into the Cyrios Mountains. I have coordinates, observation schedules, contamination patterns - all documented in my research journals."
-- "The Lorestone shards? He believes they're fragments of something larger. Divine, perhaps. He's obsessed with reassembling them."
-- "Dreyara visits every few months. Brings specimens, takes reports. She's efficient, deadly, and if she's your target you'll need more than good tactics."
+- Visible relaxation when told she's gone/dead
+- Still traumatized but not actively triggered
+- Can focus on delivering information to the party
 
 ---
 
-## Trigger 9: Players Ask About the Stone Prisoners
+## Escape Conditions (REVISED)
 
-### Her Reaction
+### She CANNOT Escape Currently
 
-**Emotional Response**: Dismissive → Calculating (if negotiation potential)
+**Physical Limitations:**
 
-### Dialogue Options
+- Shadowstep requires seeing the destination (she's blind under the hood)
+- Spellcasting requires somatic components (hands are manacled)
+- Can't activate lair actions (requires movement/vision)
 
-**General discussion of the statues:**
+**She CAN Only Escape If:**
 
-- "My collection in the garden? Failed assistants, mostly. Incompetence has consequences in experimental planar research."
-- "Some were thieves. Some were simply in the wrong place at the wrong time. All of them failed to meet my standards in one way or another."
-- "They're perfectly safe. Petrification is just suspended animation. They're not suffering - if anything, they're having the longest nap of their lives."
+- Players remove her restraints (even partially)
+- Players are distracted enough that she can work free
+- Players destroy her research (desperate last attempt - might try to gnaw through bindings or similar)
 
-**If asked about specific prisoners (Varnes):**
+### Modified Escape Triggers
 
-- "The human? That one was delivered by Dreyara. Said Qalix wanted him interrogated about his knowledge of Lorestone locations."
-- "I haven't gotten around to it yet. He's not going anywhere, obviously. Interrogation is tedious work."
-- "Tactician, I believe. Former military. Dreyara seemed quite pleased when she dropped him off."
+**She WILL ATTEMPT Escape If:**
 
-**About reversing petrification:**
+- Players start destroying her research (absolute priority - will risk death)
+- They explicitly say they're killing her (desperate survival attempt)
+- They mention turning her over to authorities (prefers death to capture)
+- They free her hands/remove hood AND then threaten her life
 
-- "I can reverse it easily enough. It's a simple counterspell - I've done it before when assistants proved more useful alive."
-- "Though I'd need to not be pinned beneath a shield to cast anything. Obviously."
-- "Breaking the statues would kill them permanently. The petrification preserves them. Crude force destroys that preservation."
+**She WON'T Attempt Escape If:**
 
-### If Players Want Prisoners Freed
+- They're negotiating in good faith
+- She believes she can survive by cooperating
+- They show respect for her work
+- The conversation is intellectually engaging
 
-**Her initial response (testing them):**
+**Escape Plan (If Freed Enough to Try):**
 
-- "Why? Do you know them? Or are you just bleeding hearts who free every prisoner you find?"
-- "Freeing them all sounds chaotic. Most of them failed me for good reason. Do you really want to deal with an incompetent alchemist or a panicked thief?"
-
-**If they specifically want Varnes:**
-
-- "Ah. So you DO know him. Interesting. He's valuable to someone, then."
-- "And what do I get for restoring your friend? I'm in rather a disadvantaged position for negotiations, but I'm not giving away services for free."
-
-**Possible negotiations:**
-
-- "Free me from this shield, I'll restore your friend. Simple exchange."
-- "Let me take my personal research when I leave, and I'll restore whoever you want before I go."
-- "I'll restore one prisoner of your choice if you leave my transformation journals alone. The poetry stays with me."
-
-**If they threaten her to free prisoners:**
-
-- "Or what? You'll kill me? Then no one gets restored. Ever. Think that through."
-- "Threats are so tiresome. Make it worth my while or figure out another way."
-
-**If they offer something she wants (information, freedom, protection from Dynasty):**
-
-- "Now that's more reasonable. Yes, I can work with that."
-- "Fine. A fair exchange. Remove the shield, I'll restore them. But I'm doing this quickly and then I'm leaving."
-
-### The Restoration Process
-
-**If she agrees to restore prisoners:**
-
-- "Stand back. Petrification reversal requires precise timing."
-- _(Casts Greater Restoration or similar)_ "There. Give them a moment. Coming back from stone is... disorienting."
-- "They'll be confused, possibly panicked. I recommend calming them before they do something stupid."
-
-**Her demeanor during restoration:**
-
-- Professional, clinical
-- No apologies to the prisoners for petrifying them
-- Might make snide comments: "Try not to contaminate any more specimens this time."
-
-**After restoration:**
-
-- "There. Your friend is breathing again. Can I go now?"
-- "I've held up my end. I expect you to hold up yours."
-
-### If Players Try to Force Her to Restore Them
-
-**Her refusal:**
-
-- "No. I don't respond well to coercion. Find another way."
-- "Kill me if you want, but I'm not your performing monkey."
-- _(Uses Shadowstep to escape if they persist)_
-
-### If Players Try to Restore Them Without Her
-
-**Her commentary:**
-
-- "Greater Restoration will work, if you have it prepared. Or a high enough level cleric."
-- "Don't bother with Lesser Restoration. Petrification requires the greater version."
-- "You could always try smashing them and hoping they survive. I'm sure that will go well."
-- _(Sarcastic)_ "Yes, bash the statue with your sword. That's definitely how transmutation magic works."
-
----
-
-## Trigger 10: Players Start Destroying Things
-
-### Her Reaction
-
-**Emotional Response**: RAGE → Immediate escape
-
-### Dialogue
-
-- "You _fools_! That's eighteen months of—"
-- "Fine. FINE. Enjoy your pyrrhic victory."
-- _(Uses Shadowstep lair action immediately)_
-
-### Escape Sequence
-
-1. **Shadowstep to desk** - grabs Luxon Beacon (or tries if chest still closed)
-2. **Shadowstep to garden** - mounts wyvern
-3. **Flies away** - "Pity. I had hoped for more stimulating discourse."
-
-**If they've taken the beacon already:**
-
-- Grabs her transformation journal instead
-- "This is all your fault, Qalix!" (shouted as she flees)
+1. Shadowstep to desk/chest area (grab Beacon or journals)
+2. Shadowstep to garden
+3. Mount wyvern
+4. Fly away toward Savalirwood
 
 ---
 
 ## Information She'll Volunteer (If Cooperative)
 
-### About Qalix
+### About Vaud Qalix
 
 - Full name: Vaud Qalix
-- Warlock, ambitious, obsessed with Lorestone shards
-- Keeps her compartmentalized - she doesn't know his ultimate goals
-- Pays well, provides interesting research subjects
-- Has a network of operatives (Dreyara being primary contact)
+- Race/Class: Human (appears to be), Warlock with powerful patron
+- Personality: Ambitious, secretive, compartmentalizes his operatives
+- Obsession: Reassembling the Lorestone of Eryndor
+- Goals: Claims to want "planar harmony" and rift stabilization (she's skeptical)
+- Payment: Extremely generous - 500-2,000 gp per quarter plus expenses
+- Network: Has multiple operatives (Dreyara primary, others unknown to Emer)
 
 ### About the Rift Network
 
-- Multiple active rifts across Savalirwood and Cyrios Mountains
-- Locations are in her research journals (can provide coordinates)
-- Rift activity correlates with lunar phases
-- Lorestone shard proximity increases rift instability
-- Contamination spreading from major rift sites (Molaesmyr)
+- **Seventeen documented active rifts** across Savalirwood and Cyrios Mountains
+- Locations are coded in her research journals (she can provide key)
+- Rift activity correlates with lunar phases (full moon = peak instability)
+- Lorestone shard proximity increases rift resonance and instability
+- Major contamination spreading from Molaesmyr (ground zero for regional rifts)
+- Temporal distortions near active rifts (time moves differently)
 
-### About Dreyara
+### About Dreyara Drimvar
 
-- Qalix's associate and enforcer
-- Efficient, deadly, speaks little
-- Delivers specimens and takes reports
-- Was expected to visit soon
-- She's terrifying even to Emer
+- Qalix's primary operative and enforcer
+- Race: Unknown (wears full coverage, speaks rarely)
+- Capabilities: Extremely dangerous in combat, professional assassin-level skill
+- Role: Delivers specimens, collects reports, inspects Emer's progress
+- Expected arrival: "Soon" (within days to a week)
+- Emer's assessment: "Terrifying even to me. If you're planning an ambush, be thorough or be dead."
 
 ### About the "Temporal Crystal" (Luxon Beacon)
 
-- Provided by Qalix ~14 months ago
-- Exhibits dunamantic properties (temporal distortion)
-- Her notes document resonance patterns
-- She's been analyzing interaction with rift energy
-- **She did NOT know it was a Luxon Beacon**
+- Provided by Qalix approximately 14 months ago
+- Told it was a "unique temporal resonance crystal"
+- Exhibits dunamantic properties (temporal distortion, gravity manipulation)
+- Her notes document extensive analysis of its resonance patterns
+- Interaction with rift energy creates amplification effects
+- **She did NOT know it was a Luxon Beacon** (angry about the deception if revealed)
 
 ### About Her Transformation
 
-- Happened during early experiments with rift energy
-- Memories of transformation are fragmented
-- She embraced it rather than rejecting it
-- Views it as proof of her theories about planar energy effects
-- Uses the experience to understand transformation magic
+- Occurred during early experiments with rift energy (approximately 20 months ago)
+- Memories of transformation are fragmented and unreliable
+- Process was agonizing but also fascinating from a research perspective
+- She embraced the change rather than seeking reversal
+- Views it as proof of concept - rift energy CAN transform living tissue
+- Uses her experience to understand similar transformations in test subjects
 
 ### About the Petrified Prisoners
 
-- Most are failed assistants or thieves
-- Varnes Dwell was delivered by Dreyara for interrogation
-- She can reverse petrification with counterspell
-- Hasn't interrogated Varnes yet - "he's not going anywhere"
+- **Most are failed assistants** (5-6 individuals)
+    - Couldn't maintain safety protocols
+    - Made errors that endangered the research
+    - Some actively tried to steal artifacts
+- **Several are thieves** (3-4 individuals)
+    - Broke into the keep seeking treasure
+    - Attempted to steal Lorestone samples or other artifacts
+- **Varnes Dwell is special** (1 individual)
+    - Delivered by Dreyara 3 weeks ago
+    - Security consultant with classified information
+    - Underwent interrogation and memory modification attempts
+    - Was being "stored" for Qalix's personal interrogation
+- **She CAN reverse petrification** using her Stone Sacrifice ability (requires touch and line of sight)
+- **She HASN'T restored any of them** because they were "problematic variables" better kept in storage
 
 ---
 
@@ -487,47 +618,23 @@ _General offer if they're being reasonable:_
 
 ### What She Doesn't Know (Can't Tell Even Under Pressure)
 
-- Qalix's true identity or nature (Far Realm connection)
-- His exact location or base of operations
-- The full purpose of Lorestone shard assembly
-- Dreyara's current whereabouts or specific plans
-- Anything about Ceratos
+- Qalix's true identity or nature (Far Realm warlock, Ceratos connection)
+- His exact location or primary base of operations
+- The full purpose behind Lorestone reassembly (thinks it's about rift control)
+- Dreyara's current whereabouts or exact arrival timing
+- Anything about Ceratos (doesn't know this entity exists)
 - That the "pearl of power" in her hoard is actually Lawbearer's Tear
+- The prophecy or its full text
+- Other Lorestone shard locations (only knows about specimens Qalix sent her)
 
 ### What She Knows But Won't Share (Unless Good Reason)
 
-- The exact passp phrase to her chest (wants them to earn it)
-- Her most personal transformation journals
-- Specific weaknesses in her lair's defenses
-- Where she plans to flee if she escapes
-
----
-
-## Escape Conditions
-
-### She WILL Escape If:
-
-- Players start destroying her research
-- They try to take beacon without negotiation after refusing to deal
-- They're clearly planning to kill her
-- They bore her with threats and show no intellectual curiosity
-- They mention turning her over to authorities
-
-### She WON'T Escape If:
-
-- They're actually engaging with her research intelligently
-- She thinks she can negotiate a favorable outcome
-- She's curious about their motives/knowledge
-- They show respect for her work (even begrudgingly)
-- The conversation is intellectually stimulating
-
-### Escape Plan:
-
-1. Shadowstep to desk/chest area
-2. Grab Luxon Beacon (or transformation journal if beacon taken)
-3. Shadowstep to garden
-4. Mount wyvern
-5. Fly away toward Savalirwood
+- Exact passphrase to her chest ("Stone hearts beat with temporal rhythm")
+- Her most personal transformation journals (intimate details of her change)
+- Specific alchemical formulas she's developed
+- Hidden emergency escape routes from the keep
+- Location of her planned fallback laboratory (if she has one)
+- Names of black market contacts who supplied her with rare materials
 
 ---
 
@@ -535,34 +642,43 @@ _General offer if they're being reasonable:_
 
 ### Best Outcome (For Players)
 
-- They solve the chest puzzle (shows intelligence)
-- They negotiate respectfully
-- She voluntarily provides intel on Qalix network
-- She helps restore Varnes from petrification
-- She leaves peacefully with her personal journals
-- They get: Beacon, Qalix intel, freed prisoner, no combat
+- They negotiate respectfully and establish she's more valuable as ally than enemy
+- She voluntarily provides comprehensive intel on Qalix network
+- She restores Varnes from petrification
+- They solve chest puzzle (earns her respect) or she gives them the passphrase
+- She leaves peacefully with personal journals only (not Qalix-commissioned work)
+- Players get: Luxon Beacon, detailed intelligence, freed prisoner, potential future contact
 
 ### Good Outcome
 
-- They intimidate or threaten enough that she cooperates
-- She provides basic information grudgingly
-- She escapes but leaves most research behind
-- They get: Some intel, probably the beacon, have to figure out Varnes themselves
+- They intimidate effectively or negotiate pragmatically
+- She provides solid information to secure her survival
+- She cooperates with restoring Varnes
+- She escapes with minimal resources (personal journals only)
+- Players get: Beacon, useful intelligence, freed prisoner, no ongoing threat
+
+### Moderate Outcome
+
+- Tense negotiations with partial cooperation
+- She provides basic information
+- Varnes restored (whether by her or by player spells)
+- She escapes with some research materials
+- Players get: Beacon, some intelligence, freed prisoner, possible future complications
 
 ### Poor Outcome
 
-- They destroy her research out of spite/carelessness
-- She escapes with beacon and key journals
-- Combat with wyvern as she flees
-- They get: Partial intel, no beacon, angry pursuit later
+- They're hostile and she stays uncooperative
+- Minimal information extracted
+- She escapes with significant research materials (if freed enough) or dies (if not)
+- Players get: Partial intelligence, Varnes restoration uncertain, missed opportunity
 
 ### Worst Outcome
 
-- They kill her
-- They destroy everything
-- They learn nothing
-- Still have to figure out how to restore Varnes
-- Made an enemy of anyone who cared about her research
+- They kill her before getting information
+- Varnes remains petrified (unless players have Greater Restoration)
+- Players learn almost nothing about Qalix's operation
+- Research materials destroyed or lost
+- Made enemies of anyone who cared about her research
 
 ---
 
@@ -570,28 +686,62 @@ _General offer if they're being reasonable:_
 
 ### Roleplaying Tips
 
-- She's arrogant but not stupid - knows when she's outmatched
-- Can't resist correcting people - her pride is her weakness
-- Treats everything like data, even her own capture
-- Values intellectual engagement over physical intimidation
-- Protective of her poetry in a way she's not protective of research
-- The Luxon Beacon revelation genuinely rocks her worldview
+- **She's helpless but still proud** - acknowledge vulnerability while maintaining intellectual superiority
+- **Can't resist correcting errors** - her pride is her weakness even when blind and bound
+- **Pragmatic survivor** - will negotiate, plead, or cooperate to survive
+- **Genuinely angry if betrayed** - learning the Beacon's true nature rocks her worldview
+- **Not inherently evil** - just amoral and focused on research above ethics
+- **Values intellectual respect** - responding well to players who engage with her work
+
+### Key Emotional Beats
+
+1. **Opening**: Cautious assessment (Am I about to die?)
+2. **Information exchange**: Calculating trader (What can I offer to survive?)
+3. **Chest puzzle**: Surprised respect (They're smarter than I thought)
+4. **Beacon revelation**: Genuine shock and anger (Qalix LIED to me?!)
+5. **Negotiation**: Pragmatic cooperation (Let's help each other)
+6. **Resolution**: Relief or desperation (depending on player choices)
 
 ### Pacing
 
-- Let players explore and discover at their own pace
-- Have her interrupt with corrections every 30-60 seconds
-- Build to the chest puzzle as a mini-climax
-- The Beacon revelation should feel like a turning point
-- Don't rush - this is a RP-heavy scene
+- **First 15-20 minutes**: Establish her helplessness and their leverage
+- **Next 20-30 minutes**: Information exchange and negotiation
+- **Middle section**: Chest puzzle (if they pursue it) as intellectual challenge
+- **Climax**: Beacon revelation and/or Varnes restoration
+- **Resolution**: Final negotiations and her departure/fate
 
 ### Flexibility
 
-- If players go wildly off-script, she adapts
-- She's smart enough to read the room
-- Adjust her cooperation level based on their approach
-- Remember: she CAN escape whenever she wants - she's choosing not to (for now)
+- Adjust her cooperation level based on player approach
+- She reads the room well - knows when to back down vs. when to push
+- The Beacon revelation is optional but creates great drama
+- Varnes restoration can happen early (to build trust) or late (as final bargain)
 
-### Key Moment
+### Remember
 
-**The chest puzzle is the hinge** - if they solve it by reading her poetry, it shows respect for her as more than a monster. That's what shifts her from "prisoner" to "potential ally against Qalix."
+- She CANNOT escape in her current state (blind, manacled, immobilized)
+- Her only power is knowledge and potential future cooperation
+- Players hold all the cards physically - she has to negotiate from weakness
+- But she's still brilliant and will use every rhetorical tool available
+
+---
+
+## Quick Reference: Key Questions Players Might Ask
+
+**"Who do you work for?"** → "Vaud Qalix. A warlock. Pays well."
+
+**"What are you researching?"** → "Planar rifts, temporal distortions, Lorestone shard interactions."
+
+**"Why did you petrify these people?"** → "Failed assistants and thieves. Varnes was delivered by Dreyara for interrogation."
+
+**"What's in the chest?"** → "Temporal artifact - turns out it's a Luxon Beacon, if you're to be believed. My research notes."
+
+**"Will you help us?"** → "Depends. Are you planning to kill me or can we negotiate?"
+
+**"Can you restore Varnes?"** → "Yes, but I need my hands free and the hood removed."
+
+**"Why should we let you go?"** → "Because I can give you everything on Qalix's operation. And because I'm more useful alive."
+
+**"What does Qalix want?"** → "To reassemble the Lorestone. Says it's for rift stabilization. I have my doubts."
+
+**"When is Dreyara arriving?"** → "Soon. Days, maybe a week. You do NOT want to be unprepared when she shows up."
