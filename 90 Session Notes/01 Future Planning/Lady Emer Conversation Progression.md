@@ -70,7 +70,6 @@
 
 - "So. Assassination? Theft? Or did someone send you for something specific?"
 - "You clearly didn't climb a mountain in winter for the view. What do you want from me?"
-- "I heard the owlbears earlier. The basilisks too. You killed your way up here - that takes skill. Who are you working for?"
 - "Are you going to tell me what this is about, or am I supposed to guess while hogtied and blindfolded?"
 
 ### What She Wants (In Priority Order)

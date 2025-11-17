@@ -12,6 +12,57 @@ IMPORTANT: This document contains notes written by players in our D&D campaign. 
 
 The notes below should be treated as player perceptions rather than definitive campaign truths.
 
+# November 2, 2025 - Lady Emer’s Bad Day or Popcorn Cat’s Excellent Adventure
+
+- Lady Emer takes Popcorn Cat and walks out with him. Drawg follows.
+- They get attacked by a wyvern
+- They shrink a statue that appears to be the guy they’re looking for
+- They attack Emer and bind her - Drawg gets messed up
+
+- Emer Desk:
+	- Nice tools (crafting purpose)
+	- Nice Leather pouch - very heavy and jingles (probably money)
+	- Drawer with stacks of parchment with neat handwriting
+		- 80-100 sheets of parchment
+		- Back of that drawer has a wooden box 
+			- Opens easily - Leatherbound ledger with leather clasp
+			- Loose parchment under the ledger - letters 
+
+				> Lady Emer,
+				> 
+				> Your expertise comes highly recommended. I require a secure, isolated research facility and a scholar versed in planar phenomena. The work concerns rift stabilization and artifact analysis—sensitive matters requiring absolute discretion.
+				> 
+				> Initial compensation: 2,000 gp for facility preparation and first quarter's retainer. Additional materials and specimens will be provided as needed.
+				> 
+				> My associate will contact you to arrange delivery schedules.
+				> 
+				 > —V.Q.
+
+				> Your progress reports on the temporal resonance properties are adequate, though I expect more detailed analysis of the crystal's interaction with planar energy. Dreyara will visit within the fortnight to examine your findings and deliver additional research materials. Provide her with your complete analysis—her assessment will determine our next steps.
+				> 
+				> Continue monitoring the rift sites I designated. Any anomalous behavior must be documented immediately.
+				> 
+				> Your latest request for additional funding is approved. 1,500 gp enclosed.
+				> 
+				> —V.Q.
+
+				> The Lorestone research takes priority above all other projects. I need complete analysis of resonance patterns between fragments—how they react when in proximity, what energies they emit, potential for reconstruction.
+				> 
+				Dreyara will be visiting soon. Prepare workspace for sensitive examination. She may bring specimens requiring your immediate attention and will need secure storage during her stay.
+				> 
+				Do not discuss this work with anyone. The consequences of loose talk would be... unfortunate.
+				> 
+				> —V.Q.
+
+				- Record of something financial - looks like a record of payments for the last year and a half - additional blank pages.
+
+- They let Lady Emer speak and ask her questions: 
+	- Who is VQ: (Drawg wants to insight check her on “I’m Just a Researcher”)
+
+- Stone box next to the desk - ornate
+	- Locked & Trapped
+	- Does not open with a key
+
 # July 20, 2025 \-  In full transparency…
 
 (Absent: Brent & Amanda Jean)
