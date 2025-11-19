@@ -110,6 +110,10 @@ For more information see [[The Massacre]].
 - Discovery of a method for using the Lorestone to close rifts
 - Training next generation of scholars and explorers
 
+## Faction Knowledge Evolution
+
+![[Lorestone of Eryndor#Faction Knowledge Evolution]]
+
 # Related Elements
 ## Notable Members
 ```dataview

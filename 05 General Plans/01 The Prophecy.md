@@ -26,11 +26,14 @@ Associated with the [[Lorestone of Eryndor]].
 
 ![[The Prophecy (Modern Text)#Core Information]]
 ## What they think they know:
+
+![[Lorestone of Eryndor#Faction Knowledge Evolution]]
+
 ## What they don't know:
-> [!secret]- DM Only
-> ![[Prophecy General Info#Core Information]]
-> ![[History of the Prophecy#Core Information]]
-> ![[The Prophecy (Original Form)#Core Information]]
+
+![[Prophecy General Info#Core Information]]
+![[History of the Prophecy#Core Information]]
+![[The Prophecy (Original Form)#Core Information]]
 
 
 

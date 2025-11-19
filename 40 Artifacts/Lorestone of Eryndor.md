@@ -63,6 +63,14 @@ first_appeared:
 
 # Faction Understanding
 
+## Faction Knowledge Evolution
+
+- The [[Obsidian Echoforge]] originally believed only 5 shards existed based on gaps in their reconstructed prophecy.
+- The recent discovery of Shard 6—containing previously unknown prophecy lines—revealed additional shards must exist.
+- They currently assume the Stonefoot Compass lead will take them to Shard 5, unaware it actually points to Shard 7.
+- Once they learn Shard 5 is in Rexxentrum and follow the compass to Ebonglass, they will realize a 7th shard exists.
+- When all 7 Exandrian shards are assembled and fail to fit together correctly, this will reveal the existence of a final 8th piece—which is no longer on Exandria.
+
 ## Current Interpretations (All Incomplete):
 
 **[[Obsidian Echoforge]]**: Believes the Lorestone itself is the "beacon" mentioned in the prophecy. Correct that it can close rifts, incorrect about it being sufficient alone. Unaware of stabilization requirements.

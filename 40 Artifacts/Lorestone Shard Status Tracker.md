@@ -25,7 +25,11 @@ The [[Lorestone of Eryndor]] was shattered into 8 pieces. This tracker documents
 - **Held by Cobalt Soul (secret):** Shard 5
 - **In enemy hands:** Shard 6
 - **Guarded by dragon:** Shard 7
-- **Unknown location:** Shard 8
+- **Astral Plane** (tentatively): Shard 8
+
+## Faction Knowledge Evolution
+
+![[Lorestone of Eryndor#Faction Knowledge Evolution]]
 
 ---
 
@@ -145,11 +149,11 @@ The [[Lorestone of Eryndor]] was shattered into 8 pieces. This tracker documents
 **Known By:**
 
 - [[Cobalt Soul]] (possession, actively researching)
-- **NOT known by [[Obsidian Echoforge]]** - Ovedo is keeping it secret
+- [[Obsidian Echoforge]] - Know it exists, but think the compass lead is pointing them to this one; are not aware Ovedo is keeping it secret
 
 **Pursued By:**
 
-- None currently (location is secret)
+- Obsidian Echoforge (but they are mistaken about where it might be)
 
 **Security Level:** Medium-High - In Cobalt Soul archive, but not heavily guarded as no one knows to look for it
 
@@ -167,7 +171,7 @@ The [[Lorestone of Eryndor]] was shattered into 8 pieces. This tracker documents
 
 **Current Status:** Enemy possession  
 **Current Holder:** [[Dreyara Drimvar]]  
-**Physical Location:** Unknown (mobile with Dreyara)  
+**Physical Location:** Cyrios Mountains (mobile with Dreyara)  
 **Acquired:** Recently (taken from [[Celdric Ambril]]'s expedition)
 
 **Known By:**
@@ -175,7 +179,7 @@ The [[Lorestone of Eryndor]] was shattered into 8 pieces. This tracker documents
 - [[Dreyara Drimvar]] (possession)
 - [[Vaud Qalix]] (Dreyara works for him)
 - [[Celdric Ambril]] (was seeking it, knows it was found)
-- [[Aelorin Nightshade]] (Dreyara's contact)
+- [[Aelorin Nightshade]]
 
 **Pursued By:**
 
@@ -212,10 +216,11 @@ The [[Lorestone of Eryndor]] was shattered into 8 pieces. This tracker documents
 - [[Calderax Dunhall]] (was facilitating trade for map)
 - [[Aethor Kalisk]] (investigating the map lead)
 - [[Shoagragoth, The Acid Crown]] (current possessor)
+- Note: all but the dragon believe they are pursuing Shard 5, not a new, unknown shard
 
 **Pursued By:**
 
-- [[Obsidian Echoforge]] (via map acquisition)
+- [[Obsidian Echoforge]] (via map acquisition, though they think this is pointing to Shard 5)
 - Player characters (have the [[Stonefoot Compass]], connected to map)
 
 **Security Level:** Very High - Adult black dragon guardian
@@ -245,20 +250,21 @@ The [[Lorestone of Eryndor]] was shattered into 8 pieces. This tracker documents
 
 ^shard8
 
-**Current Status:** Unknown  
+**Current Status:** Unknown (stolen from Exandria?)
 **Current Holder:** TBD  
-**Physical Location:** TBD  
+**Physical Location:** TBD  (perhaps the Astral Plane?)
 **Acquired:** N/A
 
 **Known By:**
 
-- Unknown
+- Unknown by all parties
 
 **Pursued By:**
 
-- [[Obsidian Echoforge]] (actively searching)
-- [[Vaud Qalix]] (75 researchers + 10 spies seeking)
-- [[Emissaries of the Sunfall]] (general interest)
+All of these will eventually pursue it when they learn of its existence
+- [[Obsidian Echoforge]]
+- [[Vaud Qalix]]
+- [[Emissaries of the Sunfall]]
 
 **Security Level:** Unknown
 
@@ -284,8 +290,8 @@ The [[Lorestone of Eryndor]] was shattered into 8 pieces. This tracker documents
 
 **Goal:** Assemble all shards to close rifts  
 **Current Holdings:** Shards 1-4  
-**Actively Pursuing:** Shards 6, 7, 8  
-**Unaware Of:** Shard 5 existence at Cobalt Soul
+**Actively Pursuing:** Shard 6 (recently discovered) and Shard 7 (though they think it's Shard 5)  
+**Unaware Of:** true location of Shard 5, existence of Shards 7-8.
 
 ### [[Malachite Cord]]
 
@@ -306,8 +312,8 @@ The [[Lorestone of Eryndor]] was shattered into 8 pieces. This tracker documents
 **Goal:** Assemble Lorestone to power Draconia restoration  
 **Current Holdings:** Shard 6 (via [[Dreyara Drimvar]])  
 **Resources:** 75 researchers, 10 spies, substantial funding  
-**Actively Pursuing:** Shards 7, 8  
-**Knowledge:** Knows about Echoforge holdings, unaware of Shard 5
+**Actively Pursuing:** Shards 1-5 (via [[Obsidian Echoforge]])
+**Knowledge:** Knows about Echoforge holdings, knows of Shard 5 existence but not location
 
 ### [[Cobalt Soul]]
 
