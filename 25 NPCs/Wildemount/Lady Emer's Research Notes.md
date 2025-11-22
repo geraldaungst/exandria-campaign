@@ -7,6 +7,8 @@ A brief search (15 minutes or less) may locate two items. Roll an Investigation 
 
 Longer searches will locate more items, as well as making them easier to find. For every 30 minutes spent searching, the party will locate 2 more items and the DC for every category is reduced by 2.
 
+Note: During [[Session 33 - What to Do with Lady Emer?]], players discovered ALL of these notes.
+
 ## Quick Reference Table
 
 | Item # | Title                                                  | DC to Locate (15 min search) | 30 min | 60 min | 90 min | 2 hr |
