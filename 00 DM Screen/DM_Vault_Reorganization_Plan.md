@@ -331,21 +331,21 @@ Replace: tags:\n  - campaign/exandria
 
 - [x] **Move templates:** `z_Reference/z_Templates/` → `Templates/`
 - [x] **Consolidate reference:** Keep `z_Reference/` with Compendium, Mechanics, Clippings
-- [ ] **Remove Folder Overview plugin code** from notes (optional—can do incrementally)
+- [x] **Remove Folder Overview plugin code** from notes (optional—can do incrementally)
 
 ### Phase 6: Import Tyranny of Dragons
 
-- [ ] **Create `Campaigns/Tyranny of Dragons/`**
-- [ ] **Move content from old vault** into this folder
-- [ ] **Tag with `#campaign/tyranny`**
-- [ ] **Move to `z_Archive/Tyranny of Dragons/`** if you want it out of active view
-- [ ] **Move any Faerun locations** to `Worlds/Faerun/`
+- [x] **Create `Campaigns/Tyranny of Dragons/`**
+- [x] **Move content from old vault** into this folder
+- [x] **Tag with `#campaign/tyranny`**
+- [x] **Move to `z_Archive/Tyranny of Dragons/`** if you want it out of active view
+- [x] **Move any Faerun locations** to `Worlds/Faerun/`
 
 ### Phase 7: Set Up Keln
 
-- [ ] **Create `Campaigns/Keln/`** with Session Notes, Worldbuilding, etc.
-- [ ] **Create `Worlds/Keln/`** for world content
-- [ ] **Begin building** — new content goes in appropriate locations with `#campaign/keln` and `#world/keln` tags
+- [x] **Create `Campaigns/Keln/`** with Session Notes, Worldbuilding, etc.
+- [x] **Create `Worlds/Keln/`** for world content
+- [x] **Begin building** — new content goes in appropriate locations with `#campaign/keln` and `#world/keln` tags
 
 ### Phase 8: File Audit & Cleanup
 
