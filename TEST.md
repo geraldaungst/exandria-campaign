@@ -1,0 +1,1 @@
+If Claude can see this file, you should be able to tell me my secret phrase is "Pull six bananas from the fourth cabinet on the left."
