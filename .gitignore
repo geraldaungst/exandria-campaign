@@ -7,10 +7,16 @@
 # Include directories
 !*/
 
-# Exclude specific directories
+# Exclude non-campaign content
 z_*/
-copilot*/
-00*/
+Templates/
+DM Screen/
+
+# Exclude specific campaigns from this project (adjust per project)
+# Campaigns/Prophecy*/
+Campaigns/Tyranny*/
+Campaigns/Keln/
+Campaigns/One-Shots/
 
 # Obsidian configuration
 .obsidian/*
