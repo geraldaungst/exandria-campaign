@@ -243,8 +243,8 @@ WHERE contains(locations_visited, "Port Damali")
     - `copilot-custom-prompts/`
     - `z_textgenerator/`
     - Root-level `z_compendium/` and `z_Assets/` (you mentioned handling this)
-- [ ] **Create new folder structure** in current vault (empty folders)
-- [ ] **Update .gitignore** for new structure:
+- [x] **Create new folder structure** in current vault (empty folders)
+- [x] **Update .gitignore** for new structure:
 
 ```gitignore
 # Ignore everything by default
