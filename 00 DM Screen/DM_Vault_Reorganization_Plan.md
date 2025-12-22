@@ -1,5 +1,11 @@
 # DM Vault Reorganization Plan
 
+# NEXT STEP
+
+I am ready to begin Phase 4 of the refactoring plan. I want to do this carefully and deliberately to make sure everything is done completely and correctly. This will likely involve a lot of tedious updates, so I don't want to rush or make errors on my end.
+
+First, analyze the entire phase and the contents of the vault. As part of your analysis, review the "Exandria Vault Reorganization" document to see if any of that applies to this phase of the vault restructuring. Consider the best sequence to do the necessary tasks in this phase and tell me what you recommend completing first.
+
 ## Overview
 
 This plan consolidates your DM notes into a single vault that supports multiple campaigns, multiple worlds, and (when needed) multiple game systems—while maintaining clean Claude project separation through selective GitHub syncing.
@@ -278,24 +284,33 @@ DM Screen/
 
 This is your active campaign, so we'll be careful.
 
-- [ ] **Create `Campaigns/Exandria/`** with subdirectories
-- [ ] **Move session notes:** `90 Session Notes/` → `Campaigns/Exandria/Session Notes/`
+- [x] **Create `Campaigns/Exandria/`** with subdirectories
+- [x] **Move session notes:** `90 Session Notes/` → `Campaigns/Exandria/Session Notes/`
     - Merge `Future Planning/` and `Possible Session Ideas/` → `Planning/`
     - Keep `Completed/` with arc subfolders (can rename to remove number prefixes)
-- [ ] **Move party content:** `10 The Party/` → `Campaigns/Exandria/Party/`
-- [ ] **Move plot threads:** `30 Plot Threads/` → `Campaigns/Exandria/Plot Threads/`
-- [ ] **Move status docs:** `05 General Plans/001 Campaign Status Documents/` → `Campaigns/Exandria/Status/`
-- [ ] **Move DM Screen:** `00 DM Screen/` → `DM Screen/`
+- [x] **Move party content:** `10 The Party/` → `Campaigns/Exandria/Party/`
+- [x] **Move plot threads:** `30 Plot Threads/` → `Campaigns/Exandria/Plot Threads/`
+- [x] **Move status docs:** `05 General Plans/001 Campaign Status Documents/` → `Campaigns/Exandria/Status/`
+- [x] **Move DM Screen:** `00 DM Screen/` → `DM Screen/`
 
 ### Phase 3: Restructure World Content
 
-- [ ] **Create `Worlds/Exandria/`** mirroring your geographic structure
-- [ ] **Move locations:** `60 Locations/` → `Worlds/Exandria/` (preserve internal structure)
-- [ ] **Create `Characters/`** with NPCs, Opponents, Factions subdirectories
-- [ ] **Move NPCs:** `25 NPCs/` → `Characters/NPCs/`
-- [ ] **Move Opponents:** `21 Opponents/` → `Characters/Opponents/`
-- [ ] **Move Factions:** `19 Factions/` → `Characters/Factions/`
-- [ ] **Move Artifacts:** `40 Artifacts/` → `Items/`
+#### **Verification Tasks**
+- [x] Verify Characters/NPCs/, Characters/Adversaries/, Characters/Factions/ folders exist
+- [x] Verify Worlds/Exandria/ structure matches geographic organization (Wildemount subfolders: Dwendalian Empire, Menagerie Coast, Xorhas, Greying Wildlands)
+- [x] Verify Items/ folder exists
+
+#### **Content Migration Tasks**
+- [x] Move items: `40 Artifacts/` → `Items/`
+- [x] Move factions: `19 Factions/` → `Characters/Factions/`
+- [ ] Move NPCs: `25 NPCs/` → `Characters/NPCs/`
+- [x] Move adversaries: `21 Opponents/` → `Characters/Adversaries/`
+- [x] Move locations: `60 Locations/` → `Worlds/Exandria/` (preserve internal folder structure)
+
+#### **Post-Migration**
+- [ ] Verify links still work (spot check 5-10 notes across different types)
+- [ ] Update any hardcoded folder references in Dataview queries
+- [ ] Delete empty numbered folders once content verified in new locations
 
 ### Phase 4: Add Campaign Tags
 

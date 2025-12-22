@@ -1,4 +1,6 @@
 ---
+affiliations:
+  - none
 processed: no
 aliases:
   - dhazar

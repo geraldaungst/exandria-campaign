@@ -1,0 +1,10 @@
+---
+home_city: Port Damali
+region: Menagerie Coast
+processed: no
+tags:
+
+  - npc
+---
+![[matiu.jpg|right|300]] 
+Ki'Nau elder, handling the problem at the [[New Temple of Moradin]].
