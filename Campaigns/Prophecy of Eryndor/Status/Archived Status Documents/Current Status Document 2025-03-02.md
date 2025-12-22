@@ -3,6 +3,7 @@ processed: 2025-03-03
 tags:
   - dm-document
   - status
+  - campaign/eryndor
 ---
 
 # Current Party Situation

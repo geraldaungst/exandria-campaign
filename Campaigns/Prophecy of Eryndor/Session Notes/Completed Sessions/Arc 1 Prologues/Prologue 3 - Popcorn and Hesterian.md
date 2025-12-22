@@ -1,5 +1,7 @@
 ---
 processed: yes
+tags:
+  - campaign/eryndor
 ---
 [[Popcorn Zikelfikel (Viv)]]
 [[Hesterian Shyr (Dot)]]

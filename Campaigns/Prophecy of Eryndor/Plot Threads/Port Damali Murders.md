@@ -4,6 +4,7 @@ kind: fact/relationship
 processed: yes
 tags:
   - atomic
+  - campaign/eryndor
 created: 2025-09-28
 context:
 ---

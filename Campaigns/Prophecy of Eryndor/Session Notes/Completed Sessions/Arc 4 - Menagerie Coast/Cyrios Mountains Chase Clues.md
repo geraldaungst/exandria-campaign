@@ -1,5 +1,7 @@
 ---
 processed: yes
+tags:
+  - campaign/eryndor
 ---
 
 | d20 Roll | Clue Type                     | Gaining Ground                                                                                                                         | Maintaining Pace (2 days behind)                                                                                                     | Falling Behind                                                                                                                          | Distant Clues (Different Path)                                                                                                                                                     |

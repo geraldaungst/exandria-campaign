@@ -1,5 +1,7 @@
 ---
 processed: yes
+tags:
+  - campaign/eryndor
 ---
 [[Qilynn Duskwhisper (Nicole)]]
 [[Laucian Greycastle (Brent)]]

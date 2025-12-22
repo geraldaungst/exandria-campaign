@@ -1,6 +1,6 @@
 ---
 processed: no
-tags: 
+tags: campaign/eryndor
 ---
 [[Shadowdance Sake]]
 [[The Single Swig Saloon]], a tavern that travels throughout the multiverse.

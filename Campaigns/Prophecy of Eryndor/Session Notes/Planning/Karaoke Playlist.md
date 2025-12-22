@@ -2,8 +2,7 @@
 cssclasses:
   - wide-table
 processed: no
-tags:
-
+tags: campaign/eryndor
 ---
 
 | Title                        | Genre                      | Mood                    | BPM | Thematic elements                                                                                                                          |

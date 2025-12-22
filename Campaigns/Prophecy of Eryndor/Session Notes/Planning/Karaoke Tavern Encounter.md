@@ -1,6 +1,6 @@
 ---
 processed: no
-tags: 
+tags: campaign/eryndor
 ---
 # D&D Karaoke Night Competition Rules
 

@@ -4,7 +4,7 @@ processed:
   - yes
 tags:
   - location
-
+  - campaign/eryndor
 type: location
 aliases:
 status:

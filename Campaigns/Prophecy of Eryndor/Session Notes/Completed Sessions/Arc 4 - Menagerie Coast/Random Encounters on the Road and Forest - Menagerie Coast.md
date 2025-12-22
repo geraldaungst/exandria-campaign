@@ -2,7 +2,7 @@
 processed:
   - no
   - yes
-tags: 
+tags: campaign/eryndor
 ---
 See also: [[Cyrios Mountains Navigation]]
 

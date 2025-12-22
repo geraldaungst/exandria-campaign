@@ -1,5 +1,7 @@
 ---
 processed: yes
+tags:
+  - campaign/eryndor
 ---
 # Mountain Pursuit System - Daily GM Reference
 

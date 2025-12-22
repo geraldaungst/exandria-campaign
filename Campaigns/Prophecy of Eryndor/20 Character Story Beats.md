@@ -1,6 +1,7 @@
 ---
 processed: yes
-tags: []
+tags:
+  - campaign/eryndor
 ---
 # Backstory
 - [x] Give each character a reason to be traveling from Emon to [[Port Damali]]

@@ -1,5 +1,7 @@
 ---
 processed: yes
+tags:
+  - campaign/eryndor
 ---
 ![[What Radelia Knows#Core Information]]
 

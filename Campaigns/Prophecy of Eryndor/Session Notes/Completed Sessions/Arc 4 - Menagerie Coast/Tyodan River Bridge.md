@@ -6,6 +6,7 @@ controlling_faction: Disputed Territory
 processed: yes
 tags:
   - location
+  - campaign/eryndor
 ---
 
 # Quick Reference

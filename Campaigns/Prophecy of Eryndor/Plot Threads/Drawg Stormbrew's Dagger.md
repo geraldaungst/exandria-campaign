@@ -4,6 +4,7 @@ plot_type: main/side/personal/faction
 plot_stage: seed/active/resolved
 tags:
   - plot
+  - campaign/eryndor
 processed: no
 ---
 # Quick Reference

@@ -1,3 +1,7 @@
+---
+tags:
+  - campaign/eryndor
+---
 # CLOUDFANG KEEP & MONASTERY - DM GUIDE
 
 ## CURRENT SITUATION

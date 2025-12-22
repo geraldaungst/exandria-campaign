@@ -2,6 +2,7 @@
 processed: yes
 tags:
   - player
+  - campaign/eryndor
 player: Viv
 race: Forest Gnome
 class:

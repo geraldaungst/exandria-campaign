@@ -4,6 +4,7 @@ plot_type: main
 plot_stage: active
 tags:
   - plot
+  - campaign/eryndor
 processed: no
 ---
 # Quick Reference

@@ -2,7 +2,7 @@
 
 # NEXT STEP
 
-I am ready to begin Phase 4 of the refactoring plan. I want to do this carefully and deliberately to make sure everything is done completely and correctly. This will likely involve a lot of tedious updates, so I don't want to rush or make errors on my end.
+I am ready to begin Phase 5 of the refactoring plan. I want to do this carefully and deliberately to make sure everything is done completely and correctly. This will likely involve a lot of tedious updates, so I don't want to rush or make errors on my end.
 
 First, analyze the entire phase and the contents of the vault. As part of your analysis, review the "Exandria Vault Reorganization" document to see if any of that applies to this phase of the vault restructuring. Consider the best sequence to do the necessary tasks in this phase and tell me what you recommend completing first.
 
@@ -303,14 +303,14 @@ This is your active campaign, so we'll be careful.
 #### **Content Migration Tasks**
 - [x] Move items: `40 Artifacts/` → `Items/`
 - [x] Move factions: `19 Factions/` → `Characters/Factions/`
-- [ ] Move NPCs: `25 NPCs/` → `Characters/NPCs/`
+- [x] Move NPCs: `25 NPCs/` → `Characters/NPCs/`
 - [x] Move adversaries: `21 Opponents/` → `Characters/Adversaries/`
 - [x] Move locations: `60 Locations/` → `Worlds/Exandria/` (preserve internal folder structure)
 
 #### **Post-Migration**
-- [ ] Verify links still work (spot check 5-10 notes across different types)
-- [ ] Update any hardcoded folder references in Dataview queries
-- [ ] Delete empty numbered folders once content verified in new locations
+- [x] Verify links still work (spot check 5-10 notes across different types)
+- [x] Update any hardcoded folder references in Dataview queries
+- [x] Delete empty numbered folders once content verified in new locations
 
 ### Phase 4: Add Campaign Tags
 
@@ -329,8 +329,8 @@ Replace: tags:\n  - campaign/exandria
 
 ### Phase 5: Reference Materials
 
-- [ ] **Move templates:** `z_Reference/z_Templates/` → `Templates/`
-- [ ] **Consolidate reference:** Keep `z_Reference/` with Compendium, Mechanics, Clippings
+- [x] **Move templates:** `z_Reference/z_Templates/` → `Templates/`
+- [x] **Consolidate reference:** Keep `z_Reference/` with Compendium, Mechanics, Clippings
 - [ ] **Remove Folder Overview plugin code** from notes (optional—can do incrementally)
 
 ### Phase 6: Import Tyranny of Dragons

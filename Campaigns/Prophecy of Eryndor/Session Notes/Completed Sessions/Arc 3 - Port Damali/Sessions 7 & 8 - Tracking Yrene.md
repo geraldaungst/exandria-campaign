@@ -2,7 +2,7 @@
 processed:
   - no
   - yes
-tags: 
+tags: campaign/eryndor
 ---
 [[Yrene Shadowthorn|Yrene]] is found in a dark corner at the back of the [[Gilded Pearl Tavern]]. She seems to be in a tense conversation with a nervous-looking informant.
 

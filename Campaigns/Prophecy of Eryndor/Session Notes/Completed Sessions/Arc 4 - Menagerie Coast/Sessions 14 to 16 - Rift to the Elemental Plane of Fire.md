@@ -6,6 +6,7 @@ previous_session:
 next_session:
 tags:
   - session
+  - campaign/eryndor
 processed: yes
 ---
 ## Quick Reference

@@ -1,5 +1,7 @@
 ---
 processed: yes
+tags:
+  - campaign/eryndor
 ---
 In a deep, slow-moving section of the river where it widens between two steep, forested banks, a group of merrow have established a temporary camp in a submerged cave beneath the eastern bank. Led by Vess'lokar the Shallowpriest, they've traveled inland seeking a hidden shrine to Uk'otoa in a mountain lake.
 

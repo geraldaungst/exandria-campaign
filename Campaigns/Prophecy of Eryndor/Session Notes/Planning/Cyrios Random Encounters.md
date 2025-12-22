@@ -1,3 +1,7 @@
+---
+tags:
+  - campaign/eryndor
+---
 Each day of travel roll a d20. On a 17-20, a random encounter occurs: 17 (morning), 18 (afternoon), 19 (evening), 20 (second watch) . Roll a d20 to determine which encounter takes place.
 
 If encounter is repeated, roll on [[Generic Mountain Encounters]]

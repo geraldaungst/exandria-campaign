@@ -1,5 +1,7 @@
 ---
 processed: yes
+tags:
+  - campaign/eryndor
 ---
 Ladies, gentlemen, and distinguished guests from near and far, welcome to the heart of Whitestone, where the whispers of the past and the promises of tomorrow dance in the wind.
 

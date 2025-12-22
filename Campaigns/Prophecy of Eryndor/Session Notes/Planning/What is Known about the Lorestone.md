@@ -3,6 +3,7 @@ epoch: 1732996440942
 modelKey: gpt-4o|openai
 tags:
   - copilot-conversation
+  - campaign/eryndor
 ---
 **DELETE WHEN PROCESSED**
 

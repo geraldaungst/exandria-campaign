@@ -1,3 +1,7 @@
+---
+tags:
+  - campaign/eryndor
+---
 _Use these when a random encounter rolls a result that has already been used as a set encounter_
 
 Roll d20

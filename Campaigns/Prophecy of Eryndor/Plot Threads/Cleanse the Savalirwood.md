@@ -2,11 +2,12 @@
 type: plot
 plot_type: faction
 plot_stage: upcoming
-importance: 
-started: 
-estimated_resolution: 
+importance:
+started:
+estimated_resolution:
 tags:
   - plot
+  - campaign/eryndor
 processed: no
 ---
 # Quick Reference

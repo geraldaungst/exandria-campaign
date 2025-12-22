@@ -6,6 +6,7 @@ controlling_faction:
 processed: yes
 tags:
   - session
+  - campaign/eryndor
 session_number:
 date: 2024-12-17
 previous_session:

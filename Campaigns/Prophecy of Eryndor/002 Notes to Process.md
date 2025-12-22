@@ -1,6 +1,7 @@
 ---
 processed: yes
-tags: []
+tags:
+  - campaign/eryndor
 ---
 # Notes Without Process Tag
 

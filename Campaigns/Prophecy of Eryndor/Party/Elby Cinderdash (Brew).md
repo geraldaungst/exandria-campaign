@@ -2,6 +2,7 @@
 processed: yes
 tags:
   - player
+  - campaign/eryndor
 player: Brew
 race: Draconblood Dragonborn
 class:

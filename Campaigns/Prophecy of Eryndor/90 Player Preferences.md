@@ -1,6 +1,8 @@
 ---
 processed: yes
-tags: atomic
+tags:
+  - atomic
+  - campaign/eryndor
 ---
 Role playing
 Humor

@@ -3,9 +3,10 @@ processed: yes
 type: note
 kind: fact/relationship
 created: 2024-12-18
-context: 
+context:
 tags:
- - atomic
+  - atomic
+  - campaign/eryndor
 ---
 # Core Information
 ## The Truth about Eledyr

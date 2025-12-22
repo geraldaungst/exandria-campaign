@@ -2,6 +2,7 @@
 processed: yes
 tags:
   - atomic
+  - campaign/eryndor
 type: note
 kind: fact/relationship
 created: 2024-12-18

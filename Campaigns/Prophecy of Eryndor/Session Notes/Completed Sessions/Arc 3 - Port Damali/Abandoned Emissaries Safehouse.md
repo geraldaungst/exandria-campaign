@@ -2,6 +2,7 @@
 processed: yes
 tags:
   - location
+  - campaign/eryndor
 ---
 
 # Exterior

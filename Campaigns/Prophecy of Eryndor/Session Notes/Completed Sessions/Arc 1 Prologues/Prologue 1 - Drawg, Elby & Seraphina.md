@@ -1,5 +1,7 @@
 ---
 processed: yes
+tags:
+  - campaign/eryndor
 ---
 Characters:
 [[Seraphina Amaris (Vicki)]]

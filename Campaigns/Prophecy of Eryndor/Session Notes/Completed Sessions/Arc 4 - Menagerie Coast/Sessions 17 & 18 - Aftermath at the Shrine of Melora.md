@@ -7,6 +7,7 @@ next_session:
 processed: yes
 tags:
   - session
+  - campaign/eryndor
 ---
 # Quick Reference
 > [!info] Essential Details

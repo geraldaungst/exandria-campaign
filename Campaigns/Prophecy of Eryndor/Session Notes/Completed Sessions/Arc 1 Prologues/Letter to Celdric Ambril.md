@@ -1,5 +1,7 @@
 ---
 processed: yes
+tags:
+  - campaign/eryndor
 ---
 (Written in Elvish, for some reason...)
 Esteemed [[Celdric Ambril|Celdric]],

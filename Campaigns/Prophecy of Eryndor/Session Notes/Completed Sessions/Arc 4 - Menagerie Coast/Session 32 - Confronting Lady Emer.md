@@ -2,11 +2,14 @@
 type: session
 session_number: 32
 date: 2025-11-01
-previous_session: [[Sessions 29-31 - Traveling to Cloudfang]]
-next_session: [[Session 33]]
+previous_session:
+  - - Sessions 29-31 - Traveling to Cloudfang
+next_session:
+  - - Session 33
 processed: yes
 tags:
   - session
+  - campaign/eryndor
 ---
 # SESSION PREP - Cloudfang Keep Confrontation
 

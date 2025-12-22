@@ -1,12 +1,13 @@
 ---
 type: session
-session_number: 
+session_number:
 date: 2025-11-15
-previous_session: 
+previous_session:
 next_session:
 processed: no
 tags:
   - session
+  - campaign/eryndor
 ---
 # Quick Reference
 > [!info] Essential Details

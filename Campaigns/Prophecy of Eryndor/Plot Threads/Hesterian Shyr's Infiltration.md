@@ -4,6 +4,7 @@ plot_type: personal
 plot_stage: seed
 tags:
   - plot
+  - campaign/eryndor
 processed: yes
 ---
 # Quick Reference

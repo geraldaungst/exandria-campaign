@@ -1,7 +1,8 @@
 ---
 processed: pending
 tags:
- - session
+  - session
+  - campaign/eryndor
 ---
 
 > As you round a bend in the path, a massive fallen oak tree catches your attention. Its trunk, nearly four feet in diameter, lies parallel to the trail, its roots torn from the earth. But what draws your eye are two bodies sprawled beside it, their forms unnaturally still.

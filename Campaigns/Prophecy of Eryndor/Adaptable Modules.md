@@ -1,3 +1,7 @@
+---
+tags:
+  - campaign/eryndor
+---
 # Adaptable Modules for Your Wildemount Campaign
 
 _Side Quests and Plot Components for Levels 9-20_

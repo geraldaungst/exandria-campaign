@@ -6,6 +6,7 @@ aliases:
   - prophecy
 tags:
   - plot
+  - campaign/eryndor
 type: plot
 ---
 # Quick Reference

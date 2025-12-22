@@ -1,6 +1,7 @@
 ---
 processed: yes
-tags: []
+tags:
+  - campaign/eryndor
 ---
 # Scenario Updates
 None yet

@@ -1,6 +1,6 @@
 ---
 processed: yes
-tags: 
+tags: campaign/eryndor
 ---
 ## Characters
 ```dataview

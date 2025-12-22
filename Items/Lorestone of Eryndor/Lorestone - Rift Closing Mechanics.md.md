@@ -2,11 +2,11 @@
 type: note
 kind: fact/relationship
 created: 2025-09-27
-context: 
+context:
 processed: no
 tags:
- - atomic
-
+  - atomic
+  - campaign/eryndor
 ---
 # Core Information
 

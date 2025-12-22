@@ -1,13 +1,13 @@
 ---
 processed: yes
-
 tags:
-- atomic
-- artifact
+  - atomic
+  - artifact
+  - campaign/eryndor
 type: artifact
 aliases:
-- Shard Tracker
-- Lorestone Shards
+  - Shard Tracker
+  - Lorestone Shards
 ---
 
 # Lorestone Shard Status Tracker

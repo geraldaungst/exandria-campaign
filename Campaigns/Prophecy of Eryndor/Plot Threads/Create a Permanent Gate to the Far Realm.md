@@ -5,7 +5,7 @@ plot_stage: seed/active/resolved
 processed: no
 tags:
   - plot
-
+  - campaign/eryndor
 ---
 # Quick Reference
 > [!info] Essential Details

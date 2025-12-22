@@ -1,3 +1,7 @@
+---
+tags:
+  - campaign/eryndor
+---
 A herd of sheep has wandered onto the road, causing a blockage. The shepherd (Darvan Woolfeld, human) is nowhere to be found, and the party must decide whether to help guide the animals back to their pasture or continue onward. (Possibly adds a half day to the journey.) If the party attempts to return the sheep, they will find Darvan unconscious under a tree. 
 
 He was struck on the head by a falling branch during a brief but intense windstorm earlier that day. He has a nasty gash on his forehead and is suffering from a concussion.

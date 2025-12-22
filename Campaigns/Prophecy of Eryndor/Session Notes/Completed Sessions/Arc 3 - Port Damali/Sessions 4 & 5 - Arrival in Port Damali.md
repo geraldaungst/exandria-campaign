@@ -2,7 +2,7 @@
 processed:
   - no
   - yes
-tags: 
+tags: campaign/eryndor
 ---
 # Characters
 - [x]  Review the characters

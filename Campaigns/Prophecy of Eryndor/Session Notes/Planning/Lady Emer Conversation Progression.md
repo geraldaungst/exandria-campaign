@@ -1,3 +1,7 @@
+---
+tags:
+  - campaign/eryndor
+---
 # Lady Emer Interrogation Scene - DM Guide
 
 ## Initial State

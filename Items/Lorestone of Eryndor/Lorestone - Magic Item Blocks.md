@@ -1,3 +1,7 @@
+---
+tags:
+  - campaign/eryndor
+---
 ## Lorestone Shard
 
 _Wondrous item, very rare (requires attunement)_

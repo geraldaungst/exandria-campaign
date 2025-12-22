@@ -3,6 +3,7 @@ epoch: 1744555878960
 modelKey: copilot-plus-flash|copilot-plus
 tags:
   - copilot-conversation
+  - campaign/eryndor
 ---
 
 # Scenario

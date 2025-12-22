@@ -1,8 +1,8 @@
 ---
 tags:
   - plot
-
   - exclude
+  - campaign/eryndor
 processed: no
 ---
 

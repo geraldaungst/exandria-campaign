@@ -1,5 +1,7 @@
 ---
 processed: pending
+tags:
+  - campaign/eryndor
 ---
 # Player Preferences
 ![[90 Player Preferences#TOP FIVE]]

@@ -15,6 +15,7 @@ role: Player
 status: Active
 tags:
   - player
+  - campaign/eryndor
 ---
 ![[dechs-token.png|right|200]]Hill Dwarf Beastmaster Ranger
 

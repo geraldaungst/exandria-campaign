@@ -3,6 +3,7 @@ epoch: 1745795167846
 modelKey: copilot-plus-flash|copilot-plus
 tags:
   - copilot-conversation
+  - campaign/eryndor
 ---
 **user**: @vault Review everything known about the Myriad and its connection to Vaud Qalix.
 [Timestamp: 2025/04/27 19:06:07]

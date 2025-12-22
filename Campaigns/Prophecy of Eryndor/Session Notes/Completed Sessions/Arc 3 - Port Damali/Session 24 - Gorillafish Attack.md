@@ -9,7 +9,7 @@ processed:
   - yes
 tags:
   - session
-
+  - campaign/eryndor
 ---
 # Quick Reference
 > [!info] Essential Details

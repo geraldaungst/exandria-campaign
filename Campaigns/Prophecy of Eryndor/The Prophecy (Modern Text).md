@@ -2,10 +2,11 @@
 type: note
 kind: fact/relationship
 created: 2024-12-22
-context: 
+context:
 processed: yes
 tags:
- - atomic
+  - atomic
+  - campaign/eryndor
 ---
 # Core Information
 ## The Prophecy (Modern Text)

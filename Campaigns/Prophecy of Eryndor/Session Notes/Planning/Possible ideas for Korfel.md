@@ -3,6 +3,7 @@ epoch: 1743362647296
 modelKey: copilot-plus-flash|copilot-plus
 tags:
   - copilot-conversation
+  - campaign/eryndor
 ---
 
 **user**: @vault Review all known information about Korfel Withethrin and provide me with a 1 paragraph summary.
