@@ -1,13 +1,12 @@
 ---
+tags:
+  - item
+  - item
+  - needs-work
 affiliations:
   - none
 aliases: 
-possession: 
-processed: no
-tags:
-  - item
-  - artifact
-
+possession:
 ---
 # Quick Reference
 > [!info] Essential Details

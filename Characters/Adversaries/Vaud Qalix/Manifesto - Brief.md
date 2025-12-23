@@ -1,7 +1,6 @@
 ---
-processed: no
 tags:
-
+  - needs-work
   - npc
 ---
 # Reclaiming the Glory of Draconia

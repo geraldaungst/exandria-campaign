@@ -1,12 +1,11 @@
 ---
+tags:
+  - atomic
+  - needs-work
 affiliations:
   - Obsidian Echoforge
 faction: Obsidian Echoforge
 location: Port Damali
-processed: no
-tags:
-  - atomic
-
 ---
 > [!info]- Essential Details
 > - Location: [[Port Damali]]

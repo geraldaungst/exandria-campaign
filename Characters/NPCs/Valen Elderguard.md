@@ -1,8 +1,7 @@
 ---
-processed: yes
 tags:
-  - npc
   - antagonist
+  - npc
 location: Rexxentrum
 affiliations:
   - "[[Emissaries of the Sunfall]]"

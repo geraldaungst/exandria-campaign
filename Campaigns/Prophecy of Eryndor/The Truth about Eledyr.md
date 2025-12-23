@@ -1,10 +1,9 @@
 ---
-processed: yes
-created: 2024-12-18
-context:
 tags:
   - atomic
   - campaign/eryndor
+created: 2024-12-18
+context:
 ---
 # Core Information
 ## The Truth about Eledyr

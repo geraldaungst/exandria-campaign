@@ -1,8 +1,7 @@
 ---
-processed: yes
 tags:
   - item
-  - artifact
+  - item
 aliases: 
 possession: "[[Dreyara Drimvar]]"
 ---

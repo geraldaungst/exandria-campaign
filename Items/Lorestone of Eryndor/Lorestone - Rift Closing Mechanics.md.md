@@ -1,10 +1,10 @@
 ---
-created: 2025-09-27
-context:
-processed: no
 tags:
   - atomic
   - campaign/eryndor
+  - needs-work
+created: 2025-09-27
+context:
 ---
 # Core Information
 

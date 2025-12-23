@@ -1,10 +1,9 @@
 ---
-processed: yes
+tags:
+  - faction
+  - npc
 aliases:
   - riftguard
-tags:
-  - npc
-  - faction
 ---
 ![[riftguard.png|right|400]]
 

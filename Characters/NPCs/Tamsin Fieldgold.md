@@ -1,11 +1,10 @@
 ---
+tags:
+  - needs-work
+  - npc
 home_city: Zadash
-processed: no
 aliases:
   - Tamsin
-tags:
-
-  - npc
 ---
 home_city: Zadash
 region: Tal'Dorei

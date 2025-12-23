@@ -1,10 +1,9 @@
 ---
-processed: yes
+tags:
+  - faction
+  - npc
 aliases:
   - echoforge
-tags:
-  - npc
-  - faction
 ---
 ![[obsidian-echoforge.png|right|100]]
 # Quick Reference

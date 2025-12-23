@@ -1,9 +1,8 @@
 ---
-processed: yes
 tags:
   - item
-  - artifact
   - campaign/eryndor
+  - item
 aliases: Lorestone
 possession:
   - "[[Archivist Ovedo]]"

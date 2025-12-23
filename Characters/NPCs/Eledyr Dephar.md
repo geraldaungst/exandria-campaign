@@ -1,10 +1,9 @@
 ---
-home_city: Port Damali
-processed: no
 tags:
+  - needs-work
   - npc
   - region/menagerie-coast
-
+home_city: Port Damali
 faction:
   - - Emissaries of the Sunfall
 location:

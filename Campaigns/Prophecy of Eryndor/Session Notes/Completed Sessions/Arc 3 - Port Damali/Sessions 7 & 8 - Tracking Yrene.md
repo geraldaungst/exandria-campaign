@@ -1,6 +1,5 @@
 ---
-processed:
-  - no
+- no
   - yes
 tags: campaign/eryndor
 ---

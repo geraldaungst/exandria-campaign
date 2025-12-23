@@ -1,14 +1,13 @@
 ---
+tags:
+  - campaign/eryndor
+  - session
 session_number:
 date: 2025-01-18
 previous_session:
   - - Session 21 - Return to Port Damali
 next_session:
   - - Session 23
-processed: yes
-tags:
-  - session
-  - campaign/eryndor
 ---
 # Quick Reference
 > [!info] Essential Details

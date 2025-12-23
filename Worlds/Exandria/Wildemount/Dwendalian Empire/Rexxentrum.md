@@ -1,9 +1,8 @@
 ---
-processed:
-  - pending
 tags:
   - location
   - region/dwendalian-empire
+- pending
 ---
 # Quick Reference
 > [!info] Essential Details

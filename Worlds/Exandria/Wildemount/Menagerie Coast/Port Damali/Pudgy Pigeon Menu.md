@@ -1,9 +1,8 @@
 ---
-created: 2024-12-22
-context:
 tags:
   - atomic
-processed: yes
+created: 2024-12-22
+context:
 ---
 # Core Information
 ## Pudgy Pigeon Menu

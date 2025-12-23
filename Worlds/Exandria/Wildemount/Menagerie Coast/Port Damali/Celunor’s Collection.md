@@ -4,7 +4,6 @@ tags:
   - region/menagerie-coast
 aliases:
   - Drowned Library
-processed: yes
 ---
 ![[celunors-collection.png|right|300]]
 

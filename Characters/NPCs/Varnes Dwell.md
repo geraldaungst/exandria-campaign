@@ -1,10 +1,9 @@
 ---
+tags:
+  - npc
 home_base: Port Damali
 faction: None
 location: [[Cloudfang Keep]]
-processed: yes
-tags:
-  - npc
 affiliations:
   - Independent Contractor
   - Former Dwendalian Military

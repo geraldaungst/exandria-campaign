@@ -1,12 +1,11 @@
 ---
+tags:
+  - npc
 location: Port Damali
-processed: yes
 aliases:
   - Yara
   - Dreyara
   - Vessa Blackthorn
-tags:
-  - npc
 ---
 ![[dreyara-token.png|right|300]]
 

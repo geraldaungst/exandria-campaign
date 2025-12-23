@@ -1,14 +1,13 @@
 ---
+tags:
+  - atomic
+  - history
+  - lore
+  - needs-work
 affiliations:
   - Obsidian Echoforge
 faction: Obsidian Echoforge
 location: Hupperdook
-processed: no
-tags:
-  - lore
-  - history
-  - atomic
-
 ---
 # Quick Reference
 > [!info] Essential Details

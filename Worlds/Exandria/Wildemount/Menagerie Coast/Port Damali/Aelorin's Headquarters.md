@@ -2,7 +2,6 @@
 tags:
   - location
   - region/menagerie-coast
-processed: yes
 ---
 # Quick Reference
 > [!info] Essential Details

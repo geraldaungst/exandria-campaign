@@ -1,8 +1,7 @@
 ---
-created: 2025-01-27
-processed: yes
 tags:
   - atomic
+created: 2025-01-27
 ---
 
 # Core Information

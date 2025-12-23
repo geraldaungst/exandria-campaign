@@ -1,9 +1,8 @@
 ---
-processed: no
 tags:
-
-  - npc
   - faction
+  - needs-work
+  - npc
 ---
 Ludinus Da'leth has been approached by the [[Ring of Three]] seeking information about the [[Rupture of the Molaesmyr Fey Crossing|cataclysm]] that ended [[Ruins of Molaesmyr|Molaesmyr]].
 

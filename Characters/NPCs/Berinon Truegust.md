@@ -1,13 +1,12 @@
 ---
+tags:
+  - needs-work
+  - npc
 home_city: Zadash
-processed: no
 aliases:
   - berinon
 affiliations:
   - "[[Emissaries of the Sunfall]]"
-tags:
-
-  - npc
 ---
 home_city: Zadash
 ![[berinon-truegust.png|right|200]]

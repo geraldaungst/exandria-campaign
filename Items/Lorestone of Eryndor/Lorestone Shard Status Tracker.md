@@ -1,8 +1,7 @@
 ---
-processed: yes
 tags:
+  - item
   - atomic
-  - artifact
   - campaign/eryndor
 aliases:
   - Shard Tracker

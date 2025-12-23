@@ -1,11 +1,10 @@
 ---
+tags:
+  - needs-work
+  - npc
 home_city: Zadash
-processed: no
 affiliations:
   - "[[Emissaries of the Sunfall]]"
-tags:
-
-  - npc
 ---
 home_city: Zadash
 

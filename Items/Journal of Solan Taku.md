@@ -1,7 +1,6 @@
 ---
-processed: yes
 tags:
-  - artifact
+  - item
 ---
 ## **Day 12 of Blossoming**
 

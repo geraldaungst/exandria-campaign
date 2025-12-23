@@ -1,9 +1,9 @@
 ---
-faction: [[Emissaries of the Sunfall]]
-location: [[Cloudfang Keep]]
-processed: no
 tags:
   - atomic
+  - needs-work
+faction: [[Emissaries of the Sunfall]]
+location: [[Cloudfang Keep]]
 ---
 > [!info]- Essential Details
 > - Location: [[Cloudfang Keep]] Library (Area E6)

@@ -1,7 +1,5 @@
 ---
-processed: yes
-tags:
- - location
+- location
   - region/cyrios-mountains
 ---
 # Monastery Meenlock Addition - Planned Changes

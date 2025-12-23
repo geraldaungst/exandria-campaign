@@ -1,10 +1,9 @@
 ---
-home_city: Port Damali
-processed: no
 tags:
+  - item
+  - needs-work
   - region/menagerie-coast
-
-  - artifact
+home_city: Port Damali
 ---
 ![[Stonefoot Compass.jpeg]]
 

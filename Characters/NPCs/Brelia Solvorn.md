@@ -1,11 +1,10 @@
 ---
+tags:
+  - needs-work
+  - npc
 affiliations:
   - Unshaken (Skyship)
 home_city: Zadash
-processed: no
-tags:
-
-  - npc
 ---
 home_city: Zadash
 ![[brelia-solvorn.jpeg|right|300]]

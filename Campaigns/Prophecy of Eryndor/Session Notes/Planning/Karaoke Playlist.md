@@ -1,7 +1,8 @@
 ---
+tags:
+  - needs-work
 cssclasses:
   - wide-table
-processed: no
 tags: campaign/eryndor
 ---
 

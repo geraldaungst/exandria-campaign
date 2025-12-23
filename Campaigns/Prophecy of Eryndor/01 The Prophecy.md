@@ -1,10 +1,9 @@
 ---
-processed: yes
+tags:
+  - campaign/eryndor
+  - plot/active
 aliases:
   - prophecy
-tags:
-  - plot/active
-  - campaign/eryndor
 ---
 # Quick Reference
 > [!info] Essential Details

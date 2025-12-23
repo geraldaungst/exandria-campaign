@@ -1,7 +1,6 @@
 ---
-processed: no
 tags:
-
+  - needs-work
   - npc
 affiliations:
   - "[[Emissaries of the Sunfall]]"

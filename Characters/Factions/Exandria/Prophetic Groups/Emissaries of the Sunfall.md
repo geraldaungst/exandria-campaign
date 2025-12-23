@@ -1,12 +1,11 @@
 ---
-processed: no
+tags:
+  - faction
+  - needs-work
+  - npc
 aliases:
   - EOTS
   - Emissaries
-tags:
-
-  - npc
-  - faction
 ---
 ![[emissaries.png|right|100]]
 

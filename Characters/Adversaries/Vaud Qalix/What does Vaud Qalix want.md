@@ -1,8 +1,6 @@
 ---
 created: 2025-01-10
 context: 
-processed: yes
-tags:
  - atomic
 ---
 # Core Information

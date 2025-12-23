@@ -1,8 +1,7 @@
 ---
-processed: no
 tags:
-
-  - artifact
+  - item
+  - needs-work
 ---
 How Made: Shadowdance Sake is an exquisite and rare beverage, crafted from a special variety of black rice known only to grow in the shadowy, mist-covered lands surrounding the village. This rice is cherished for its deep, rich color and unique flavor profile, which is enhanced by the enigmatic energies of the land. The brewing process is painstakingly undertaken in subterranean cellars, where the constant, cool darkness mirrors the perpetual twilight of the shadowy groves where the rice originates. During the fermentation process, the sake is infused with a distilled essence of Shadowthorn berries, imbuing the drink with its magical properties and complex flavor.
 

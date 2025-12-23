@@ -1,12 +1,11 @@
 ---
+tags:
+  - needs-work
+  - npc
 home_city: Zadash
-processed: no
 aliases:
   - triotta
   - thessaly
-tags:
-
-  - npc
 ---
 home_city: Zadash
 region: Tal'Dorei

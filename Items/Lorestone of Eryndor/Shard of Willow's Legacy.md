@@ -1,8 +1,8 @@
 ---
-processed: no
 tags:
-  - artifact
+  - item
   - campaign/eryndor
+  - needs-work
 ---
 **Shard of Willow's Legacy**
 _Wondrous item (pendant), legendary (requires attunement by a descendant of the Willowwhisper lineage)_

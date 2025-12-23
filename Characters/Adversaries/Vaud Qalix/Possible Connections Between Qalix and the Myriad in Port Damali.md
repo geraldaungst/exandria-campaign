@@ -1,7 +1,6 @@
 ---
-processed: no
 tags:
-
+  - needs-work
   - npc
 ---
 Given the context that Vaud Qalix might have given the Blade of Maroth Fenn to another member of his entourage, thinking it was not particularly valuable, we can consider key individuals within his organization who might now possess the dagger. These individuals would likely be trusted allies or those holding significant roles within his operations.

@@ -1,10 +1,9 @@
 ---
+tags:
+  - location
 aliases:
   - Coriander & Mallow
   - Coriander & Mallow Exchange Company
-tags:
-  - location
-processed: yes
 ---
 
 # Quick Reference

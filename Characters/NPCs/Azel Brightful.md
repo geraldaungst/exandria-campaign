@@ -1,12 +1,11 @@
 ---
+tags:
+  - needs-work
+  - npc
 affiliations:
   - none
-processed: no
-tags:
-
-  - npc
 faction: 
-location: 
+location:
 ---
 # Quick Reference
 > [!info] Essential Details

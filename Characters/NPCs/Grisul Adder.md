@@ -1,10 +1,9 @@
 ---
-home_city: Port Damali
-processed: no
 tags:
-  - region/menagerie-coast
-
+  - needs-work
   - npc
+  - region/menagerie-coast
+home_city: Port Damali
 ---
 ![[grisul-adder.jpeg|right|300]]_Medium humanoid (goliath), Chaotic Good_
 

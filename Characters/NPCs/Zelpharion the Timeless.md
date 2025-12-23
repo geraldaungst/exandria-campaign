@@ -1,12 +1,11 @@
 ---
+tags:
+  - needs-work
+  - npc
 affiliations:
   - none
-processed: no
 aliases:
   - zelpharion
-tags:
-
-  - npc
 ---
 **Zelpharion's Intention**
 

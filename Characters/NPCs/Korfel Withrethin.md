@@ -1,13 +1,12 @@
 ---
+tags:
+  - npc
+  - region/dwendalian-empire
 home_city: Zadash
-processed: yes
 aliases:
   - The Gentleman
   - Korfel
   - Babenon Dosal
-tags:
-  - npc
-  - region/dwendalian-empire
 faction: Myriad
 location: Zadash
 affiliations:

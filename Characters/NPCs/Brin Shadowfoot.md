@@ -1,9 +1,8 @@
 ---
-home_city: Zadash
-processed: no
 tags:
-
+  - needs-work
   - npc
+home_city: Zadash
 affiliations:
   - Whitestone
 aliases:

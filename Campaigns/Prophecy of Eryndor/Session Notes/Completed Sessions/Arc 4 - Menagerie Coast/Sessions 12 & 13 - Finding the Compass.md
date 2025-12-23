@@ -1,14 +1,13 @@
 ---
+tags:
+  - campaign/eryndor
+  - session
 session_number:
 date: 2025-01-08
 previous_session:
   - - Session 6 - Goblins at the Bridge
 next_session:
   - - Session 8 - Rift to the Elemental Plane of Fire
-processed: yes
-tags:
-  - session
-  - campaign/eryndor
 ---
 # Quick Reference
 > [!info] Essential Details

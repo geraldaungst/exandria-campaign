@@ -1,5 +1,5 @@
 ---
-processed: yes
+
 ---
 ## 1. Main Shop
 

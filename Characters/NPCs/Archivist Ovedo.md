@@ -1,10 +1,9 @@
 ---
-home_city: Rexxentrum
-processed: no
 tags:
-  - region/dwendalian-empire
-
+  - needs-work
   - npc
+  - region/dwendalian-empire
+home_city: Rexxentrum
 ---
 ![[ovedo.webp|right|300]]
 Archivist at the Rexxentrum Archive of the [[Cobalt Soul]]. A nonbinary half-elf (they/them) with short pink hair with a rat tail. They have a dry and sarcastic sense of humor. They have a neurological disorder that makes them excel at details, but also causes frequent insomnia. They have an eidetic memory. They work slowly and methodically, but are incredibly persistent and thorough. They are used to getting what they want, usually through relentless planning and preparation.

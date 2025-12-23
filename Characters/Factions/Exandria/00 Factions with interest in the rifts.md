@@ -1,8 +1,7 @@
 ---
-processed: yes
 tags:
-  - npc
   - faction
+  - npc
 cssclasses:
   - wide-table
 ---

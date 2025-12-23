@@ -1,7 +1,6 @@
 ---
-processed: no
 tags:
-
+  - needs-work
   - npc
 ---
 [[Sumad-Dekon Harrowgate]] and [[Tessa Sunwarden]] met during their early years while studying at the Soltryce Academy in Rexxentrum. Their relationship began purely academic, bonded by a shared insatiable curiosity for the mysteries of the arcane and the history of Exandria. Both were top students, often seen debating fiercely over ancient texts and theorems in the grand halls of the academy, pushing each other to greater academic heights. However, their relationship gradually deepened beyond mere scholarly pursuit.

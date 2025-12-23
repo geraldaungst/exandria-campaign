@@ -1,9 +1,8 @@
 ---
-affiliations:
-  - none
-processed: yes
 tags:
   - location
+affiliations:
+  - none
 ---
 # Quick Reference
 > [!info] Essential Details

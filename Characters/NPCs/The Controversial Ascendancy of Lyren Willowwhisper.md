@@ -1,10 +1,10 @@
 ---
+tags:
+  - needs-work
 affiliations:
   - Obsidian Echoforge
 created: 2025-10-12
 context: 
-processed: no
-tags:
  - atomic
  - to-process
 ---

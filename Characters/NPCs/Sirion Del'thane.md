@@ -1,9 +1,8 @@
 ---
-home_city: Xarzith Kitril
-processed: no
 tags:
-
+  - needs-work
   - npc
+home_city: Xarzith Kitril
 ---
 # Sirion Del'thane
 A charismatic and shrewd diplomat with deep ties in both the Dwendalian Empire and the Kryn Dynasty.

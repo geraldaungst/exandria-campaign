@@ -1,12 +1,11 @@
 ---
+tags:
+  - needs-work
+  - npc
+  - region/menagerie-coast
 home_city: Port Damali
-processed: no
 aliases:
   - Yrene
-tags:
-  - region/menagerie-coast
-
-  - npc
 ---
 ![[yrene-token.png|left|100]] **Species:** Elf  
 **Age:** 120 (appears to be in her early 30s by human standards)  

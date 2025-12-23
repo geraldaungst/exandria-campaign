@@ -1,7 +1,6 @@
 ---
-processed: no
 tags:
-
+  - needs-work
   - npc
 ---
 This is the full version. See [[Manifesto - Brief]] for a condensed version that Qalix often distributes to those he is trying to ally with.

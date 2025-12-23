@@ -1,9 +1,9 @@
 ---
 tags:
-  - plot
-  - exclude
   - campaign/eryndor
-processed: no
+  - exclude
+  - needs-work
+  - plot
 ---
 
 # Main Campaign Threads

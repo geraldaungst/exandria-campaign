@@ -1,8 +1,8 @@
 ---
-processed: no
 tags:
-  - plot
   - campaign/eryndor
+  - needs-work
+  - plot
 ---
 # Quick Reference
 > [!info] Essential Details

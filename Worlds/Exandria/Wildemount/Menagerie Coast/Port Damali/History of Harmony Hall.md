@@ -1,9 +1,8 @@
 ---
-created: 2025-01-09
-context:
 tags:
   - atomic
-processed: yes
+created: 2025-01-09
+context:
 ---
 # Core Information
 ## Key Info

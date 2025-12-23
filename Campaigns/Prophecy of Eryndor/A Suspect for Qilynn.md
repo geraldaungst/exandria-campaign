@@ -1,10 +1,9 @@
 ---
-created: 2024-12-18
-context:
-processed: yes
 tags:
   - atomic
   - campaign/eryndor
+created: 2024-12-18
+context:
 ---
 # Core Information
 ## A Suspect for [[Qilynn Duskwhisper (Nicole)|Qilynn]]

@@ -1,5 +1,4 @@
 ---
-processed: yes
 tags:
   - location
   - region/menagerie-coast

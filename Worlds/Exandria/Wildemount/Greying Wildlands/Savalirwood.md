@@ -1,9 +1,8 @@
 ---
-aliases: 
 tags:
   - location
-
-processed: no
+  - needs-work
+aliases:
 ---
 # Quick Reference
 > [!info] Essential Details

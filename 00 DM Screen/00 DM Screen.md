@@ -1,5 +1,4 @@
 ---
-processed: yes
 cssclasses: wide
 tags: []
 ---

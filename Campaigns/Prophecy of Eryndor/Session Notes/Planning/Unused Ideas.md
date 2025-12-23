@@ -1,5 +1,6 @@
 ---
-processed: no
+tags:
+  - needs-work
 tags: campaign/eryndor
 ---
 [[Shadowdance Sake]]

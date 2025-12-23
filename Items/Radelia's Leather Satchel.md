@@ -1,5 +1,5 @@
 ---
-tags: artifact
+tags: item
 ---
 # Radelia's Leather Satchel
 On the road, the party discovers a torn leather pouch at the side of the road with some fresh bloodstains. The pouch is finely made and has the initials RC embossed on the flap. Inside the pouch they find:

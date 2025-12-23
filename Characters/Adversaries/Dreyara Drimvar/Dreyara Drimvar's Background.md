@@ -1,8 +1,6 @@
 ---
 created: 2024-12-15
 context: 
-processed: yes
-tags:
  - atomic
 ---
 ## Origin and Training

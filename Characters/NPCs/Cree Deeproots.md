@@ -1,11 +1,10 @@
 ---
-home_city: Zadash
-created: 2025-09-28
-processed: no
 tags:
   - atomic
+  - needs-work
   - region/dwendalian-empire
-
+home_city: Zadash
+created: 2025-09-28
 context:
 ---
 home_city: Zadash

@@ -1,10 +1,9 @@
 ---
-processed:
-  - no
-  - yes
 tags:
-  - location
   - campaign/eryndor
+  - location
+- no
+  - yes
 aliases:
 notable_npcs:
 key_items:

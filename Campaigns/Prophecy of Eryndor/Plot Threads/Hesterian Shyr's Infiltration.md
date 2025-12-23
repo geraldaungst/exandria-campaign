@@ -1,8 +1,7 @@
 ---
 tags:
-  - plot/seed
   - campaign/eryndor
-processed: yes
+  - plot/seed
 ---
 # Quick Reference
 

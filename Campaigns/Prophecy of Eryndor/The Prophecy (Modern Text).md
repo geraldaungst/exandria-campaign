@@ -1,10 +1,9 @@
 ---
-created: 2024-12-22
-context:
-processed: yes
 tags:
   - atomic
   - campaign/eryndor
+created: 2024-12-22
+context:
 ---
 # Core Information
 ## The Prophecy (Modern Text)

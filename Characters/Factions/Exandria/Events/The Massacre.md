@@ -1,9 +1,7 @@
 ---
 created: 2025-01-12
 context: Historical faction event
-processed: yes
 date: 785 PD
-tags:
 - atomic
 - faction-event
 ---

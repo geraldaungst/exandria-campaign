@@ -1,8 +1,7 @@
 ---
-processed: yes
 tags:
-  - location
   - campaign/eryndor
+  - location
   - region/menagerie-coast
 ---
 

@@ -1,8 +1,6 @@
 ---
 created: 2025-01-12
 context: Historical faction background
-processed: yes
-tags:
 - atomic
 - faction-event
 ---

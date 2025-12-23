@@ -1,9 +1,9 @@
 ---
+tags:
+  - needs-work
+  - npc
 faction: [[Emissaries of the Sunfall]]
 location: [[Cloudfang Keep]]
-processed: no
-tags:
-  - npc
 ---
 
 # Quick Reference

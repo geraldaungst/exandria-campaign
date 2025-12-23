@@ -1,9 +1,8 @@
 ---
-created: 2025-01-19
-processed: yes
 tags:
   - atomic
   - campaign/eryndor
+created: 2025-01-19
 ---
 # Core Information
 

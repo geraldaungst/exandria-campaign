@@ -1,6 +1,5 @@
 ---
-processed: yes
-tags: 
+
 ---
 
 | d100  | Rift Size  | Lorestone Range | Diameter   | Success Threshold | Total Successes | Riftcages Necessary to Stabilize |     |

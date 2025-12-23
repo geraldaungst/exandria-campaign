@@ -1,11 +1,11 @@
 ---
+tags:
+  - needs-work
+  - npc
+  - region/dwendalian-empire
 home_city: Rexxentrum
 faction:
 location:
-processed: no
-tags:
-  - npc
-  - region/dwendalian-empire
 ---
 
 ![[young-melthes.png|right|300]]

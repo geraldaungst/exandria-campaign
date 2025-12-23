@@ -1,5 +1,4 @@
 ---
-processed: yes
 tags:
   - npc
 affiliations:

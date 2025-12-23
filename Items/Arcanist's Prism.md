@@ -1,9 +1,8 @@
 ---
-processed: no
 tags:
-
-  - artifact
+  - item
   - atomic
+  - needs-work
 ---
 A rare crystal rumored to be capable of dispersing focused magical energy, reducing the risk of catastrophic feedback during planar manipulation. The Prism is crucial for the dispersal device the Wardens are constructing; without it, the device could malfunction or amplify the rifts instead of closing them.
 

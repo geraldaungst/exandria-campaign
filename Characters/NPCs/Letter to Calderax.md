@@ -1,9 +1,8 @@
 ---
-home_city: Port Damali
-processed: yes
 tags:
   - npc
   - region/menagerie-coast
+home_city: Port Damali
 ---
 Dear Friend of [[Calderax Dunhall|Calderax]],
 

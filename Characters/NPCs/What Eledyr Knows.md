@@ -1,11 +1,10 @@
 ---
-home_city: Port Damali
-created: 2025-01-08
-context: 
-processed: yes
 tags:
   - atomic
   - region/menagerie-coast
+home_city: Port Damali
+created: 2025-01-08
+context:
 ---
 # Core Information
 

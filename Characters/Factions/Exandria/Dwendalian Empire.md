@@ -1,9 +1,8 @@
 ---
-processed: no
 tags:
-
-  - npc
   - faction
+  - needs-work
+  - npc
 ---
 # Dwendalian Empire
 

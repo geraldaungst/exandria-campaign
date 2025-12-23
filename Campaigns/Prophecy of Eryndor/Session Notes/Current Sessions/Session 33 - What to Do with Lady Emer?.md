@@ -1,14 +1,14 @@
 ---
+tags:
+  - campaign/eryndor
+  - needs-work
+  - session
 session_number: 33
 date: 2025-11-16
 previous_session:
   - - Session 32 - Confronting Lady Emer
 next_session:
   - - Session 34
-processed: no
-tags:
-  - session
-  - campaign/eryndor
 ---
 
 # Quick Reference

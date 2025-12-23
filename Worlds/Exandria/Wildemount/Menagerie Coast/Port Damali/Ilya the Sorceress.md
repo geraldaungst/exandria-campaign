@@ -1,9 +1,8 @@
 ---
-faction:
-location:
 tags:
   - npc
-processed: yes
+faction:
+location:
 ---
 # Quick Reference
 > [!info] Essential Details

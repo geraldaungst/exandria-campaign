@@ -1,8 +1,7 @@
 ---
-processed: yes
 tags:
-  - session
   - campaign/eryndor
+  - session
 session_number:
 date: 2024-12-17
 previous_session:

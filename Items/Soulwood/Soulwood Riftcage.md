@@ -1,8 +1,7 @@
 ---
-processed: no
 tags:
-
-  - artifact
+  - item
+  - needs-work
 aliases: Riftcage
 ---
 ![[riftcage.jpeg]]

@@ -1,12 +1,11 @@
 ---
+tags:
+  - needs-work
 affiliations:
   - Kryn Dynasty
 created: 2025-09-27
 context: 
-processed: no
-tags:
  - atomic
-
 ---
 # Core Information
 

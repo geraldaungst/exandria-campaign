@@ -1,12 +1,11 @@
 ---
-processed: no
+tags:
+  - needs-work
+  - npc
 xcssclasses:
   - wide-table
 aliases:
   - Ceratos
-tags:
-
-  - npc
 ---
 ![[Ceratos.png|right|400]]
 

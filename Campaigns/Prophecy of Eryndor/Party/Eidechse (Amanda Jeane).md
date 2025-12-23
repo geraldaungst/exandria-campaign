@@ -1,12 +1,11 @@
 ---
-processed: yes
+tags:
+  - campaign/eryndor
+  - player
 aliases:
   - Dechs
 player: Amanda Jeane
 modifier: 2
-tags:
-  - player
-  - campaign/eryndor
 ---
 ![[dechs-token.png|right|200]]Hill Dwarf Beastmaster Ranger
 

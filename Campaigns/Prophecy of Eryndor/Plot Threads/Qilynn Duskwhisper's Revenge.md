@@ -1,8 +1,7 @@
 ---
 tags:
-  - plot/active
   - campaign/eryndor
-processed: yes
+  - plot/active
 ---
 # Quick Reference
 

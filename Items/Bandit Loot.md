@@ -1,5 +1,5 @@
 ---
-tags: artifact
+tags: item
 ---
 [[Session 20 - Bandit Ambush in Swamp]]
 

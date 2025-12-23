@@ -1,8 +1,8 @@
 ---
-processed: no
 tags:
-  - npc
   - historical
+  - needs-work
+  - npc
 affiliations:
   - - - Obsidian Echoforge
 faction:

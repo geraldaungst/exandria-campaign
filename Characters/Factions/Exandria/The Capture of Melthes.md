@@ -1,10 +1,10 @@
 ---
-created: 2025-10-12
-processed: no
 tags:
   - atomic
   - cerberus-assembly
+  - needs-work
   - xarzith-kitril
+created: 2025-10-12
 aliases:
   - The Melthes Kidnapping
   - Melthes Recruitment

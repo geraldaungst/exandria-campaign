@@ -1,9 +1,8 @@
 ---
-created: 2024-12-22
-context:
 tags:
   - atomic
-processed: yes
+created: 2024-12-22
+context:
 ---
 # Core Information
 ## The True History of [[Celdric Ambril|Celunor]] and His Shop

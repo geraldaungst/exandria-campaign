@@ -1,7 +1,6 @@
 ---
 tags:
   - location
-processed: yes
 ---
 ## Exterior of the Shrine:
 

@@ -1,7 +1,6 @@
 ---
-processed: no
 tags:
-
+  - needs-work
   - npc
 ---
 ![[History of Xarzith Kitril and Draconia#Core Information]]

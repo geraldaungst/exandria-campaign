@@ -1,8 +1,8 @@
 ---
-processed: pending
 tags:
-  - npc
   - faction
+  - needs-work
+  - npc
 ---
 # Goals
 - Long-Term: 

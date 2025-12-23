@@ -3,8 +3,6 @@ affiliations:
   - Obsidian Echoforge
 created: 2024-12-01
 context: 
-processed: yes
-tags:
  - atomic
  - location
 ---

@@ -1,9 +1,8 @@
 ---
-processed: no
 tags:
-
-  - npc
   - faction
+  - needs-work
+  - npc
 ---
 ![[xarzith-kitril-council.png|right|300]]
 (Xarzith Kitril Governing Council)

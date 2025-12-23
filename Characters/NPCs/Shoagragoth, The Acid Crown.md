@@ -1,12 +1,11 @@
 ---
+tags:
+  - needs-work
+  - npc
 affiliations:
   - Kryn Dynasty
 faction: 
-location: 
-processed: no
-tags:
-  - npc
-
+location:
 ---
 # Quick Reference
 

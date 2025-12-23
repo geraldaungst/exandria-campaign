@@ -1,11 +1,3 @@
-
-```dataview
-LIST
-FROM "Characters/NPCs" OR "Characters/Factions" OR "Characters/Adversaries" OR "Worlds" OR "Items"
-WHERE !contains(tags, "npc") AND !contains(tags, "location") AND !contains(tags, "faction") AND !contains(tags, "artifact")
-LIMIT 20
-```
-
 ## Revised Phase 8: File Audit & Cleanup
 
 ### Key Context from Previous Phases
@@ -23,15 +15,7 @@ This was deferred to Phase 8 to see patterns across the full vault.
 
 - [x] Step 1: Inventory all properties
 - [x] **Step 2: Apply the property/tag rule**
-
-**Step 3: Decide on `processed` workflow**
-
-Options to choose from:
-
-1. **Delete entirely** — if tagged and in vault, it's done
-2. **Replace with `#inbox`** — remove when processed, no property tracking
-3. **Keep but simplify** — binary yes/no only, no "pending"
-
+- [x] **Step 3: Decide on `processed` workflow**
 ### Part B: Tyranny NPCs Processing
 
 Before general file triage, handle the archived Tyranny content:
@@ -71,6 +55,18 @@ aliases: []
 # Connections
 <!-- Add links as relevant -->
 ```
+
+Completed templates:
+- [[NPC Template]]
+- [[Location Template]]
+- [[Artifact-Item Template]]
+
+Not yet simplified:
+- [[Plot Thread Template]]
+- [[Atomic Note]]
+- [[Faction Template]]
+- [[NPC Status Template]]
+- [[Session Template]]
 
 ### Part D: File Triage
 

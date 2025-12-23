@@ -1,13 +1,12 @@
 ---
+tags:
+  - atomic
+  - needs-work
 affiliations:
   - Malachite Cord
 created: 2024-11-30
 context: 
-location: 
-processed: no
-tags:
-  - atomic
-
+location:
 ---
 # Core Information
 ## Information revealed during [[Session 19 - Interrogating Radelia]]:

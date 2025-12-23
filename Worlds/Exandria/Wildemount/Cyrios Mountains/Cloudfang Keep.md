@@ -1,5 +1,5 @@
 ---
-processed: yes
+
 ---
 When Lady Emer was human, she excelled as a scout in the mercenary Emissaries of the Sunfall. During her travels, she encountered a planar rift and became fascinated by the raw, chaotic energy it contained. She began experimenting with planar magic, seeking to understand its nature and harness its power. Her transformation into a medusa occurred during one of these early experiments with rift energy—though the exact circumstances remain unclear even to her, the memories fragmented and distorted by the very forces she was studying. Rather than reject what she became, she embraced the transformation as proof of her theories and a unique opportunity to understand how rift energy affects living beings from direct experience.
 

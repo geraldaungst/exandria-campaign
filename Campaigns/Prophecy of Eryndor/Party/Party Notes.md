@@ -1,6 +1,5 @@
 ---
 tags: campaign/eryndor
-processed: yes
 ---
 IMPORTANT: This document contains notes written by players in our D&D campaign. These notes include:
 - Factual events that have occurred in the campaign

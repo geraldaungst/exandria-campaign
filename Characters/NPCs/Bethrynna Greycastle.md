@@ -1,10 +1,9 @@
 ---
-home_city: Port Damali
-processed: no
 tags:
-  - region/menagerie-coast
-
+  - needs-work
   - npc
+  - region/menagerie-coast
+home_city: Port Damali
 ---
 ![[bethrynna.png|right|300]]
 Half-sister of [[Laucian Greycastle (Brent)|Laucian Greycastle]].

@@ -1,12 +1,11 @@
 ---
+tags:
+  - atomic
+  - needs-work
 affiliations:
   - Malachite Cord
 faction: "[[Malachite Cord]]"
 location: "[[The Shrine of Melora]]"
-processed: no
-tags:
-  - atomic
-
 ---
 
 > [!info]- Essential Details

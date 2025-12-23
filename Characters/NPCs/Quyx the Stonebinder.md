@@ -1,9 +1,8 @@
 ---
-home_city: Xarzith Kitril
-processed: no
 tags:
-
+  - needs-work
   - npc
+home_city: Xarzith Kitril
 ---
 # Quyx the Stonebinder
 - An architect of great renown whose dream was always to rebuild the ancient wonders of the world.

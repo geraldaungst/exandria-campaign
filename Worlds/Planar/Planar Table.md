@@ -1,6 +1,5 @@
 ---
-processed: yes
-tags: 
+
 ---
 
 ### Planar Table

@@ -1,9 +1,9 @@
 ---
-started:
 tags:
-  - plot
   - campaign/eryndor
-processed: no
+  - needs-work
+  - plot
+started:
 ---
 # Quick Reference
 > [!info] Essential Details

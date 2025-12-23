@@ -1,10 +1,9 @@
 ---
-processed: no
+tags:
+  - location
+  - needs-work
 aliases:
   - Caes Mosor
-tags:
-
-  - location
 ---
 Today Caes Mosor, like the rest of [[Ruins of Molaesmyr|Molaesmyr]], is a ruined shell of its [[Caes Mosor (Historical)|former glory]]. The tower remains standing and is surprisingly intact considering the ravages of time. The tower has eleven levels. They are listed here according to their original purpose, though today they are mostly empty and overgrown:
 ## 1. Ground floor

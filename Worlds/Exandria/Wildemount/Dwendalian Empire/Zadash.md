@@ -1,8 +1,7 @@
 ---
-processed:
-  - no
 tags:
   - location
+- no
 ---
 # Quick Reference
 > [!info] Essential Details

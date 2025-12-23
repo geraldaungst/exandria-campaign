@@ -1,16 +1,15 @@
 ---
+tags:
+  - needs-work
+  - npc
+  - region/menagerie-coast
 home_city: Port Damali
-processed: no
 aliases:
   - Celunor
   - Celunor the Tidebound
   - Celdric
 affiliations:
   - "[[Celunor’s Collection]]"
-tags:
-  - region/menagerie-coast
-
-  - npc
 ---
 
 ![[celdric.png|right|300]]

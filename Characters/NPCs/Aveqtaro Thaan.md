@@ -1,7 +1,6 @@
 ---
-processed: no
 tags:
-
+  - needs-work
   - npc
 affiliations:
   - "[[Kryn Dynasty]]"
