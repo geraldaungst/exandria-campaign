@@ -1,12 +1,8 @@
 ---
-region: Wildemount
 processed: no
 tags:
 
   - npc
-race: Human
-class:
-  - Fighter
 affiliations:
   - "[[Obsidian Echoforge]]"
 aliases:

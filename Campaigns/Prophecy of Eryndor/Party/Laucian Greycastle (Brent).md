@@ -4,18 +4,9 @@ tags:
   - player
   - campaign/eryndor
 player: Brent
-race: Half-elf
-class:
-  - Artificer
 aliases:
   - Laucian
-hp: 10
-ac: 10
 modifier: 2
-level: 2
-pasperc: 10
-role: Player
-status: Active
 ---
 
 ![[laucian.png|right|300]]

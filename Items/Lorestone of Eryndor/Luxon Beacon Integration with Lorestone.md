@@ -1,6 +1,4 @@
 ---
-type: note
-kind: fact/relationship
 created: 2025-01-27
 processed: yes
 tags:

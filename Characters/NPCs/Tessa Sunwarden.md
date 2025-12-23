@@ -1,12 +1,8 @@
 ---
-region: Wildemount
 processed: no
 tags:
 
   - npc
-race: Aasimar
-class:
-  - Ranger
 affiliations:
   - "[[Obsidian Echoforge]]"
 aliases:

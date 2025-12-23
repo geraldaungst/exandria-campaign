@@ -1,9 +1,6 @@
 ---
-type: plot
-plot_type: faction
-plot_stage: active
 tags:
-  - plot
+  - plot/active
   - campaign/eryndor
 processed: no
 ---

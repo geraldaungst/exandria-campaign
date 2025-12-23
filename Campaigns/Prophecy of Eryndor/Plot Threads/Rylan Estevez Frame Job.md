@@ -1,6 +1,4 @@
 ---
-type: note
-kind: fact/relationship
 created: 2025-09-28
 context:
 processed: yes

@@ -1,24 +1,14 @@
 ---
-region: Wildemount
 processed: yes
 tags:
   - npc
-race: Half-elf
-class:
-  - Druid
-  - Bard
 affiliations:
   - "[[Malachite Cord]]"
 aliases:
   - rinneth
-type: npc
 faction: 
 location: 
-status: 
-goals: 
 knows: 
-seeks: 
-lastSeen: 
 important_for:
 ---
 *Half-Elf Druid/Bard*

@@ -1,11 +1,8 @@
 ---
 affiliations:
   - Kryn Dynasty
-region: Xorhas
-type: npc
 faction: 
 location: 
-status: active/inactive/deceased
 processed: no
 tags:
   - npc

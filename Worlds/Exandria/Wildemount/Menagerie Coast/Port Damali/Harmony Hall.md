@@ -4,10 +4,6 @@ aliases:
   - Coriander & Mallow Exchange Company
 tags:
   - location
-type: location
-status: active/inactive
-region:
-controlling_faction:
 processed: yes
 ---
 

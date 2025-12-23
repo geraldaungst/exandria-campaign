@@ -1,11 +1,8 @@
 ---
 affiliations:
   - Malachite Cord
-region: Wildemount
-type: note
 faction: "[[Malachite Cord]]"
 location: "[[The Shrine of Melora]]"
-status: active
 processed: no
 tags:
   - atomic

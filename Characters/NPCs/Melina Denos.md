@@ -1,12 +1,8 @@
 ---
-region: Greying Wildlands
 processed: no
 tags:
 
   - npc
-race: Human
-class:
-  - Paladin
 affiliations:
   - Vesrah Tribe
   - "[[Ashari Riftguard]]"

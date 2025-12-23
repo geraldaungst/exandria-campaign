@@ -1,12 +1,9 @@
 ---
-type: location
-status: active
-region: Dwendalian Empire
-controlling_faction: none
 processed:
   - pending
 tags:
   - location
+  - region/dwendalian-empire
 ---
 # Quick Reference
 > [!info] Essential Details

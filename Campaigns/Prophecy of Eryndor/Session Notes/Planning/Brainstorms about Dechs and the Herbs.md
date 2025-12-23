@@ -1,6 +1,5 @@
 ---
 epoch: 1745795167846
-modelKey: copilot-plus-flash|copilot-plus
 tags:
   - copilot-conversation
   - campaign/eryndor

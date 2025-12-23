@@ -1,12 +1,8 @@
 ---
-region: Greying Wildlands
 processed: no
 tags:
 
   - npc
-race: Goliath
-class:
-  - Monk
 affiliations:
   - Terrah Tribe
   - "[[Ashari Riftguard]]"

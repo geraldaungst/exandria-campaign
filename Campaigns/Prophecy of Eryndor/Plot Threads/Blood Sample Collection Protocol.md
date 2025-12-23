@@ -1,6 +1,4 @@
 ---
-type: note
-kind: fact/procedure
 created: 2025-01-19
 processed: yes
 tags:

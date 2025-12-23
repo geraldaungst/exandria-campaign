@@ -1,10 +1,10 @@
 ---
 home_city: Port Damali
-region: Menagerie Coast
 processed: no
 aliases:
   - Yrene
 tags:
+  - region/menagerie-coast
 
   - npc
 ---

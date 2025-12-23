@@ -4,19 +4,9 @@ tags:
   - player
   - campaign/eryndor
 player: Viv
-race: Forest Gnome
-class:
-  - Druid
-  - Barbarian
 aliases:
   - Popcorn
-hp: 14
-ac: 13
 modifier: 1
-level: 2
-pasperc: 11
-role: Player
-status: Active
 ---
 ![[popcorn.jpeg|right|300]]
 

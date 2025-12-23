@@ -1,9 +1,6 @@
 ---
-region: Wildemount
-type: npc
 faction: [[Emissaries of the Sunfall]]
 location: [[Cloudfang Keep]]
-status: active
 processed: no
 tags:
   - npc

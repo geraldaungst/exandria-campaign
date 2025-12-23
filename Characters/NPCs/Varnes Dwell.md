@@ -1,20 +1,14 @@
 ---
-region: Wildemount
 home_base: Port Damali
-type: npc
 faction: None
 location: [[Cloudfang Keep]]
 processed: yes
 tags:
   - npc
-race: Human
-class:
-  - Tactician/Expert
 affiliations:
   - Independent Contractor
   - Former Dwendalian Military
 aliases: Varnes
-status: Active
 ---
 
 ![[varnes-dwell.png|right|300]]

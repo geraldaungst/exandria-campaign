@@ -1,10 +1,7 @@
 ---
-type: plot
-plot_type: personal
-plot_stage: active
 processed: no
 tags:
-  - plot
+  - plot/active
   - campaign/eryndor
 ---
 # Quick Reference

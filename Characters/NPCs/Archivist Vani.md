@@ -1,12 +1,10 @@
 ---
 home_city: Port Damali
-region: Menagerie Coast
 processed: no
 affiliations:
   - Cobalt Soul
-race: Halfling
-status: 
 tags:
+  - region/menagerie-coast
 
   - npc
 ---

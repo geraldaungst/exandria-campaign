@@ -1,7 +1,4 @@
 ---
-type: plot
-plot_type: main/side/personal/faction
-plot_stage: upcoming/active/inactive/complete
 processed: no
 tags:
   - plot

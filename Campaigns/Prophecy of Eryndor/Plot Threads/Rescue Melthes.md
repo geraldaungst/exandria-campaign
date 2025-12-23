@@ -1,7 +1,4 @@
 ---
-type: plot
-plot_type: personal
-plot_stage: upcoming
 processed: yes
 tags:
   - plot

@@ -1,12 +1,8 @@
 ---
-region: Wildemount
 processed: no
 tags:
 
   - npc
-race: Dwarf
-class:
-  - Artificer
 affiliations:
   - "[[Obsidian Echoforge]]"
 aliases:

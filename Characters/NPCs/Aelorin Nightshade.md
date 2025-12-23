@@ -1,13 +1,10 @@
 ---
 home_city: Port Damali
-region: Menagerie Coast
 processed: no
 tags:
+  - region/menagerie-coast
 
   - npc
-race: High elf
-class:
-  - Sorcerer
 affiliations:
   - "[[Clasp]]"
 aliases:

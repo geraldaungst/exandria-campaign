@@ -4,18 +4,9 @@ tags:
   - player
   - campaign/eryndor
 player: Nicole
-race: Half-elf
-class:
-  - Rogue
 aliases:
   - Qilynn
-hp: 15
-ac: 14
 modifier: 3
-level: 2
-pasperc: 9
-role: Player
-status: Active
 ---
 ![[qilynn.png|right|300]]
 Half-elf Rogue

@@ -3,10 +3,6 @@ processed: no
 tags:
 
   - npc
-race: Ravenite Dragonborn
-class:
-  - Warlock
-  - Eye of the Scars
 affiliations:
   - "[[Emissaries of the Sunfall]]"
   - "[[Draconia]]"

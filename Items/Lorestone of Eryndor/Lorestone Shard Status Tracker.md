@@ -4,7 +4,6 @@ tags:
   - atomic
   - artifact
   - campaign/eryndor
-type: artifact
 aliases:
   - Shard Tracker
   - Lorestone Shards

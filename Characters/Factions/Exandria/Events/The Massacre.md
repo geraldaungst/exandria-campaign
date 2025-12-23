@@ -1,6 +1,4 @@
 ---
-type: note
-kind: fact
 created: 2025-01-12
 context: Historical faction event
 processed: yes

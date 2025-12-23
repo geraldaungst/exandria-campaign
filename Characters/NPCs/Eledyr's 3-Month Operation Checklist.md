@@ -1,6 +1,7 @@
 ---
-region: Menagerie Coast
 home_city: Port Damali
+tags:
+  - region/menagerie-coast
 ---
 ## **MONTH 1: Intelligence Gathering Phase**
 

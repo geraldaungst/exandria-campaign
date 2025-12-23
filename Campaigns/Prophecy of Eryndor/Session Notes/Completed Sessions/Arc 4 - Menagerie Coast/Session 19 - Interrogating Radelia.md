@@ -1,5 +1,4 @@
 ---
-type: session
 session_number:
 date: 2024-12-22
 previous_session:

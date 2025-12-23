@@ -5,10 +5,8 @@ processed: no
 tags:
 
   - npc
-type: npc
 faction: 
 location: 
-status: active/inactive/deceased
 ---
 # Quick Reference
 > [!info] Essential Details

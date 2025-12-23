@@ -4,20 +4,10 @@ tags:
   - player
   - campaign/eryndor
 player: Brew
-race: Ravenite Dragonborn
-class:
-  - Cleric
-  - Fighter
 aliases:
   - Drawg
   - Brew
-hp: 19
-ac: 18
 modifier: 2
-level: 2
-pasperc: 16
-role: Player
-status: Active
 ---
 ![[drawg.png|right|300]]
 

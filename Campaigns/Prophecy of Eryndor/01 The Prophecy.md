@@ -1,13 +1,10 @@
 ---
-plot_type: main
-plot_stage: active
 processed: yes
 aliases:
   - prophecy
 tags:
-  - plot
+  - plot/active
   - campaign/eryndor
-type: plot
 ---
 # Quick Reference
 > [!info] Essential Details

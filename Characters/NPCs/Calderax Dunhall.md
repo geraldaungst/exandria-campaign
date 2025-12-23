@@ -1,16 +1,13 @@
 ---
 home_city: Port Damali
-region: Menagerie Coast
-type: npc
 faction: 
   - [[Obsidian Echoforge]]
   - [[Emissaries of the Sunfall]] 
 location: [[Port Damali]]
-status: active
 processed: yes
 tags:
   - npc
-race: Tiefling
+  - region/menagerie-coast
 ---
 # Quick Reference
 > [!info] Essential Details

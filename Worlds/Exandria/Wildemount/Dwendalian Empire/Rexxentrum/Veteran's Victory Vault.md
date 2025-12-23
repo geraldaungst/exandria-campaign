@@ -1,10 +1,6 @@
 ---
 affiliations:
   - none
-type: location
-status: active
-region: "Dwendalian Empire", [[Rexxentrum]]
-controlling_faction: [[Azel Brightful]]
 processed: yes
 tags:
   - location

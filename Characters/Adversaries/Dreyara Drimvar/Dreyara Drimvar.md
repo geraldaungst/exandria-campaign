@@ -1,15 +1,10 @@
 ---
-type: npc
 location: Port Damali
-status: active
 processed: yes
 aliases:
   - Yara
   - Dreyara
   - Vessa Blackthorn
-race: Human
-class:
-  - Rogue
 tags:
   - npc
 ---

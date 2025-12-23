@@ -1,11 +1,7 @@
 ---
-region: Wildemount
 processed: yes
 tags:
   - npc
-race: Gnome
-class:
-  - Artificer
 affiliations:
   - "[[Obsidian Echoforge]]"
 aliases:

@@ -1,8 +1,6 @@
 ---
-type: npc
 faction:
 location:
-status: active/inactive/deceased
 tags:
   - npc
 processed: yes

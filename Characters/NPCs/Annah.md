@@ -1,8 +1,8 @@
 ---
 home_city: Port Damali
-region: Menagerie Coast
 processed: no
 tags:
+  - region/menagerie-coast
 
   - npc
 ---

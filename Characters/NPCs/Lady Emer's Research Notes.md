@@ -1,5 +1,4 @@
 ---
-region: Wildemount
 processed: yes
 ---
 All of the research notes below are scattered among Lady Emer's notebooks, papers, and books in her library. Searching the library for a time will reveal some of the information.

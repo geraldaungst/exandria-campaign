@@ -1,6 +1,5 @@
 ---
 home_city: Zadash
-region: Dwendalian Empire
 processed: yes
 aliases:
   - The Gentleman
@@ -8,12 +7,9 @@ aliases:
   - Babenon Dosal
 tags:
   - npc
-type: npc
+  - region/dwendalian-empire
 faction: Myriad
 location: Zadash
-status: active
-race: Human
-class: rogue
 affiliations:
   - "[[Myriad]]"
   - "[[The Gentleman's Criminal Empire]]"

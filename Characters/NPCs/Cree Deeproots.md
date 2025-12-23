@@ -1,12 +1,10 @@
 ---
 home_city: Zadash
-region: Dwendalian Empire
-type: note
-kind: fact/relationship
 created: 2025-09-28
 processed: no
 tags:
   - atomic
+  - region/dwendalian-empire
 
 context:
 ---

@@ -1,18 +1,12 @@
 ---
-region: Wildemount
 processed: yes
 tags:
   - npc
-race: Pallid Elf
-class:
-  - Druid
 affiliations:
   - "[[Malachite Cord]]"
   - Skyship
 aliases:
   - Radelia
-type: npc
-status: active
 ---
 # Quick Reference
 > [!info] Essential Details

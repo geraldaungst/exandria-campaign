@@ -1,11 +1,8 @@
 ---
-type: location
-status: active
-region: Cyrios Mountains
-controlling_faction: none
 processed: yes
 tags:
  - location
+  - region/cyrios-mountains
 ---
 # Monastery Meenlock Addition - Planned Changes
 

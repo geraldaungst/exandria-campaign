@@ -1,6 +1,4 @@
 ---
-type: note
-kind: fact
 created: 2025-01-10
 context: 
 processed: yes

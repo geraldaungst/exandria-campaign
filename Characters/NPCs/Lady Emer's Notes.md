@@ -1,5 +1,4 @@
 ---
-region: Wildemount
 processed: yes
 ---
 # Temporal Resonance Crystal

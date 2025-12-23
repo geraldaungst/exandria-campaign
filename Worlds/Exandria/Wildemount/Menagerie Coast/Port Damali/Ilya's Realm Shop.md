@@ -1,10 +1,7 @@
 ---
-type: location
-status: active
-region: Port Damali
-controlling_faction: Ilya the Sorceress
 tags:
   - location
+  - region/menagerie-coast
 processed: yes
 ---
 # Quick Reference

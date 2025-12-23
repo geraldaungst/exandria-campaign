@@ -1,8 +1,8 @@
 ---
 home_city: Talonstadt
-region: Menagerie Coast
 processed: no
 tags:
+  - region/menagerie-coast
 
   - npc
 ---

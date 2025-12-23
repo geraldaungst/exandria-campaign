@@ -1,12 +1,8 @@
 ---
-region: Greying Wildlands
 processed: no
 tags:
 
   - npc
-race: Tiefling
-class:
-  - Sorcerer
 affiliations:
   - Pyrah Tribe
   - "[[Ashari Riftguard]]"

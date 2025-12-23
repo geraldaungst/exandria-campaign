@@ -1,10 +1,7 @@
 ---
-type: plot
-plot_type: side
-plot_stage: active
 processed: yes
 tags:
-  - plot
+  - plot/active
   - campaign/eryndor
 ---
 # Quick Reference

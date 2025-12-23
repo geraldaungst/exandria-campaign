@@ -1,8 +1,8 @@
 ---
 home_city: Port Zoon
-region: Menagerie Coast
 processed: no
 tags:
+  - region/menagerie-coast
 
   - npc
 ---

@@ -3,10 +3,6 @@ processed: no
 tags:
   - npc
   - historical
-type: npc
-race: Firbolg
-class: Scholar
-status: active/inactive/deceased
 affiliations:
   - - - Obsidian Echoforge
 faction:

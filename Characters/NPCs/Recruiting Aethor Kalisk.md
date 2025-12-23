@@ -1,11 +1,8 @@
 ---
 affiliations:
   - Obsidian Echoforge
-region: Wildemount
-type: note
 faction: Obsidian Echoforge
 location: Hupperdook
-status: historical
 processed: no
 tags:
   - lore

@@ -1,12 +1,9 @@
 ---
-type: location
-status: active
-region: Menagerie Coast, Tyodan River
-controlling_faction: Disputed Territory
 processed: yes
 tags:
   - location
   - campaign/eryndor
+  - region/menagerie-coast
 ---
 
 # Quick Reference

@@ -1,12 +1,8 @@
 ---
-region: Wildemount
 processed: no
 tags:
 
   - npc
-race: Human
-class:
-  - Wizard
 affiliations:
   - "[[Emissaries of the Sunfall]]"
 aliases:

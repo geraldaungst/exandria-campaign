@@ -1,11 +1,8 @@
 ---
 affiliations:
   - Obsidian Echoforge
-region: Wildemount
-type: note
 faction: Obsidian Echoforge
 location: Port Damali
-status: active
 processed: no
 tags:
   - atomic

@@ -1,13 +1,8 @@
 ---
-region: Wildemount
 processed: no
 tags:
 
   - npc
-race: Halfling
-class:
-  - Fighter
-  - Locksmith
 affiliations:
   - "[[Emissaries of the Sunfall]]"
   - Skyship

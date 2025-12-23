@@ -1,9 +1,7 @@
 ---
 affiliations:
   - none
-type: artifact
 aliases: 
-status: 
 possession: 
 processed: no
 tags:

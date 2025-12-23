@@ -5,18 +5,9 @@ processed:
 tags:
   - location
   - campaign/eryndor
-type: location
 aliases:
-status:
-region:
-controlling_faction:
 notable_npcs:
 key_items:
-plot_significance:
-last_visited:
-  - - Session 11
-first_appeared:
-  - - Session 9
 ---
 
 # Location Name

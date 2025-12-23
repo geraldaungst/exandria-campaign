@@ -1,21 +1,14 @@
 ---
-region: Wildemount
 processed: yes
 tags:
   - npc
   - antagonist
-type: npc
 location: Rexxentrum
-race: Half-elf
-class:
-  - Sorcerer
-  - Paladin
 affiliations:
   - "[[Emissaries of the Sunfall]]"
   - "[[The Inkwell]]"
 aliases:
   - valen
-status: active
 ---
 # Quick Reference
 > [!info] Essential Details

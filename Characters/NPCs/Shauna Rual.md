@@ -1,6 +1,5 @@
 ---
 home_city: Zadash
-region: Tal'Dorei
 processed: no
 aliases:
   - Shauna

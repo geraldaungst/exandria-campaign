@@ -1,8 +1,4 @@
 ---
-type: session
-status: active/inactive
-region:
-controlling_faction:
 processed: yes
 tags:
   - session

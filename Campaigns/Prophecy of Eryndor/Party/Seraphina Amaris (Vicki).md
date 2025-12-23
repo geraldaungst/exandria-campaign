@@ -4,18 +4,9 @@ tags:
   - player
   - campaign/eryndor
 player: Vicki
-race: Aasimar
-class:
-  - Warlock
 aliases:
   - Seraphina
-hp: 14
-ac: 14
 modifier: 2
-level: 2
-pasperc: 11
-role: Player
-status: Active
 ---
 ![[seraphina.jpeg|right]]
 

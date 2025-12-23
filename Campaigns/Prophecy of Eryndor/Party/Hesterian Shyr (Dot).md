@@ -4,18 +4,9 @@ tags:
   - player
   - campaign/eryndor
 player: Dot
-race: Pallid Elf
-class:
-  - Bard
 aliases:
   - Hesterian
-hp: 10
-ac: 10
 modifier: 2
-level: 2
-pasperc: 10
-role: Player
-status: Active
 ---
 # Character Overview
 

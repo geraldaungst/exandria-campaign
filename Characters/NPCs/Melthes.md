@@ -1,13 +1,11 @@
 ---
 home_city: Rexxentrum
-region: Dwendalian Empire
-type: npc
 faction:
 location:
-status: active/inactive/deceased
 processed: no
 tags:
   - npc
+  - region/dwendalian-empire
 ---
 
 ![[young-melthes.png|right|300]]

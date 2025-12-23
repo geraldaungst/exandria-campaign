@@ -1,13 +1,10 @@
 ---
 home_city: Rexxentrum
-region: Dwendalian Empire
 processed: no
 tags:
+  - region/dwendalian-empire
 
   - npc
-race: Half-elf
-class:
-  - Wizard
 affiliations:
   - Cerberus Assembly
 ---

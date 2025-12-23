@@ -3,11 +3,8 @@ processed: yes
 tags:
   - item
   - artifact
-type: artifact
 aliases: 
-status: Active
 possession: "[[Dreyara Drimvar]]"
-first_appeared:
 ---
 
 # Item Name

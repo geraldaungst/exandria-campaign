@@ -4,16 +4,13 @@ tags:
   - item
   - artifact
   - campaign/eryndor
-type: artifact
 aliases: Lorestone
-status:
 possession:
   - "[[Archivist Ovedo]]"
   - "[[Lyren Willowwhisper]]"
   - "[[Celdric Ambril]]"
   - "[[Aethor Kalisk]]"
   - "[[01 The Prophecy]]"
-first_appeared:
 ---
 
 ![[Lorestone-of-Eryndor.png|400]]

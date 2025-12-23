@@ -1,12 +1,7 @@
 ---
-type: plot
-plot_type: side, faction
-plot_stage: active
-importance:
 started:
-estimated_resolution:
 tags:
-  - plot
+  - plot/active
   - campaign/eryndor
 processed: no
 ---

@@ -1,11 +1,8 @@
 ---
-type: location
-status: active
-region: "Menagerie Coast"
-controlling_faction: Zhelezo, "Crafting Guilds"
 processed: yes
 tags:
   - location
+  - region/menagerie-coast
 ---
 # Quick Reference
 > [!info] Essential Details

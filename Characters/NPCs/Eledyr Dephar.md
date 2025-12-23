@@ -1,16 +1,14 @@
 ---
 home_city: Port Damali
-region: Menagerie Coast
 processed: no
 tags:
   - npc
+  - region/menagerie-coast
 
-type: npc
 faction:
   - - Emissaries of the Sunfall
 location:
   - - Rexxentrum
-status: active/inactive/deceased
 ---
 # Quick Reference
 

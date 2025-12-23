@@ -1,9 +1,6 @@
 ---
 affiliations:
   - Kryn Dynasty
-region: Xorhas
-type: note
-kind: fact/relationship
 created: 2025-09-27
 context: 
 processed: no

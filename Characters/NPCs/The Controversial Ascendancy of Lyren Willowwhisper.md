@@ -1,9 +1,6 @@
 ---
 affiliations:
   - Obsidian Echoforge
-region: Wildemount
-type: note
-kind: fact/relationship
 created: 2025-10-12
 context: 
 processed: no

@@ -1,6 +1,5 @@
 ---
 home_city: Port Damali
-region: Menagerie Coast
 processed: no
 aliases:
   - Celunor
@@ -9,12 +8,9 @@ aliases:
 affiliations:
   - "[[Celunor’s Collection]]"
 tags:
+  - region/menagerie-coast
 
   - npc
-race: Human
-class:
-  - Merchant
-  - Trader
 ---
 
 ![[celdric.png|right|300]]

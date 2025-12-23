@@ -3,16 +3,7 @@ processed: yes
 aliases:
   - Dechs
 player: Amanda Jeane
-race: Hill Dwarf
-class:
-  - Ranger
-hp: 22
-ac: 15
 modifier: 2
-level: 3
-pasperc: 10
-role: Player
-status: Active
 tags:
   - player
   - campaign/eryndor

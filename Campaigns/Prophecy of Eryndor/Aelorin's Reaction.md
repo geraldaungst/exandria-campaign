@@ -1,7 +1,5 @@
 ---
 processed: yes
-type: note
-kind: fact/relationship
 created: 2024-12-18
 context:
 tags:

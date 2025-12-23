@@ -1,12 +1,8 @@
 ---
-region: Wildemount
 processed: no
 tags:
 
   - npc
-race: Tabaxi
-class:
-  - Cook
 affiliations:
   - Skyship
   - "[[Emissaries of the Sunfall]]"

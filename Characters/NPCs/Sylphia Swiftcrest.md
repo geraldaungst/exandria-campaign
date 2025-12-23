@@ -1,12 +1,8 @@
 ---
-region: Greying Wildlands
 processed: no
 tags:
 
   - npc
-race: Aarakocra
-class:
-  - Druid
 affiliations:
   - Zephrah Tribe
   - "[[Ashari Riftguard]]"

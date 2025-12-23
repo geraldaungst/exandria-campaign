@@ -1,13 +1,9 @@
 ---
 home_city: Zadash
-region: Tal'Dorei
 processed: no
 tags:
 
   - npc
-race: Goliath
-class:
-  - Ranger
 affiliations:
   - Whitestone
 aliases:

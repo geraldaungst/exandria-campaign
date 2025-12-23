@@ -1,13 +1,9 @@
 ---
 affiliations:
   - Malachite Cord
-region: Wildemount
-type: note
-kind: fact/relationship
 created: 2024-11-30
 context: 
 location: 
-status: active/inactive/deceased
 processed: no
 tags:
   - atomic

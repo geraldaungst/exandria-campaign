@@ -1,24 +1,15 @@
 ---
-region: Wildemount
 processed: yes
 tags:
   - npc
-race: Ravenite Dragonborn
-class:
-  - Sorcerer
 affiliations:
   - "[[Malachite Cord]]"
   - Terrah Tribe
 aliases:
   - kael
-type: npc
 faction: 
 location: 
-status: 
-goals: 
 knows: 
-seeks: 
-lastSeen: 
 important_for:
 ---
 

@@ -1,6 +1,4 @@
 ---
-type: note
-kind: fact/relationship
 processed: yes
 tags:
   - atomic

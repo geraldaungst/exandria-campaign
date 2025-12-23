@@ -1,12 +1,8 @@
 ---
-region: Xorhas
 processed: no
 tags:
 
   - npc
-race: Drow
-class:
-  - Artificer
 affiliations:
   - "[[Kryn Dynasty]]"
 aliases:

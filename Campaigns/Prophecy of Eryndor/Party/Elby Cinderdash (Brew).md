@@ -4,19 +4,9 @@ tags:
   - player
   - campaign/eryndor
 player: Brew
-race: Draconblood Dragonborn
-class:
-  - Bard
-  - Warlock
 aliases:
   - Elby
-hp: 17
-ac: 18
 modifier: 3
-level: 2
-pasperc: 10
-role: Player
-status: Active
 ---
 ![[elby.png|right|300]]
 Dragonborn Bard
