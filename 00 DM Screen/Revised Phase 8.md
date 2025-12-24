@@ -60,12 +60,12 @@ Completed templates:
 - [[NPC Template]]
 - [[Location Template]]
 - [[Artifact-Item Template]]
-
-Not yet simplified:
 - [[Plot Thread Template]]
 - [[Atomic Note]]
 - [[Faction Template]]
-- [[NPC Status Template]]
+
+
+Not yet simplified:
 - [[Session Template]]
 
 ### Part D: File Triage
