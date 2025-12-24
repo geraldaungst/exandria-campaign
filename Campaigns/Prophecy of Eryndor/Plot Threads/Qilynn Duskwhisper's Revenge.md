@@ -128,7 +128,7 @@ Qilynn knows her final mission failure wasn't her fault and suspects sabotage, b
 
 ## Character Arc Integration
 
-From [[20 Character Story Beats#Medium Term]]:
+From [[Character Story Beats#Medium Term]]:
 
 > [[Qilynn Duskwhisper (Nicole)|Qilynn]] wants to prove that she's actually a damn good thief. She specifically wants to prove herself to [[Aelorin Nightshade|Aelorin]] - both to show him up and to be accepted by him. Once she does this, [[Aelorin Nightshade|Aelorin]] will reconsider and could potentially become an ally for the party.
 

@@ -63,9 +63,6 @@ Completed templates:
 - [[Plot Thread Template]]
 - [[Atomic Note]]
 - [[Faction Template]]
-
-
-Not yet simplified:
 - [[Session Template]]
 
 ### Part D: File Triage
@@ -75,11 +72,14 @@ Not yet simplified:
 dataview
 
 ```dataview
-TABLE file.folder, file.size
-FROM ""
-WHERE processed = "no" OR processed = "pending" OR contains(tags, "to-process") OR contains(tags, "inbox")
-SORT file.folder ASC
+TABLE tags, file.name
+FROM "Characters/NPCs"
+WHERE contains(tags, "npc")
+AND !contains(tags, "region")
+SORT file.name
 ```
+
+
 
 **Step 2: Triage into categories**
 

@@ -2,6 +2,9 @@
 tags:
   - needs-work
   - npc
+  - region/menagerie-coast
+  - world/exandria
+home_city: "Palma Flora"
 affiliations:
   - "[[Obsidian Echoforge]]"
 aliases:

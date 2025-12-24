@@ -1,22 +1,15 @@
 ---
 tags:
   - npc
+  - region/menagerie-coast
+  - world/exandria
+home_city: "Port Damali"
 affiliations:
   - "[[Obsidian Echoforge]]"
 aliases:
   - Aethor
 ---
----
-type: npc
-faction: Obsidian Echoforge
-location: Port Damali
-status: active
-tags: npc
-race: Gnome
-class: Artificer
-aliases: 
-  - aethor
----
+
 # Quick Reference
 > [!info] Essential Details
 > - Current Location: [[Port Damali]]

@@ -1,7 +1,8 @@
 ---
 tags:
-  - needs-work
   - npc
+  - world/celestia
+  - region/bahamut
 affiliations:
   - none
 aliases:

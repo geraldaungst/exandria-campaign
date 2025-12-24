@@ -1,14 +1,14 @@
 ---
 tags:
-  - needs-work
   - npc
+  - region/taldorei
+  - world/exandria
 affiliations:
   - Unshaken (Skyship)
-home_city: Zadash
+home_city: Whitestone
 aliases:
   - Thyakas
 ---
-home_city: Zadash
 ![[thyakas.png|right|300]]
 ## Captain of the [[Unshaken]]
 Species: Tiefling

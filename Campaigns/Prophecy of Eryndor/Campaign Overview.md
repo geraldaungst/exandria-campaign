@@ -39,4 +39,4 @@ GROUP BY class
 # Vestiges of Divergence
 (checked items have been found)
 
-![[20 Character Story Beats#Vestiges Found]]
+![[Character Story Beats#Vestiges Found]]

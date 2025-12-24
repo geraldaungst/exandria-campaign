@@ -8,7 +8,7 @@ tags:
 - [ ]  Review notes from last session
 
 # Strong Start
-- Characters are all on a skyship from Emon to [[Port Damali]]. Each one has a [[20 Character Story Beats#Backstory|reason to be going]] but they don't necessarily know each other. All are from somewhere in Wildemount.
+- Characters are all on a skyship from Emon to [[Port Damali]]. Each one has a [[Character Story Beats#Backstory|reason to be going]] but they don't necessarily know each other. All are from somewhere in Wildemount.
 - Ship captain: [[Captain Thyakas]]
 - Others on the ship (checked are built in Roll20):
 	- [x] [[Georgina Wiseacre]] - Heading home to support her war-ravaged home.

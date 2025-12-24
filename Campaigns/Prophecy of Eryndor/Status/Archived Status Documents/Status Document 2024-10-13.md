@@ -14,7 +14,7 @@ None yet
 ## Unscheduled Events
 - [ ] Event 2
 ### Story Beats
-![[20 Character Story Beats#Story Beats for Planning]]
+![[Character Story Beats#Story Beats for Planning]]
 
 ### Vaud Qalix overall plan
 ![[Vaud Qalix#Plan Outline]]

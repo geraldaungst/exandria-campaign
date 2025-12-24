@@ -1,7 +1,9 @@
 ---
 tags:
-  - needs-work
   - npc
+  - world/exandria
+  - region/xhorhas
+home_city: "Rosohna"
 affiliations:
   - "[[Kryn Dynasty]]"
 aliases:

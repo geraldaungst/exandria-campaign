@@ -10,6 +10,6 @@ None yet
 ## Unscheduled Events
 - [ ] Event 2
 
-![[20 Character Story Beats#Story Beats for Planning]]
+![[Character Story Beats#Story Beats for Planning]]
 ## Background Events
 - [ ] Event 3

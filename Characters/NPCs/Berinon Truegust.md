@@ -1,14 +1,15 @@
 ---
 tags:
-  - needs-work
   - npc
-home_city: Zadash
+  - world/exandria
+  - region/menagerie-coast
+home_city: None
 aliases:
   - berinon
 affiliations:
   - "[[Emissaries of the Sunfall]]"
 ---
-home_city: Zadash
+
 ![[berinon-truegust.png|right|200]]
 # Berinon Truegust is a 41 year old male human sailor
 Neutral evil, 

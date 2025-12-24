@@ -2,14 +2,14 @@
 tags:
   - needs-work
   - npc
-home_city: Zadash
+  - world/exandria
+  - region/taldorei
 affiliations:
   - Whitestone
 aliases:
   - Brin
 ---
-home_city: Zadash
-region: Tal'Dorei
+
 ![[brin-shadowfoot.png|right|300]]
 
 _Small humanoid (halfling), neutral good_

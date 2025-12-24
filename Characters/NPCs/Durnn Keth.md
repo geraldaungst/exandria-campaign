@@ -1,7 +1,8 @@
 ---
 tags:
-  - needs-work
   - npc
+  - world/exandria
+  - region/taldorei
 affiliations:
   - Terrah Tribe
   - "[[Ashari Riftguard]]"

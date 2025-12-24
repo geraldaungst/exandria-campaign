@@ -77,7 +77,7 @@ tags:
   - Seraphina seeks to understand what new purpose Elowen has for her
 
 # Character Story Beats
-![[20 Character Story Beats#Story Beats for Planning]]
+![[Character Story Beats#Story Beats for Planning]]
 
 # Key Locations
 
