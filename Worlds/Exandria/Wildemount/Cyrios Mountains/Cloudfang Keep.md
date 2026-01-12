@@ -355,20 +355,20 @@ The parlor holds four porcelain vases (worth 20 gp each), a crystal decanter and
 
 ## Lady Emer’s Hoard
 Lady Emer’s grand salon (area E4) contains the bulk of her assassination trophies, and the griffon roost (area E2) holds a griffon egg. The hoard includes the following items:
-- Bag of beans
-- Pair of winged boots
-- Ring of mind shielding
-- Wand of restoration (see below)
-- Dust of disappearance
-- Potion of gaseous form
-- Potion of heroism
-- 2 potions of poison
-- 5 bottles of serpent venom
-- Lyre (worth 30 gp)
-- 2 viols (worth 30 gp each)
-- Ornate crystal flute (worth 350 gp)
-- Heavy ebony crossbow with gold filigree (worth 1,500 gp)
-- 1 Pearl of Power
+- Bag of beans (known)
+- Pair of winged boots (known)
+- Ring of mind shielding (known)
+- Wand of restoration (known; see below)
+- Dust of disappearance (known)
+- Potion of gaseous form (known)
+- Potion of heroism (known)
+- 2 potions of poison (known)
+- 5 bottles of serpent venom (known)
+- Lyre (known; worth 30 gp)
+- 2 viols (known; worth 30 gp each)
+- Ornate crystal flute (known; worth 350 gp)
+- Heavy ebony crossbow with gold filigree (known; worth 1,500 gp)
+- 1 Pearl of Power (known)
 
 The Pearl of Power is actually the [[Lawbearer's Tear]], a Vestige of the Divergence, though Lady Emer has no idea it is this.
 
