@@ -19,33 +19,28 @@ next_session:
 
 # Session Prep
 
-## 1. Review Characters (3 min)
-**Scan [[Character Story Beats]] - what's relevant THIS session?**
-- 
-- 
-
-## 2. Strong Start (5 min)
+## 1. Strong Start (5 min)
 **How does the session open?**
 - Where are PCs physically?
 	- In the mountains outside of Cloudfang
 - What happens in the first 2 minutes?
 	- They are far enough away to be safe for the moment
-	- Lady Emer will be sending scouts to look for them: 
+	- Party will be interested in examining their loot
 - What immediately grabs their attention?
+	- Varnes is obviously in bad shape.
 
-## 3. Potential Scenes (10 min)
+## 2. Potential Scenes (10 min)
 List 3-5 scenes (~1 per 45 min).
 For each: Who's there? What's the conflict/choice/discovery?
 
-1. 
-2. 
-3. 
-4. 
-5. 
+1. Conversation with Varnes, decisions to make (which way, how fast)
+2. Montage back to Port Damali (see [[Cyrios Random Encounters]] for possible options)
+3. [[Encounter with Zadash Refugees]]
+4. Lady Emer's scouts
 
 *Thinking prompts: What do PCs want? What opposes them? What interrupts? What arrives? What's discovered? What choice emerges?*
 
-## 4. Secrets & Clues (10 min)
+## 3. Secrets & Clues (10 min)
 **What can characters discover? Check off as revealed. List up to 10:**
 - [ ] **Villain/antagonist**: 
 - [ ] **NPC motivation**: 
