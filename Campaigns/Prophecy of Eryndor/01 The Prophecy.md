@@ -5,6 +5,7 @@ tags:
 aliases:
   - prophecy
 ---
+
 # Quick Reference
 > [!info] Essential Details
 > - Current Status: Active

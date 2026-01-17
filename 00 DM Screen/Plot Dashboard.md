@@ -11,8 +11,7 @@ file.link as "Plot",
 filter(file.outlinks, (l) => contains(l.file.tags, "npc")) as "Connected NPCs",
 filter(file.outlinks, (l) => contains(l.file.tags, "artifact")) as "Connected Items",
 dateformat(file.mtime, "MM/dd/yyyy") as "Last Updated"
-FROM #plot
-WHERE plot_stage = "active"
+FROM #plot/active
 SORT file.mtime DESC
 ```
 
@@ -23,9 +22,18 @@ file.link as "Plot",
 filter(file.outlinks, (l) => contains(l.file.tags, "npc")) as "Connected NPCs",
 filter(file.outlinks, (l) => contains(l.file.tags, "artifact")) as "Connected Items",
 dateformat(file.mtime, "MM/dd/yyyy") as "Last Updated"
-FROM #plot
-WHERE plot_stage = "paused"
+FROM #plot/paused
 SORT file.mtime DESC
+```
+
+## Seeded but Undeveloped Plots
+```dataview
+TABLE WITHOUT ID
+file.link as "Plot",
+filter(file.outlinks, (l) => contains(l.file.tags, "npc")) as "Connected NPCs",
+filter(file.outlinks, (l) => contains(l.file.tags, "artifact")) as "Connected Items",
+dateformat(file.mtime, "MM/dd/yyyy") as "Last Updated"
+FROM #plot/seed
 ```
 
 ## Upcoming Plots
@@ -35,16 +43,16 @@ file.link as "Plot",
 filter(file.outlinks, (l) => contains(l.file.tags, "npc")) as "Connected NPCs",
 filter(file.outlinks, (l) => contains(l.file.tags, "artifact")) as "Connected Items",
 dateformat(file.mtime, "MM/dd/yyyy") as "Last Updated"
-FROM #plot
-WHERE plot_stage = "upcoming"
+FROM #plot/upcoming 
 ```
 
 ## Plot Notes Needing Tag Updates
 ```dataview
 LIST
 FROM "/"
-WHERE (contains(string(file.tags), "plot") OR type = "plot")
-AND !plot_stage
+WHERE econtains(file.etags, "#plot")
+   OR type = "plot"
+   OR (contains(file.tags, "plot/") AND contains(file.tags, "needs-work"))
 ```
 
 ## Plot Connections
@@ -52,19 +60,19 @@ AND !plot_stage
 ```dataview
 LIST
 FROM #npc
-WHERE any(file.inlinks, (l) => l.type = "plot" and l.status = "active")
+WHERE any(file.inlinks, (l) => contains(l.file.tags, "plot/active"))
 ```
 
 ### Active Locations
 ```dataview
 LIST
 FROM #location
-WHERE any(file.inlinks, (l) => l.type = "plot" and l.status = "active")
+WHERE any(file.inlinks, (l) => contains(l.file.tags, "plot/active"))
 ```
 
 ### Active Items
 ```dataview
 LIST
-FROM #artifact
-WHERE any(file.inlinks, (l) => l.type = "plot" and l.status = "active")
+FROM #item
+WHERE any(file.inlinks, (l) => contains(l.file.tags, "plot/active"))
 ```
