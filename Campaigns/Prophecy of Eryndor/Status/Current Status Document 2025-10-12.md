@@ -158,13 +158,13 @@ tags:
   - Evidence of other parties searching the area
 
 # Unresolved Mysteries
-- What happened to the Ancient Elven City of Melaismire 100 years ago?
+- What happened to the Ancient Elven City of Molaesmyr 100 years ago?
 - Who is "The Eye" (possibly Eye of Scars from Xarzith Kitrill)?
 - What is causing the corruption in the Savalier Wood?
 - Why are Emissaries of the Sunfall now working with the Obsidian Echoforge?
 - What really happens if the Lorestone is reassembled?
-- What is Valen Underguard planning with the Emissaries of the Sunfall?
+- What is [[Valen Elderguard]] planning with the Emissaries of the Sunfall?
 - Who sabotaged Qilynn's last heist?
-- The meaning of Hestarian's mysterious visions
+- The meaning of Hesterian's mysterious visions
 - The true connection between the planar rifts and the corruption in the Savalierwood
 
