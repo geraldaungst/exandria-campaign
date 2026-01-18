@@ -30,11 +30,9 @@ date:
 List 3-5 scenes (~1 per 45 min).
 For each: Who's there? What's the conflict/choice/discovery?
 
-1. 
-2. 
-3. 
-4. 
-5. 
+1. Party encounters [[Encounter with Zadash Refugees|refugees from Zadash]] and learn there are escalating problems east, including more rifts and tension between nations.
+2. Dechs and Laucian arrive with the cart. Laucian just received a sending from PD and he needs to turn back.
+3. Avalanche blocks the road! Detour into the [[Monastery of Dimensional Harmony]].
 
 *Thinking prompts: What do PCs want? What opposes them? What interrupts? What arrives? What's discovered? What choice emerges?*
 

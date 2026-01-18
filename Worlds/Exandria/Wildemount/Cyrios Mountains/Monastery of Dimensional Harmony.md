@@ -1,8 +1,9 @@
 ---
-- location
+ tags:
   - region/cyrios-mountains
 ---
-# Monastery Meenlock Addition - Planned Changes
+
+Monastery Meenlock Addition - Planned Changes
 
 ## Overview
 Adding meenlocks as a secondary creature type to foreshadow and populate the Deep Meditation Chamber. This creates escalating tension and provides narrative context for what spawned in the catastrophe.
