@@ -513,10 +513,6 @@ _Natural cave converted for communal worship_
 
 ---
 
-Perfect! Now I have everything I need. Let me draft the revised Area 14 with proper connection descriptions, and then we can move on to Area 16 with the exterior exit details.
-
----
-
 ## Area 14: Workshop (Primary)
 
 _Main crafting and dimensional equipment construction_
@@ -581,10 +577,6 @@ _Natural cave converted to house research materials_
 
 - **The Dimensional Codex**: Complete firbolg research on phase spiders and dimensional magic (spellbook containing _Misty Step_, _Dimension Door_, _Plane Shift_, and _Etherealness_)
 - **Ancient Texts**: Library worth 500 gp total to collectors and scholars
-
----
-
-Here's the revised Area 16 with the exterior exit details added:
 
 ---
 
