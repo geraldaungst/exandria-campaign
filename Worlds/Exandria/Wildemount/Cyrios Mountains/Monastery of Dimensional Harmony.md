@@ -105,7 +105,7 @@ The monastery sits at high altitude in the Cyrios Mountains, where the air is th
 
 ### Architectural Features
 
-**Ceiling Height**: Most constructed chambers have 13-foot ceilings, sized for the original inhabitants but accommodating to visitors of typical stature.
+**Ceiling Height**: Most constructed chambers have 13-foot ceilings, sized for the original inhabitants but accommodating to visitors of typical stature. In some areas, the ceilings have begun to develop stalactites from water seeping through cracks.
 
 **Gravitational Anomaly**: All horizontal surfaces throughout the monastery slant slightly toward Area 18, a residual effect from the catastrophic dimensional experiment. This slope is subtle enough that it doesn't affect movement or balance, but liquids always flow in that direction, and round objects will slowly roll unless secured. Characters pouring water, spilling wine, or dropping marbles will notice this consistent directional pull.
 
@@ -297,13 +297,14 @@ _Food preparation area_
 
 ### Description
 
-> This rectangular chamber served as a kitchen. A large wooden table is overturned in one corner, while a large rusty iron stove dominates one wall with an adjustable spit and various cooking implements. Stone jars, cooking utensils, and carved tablets with what appear to be recipes are stacked on shelves along the southern wall. A stone basin in the northeast corner is filled with water.
+> This rectangular chamber served as a kitchen. A large wooden table is overturned in one corner, while a large rusty iron stove dominates one wall with an adjustable spit and various cooking implements. Stone jars, cooking utensils, and carved tablets with what appear to be recipes are stacked on shelves along the southern wall. A stone basin in the northeast corner is filled with water. Two 
 
 ### Features
 
 - **Cook stove**: Separate from the dining area, designed specifically for food preparation
 - **Water Access**: Stone basin with drainage (fed by mountain springs)
 - **Construction**: Worked stone.
+- Current occupants: 2 Carrion Crawlers on the wall above the stove..
 
 ### Preserved Contents
 
@@ -786,6 +787,7 @@ _Combined private quarters, meeting room, and records office_
 - **Record Storage**: Archive of monastery correspondence, visitor logs, and decisions
 - **Formal Decoration**: More elaborate carving work than utilitarian spaces
 - **Construction**: _[Worked stone - formal administrative space]_
+- A **Cloaker** 
 
 ### Administrative Records
 
