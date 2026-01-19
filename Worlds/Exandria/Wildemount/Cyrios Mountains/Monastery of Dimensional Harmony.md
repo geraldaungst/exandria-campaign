@@ -787,7 +787,6 @@ _Combined private quarters, meeting room, and records office_
 - **Record Storage**: Archive of monastery correspondence, visitor logs, and decisions
 - **Formal Decoration**: More elaborate carving work than utilitarian spaces
 - **Construction**: _[Worked stone - formal administrative space]_
-- A **Cloaker** 
 
 ### Administrative Records
 
