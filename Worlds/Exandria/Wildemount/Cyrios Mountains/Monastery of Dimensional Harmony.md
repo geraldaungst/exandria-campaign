@@ -813,31 +813,115 @@ _Combined private quarters, meeting room, and records office_
 ## Area 22: Deep Meditation Chamber
 
 _Site of the final ritual and dimensional catastrophe_
-
 ### Description
 
-> This chamber defies normal geometry and perception. What should be a rectangular room has somehow been warped into a spherical space, 20 feet in diameter. Terraced stone platforms rise in concentric rings toward the center, where a raised dais holds the remnants of what appears to have been a complex circular pattern carved into the stone. The air thrums with an energy you can feel in your bones, and occasionally you catch glimpses of movement or scenes that seem to flicker in and out of existence. At the chamber's exact center floats a tiny, writhing knot of absolute darkness no bigger than a child's fist.
+> You drop into a chamber that defies comprehension. Your eyes struggle to process what they see—the space feels wrong, like trying to focus on a reflection in troubled water. You can make out eight stone pillars arranged in an octagon, and a terraced octagonal platform rising from the center of the room, but they seem to shift and overlap when you look at them directly. The eight walls appear flat, but shift unsettlingly when you turn your head. Distances lie. What should be an organized geometric space has been twisted into something that makes your head ache to perceive.
+> 
+> At the center of the raised platform floats a tiny knot of writhing darkness no bigger than a child's fist. The air thrums with dimensional energy, and occasionally you catch glimpses of movement or scenes flickering in and out of existence. The carved walls bear geometric symbols that seem to writhe and contradict themselves when you try to read them.
 
-### Features
+### Physical Reality vs. Warped Perception
 
-- **Spherical Geometry**: The room's shape defies its original rectangular construction
-- **Astral Movement**: Movement works like the Astral Plane - characters must will themselves toward destinations
-- **Temporal Echoes**: Characters occasionally glimpse scenes of the monks' final ritual
-- **Planar Bleed**: Effects from multiple planes occasionally manifest randomly
-- **The Aberrant Whisper**: A psychic echo of the collapsed rift floats at the center
-- **Construction**: _[Dimensional anomaly - originally worked stone, now warped by planar forces]_
+**What's Actually There:**
 
-### Movement Mechanics
+- Round chamber, approximately 80 feet across
+- Eight stone pillars (10 feet tall) forming an inner octagon, positioned halfway between walls and center
+- Central circular platform with terraced steps spiraling down to floor level (platform top is ~12 feet high)
+- Eight walls with carved geometric symbols at each face
+- Small alcoves at the eight corners (once held braziers)
+- The Aberrant Whisper floating at the exact center above the platform
 
-Characters must make DC 15 Intelligence (Arcana) or Wisdom (Insight) checks to understand the movement system. Once learned:
+**What You Perceive:** The dimensional breach 300 years ago warped space itself within this chamber. The physical features still exist, but their spatial relationships are broken. The room doesn't look octagonal—it feels spherical, or perhaps both at once. Straight lines curve. Distances deceive. The pillars and terraces are there, but they appear distorted, overlapping, or in impossible positions.
 
-- **Normal Movement**: DC 10 Wisdom save to move normally
-- **Failed Save**: Move half distance in slightly wrong direction
-- **Natural 1**: Move in completely wrong direction or become stuck until next turn
+### Entering the Chamber: Spatial Disorientation
+
+When a creature first enters this chamber, they must immediately make a **DC 22 Wisdom saving throw** to comprehend the warped geometry.
+
+**Warping Penalty:**
+
+- **22+**: No penalty (extraordinary mental discipline)
+- **17-21**: -2 penalty
+- **12-16**: -4 penalty
+- **7-11**: -6 penalty
+- **6 or less**: -8 penalty
+
+**The penalty applies to:**
+
+- All Dexterity ability checks and saving throws
+- All Wisdom ability checks and saving throws
+- All ranged attack rolls
+- Initiative checks
+
+**Movement:** If your penalty is greater than -2, the entire chamber counts as **difficult terrain** as you struggle to navigate the warped space.
+
+**Reducing the Penalty:**
+
+- **Stand Still**: If you don't move on your turn, reduce your penalty by 1 at the end of your turn
+- **Lesser Restoration**: Removes the penalty entirely
+- **Creative Magic**: The DM may allow other magical solutions
+
+### Room Actions (Initiative Count 20)
+
+At initiative count 20 each round, roll d6:
+
+**1-2: Gravitational Shift** All creatures must succeed on DC 14 Strength save or be pulled 10 feet toward the center platform.
+
+**3-4: Spatial Vertigo** The room "tilts" beneath everyone's feet. All creatures must succeed on DC 14 Constitution save or have disadvantage on their next attack roll or ability check.
+
+**5: Phantom Spawn** The Aberrant Whisper pulses and births a **Shadow Meenlock** that emerges at the center platform. It acts on initiative count 19 and vanishes at the next initiative count 20. (DM Note: Track its HP between appearances—it's the same creature being pulled in and pushed out.)
+
+**6: Corrupting Pulse** The Aberrant Whisper releases corrupting energy. All creatures within 20 feet of the center platform take 2d6 psychic damage (DC 15 Charisma save for half). On a failed save, the creature becomes **Marked by Corruption** until the end of its next turn (meenlocks have advantage on attacks against you; you have disadvantage on Wisdom saves). Then roll d6 on the Far Realm Intrusion table:
+
+**Far Realm Intrusion (d6):**
+
+1. **Temporal Distortion**: All creatures move and act as if under _slow_ spell until start of next initiative count 20
+2. **Temporal Well**: A 10×10 foot zone appears at a random location. Any creature entering it is teleported 15 feet in a random direction to an unoccupied space. The well persists until the next Corrupting Pulse.
+3. **Alien Geometry Intensifies**: All warping penalties increase by 2 until start of next initiative count 20 (minimum -2, maximum -10)
+4. **Psychic Resonance**: All creatures must succeed DC 15 Wisdom save or be frightened until end of their next turn
+5. **Light Drain**: The room fills with magical darkness (as _darkness_ spell) until start of next initiative count 20
+6. **No Additional Effect**: The corrupting energy itself was devastating enough
 
 ### The Aberrant Whisper
 
-This tiny knot of writhing darkness is a psychic echo of the collapsed rift. Approaching within 10 feet requires a DC 18 Wisdom saving throw or suffer temporary madness (roll on Short-Term Madness table). The Whisper cannot be damaged by normal means but can be contained or banished through powerful magic.
+This tiny knot of writhing darkness floats at the geometric center of the chamber, above the platform's highest point. It is the psychic scar where the dimensional breach occurred—a wound in reality that never healed.
+
+The Whisper cannot be damaged or destroyed by any means available to the party. Completing Kelmen's ritual (see [[kelmen_ritual_resolution]]) may reduce its influence, but the breach itself remains. Approaching within 10 feet requires tremendous mental fortitude—any creature doing so for the first time must succeed on a DC 18 Wisdom saving throw or suffer one effect from the Short-Term Madness table (DMG p. 259).
+
+### Current Occupants: The Corrupted
+
+**1 Meenlock Elder (CR 5) + 2 Meenlock Corruptors (CR 4)**
+
+These shadow fey were spawned 300 years ago from the combination of dimensional breach + Far Realm corruption + the monks' overwhelming terror during the catastrophic ritual. They are the physical embodiment of the monastery's failure—fear given form and purpose. They have "guarded" this corruption for three centuries, preventing anything from completing or cleansing what was started.
+
+**Meenlock Advantages:**
+
+- Navigate the chamber normally (immune to warping penalty and difficult terrain)
+- Understand the true spatial relationships
+- Know which room actions are coming (they've lived here for 300 years)
+
+**Tactical Notes:**
+
+- Meenlocks position themselves at different elevations using the terraced platform
+- They know to stay near the center during Gravitational Shift
+- They retreat to platform top when Corrupting Pulse approaches
+- The Shadow Meenlock (if spawned) coordinates with them instinctively
+
+### DM Notes
+
+**Running This Encounter:**
+
+- Track each PC's warping penalty
+- Describe movement/attacks through the lens of their confusion ("You swing at the meenlock—at least you think that's where it is")
+- When PCs stand still to recalibrate, describe them taking a breath, closing their eyes, reorienting
+- The meenlocks move with eerie precision while PCs stumble and misjudge distances
+- Use room actions to create dynamic tactical pressure
+
+**Climbing Out:** After defeating the meenlocks, characters can attempt to climb the walls back up to Area 18 (the 30-foot vertical shaft). With the corruption cleansed and no active combat, their warping penalties naturally fade over 1 minute. The climb is DC 12 Athletics, or they can use rope, magic, or other creative solutions.
+
+**Story Function:** This chamber must be cleansed of the meenlocks for Brother Kelmen to complete his ritual (Part 2 of three-part resolution). Once the corrupted guardians are defeated, Kelmen can safely descend here to perform the final binding that will grant him peace and create a sentient artifact from one of the founder's weapons.
+
+### Construction
+
+_[Dimensional anomaly - originally worked stone octagonal chamber, now warped by planar forces]_
 
 ---
 
