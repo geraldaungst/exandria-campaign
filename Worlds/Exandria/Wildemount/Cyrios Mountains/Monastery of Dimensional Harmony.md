@@ -824,13 +824,13 @@ _Site of the final ritual and dimensional catastrophe_
 **What's Actually There:**
 
 - Round chamber, approximately 80 feet across
-- Eight stone pillars (10 feet tall) forming an inner octagon, positioned halfway between walls and center
-- Central circular platform with terraced steps spiraling down to floor level (platform top is ~12 feet high)
-- Eight walls with carved geometric symbols at each face
+- Eight stone pillars (10 feet tall) forming an inner octagon, positioned halfway between walls and center, appearing to curve with the walls.
+- Central circular platform with terraced steps spiraling down to floor level (platform top is ~40 feet high)
+- Though the chamber appears perfectly spherical, walls and corners can also be seen. The walls have carved geometric symbols at each face
 - Small alcoves at the eight corners (once held braziers)
 - The Aberrant Whisper floating at the exact center above the platform
 
-**What You Perceive:** The dimensional breach 300 years ago warped space itself within this chamber. The physical features still exist, but their spatial relationships are broken. The room doesn't look octagonal—it feels spherical, or perhaps both at once. Straight lines curve. Distances deceive. The pillars and terraces are there, but they appear distorted, overlapping, or in impossible positions.
+**What You Perceive:** The dimensional breach 300 years ago warped space itself within this chamber. The physical features still exist, but their spatial relationships are broken. The room doesn't look round—it feels octagonal, or perhaps both at once. Straight lines curve. Distances deceive. The pillars and terraces are there, but they appear distorted, overlapping, or in impossible positions.
 
 ### Entering the Chamber: Spatial Disorientation
 
