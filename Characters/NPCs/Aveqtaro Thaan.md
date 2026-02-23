@@ -33,6 +33,30 @@ As Aveqtaro's memories as Cadariel Ordo gradually surface, she gains critical in
 
 **Progressive Memory Recovery**: Initially, these insights come as vague intuitions and half-remembered conversations. As the campaign progresses and Aveqtaro encounters Lorestone shards or Luxon Beacons, the proximity to these artifacts triggers stronger memory episodes, gradually revealing more complete information about proper dual-artifact usage, ritual timing, and the locations where both artifacts can be used most effectively.
 
+## Role as Dynasty Bridge
+
+Aveqtaro is uniquely positioned to resolve the political tension created by the 
+party holding a [[luxon-beacon-egw|Luxon Beacon]] the [[Kryn Dynasty]] will 
+eventually claim as sacred.
+
+Most Dynasty officials will approach the Beacon's recovery as a theological 
+imperative—that object belongs with its people regardless of circumstances. 
+Aveqtaro, as her memories deepen, will understand what no official currently 
+does: that the Beacon in the party's hands, combined with the assembled 
+[[Lorestone of Eryndor]], is the only means of closing the rifts without 
+catastrophic failure. Returning it prematurely is the more dangerous choice 
+for the Dynasty and for Exandria.
+
+She can make this argument from within Dynasty structures with an authority 
+the party could never claim—not as an outsider asking for an exception, but 
+as someone with recovered knowledge of why the artifacts were designed to work 
+together in the first place.
+
+**This makes the party's relationship with Aveqtaro practically urgent**, not 
+just narratively interesting. Finding her, building trust, and supporting her 
+memory recovery directly serves their ability to navigate the Dynasty's claim.
+
+*See also: [[Luxon Beacon Political Consequences]]*
 ## **What Aveqtaro Knows When the Party Encounters Her Later**
 
 ![[What Aveqtaro Thaan Knows#Core Information]]

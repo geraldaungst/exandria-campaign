@@ -73,6 +73,29 @@ Most current factions are unaware of this dual-requirement:
 
 Only [[Aveqtaro Thaan]], through recovered memories of her past life as [[Cadariel Ordo]], possesses complete knowledge of the proper integration ritual.
 
+## How Players Learn This (DM Pacing Note)
+
+The dual-requirement is revealed in three stages across the campaign:
+
+1. **[[Brother Kelmen]] (Monastery ritual)** — plants the foundational principle: 
+   dimensional energy requires temporal anchoring. He doesn't know about the 
+   Lorestone or Beacons specifically, but articulates why the monks' ritual 
+   failed and why any attempt to manipulate planar boundaries without a 
+   stabilizing counterweight amplifies chaos rather than containing it.
+
+2. **[[Lady Emer]]'s research notes (Cloudfang Keep)** — demonstrate the 
+   principle experimentally. Her 14 months of documented analysis show the 
+   Beacon's temporal stabilization effects near rift energy and its resonance 
+   with Lorestone shards. She didn't have a unified theory, but the data is 
+   there for players who read carefully.
+
+3. **[[Aveqtaro Thaan]] (later campaign)** — confirms the complete theory through 
+   recovered memories of [[Cadariel Ordo]]. She is the only living person with 
+   full knowledge of the proper integration ritual and the geometric/temporal 
+   alignments required for safe operation.
+
+No single source gives the complete picture. Players who synthesize all three 
+understand what no faction currently does.
 # Relationship Details
 
 ## Nature of Connection
