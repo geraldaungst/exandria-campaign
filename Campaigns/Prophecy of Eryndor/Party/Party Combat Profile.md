@@ -9,6 +9,15 @@ tags:
 
 # Party Combat Profile
 
+| Character     | Class / Subclass                           | Level | Role                 | Standout Items / Feats                                           | Est. Strong-Round DPR                              | Defensive Strengths                                                                           |
+| ------------- | ------------------------------------------ | ----- | -------------------- | ---------------------------------------------------------------- | -------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| **Dechs**     | Beast Master Ranger                        | 7     | Striker (ranged)     | Archery style, Hunter's Mark                                     | ~28 (2 longbow attacks + Hunter's Mark + Iguana)   | Poison resistance (Dwarven Resilience), Iguana as HP buffer; AC 15, HP 30 — **squishiest PC** |
+| **Drawg**     | Tempest Cleric 2 / Battle Master Fighter 5 | 7     | Tank / Striker       | Polearm Master, Action Surge, Immovable Rod                      | ~25 normal / ~46 Action Surge round                | AC 18, HP 60 (party high), WIS+CHA save proficiency, Thunderous Rebuke reaction               |
+| **Hesterian** | College of Eloquence Bard                  | 7     | Controller / Support | Coiling Grasp Tattoo, Cruel feat, Cling to Life                  | ~15 direct — impact is through debuffs and control | AC 13, HP 38, Cling to Life (one near-death bypass), Unsettling Words debuff                  |
+| **Popcorn**   | Circle of Dreams Druid 5 / Barbarian 2     | 7     | Support / Controller | Necklace of Prayer Beads (Bless), Ring of Mind Shielding         | ~17 (Call Lightning ongoing)                       | Rage (B/P/S resistance), HP 56, Gnomish Cunning (advantage on magic saves)                    |
+| **Qilynn**    | Assassin Rogue                             | 7     | Striker              | Argh'yak bow, Mariner's armor, Dust of Disappearance             | ~21 normal / ~31+ on surprise or first round       | AC 16, Evasion, DEX+INT save proficiency, cold resistance, HP 59                              |
+| **Seraphina** | Celestial Warlock 7 (Protector Aasimar)    | 7     | Striker / Support    | Pearl of Power, Wand of Restoration, Agonizing + Repelling Blast | ~20 (2 EB beams with Agonizing Blast)              | AC 14, HP 52, necrotic + radiant resistance, Healing Hands                                    |
+
 *Update this after each level-up or significant gear change.*
 
 **Party Level:** 7
