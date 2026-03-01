@@ -625,144 +625,377 @@ This exit offers the party a safe route out that bypasses both the avalanche-blo
 
 ## Area 17: Memorial and Preparation Chamber
 
-_Sacred space for honoring the dead and preparing for dimensional meditation_
+ _Sacred space for honoring the founders and calibrating the room before dimensional descent. Brother Kelmen has been trapped here for 300 years._
 
+---
 ### Description
 
-> This rectangular chamber measures roughly 50 by 40 feet with smooth, worked stone walls rising to a 13-foot ceiling. The construction is deliberate and precise, clearly carved with purpose rather than adapted from natural cave. Three large alcoves, each 10 feet deep, are set into the north, east, and west walls. Within each alcove rests a stone sarcophagus, and before each sarcophagus lies a polished stone slab displaying a weapon: a great shield to the west, a longsword to the north, and a longbow to the east. In each corner of the room sits a circular stone object about two feet in diameter - carved stone wheels with decorative geometric patterns. Two smaller alcoves near the southern entrance contain stone vessels similar to preservation jars.
+> This rectangular chamber — 50 by 40 feet, 13-foot ceiling — is worked stone of unusual precision. Three deep alcoves open from the north, east, and west walls, each containing a stone sarcophagus. Before each sarcophagus lies a polished stone slab bearing a weapon: a great shield to the west, a longsword to the north, a longbow to the east. The names of the three founders are carved in Giant script above each alcove.
+> 
+> In each corner of the room sits a circular disk about two feet across, flush with the floor, made of unusually dense dark wood with a faint iridescent quality. A central peg allows each disk to be rotated. Two smaller alcoves near the southern entrance hold stone preservation vessels — long empty.
+> 
+> The room is pristine. Nothing has been disturbed in three hundred years.
 
+---
 ### Features
 
-- **Three Founder's Tombs**: Stone sarcophagi containing the remains of the monastery's three founding members
-- **Memorial Weapons**: The founders' signature weapons displayed on stone slabs (not magical, ceremonial/decorative only)
-- **Ritual Wheels**: Four carved stone wheels in corners, used as focal points during purification meditations
-- **Preservation Vessels**: Two stone containers that once held ritual oils and incense for purification ceremonies
-- **Pristine Condition**: Untouched since the catastrophe - no disturbance, no decay
-- **Construction**: _[Worked stone - purpose-built sacred space]_
+**The Founders' Tombs.** Three alcoves (N, E, W), each 10 feet deep. The sarcophagi are sealed. The weapons on the slabs are masterwork but not magical — ceremonial items representing each founder's governing principle: Ondur's shield (west, protection), Brekkan's longsword (north, discipline), Solvei's longbow (east, precision).
 
-### Purpose and History
+**The Soulwood Disks.** The four corner disks are the exposed control mechanism for large soulwood wheels embedded in the stone beneath the floor. Soulwood naturally insulates against planar energy; the orientation of the disks regulates how much ethereal flow passes through the room — from full insulation to full conductance. The monks set them before descending into Area 22, calibrating the room to remain materially stable while they were gone.
 
-This chamber served dual purposes for the monastery:
+The disks have been frozen in their current (miscalibrated) position since the catastrophe. This is part of why Kelmen has survived — the room has held an unusually stable material anchor around him for three centuries.
 
-**Memorial Function**: The three founders - whose names are carved in Giant script on their sarcophagi - are entombed here with their weapons as symbols of their life's work (shield = protection, sword = discipline, bow = precision). Monks would pay respects before and after major rituals.
+A DC 13 Arcana or Nature check identifies the disks as soulwood. Each disk is removable once the ritual is complete and Kelmen has departed. Four disks total; each is a valuable crafting material.
 
-**Preparation Function**: Before descending into the Deep Meditation Chamber, monks would enter alone to perform purification rituals. They would:
+**Preservation Vessels.** The two stone containers near the entrance once held ritual oils. Empty now. A DC 14 Investigation check finds residue and a few coins left as offerings (30 gp total), plus small gemstones used in purification rites (70 gp total).
 
-1. Pay respects at each alcove in sequence
-2. Meditate at each corner wheel, focusing on different aspects of dimensional awareness
-3. Anoint themselves with oils from the preservation vessels
-4. Return to Area 18 in a prepared mental state to be lowered into the Deep Meditation Chamber
+**Construction.** _[Worked stone — purpose-built sacred space]_
 
-The rectangular precision was necessary because dimensional meditation requires geometric clarity - curved or irregular spaces create interference.
+---
+### Brother Kelmen
 
-### Current State - Brother Kelmen's Prison
+#### First Appearance
 
-**The Trapped Monk**: Brother Kelmen was performing his purification ritual here when the catastrophe struck. The floor of Area 18 collapsed completely, cutting him off from escape. Other monks attempted rescue but couldn't cross the massive pit that now separated them.
+Kelmen materializes without warning when the party enters — startled, as if roused from a trance spanning decades. His form flickers between solid and translucent. He speaks in fragmented archaic Giant:
 
-Kelmen has been trapped here for three centuries, sustained by... something. Perhaps his partial displacement into the Ethereal Plane slowed his physical needs. Perhaps the dimensional instability itself kept him in stasis. Perhaps the founders' spirits sustained him. Even Kelmen doesn't remember clearly - the centuries have blurred into an incomprehensible haze.
+- _"Skade... deg... am... maat stanse..."_
+- _"Farel... dir... deg... bringer... dod..."_
+- _"Kor lang... kor... dei forlot meg... kvorfor..."_
 
-### Major Encounter: Brother Kelmen
+**Pronunciation:** _SKAH-deh... day... ahm... maht STAHN-seh / FAH-rel... deer... day... BRING-er... dohd / kor lahng... kor... day for-LOT may... KVOR-for_
 
-When characters first enter, Kelmen materializes suddenly - he appears startled, as if he's been in a trance for an immeasurable time. His form flickers between solid and translucent, and he seems disoriented about whether characters are real or another vision.
+**Translation:** _"Harm... you... I... must stop..." / "Danger... here... you... bring... death..." / "How long... how... they left me... why..."_
 
-**Initial Appearance**: Kelmen is agitated and confused, his speech fragmented:
+**Dialect check:** A character who knows Giant may make a DC 14 Intelligence check to follow the archaic dialect. Success: the fragments are understood clearly. Failure: individual words land — _dod_ (death), _deg_ (you), _farel_ (danger) — but grammar and intent remain unclear. This preserves the ambiguity either way.
 
-- _"Harm... you... I... must... stop..."_ (Is he warning them, or threatening them?)
-- _"Danger... here... you... bring... death..."_ (Does he mean they're in danger, or they bring danger?)
-- _"How long... how... they left me... why..."_ (Confusion and abandonment)
+Do not resolve the ambiguity for the players. His words could be a threat or a warning. His gestures could be aggressive or desperate. Let them decide how to respond.
 
-**Communication Challenge**: Kelmen speaks archaic Giant in broken fragments. His mental state is fractured by centuries of isolation.
+**Communication establishes through roleplay — no skill checks required:**
 
-**Resolution Options**:
+- Genuine patience and compassion: speaking gently, demonstrating they are not a threat
+- Paying respects at the founders' tombs: Kelmen visibly calms, reads this as proof of good intention
+- Showing the Luxon Beacon (if visible): see below
 
-1. **Patient Communication** (Intelligence DC 12 + Wisdom DC 15): Piece together his meaning through careful listening and context
-2. **Stabilization**: Use one of the Crystals of True Seeing from another area to help anchor his dimensional state
-3. **Compassion**: Show kindness - offer food, speak gently, demonstrate you're not a threat. He responds to genuine compassion automatically.
-4. **Memorial Recognition**: Pay respects at the founders' tombs - Kelmen sees this as proof of good intentions
+Once lucid, Kelmen is coherent but still flickering. He is grateful, exhausted, and full of 300 years of regret. He shares freely — the monks' hubris, the mental influence they didn't recognize, the phase spiders' suffering, his own failure to act sooner. He doesn't need to be interrogated. He needs to be heard.
 
-**Once Communication Establishes**: Kelmen becomes lucid, though still flickering between planes. He shares:
+**If the Luxon Beacon is visible at any point:**
 
-- The truth about the monastery's hubris and the mental influence
-- Warnings about the Deep Meditation Chamber below (accessible through the pit in Area 18)
-- Locations of important research materials and treasures
-- The real story: they thought they were healing the spiders, but were actually torturing them
-- His gratitude for finally having someone to talk to after centuries of solitude
+Kelmen goes still. His flickering slows noticeably.
+
+> _"Where did you find that? That... I have felt something like it only once before, in a Fey crossing deep beneath the Savalirwood. A fixed point. Something that holds the moment still while everything moves around it."_
+
+He doesn't know its name, its cultural significance, or that it is sacred to the Kryn Dynasty. He simply recognizes what it does.
+
+#### What Kelmen Explains (Once Lucid)
+
+**What he needs:** The purification ritual he began here was interrupted when Area 18's floor collapsed. To complete it he needs living witnesses and a properly calibrated room. The Deep Meditation Chamber below is corrupted — something was born from the catastrophe and has been there ever since. He cannot enter until it is cleansed. He will wait at the breach in Area 18 while the party descends.
+
+**What he knows about the wheels:** The disks must be reoriented before he can descend — the current configuration insulates the room rather than channeling planar flow toward Area 22. He spent decades trying to work out the correct alignment. He understands the principle: the disks need to be set so that planar energy flows downward through the breach, not held in place. But the monks could never achieve precise calibration.
+
+> _"We could sense planar flow — years of meditation gave us that. But sensing it and measuring it precisely are different things. We needed something that did not just perceive the current but held still within it. A fixed point. Something that would resonate at exactly the right frequency when the alignment was correct. We never found such a thing."_
+
+He does not mention the Beacon again here unless the party does. He has said what he knows.
+
+**What he knows about the ritual itself:** Once the disks are correctly set, a weapon must be chosen. He will not choose — that is for the witnesses to decide. The chosen weapon's slab becomes the focal point. He will then need the party present at the breach as witnesses while he descends.
+
+**The Luxon Beacon clue — if they haven't connected it yet:** If the party seems stuck on the wheel puzzle, Kelmen can repeat the "fixed point" description, perhaps with slight elaboration: _"Something that resonates. Not with sound — with the between-spaces. When alignment is correct, such a thing would answer."_ He cannot be more specific. He doesn't know the answer; he knows the shape of the problem.
+
+#### The Wheel Puzzle
+
+**Setup:** The four soulwood disks need to be oriented so that planar energy channels downward toward Area 22 rather than being insulated. The correct configuration requires an external reference point — something that resonates with planar flow so precisely that it signals when alignment is achieved.
+
+**The reference point is the Luxon Beacon.** The party must make this connection themselves. Kelmen's clues point toward it; he cannot name it.
+
+**How it works:**
+
+1. The party places the Beacon on the slab of the chosen weapon (Kelmen instructs this — he knows the focal point must be the chosen weapon, not the room's center).
+2. With the Beacon in place, characters rotate each disk while observing the Beacon's response. When a disk reaches correct orientation, the Beacon emits a brief, visible pulse — a brightening of its surface, subtle but unmistakable.
+3. Each disk must be set individually, but all four must be correct simultaneously for the full resonance to activate. Setting one correctly while others are wrong produces only a faint flicker — close, but not right. This is how the party knows individual alignment isn't enough.
+4. When all four are correctly set, the Beacon pulses strongly and steadily, Kelmen's form stabilizes fully — solid, no flickering, for the first time in three centuries — and the air in the room changes perceptibly (warmer, more present, less liminal).
+
+**Skill checks:** One DC 14 Arcana check per disk to read the subtle feedback correctly and find the precise orientation efficiently. Failure doesn't mean wrong — it means slower, requiring additional adjustment. There's no penalty for failure beyond time. A character with proficiency in Arcana who also has attunement to a Lorestone shard has advantage.
+
+**If the party lacks the Beacon:** The puzzle cannot be completed. Kelmen confirms this sadly if they try other methods. He has already spent three hundred years attempting it without the right reference point.
+
+#### The Flute Moment (Popcorn only — private channel)
+
+When Kelmen grows quiet before describing what he needs, Popcorn's pan flute hums audibly — not played, just carried on her person. Everyone at the table hears it.
+
+Kelmen looks at Popcorn with an expression the party cannot read.
+
+Pull Popcorn into a private channel. Kelmen's voice, directly in her mind:
+
+> _"That instrument has been near a Fey crossing. Something on the other side has been listening to it for a long time. I don't know how I know that. I simply do."_
+
+He is as puzzled by this as she is. He offers no explanation. Return to the table. Kelmen shakes his head slightly, as if clearing something, and continues.
+
+#### Weapon Choice
+
+Once the disks are set, Kelmen asks the party to choose which weapon will serve as the binding. He describes each founder's principle simply:
+
+- **The Shield:** _"Ondur believed protection was the highest discipline. That the strongest purpose of power is to stand between harm and those who cannot defend themselves."_
+- **The Sword:** _"Brekkan believed that discipline was protection. That without rigor and clarity, every other virtue collapses."_
+- **The Bow:** _"Solvei believed that precision was the truest form of both. That to act correctly, you must first see correctly."_
+
+He does not advocate for any of them. He waits.
+
+The chosen weapon's slab already holds the Beacon. After the choice is made, Kelmen spends a long moment looking at it. Then he turns toward the passage south to Area 18.
+
+> _"Then we are ready. Or nearly. What waits below must be cleansed first. I will be at the breach."_
+
+---
 
 ### Treasure
 
-**Investigation (DC 14)** of the preservation vessels: The ritual oils have long since evaporated, but each vessel contains 50 gp worth of ancient coins (offerings left by monks) and small gemstones used in purification rituals (100 gp total).
+**Masterwork weapons** (shield, longsword, longbow): Not magical. Historically significant to firbolg scholars or cultural institutions — worth 500 gp total to the right buyer, more as artifacts. The chosen weapon becomes a sentient item after Kelmen's ritual completion (see [[kelmen_ritual_resolution]]).
 
-**The Memorial Weapons**: While not magical, these are masterwork items of significant historical value to scholars or firbolg communities (500 gp total to the right buyer, or invaluable as cultural artifacts).
+**Preservation vessels:** 100 gp in coins and gemstones (Investigation DC 14).
+
+**Soulwood disks:** Four disks, removable after ritual completion. Valuable crafting material; a knowledgeable buyer (artificer, druid with planar research interests) would pay 150–200 gp per disk. Players who identify them as soulwood will know their properties.
+
+---
 
 ### DM Notes
 
-**Kelmen's Survival**: You don't need to explain exactly how Kelmen survived - the mystery itself is part of the horror and tragedy. If players press, Kelmen genuinely doesn't know. Time became meaningless. He remembers meditating, trying to repair the damage, calling for help, then... nothing clear until they arrived.
+**Kelmen's stat block (ghostly state).** Use the standard Ghost with three changes: remove Horrifying Visage and Possession; replace Withering Touch with Dimensional Shove (melee weapon attack, +5 to hit, 2d6 force damage, target pushed 10 feet); add the following reaction:
 
-**Emotional Weight**: Play up the tragedy - Kelmen sees the founders' remains every day, a constant reminder of the monastery's noble intentions and catastrophic failure. He's had three centuries to contemplate their mistakes.
+_Deflect Missile (ghost form only). In response to being hit by a ranged weapon attack or a ranged spell attack that deals force damage, Kelmen deflects the projectile. The damage is reduced by 1d10 + 4. If reduced to 0, he catches it if it's small enough to hold in one hand._ Approximate CR 3.
 
-**The Webbing Barrier**: The thin sheet of webbing in the passage is old and undisturbed. Phase spiders placed it long ago to mark territory boundaries but don't actively patrol here. It can be cut through easily (no save required, just takes an action), though doing so creates a 5-foot-wide clear path.
+**Kelmen's stat block (solid state).** After the wheel puzzle completes and Kelmen fully stabilizes, the ghost stat block no longer applies. Use a modified Veteran (MM, CR 3) as the structural base with these ability scores: STR 14, DEX 14, CON 12, INT 14, WIS 18, CHA 12. AC 16 (Unarmored Defense), HP 52. Replace weapon attacks with Unarmed Strike (1d6 + 2 bludgeoning); add standard Deflect Missile (ranged weapon attacks only) as a reaction. Combat at this stage is extremely unlikely and the stat block exists only for edge cases.
+
+**If players attack on first contact — two beats before it's final:**
+
+_Beat one (visible to everyone):_ Kelmen instinctively moves toward Ondur's shield — not to use it as a weapon, but to raise it. A DC 12 Wisdom (Insight) check reads his body language: he went for the defensive option, not an offensive one. He placed himself between the party and the founders' tombs.
+
+_Beat two (next turn, if they continue):_ He shouts in archaic Giant: _"Stansa! Am ne farel til deg!"_ Characters who know Giant understand it immediately. Characters who don't may make a DC 12 Insight check on tone and register: this is not a battle cry.
+
+After two beats, if the party continues attacking, Kelmen defends himself with Dimensional Shove — pushing aggressors back rather than pursuing — and does not initiate. He dissipates at 0 HP without peace. The weapons remain masterwork. The ritual cannot be completed.
+
+**Kelmen's ambiguity on arrival.** His opening fragments should genuinely unsettle the table. Don't telegraph that he's friendly. Some parties will attack immediately — if they do, he defends himself but does not fight to the death. He dissipates if reduced to 0 HP, and the weapons remain masterwork but gain nothing. The ritual cannot be completed.
+
+**No skill check for communication.** The connection establishes through roleplay. If players are patient and compassionate, it works. If they're dismissive or aggressive, it doesn't. Don't adjudicate this mechanically unless the moment calls for it.
+
+**Kelmen's information delivery.** He doesn't dump everything at once. He responds to what the party engages with. If they ask about the monastery, he talks about the monastery. If they ask about the spiders, he talks about the spiders. If they show him the Beacon, he reacts to the Beacon. Let the conversation breathe.
+
+**The Beacon connection.** If no one makes the connection after Kelmen's "fixed point" clue, a DC 14 Arcana check can prompt a player character to recall that the Beacon seemed to respond to planar energy when they found it at Cloudfang. This is a memory jog, not the solution — the player still has to say "let's try it."
+
+**Kelmen's full stability.** When all four disks align and Kelmen becomes solid for the first time in centuries, give it a moment. He looks at his hands. He touches the stone wall. He doesn't speak immediately. This is worth letting land.
+
+**The south passage.** Kelmen will not enter Area 18 until the party is ready to proceed. He positions himself at the passage entrance, looking south toward the breach, and waits. He has been waiting for three hundred years. He can wait a little longer.
+
+**Passage to Area 18.** The south wall opens to a passage leading to Area 18. The passage is clear — the webbing barrier is on the Area 18 side of the connection, not here.
 
 ---
 
 ## Area 18: Dimensional Breach
 
-_Site of catastrophic ritual failure_
+_The floor of this chamber collapsed 300 years ago during the catastrophe, opening a 30-foot drop directly into Area 22 below._
 
 ### Description
 
-> This area appears as a large gap in the floor, roughly 20 feet in diameter. The edges of the opening seem to shimmer and bend strangely, defying normal perspective. The hole drops into darkness below, though occasional flashes of otherworldly light suggest something significant lies beneath. The surrounding floor shows blast patterns and areas where the stone appears to have been melted or warped.
+**If Darkness has been cast:**
 
+> The passage ahead ends in absolute blackness — not the grey nothing of an unlit cave, but a void that swallows your darkvision entirely. The air coming from the opening is several degrees colder than the passage behind you and smells faintly of ozone. From beyond the blackness, sound echoes in strange and disorienting ways, suggesting a very large and oddly oriented space.
+
+**If characters can see the opening:**
+
+> The passage opens onto a ledge above nothing. The entire floor of the chamber is gone — a triangular void with a passage at each corner and open air between them. The walls are rough natural stone. The northern passage is sealed with a dense mass of spider webbing, thick enough that nothing is visible beyond it. 
+> 
+> The air here is several degrees colder than the passage behind you and smells faintly of ozone.
+
+**If characters can see beyond 60 feet**
+
+> Far below, the darkness resolves into something stranger: a chamber with geometry that shifts when you try to focus on it and is somehow vast and claustrophobic at the same time. At its center a faint pulse of light that isn't quite light.
+
+---
 ### Features
 
-- **Dimensional Instability**: The area within 10 feet has unpredictable magical effects
-- **Perilous Descent**: The hole drops 30 feet to the Deep Meditation Chamber below
-- **Reality Distortion**: The edges of the breach don't follow normal geometry
-- **Energy Discharge**: Occasional bursts of dimensional energy (1d6 force damage, DC 15 Dex save to avoid)
-- **Construction**: _[Dimensional anomaly - originally worked stone floor, now breached]_
+**No Floor.** The entire chamber is open air from ledge to ledge. The drop to Area 22 is 30 feet. Characters who step into the darkness without testing the ground must succeed on a DC 13 Dexterity save or fall. On a success they catch the edge; on a failure they fall into Area 22 — see that area for entry mechanics.
 
-### Descent Options
+**Chamber Geometry.** Three passages, one per vertex. Distances across open air: SW–N is 20 ft.; N–E is 20 ft.; E–SW is 30 ft. Ceiling height is 25 feet above the ledges. Cave walls are rough natural stone (climbable at half speed, no check required).
 
-- **Climbing**: DC 15 Athletics check, with disadvantage due to unstable surfaces
-- **Rope**: Can be secured to stable stone outside the distortion field
-- **Magic**: _Feather Fall_ or similar spells work normally
-- **Dangerous**: Failed descent results in 3d6 falling damage plus 1d6 force damage from dimensional energy
+**Magical Darkness.** If the Stalker is present, it has cast _Darkness_ (adjusted to 4th level) filling the entire chamber. _Daylight_ and a Driftglobe on its daylight setting suppress it within their radius but do not dispel it — darkness returns if the light source moves or ends. _Dispel Magic_ at 4th level or higher ends it permanently; lower levels require a DC 14 Arcana check.
+
+**Webbing Barrier (N Passage).** The northern passage to Area 17 is blocked by years of accumulated phase spider webbing — several feet thick, dense as layered rope. Clearing a passable opening requires one of the following:
+
+- **Slashing weapons:** Three DC 13 Strength (Athletics) checks (1 minute each). Loud.
+- **Fire:** Clears in 2 rounds; creates a smoke hazard (DC 12 Con each round in the passage for 5 minutes or be incapacitated). Risk of spreading.
+- **Force/thunder damage** (_Shatter_, _Thunderwave_): Counts as two successes per casting. Very loud.
+- **Careful magic** (_Mage Hand_, telekinesis): DC 15 Arcana; 10 minutes, silent.
+
+Squeezing through a partial opening (two successes) requires a DC 10 Dexterity check or become restrained (escape DC 12 Strength).
+
+---
+### Traversal
+
+Characters crossing from one passage to another have three options:
+
+- **Wall climbing:** DC 12 Athletics check for the full crossing (half speed). Failure means losing grip and falling into Area 22. Characters with a climb speed move freely without a check.
+- **Rope:** DC 10 Athletics to cross hand-over-hand (DC 14 if threatened). Anchoring to the ceiling requires a grappling hook (DC 12 to set, 25 feet up).
+
+---
+### Descent into Area 22
+
+The breach opening sits 10 feet above the top of Area 22's spherical chamber. The central platform is 40 feet below the breach lip; the floor is 105 feet below it. No handholds remain — rope, magic, or a DC 14 Athletics wall climb are the options. See [[Area 22 Deep Meditation Chamber]] for all entry and falling mechanics.
+
+---
+### The Meenlock Stalker
+
+**Setup.** The Stalker witnessed its companions die in Area 14, retreated to Area 18, and cast _Darkness_ before the party arrives. As the party moves through Area 13 toward the SW passage, it uses _Mind Spike_ (range 60 ft.) on a target it can sense through the darkness — the target makes a DC 12 Intelligence save and takes 14 (4d6) psychic damage on a failure, half on a success. The target has no sense of direction or source.
+
+**Tactics.** The Stalker prioritizes _Maddening Thoughts_ against any character mid-traverse — a stunned creature may lose their grip (DC 12 Strength save from the creature or an adjacent ally to prevent sliding off the ledge). It uses _Shadow Teleport_ to reposition between passages while _Darkness_ holds. Once _Darkness_ ends it loses free mobility and retreats toward the webbing barrier, using it as cover.
+
+**Morale.** At 15 HP or fewer the Stalker attempts to flee into the N passage via Shadow Teleport if recharged. If not, it knows the webbing well enough to move through it as difficult terrain.
+
+**Note.** _Mind Spike_ and _Darkness_ are both spent before combat begins. _Shadow Teleport_ recharges on 5–6.
+
+---
+### DM Notes
+
+**The echo clue.** If a player asks about sounds before entering, tell them clearly: the echoes are returning from 30 feet below, not from a nearby floor. This is their warning.
+
+**Darkness and the missing floor.** When _Darkness_ ends, the full scope of the missing floor is revealed for the first time. Give the table a moment with it.
+
+**Combat noise.** Fighting here is audible in Area 22 below. The meenlocks there do not respond — they are bound by the Aberrant Whisper's influence — but note this for atmosphere.
+
+**Webbing and phase spiders.** Clearing the webbing with fire or _Shatter_ may draw curious phase spiders from Area 19 (DC 14 Perception to hear). They approach cautiously, not aggressively.
+
+**Return visit (after meeting Kelmen).** Kelmen follows the party here and positions at the breach edge. He will not descend until the party returns from cleansing Area 22. Read aloud:
+
+> _"I have stood at this edge every day for three hundred years. I could not cross — the corruption below held me back. If you can cleanse what is down there, I will be able to follow."_
+> 
+> He means it literally. He waits.
+
+**Construction.** _[Dimensional anomaly — originally worked stone floor, now entirely absent]_
 
 ---
 
 ## Areas 19-20: Specimen Research Complex
 
-_Phase spider containment and study areas_
+_The place where the monks studied the phase spiders. The place the phase spiders never left._
 
-### Area 19: Specimen Preparation Area
+---
+### Overview
 
-> This large natural cavern was adapted for some kind of systematic study or processing. Stone platforms and what appear to be restraint systems have been built into the natural formations, creating areas that seem designed for safely examining or containing something. The space feels oppressive, with an air of lingering unease.
+These two connected chambers were the operational heart of the monastery's research into phase spiders — where the monks observed, recorded, and attempted to "heal" what they believed to be dimensional suffering. The infrastructure tells the story clearly, if the party is willing to read it: this was not a natural habitat the monks moved into. The spiders were brought here. Contained. Studied.
+
+The phase spiders never left because this is the only home their lineage has known for three centuries. They are not wandering monsters that moved into an abandoned space. They predate the abandonment. The monastery was organized around them.
+
+A party that has already fought phase spiders elsewhere in the monastery will find that context reframed here.
+
+**Sequence note.** These rooms work at any point in the visit. Before the party meets Kelmen or descends to Area 22, they are mysterious and uncomfortable — evidence of something without full context. After the ritual is complete and the Whisper is stabilized, the planar environment has quieted and the spiders are perceptibly calmer, more accessible. The rooms do not require a different approach from the DM in either case; the difference emerges naturally from the state of the dungeon.
+
+---
+
+### Area 19: Preparation Chamber
+
+_Where specimens were brought, assessed, and prepared for study_
+
+#### Description
+
+> This large natural cavern has been extensively modified. Stone platforms line the walls at varying heights, each bearing deep grooves worn smooth by long use. Iron brackets — corroded but intact — are set into the rock at regular intervals, sized for something roughly the dimensions of a large spider. Webbing occupies the upper reaches of the chamber, old and grey, layered over decades. The air is cold and carries a faint ozone smell, like the air before a storm.
+> 
+> On the eastern wall, a series of shallow alcoves have been carved at eye level for a firbolg — well above the platforms — each containing the remains of what were once written records. Most are dust. Some are not.
+> 
+> A wide passage opens to the south. From it comes the soft sound of something moving, very slowly, between planes.
+
+#### Features
+
+**The Platforms.** Stone examination surfaces with worn grooves and corroded restraint brackets. The brackets are sized precisely — not for a generic large creature, but for phase spider anatomy specifically. A DC 13 Investigation check confirms the fit is too deliberate to be coincidental; this infrastructure was designed for a specific subject. A DC 15 Arcana check identifies traces of dimensional anchoring runes carved into the platform surfaces — weakened to near-nothing now, but once capable of preventing planar phasing.
+
+The wear patterns on the platforms are significant: the grooves are deepest at the edges, where something has been placed and removed hundreds of times. This was routine work. Not emergency containment — regular procedure.
+
+**The Record Alcoves.** Most records have crumbled beyond recovery. A DC 14 Investigation check salvages fragments. A DC 18 check recovers something coherent.
+
+_DC 14 — fragments:_
+
+- Numerical notations, possibly counts or measurements
+- Repeated archaic Giant phrases: _"no visible distress"_ and _"resistance normalized"_
+- A sketch of a phase spider rendered with surprising care and anatomical precision
+
+_DC 18 — a partial page:_
+
+> _"Day 340. Subject Four has ceased phasing during examination periods. We had interpreted this as cooperation — even, perhaps, trust. Brother Halvard suggested it might instead indicate resignation. We did not pursue the question. I find myself returning to it."_
+
+The monk who wrote this was asking the right question too late. They put it down and kept working.
+
+**Corroded Tools.** A stone shelf near the entrance holds research implements: measuring instruments calibrated for dimensional energy (now inert, but recognizable to anyone with Arcana proficiency as purpose-built); a set of preservation jars, two still sealed, containing webbing samples and a single phase spider egg — desiccated but intact; iron styluses for etching runes. The sealed jars are worth 40 gp to an alchemist or planar researcher. The egg is worth considerably more to the right buyer — 150 gp or more — though what "the right buyer" plans to do with it is a separate question.
+
+**The Webbing.** Old, grey, undisturbed for decades in the upper reaches. Current webs lower down, maintained. The transition point — where old ends and new begins — is about eight feet up. Three hundred years of occupation, stratified.
+
+---
 
 ### Area 20: Quarantine Chamber
 
-> Connected to Area 19, this natural chamber appears to have served as some kind of holding area. Stone platforms with intricate runic circles have been carved into the floor, and the air feels heavy and constrained. Elevated observation positions have been carved into the walls, suggesting whatever was held here was watched carefully.
+_Where the more difficult subjects were held. Where the matriarch lives now._
 
-### Features (Both Areas)
+#### Description
 
-- **Containment Infrastructure**: Stone platforms with runic circles for dimensional anchoring
-- **Observation Posts**: Elevated positions for safe study
-- **Restraint Systems**: Stone clamps and magical binding points
-- **Dimensional Anchor Fields**: Weakened but still functional containment magic
-- **Psychic Residue**: Lingering emotions of fear and confusion from trapped spiders
-- **Construction**: _[Natural caverns with moderate worked stone additions]_
+> The passage from Area 19 opens into a larger space dominated by a feature that takes a moment to process: the floor of the chamber drops away in a natural depression roughly 20 feet across and 6 feet deep, its walls lined with carved runic circles that still faintly glow — amber, irregular, dimming. Stone observation platforms are built into the chamber walls above the depression on three sides, each elevated enough to look down into it comfortably.
+> 
+> The depression is full of webs. Active, maintained, inhabited.
+> 
+> From within the webs, something watches you. Something large. You can see the shape of it — bigger than the phase spiders you've encountered elsewhere — holding perfectly still at the center of the depression, half-phased, its rear portion translucent and flickering. It is watching you with an attention that feels considered.
+> 
+> Around the depression's edges, smaller forms phase in and out. Three. Four. Perhaps more.
 
-### Current State
+#### Features
 
-- **Liberation Possible**: Dispel Magic (DC 16) or destroying rune circles disables containment
-- **Remaining Captives**: 1d3 **Phase Spiders** may still be trapped in weakened fields
-- **Matriarch**: Area 20 contains the ancient **Phase Spider Matriarch** (use **Phase Spider** stats but with 45 HP and Legendary Actions)
+**The Depression.** Originally a natural formation the monks incorporated into their design — a ready-made containment space they deepened and ringed with dimensional anchor runes. The runes still function at perhaps 10% capacity: not enough to prevent phasing, but enough that the spiders here are aware of them as a boundary. Three centuries of habituation have done the rest. The Matriarch and her descendants treat the depression as home, not prison. They have never known anything else.
 
-### The Matriarch
+A DC 15 Arcana check identifies the runes as containment work. A DC 18 check notes something unusual: the runes were modified over time — later additions show attempts to make the anchoring _gentler_, less abrupt. Someone was trying to make it more comfortable. Too late, and arguably missing the point, but the intention is legible.
 
-If freed, the **Phase Spider Matriarch** initially appears hostile but is actually desperate to protect any remaining offspring. She can communicate through empathic bursts (telepathy 30 feet) and will:
+**The Observation Posts.** Three elevated platforms with carved handrails, spaced to give overlapping views into the depression below. Stone seats, worn smooth. Each post has a small alcove cut into the wall beside it containing a journal hook — a bracket where personal research logs would have been hung for easy access. All are empty now except one: a single journal remains on the eastern post, its cover made of cured spider silk (still intact), its pages badly water-damaged but partially legible.
 
-1. Thank liberators by gifting **Phase Spider Silk** (worth 500 gp, can be crafted into a **Cloak of Elvenkind**)
-2. Share knowledge about dimensional travel (+2 bonus to Arcana checks involving planar magic for 24 hours)
-3. Warn about the danger in the Deep Meditation Chamber below
+_Journal fragments (DC 13 Investigation to find; DC 15 to read damaged pages):_
+
+> _"She knows when we are watching. Not that we are present — that we are watching. She will turn to face whichever of us is attending most closely, even when we are silent and still. We have not determined how."_
+
+> _"The younger ones have begun phasing more frequently when we enter. [Name] says this is stress behavior. I said it looked more like practice. We did not agree on whether the distinction mattered."_
+
+> _"I asked Brother Kelmen today whether he thought they wanted to be here. He was quiet for a long time. He said he thought they had stopped asking themselves that question, and that this might be the saddest thing he had ever considered."_
+
+The journal's cover of spider silk is worth 80 gp as a material and considerably more as a historical artifact.
+
+**The Matriarch.** She has been here for all of her long life, as was her mother, as was her mother before her. She is the largest phase spider in the monastery — use standard phase spider statistics with maximum hit points (72) and the addition below. She is not aggressive. She is watching.
+
+She phases partially in and out while the party is present, never committing fully to either plane — a behavioral tell that she is uncertain, not threatened. The smaller spiders around the depression's edges take their cue from her. If she is calm, they are still. If she is threatened, they phase out entirely rather than fighting.
+
+> **Dimensional Empathy (Reaction).** _Trigger: A creature the Matriarch can see takes no hostile action on its turn._ The Matriarch reaches across the planar boundary and projects a wordless impression directly into that creature's mind. The creature must succeed on a DC 13 Wisdom saving throw or be stunned until the end of its next turn as the intensity overwhelms its senses. Regardless of the save, the impression is received clearly and remembered.
+
+What constitutes a hostile action is DM judgment based on what the spider would perceive: drawing weapons, advancing on the depression, touching the runes, moving toward the egg sacs at the depression's edges. Casting a detection spell is probably not hostile. Moving toward her young is absolutely hostile.
+
+She chooses who she reaches toward. A party that enters carefully and doesn't threaten her gets her attention. A party that enters weapons drawn never sees this ability at all.
+
+**The Impressions.** The Matriarch has three centuries of accumulated sensation to draw from. She does not have language. She has images, emotions, spatial memories — filtered through a consciousness that navigates multiple planes simultaneously. What she projects is fragmentary and vivid. The DM chooses which impression to deliver based on what would be most meaningful given the party's current knowledge.
+
+_Impression 1 — The Early Days:_ Curiosity, not fear. A firbolg face seen from below, very close, studying with an attention that felt like warmth even if its purpose was unclear. The sensation of being touched carefully, measured, handled with something that was not quite gentleness but was not cruelty either. A question that was never asked hovering in the space between them.
+
+_Impression 2 — The Change:_ The quality of attention shifting. Same faces, same routines, but something different in the texture of it — not hostile, but less present. As if the monks were looking through her at something else they were trying to see. A slow withdrawal of whatever had felt like recognition. Not mistreatment. Absence.
+
+_Impression 3 — The Catastrophe:_ The between-spaces tearing. A sensation the Matriarch has no framework for — a rupture in the fabric of the plane she navigates daily, felt as physical violence. Screaming that had no sound. The anchor runes flaring white and then dimming. Silence where there had been voices for as long as she could remember. Then three centuries of silence and the gradual, patient work of making home from what remained.
+
+_Impression 4 — Recognition (only if the party has the Luxon Beacon visible):_ A resonance. The Beacon registers in whatever sense the Matriarch uses to perceive dimensional boundaries — not as an artifact, not as a cultural object, but as a _fixed point_. Something that holds still while everything moves. She has never felt this before. She projects pure sensation: stillness. The impression of a horizon that doesn't shift when you move toward it.
+
+**The Silk.** If the party has been present for at least one impression without taking any hostile action, the Matriarch phases briefly into the ethereal and returns with a folded mass of phase spider silk — dense, iridescent, gathered from her own stores. She places it at the edge of the depression and withdraws. It is not a transaction. It is acknowledgment.
+
+Phase spider silk: 500 gp value as a crafting material. A skilled tailor with proficiency and the right facilities could produce a Cloak of Elvenkind or similar item. Raw, it is worth more to the right buyer than most weapons in the party's possession.
+
+---
+
+### DM Notes
+
+**The core discovery.** The party has been fighting phase spiders since they entered the monastery. This is where they find out the spiders were here first — that the monastery's entire purpose was organized around studying them. How the party responds to that information is their own business. Don't editorialize. Let the evidence speak.
+
+**Kelmen's journal entry.** The fragment about Kelmen — _"I asked Brother Kelmen today..."_ — is the most important piece of text in these rooms. It confirms he was asking the right questions before the catastrophe, which adds texture to his 300 years of regret. If the party has already met Kelmen when they find this, reading it aloud to him is an option worth presenting. His response is quiet. He remembers the conversation.
+
+**The Matriarch and hostility.** The smaller spiders phase out rather than fight unless the Matriarch is directly threatened or the egg sacs are disturbed. If combat occurs, the Matriarch defends herself but does not pursue — she stays in or near the depression. She has nowhere else to go.
+
+**After stabilization.** If the party visits after completing the ritual in Area 22, the Matriarch's behavior is perceptibly different — less fractional phasing, more fully present. The ambient planar disturbance that has defined her environment for three centuries has quieted. She does not express gratitude; she doesn't have that framework. But she is still. That is new.
+
+**The egg.** The desiccated egg in the sealed jar is dead, not dormant. But a party member who shows it to the Matriarch will see her go very still for a long moment before looking away. Whether that registers as grief is up to individual players.
+
+**Restraint in description.** These rooms should make the party uncomfortable without telling them how to feel. Describe what the monks built. Describe what the spiders became. Let the party draw their own conclusions about who bears what responsibility for what happened here.
 
 ---
 
@@ -808,204 +1041,209 @@ _Combined private quarters, meeting room, and records office_
 
 ## Area 22: Deep Meditation Chamber
 
-_Site of the final ritual and dimensional catastrophe_
+_The site of the catastrophic ritual. The wound that never closed. The place Kelmen has been trying to reach for three hundred years._
+
+---
 ### Description
 
-> You drop into a chamber that defies comprehension. Your eyes struggle to process what they see—the space feels wrong, like trying to focus on a reflection in troubled water. You can make out eight stone pillars arranged in an octagon, and a terraced octagonal platform rising from the center of the room, but they seem to shift and overlap when you look at them directly. The eight walls appear flat, but shift unsettlingly when you turn your head. Distances lie. What should be an organized geometric space has been twisted into something that makes your head ache to perceive.
+> You drop into a chamber that refuses to be understood. Your eyes struggle to process what they see — the space feels wrong, like trying to focus on a reflection in troubled water. Eight stone pillars form a rough octagon, and a terraced platform rises from the center of the room, but they seem to shift and overlap when you look at them directly. Distances lie. Straight lines curve. What should be an organized geometric space has been twisted into something that makes your skull ache to perceive.
 > 
-> At the center of the raised platform floats a tiny knot of writhing darkness no bigger than a child's fist. The air thrums with dimensional energy, and occasionally you catch glimpses of movement or scenes flickering in and out of existence. The carved walls bear geometric symbols that seem to writhe and contradict themselves when you try to read them.
+> At the center of the raised platform floats a knot of writhing darkness no bigger than a child's fist. It makes no sound. It does not pulse. It simply exists at the exact center of everything, and you are aware — immediately, viscerally — that the room wants you to approach it.
+> 
+> The carved walls bear geometric symbols that writhe and contradict themselves when you try to read them. The air smells of cold stone and something else: old incense, faint as a memory.
 
-### Physical Reality vs. Warped Perception
+---
+### The Aberrant Whisper
 
-**What's Actually There:**
+Three hundred years ago, this chamber was the site of a planar rift that collapsed catastrophically mid-ritual. A rift normally touches two planes simultaneously. This one, in the moment of collapse, reached for all of them at once — and got stuck. It could not close because there was nowhere to close _to_.
 
-- Round chamber, approximately 80 feet across
-- Eight stone pillars (10 feet tall) forming an inner octagon, positioned halfway between walls and center, appearing to curve with the walls.
-- Central circular platform with terraced steps spiraling down to floor level (platform top is ~40 feet high)
-- Though the chamber appears perfectly spherical, walls and corners can also be seen. The walls have carved geometric symbols at each face
-- Small alcoves at the eight corners (once held braziers)
-- The Aberrant Whisper floating at the exact center above the platform
+The result is not a door. It is a hole in the concept of place itself: a point where every plane of existence touches simultaneously, held in permanent, unstable contact. The spatial warping in this room is not a side effect. It is the Whisper's nature bleeding into local reality. Space is confused here because the thing at the center is touching every possible space at once.
 
-**What You Perceive:** The dimensional breach 300 years ago warped space itself within this chamber. The physical features still exist, but their spatial relationships are broken. The room doesn't look round—it feels octagonal, or perhaps both at once. Straight lines curve. Distances deceive. The pillars and terraces are there, but they appear distorted, overlapping, or in impossible positions.
+It cannot be destroyed. It cannot be closed without the assembled [[Lorestone of Eryndor]] — which the party does not have. What can be done is _stabilization_: anchoring the Whisper so it stops pulling at everything around it. The [[Luxon Beacon]], placed at the center platform during the ritual, provides exactly this function — not closing the rift, but holding it still. The room would quiet. The Whisper would remain, small and contained, a scar rather than a wound.
 
-### Entering the Chamber: Spatial Disorientation
+**The Beacon's role here is complementary to the Lorestone, not duplicative.** The Lorestone closes rifts by manipulating planar boundaries. The Beacon stabilizes the temporal chaos that surrounds them. Without stabilization first, Kelmen cannot safely complete his ritual. The Lorestone cannot be used safely on a rift without a Beacon doing exactly this. The party is practicing, on a small scale, the same dual function that will eventually be required at the campaign's climax.
 
-When a creature first enters this chamber, they must immediately make a **DC 22 Wisdom saving throw** to comprehend the warped geometry.
+---
+### Spatial Disorientation
+
+When a creature first enters this chamber, it must immediately make a **DC 22 Wisdom saving throw**.
 
 **Warping Penalty:**
 
-- **22+**: No penalty (extraordinary mental discipline)
-- **17-21**: -2 penalty
-- **12-16**: -4 penalty
-- **7-11**: -6 penalty
-- **6 or less**: -8 penalty
+|Save Result|Penalty|
+|---|---|
+|22+|None|
+|17–21|−2|
+|12–16|−4|
+|7–11|−6|
+|6 or less|−8|
 
-**The penalty applies to:**
+**The penalty applies to:** All Dexterity checks and saving throws, all Wisdom checks and saving throws, all ranged attack rolls, initiative checks.
 
-- All Dexterity ability checks and saving throws
-- All Wisdom ability checks and saving throws
-- All ranged attack rolls
-- Initiative checks
+**Movement:** If penalty is greater than −2, the entire chamber counts as difficult terrain.
 
-**Movement:** If your penalty is greater than -2, the entire chamber counts as **difficult terrain** as you struggle to navigate the warped space.
+**Reducing the penalty:**
 
-**Reducing the Penalty:**
+- Don't move on your turn: reduce by 1 at end of turn
+- Use your action to actively orient yourself: reduce by 2
+- _Lesser Restoration_ or creative magical solutions: remove entirely
 
-- **Stand Still**: If you don't move on your turn, reduce your penalty by 1 at the end of your turn
-- **Lesser Restoration**: Removes the penalty entirely
-- **Creative Magic**: The DM may allow other magical solutions
+Meenlocks are immune to all warping effects. They have navigated this space for three centuries. They move with eerie precision while everything else stumbles.
 
+---
+### The Gravitational Pull
+
+At initiative count 20 each round, and when any creature first enters the chamber, the Whisper exerts a pull toward the center. All creatures in the room must succeed on a **DC 14 Strength saving throw** or be pulled 10 feet toward the center platform.
+
+This is not malevolent. The Whisper is pulling at everything, always. The wound wants to be addressed. The monks became its guardians in part to prevent anything from being drawn in and lost.
+
+The gravitational pull is also the encounter's central irony: the room itself works against the meenlocks' purpose. Everything is being drawn toward the thing they are protecting.
+
+---
 ### Room Actions (Initiative Count 20)
 
-At initiative count 20 each round, roll d6:
+After the gravitational pull resolves, roll a d4:
 
-**1-2: Gravitational Shift** All creatures must succeed on DC 14 Strength save or be pulled 10 feet toward the center platform.
+**1: Spatial Vertigo.** The room "tilts." All creatures must succeed on a DC 14 Constitution save or have disadvantage on their next attack roll or ability check.
 
-**3-4: Spatial Vertigo** The room "tilts" beneath everyone's feet. All creatures must succeed on DC 14 Constitution save or have disadvantage on their next attack roll or ability check.
+**2: Phantom Echo.** Geometric symbols on the walls flare. Each creature with a warping penalty must succeed on a DC 13 Wisdom save or increase their penalty by 1 (max −8).
 
-**5: Phantom Spawn** The Aberrant Whisper pulses and births a **Shadow Meenlock** that emerges at the center platform. It acts on initiative count 19 and vanishes at the next initiative count 20. (DM Note: Track its HP between appearances—it's the same creature being pulled in and pushed out.)
+**3: Dimensional Bleed.** The Whisper pulses once. A creature of the DM's choice within 30 feet of the center must succeed on a DC 14 Charisma save or be briefly displaced — teleported 10 feet in a random direction (roll d8 for compass direction).
 
-**6: Corrupting Pulse** The Aberrant Whisper releases corrupting energy. All creatures within 20 feet of the center platform take 2d6 psychic damage (DC 15 Charisma save for half). On a failed save, the creature becomes **Marked by Corruption** until the end of its next turn (meenlocks have advantage on attacks against you; you have disadvantage on Wisdom saves). Then roll d6 on the Far Realm Intrusion table:
+**4: Nothing.** The room holds its breath.
 
-**Far Realm Intrusion (d6):**
+---
+### The Meenlocks
 
-1. **Temporal Distortion**: All creatures move and act as if under _slow_ spell until start of next initiative count 20
-2. **Temporal Well**: A 10×10 foot zone appears at a random location. Any creature entering it is teleported 15 feet in a random direction to an unoccupied space. The well persists until the next Corrupting Pulse.
-3. **Alien Geometry Intensifies**: All warping penalties increase by 2 until start of next initiative count 20 (minimum -2, maximum -10)
-4. **Psychic Resonance**: All creatures must succeed DC 15 Wisdom save or be frightened until end of their next turn
-5. **Light Drain**: The room fills with magical darkness (as _darkness_ spell) until start of next initiative count 20
-6. **No Additional Effect**: The corrupting energy itself was devastating enough
+#### Origin
 
-### The Aberrant Whisper
+Three hundred years ago, when the ritual failed, the monks in this chamber did not all escape. Some were caught in the collapse — overwhelmed by dimensional energy, Far Realm corruption, and overwhelming terror in the same moment. What emerged from that confluence were meenlocks: shadow fey born from fear, corruption, and the memory of what someone used to be.
 
-This tiny knot of writhing darkness floats at the geometric center of the chamber, above the platform's highest point. It is the psychic scar where the dimensional breach occurred—a wound in reality that never healed.
+They have guarded this room ever since. Not from malice. From purpose — the last vestige of the discipline they were trained for. They are protecting the Whisper from being disturbed. They were doing it before they understood what they had become. By now, the purpose and the creature are inseparable.
 
-The Whisper cannot be damaged or destroyed by any means available to the party. Completing Kelmen's ritual (see [[kelmen_ritual_resolution]]) may reduce its influence, but the breach itself remains. Approaching within 10 feet requires tremendous mental fortitude—any creature doing so for the first time must succeed on a DC 18 Wisdom saving throw or suffer one effect from the Short-Term Madness table (DMG p. 259).
+**Kelmen does not know this.** He has felt their presence for three centuries — a darkness below him, a reason he cannot descend. He does not know his colleagues became the obstacle. This discovery, when it comes, belongs to the party first and to Kelmen after.
 
-### Current Occupants: The Corrupted
+#### Encounter Composition
 
-**1 Meenlock Elder (CR 5) + 2 Meenlock Corruptors (CR 4)**
+**1 Meenlock Elder (CR 5)** — the dominant presence, positioned at the base of the central platform. Moves deliberately. Does not attack creatures who remain at the room's edge and make no move toward the Whisper.
 
-These shadow fey were spawned 300 years ago from the combination of dimensional breach + Far Realm corruption + the monks' overwhelming terror during the catastrophic ritual. They are the physical embodiment of the monastery's failure—fear given form and purpose. They have "guarded" this corruption for three centuries, preventing anything from completing or cleansing what was started.
+**2 Meenlock Corruptors (CR 4 each)** — positioned at opposite sides of the inner pillar ring. More reactive than the Elder; they intercept movement toward the center rather than initiating.
 
-**Meenlock Advantages:**
+#### Behavioral Logic
 
-- Navigate the chamber normally (immune to warping penalty and difficult terrain)
-- Understand the true spatial relationships
-- Know which room actions are coming (they've lived here for 300 years)
+The meenlocks do not attack the party simply for descending into the room. They attack creatures who move toward the center platform. A party member who hangs back, near the walls, will be watched but not immediately targeted. A party member who moves toward the Whisper triggers immediate interception.
 
-**Tactical Notes:**
+This makes the gravitational pull especially dangerous: the room is constantly trying to drag characters into the meenlocks' engagement zone.
 
-- Meenlocks position themselves at different elevations using the terraced platform
-- They know to stay near the center during Gravitational Shift
-- They retreat to platform top when Corrupting Pulse approaches
-- The Shadow Meenlock (if spawned) coordinates with them instinctively
+The meenlocks fight to defend, not to kill. They use their Fear Aura and Psychic Claws to stop and disorient, not to finish. A creature that stops advancing toward the center and retreats to the walls will find the meenlocks return to their positions rather than pursuing.
 
+#### Signs of What They Were
+
+These details are observable mid-encounter. None require a check — they are simply there for attentive players:
+
+- The Elder and both Corruptors hold their positions at equidistant points around the platform — a formation. They did not learn this as meenlocks.
+- When not actively intercepting, they face the Whisper. Not watching the party. Watching it.
+- Their movements near the center platform have a quality of ritual — they approach and retreat in patterns, never crossing certain invisible lines.
+- If a meenlock is reduced to 0 HP near the central platform, it does not simply collapse. It reaches toward the Whisper in its final moment. A DC 13 Insight check: this is not aggression. It looks like longing.
+- If a party member speaks Giant — even casually, even fragments — the meenlocks pause. A breath. Then they resume. Something registered.
+- Fused into the stone of the platform base, barely visible under centuries of darkness: the worn impression of what might once have been a meditation cushion. The stone has been shaped by long use.
+
+#### Non-Combat Resolution
+
+The meenlocks are not enemies by nature. They are purpose without context, discipline without memory. Several approaches can cause them to stand aside:
+
+**The Beacon.** If the Luxon Beacon is visible and held openly — not used as a weapon, not flourished, simply present — the Elder stops. Something in it responds to the temporal resonance. It does not speak. It moves aside. The Corruptors follow. This is not certain (it requires the party to think of it and approach without aggression), but it works. The Beacon was the thing the monks always needed. Even as meenlocks, something in them recognizes it.
+
+**Acknowledgment in Giant.** Speaking to them directly in Giant — not commands, not threats, acknowledgment — causes a longer pause. Telling them, in Giant, that the ritual will be completed, that they can rest, that Kelmen sent the party: the meenlocks do not speak in response, but the Elder sits. The Corruptors lower their claws. They do not stand aside entirely, but they stop intercepting.
+
+**Paying respects at the platform base.** A character who approaches the platform slowly, with hands visible, and performs a gesture of respect at the base — bowing, kneeling, treating it as a sacred space — causes the Elder to regard them for a long moment. If no aggression follows, it moves aside to allow passage to the Whisper.
+
+Any combination of the above can work. Players who attempt creative approaches are attempting the right thing; reward genuine engagement.
+
+#### Combat Tactics
+
+If combat occurs, the meenlocks use their action economy to control positioning rather than deal maximum damage. The Elder uses its Fear Aura to push characters away from the center while the Corruptors intercept anyone who gets past it. Neither will pursue characters to the room's edges.
+
+The warping penalty, difficult terrain, and gravitational pull all compound the meenlocks' defensive advantage. The party is fighting uphill — literally drawn toward the thing the meenlocks are defending.
+
+---
+### Stabilizing the Whisper
+
+Once the meenlocks have been defeated or have stood aside, the path to the Whisper is open.
+
+**Placing the Beacon.** The Luxon Beacon must be carried to the central platform and placed at the Whisper's base. The moment it touches the platform, the effect is immediate and visible: the spatial warping in the room diminishes sharply. Warping penalties drop by half (round down). Difficult terrain ends. The gravitational pull stops. The room becomes quiet in a way it has not been for three hundred years.
+
+The Whisper does not disappear. It becomes small — still present, still dark, but no longer pulling. A scar, not a wound.
+
+**Kelmen descends.** With the room stabilized, Kelmen can safely pass through the breach. He drops into the chamber — still flickering, but present, more solid than the party has seen him above. He takes in the room slowly.
+
+Give him a moment before he speaks. He is seeing it for the first time in three hundred years. He is also seeing what his colleagues became, if the party has told him or if he recognizes it himself. That recognition, if it comes, should arrive quietly. He does not explain it. He simply knows.
+
+> _"I did not know what was down here. I am sorry. I should have found a way — any way — to know."_
+
+He moves to the central platform. He performs the final portion of the ritual — a long sequence of archaic Giant, spoken barely above a murmur, addressed to the room, to the Whisper, to the founders whose principles he has held in his memory for three centuries. The party need only be present.
+
+**Kelmen enters the Beacon.** At the ritual's completion, Kelmen turns to the party. His flickering has stopped. He is entirely solid.
+
+> _"I believe I understand, now, what the realignment above will require. You'll need to bring the Beacon back — my passage through the breach, while I am... between states... will disturb the wheel calibration. You'll need to retune them. Bring it back to the chosen weapon's slab. If something goes wrong — if the passage is disrupted and I cannot complete it — speak these words."_
+
+He gives them the invocation in archaic Giant:
+
+> _"Fullfer det du begynte. Vi er her. Vi bær vitne."_ _(Complete what you began. We are here. We bear witness.)_
+
+> _"I hope you will not need them."_
+
+He turns to the Beacon. His form softens at the edges. Then — without drama, without a surge of light — he steps into it. The Beacon brightens once, briefly, and goes still.
+
+He does not know the invocation is the completion rite. He does not know he is already inside the instrument of his own crossing. He believes he is giving them a contingency.
+
+---
+### Returning to Area 17
+
+The party must carry the Beacon back up through Area 18 to Area 17. This requires climbing the 30-foot shaft — DC 12 Athletics, or rope, or magic. With the room stabilized and no active combat, the warping penalties fade over one minute. There is no time pressure.
+
+**The realignment.** Back in Area 17, the party places the Beacon on the chosen weapon's slab and realigns the four soulwood disks — the same process as before, but faster; they know the mechanic. Kelmen's passage through the breach has knocked the wheels slightly out of true, exactly as he said it would.
+
+When all four disks are correctly set, the Beacon pulses — different from before. Steadier. The room holds its breath.
+
+**The invocation.** The party speaks the words Kelmen gave them:
+
+> _"Fullfer det du begynte. Vi er her. Vi bær vitne."_
+
+If only one party member knows Giant, they may speak alone. If multiple members speak together, all the better. The invocation is what it is regardless of who says it.
+
+**The crossing.** The Beacon pulses once more and goes dark — not dead, just empty. The light that had been in it for the last hour is gone.
+
+There is a sound like the distant closing of a door. Not in the room. Below, or between, or somewhere adjacent to everywhere.
+
+The chosen weapon rests on its slab, exactly as before. It is not glowing. There is no sign that anything has changed.
+
+The party has witnessed. That is enough.
+
+---
 ### DM Notes
 
-**Running This Encounter:**
+**The Kelmen revelation.** He will recognize what the meenlocks were, eventually. Either the party tells him, or he sees the signs himself — the formation, the posture, the final gesture of the one that reached toward the Whisper. Do not rush this moment. Let him arrive at it in his own time, in his own words. He has had three hundred years to wonder why he couldn't reach them. Now he knows.
 
-- Track each PC's warping penalty
-- Describe movement/attacks through the lens of their confusion ("You swing at the meenlock—at least you think that's where it is")
-- When PCs stand still to recalibrate, describe them taking a breath, closing their eyes, reorienting
-- The meenlocks move with eerie precision while PCs stumble and misjudge distances
-- Use room actions to create dynamic tactical pressure
+**The Beacon.** After the invocation, the Beacon is inert — not destroyed, not diminished, simply empty for now. It functions normally again after a short rest. Its campaign role is fully preserved.
 
-**Climbing Out:** After defeating the meenlocks, characters can attempt to climb the walls back up to Area 18 (the 30-foot vertical shaft). With the corruption cleansed and no active combat, their warping penalties naturally fade over 1 minute. The climb is DC 12 Athletics, or they can use rope, magic, or other creative solutions.
+**The weapon after crossing.** It looks unchanged. It is a masterwork longsword / shield / longbow and nothing else, as far as anyone can tell. There is no dramatic sign. This is intentional. The moment of discovery belongs to attunement — whenever that happens, sessions later or immediately, when Kelmen speaks for the first time and the wielder realizes what they're holding.
 
-**Story Function:** This chamber must be cleansed of the meenlocks for Brother Kelmen to complete his ritual (Part 2 of three-part resolution). Once the corrupted guardians are defeated, Kelmen can safely descend here to perform the final binding that will grant him peace and create a sentient artifact from one of the founder's weapons.
+**Attunement — Kelmen's first words:**
 
-### Construction
+> _"I understand now what we were missing."_
 
-_[Dimensional anomaly - originally worked stone octagonal chamber, now warped by planar forces]_
+He then describes what he experienced in the passage: a complete, sudden comprehension of the principle the monks spent decades searching for. Dimensional energy, when being worked or channeled, creates temporal chaos as a byproduct. The Lorestone can manipulate planar boundaries. But without something to hold time still while it works, the feedback is catastrophic. The monks knew they needed a counterweight. They never found one. Kelmen, passing through the stabilized Whisper, understood it completely — for one crystalline moment — and that understanding came with him.
 
----
+He does not elaborate unless asked. He has said the thing that needed saying.
 
-## Major Encounters
+**The Lorestone shards.** This is the moment — if the party discusses the Lorestone with Kelmen after attunement — when the dual-artifact requirement first becomes explicit from a source who genuinely understands it. Not faction propaganda, not partial scholarship. A man who experienced it. What he describes is, unknowingly, exactly what the rift-closing ritual requires at scale.
 
-### The Ethereal Echo - Brother Kelmen
+**No time pressure for the return journey.** The party can rest between cleansing Area 22 and returning to Area 17. Kelmen is stable inside the Beacon. He will wait. He has been waiting for a very long time.
 
-_Found in Area 17: Observatory Chamber_
-
-Brother Kelmen is the last monk who refused to flee after the catastrophe. Years of exposure to dimensional instability have left him partially displaced between planes.
-
-**Initial Appearance**: Kelmen materializes suddenly, appearing agitated and gesturing frantically. His behavior is ambiguous - players cannot initially tell if he's hostile or trying to help.
-
-**Communication Challenge**: Kelmen speaks fragmented archaic Giant:
-
-- _"Harm... you... I... must... stop..."_ (Could mean threat or warning)
-- _"Danger... here... you... bring... death..."_ (Hostile intent or protective concern?)
-
-**Resolution Options**:
-
-1. **Understanding** (Intelligence DC 12 + Wisdom DC 15): Realize he's trying to help
-2. **Stabilization**: Use magical items in viewing alcoves to stabilize his dimensional state
-3. **Compassion**: Show kindness to phase spiders - he automatically becomes helpful
-
-**Information Shared**: Once communication is established, Kelmen reveals:
-
-- The truth about the monks' research and mental influence
-- Warnings about the Deep Meditation Chamber
-- Locations of hidden treasures and research materials
-- The real story behind the monastery's fall
-
-### Ethereal Echoes
-
-Throughout the monastery, characters may trigger psychic impressions that replay key moments:
-
-**Echo 1** (Area 2): A firbolg monk welcoming visitors, speaking of their "sacred mission" **Echo 2** (Area 17): Monks debating whether their subjects are truly healing or suffering **Echo 3** (Areas 19-20): The moment of realization that the spiders viewed them as captors **Echo 4** (Deep Meditation Chamber): The final ritual beginning, with monks speaking of "transcendence"
+**On the meenlock deaths.** If the party fights them to defeat, the aftermath is quiet. There are no bodies — meenlocks dissolve when they die, leaving only shadows and cold air. What remains, if the party looks carefully, are impressions in the stone: the worn spots where feet stood in meditation, the faint lines of prayer beads pressed repeatedly against the same surface over centuries. The room holds the memory of them even when they are gone.
 
 ---
-
-## Treasure and Rewards
-
-### Major Treasures
-
-- **The Dimensional Codex** (Area 15): Spellbook containing _Misty Step_, _Dimension Door_, _Plane Shift_, and _Etherealness_
-- **Crystals of True Seeing** (Area 17): 6 crystals allowing Ethereal Sight for 1 hour each, 1 use per day
-- **Phase Spider Silk** (Areas 19-20): Gift from the Matriarch, worth 500 gp, can craft **Cloak of Elvenkind**
-- **+1 Dagger** (Area 3): Firbolg-crafted blade with dimensional runes
-- **Robes of the Ethereal Monk**: Ancient ceremonial robes (+1 AC, advantage on saves vs. planar effects, but fragile)
-
-### Knowledge Rewards
-
-- **Dimensional Research**: Complete understanding of the monks' work provides valuable insights for scholars
-- **Mental Influence Warning**: Evidence of external manipulation serves as warning for future dimensional research
-- **Phase Spider Alliance**: Freed spiders may aid party in future planar encounters
-- **Safe Passage**: Area 16's exit provides route through the mountain, avoiding dangerous external passes
-
----
-
-## Scaling the Adventure
-
-**For Lower Level Parties (3rd-5th level):**
-
-- Reduce phase spider encounters by half
-- Replace Brother Kelmen with a simpler Ghost encounter
-- Provide more obvious clues about peaceful solutions
-- Limit access to Deep Meditation Chamber until higher levels
-
-**For Higher Level Parties (8th-10th level):**
-
-- Add additional phase spider encounters throughout natural caves
-- Include Ethereal Marauders as random encounters
-- Brother Kelmen has legendary actions and lair actions
-- The Aberrant Whisper has additional dangerous effects
-
-**For Experienced Parties:**
-
-- Connect the monastery to other dimensional locations in your campaign
-- Phase spiders offer to guide party to other planar instabilities
-- The monks' research reveals connections to current campaign threats
-- The dimensional breach can serve as a portal to other adventures
-
----
-
-## Conclusion
-
-The Monastery of Dimensional Harmony serves as more than a dungeon - it's a meditation on good intentions corrupted by external influence, and the importance of understanding rather than controlling what we fear. The phase spiders aren't monsters to be defeated but victims to be liberated. The true treasure lies not in gold or magic items but in the wisdom gained from understanding this ancient tragedy.
-
-Parties that approach with violence will find dangerous enemies and modest rewards. Those who seek to understand will discover allies, knowledge, and warnings that may prove crucial in their own encounters with dimensional forces. The monastery stands as both a testament to the dangers of hubris and a source of hope that compassion can triumph over fear.
 
 # Connected Elements
 ## NPCs
