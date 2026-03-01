@@ -604,7 +604,7 @@ The monks discovered that dimensional magic requires geometric precision that na
 
 ### DM Notes
 
-**The Hidden Exit**: The stairway leads up approximately 80 feet through the mountain, emerging at a concealed exit on the mountainside. This provides the "path through the mountain" mentioned in local legends, allowing passage without traversing the dangerous exterior slopes.
+**The Hidden Exit**: The stairway leads up approximately 200 feet through the mountain, emerging at a concealed exit on the mountainside. This provides the "path through the mountain" mentioned in local legends, allowing passage without traversing the dangerous exterior slopes.
 
 **Blocked Doorway**: In the northwestern corner (not immediately visible), a small doorway once led to these stairs. However, a recent cave-in (likely occurring around the same time as the avalanche that revealed the main entrance, several weeks to a couple months ago) has blocked this passage with rubble. From inside Area 16, the doorway is not obvious - the rubble blends with the worked stone walls.
 
@@ -701,10 +701,6 @@ When characters first enter, Kelmen materializes suddenly - he appears startled,
 **Emotional Weight**: Play up the tragedy - Kelmen sees the founders' remains every day, a constant reminder of the monastery's noble intentions and catastrophic failure. He's had three centuries to contemplate their mistakes.
 
 **The Webbing Barrier**: The thin sheet of webbing in the passage is old and undisturbed. Phase spiders placed it long ago to mark territory boundaries but don't actively patrol here. It can be cut through easily (no save required, just takes an action), though doing so creates a 5-foot-wide clear path.
-
----
-
-Does this work for Area 17? Should we move on to Area 18 next?
 
 ---
 
