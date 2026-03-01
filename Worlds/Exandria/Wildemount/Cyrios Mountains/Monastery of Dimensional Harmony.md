@@ -951,7 +951,7 @@ _Journal fragments (DC 13 Investigation to find; DC 15 to read damaged pages):_
 
 > _"She knows when we are watching. Not that we are present — that we are watching. She will turn to face whichever of us is attending most closely, even when we are silent and still. We have not determined how."_
 
-> _"The younger ones have begun phasing more frequently when we enter. [Name] says this is stress behavior. I said it looked more like practice. We did not agree on whether the distinction mattered."_
+> _"The younger ones have begun phasing more frequently when we enter. Sarkuun says this is stress behavior. I said it looked more like practice. We did not agree on whether the distinction mattered."_
 
 > _"I asked Brother Kelmen today whether he thought they wanted to be here. He was quiet for a long time. He said he thought they had stopped asking themselves that question, and that this might be the saddest thing he had ever considered."_
 
