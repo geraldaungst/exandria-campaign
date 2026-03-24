@@ -2,7 +2,7 @@
 
 # NEXT STEP
 
-I am ready to begin Phase 5 of the refactoring plan. I want to do this carefully and deliberately to make sure everything is done completely and correctly. This will likely involve a lot of tedious updates, so I don't want to rush or make errors on my end.
+I am ready to begin Phase 8 of the refactoring plan. I want to do this carefully and deliberately to make sure everything is done completely and correctly. This will likely involve a lot of tedious updates, so I don't want to rush or make errors on my end.
 
 First, analyze the entire phase and the contents of the vault. As part of your analysis, review the "Exandria Vault Reorganization" document to see if any of that applies to this phase of the vault restructuring. Consider the best sequence to do the necessary tasks in this phase and tell me what you recommend completing first.
 
