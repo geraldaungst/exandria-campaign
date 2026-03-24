@@ -1,10 +1,12 @@
 ---
 tags:
-  - needs-work
   - npc
+  - world/exandria
+  - region/taldorei
 affiliations:
   - Skyship
   - "[[Emissaries of the Sunfall]]"
+location: Rexxentrum
 ---
 ![[kite.png|right|200]]
 Male Tabaxi

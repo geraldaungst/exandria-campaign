@@ -1,7 +1,8 @@
 ---
 tags:
-  - needs-work
   - npc
+  - region/taldorei
+  - world/exandria
 affiliations:
   - Unshaken (Skyship)
 home_city: Zadash

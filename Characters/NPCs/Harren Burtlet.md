@@ -1,7 +1,8 @@
 ---
 tags:
-  - needs-work
   - npc
+  - world/exandria
+  - region/dwendalian-empire
 home_city: Zadash
 ---
 home_city: Zadash

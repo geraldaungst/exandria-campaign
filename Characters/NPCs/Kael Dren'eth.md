@@ -1,15 +1,15 @@
 ---
 tags:
   - npc
+  - world/exandria
+  - region/menagerie-coast
 affiliations:
   - "[[Malachite Cord]]"
   - Terrah Tribe
 aliases:
   - kael
-faction: 
-location: 
-knows: 
-important_for:
+faction:
+location: "[[The Shrine of Melora]]"
 ---
 
 # Quick Reference

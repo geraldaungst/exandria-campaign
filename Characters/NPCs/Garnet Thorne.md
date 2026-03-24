@@ -1,7 +1,8 @@
 ---
 tags:
-  - needs-work
   - npc
+  - world/exandria
+  - region/taldorei
 home_city: Zadash
 aliases:
   - Garnet
@@ -13,8 +14,6 @@ region: Tal'Dorei
 ***Medium humanoid (human), neutral***
 
 ---
-home_city: Zadash
-region: Tal'Dorei
 
 **Armor Class** 12 (natural armor)
 

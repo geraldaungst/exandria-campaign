@@ -1,7 +1,9 @@
 ---
 tags:
-  - needs-work
   - npc
+  - deceased
+  - region/dwendalian-empire
+  - world/exandria
 affiliations:
   - "[[Emissaries of the Sunfall]]"
   - Skyship
