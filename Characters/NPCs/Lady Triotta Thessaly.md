@@ -3,7 +3,6 @@ tags:
   - npc
   - region/dwendalian-empire
   - world/exandria
-home_city: Zadash
 aliases:
   - triotta
   - thessaly

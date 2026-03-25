@@ -2,8 +2,6 @@
 tags:
   - campaign/tyranny
   - world/faerun
-region: Sword Coast
----
 # Samardag the Hoper
 
 Last Edited: May 1, 2021 8:45 PM

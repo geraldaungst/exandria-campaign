@@ -2,8 +2,6 @@
 tags:
   - campaign/tyranny
   - world/faerun
-region: Sword Coast
----
 # Aravax Foxtraveler
 
 Last Edited: May 1, 2021 8:35 PM

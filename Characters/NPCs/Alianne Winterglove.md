@@ -2,8 +2,6 @@
 tags:
   - campaign/tyranny
   - world/faerun
-region: Sword Coast
----
 # Alianne Winterglove
 
 Last Edited: April 8, 2021 7:59 PM

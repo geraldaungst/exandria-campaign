@@ -1,5 +1,4 @@
 ---
-home_city: Port Zoon
 tags:
   - region/menagerie-coast
 ---

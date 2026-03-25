@@ -2,8 +2,6 @@
 tags:
   - campaign/tyranny
   - world/faerun
-region: Sword Coast
----
 # Orvustia Esseren
 
 Last Edited: May 1, 2021 9:36 PM

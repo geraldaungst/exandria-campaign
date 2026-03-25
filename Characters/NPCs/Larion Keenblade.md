@@ -2,8 +2,6 @@
 tags:
   - campaign/tyranny
   - world/faerun
-region: Sword Coast
----
 # Larion Keenblade
 
 Last Edited: November 5, 2021 6:37 PM

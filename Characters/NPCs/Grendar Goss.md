@@ -6,8 +6,6 @@ tags:
 affiliations:
   - Unshaken (Skyship)
 home_city: Zadash
----
-home_city: Zadash
 ![[grendar-goss.jpeg|right|300]]
 Grendar is a firbolg, almost 8 feet tall, with light gray skin and thick, dark blue fur. He has a cowlike body with sloping shoulders, floppy, pointed ears and a broad, pink nose. He is bipedal and has large but delicate hands that are excellent at handling bottles and bar utensils.
 

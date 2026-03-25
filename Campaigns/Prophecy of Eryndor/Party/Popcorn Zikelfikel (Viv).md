@@ -2,7 +2,6 @@
 tags:
   - campaign/eryndor
   - player
-player: Viv
 aliases:
   - Popcorn
 modifier: 1

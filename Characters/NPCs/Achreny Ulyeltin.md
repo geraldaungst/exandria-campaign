@@ -2,8 +2,6 @@
 tags:
   - campaign/tyranny
   - world/faerun
-region: Sword Coast
----
 # Achreny Ulyeltin
 
 Last Edited: May 2, 2021 7:48 AM

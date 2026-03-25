@@ -1,6 +1,4 @@
 ---
-type: reference
-category: encounter-design
 tags:
   - dm-tools
   - encounters

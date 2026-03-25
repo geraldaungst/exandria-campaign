@@ -2,8 +2,6 @@
 tags:
   - campaign/tyranny
   - world/faerun
-region: Sword Coast
----
 # Ackyn Selebon
 
 Last Edited: April 8, 2021 8:14 PM

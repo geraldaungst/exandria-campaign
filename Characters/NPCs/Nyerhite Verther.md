@@ -2,8 +2,6 @@
 tags:
   - campaign/tyranny
   - world/faerun
-region: Sword Coast
----
 # Nyerhite Verther
 
 Last Edited: May 2, 2021 8:01 AM

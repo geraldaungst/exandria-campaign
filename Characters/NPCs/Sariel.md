@@ -3,8 +3,6 @@ tags:
   - needs-work
   - npc
   - region/menagerie-coast
-home_city: Talonstadt
----
 ![[sariel.jpeg|right|300]]
 Sariel, [[Tharivol]]'s younger sister, has a slender build with emerald-green scales and deep green eyes. She often wears a cloak with intricate arcane symbols.
 

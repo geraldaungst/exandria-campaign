@@ -2,8 +2,6 @@
 tags:
   - campaign/tyranny
   - world/faerun
-region: Sword Coast
----
 # Edhelri Lewel
 
 Last Edited: May 1, 2021 9:48 PM

@@ -2,8 +2,6 @@
 tags:
   - npc
   - region/menagerie-coast
-home_city: Port Damali
----
 Dear Friend of [[Calderax Dunhall|Calderax]],
 
 It seems we have a shared interest in an ancient artifact, one that has come to my attention through a trusted intermediary. As the lead of the Port Zoon Cartographers Guild, I do indeed hold information about this item.

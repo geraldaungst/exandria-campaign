@@ -6,8 +6,6 @@ affiliations:
   - "[[Obsidian Echoforge]]"
 aliases:
   - gaius
-home_city: Hupperdook
----
 
 # Appearance & Personality
 **Species:** Dwarf

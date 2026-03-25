@@ -2,8 +2,6 @@
 tags:
   - campaign/tyranny
   - world/faerun
-region: Sword Coast
----
 # Sulesdeg the Pole
 
 Last Edited: May 1, 2021 9:43 PM

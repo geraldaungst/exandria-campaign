@@ -3,7 +3,6 @@ tags:
   - npc
   - world/exandria
   - region/dwendalian-empire
-home_city: "Rexxentruum"
 affiliations:
   - none
 ---

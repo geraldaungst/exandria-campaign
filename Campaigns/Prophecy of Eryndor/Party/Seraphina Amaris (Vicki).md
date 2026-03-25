@@ -2,7 +2,6 @@
 tags:
   - campaign/eryndor
   - player
-player: Vicki
 aliases:
   - Seraphina
 modifier: 2

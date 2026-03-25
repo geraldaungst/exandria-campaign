@@ -3,7 +3,6 @@ tags:
   - needs-work
   - npc
   - region/menagerie-coast
-home_city: Port Damali
 affiliations:
   - Cobalt Soul
 ---

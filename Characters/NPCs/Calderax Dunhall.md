@@ -2,7 +2,6 @@
 tags:
   - npc
   - region/menagerie-coast
-home_city: Port Damali
 faction: 
   - [[Obsidian Echoforge]]
   - [[Emissaries of the Sunfall]] 

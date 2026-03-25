@@ -3,7 +3,6 @@ tags:
   - npc
   - world/exandria
   - region/menagerie-coast
-home_city: None
 aliases:
   - berinon
 affiliations:

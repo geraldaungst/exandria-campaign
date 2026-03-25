@@ -3,8 +3,6 @@ tags:
   - needs-work
   - npc
   - region/menagerie-coast
-home_city: Port Damali
----
 ![[annah.jpeg|right|300]]
 > You see a striking tiefling woman with deep crimson skin, pink horns, and vibrant violet eyes. Her long, sleek black hair cascades down her back. She wears a simple dark purple gown and a silver pendant around her neck. She has kind eyes and a warm expression on her face.
 

@@ -2,8 +2,6 @@
 tags:
   - campaign/tyranny
   - world/faerun
-region: Sword Coast
----
 # Tawar Kenley
 
 Last Edited: April 9, 2021 7:57 AM

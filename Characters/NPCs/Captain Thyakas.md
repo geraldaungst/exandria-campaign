@@ -5,7 +5,6 @@ tags:
   - world/exandria
 affiliations:
   - Unshaken (Skyship)
-home_city: Whitestone
 aliases:
   - Thyakas
 ---

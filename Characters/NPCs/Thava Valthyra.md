@@ -2,8 +2,6 @@
 tags:
   - campaign/tyranny
   - world/faerun
-region: Sword Coast
----
 # Thava Valthyra
 
 Last Edited: April 8, 2021 7:57 PM

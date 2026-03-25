@@ -2,7 +2,6 @@
 tags:
   - npc
   - region/dwendalian-empire
-home_city: Zadash
 aliases:
   - The Gentleman
   - Korfel

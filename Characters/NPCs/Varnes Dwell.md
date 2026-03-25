@@ -1,7 +1,6 @@
 ---
 tags:
   - npc
-home_city: Port Damali
 faction: None
 location: [[Cloudfang Keep]]
 affiliations:

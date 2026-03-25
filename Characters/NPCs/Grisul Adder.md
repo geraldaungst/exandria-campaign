@@ -3,8 +3,6 @@ tags:
   - needs-work
   - npc
   - region/menagerie-coast
-home_city: Port Damali
----
 ![[grisul-adder.jpeg|right|300]]_Medium humanoid (goliath), Chaotic Good_
 
 **Armor Class:** 14 (natural armor)  

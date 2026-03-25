@@ -2,8 +2,6 @@
 tags:
   - campaign/tyranny
   - world/faerun
-region: Sword Coast
----
 # Azbara Jos
 
 Last Edited: May 1, 2021 8:33 PM

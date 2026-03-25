@@ -2,8 +2,6 @@
 tags:
   - campaign/tyranny
   - world/faerun
-region: Sword Coast
----
 # Marika Velo
 
 Last Edited: December 31, 2021 7:42 PM

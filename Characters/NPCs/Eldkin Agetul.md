@@ -2,8 +2,6 @@
 tags:
   - campaign/tyranny
   - world/faerun
-region: Sword Coast
----
 # Eldkin Agetul
 
 Last Edited: May 1, 2021 9:45 PM

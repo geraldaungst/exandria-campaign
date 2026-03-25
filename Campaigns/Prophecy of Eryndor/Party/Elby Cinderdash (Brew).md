@@ -2,7 +2,6 @@
 tags:
   - campaign/eryndor
   - player
-player: Brew
 aliases:
   - Elby
 modifier: 3

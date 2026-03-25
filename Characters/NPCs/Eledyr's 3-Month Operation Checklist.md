@@ -1,5 +1,4 @@
 ---
-home_city: Port Damali
 tags:
   - region/menagerie-coast
 ---

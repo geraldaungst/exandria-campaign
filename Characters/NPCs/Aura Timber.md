@@ -2,8 +2,6 @@
 tags:
   - campaign/tyranny
   - world/faerun
-region: Sword Coast
----
 # Aura Timber
 
 Last Edited: November 7, 2021 6:30 PM

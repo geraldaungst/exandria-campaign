@@ -2,7 +2,6 @@
 tags:
   - campaign/eryndor
   - player
-player: Dot
 aliases:
   - Hesterian
 modifier: 2

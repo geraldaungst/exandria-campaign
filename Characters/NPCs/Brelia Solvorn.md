@@ -5,8 +5,6 @@ tags:
   - world/exandria
 affiliations:
   - Unshaken (Skyship)
-home_city: "Port Damali"
----
 
 ![[brelia-solvorn.jpeg|right|300]]
 Brelia Solvorn is the embodiment of steadfast resilience and unwavering loyalty, qualities that have cemented her role as both the ship's medic and navigator. At forty years old, she carries herself with an air of quiet confidence, her years aboard the skyship etching both wisdom and warmth into her demeanor. Brelia's relationship with the captain, a female tiefling with whom she shares much more than just a cabin, is a testament to her capacity for deep, platonic bonds. Despite the whispers and rumors that swirl among the crew, their connection transcends mere companionship, rooted in a shared history and mutual respect that mirrors the closeness of siblings. Her approach to life is pragmatic yet compassionate, guiding the crew through the skies with a steady hand and healing their wounds with a gentle touch. Brelia's strength lies not just in her navigational or medical skills, but in her ability to be the emotional anchor for the crew, offering a listening ear and sage advice with equal ease. Her laughter is a rare but cherished melody that lightens the air, reminding all who hear it of the warmth and joy that can be found even in the vast, unforgiving skies.

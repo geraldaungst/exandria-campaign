@@ -3,8 +3,6 @@ tags:
   - needs-work
   - npc
   - region/menagerie-coast
-home_city: Port Damali
----
 ![[rylan.jpeg|right|300]]
 > You see a wiry young man, around 18, with olive-toned skin that has paled in patches, giving him a sickly look. His deep-set green eyes, dulled with bitterness and hopelessness, peer out from behind a tousled mass of dark brown curls. Dressed in the rough-spun clothes of a prisoner, his frame is gaunt, and he moves slowly, as if conserving energy. Around his wrist is a small, worn leather bracelet, cracked and stained with age—a relic of a life left behind. He absently twists the bracelet, revealing calloused skin beneath, a sign of his long imprisonment.
 

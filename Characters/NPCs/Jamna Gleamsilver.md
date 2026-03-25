@@ -2,8 +2,6 @@
 tags:
   - campaign/tyranny
   - world/faerun
-region: Sword Coast
----
 # Jamna Gleamsilver
 
 Last Edited: May 1, 2021 8:35 PM

@@ -2,7 +2,6 @@
 tags:
   - campaign/eryndor
   - player
-player: Brent
 aliases:
   - Laucian
 modifier: 2

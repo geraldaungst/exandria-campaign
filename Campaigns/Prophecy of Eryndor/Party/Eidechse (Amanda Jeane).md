@@ -4,7 +4,6 @@ tags:
   - player
 aliases:
   - Dechs
-player: Amanda Jeane
 modifier: 2
 ---
 ![[dechs-token.png|right|200]]Hill Dwarf Beastmaster Ranger

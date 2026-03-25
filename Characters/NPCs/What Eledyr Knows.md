@@ -2,7 +2,6 @@
 tags:
   - atomic
   - region/menagerie-coast
-home_city: Port Damali
 created: 2025-01-08
 context:
 ---

@@ -3,7 +3,6 @@ tags:
   - atomic
   - needs-work
   - region/dwendalian-empire
-home_city: Zadash
 created: 2025-09-28
 context:
 ---

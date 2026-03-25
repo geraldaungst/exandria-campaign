@@ -3,7 +3,6 @@ tags:
   - npc
   - world/exandria
   - region/taldorei
-home_city: Zadash
 affiliations:
   - "[[Emissaries of the Sunfall]]"
 ---

@@ -3,7 +3,6 @@ tags:
   - needs-work
   - npc
   - region/dwendalian-empire
-home_city: Rexxentrum
 affiliations:
   - Cerberus Assembly
 ---

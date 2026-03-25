@@ -3,8 +3,6 @@ tags:
   - needs-work
   - npc
   - region/dwendalian-empire
-home_city: Rexxentrum
----
 ![[dalina-van-devries.png|right|300]]Skin Color: Dusky grey with a hint of green
 
 Hair Color and Style: Dark brown, left loose and wild, cascading over her shoulders. She often pushes it back with a leather headband.

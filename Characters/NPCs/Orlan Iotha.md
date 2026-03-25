@@ -5,8 +5,6 @@ tags:
 affiliations:
   - Unshaken (Skyship)
 home_city: Zadash
----
-home_city: Zadash
 ![[orlan-iotha.png|right|300]]
 gnome male
 

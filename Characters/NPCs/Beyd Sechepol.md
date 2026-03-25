@@ -2,8 +2,6 @@
 tags:
   - campaign/tyranny
   - world/faerun
-region: Sword Coast
----
 # Beyd Sechepol
 
 Last Edited: May 2, 2021 7:50 AM

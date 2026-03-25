@@ -2,7 +2,6 @@
 tags:
   - needs-work
   - npc
-home_city: Zadash
 aliases:
   - Tamsin
 ---

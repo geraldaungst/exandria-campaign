@@ -3,8 +3,6 @@ tags:
   - item
   - needs-work
   - region/menagerie-coast
-home_city: Port Damali
----
 ![[Stonefoot Compass.jpeg]]
 
 As you unearth the object from the muck, you reveal a beautifully crafted compass made from dark, weathered ironwood. The surface is engraved with intricate carvings of winding vines and ancient dwarven runes, some still faintly gilded with gold leaf. Beneath a clear, domed glass cover, a black steel needle shaped like a leaf points steadily north, set against an ivory face marked with runes instead of letters. A small moss agate glimmers at the needle's center.

@@ -3,7 +3,6 @@ tags:
   - npc
   - region/menagerie-coast
   - world/exandria
-home_city: "Port Damali"
 affiliations:
   - "[[Obsidian Echoforge]]"
 aliases:

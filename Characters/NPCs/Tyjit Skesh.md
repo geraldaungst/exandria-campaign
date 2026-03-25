@@ -2,8 +2,6 @@
 tags:
   - campaign/tyranny
   - world/faerun
-region: Sword Coast
----
 # Tyjit Skesh
 
 Last Edited: May 1, 2021 9:32 PM
