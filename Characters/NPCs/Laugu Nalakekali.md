@@ -7,8 +7,6 @@ affiliations:
 aliases:
   - Laugu
 ---
-home_city: Zadash
-region: Tal'Dorei
 
 ![[laugu-nalakekali.png|right|300]]
 
