@@ -1,9 +1,12 @@
 ---
 tags:
-  - needs-work
   - npc
-faction: [[Emissaries of the Sunfall]]
-location: [[Cloudfang Keep]]
+  - region/cyrios-mountains
+  - world/exandria
+faction:
+  - Emissaries of the Sunfall
+location:
+  - Cloudfang Keep
 ---
 
 # Quick Reference

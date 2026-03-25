@@ -1,7 +1,7 @@
 ---
 tags:
-  - needs-work
   - npc
+  - region/taldorei
 home_city: Zadash
 affiliations:
   - Whitestone
