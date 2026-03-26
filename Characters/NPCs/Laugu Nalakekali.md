@@ -8,6 +8,7 @@ aliases:
   - Laugu
 ---
 
+
 ![[laugu-nalakekali.png|right|300]]
 
 Known also as "Deereye".
