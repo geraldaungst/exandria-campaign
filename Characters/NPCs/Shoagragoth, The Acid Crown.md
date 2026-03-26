@@ -1,9 +1,15 @@
 ---
 tags:
-  - needs-work
   - npc
+  - needs-work
+  - world/Exandria
+  - region/xorhas
+aliases:
+  - "Shoagragoth"
+  - "Acid Crown"
 affiliations:
-  - Kryn Dynasty
+  - "Unaffiliated"
+current_location: "Ebonglass Massif"
 faction: 
 location:
 ---

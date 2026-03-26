@@ -1,12 +1,9 @@
 ---
 tags:
-  - needs-work
   - npc
-  - region/menagerie-coast
+  - needs-work
 affiliations:
   - "[[Clasp]]"
-aliases:
-  - aelorin
 ---
 [[Qilynn Duskwhisper (Nicole)|Qilynn]]'s mentor and trainer.
 

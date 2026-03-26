@@ -1,8 +1,8 @@
 ---
 tags:
-  - campaign/tyranny
-  - world/faerun
-# Achreny Ulyeltin
+  - deceased
+  - world/Faerun
+---
 
 Last Edited: May 2, 2021 7:48 AM
 Tags: NPC

@@ -1,9 +1,8 @@
 ---
 tags:
-  - atomic
   - needs-work
 affiliations:
-  - Obsidian Echoforge
+  - "Obsidian Echoforge"
 faction: Obsidian Echoforge
 location: Port Damali
 ---

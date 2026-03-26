@@ -1,8 +1,9 @@
 ---
 tags:
+  - npc
   - needs-work
 affiliations:
-  - Obsidian Echoforge
+  - "Obsidian Echoforge"
 created: 2024-12-01
 context: 
  - atomic

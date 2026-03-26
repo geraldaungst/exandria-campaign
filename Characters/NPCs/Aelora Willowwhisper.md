@@ -1,13 +1,9 @@
 ---
 tags:
-  - needs-work
   - npc
-  - region/menagerie-coast
-  - world/exandria
+  - needs-work
 affiliations:
   - "[[Obsidian Echoforge]]"
-aliases:
-  - Aelora
 ---
 A brilliant mage, Aelora combined her arcane prowess with the group's vast knowledge, leading to the discovery of the penultimate fragment.
 
