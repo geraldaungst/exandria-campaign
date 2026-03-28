@@ -1,7 +1,7 @@
 ---
 tags:
-  - deceased
-  - world/Faerun
+  - needs-work
+  - world/faerun
 ---
 
 Last Edited: May 2, 2021 7:48 AM
