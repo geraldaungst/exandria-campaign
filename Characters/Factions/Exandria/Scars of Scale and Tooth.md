@@ -1,8 +1,13 @@
 ---
 tags:
   - faction
-  - needs-work
-  - npc
+  - world/exandria
+  - region/xorhas
+  - offscreen
+affiliations:
+  - "[[Emissaries of the Sunfall]]"
+current_location: "[[Xarzith Kitril]]"
+disposition: indifferent
 ---
 ![[xarzith-kitril-council.png|right|300]]
 (Xarzith Kitril Governing Council)

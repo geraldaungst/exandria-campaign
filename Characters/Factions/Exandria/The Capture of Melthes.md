@@ -1,14 +1,21 @@
 ---
 tags:
-  - atomic
-  - cerberus-assembly
-  - needs-work
-  - xarzith-kitril
-created: 2025-10-12
+  - faction
+  - hook
+  - offscreen
+  - world/exandria
+  - region/dwendalian-empire
 aliases:
-  - The Melthes Kidnapping
-  - Melthes Recruitment
+  - "The Melthes Kidnapping"
+  - "Melthes Recruitment"
+affiliations:
+  - "[[Dwendalian Empire]]"
+  - "[[Cerberus Assembly]]"
+current_location: "[[Rexxentrum]]"
+disposition: indifferent
+created: 2025-10-12
 context:
+
 ---
 
 # Core Information

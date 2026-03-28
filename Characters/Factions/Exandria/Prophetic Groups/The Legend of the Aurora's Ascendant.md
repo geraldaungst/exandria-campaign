@@ -1,7 +1,11 @@
 ---
 tags:
   - faction
-  - npc
+  - world/exandria
+  - region/greying-wildlands
+affiliations:
+  - "[[Malachite Cord]]"
+disposition: friendly
 ---
 # Full Version (10 minutes)
 Gather close, children of the stars and earth, for I shall weave for you the tale of The Aurora's Ascendant, a saga of light, darkness, and the eternal dance between them. In the heart of the Savalirwood, where the trees are ancient and their whispers are the echoes of time itself, our legend begins.

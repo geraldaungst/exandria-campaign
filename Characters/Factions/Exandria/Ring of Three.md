@@ -1,8 +1,12 @@
 ---
 tags:
   - faction
-  - needs-work
-  - npc
+  - world/exandria
+  - region/dwendalian-empire
+affiliations:
+  - "[[Dwendalian Empire]]"
+current_location: "[[Bysaes Tyl]]"
+disposition: indifferent
 ---
 Leaders of the city of Bysaes Tyl
 

@@ -1,7 +1,10 @@
 ---
 tags:
   - faction
-  - npc
+  - world/exandria
+  - region/menagerie-coast
+current_location: "[[Shrine of Melora]]"
+disposition: indifferent
 ---
 # Quick Reference
 > [!info] Essential Details

@@ -1,9 +1,11 @@
 ---
 tags:
   - faction
-  - npc
+  - offscreen
+  - world/exandria
 aliases:
-  - echoforge
+  - "echoforge"
+disposition: friendly
 ---
 ![[obsidian-echoforge.png|right|100]]
 # Quick Reference
