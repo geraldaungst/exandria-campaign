@@ -1,11 +1,12 @@
 ---
 tags:
   - faction
-  - needs-work
-  - npc
+  - offscreen
+  - world/exandria
 aliases:
-  - EOTS
-  - Emissaries
+  - "EOTS"
+  - "emissaries"
+disposition: hostile
 ---
 ![[emissaries.png|right|100]]
 

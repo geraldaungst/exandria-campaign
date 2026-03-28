@@ -1,9 +1,9 @@
 ---
 tags:
   - faction
-  - npc
-cssclasses:
-  - wide-table
+  - world/exandria
+disposition: indifferent
+cssclasses: "- wide-table"
 ---
 
 # Summary of Relationships

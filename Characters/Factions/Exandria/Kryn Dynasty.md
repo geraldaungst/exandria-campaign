@@ -1,8 +1,13 @@
 ---
 tags:
   - faction
-  - needs-work
-  - npc
+  - offscreen
+  - world/exandria
+  - region/xorhas
+aliases:
+  - "the dynasty"
+current_location: "[[Rosohna]]"
+disposition: indifferent
 ---
 # Goals
 - Long-Term: 

@@ -1,9 +1,14 @@
 ---
+tags:
+  - faction
+  - world/exandria
+disposition: indifferent
 created: 2025-01-12
 context: Historical faction event
 date: 785 PD
 - atomic
 - faction-event
+
 ---
 
 # Core Information

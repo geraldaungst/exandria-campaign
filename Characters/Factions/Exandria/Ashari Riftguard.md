@@ -1,9 +1,12 @@
 ---
 tags:
   - faction
-  - npc
+  - world/exandria
+  - region/tal'dorei
 aliases:
-  - riftguard
+  - "riftguard"
+current_location: "unknown"
+disposition: indifferent
 ---
 ![[riftguard.png|right|400]]
 
