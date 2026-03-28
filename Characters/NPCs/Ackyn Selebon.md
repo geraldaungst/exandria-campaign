@@ -1,8 +1,8 @@
 ---
 tags:
-  - campaign/tyranny
+  - npc
+  - deceased
   - world/faerun
-# Ackyn Selebon
 ---
 
 Last Edited: April 8, 2021 8:14 PM
