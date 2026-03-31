@@ -1,7 +1,9 @@
 ---
 tags:
+  - npc
   - needs-work
   - world/faerun
+disposition: indifferent
 ---
 
 Last Edited: May 2, 2021 7:48 AM

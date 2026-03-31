@@ -1,8 +1,8 @@
 ---
 tags:
   - npc
-  - deceased
   - world/faerun
+disposition: indifferent
 ---
 
 Last Edited: April 8, 2021 8:14 PM
