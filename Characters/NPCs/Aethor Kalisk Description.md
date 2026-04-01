@@ -1,12 +1,16 @@
 ---
 tags:
   - npc
-  - needs-work
+  - world/exandria
+  - region/menagerie-coast
 affiliations:
-  - "Obsidian Echoforge"
+  - "[[Obsidian Echoforge]]"
+current_location: "[[Port Damali]]"
+disposition: friendly
 created: 2024-12-01
 context: 
  - atomic
+
 ---
 # Core Information
 An elderly gnome with soft, rounded features marked by lines of concentration and age. His bright blue eyes, framed by deep laugh lines, reflect a lifetime of intellectual pursuit. He wears a finely woven, aged cloak over an intricately designed tunic, with a satchel full of scrolls and tomes. A silver ring with arcane symbols adorns his finger.

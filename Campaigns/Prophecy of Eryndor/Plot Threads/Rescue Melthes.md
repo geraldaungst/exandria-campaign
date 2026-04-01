@@ -8,7 +8,7 @@ tags:
 > - Stage: Dormant (player unaware)
 > - Priority: High (once discovered)
 > - Timeline: No immediate time pressure, but Melthes has been captive since 833 PD
-> - Key Players: [[Hesterian Shyr (Dot)|Hesterian]], [[Melthes]], [[Cree Deeproots]], [[Evelia Fenzana]], [[Cerberus Assembly]]
+> - Key Players: [[Hesterian Shyr (Dot)|Hesterian]], [[Melthes]], [[Cree Deeproots]], [[Isolene Fenzana]], [[Cerberus Assembly]]
 > - Parent Plot: [[Hesterian Shyr's Infiltration]]
 > - Last Session: Not yet begun
 > - Next Steps: Hesterian must first learn the truth about what happened to her brother
@@ -28,7 +28,7 @@ Hesterian believes Melthes is "studying magic" somewhere and has no knowledge of
 ## Active Elements
 - [[Cree Deeproots]] works for [[Korfel Withrethin]] and remembers processing Melthes
 - [[Melthes]] is presumably still in Assembly custody (location unknown)
-- [[Evelia Fenzana]] oversees research division where Melthes was assigned
+- [[Isolene Fenzana]] oversees research division where Melthes was assigned
 - Hesterian is actively pursuing [[Hesterian Shyr's Infiltration|infiltration of the Myriad]], which will bring her into contact with Cree
 
 ## Blocking Issues

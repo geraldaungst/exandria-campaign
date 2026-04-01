@@ -1,10 +1,15 @@
 ---
 tags:
-  - needs-work
+  - npc
+  - world/exandria
+  - region/menagerie-coast
 affiliations:
-  - "Obsidian Echoforge"
+  - "[[Obsidian Echoforge]]"
+current_location: "[[Port Damali]]"
+disposition: friendly
 faction: Obsidian Echoforge
 location: Port Damali
+
 ---
 > [!info]- Essential Details
 > - Location: [[Port Damali]]

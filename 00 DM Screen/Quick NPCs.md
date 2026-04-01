@@ -56,7 +56,7 @@ See also [[NPC Stat Block Reference Table]]
 | Name | Race | Gender | Age | Occupation | Appearance | Distinctive Feature | Motivation | Useful Skill/Knowledge |
 |------|------|--------|-----|------------|------------|---------------------|------------|------------------------|
 | Flaviu Narrick | Human | Female | 34 | Guild Operative | Tanned skin, sharp features, short jet-black hair | Observes before speaking | Complete the mission | Stealth, guild contacts |
-| Drexel Vahn | Tiefling | Male | 34 | Rogue/Privateer | Roguish appearance | Always checking exits | Redemption | Criminal underworld, sailing |
+| Ossian Vahn | Tiefling | Male | 34 | Rogue/Privateer | Roguish appearance | Always checking exits | Redemption | Criminal underworld, sailing |
 | Renna Blackscale | Dragonborn | Female | 35 | Fence | Black scales, elegant movement | Never raises voice | Build criminal empire | Appraisal, criminal contacts |
 | Kraz the Bull | Half-Orc | Male | 32 | Thug/Enforcer | Intimidating size, broken nose, scarred knuckles | Cracks knuckles when angry | Prove his strength | Intimidation, bar fighting |
 | Pip Quickfoot | Human | Male | 14 | Street Urchin | Skinny, dirty face, quick movements | Appears from nowhere | Survive | Sneaking, shortcuts, rumors |

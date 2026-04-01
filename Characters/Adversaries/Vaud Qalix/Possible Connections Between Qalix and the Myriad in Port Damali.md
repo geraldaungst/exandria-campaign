@@ -14,9 +14,9 @@ Given the context that Vaud Qalix might have given the Blade of Maroth Fenn to a
 3. **[[Dreyara Drimvar]]:**
 - **Role:** Spymaster within Qalix's network.
 - **Reason:** As the head of espionage and intelligence, [[Dreyara Drimvar|Dreyara]] might possess the dagger for its utility in covert missions and self-defense.
-4. **Densir Halrune:**
+4. **Ru'Shan Halrune:**
 - **Role:** Head researcher and explorer locating the missing shards of the Lorestone of Eryndor.
-- **Reason:** Densir's role in seeking out powerful artifacts might make him a suitable candidate for receiving the dagger, especially if Qalix thought it might aid in his explorations.
+- **Reason:** Ru'Shan's role in seeking out powerful artifacts might make him a suitable candidate for receiving the dagger, especially if Qalix thought it might aid in his explorations.
 5. **Sirion Del'thane:**
 - **Role:** Envoy coordinating negotiations with the Empire and the Dynasty.
 - **Reason:** As a diplomat and negotiator, Sirion might have been given the dagger as a means of protection during his travels and negotiations.

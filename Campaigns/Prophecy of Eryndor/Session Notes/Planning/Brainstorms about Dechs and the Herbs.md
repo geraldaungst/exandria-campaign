@@ -97,10 +97,10 @@ These scenarios are based on the information available and are designed to provi
 **Direct Associates & Subordinates:**
 
 *   **[[Sirion Del'thane]]:** Envoy coordinating negotiations with the Empire and the Dynasty.
-*   **[[Densir Halrune]]:** Head researcher and explorer locating the missing shards of the [[Lorestone of Eryndor]].
+*   **[[Ru'Shan Halrune]]:** Head researcher and explorer locating the missing shards of the [[Lorestone of Eryndor]].
 *   **[[Dreyara Drimvar]]:** Spymaster.
 *   **[[Thok-Kynn Dalca]]:** Treasurer.
-*   **[[Quyx the Stonebinder]]:** Experienced architect and stonemason in charge of rebuilding Draconia.
+*   **[[Gorrath the Stonebinder]]:** Experienced architect and stonemason in charge of rebuilding Draconia.
 *   **[[Iliara Firth]]:** (Potential) Chronurgy Wizard to stabilize the rifts with the [[Lorestone of Eryndor]]. Qalix has not yet recruited her, but intends to.
 
 **Affiliations & Alliances:**
@@ -141,13 +141,13 @@ This revised list provides a clearer picture of Qalix's network, distinguishing 
 
 *   [[Sirion Del'thane]] is using the herbs as a bribe to sway a key official in either the Dwendalian Empire or the Kryn Dynasty. The official's support is needed to secure a strategic advantage for Qalix, such as access to a restricted area or intelligence on enemy movements.
 
-**4. [[Densir Halrune]] - Field Research:**
+**4. [[Ru'Shan Halrune]] - Field Research:**
 
-*   [[Densir Halrune]] requires the herbs for a ritual that aids in locating the missing shards of the [[Lorestone of Eryndor]]. He believes the herbs will attune him to the magical resonance of the shards, allowing him to pinpoint their location. He's using Zadash as a base of operations due to its proximity to a potential shard location.
+*   [[Ru'Shan Halrune]] requires the herbs for a ritual that aids in locating the missing shards of the [[Lorestone of Eryndor]]. He believes the herbs will attune him to the magical resonance of the shards, allowing him to pinpoint their location. He's using Zadash as a base of operations due to its proximity to a potential shard location.
 
-**5. [[Quyx the Stonebinder]] - Construction Material:**
+**5. [[Gorrath the Stonebinder]] - Construction Material:**
 
-*   [[Quyx the Stonebinder]] is experimenting with the herbs as a binding agent for the reconstruction of Draconia. He believes they possess unique properties that can strengthen the ancient stonework and make it resistant to magical attacks.
+*   [[Gorrath the Stonebinder]] is experimenting with the herbs as a binding agent for the reconstruction of Draconia. He believes they possess unique properties that can strengthen the ancient stonework and make it resistant to magical attacks.
 
 **6. Myriad Contact (Facilitated by [[Dreyara Drimvar]]) - Healing & Information:**
 

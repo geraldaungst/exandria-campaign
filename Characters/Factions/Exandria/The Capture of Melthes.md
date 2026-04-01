@@ -26,7 +26,7 @@ context:
 **Location of Recruitment:** [[Xarzith Kitril]]  
 **Location of Processing:** [[Cerberus Assembly]] research facility in [[Rexxentrum]]
 **Agents Involved:** Two Volstrucker agents (one was a former client of Hesterian's)
-**Assembly Personnel:** [[Evelia Fenzana]] (researcher), [[Cree Deeproots]] (assessment)
+**Assembly Personnel:** [[Isolene Fenzana]] (researcher), [[Cree Deeproots]] (assessment)
 
 ### The Recruitment
 
@@ -44,7 +44,7 @@ Upon arrival at the Assembly facility in [[Rexxentrum]], [[Melthes]] (then 16 ye
 **Assessment Results:**
 - Confirmed unique Feywild/Feydark connection abilities
 - Distinctive Feywild magical resonance, unlike typical magic users
-- Recommended for advanced study under [[Evelia Fenzana]]'s research division
+- Recommended for advanced study under [[Isolene Fenzana]]'s research division
 
 **Behavioral Observations:**
 - Subject was terrified

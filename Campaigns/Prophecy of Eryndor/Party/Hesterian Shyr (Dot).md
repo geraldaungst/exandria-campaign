@@ -43,7 +43,7 @@ Hesterian experiences recurring dreams where an old stranger looks her dead in t
 > 
 > The vision is actually an echo of a memory contained in a [[stone-of-memory|Stone of Memory]] that Hesterian carries, which she pickpocketed from a former client. The client was a Volstrucker agent, and the stone contains memories related to the Cerberus Assembly:
 > 
-> **Memory of Ludinus Da'leth:** You are standing in a spacious, well-organized study, overwhelmed by the scent of old tomes and alchemical concoctions. Somehow you know this is the workshop of [[Evelia Fenzana]], one of Ludinus Da'leth's top researchers. Evelia is holding a battered and rusted artifact.
+> **Memory of Ludinus Da'leth:** You are standing in a spacious, well-organized study, overwhelmed by the scent of old tomes and alchemical concoctions. Somehow you know this is the workshop of [[Isolene Fenzana]], one of Ludinus Da'leth's top researchers. Isolene is holding a battered and rusted artifact.
 > 
 > This memory may become relevant when Hesterian's quest intersects with Assembly-related plots, particularly through [[Cree Deeproots]]' background with the Assembly and potential connection to [[Melthes]].
 
@@ -193,12 +193,12 @@ I once had a dream where an old stranger looked me dead in the eye, screamed “
 The vision is actually an echo of a memory contained in a trinket Hesterian carries which she pickpocketed from a former client. The trinket is a [[stone-of-memory|Stone of Memory]], containing two memories. The client from whom she stole the item was a Volstrucker agent. The Stone has the following memory recorded:
 
 > [!info]- Memory of Ludinus Da'leth
-> You are standing in a spacious, well-organized study, you are overwhelmed by the scent of old tomes and alchemical concoctions. Somehow you know this is the workshop of  [[Evelia Fenzana]], one of Ludinus Da'leth's top researchers. Evelia is holding a battered and rusted artifact.
-> She murmurs, "This... this could be a link to the [[Rupture of the Molaesmyr Fey Crossing|Molaesmyr cataclysm]], but its revelation... too dangerous." A female half-elf with an elegant stature, Evelia has sharp, angular features and long, straight silver hair that cascades over her shoulders. Her eyes, a piercing blue, flicker with a keen intellect. She wears robes of deep blue adorned with silver thread, signifying her high rank within the [[Cerberus Assembly]].
-> Peering over from the other side of the worktable, Evelia's assistant Gorak whispers in awe, "Is that fomorian?" Gorak is a male half-orc with a towering, muscular build, slightly greenish skin tone and prominent tusks. His dark hair is cut short, and his deep-set eyes are keen and observant. He wears heavy, dark, very practical robes, and he moves with a surprising grace for his size.
-> "Yes, but we must tread carefully," Evelia responds, her tone serious.
+> You are standing in a spacious, well-organized study, you are overwhelmed by the scent of old tomes and alchemical concoctions. Somehow you know this is the workshop of  [[Isolene Fenzana]], one of Ludinus Da'leth's top researchers. Isolene is holding a battered and rusted artifact.
+> She murmurs, "This... this could be a link to the [[Rupture of the Molaesmyr Fey Crossing|Molaesmyr cataclysm]], but its revelation... too dangerous." A female half-elf with an elegant stature, Isolene has sharp, angular features and long, straight silver hair that cascades over her shoulders. Her eyes, a piercing blue, flicker with a keen intellect. She wears robes of deep blue adorned with silver thread, signifying her high rank within the [[Cerberus Assembly]].
+> Peering over from the other side of the worktable, Isolene's assistant Gorak whispers in awe, "Is that fomorian?" Gorak is a male half-orc with a towering, muscular build, slightly greenish skin tone and prominent tusks. His dark hair is cut short, and his deep-set eyes are keen and observant. He wears heavy, dark, very practical robes, and he moves with a surprising grace for his size.
+> "Yes, but we must tread carefully," Isolene responds, her tone serious.
 > You feel yourself fidgeting nervously, and then you say, "Shouldn't the Assembly be informed?"
-> Evelia hesitates for a moment, then shakes her head and looks you square in the eyes. "No. The potential for panic and political upheaval is too high. This stays between these walls."
+> Isolene hesitates for a moment, then shakes her head and looks you square in the eyes. "No. The potential for panic and political upheaval is too high. This stays between these walls."
 > You feel a surge of responsibility. This secret, it's too big, too vital to be hidden away. The world needs to know.
 
 The stone also contains an echo of a previous memory, which is the source of the vision. The holder of the stone was a Volstrucker agent, and the echo is recalling a moment when the agent was recognized by an associate. The flames in the vision are the mind's interpretation of the fragmented memory of the fear and panic the agent felt at the time of the event.

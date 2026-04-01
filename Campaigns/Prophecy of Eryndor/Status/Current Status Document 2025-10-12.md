@@ -33,7 +33,7 @@ tags:
   - Activity: Searching for Lorestone shards, building a network of spies and collectors
   - Goal: Assemble the Lorestone of Eryndor to control planar rifts and restore Draconia
   - Resources: 750,000gp storehouse, 10 spies, 75 researchers, 12 arcane users
-  - Lieutenants: Sirion Del'thane, Densir Halrune, Dreyara Drimvar, Thok-Kynn Dalca, Quyx the Stonebinder
+  - Lieutenants: Sirion Del'thane, Ru'Shan Halrune, Dreyara Drimvar, Thok-Kynn Dalca, Gorrath the Stonebinder
 
 - **Ceratos** (Qalix's patron)
   - True goal: Create permanent, unstable rift to Far Realm

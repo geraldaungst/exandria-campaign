@@ -32,10 +32,10 @@ Stakes: Nothing else matters. All in.
 - 12 arcane magic users investigating how to stabilize the rifts with the Lorestone (to be led by a [[Iliara Firth|Chronurgy Wizard]] not yet recruited by Qalix).
 - 5 other Villains heading up specific parts of his operation:
 	- [[Sirion Del'thane]] - Envoy coordinating negotiations with the Empire and the Dynasty (though each side does not know the other is beeing wooed)
-	- [[Densir Halrune]] - Head researcher and explorer locating the missing shards
+	- [[Ru'Shan Halrune]] - Head researcher and explorer locating the missing shards
 	- Spymaster [[Dreyara Drimvar]]
 	- [[Thok-Kynn Dalca]] - Treasurer
-	- [[Quyx the Stonebinder]] - Experienced architect and stonemason who is in charge of rebuilding Draconia.
+	- [[Gorrath the Stonebinder]] - Experienced architect and stonemason who is in charge of rebuilding Draconia.
 #### Needed
 - Location of Shards 7 and 8
 - Components from the Elemental Planes to cleanse the shards

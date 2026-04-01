@@ -1,9 +1,12 @@
 ---
 tags:
   - npc
-  - needs-work
+  - world/exandria
+  - region/menagerie-coast
 affiliations:
   - "[[Clasp]]"
+current_location: "[[Aelorin's Headquarters]]"
+disposition: indifferent
 ---
 [[Qilynn Duskwhisper (Nicole)|Qilynn]]'s mentor and trainer.
 

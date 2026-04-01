@@ -20,7 +20,7 @@ disposition: friendly
 ## Leadership Structure
 ### Current Leadership
 - [[Lyren Willowwhisper]] - Current Leader (resides at the [[Palma Flora]] facility)
-- [[Aelora Willowwhisper]] - Former leader, now advisor (and [[Lyren Willowwhisper|Lyren]]'s aunt, also resides at [[Palma Flora]])
+- [[Veyda Willowwhisper]] - Former leader, now advisor (and [[Lyren Willowwhisper|Lyren]]'s aunt, also resides at [[Palma Flora]])
 
 ### Historical Leadership
 The Willowwhisper lineage has led the organization through multiple generations:
@@ -35,7 +35,7 @@ The Willowwhisper lineage has led the organization through multiple generations:
 | Caelan Willowwhisper     | Guardian Era       | Rebranded as "Windwhisper Guardians" | Established protection protocols                |
 | Naela Willowwhisper      | Time of Strife     | Preserved group unity                | Diplomatic conflict resolution methods          |
 | Sylas Willowwhisper      | Modern Era         | Introduced arcane detection          | Current technological foundation                |
-| [[Aelora Willowwhisper]] | Recent Past        | Expanded collection facilities       | Established [[Palma Flora]] base                |
+| [[Veyda Willowwhisper]] | Recent Past        | Expanded collection facilities       | Established [[Palma Flora]] base                |
 | [[Lyren Willowwhisper]]  | Present            | Current operations                   | Active leadership                               |
 
 ## Notable Members

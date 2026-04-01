@@ -1,23 +1,47 @@
 ---
 tags:
-  - needs-work
   - npc
+  - region/menagerie-coast
+  - world/exandria
+home_city: "Palma Flora"
 affiliations:
   - "[[Obsidian Echoforge]]"
 aliases:
-  - lyren
+  - Lyren
 ---
-The present leader of [[Obsidian Echoforge]], young and driven, Lyren is known for her determination and resilience. Under her guidance, the group hopes to finally complete the [[01 The Prophecy|prophecy]] and uncover the last fragment.
+> [!Note] ## ⚠️ Needs Planning
+> Lyren will almost certainly make contact with the party soon after Aethor reports back. 
+> 
+> Before that session: decide the story beat that triggers contact, and her opening position (recruit, negotiate, or assess). See [[Aethor Kalisk]] for current state of his knowledge.
 
-Lyren currently has possession of 3 Shards of the [[Lorestone of Eryndor]]. She rarely carries all of them with her, instead keeping them in a magically locked and trapped chest among her belongings.
+Current leader of the [[Obsidian Echoforge]]. Young, driven, and still proving herself — her ascendancy was contested, and she knows it. Her leadership style is practical and alliance-minded; she has broadened the Echoforge's reach beyond what her predecessors managed, but she carries the weight of a legacy she didn't choose and a position she didn't fully earn in the eyes of everyone who serves her.
 
-[[Aelora Willowwhisper|Aelora]] is Lyren's maternal aunt. [[Aelora Willowwhisper|Aelora]]'s older sister, Selene Willowwhisper, was Lyren's mother. Selene, tragically lost during a previous expedition when Lyren was but a child, was a revered leader of the group before [[Aelora Willowwhisper|Aelora]] took the mantle. [[Aelora Willowwhisper|Aelora]], stepping in not only as a leader but also as a guardian figure for young Lyren, shared tales of their lineage, instilling in her the importance of their quest and the weight of the Willowwhisper legacy. This familial bond and shared history have further complicated and enriched their dynamic over the years.
+Her aunt [[Veyda Willowwhisper]] raised her after her mother Selene — Veyda's older sister, and the previous leader — was lost on an expedition. For the circumstances of how Lyren came to lead, see [[Veyda Willowwhisper#Lyren's Ascendancy|Lyren's Ascendancy]].
 
-_Appearance:_ Lyren possesses a youthful exuberance, evident in her sprightly gait and radiant smile. Standing taller than [[Aelora Willowwhisper|Aelora]], she inherited the deep blue eyes of her lineage but sports a shorter, wild mane of raven-black hair with subtle hints of emerald. Unlike her predecessor, Lyren opts for more practical attire, favoring leather armor and cloaks, which allows her agility and freedom during her quests. Around her neck, she wears a pendant—the [[Shard of Willow's Legacy]]—an intricately designed shard of the first discovered fragment.
+_Appearance:_ Tall, with the deep blue eyes of the Willowwhisper lineage, and short raven-black hair with faint emerald undertones. Practical leather armor and traveling cloaks rather than robes. Wears a pendant — the [[Shard of Willow's Legacy]], an heirloom fragment — around her neck at all times.
 
-_Biography:_ Growing up listening to [[Aelora Willowwhisper|Aelora]]'s tales, Lyren was always eager to embark on quests of her own. As a child, she displayed remarkable agility and aptitude for deciphering riddles and puzzles. Training under various mentors, she honed her skills in combat, strategy, and diplomacy. Her leadership style is a blend of tradition and innovation. Lyren understands the weight of her legacy but is not bound by it. She has fostered alliances with other influential groups in Exandria, broadening the reach and resources of the Willowwhisper quest. Passionate and driven, Lyren is determined to uncover the last fragment and complete the [[01 The Prophecy|prophecy]] that her ancestors have dedicated their lives to.
+## What She Holds
 
-## [[Recruiting Aethor Kalisk]]
-While Lyren was still young, she was on a mission to track down one of the shards. Her travels took her to Hupperdook, where she encountered [[Aethor Kalisk]]. [[Aethor Kalisk|Aethor]] saved her life, Lyren was impressed, and after several years of trying to recruit him, she finally convinced [[Aethor Kalisk|Aethor]] to join the group and provide them with essential research guidance.
+Lyren has possession of shards 1–4 of the [[Lorestone of Eryndor]], secured at the Palma Flora facility. She rarely carries them on her person, keeping them in a magically locked and trapped chest.
 
-![[The Controversial Ascendancy of Lyren Willowwhisper#Core Information]]
+## What She Knows
+
+Lyren is aware that [[Vaud Qalix]] is actively working against the Echoforge and wants the shards. She does not yet know the full scope of his plan, that he specifically intends to trick or kill her to obtain them, or that he is manipulated by a Far Realm entity. She regards him as a well-resourced and dangerous rival, not yet as an existential threat.
+
+She is not aware of the party or the [[Luxon Beacon]] they carry.
+
+## What She's Doing
+
+Lyren is actively pursuing shards 5–8 through conventional Echoforge methods — research, contacts, and field agents like [[Aethor Kalisk]]. She is also working to shore up alliances with other factions, though the Malachite Cord relationship is tense and the Emissaries of the Sunfall are unreliable.
+
+She is spending increasing resources on security and counterintelligence as Qalix's network becomes more aggressive. Caelum Silverstride's quiet faction within the Echoforge is a low-level internal concern she monitors but hasn't directly addressed.
+
+## When She Learns About the Party
+
+Lyren will want to know three things immediately: what they know about the shards, whether they can be trusted, and whether they are working for anyone she should worry about. She is not hostile by default, but she is careful. Anyone Aethor Kalisk vouches for gets more latitude than they might otherwise receive.
+
+The Luxon Beacon will complicate things — it has Kryn Dynasty implications she'll need to think through carefully, and it connects to Qalix's known shopping list in ways that will alarm her.
+
+## In a Scene
+
+Lyren leads with competence, not warmth. She listens before she speaks, and when she does speak she's direct. The awkward undercurrent with Veyda — if Veyda is present — is real but neither of them will name it unprompted.

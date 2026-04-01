@@ -131,7 +131,7 @@ region: Dwendalian Empire
 
 - Internal structure and research methodologies
 - Security procedures and counter-intelligence techniques
-- Key researchers and their specializations (like [[Evelia Fenzana]])
+- Key researchers and their specializations (like [[Isolene Fenzana]])
 - Standard procedures for handling "special acquisitions"
 - **Specific Memory:** Processing and assessment of a young half-elf named [[Melthes]] with Feywild connection abilities
 
@@ -146,7 +146,7 @@ region: Dwendalian Empire
 - Cree was assigned to use her blood magic abilities to evaluate his magical potential
 - **Assessment Results:** Confirmed his unique Feywild/Feydark connection abilities
 - **Emotional Observation:** Subject was terrified, kept asking about his family and when he could go home
-- **Professional Notes:** Recommended for advanced study under Evelia Fenzana's research division
+- **Professional Notes:** Recommended for advanced study under Isolene Fenzana's research division
 
 **What Cree Remembers:**
 
@@ -203,7 +203,7 @@ Based on Critical Role Campaign 2 information about Cree's employment with The G
 
 - [[Korfel Withrethin]] (The Gentleman) - Current employer and primary loyalty
 - [[Cerberus Assembly]] researchers and personnel - Former colleagues/captors
-- [[Evelia Fenzana]] - Assembly researcher she worked under
+- [[Isolene Fenzana]] - Assembly researcher she worked under
 - [[Melthes]] - Young half-elf she processed during Assembly employment
 - [[Hesterian Shyr (Dot)]] - Will likely encounter during infiltration attempts (unknown connection to Melthes)
 
