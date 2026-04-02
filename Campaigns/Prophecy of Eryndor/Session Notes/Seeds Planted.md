@@ -2,7 +2,7 @@
 tags:
   - campaign/eryndor
 ---
-![[What Radelia Knows#Core Information]]
+[[Radelia Caphax]]
 
 - [[Aethor Kalisk]] met with [[Calderax Dunhall]]
 - Aethor also visited the PD Cobalt Soul library (met with [[Archivist Vani]] who also helped the players)

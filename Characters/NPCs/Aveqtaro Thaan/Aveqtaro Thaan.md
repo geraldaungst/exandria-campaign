@@ -58,4 +58,3 @@ memory recovery directly serves their ability to navigate the Dynasty's claim.
 *See also: [[Luxon Beacon Political Consequences]]*
 ## **What Aveqtaro Knows When the Party Encounters Her Later**
 
-![[What Aveqtaro Thaan Knows#Core Information]]

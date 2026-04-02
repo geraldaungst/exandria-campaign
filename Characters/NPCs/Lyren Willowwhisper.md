@@ -35,7 +35,7 @@ Based at [[Palma Flora]], leading the [[Obsidian Echoforge]]'s operations. Holds
 Growing increasingly urgent about the rift situation — the rifts are worsening, Qalix is stealing shards, and the [[Malachite Cord]] is obstructing rather than helping. She believes delay costs lives, and she's not entirely wrong.
 
 **Key relationships:**
-- [[Aelora Willowwhisper]] — aunt, former leader, now advisor. Genuine bond complicated by legacy and Aelora's unspoken guilt.
+- [[Veyda Willowwhisper]] — aunt, former leader, now advisor. Genuine bond complicated by legacy and Veyda's unspoken guilt.
 - [[Aethor Kalisk]] — trusted researcher. She speaks of him warmly: "He speaks highly of you, and Aethor doesn't speak highly of anyone."
 - [[Malachite Cord]] / [[Rinneth Starsong]] — views them as well-meaning obstructionists whose caution is going to get people killed
 
@@ -47,7 +47,7 @@ Growing increasingly urgent about the rift situation — the rifts are worsening
 > 
 > **What she doesn't reveal easily:**
 > - The internal Echoforge tension over her legitimacy still simmers (Caelum Silverstride's skeptic faction is quiet but watching)
-> - She's aware Aelora holds something back but hasn't pressed — respects her aunt too much, and fears the answer
+> - She's aware Veyda holds something back but hasn't pressed — respects her aunt too much, and fears the answer
 > - Her urgency isn't purely strategic; she feels the Willowwhisper legacy as personal debt and fears being the leader who failed after 400 years of progress
 >
 > **Potential "oh wait" triggers — moments where the party's interests and Lyren's diverge:**
@@ -60,7 +60,7 @@ Growing increasingly urgent about the rift situation — the rifts are worsening
 > **Design note:** These aren't scripted betrayals. They're pressure points where Lyren's genuine urgency and the party's broader perspective will naturally create friction. Let them emerge from play rather than forcing them.
 
 > [!note]- Background
-> Current leader of the [[Obsidian Echoforge]], carrying a 400-year Willowwhisper family legacy. Her mother Selene died on an expedition when Lyren was a child; her aunt [[Aelora Willowwhisper]] raised her and led the organization until disappearing during an expedition in the Shattered Teeth. Lyren was named leader in Aelora's absence — not unanimously, with a faction led by Caelum Silverstride arguing for merit over bloodline. When Aelora returned alive months later, she publicly endorsed Lyren and stepped into an advisory role, stabilizing the transition but not fully silencing the doubters.
+> Current leader of the [[Obsidian Echoforge]], carrying a 400-year Willowwhisper family legacy. Her mother Selene died on an expedition when Lyren was a child; her aunt [[Veyda Willowwhisper]] raised her and led the organization until disappearing during an expedition in the Shattered Teeth. Lyren was named leader in Veyda's absence — not unanimously, with a faction led by Caelum Silverstride arguing for merit over bloodline. When Veyda returned alive months later, she publicly endorsed Lyren and stepped into an advisory role, stabilizing the transition but not fully silencing the doubters.
 > 
 > Recruited [[Aethor Kalisk]] after he saved her life during an ambush in [[Hupperdook]]. It took years of persistence before he agreed to join — she won him over by showing him a Lorestone fragment that resonated with his research.
 

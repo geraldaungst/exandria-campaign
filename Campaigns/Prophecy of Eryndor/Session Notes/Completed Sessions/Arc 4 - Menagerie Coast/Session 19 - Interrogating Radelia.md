@@ -24,14 +24,14 @@ next_session:
 
 ## Core Content
 ### Potential Scenes
-1. Discussion about [[What Radelia Knows]]
+1. Discussion about [[Radelia Caphax]]
 
 ### Location Details
 - Location name: [[The Shrine of Melora]]
 
 # Session Notes
 ## Timeline
-- ![[What Radelia Knows#Core Information]]
+- [[Radelia Caphax]]
 ## Next Session Planning
 ### Likely Next Steps
 Consider:
