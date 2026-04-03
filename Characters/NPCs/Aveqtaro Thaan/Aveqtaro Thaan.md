@@ -3,58 +3,109 @@ tags:
   - npc
   - world/exandria
   - region/xhorhas
-affiliations:
-  - "[[Kryn Dynasty]]"
 aliases:
   - aveqtaro
+current_location: "[[Rosohna]]"
+affiliations:
+  - "[[Kryn Dynasty]]"
 ---
+# Quick Reference
+
+> [!info] Essential Details
+> - **Location:** [[Rosohna]] — workshop in a mid-tier artisan district
+> - **Occupation:** Precision instrument-maker specializing in tools for measuring and interacting with magical phenomena (rift detectors, dunamantic focusing lenses, calibration devices)
+> - **Goal:** Find someone she can be fully honest with. She doesn't know that's what she wants yet.
+> - **Attitude toward party:** Professional caution → guarded warmth → genuine trust (earned through roleplay, not checks)
+> - **Key knowledge:** See [[What Aveqtaro Thaan Knows]] (staged by campaign progress)
+> - **Critical:** Reincarnation of [[Cadariel Ordo]]. She does not know this. The [[Obsidian Echoforge]] does not yet know she exists.
+
+# Description & Roleplay
+
 ![[aveqtaro-thaan.png|right|300]]
 
-Aveqtaro Thaan is a drow who is the reincarnation of [[Cadariel Ordo]]. The [[Obsidian Echoforge]] believe she is actually the reincarnation of [[Eryndor]], the prophet, and because Luxon Beacons are associated with the Beacon prophesied to seal the rifts.
+Drow woman, appears late twenties in human terms (actual age ~80–120). Short curly dark hair cut to stay out of her way. Pale violet-gray skin, striking blue-violet eyes. Practical build — lean, used to working with her hands. Wears wrapped dark clothing with leather arm guards and a tool belt. Never without drafting instruments.
 
-Though she is not aware of this early in the campaign, her gradual realization of her true nature could unlock latent memories or intuitive understandings of Exandria's arcane geographies. Thaan might experience flashes of insight that correlate with [[Eryndor]]’s prophecies, revealing **lost lore:** Memories of conversations with [[Eryndor]], including wisdom that might shed light on ambiguous parts of the [[01 The Prophecy|prophecy]] or suggest strategies for dealing with the rifts beyond simply sealing them.
+- **Voice:** Confident and precise when talking about her work. Loses that precision when the conversation moves to personal territory — sentences get longer, less structured, she reaches for words she can't find. Not evasive; genuinely inarticulate about things she hasn't resolved internally.
+- **Mannerisms:** Handles tools or fidgets with instruments when thinking. Makes steady eye contact during professional conversations, breaks it when uncomfortable. Keeps her workspace obsessively organized; her living space less so.
+- **Key traits:** Warm and professional in her element. Stubborn when pushed on things she's not ready to discuss. Quietly generous with her time and expertise. Reads constantly.
+- **The rule:** She speaks with confidence about things she understands and hesitancy about things she doesn't. That's the only mode shift you need to play.
 
-This knowledge could make Thaan an invaluable guide to the PCs, offering them a unique edge in their quest. As someone who once mapped the unseen and the spaces between, her insight would be unmatched, turning her into a different kind of key—a guide to navigating the chaos threatening to engulf their world.
+## Humor
 
-## **Dual-Artifact Knowledge from Past Life Memories**
+Her default is cheerful and optimistic. When things go wrong, her anxiety surfaces as dry, dark humor — delivered casually and without self-pity, like she's mildly unsurprised that the universe is misbehaving again.
 
-As Aveqtaro's memories as Cadariel Ordo gradually surface, she gains critical insights about the relationship between two powerful artifacts that the Obsidian Echoforge doesn't fully understand:
+- *A tool breaks mid-calibration:* "Well, that one's returned to the Luxon ahead of schedule."
+- *Someone describes a dangerous plan:* "That sounds efficient. We'll skip straight to the consequences."
+- *A client brings a badly damaged instrument:* "I'm flattered you thought of me. Most people just hold a funeral."
+- *Things going wrong in quick succession:* "This is fine. I always wanted to find out how much could go wrong in one day. Now I'll know."
 
-**The Lorestone-Beacon Connection**: Through fragmentary memories of conversations with Eryndor, Aveqtaro begins to recall that the prophet spoke not of one beacon, but of two different types of "beacons" working in tandem. The Lorestone of Eryndor was designed to function as a "prophetic beacon" - a guide for sealing rifts - while the Luxon Beacons serve as "temporal anchors" that can stabilize the flow of time around chaotic planar breaches. Eryndor's original vision required both artifacts working together.
+# Current Situation
 
-**Cadariel's Cartographic Insights**: As the memories strengthen, Aveqtaro recalls that Cadariel mapped the intersection points where ley lines and temporal currents converge - the precise locations where a Lorestone and Luxon Beacon could be used together most effectively. His lost master map didn't just chart physical locations, but temporal-planar nexuses where the dual-artifact approach would be most powerful.
+**Workshop:** Runs a small operation — a few employees (at least one apprentice, possibly a journeyman). Known in her district for quality work. Clients include Dynasty military, civil infrastructure, and private researchers. Reputation: reliable specialist, fair prices, doesn't cut corners.
 
-**The Missing Ritual Components**: Most crucially, Aveqtaro's recovered memories reveal that Eryndor's original instructions included specific ritual components and timing that require both artifacts. The Lorestone provides the "frequency" for closing rifts, while a Luxon Beacon provides the temporal stability to prevent the closing process from creating dangerous time distortions. Without both working in harmony, attempts to close major rifts risk creating temporal fractures.
+**Den:** Born member of a Rosohna den. Gradually pulling away — skipping gatherings, avoiding consecution rituals, giving thin excuses. Her family notices and is hurt. She feels guilty but can't explain why she's withdrawing because she doesn't fully understand it herself.
 
-**Correcting the Obsidian Echoforge's Assumptions**: These memories put Aveqtaro in the unique position of knowing that the Obsidian Echoforge's current approach - seeking to use the Lorestone alone - is incomplete. However, her memories also reveal that simply possessing both artifacts isn't enough; the wielder must understand the precise geometric and temporal alignments that Cadariel mapped, knowledge that died with him and has been reborn with her.
+**The crisis:** She experiences past-life echoes — intuitions, flashes of déjà vu, unexplained spatial/geometric knowledge — that feel like what consecuted elders describe, but she has never undergone consecution. No one can explain this. She has stopped asking. The unresolvable question is slowly isolating her from the people and faith that structure Kryn life.
 
-**The Dynasty's Misunderstanding**: Equally important, Aveqtaro realizes that the Kryn Dynasty's assumption that all Luxon Beacons serve the same purpose is incorrect. While most Beacons facilitate consecution and time magic, certain ones - those Cadariel helped Eryndor identify - were specifically attuned for planar stabilization work. The beacon the Dynasty found in the Shattered Teeth expedition might be one of these specialized artifacts, making it far more valuable than they realize.
+**Coping:** She leans into her work. She reads voraciously — especially Empire texts obtained through a black market book dealer in Rosohna, which she rationalizes as research material. She listens to Dwendalian music alone, late at night. She has taught herself to play an instrument (badly, and she likes that it's the one thing she does where imprecision doesn't bother her).
 
-**Progressive Memory Recovery**: Initially, these insights come as vague intuitions and half-remembered conversations. As the campaign progresses and Aveqtaro encounters Lorestone shards or Luxon Beacons, the proximity to these artifacts triggers stronger memory episodes, gradually revealing more complete information about proper dual-artifact usage, ritual timing, and the locations where both artifacts can be used most effectively.
+**Home:** Lives above or adjacent to her workshop. Projects migrate from workbench to kitchen table. One intentional personal space — a reading nook or window seat — where the Empire music gets played and the illegal books get read.
 
-## Role as Dynasty Bridge
+**Relationships:** Colleagues who respect her, den-mates who care about her, regular clients she's friendly with. No intimate relationships — romantic or deep friendship. She's walled off the part of herself that doesn't make sense, and you can't be fully known by someone while hiding the thing that most defines your inner life.
 
-Aveqtaro is uniquely positioned to resolve the political tension created by the 
-party holding a [[luxon-beacon-egw|Luxon Beacon]] the [[Kryn Dynasty]] will 
-eventually claim as sacred.
+> [!secret]- Hidden Information
+> 
+> **What she is:** The reincarnation of [[Cadariel Ordo]], an elven cartographer from the Age of Arcanum who worked closely with [[Eryndor]]. The mechanism of her reincarnation is unresolved — it may or may not involve consecution. This question can remain open in DM notes until it matters.
+> 
+> **What she doesn't know:** She has no knowledge of Cadariel, Eryndor, the Lorestone, or why she has the experiences she does. Her professional skill with magical measurement instruments is unconsciously guided by Cadariel's expertise with ley lines and planar geography.
+> 
+> **The book dealer:** She has a relationship with a black market dealer in Rosohna who supplies Empire texts and music. This person knows her habits and could be leveraged by anyone looking for her.
+> 
+> **The Echoforge connection (future):** The [[Obsidian Echoforge]] does not currently know about her. When they learn of her, they will incorrectly believe she is the reincarnation of [[Eryndor]], not Cadariel. How they learn of her is undecided — possibilities include rumors about a Kryn artisan with unusual knowledge, her black market contacts being traced, or her work products attracting scholarly attention.
+> 
+> **What her employees notice:** She sketches things in margins that she doesn't remember drawing. She occasionally solves problems using methods she was never taught. She's been distracted and withdrawn lately. An attentive apprentice or colleague could describe these changes to the party before Aveqtaro herself is willing to.
 
-Most Dynasty officials will approach the Beacon's recovery as a theological 
-imperative—that object belongs with its people regardless of circumstances. 
-Aveqtaro, as her memories deepen, will understand what no official currently 
-does: that the Beacon in the party's hands, combined with the assembled 
-[[Lorestone of Eryndor]], is the only means of closing the rifts without 
-catastrophic failure. Returning it prematurely is the more dangerous choice 
-for the Dynasty and for Exandria.
+> [!note]- Background
+> 
+> - Born and raised in [[Rosohna]], member of a birth den in moderate standing
+> - Showed aptitude for precision craftswork young; apprenticed to an instrument-maker
+> - Built her reputation over decades; now mid-career with her own small workshop
+> - Past-life echoes have been present her whole life but intensified in recent years
+> - Began withdrawing from den life and Luxon observances ~2–3 years ago
+> - The Empire culture interest predates the withdrawal — she's been buying black market books for years — but it's accelerated as her faith has eroded
 
-She can make this argument from within Dynasty structures with an authority 
-the party could never claim—not as an outsider asking for an exception, but 
-as someone with recovered knowledge of why the artifacts were designed to work 
-together in the first place.
+# Subnotes
 
-**This makes the party's relationship with Aveqtaro practically urgent**, not 
-just narratively interesting. Finding her, building trust, and supporting her 
-memory recovery directly serves their ability to navigate the Dynasty's claim.
+- [[What Aveqtaro Thaan Knows]] — staged information by campaign progress
+- [[Aveqtaro Memory Recovery Tracker]] — triggers, pacing, what surfaces when
+- [[Aveqtaro Dynasty Bridge]] — political navigation, what she can argue and to whom
 
-*See also: [[Luxon Beacon Political Consequences]]*
-## **What Aveqtaro Knows When the Party Encounters Her Later**
+# Connected Elements
 
+## NPCs
+```dataview
+LIST
+FROM #npc
+WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
+```
+
+## Places
+```dataview
+LIST
+FROM #location
+WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
+```
+
+## Items
+```dataview
+LIST
+FROM #artifact
+WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
+```
+
+## Plot Threads
+```dataview
+LIST
+FROM #plot
+WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
+```
