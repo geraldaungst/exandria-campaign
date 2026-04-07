@@ -1,5 +1,7 @@
 ---
-
+tags:
+  - region/menagerie-coast
+  - world/exandria
 ---
 ## 4. Security Corridor
 
