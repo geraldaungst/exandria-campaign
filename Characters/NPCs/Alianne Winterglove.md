@@ -1,9 +1,11 @@
 ---
 tags:
-  - campaign/tyranny
-  - world/faerun
-# Alianne Winterglove
-
+  - npc
+  - world/toril
+  - region/sword-coast
+current_location: "unknown"
+disposition: indifferent
+---
 Last Edited: April 8, 2021 7:59 PM
 Tags: NPC
 

@@ -1,15 +1,15 @@
 ---
 tags:
   - npc
-  - needs-work
-  - region/menagerie-coast
   - world/exandria
-home_city: "Port Damali"
-current_location: "Port Damali"
+  - region/menagerie-coast
+aliases:
+  - "Aethor"
 affiliations:
   - "[[Obsidian Echoforge]]"
-aliases:
-  - Aethor
+current_location: "[[Port Damali]]"
+disposition: friendly
+home_city: "Port Damali"
 ---
 # Quick Reference
 > [!info] Essential Details

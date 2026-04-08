@@ -1,8 +1,11 @@
 ---
 tags:
-  - campaign/tyranny
-  - world/faerun
-# Aravax Foxtraveler
+  - npc
+  - world/toril
+  - region/sword-coast
+current_location: "[[Baldur's Gate]]"
+disposition: indifferent
+---
 
 Last Edited: May 1, 2021 8:35 PM
 Tags: NPC

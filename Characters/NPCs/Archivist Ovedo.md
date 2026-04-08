@@ -1,9 +1,19 @@
 ---
 tags:
-  - needs-work
   - npc
+  - hook
+  - world/exandria
   - region/dwendalian-empire
+aliases:
+  - "Ovedo"
+affiliations:
+  - "[[Cobalt Soul]]"
+current_location: "[[Cobalt Soul Archive (Rexxentruum)]]"
+disposition: indifferent
+---
+
 ![[ovedo.webp|right|300]]
+
 Archivist at the Rexxentrum Archive of the [[Cobalt Soul]]. A nonbinary half-elf (they/them) with short pink hair with a rat tail. They have a dry and sarcastic sense of humor. They have a neurological disorder that makes them excel at details, but also causes frequent insomnia. They have an eidetic memory. They work slowly and methodically, but are incredibly persistent and thorough. They are used to getting what they want, usually through relentless planning and preparation.
 
 Ovedo is a distinctive figure within the hallowed halls of the Rexxentrum Archive of the Cobalt Soul, a repository of knowledge in the world of Exandria. As a nonbinary half-elf, they possess a unique blend of elven grace and human resilience, marked by their striking short pink hair that stands out against their pale, almost luminescent skin—a deliberate contrast to the more traditional hues found among their kin. The rat tail, a slender braid that trails behind, adds a touch of rebelliousness to their appearance, hinting at a personality that refuses to conform to the expected norms of either their elven or human heritage.

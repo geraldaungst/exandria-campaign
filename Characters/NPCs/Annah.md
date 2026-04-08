@@ -1,5 +1,15 @@
 ---
 tags:
+  - npc
+  - world/exandria
+  - region/menagerie-coast
+affiliations:
+  - "[[Party]]"
+current_location: "[[Harmony Hall]]"
+disposition: friendly
+---
+---
+tags:
   - needs-work
   - npc
   - region/menagerie-coast
