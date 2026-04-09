@@ -1,9 +1,10 @@
 ---
 tags:
-  - campaign/tyranny
-  - world/faerun
-# Azbara Jos
-
+  - npc
+  - world/toril
+  - region/sword-coast
+disposition: hostile
+---
 Last Edited: May 1, 2021 8:33 PM
 Tags: NPC
 

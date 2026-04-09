@@ -2,12 +2,13 @@
 tags:
   - npc
   - world/exandria
-  - region/xhorhas
+  - region/xorhas
 aliases:
-  - aveqtaro
-current_location: "[[Rosohna]]"
+  - "aveqtaro"
 affiliations:
   - "[[Kryn Dynasty]]"
+current_location: "[[Rosohna]]"
+disposition: indifferent
 ---
 # Quick Reference
 
