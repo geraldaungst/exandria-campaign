@@ -1,10 +1,17 @@
 ---
 tags:
-  - atomic
-  - needs-work
+  - npc
+  - world/exandria
   - region/dwendalian-empire
+aliases:
+  - "Cree"
+affiliations:
+  - "[[Myriad]]"
+current_location: "[[Zadash]]"
+disposition: indifferent
 created: 2025-09-28
 context:
+
 ---
 home_city: Zadash
 region: Dwendalian Empire
