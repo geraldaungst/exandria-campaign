@@ -1,10 +1,13 @@
 ---
 tags:
   - npc
+  - hook
   - world/exandria
-  - region/tal-dorei
+  - region/tal'dorei
 affiliations:
-  - none
+  - "none"
+current_location: "[[Rexxentrum]]"
+disposition: friendly
 ---
 # Quick Reference
 > [!info] Essential Details

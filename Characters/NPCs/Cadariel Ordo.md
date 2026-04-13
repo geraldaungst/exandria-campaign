@@ -1,8 +1,10 @@
 ---
 tags:
   - npc
+  - deceased
   - world/exandria
   - region/age-of-arcanum
+disposition: indifferent
 ---
 Cadariel was a renowned elven cartographer and lorekeeper during the Age of Arcanum, a time when the world was suffused with potent magics and the boundaries between planes were tantalizingly thin. He was an elf of great curiosity and intellect, driven by the desire to map not only the physical realms of Exandria but also the ethereal pathways between worlds. Cadariel was an associate of [[Eryndor]], the prophet, sharing a deep respect for knowledge and the mysteries of the universe.
 

@@ -4,9 +4,11 @@ tags:
   - world/exandria
   - region/menagerie-coast
 aliases:
-  - berinon
+  - "berinon"
 affiliations:
   - "[[Emissaries of the Sunfall]]"
+current_location: "[[Port Damali]]"
+disposition: hostile
 ---
 
 ![[berinon-truegust.png|right|200]]

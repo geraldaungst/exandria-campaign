@@ -1,8 +1,11 @@
 ---
 tags:
-  - needs-work
   - npc
+  - world/exandria
   - region/menagerie-coast
+current_location: "[[Port Damali]]"
+disposition: friendly
+---
 ![[bethrynna.png|right|300]]
 Half-sister of [[Laucian Greycastle (Brent)|Laucian Greycastle]].
 

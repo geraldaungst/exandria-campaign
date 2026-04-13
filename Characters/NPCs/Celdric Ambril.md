@@ -1,14 +1,17 @@
 ---
 tags:
-  - needs-work
   - npc
+  - hook
+  - world/exandria
   - region/menagerie-coast
 aliases:
-  - Celunor
-  - Celunor the Tidebound
-  - Celdric
+  - "Celunor"
+  - "Celunor the Tidebound"
+  - "Celdric"
 affiliations:
   - "[[Celunor’s Collection]]"
+current_location: "[[Celunor’s Collection]]"
+disposition: indifferent
 ---
 
 ![[celdric.png|right|300]]

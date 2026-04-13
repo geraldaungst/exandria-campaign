@@ -1,8 +1,11 @@
 ---
 tags:
-  - campaign/tyranny
-  - world/faerun
-# Beyd Sechepol
+  - npc
+  - world/toril
+  - region/sword-coast
+current_location: "unknown"
+disposition: indifferent
+---
 
 Last Edited: May 2, 2021 7:50 AM
 Tags: NPC

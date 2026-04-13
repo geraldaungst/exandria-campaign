@@ -1,13 +1,13 @@
 ---
 tags:
-  - needs-work
   - npc
+  - needs-work
   - world/exandria
-  - region/taldorei
-affiliations:
-  - Whitestone
+  - region/tal'dorei
 aliases:
-  - Brin
+  - "Brin"
+current_location: "[[Whitestone]]"
+disposition: friendly
 ---
 
 ![[brin-shadowfoot.png|right|300]]

@@ -1,11 +1,18 @@
 ---
 tags:
   - npc
+  - world/exandria
   - region/menagerie-coast
+affiliations:
+  - "[[Obsidian Echoforge]]"
+  - "[[Emissaries of the Sunfall]]"
+current_location: "[[Port Damali]]"
+disposition: indifferent
 faction: 
   - [[Obsidian Echoforge]]
   - [[Emissaries of the Sunfall]] 
 location: [[Port Damali]]
+
 ---
 # Quick Reference
 > [!info] Essential Details

@@ -1,12 +1,14 @@
 ---
 tags:
   - npc
-  - region/taldorei
   - world/exandria
-affiliations:
-  - Unshaken (Skyship)
+  - region/menagerie-coast
 aliases:
-  - Thyakas
+  - "Thyakas"
+affiliations:
+  - "[[Unshaken (Skyship)]]"
+current_location: "[[Port Damali]]"
+disposition: friendly
 ---
 ![[thyakas.png|right|300]]
 ## Captain of the [[Unshaken]]
