@@ -1,12 +1,15 @@
 ---
 tags:
-  - needs-work
   - npc
+  - hook
+  - world/exandria
   - region/menagerie-coast
-faction:
-  - - Emissaries of the Sunfall
-location:
-  - - Rexxentrum
+aliases:
+  - Eledyr
+affiliations:
+  - "[[Emissaries of the Sunfall]]"
+current_location: "[[Scroll and Scribe]]"
+disposition: hostile
 ---
 # Quick Reference
 

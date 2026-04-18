@@ -1,10 +1,12 @@
 ---
 tags:
   - npc
+  - world/exandria
   - region/dwendalian-empire
 affiliations:
-  - Unshaken (Skyship)
-aliases:
+  - "[[Unshaken (Skyship)]]"
+current_location: "[[The Unshaken]]"
+disposition: indifferent
 ---
 
 # Appearance & Personality

@@ -18,7 +18,7 @@ _Base Location: Rexxentrum_
     - Document Obsidian Echoforge activity levels
     - Assess threat timeline
 
-**📋 Knowledge Gained:** (add to [[What Eledyr Knows]])
+**📋 Knowledge Gained:** (add to [[Eledyr Dephar]]: What Eledyr Knows)
 
 - **Multiple factions are researching the same prophecy** - at least 3 distinct research patterns in academic records
 - **Timeline is accelerating** - inquiry frequency has tripled in the past 2 months
@@ -35,7 +35,7 @@ _Base Location: Rexxentrum_
     - Determine source of questions about his activities
     - Assess personal security risk
 
-**📋 Knowledge Gained:**  (add to [[What Eledyr Knows]])
+**📋 Knowledge Gained:**  (add to [[Eledyr Dephar]]: What Eledyr Knows)
 
 - **Cerberus Assembly has a different prophecy interpretation** - they believe rifts can be controlled/weaponized rather than sealed
 - **Qilynn and/or her allies are actively investigating him** - inquiries about Aelorin trace back to her revenge quest
@@ -54,7 +54,7 @@ _Base Location: Rexxentrum, possible short trips_
     - Secure travel documents and cover identities
     - Recruit local assets if needed
 
-**📋 Knowledge Gained:**  (add to [[What Eledyr Knows]])
+**📋 Knowledge Gained:**  (add to [[Eledyr Dephar]]: What Eledyr Knows)
 
 - **The Malachite Cord exists and opposes Lorestone assembly** - they believe it will cause another Molaesmyr-style disaster
 - **Obsidian Echoforge's main facility is at Palma Flora** - heavily defended but has predictable supply/personnel schedules
@@ -71,7 +71,7 @@ _Base Location: Rexxentrum, possible short trips_
     - Propose direct intervention scenarios
     - Request authorization for field deployment
 
-**📋 Knowledge Gained:**  (add to [[What Eledyr Knows]])
+**📋 Knowledge Gained:**  (add to [[Eledyr Dephar]]: What Eledyr Knows)
 
 - **Assembly is planning a major expedition to Draconian ruins within 6 weeks** - seeking pre-Calamity artifacts and additional prophecy fragments
 - **The party has acquired significant artifacts/knowledge** - Assembly and Echoforge communications reference "new players with important acquisitions"
@@ -91,7 +91,7 @@ _Flexible location based on campaign needs_
 - [ ] **Deploy to primary target area** (timing flexible)
     - Options: Draconian ruins, Palma Flora, Rift locations, Party intercept
 
-**📋 Knowledge Gained:**  (add to [[What Eledyr Knows]])
+**📋 Knowledge Gained:**  (add to [[Eledyr Dephar]]: What Eledyr Knows)
 
 - **Lorestone assembly requires a Luxon Beacon in addition to the shards** - explains why no faction has succeeded yet despite finding fragments
 - **The party's current location and likely next destinations** - intercepted communications reveal their general whereabouts and mission goals
@@ -114,7 +114,7 @@ _Flexible location based on campaign needs_
     - Determine what artifacts/knowledge they possess
     - Coordinate with Dreyara Drimvar if paths cross
 
-**📋 Knowledge Gained (varies by chosen option):**  (add to [[What Eledyr Knows]])
+**📋 Knowledge Gained (varies by chosen option):**  (add to [[Eledyr Dephar]]: What Eledyr Knows)
 
 - **Option A:** Location of additional prophecy shards hidden in Draconian ruins + Assembly's true timeline (much faster than expected)
 - **Option B:** Complete Echoforge research data + discovery that they're closer to success than any other faction

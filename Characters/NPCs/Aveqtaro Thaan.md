@@ -7,7 +7,6 @@ aliases:
   - "aveqtaro"
 affiliations:
   - "[[Kryn Dynasty]]"
-current_location: "[[Rosohna]]"
 disposition: indifferent
 ---
 # Quick Reference
