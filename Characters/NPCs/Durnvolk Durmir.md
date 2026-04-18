@@ -1,8 +1,13 @@
 ---
 tags:
-  - needs-work
   - npc
+  - world/exandria
   - region/menagerie-coast
+aliases:
+  - "Durnvolk"
+current_location: "[[New Temple of Moradin]]"
+disposition: friendly
+---
 ![[durnvolk-durmir.jpeg|right|300]]
 Durnvolk Durmir embodies the steadfast spirit of Moradin's teachings, his life a testament to the virtues of hard work, devotion, and the sacred art of creation. His personality is a harmonious blend of resilience and gentleness, a reflection of the dual nature of fire - capable of destruction yet essential for forging anew. Durnvolk approaches his mission with a level of patience and precision that commands respect, yet his interactions are marked by an unexpected warmth and approachability. He believes deeply in the power of community and the sharing of knowledge, viewing his role as not just a builder of structures, but as a forger of bonds among people. Despite his formidable expertise in divine magic and blacksmithing, he remains humble, always open to learning and valuing the contributions of others. His calm demeanor belies a fierce determination to see his endeavors through, making him a beloved figure among those who know him well.
 

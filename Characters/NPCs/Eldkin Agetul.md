@@ -1,7 +1,11 @@
 ---
 tags:
-  - campaign/tyranny
-  - world/faerun
+  - npc
+  - world/toril
+  - region/sword-coast
+current_location: "unknown"
+disposition: indifferent
+---
 # Eldkin Agetul
 
 Last Edited: May 1, 2021 9:45 PM

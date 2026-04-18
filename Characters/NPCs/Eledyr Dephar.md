@@ -15,7 +15,7 @@ location:
 > - Current Location: [[Rexxentrum]] ([[Scroll and Scribe]], Valen's townhouse)
 > - Key Motivation: Climb Clasp ranks while serving Emissary goals; personal vendetta against Qilynn
 > - Attitude toward party: Unknown/Hostile (unaware of party but opposes their likely allies)
-> - Critical Knowledge: [[What Eledyr Knows]]
+> - Critical Knowledge: In section below [What Eledyr Knows]
 > - Status: Active intelligence operative conducting prophecy research
 
 # Description
@@ -61,6 +61,7 @@ Eledyr Dephar was born to a human mother and an elven father, growing up amidst 
 # Hidden Information
 
 > [!secret]- DM Only
+> ## DM Only
 > 
 > - **Secret motivations:**
 >     - Uses Emissary resources to advance within Clasp hierarchy
@@ -99,6 +100,21 @@ Eledyr Dephar was born to a human mother and an elven father, growing up amidst 
 >     - Central antagonist for Qilynn's revenge arc
 >     - Bridge between Clasp and Emissary faction conflicts
 
+> [!secret]- What Eledyr Knows
+> 
+> ## What Eledyr Knows
+> 
+> 1. The existence of a [[01 The Prophecy|prophecy]] that speaks of three symbols or factions (Crown, Shield, and Tree) and their roles in Exandria's fate.
+> 2. The [[Lorestone of Eryndor]] is a 2-foot diameter obsidian disc engraved with the Prophecy in an ancient dialect of Elvish.
+> 3. The Lorestone was shattered during the Calamity, and its pieces were scattered across the Shattered Teeth and beyond.
+> 4. The [[Obsidian Echoforge]], founded by Lys Willowwhisper, has been searching for the Lorestone pieces for centuries.
+> 5. The Obsidian Echoforge believes that the Lorestone is a "beacon" mentioned in the prophecy that can seal rifts appearing across Wildemount.
+> 6. Individual shards of the Lorestone have magical properties, including the ability to sense nearby planar rifts and grant phase-shifting abilities to their bearers.
+> 7. The Obsidian Echoforge is represented by the "Tree" symbol in the prophecy and is actively seeking to assemble the Lorestone.
+> 8. There are competing factions interested in the Lorestone, including one represented by the "Shield" symbol (which we know is the Malachite Cord, but Eledyr might not know this name).
+> 9. Rifts have begun to appear across Wildemount, and some believe these rifts are symbolic and have a pattern. Eledyr believes they are related to the phases of Catha and Ruidus. (This is not actually true, though Eledyr believes it very strongly.)
+> 10. The existence of a group called the Emissaries of the Sunfall, who believe the rifts are an opportunity for the gods to return to Exandria (though Eledyr might have limited or no knowledge about their specific goals or activities).
+> 11. Eledyr has uncovered evidence suggesting that the prophecy has multiple valid interpretations, each leading to a different outcome. He will not share how he knows this, but it is based on speculations by the Drow that there are additional shards with more verses.
 # Connected Elements
 ## NPCs
 ```dataview
