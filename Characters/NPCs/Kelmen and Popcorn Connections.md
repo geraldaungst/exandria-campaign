@@ -15,6 +15,8 @@ created: 2026-02-22
 > [!warning] DM Only
 > This note contains connective tissue across three storylines. Details for the Savalirwood portion are TBD and will be fleshed out separately.
 
+
+[[Monastery of Dimensional Harmony]]
 ## The Core Revelation (What Players Can Learn from Kelmen)
 
 1. **The stabilization requirement** — Kelmen's research concluded that dimensional manipulation requires a stabilizing counterweight of equal and opposite resonance. Without it, any attempt to close or control a rift amplifies chaos instead of containing it. This is the key insight that cuts through the Echoforge/Cord faction dispute—both are partially right, and Kelmen's testimony explains why. *No faction currently knows this.*
