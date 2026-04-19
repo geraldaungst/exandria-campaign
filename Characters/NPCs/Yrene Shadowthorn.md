@@ -14,8 +14,7 @@ aliases:
 **Style of Dress:** Yrene dresses in dark, elegant robes that allow for freedom of movement, often accented with silver threads and small arcane symbols embroidered subtly into the fabric. She wears a cloak with a deep hood that can shadow her face, and her boots are soft-soled for silent movement.  
 **Significant Item:** A delicate silver necklace with a moonstone pendant, a gift from [[Aelorin Nightshade]], signifying her favored status among his pupils.
 
-![[yrene.png|right|300]]
-**Background:** Yrene was born in the Elven city of Syngorn, where she trained in both arcane and martial disciplines. Her natural talent for stealth and magic caught the attention of [[Aelorin Nightshade]], who recruited her into the Clasp. Over the decades, she became one of his most trusted operatives, known for her proficiency and loyalty.
+![[yrene.png]] **Background:** Yrene was born in the Elven city of Syngorn, where she trained in both arcane and martial disciplines. Her natural talent for stealth and magic caught the attention of [[Aelorin Nightshade]], who recruited her into the Clasp. Over the decades, she became one of his most trusted operatives, known for her proficiency and loyalty.
 
 **Personality:** Yrene is calm, composed, and highly intelligent. She exudes an air of quiet confidence, often observing more than she speaks. Despite her skills and favored status, she harbors a secret vulnerability: her unrequited love for Qilynn Duskwhisper. This love has influenced many of her actions, often putting her at odds with her own ambitions.
 
