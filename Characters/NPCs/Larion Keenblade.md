@@ -3,6 +3,7 @@ tags:
   - campaign/tyranny
   - world/faerun
 # Larion Keenblade
+---
 
 Last Edited: November 5, 2021 6:37 PM
 Tags: NPC

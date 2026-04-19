@@ -3,6 +3,7 @@ tags:
   - needs-work
   - npc
   - region/menagerie-coast
+---
 ![[tharivol.jpeg|right|300]]
 Tharivol is a robust, silver-scaled dragonborn with piercing blue eyes. He wears armor adorned with symbols of Bahamut, the Platinum Dragon, signifying his devotion. He is [[Sariel|Sariel's]] brother.
 

@@ -2,12 +2,12 @@
 tags:
   - npc
   - world/exandria
-  - region/taldorei
+  - region/tal'dorei
 aliases:
-  - Garnet
+  - "Garnet"
+current_location: "[[Whitestone]]"
+disposition: hostile
 ---
-home_city: Zadash
-region: Tal'Dorei
 ![[garnet-thorne.jpeg|right|300]]
 
 ***Medium humanoid (human), neutral***
@@ -29,8 +29,6 @@ region: Tal'Dorei
 |14 (+2)|12 (+1)|13 (+1)|15 (+2)|16 (+3)|14 (+2)|
 
 ---
-home_city: Zadash
-region: Tal'Dorei
 
 **Skills** Insight +5, Persuasion +4, Nature +4, Medicine +5
 
@@ -41,9 +39,6 @@ region: Tal'Dorei
 **Challenge** 1/2 (100 XP)
 
 ---
-home_city: Zadash
-region: Tal'Dorei
-
 ### Traits
 
 **Hardworking.** Garnet has advantage on Constitution checks related to physical labor and tasks that require endurance.

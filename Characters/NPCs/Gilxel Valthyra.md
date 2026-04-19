@@ -1,9 +1,13 @@
 ---
 tags:
-  - campaign/tyranny
-  - world/faerun
-# Gilxel Valthyra
-
+  - npc
+  - world/toril
+  - region/sword-coast
+affiliations:
+  - "[[Candlekeep Library]]"
+current_location: "unknown"
+disposition: indifferent
+---
 Last Edited: April 8, 2021 7:57 PM
 Tags: NPC
 

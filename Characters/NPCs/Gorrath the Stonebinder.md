@@ -1,7 +1,15 @@
 ---
 tags:
-  - needs-work
   - npc
+  - hook
+  - world/exandria
+  - region/xorhas
+aliases:
+  - "Gorrath"
+affiliations:
+  - "[[Scars of Scale and Tooth]]"
+current_location: "unknown"
+disposition: hostile
 ---
 # Gorrath the Stonebinder
 - An architect of great renown whose dream was always to rebuild the ancient wonders of the world.

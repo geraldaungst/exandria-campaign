@@ -1,12 +1,15 @@
 ---
 tags:
   - npc
-  - region/dwendalian-empire
+  - world/exandria
+  - region/menagerie-coast
+aliases:
+  - "Gaius"
 affiliations:
   - "[[Obsidian Echoforge]]"
-aliases:
-  - gaius
-
+current_location: "[[Palma Flora]]"
+disposition: indifferent
+---
 # Appearance & Personality
 **Species:** Dwarf
 **Style:** 

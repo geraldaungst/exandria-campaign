@@ -2,13 +2,15 @@
 tags:
   - npc
   - deceased
-  - region/dwendalian-empire
   - world/exandria
+  - region/dwendalian-empire
+aliases:
+  - "georgina"
 affiliations:
   - "[[Emissaries of the Sunfall]]"
-  - Skyship
-aliases:
-  - georgina
+  - "[[Skyship]]"
+current_location: "unknown"
+disposition: hostile
 ---
 ![[georgina.png|right|200]]
 O: Locksmith/Fighter

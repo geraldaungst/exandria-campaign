@@ -2,6 +2,7 @@
 tags:
   - campaign/tyranny
   - world/faerun
+---
 Ulricka Hildebrand is a 62 year old woman with white hair, cut short, and lively hazel eyes. She has a 
 
 **Armor Class** 8  

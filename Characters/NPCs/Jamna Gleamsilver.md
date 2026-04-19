@@ -2,6 +2,7 @@
 tags:
   - campaign/tyranny
   - world/faerun
+---
 # Jamna Gleamsilver
 
 Last Edited: May 1, 2021 8:35 PM

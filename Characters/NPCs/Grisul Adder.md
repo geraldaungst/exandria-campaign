@@ -1,8 +1,12 @@
 ---
 tags:
-  - needs-work
   - npc
+  - deceased
+  - world/exandria
   - region/menagerie-coast
+current_location: "[[Harmony Hall]]"
+disposition: friendly
+---
 ![[grisul-adder.jpeg|right|300]]_Medium humanoid (goliath), Chaotic Good_
 
 **Armor Class:** 14 (natural armor)  
