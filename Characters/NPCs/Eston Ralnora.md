@@ -1,51 +1,64 @@
 ---
-tags:
-  - npc
-  - world/exandria
-  - region/dwendalian-empire
 affiliations:
   - "[[Unshaken (Skyship)]]"
 current_location: "[[The Unshaken]]"
 disposition: indifferent
+tags:
+  - npc
+  - world/exandria
+  - region/dwendalian-empire
 ---
 
-# Appearance & Personality
+## Appearance & Personality
+
 ![[eston-ralnora.png|right|300]]
+
 **Species:** High Elf
 
-# Background
+## Background
+
 Bursar of the [[Unshaken]], manages passenger lodging fees and crew payroll distribution
 
-# Goals & Relationships
+## Goals & Relationships
+
 <!-- What do they want? Who matters to them? -->
 
-# Roleplay Notes
+## Roleplay Notes
+
 <!-- Voice, mannerisms, personality quirks for at-the-table use -->
 
-# Secrets
+## Secrets
+
 <!-- DM-only info -->
 
+## Connected Elements
 
-# Connected Elements
-## NPCs
+### NPCs
+
 ```dataview
 LIST
 FROM #npc
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
-## Places
+
+### Places
+
 ```dataview
 LIST
 FROM #location
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
-## Items
+
+### Items
+
 ```dataview
 LIST
 FROM #artifact 
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
-## Related Plot Threads
+
+### Related Plot Threads
+
 ```dataview
 LIST
 FROM #plot 

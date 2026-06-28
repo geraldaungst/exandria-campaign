@@ -3,9 +3,11 @@ tags:
   - campaign/tyranny
   - world/faerun
 ---
-# Sulesdeg the Pole
+
+## Sulesdeg the Pole
 
 Last Edited: May 1, 2021 9:43 PM
+
 Tags: NPC
 
 ![https://img.17qq.com/images/hmmdchodpov.jpeg](https://img.17qq.com/images/hmmdchodpov.jpeg)

@@ -5,39 +5,52 @@ tags:
   - region/dwendalian-empire
 ---
 
-# Quick Reference
-**Status:** 
-**Significance:** 
+## Quick Reference
 
-# Description
+**Status:**
+
+**Significance:**
+
+## Description
+
 <!-- What does it look/feel like? Add details as needed -->
 
-# What's Happening Now
+## What's Happening Now
+
 <!-- Current plot hooks, recent events, immediate concerns -->
 
-# Secrets
+## Secrets
+
 <!-- DM-only info, hidden connections -->
 
-# Connected Elements
-## NPCs
+## Connected Elements
+
+### NPCs
+
 ```dataview
 LIST
 FROM #npc
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
-## Places
+
+### Places
+
 ```dataview
 LIST
 FROM #location
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
-## Items
+
+### Items
+
 ```dataview
 LIST
 FROM #item 
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
-## Related Plot Threads
+
+### Related Plot Threads
+
 ```dataview
 LIST
 FROM #plot 

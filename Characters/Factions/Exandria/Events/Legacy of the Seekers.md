@@ -1,22 +1,21 @@
 ---
+context: Historical faction background
+created: 2025-01-12
+disposition: indifferent
 tags:
   - faction
   - world/exandria
-disposition: indifferent
-created: 2025-01-12
-context: Historical faction background
-- atomic
-- faction-event
-
+  - atomic
+  - faction-event
 ---
 
-# Core Information
+## Core Information
 
-## Historical Span
+### Historical Span
 
 Over 400 years of organizational history spanning multiple generations and name changes, representing the longest continuous effort to recover and preserve the [[Lorestone of Eryndor]] [[Lorestone Shard Status Tracker|fragments]].
 
-## Key Accomplishments
+### Key Accomplishments
 
 **Exploration and Recovery:**
 
@@ -40,7 +39,7 @@ Over 400 years of organizational history spanning multiple generations and name 
 - Sharing of prophecy contents within the organization
 - Strong emphasis on preservation alongside discovery
 
-## Name Evolution
+### Name Evolution
 
 The organization went through five name changes, each reflecting shifts in mission or philosophy:
 
@@ -53,11 +52,11 @@ The organization went through five name changes, each reflecting shifts in missi
     - "Echo" for Eryndor's wisdom
     - "Forge" for restoration and reconstruction
 
-## Founding Figure
+### Founding Figure
 
 **[[Lys Willowwhisper]]** - Founder and originator of the quest to recover the shattered Lorestone fragments. Established the philosophical foundation and initial methodology that guided the organization for centuries.
 
-## Legacy Impact
+### Legacy Impact
 
 The centuries-long effort created:
 
@@ -67,17 +66,17 @@ The centuries-long effort created:
 - Specialized skills in fragment detection and authentication
 - Strong family tradition (Willowwhisper family leadership)
 
-# Source Context
+## Source Context
 
 Information derived from the [[Obsidian Echoforge]] faction note, documenting their historical evolution and cultural traditions.
 
-# Connections
+## Connections
 
-## Source Notes
+### Source Notes
 
 - [[Obsidian Echoforge]]
 
-## Related Atomic Notes
+### Related Atomic Notes
 
 ```dataview
 LIST
@@ -85,7 +84,7 @@ FROM #atomic
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
 
-## Related NPCs
+### Related NPCs
 
 ```dataview
 LIST
@@ -93,7 +92,7 @@ FROM #npc
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
 
-## Related Plot Threads
+### Related Plot Threads
 
 ```dataview
 LIST
@@ -101,7 +100,7 @@ FROM #plot
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
 
-## Related Locations
+### Related Locations
 
 ```dataview
 LIST
@@ -109,7 +108,7 @@ FROM #location
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
 
-## Related Items/Artifacts
+### Related Items/Artifacts
 
 ```dataview
 LIST

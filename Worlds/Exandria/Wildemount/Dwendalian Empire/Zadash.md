@@ -1,55 +1,68 @@
 ---
 tags:
   - location
-- no
 ---
-# Quick Reference
+
+## Quick Reference
+
 > [!info] Essential Details
 > - Current Status:
 > - Key Feature:
 > - Atmosphere:
 > - Recent Events:
 
-# Overview
-## Physical Description
+## Overview
+
+### Physical Description
+
 - External features
 - Internal layout
 - Notable areas
 
-## Current State
+### Current State
+
 > [!note] Active Elements
 > - Present situation
 > 	- [[Eidechse (Amanda Jeane)|Dechs]] needs to find her contact to deliver her herbs
 > - Recent changes
 > - Immediate concerns
 
-# Hidden Elements
+## Hidden Elements
+
 > [!secret]- DM Only
 > - Concealed features
 > - Unknown connections:
 > 	- [[Hesterian Shyr (Dot)|Hesterian]]'s murderer is now a powerful crime boss in Zadash who goes by "[[Korfel Withrethin|The Gentleman]]".
 > - Future developments
 
-# Connected Elements
-## NPCs
+## Connected Elements
+
+### NPCs
+
 ```dataview
 LIST
 FROM #npc
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
-## Places
+
+### Places
+
 ```dataview
 LIST
 FROM #location
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
-## Items
+
+### Items
+
 ```dataview
 LIST
 FROM #artifact 
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
-## Related Plot Threads
+
+### Related Plot Threads
+
 ```dataview
 LIST
 FROM #plot 

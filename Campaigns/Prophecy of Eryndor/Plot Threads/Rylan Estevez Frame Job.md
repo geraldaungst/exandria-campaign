@@ -1,22 +1,25 @@
 ---
+context:
+created: 2025-09-28
 tags:
   - atomic
   - campaign/eryndor
-created: 2025-09-28
-context:
 ---
-# Core Information
 
-## Rylan Estevez Frame Job
+## Core Information
 
-### **The Victim**
+### Rylan Estevez Frame Job
+
+#### **The Victim**
 
 [[Rylan Estevez]] was an 18-year-old stable boy who worked at [[Harmony Hall]] when it operated as [[Grisul Adder]]'s brothel in [[Port Damali]]. He was known to be honest, hardworking, and had developed an innocent friendship with [[Xanaphia Lothliss]], one of the performers.
 
-### **The Frame-Up**
+#### **The Frame-Up**
 
-**Perpetrator:** [[Korfel Withrethin]]  
-**Timing:** Immediately after the [[Port Damali Murders]]  
+**Perpetrator:** [[Korfel Withrethin]]
+
+**Timing:** Immediately after the [[Port Damali Murders]]
+
 **Method:** False tip to authorities with planted evidence
 
 **How it worked:**
@@ -26,9 +29,10 @@ context:
 - The murder weapon (knife used to slash Hesterian's throat) was planted on or near Rylan
 - Korfel used Xanaphia's lie about "fleeing with the stable boy" as the foundation for the false accusation
 
-### **The False Evidence**
+#### **The False Evidence**
 
-**Primary Evidence:** Bloody knife found with Rylan  
+**Primary Evidence:** Bloody knife found with Rylan
+
 **Circumstantial Evidence:**
 
 - Rylan's access to the brothel and knowledge of the women
@@ -42,14 +46,17 @@ context:
 - No examination of Korfel's motive or whereabouts
 - Rushed investigation due to "clear evidence" and public pressure
 
-### **The Conviction**
+#### **The Conviction**
 
-**Trial:** Quick conviction based on planted evidence and false testimony  
-**Sentence:** 10 years in prison  
-**Current Status:** Still serving sentence, approximately 7-8 years remaining  
+**Trial:** Quick conviction based on planted evidence and false testimony
+
+**Sentence:** 10 years in prison
+
+**Current Status:** Still serving sentence, approximately 7-8 years remaining
+
 **Location:** [[Port Damali]] prison system
 
-### **Rylan's Current State**
+#### **Rylan's Current State**
 
 - **Physical condition:** Gaunt, sickly appearance from years of imprisonment
 - **Mental state:** Bitter, hopeless, but maintains innocence
@@ -57,14 +64,14 @@ context:
 - **Only lead:** Knows the name of his accuser (Korfel Withrethin)
 - **Treasured possession:** Still wears the leather bracelet from Xanaphia, evidence of their innocent connection
 
-### **Impact on Rylan**
+#### **Impact On Rylan**
 
 - Lost his youth and future to a crime he didn't commit
 - Isolated from family and community who may believe his guilt
 - Struggles with bitterness and despair but hasn't lost his core decency
 - Represents collateral damage from Korfel's self-preservation
 
-### **Justice Implications**
+#### **Justice Implications**
 
 **Exonerating Evidence:**
 
@@ -86,13 +93,13 @@ context:
 - His continued imprisonment perpetuates Korfel's crime
 - Time sensitivity: every day in prison is additional injustice
 
-# Source Context
+## Source Context
 
 This frame-up is central to understanding [[Korfel Withrethin]]'s character and the scope of his crimes. It also represents a potential justice subplot for the party.
 
-# Connections
+## Connections
 
-## Related Characters
+### Related Characters
 
 - [[Rylan Estevez]] - Innocent victim, wrongfully imprisoned
 - [[Korfel Withrethin]] - Perpetrator of frame-up
@@ -100,62 +107,67 @@ This frame-up is central to understanding [[Korfel Withrethin]]'s character and 
 - [[Hesterian Shyr (Dot)]] - Primary murder victim, potential advocate for justice
 - [[Grisul Adder]] - Former employer, potential witness to Rylan's character
 
-## Related Events
+### Related Events
 
 - [[The Port Damali Murders]] - Primary crime that necessitated the cover-up
 - The rushed investigation and trial (details to be developed)
 
-## Related Locations
+### Related Locations
 
 - [[Port Damali]] - Location of crime, trial, and imprisonment
 - [[Harmony Hall]] - Rylan's former workplace
 - Port Damali prison system (specific facility to be detailed)
 
-## Related Evidence
+### Related Evidence
 
 - Murder weapon (planted on Rylan)
 - Leather bracelet with "XL" initials (proof of innocent relationship)
 - Court records from the rushed trial
 - Potential witness testimony never collected
 
-## Related Plot Threads
+### Related Plot Threads
 
 - [[Hesterian Shyr's Infiltration]] - Hesterian's quest could uncover this injustice
 - Justice/legal subplot - freeing innocent man
 - Political ramifications when truth emerges
 - Redemption arc for addressing past wrongs
 
-# Connections
+## Connections
 
-## Related Atomic Notes
+### Related Atomic Notes
+
 ```dataview
 LIST
 FROM #atomic
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
 
-## Related NPCs
+### Related NPCs
+
 ```dataview
 LIST
 FROM #npc 
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
 
-## Related Plot Threads
+### Related Plot Threads
+
 ```dataview
 LIST
 FROM #plot  
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
 
-## Related Locations
+### Related Locations
+
 ```dataview
 LIST
 FROM #location 
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
 
-## Related Items/Artifacts
+### Related Items/Artifacts
+
 ```dataview
 LIST
 FROM #artifact 

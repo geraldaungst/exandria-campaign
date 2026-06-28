@@ -3,6 +3,7 @@ tags:
   - location
   - needs-work
 ---
+
 The Labyrinth did not begin as a maze. The tower of [[Caes Mosor (Today)|Caes Mosor]] was situated on a spot where ley energy was consistently strong. Scholars believe it is a very rare stable area they called a "lay anchor" which remains in place even as the ley lines shift around it. While the tower itself contained the public and showy spaces of the university, library, and government, the magic-rich caverns beneath the tower were cleared and converted to spaces dedicated to research and development.
 
 Since the structure expanded organically rather than via a coherent plan, it quickly acquired a reputation for being confusing. New research assistants took to calling it "the labyrinth" as a joke, and the name stuck.

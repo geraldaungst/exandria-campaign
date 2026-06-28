@@ -1,27 +1,39 @@
 ---
 cssclasses: wide
-tags: []
+tags:
+  - plot
 ---
 
 > [!info] Active Plot Threads
 > Click here for entire [[Plot Dashboard]]
 > ```dataview
+
 TABLE WITHOUT ID
+
 file.link as "Plot",
+
 filter(file.outlinks, (l) => contains(l.file.tags, "npc")) as "Connected NPCs",
+
 filter(file.outlinks, (l) => contains(l.file.tags, "artifact")) as "Connected Items",
+
 dateformat(file.mtime, "MM/dd/yyyy") as "Last Updated"
-FROM #plot 
+
+FROM plot
+
 WHERE plot_stage = "active"
+
 SORT file.mtime DESC
+
 > ```
 
 > [!warning] Urgent Campaign Elements
+>
 > ```dataview
 > LIST FROM #urgent
 > ```
 
 > [!note] Recent NPCs
+>
 >```dataview
 > TABLE location, lastSeen
 > FROM #npc
@@ -29,6 +41,7 @@ SORT file.mtime DESC
 > LIMIT 5
 
 > [!attention] Needs Review
+>
 > ```dataview
 > LIST FROM #to-process 
 > LIMIT 10

@@ -1,13 +1,14 @@
 ---
-tags:
-  - needs-work
-  - npc
 affiliations:
   - Pyrah Tribe
   - "[[Ashari Riftguard]]"
 aliases:
   - lorcan
+tags:
+  - needs-work
+  - npc
 ---
+
 ![[lorcan.png|right|300]]
 
 - **Tribe:** Pyrah (Fire Ashari)

@@ -3,7 +3,9 @@ tags:
   - campaign/eryndor
   - plot
 ---
-# Quick Reference
+
+## Quick Reference
+
 > [!info] Essential Details
 > - Stage: Dormant (player unaware)
 > - Priority: High (once discovered)
@@ -13,41 +15,42 @@ tags:
 > - Last Session: Not yet begun
 > - Next Steps: Hesterian must first learn the truth about what happened to her brother
 
-# Overview
+## Overview
 
 [[Hesterian Shyr (Dot)|Hesterian]]'s brother [[Melthes]] was taken by the [[Cerberus Assembly]] in 833 PD under the guise of providing "special training" for his unique Feywild/Feydark abilities. The full details of his capture are documented in [[The Capture of Melthes]].
 
 Hesterian believes Melthes is "studying magic" somewhere and has no knowledge of the Assembly's involvement or the coercive nature of his recruitment. This quest will likely activate when she encounters [[Cree Deeproots]] during her infiltration of [[Korfel Withrethin]]'s organization, as Cree was directly involved in Melthes's initial assessment.
 
-# Current State
+## Current State
 
-## Recent Events
+### Recent Events
+
 - None yet - Hesterian is unaware of the true situation
 - [[The Capture of Melthes]] occurred approximately 833 PD (backstory event)
 
-## Active Elements
+### Active Elements
+
 - [[Cree Deeproots]] works for [[Korfel Withrethin]] and remembers processing Melthes
 - [[Melthes]] is presumably still in Assembly custody (location unknown)
 - [[Isolene Fenzana]] oversees research division where Melthes was assigned
 - Hesterian is actively pursuing [[Hesterian Shyr's Infiltration|infiltration of the Myriad]], which will bring her into contact with Cree
 
-## Blocking Issues
+### Blocking Issues
+
 - Hesterian doesn't know anything is wrong
 - Cree doesn't know Hesterian is Melthes's sister
 - Assembly compartmentalizes information - even Cree doesn't know current location/status
 - Rescue would require confronting one of Exandria's most powerful magical organizations
 
-# Player Knowledge
+## Player Knowledge
 
 - **What they know:**
   - Hesterian has a brother named Melthes
   - She believes he's "studying magic" somewhere
   - They've been out of contact for an extended period
-
 - **What they think they know:**
   - Melthes is safe and pursuing legitimate magical education
   - The separation is normal for magical apprenticeships
-
 - **What they don't know:**
   - Melthes was taken by the [[Cerberus Assembly]] against his will (coerced consent from parents)
   - He was terrified and asking for his family during intake
@@ -56,10 +59,10 @@ Hesterian believes Melthes is "studying magic" somewhere and has no knowledge of
   - His current location or condition
   - That one of the Volstrucker agents involved was Hesterian's former client (who owned the [[stone-of-memory]])
 
-# Plot Hierarchy
+## Plot Hierarchy
 
 - **Parent Plot:** [[Hesterian Shyr's Infiltration]]
-- **Sibling Plots:** 
+- **Sibling Plots:**
   - [[The Capture of Melthes]] (historical event)
   - Justice for [[Rylan Estevez]] (parallel personal quest)
 - **Potential Subplots:**
@@ -67,16 +70,16 @@ Hesterian believes Melthes is "studying magic" somewhere and has no knowledge of
   - Broader conflict with [[Cerberus Assembly]]
   - Discovering connection between Volstrucker agent and [[stone-of-memory]]
 
-# Development Stages
+## Development Stages
 
-## Seeds
+### Seeds
 
 - [x] Established: Hesterian has brother named Melthes (character background)
 - [x] Planted: [[The Capture of Melthes]] occurred in backstory
 - [x] Positioned: [[Cree Deeproots]] remembers Melthes and works for target of Hesterian's investigation
 - [ ] **Discovery Trigger:** Natural conversation where Melthes's name comes up in Cree's presence
   - Expected: During [[Hesterian Shyr's Infiltration]] when meeting with [[Korfel Withrethin]]
-  - Potential implications: 
+  - Potential implications:
     - Cree recognizes the name
     - May share information if rapport is built
     - Could become ally due to Assembly resentment
@@ -97,16 +100,18 @@ Hesterian believes Melthes is "studying magic" somewhere and has no knowledge of
     - May reveal other Assembly prisoners/test subjects
     - Could expose broader Assembly abuses
 
-## Planned Developments
+### Planned Developments
 
-### Immediate (Upon Discovery)
+#### Immediate (Upon Discovery)
+
 - [ ] Cree recognizes Melthes's name during conversation with Hesterian
 - [ ] Cree reveals her involvement in his assessment (if rapport exists)
 - [ ] Hesterian learns truth about Assembly taking her brother
 - [ ] Emotional/character development moment for Hesterian
 - [ ] Decision point: Pursue immediately or gather more information?
 
-### Medium-term
+#### Medium-term
+
 - [ ] Hesterian decides whether to trust Cree with full truth
 - [ ] Investigation into Melthes's current location
 - [ ] Potential intelligence gathering from Assembly sources
@@ -114,14 +119,16 @@ Hesterian believes Melthes is "studying magic" somewhere and has no knowledge of
 - [ ] Planning phase for infiltration/rescue
 - [ ] Possible diplomatic approach through [[Xarzith Kitril]] authorities
 
-### Timing Constraints
+#### Timing Constraints
+
 - No immediate deadline, but:
   - Longer Melthes remains captive, potentially worse his condition
   - Assembly may relocate him if they suspect investigation
   - Cree's employment situation could change
   - Hesterian's infiltration timeline creates natural discovery window
 
-### Required Preparation
+#### Required Preparation
+
 - Building relationship with [[Cree Deeproots]] (most accessible intelligence source)
 - Gathering information about Assembly facility security
 - Understanding Assembly's research into Feywild/planar connections
@@ -129,9 +136,9 @@ Hesterian believes Melthes is "studying magic" somewhere and has no knowledge of
 - Potential evidence gathering for political leverage
 - Escape planning and safe house arrangements
 
-## Long-term Plans
+### Long-term Plans
 
-### Major Plot Points
+#### Major Plot Points
 
 1. **The Discovery** - Cree's recognition and revelation
 2. **The Truth** - Learning full extent of Assembly's actions and Melthes's suffering
@@ -141,9 +148,10 @@ Hesterian believes Melthes is "studying magic" somewhere and has no knowledge of
 6. **The Aftermath** - Consequences from Assembly, reunion with brother, political ramifications
 7. **The Reckoning** - Potential broader action against Assembly's recruitment practices
 
-### Possible Branches
+#### Possible Branches
 
 **Branch 1: Rescue Mission**
+
 - Direct infiltration of Assembly facility
 - High risk, high reward
 - Potential for discovering other victims
@@ -151,6 +159,7 @@ Hesterian believes Melthes is "studying magic" somewhere and has no knowledge of
 - Heroic outcome
 
 **Branch 2: Diplomatic Pressure**
+
 - Use evidence to pressure Assembly through [[Xarzith Kitril]] or Crown
 - Lower risk but slower
 - May result in Melthes's release but not justice
@@ -158,6 +167,7 @@ Hesterian believes Melthes is "studying magic" somewhere and has no knowledge of
 - Requires building case and allies
 
 **Branch 3: Trade/Negotiation**
+
 - Offer something Assembly wants in exchange for Melthes
 - Morally complex
 - Fastest resolution
@@ -165,6 +175,7 @@ Hesterian believes Melthes is "studying magic" somewhere and has no knowledge of
 - Assembly retains power
 
 **Branch 4: Cree's Betrayal**
+
 - If Cree reports Hesterian's interest to Assembly
 - Forces hasty action or abandonment
 - Assembly moves/hides Melthes
@@ -172,13 +183,14 @@ Hesterian believes Melthes is "studying magic" somewhere and has no knowledge of
 - Tests player creativity
 
 **Branch 5: Too Late**
+
 - Melthes already moved, released, or deceased
 - Shifts to justice/revenge plot
 - Exposes broader Assembly crimes
 - Different emotional payoff
 - Potential for discovering his fate
 
-### Complicating Factors
+#### Complicating Factors
 
 - **Assembly Power:** One of most powerful organizations in [[Dwendalian Empire]]
 - **Legal Authority:** Assembly operates with Crown backing
@@ -190,7 +202,7 @@ Hesterian believes Melthes is "studying magic" somewhere and has no knowledge of
 - **Other Captives:** Moral obligation to help others in same situation
 - **Volstrucker Connection:** Link to Hesterian's [[stone-of-memory]] and past
 
-### Success Conditions (Various)
+#### Success Conditions (Various)
 
 - Melthes freed and reunited with Hesterian
 - Melthes's location and condition confirmed (even if rescue impossible yet)
@@ -200,7 +212,7 @@ Hesterian believes Melthes is "studying magic" somewhere and has no knowledge of
 - Political protection secured for rescued individuals
 - Assembly face consequences for actions
 
-### Failure Conditions (Various)
+#### Failure Conditions (Various)
 
 - Hesterian killed or captured attempting rescue
 - Melthes moved to unknown location
@@ -210,29 +222,34 @@ Hesterian believes Melthes is "studying magic" somewhere and has no knowledge of
 - Political allies refuse to act against Assembly
 - Melthes doesn't want to be "rescued" (Stockholm syndrome/actual conversion)
 
-# Connected Elements
-## NPCs
+## Connected Elements
+
+### NPCs
+
 ```dataview
 LIST
 FROM #npc
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
 
-## Places
+### Places
+
 ```dataview
 LIST
 FROM #location
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
 
-## Items
+### Items
+
 ```dataview
 LIST
 FROM #artifact 
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
 
-## Related Plot Threads
+### Related Plot Threads
+
 ```dataview
 LIST
 FROM #plot 

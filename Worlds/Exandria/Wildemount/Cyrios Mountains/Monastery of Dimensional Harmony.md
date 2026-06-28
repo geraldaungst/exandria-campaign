@@ -1,11 +1,16 @@
 ---
- tags:
+tags:
   - region/cyrios-mountains
+  - campaign/eryndor
+  - location
 ---
+
 ## Overview
+
 Adding meenlocks as a secondary creature type to foreshadow and populate the Deep Meditation Chamber. This creates escalating tension and provides narrative context for what spawned in the catastrophe.
 
 ## Rationale
+
 - **Thematic fit**: Meenlocks are fey creatures literally created by fear and psychic corruption—perfect for the monastery's catastrophic ritual failure
 - **Narrative enhancement**: The Deep Meditation Chamber gets more disturbing antagonists than "void-touched echo monks"—the meenlocks ARE the corruption born from the monks' terror
 - **Foreshadowing**: Progressive encounters prepare players for the final confrontation
@@ -14,6 +19,7 @@ Adding meenlocks as a secondary creature type to foreshadow and populate the Dee
 - **Campaign stakes**: Demonstrates that planar rifts don't just create portals—they corrupt and transform nearby creatures, connecting to broader corruption themes across Exandria
 
 ## The Origin Story
+
 When the ritual catastrophically failed 300 years ago, the combination of dimensional breach + Far Realm corruption + monks' overwhelming terror spawned meenlocks in the Deep Meditation Chamber. These shadow fey have been "guarding" the corruption ever since, preventing anything from completing or cleansing what was started. They represent the literal embodiment of the monastery's failure.
 
 **Campaign Implication**: This isn't just a local tragedy—it's evidence that planar instability has transformative, corrupting effects on living beings. The party's encounters with similar corruption elsewhere in Wildemount suddenly have context: rifts don't just threaten to let things through, they *change* what's already here.
@@ -21,6 +27,7 @@ When the ritual catastrophically failed 300 years ago, the combination of dimens
 ## Three-Stage Escalation
 
 ### Stage 1: Area 13 (Prayer Hall)
+
 - **1 Standard Meenlock (CR 2)**
 - Dormant, sitting meditation-like on an altar
 - Optional/avoidable encounter
@@ -28,6 +35,7 @@ When the ritual catastrophically failed 300 years ago, the combination of dimens
 - Can be bypassed if players are quiet and respectful
 
 ### Stage 2: Area 14 (Primary Workshop)
+
 - **2 Standard Meenlocks (CR 2 each)**
 - Active lair among the workbenches
 - Drawn to residual fear from monks' final days
@@ -35,6 +43,7 @@ When the ritual catastrophically failed 300 years ago, the combination of dimens
 - Disturbed equipment, scratch marks, psychic whispers through ventilation
 
 ### Stage 3: Deep Meditation Chamber (Final)
+
 - **1 Meenlock Elder (CR 5) + 2 Meenlock Corruptors (CR 4 each)**
 - Born from the catastrophe itself—the corruption Kelmen needs cleansed
 - Replaces "void-touched echo monks" concept
@@ -42,6 +51,7 @@ When the ritual catastrophically failed 300 years ago, the combination of dimens
 - Their defeat allows Kelmen to complete his ritual and find peace
 
 ## Key Changes Needed
+
 1. Add encounter descriptions for Areas 13 and 14
 2. Rewrite Deep Meditation Chamber encounter (replace echo monks with meenlocks)
 3. Add atmospheric details: scratch marks, psychic whispers, shadow presence
@@ -50,6 +60,7 @@ When the ritual catastrophically failed 300 years ago, the combination of dimens
 6. Add knowledge/lore rewards that connect meenlock creation to larger planar corruption patterns
 
 ## Campaign Connections
+
 - **Evidence of transformation**: Rifts don't just open doors—they corrupt and warp living creatures
 - **Warning sign**: If this happened 300 years ago from ONE failed ritual, what might be happening at active rift sites?
 - **Vaud Qalix connection**: His experiments with planar rifts across Wildemount could be creating similar corrupted spawn
@@ -57,6 +68,7 @@ When the ritual catastrophically failed 300 years ago, the combination of dimens
 - **Research value**: The monks' documentation of HOW the meenlocks formed is invaluable intelligence for understanding current threats
 
 ## Design Notes
+
 - Meenlocks have darkvision 120 ft., telepathy 120 ft., Fear Aura (10 ft.)
 - Shadow Teleport ability creates dynamic combat
 - Psychic damage and curse effects make them memorable
@@ -65,6 +77,7 @@ When the ritual catastrophically failed 300 years ago, the combination of dimens
 - Total darkness of monastery perfectly suits them
 
 ## What NOT to Change
+
 - Keep all phase spider encounters as written
 - Maintain phase spider "tragic victims" storyline
 - Don't add meenlocks to spider territory areas (10, 11, 19, 20)
@@ -76,7 +89,7 @@ Add a Blink Bomb as discoverable treasure somewhere in the Keep (as well as one 
 
 ### Blink Bomb
 
-_Wondrous item, uncommon_
+*Wondrous item, uncommon*
 
 This small sphere contains alchemically treated smoke powder. When thrown or crushed, it creates a brief planar distortion that allows short-range teleportation.
 
@@ -120,7 +133,7 @@ The monastery sits at high altitude in the Cyrios Mountains, where the air is th
 
 - **Planar Researchers**: The party is hired by scholars studying dimensional rifts to investigate reports of strange ethereal disturbances emanating from the Cyrios peaks.
 - **Missing Expedition**: A group of mountain climbers discovered the entrance but never returned. Their families offer a reward for answers.
-- **Phase Spider Encounters**: Travelers report phase spiders behaving strangely near the mountains - some appearing almost... sad?
+- **Phase Spider Encounters**: Travelers report phase spiders behaving strangely near the mountains - some appearing almost… sad?
 - **Ancient Knowledge**: Rumors speak of firbolg texts containing pre-Calamity dimensional magic housed in a lost mountain monastery.
 - **Mountain Passage**: Local guides mention an old story about a "path through the mountain" that avoids the dangerous exterior passes.
 
@@ -133,6 +146,7 @@ The monastery sits at high altitude in the Cyrios Mountains, where the air is th
 A recent avalanche has cleared centuries of accumulated rockfall and snow, revealing a **rectangular opening** (5 feet wide, 10 feet tall) carved directly into the mountain face. The opening appears artificial, with smooth stone edges that show tool marks from long ago.
 
 **Survival:
+
 - **(DC 12)**: The avalanche occurred recently - within the past few weeks.
 - **(DC 18)** Animal tracks around the entrance suggest local wildlife is avoiding the area.
 
@@ -148,7 +162,7 @@ A 130-foot winding passage slopes gently downward into the mountain. The walls a
 
 ## Area 1: Entrance Stairway
 
-_Transition from surface to monastery proper_
+*Transition from surface to monastery proper*
 
 ### Description
 
@@ -162,7 +176,7 @@ _Transition from surface to monastery proper_
 
 ## Area 2: Reception Chamber
 
-_Formal entrance for guests and ceremonies_
+*Formal entrance for guests and ceremonies*
 
 ### Description
 
@@ -175,7 +189,7 @@ _Formal entrance for guests and ceremonies_
 
 **DM Notes**:
 
-- **Dimensional Instability**: spells with random effects (like _Wild Magic_) have a 10% chance of triggering unusual results or attracting **1d3 phase spiders** that are watching from the Ethereal Plane
+- **Dimensional Instability**: spells with random effects (like *Wild Magic*) have a 10% chance of triggering unusual results or attracting **1d3 phase spiders** that are watching from the Ethereal Plane
 - **Cultural Clues**: The oversized furniture suggests the original inhabitants were larger than typical humanoids (firbolgs)
 - Door to the north is completely blocked by rubble on the other side. It is not possible to open it. Removing the door reveals floor-to-ceiling rockfall blocking the entrance. If players use magic to dig through (such as stoneshape) they will discover the passageway leading to area 20.
 
@@ -195,18 +209,18 @@ _Formal entrance for guests and ceremonies_
 
 ## Area 3: Monk's Residence
 
-_Communal sleeping quarters_
+*Communal sleeping quarters*
 
 ### Description
 
-> This large square chamber appears to have served as sleeping quarters. Stone  platforms line the walls, each with carved storage niches beneath, and a small desk. Personal belongings remain scattered about: clothing, simple tools, and various personal items that appear remarkably well-preserved. Doors lead to the north and west.
+> This large square chamber appears to have served as sleeping quarters. Stone platforms line the walls, each with carved storage niches beneath, and a small desk. Personal belongings remain scattered about: clothing, simple tools, and various personal items that appear remarkably well-preserved. Doors lead to the north and west.
 
 ### Features
 
 - **Sleeping Platforms**: 7 stone beds with integrated storage
 - **Personal Effects**: Clothing, simple tools, and personal items remain remarkably well-preserved
 - **Central Brazier**: A large fire bowl provided heat for the chamber (cold ashes remain)
-- **Construction**: _[Worked stone - purpose-built dormitory]_
+- **Construction**: *[Worked stone - purpose-built dormitory]*
 
 ### Treasure
 
@@ -220,7 +234,7 @@ _Communal sleeping quarters_
 
 ## Area 4: Crossroads
 
-_Junction between monastery sections_
+*Junction between monastery sections*
 
 ### Description
 
@@ -231,13 +245,13 @@ _Junction between monastery sections_
 - **Directional Markers**: Stone markers in the floor, written in Giant, indicating "Living Quarters," "Workshop," "Sacred Spaces," and "Research Areas"
 - **Locked door**: the double doors to room 21 at the east end of the corridor are locked.
 - **Natural Acoustics**: Sounds carry well here, making it easy to hear activity in connected areas
-- **Construction**: _[Combination - natural space enhanced with worked stone]_
+- **Construction**: *[Combination - natural space enhanced with worked stone]*
 
 ---
 
 ## Area 5: Infirmary
 
-_Medical treatment room_
+*Medical treatment room*
 
 ### Description
 
@@ -248,7 +262,7 @@ _Medical treatment room_
 - **Medical Supplies**: Many herbs and simple medicines remain potent after centuries
 - **Treatment Table**: Stone surface with restraint points for treating difficult patients
 - **Spider Tunnel**: Leads to Areas 11 & 12, dug by phase spiders after the monastery's abandonment
-- **Construction**: _[Worked stone with recent natural modification]_
+- **Construction**: *[Worked stone with recent natural modification]*
 
 ### Treasure
 
@@ -264,25 +278,26 @@ _Medical treatment room_
 
 ## Area 6: Dining and Recreation Area
 
-_Communal gathering space_
+*Communal gathering space*
 
 ### Description
 
-> This L-shaped chamber appears to have served multiple purposes.Two large stone tables appear in the northern portion. Each table has a large grid carved into the surface. On the eastern wall is a long stone shelving unit with stacks of bowls, plates, and utensils. A single pottery jug sits on the top shelf. In the southern leg of the L are three open alcoves. They are empty save for one round stone cylinder and a well-preserved wooden shovel. 
+> This L-shaped chamber appears to have served multiple purposes.Two large stone tables appear in the northern portion. Each table has a large grid carved into the surface. On the eastern wall is a long stone shelving unit with stacks of bowls, plates, and utensils. A single pottery jug sits on the top shelf. In the southern leg of the L are three open alcoves. They are empty save for one round stone cylinder and a well-preserved wooden shovel.
 
 ### Features
 
 - **Communal Tables**: Stone furniture sized for firbolgs but usable by all
 - **Game Surfaces**: Stone game boards for various strategy games carved into tables
 - **Recreation Storage**: Wooden game pieces, simple instruments, and books
-- **Construction**: _[Worked stone - purpose-built community space]_
+- **Construction**: *[Worked stone - purpose-built community space]*
 
 ### Social Discovery
 
 **Investigation (DC 14)**: Game pieces and worn table surfaces suggest this was a lively, social community before the tragedy.
 
 ### Treasure
-The jug is a *Jug of Alchemy*. 
+
+The jug is a *Jug of Alchemy*.
 
 The stone cylinder is sealed with wax. Inside are a dozen black orbs of various sizes floating in a milky, viscous liquid. A DC 10 Nature or Survival check will confirm that the substance seems safe and nontoxic. The mixture has a faint briny, acidic smell like pickles, and in fact these are *[[Pickled Phase Spider Eyes]]*.
 
@@ -290,11 +305,11 @@ The stone cylinder is sealed with wax. Inside are a dozen black orbs of various 
 
 ## Area 7: Kitchen
 
-_Food preparation area_
+*Food preparation area*
 
 ### Description
 
-> This rectangular chamber served as a kitchen. A large wooden table is overturned in one corner, while a large rusty iron stove dominates one wall with an adjustable spit and various cooking implements. Stone jars, cooking utensils, and carved tablets with what appear to be recipes are stacked on shelves along the southern wall. A stone basin in the northeast corner is filled with water. Two 
+> This rectangular chamber served as a kitchen. A large wooden table is overturned in one corner, while a large rusty iron stove dominates one wall with an adjustable spit and various cooking implements. Stone jars, cooking utensils, and carved tablets with what appear to be recipes are stacked on shelves along the southern wall. A stone basin in the northeast corner is filled with water. Two
 
 ### Features
 
@@ -313,11 +328,11 @@ _Food preparation area_
 
 ## Area 8: Storage
 
-_General supplies and equipment_
+*General supplies and equipment*
 
 ### Description
 
-> This chamber is empty save for a long table and two chairs overturned in one corner. To the north is an open doorway. The door which used to be here is broken and lying on the floor in the next room. The western wall is completely destroyed, opening into  a natural passageway beyond.
+> This chamber is empty save for a long table and two chairs overturned in one corner. To the north is an open doorway. The door which used to be here is broken and lying on the floor in the next room. The western wall is completely destroyed, opening into a natural passageway beyond.
 
 This passage used to be separated from the monastery by a wall with a door, but phase spiders expanded the opening over the centuries as they emptied the storage area of its usable materials. The monks would pass through this door to enter the sacred spaces beyond while doing their research and meditations.
 
@@ -325,7 +340,7 @@ This passage used to be separated from the monastery by a wall with a door, but 
 
 ## Area 9: Latrine
 
-_Waste facilities_
+*Waste facilities*
 
 ### Description
 
@@ -337,13 +352,13 @@ _Waste facilities_
 - **Multiple Stations**: Could accommodate several users simultaneously
 - **Ventilation**: Fresh air circulation prevents odors
 - **Privacy Divisions**: Stone partitions between stations
-- **Construction**: _[Worked stone utilizing natural water features]_
+- **Construction**: *[Worked stone utilizing natural water features]*
 
 ---
 
 ## Area 10: Spider Nursery
 
-_Natural cave serving as phase spider breeding ground_
+*Natural cave serving as phase spider breeding ground*
 
 ### Description
 
@@ -355,7 +370,7 @@ _Natural cave serving as phase spider breeding ground_
 - **Natural Alcoves**: Rock formations create protected nesting spaces
 - **Unstable Reality**: The barrier between planes is particularly thin here
 - **Connection**: A natural passage leads south to another cave area
-- **Construction**: _[Natural cave - unmodified by original inhabitants]_
+- **Construction**: *[Natural cave - unmodified by original inhabitants]*
 
 ### DM Notes
 
@@ -384,7 +399,7 @@ _Natural cave serving as phase spider breeding ground_
 
 ## Area 11: Spider Guards
 
-_Sentry post and molting chamber_
+*Sentry post and molting chamber*
 
 ### Description
 
@@ -398,7 +413,7 @@ _Sentry post and molting chamber_
 - **Suspended Spider Forms**: Approximately a dozen large spiders hang motionless in the webs throughout the chamber.
 - **Flammable**: The webs are highly flammable. Any 5-foot cube exposed to fire burns away in 1 round, dealing 2d4 fire damage to any creature that starts its turn in the fire.
 - **Multiple Exits**: Natural passages lead east (toward Area 10) and west (toward Spider Warren).
-- **Construction**: _[Natural cave - unmodified by original inhabitants]_
+- **Construction**: *[Natural cave - unmodified by original inhabitants]*
 
 ### DM Notes
 
@@ -421,7 +436,7 @@ _Sentry post and molting chamber_
 
 ## Area 12: Underground Pond
 
-_Natural water source, now hunting ground for aberrations_
+*Natural water source, now hunting ground for aberrations*
 
 ### Description
 
@@ -437,7 +452,7 @@ _Natural water source, now hunting ground for aberrations_
 - **Narrow Ledges**: Rock shelves around the pond's edge provide limited safe footing (5 feet wide at most)
 - **Slippery Surfaces**: DC 12 Dexterity save to move around pond edge without slipping into water
 - **Multiple Exits**: Passages lead northwest to Area 13, north to Spider Warren, and a low squeeze passage (4 feet high) connects west to Spider Passage and Area 11
-- **Construction**: _[Natural cave - unmodified by original inhabitants]_
+- **Construction**: *[Natural cave - unmodified by original inhabitants]*
 
 ### Hidden Elements
 
@@ -489,7 +504,7 @@ Despite the current danger, this chamber once held significance for the monaster
 
 ## Area 13: Prayer Hall
 
-_Natural cave converted for communal worship_
+*Natural cave converted for communal worship*
 
 ### Description
 
@@ -502,7 +517,7 @@ _Natural cave converted for communal worship_
 - **Sacred Geometry**: Wall carvings designed to focus dimensional awareness
 - **Altar Spaces**: Multiple stone platforms for different ceremonial purposes
 - **Ethereal Bleed**: Dimensional meditation practices have made ethereal creatures partially visible here
-- **Construction**: _[Natural cavern with minimal worked stone additions]_
+- **Construction**: *[Natural cavern with minimal worked stone additions]*
 
 ### Sacred Features
 
@@ -513,7 +528,7 @@ _Natural cave converted for communal worship_
 
 ## Area 14: Workshop (Primary)
 
-_Main crafting and dimensional equipment construction_
+*Main crafting and dimensional equipment construction*
 
 ### Description
 
@@ -527,7 +542,7 @@ _Main crafting and dimensional equipment construction_
 - **Material Stockpile**: Raw crystals, metals, and exotic materials for dimensional research
 - **Ventilation System**: Channels cut to direct airflow and remove smoke
 - **Multiple Exits**: Low crawl passage south to Area 13, large natural passage north to Area 15, passage northeast to Area 16
-- **Construction**: _[Natural cavern with extensive worked stone modifications]_
+- **Construction**: *[Natural cavern with extensive worked stone modifications]*
 
 ### Workshop Contents
 
@@ -549,7 +564,7 @@ _Main crafting and dimensional equipment construction_
 
 ## Area 15: Library Cavern
 
-_Natural cave converted to house research materials_
+*Natural cave converted to house research materials*
 
 ### Description
 
@@ -562,7 +577,7 @@ _Natural cave converted to house research materials_
 - **Crystal Lighting**: Natural formations enhanced to provide steady light
 - **Climate Control**: Natural cave conditions perfect for preservation
 - **Archive Organization**: Materials sorted by subject using Giant script labels
-- **Construction**: _[Natural cavern with moderate worked stone modifications]_
+- **Construction**: *[Natural cavern with moderate worked stone modifications]*
 
 ### The Collection
 
@@ -573,14 +588,14 @@ _Natural cave converted to house research materials_
 
 ### Major Treasure
 
-- **The Dimensional Codex**: Complete firbolg research on phase spiders and dimensional magic (spellbook containing _Misty Step_, _Dimension Door_, _Plane Shift_, and _Etherealness_)
+- **The Dimensional Codex**: Complete firbolg research on phase spiders and dimensional magic (spellbook containing *Misty Step*, *Dimension Door*, *Plane Shift*, and *Etherealness*)
 - **Ancient Texts**: Library worth 500 gp total to collectors and scholars
 
 ---
 
 ## Area 16: Workshop (Secondary) with External Access
 
-_Specialized heavy work area with mountain access_
+*Specialized heavy work area with mountain access*
 
 ### Description
 
@@ -593,7 +608,7 @@ _Specialized heavy work area with mountain access_
 - **Containment Testing**: Reinforced areas where dimensional fields could be safely tested
 - **External Access**: Stone stairway leading to hidden exit (allows passage through the mountain)
 - **Isolation Design**: Separated from other areas to prevent dimensional interference
-- **Construction**: _[Worked stone - purpose-built for precision dimensional work]_
+- **Construction**: *[Worked stone - purpose-built for precision dimensional work]*
 
 ### Why Constructed Rather Than Natural?
 
@@ -607,7 +622,7 @@ The monks discovered that dimensional magic requires geometric precision that na
 
 **Perception (DC 12)**: Characters who search the northwestern area can hear and feel air moving through cracks in the cave-in rock, indicating a passage beyond. The airflow is steady and cool, suggesting it connects to the outside.
 
-**Clearing the Rubble**: The cave-in can be cleared with approximately 2 hours of work (or 1 hour with multiple people working), though this will be noisy and may attract attention from creatures elsewhere in the complex. Alternatively, magic such as _stone shape_ or similar spells can create a passage more quickly and quietly.
+**Clearing the Rubble**: The cave-in can be cleared with approximately 2 hours of work (or 1 hour with multiple people working), though this will be noisy and may attract attention from creatures elsewhere in the complex. Alternatively, magic such as *stone shape* or similar spells can create a passage more quickly and quietly.
 
 **The Exterior Exit**: Once past the rubble and up the stairs, the exit emerges on a rocky outcrop roughly 200 feet above the main entrance. The opening is naturally concealed by an overhang and surrounding boulders. From the outside:
 
@@ -621,72 +636,74 @@ This exit offers the party a safe route out that bypasses both the avalanche-blo
 ---
 
 ---
+
 ## Area 17: Memorial and Preparation Chamber
 
-_Sacred space for honoring the founders and calibrating the room before dimensional descent. Brother Kelmen has been trapped here for 300 years._
+*Sacred space for honoring the founders and calibrating the room before dimensional descent. Brother Kelmen has been trapped here for 300 years.*
 
 ---
+
 ### Room
 
-> This rectangular chamber — 50 by 40 feet, 13-foot ceiling — is worked stone of unusual precision. Three deep alcoves open from the north, east, and west walls, each containing a stone sarcophagus. Before each sarcophagus lies a polished stone slab bearing a weapon: a great shield to the west, a longsword to the north, a longbow to the east. The names of the three founders are carved in Giant script above each alcove.
-> 
-> In each corner of the room sits a circular disk about two feet across, flush with the floor, made of unusually dense dark wood with a faint iridescent quality. A central peg allows each disk to be rotated. Two smaller alcoves near the southern entrance hold stone preservation vessels — long empty.
-> 
+> This rectangular chamber—50 by 40 feet, 13-foot ceiling—is worked stone of unusual precision. Three deep alcoves open from the north, east, and west walls, each containing a stone sarcophagus. Before each sarcophagus lies a polished stone slab bearing a weapon: a great shield to the west, a longsword to the north, a longbow to the east. The names of the three founders are carved in Giant script above each alcove.
+>
+> In each corner of the room sits a circular disk about two feet across, flush with the floor, made of unusually dense dark wood with a faint iridescent quality. A central peg allows each disk to be rotated. Two smaller alcoves near the southern entrance hold stone preservation vessels—long empty.
+>
 > The room is pristine. Nothing has been disturbed in three hundred years.
 
 |Feature|Notes|
 |---|---|
 |**Founders' Tombs**|Three alcoves (W/N/E); sarcophagi sealed; weapons masterwork, not magical|
-|— West|Ondur's great shield — _protection_|
-|— North|Brekkan's longsword — _discipline_|
-|— East|Solvei's longbow — _precision_|
+|—West|Ondur's great shield—*protection*|
+|—North|Brekkan's longsword—*discipline*|
+|—East|Solvei's longbow—*precision*|
 |**Soulwood Disks**|Four corner disks; control planar flow through the room; currently miscalibrated; DC 13 Arcana/Nature to identify|
 |**Preservation Vessels**|Two alcoves near south entrance; Investigation DC 14 → 100 gp (coins + gemstones)|
-|**South Passage**|Leads to Area 18; clear on this side — webbing barrier is on the Area 18 side|
+|**South Passage**|Leads to Area 18; clear on this side—webbing barrier is on the Area 18 side|
 
 ---
 
 ### Encounter Sequence
 
-#### Stage 1 — First Contact
+#### Stage 1—First Contact
 
 **What happens:** Kelmen materializes without warning, startled, flickering between solid and translucent.
 
-**His words** (archaic Giant — threatening _or_ desperate; don't resolve the ambiguity):
+**His words** (archaic Giant—threatening *or* desperate; don't resolve the ambiguity):
 
 |Giant|Translation|
 |---|---|
-|_"Skade... deg... am... maat stanse..."_|"Harm... you... I... must stop..."|
-|_"Farel... dir... deg... bringer... dod..."_|"Danger... here... you... bring... death..."|
-|_"Kor lang... kor... dei forlot meg... kvorfor..."_|"How long... how... they left me... why..."|
+|*"Skade… deg… am… maat stanse…"*|"Harm… you… I… must stop…"|
+|*"Farel… dir… deg… bringer… dod…"*|"Danger… here… you… bring… death…"|
+|*"Kor lang… kor… dei forlot meg… kvorfor…"*|"How long… how… they left me… why…"|
 
-> [!note]- Pronunciation SKAH-deh... day... ahm... maht STAHN-seh / FAH-rel... deer... day... BRING-er... dohd / kor lahng... kor... day for-LOT may... KVOR-for
+> [!note]- Pronunciation SKAH-deh… day… ahm… maht STAHN-seh / FAH-rel… deer… day… BRING-er… dohd / kor lahng… kor… day for-LOT may… KVOR-for
 
 **Language:** No party member speaks Giant.
 
-- **Drawg** — DC 12 Intelligence to identify the language; reframes this as a communication problem, not a hostility problem
+- **Drawg**—DC 12 Intelligence to identify the language; reframes this as a communication problem, not a hostility problem
 - **Once a two-way bridge is established** (e.g. Hesterian's Universal Speech + Seraphina's Comprehend Languages), Kelmen adapts; no further mechanics
 
 **If players attack:**
 
-- _Beat one:_ Kelmen moves to raise Ondur's shield defensively — DC 12 Insight reads this as protective, not offensive
-- _Beat two:_ Shouts _"Stansa! Am ne farel til deg!"_ ("Stop! I mean no danger to you!") — DC 12 Insight on tone for non-Giant speakers
-- _If they continue:_ Dimensional Shove to push back, never pursues; dissipates at 0 HP; ritual cannot be completed
+- *Beat one:* Kelmen moves to raise Ondur's shield defensively—DC 12 Insight reads this as protective, not offensive
+- *Beat two:* Shouts *"Stansa! Am ne farel til deg!"* ("Stop! I mean no danger to you!")—DC 12 Insight on tone for non-Giant speakers
+- *If they continue:* Dimensional Shove to push back, never pursues; dissipates at 0 HP; ritual cannot be completed
 
 ---
 
-#### Stage 2 — Establishing Trust
+#### Stage 2—Establishing Trust
 
 **What calms him:**
 
 - Speaking gently, demonstrating no threat
-- Paying respects at the founders' tombs — he visibly settles; reads it as proof of intention
+- Paying respects at the founders' tombs—he visibly settles; reads it as proof of intention
 
-**The Flute Moment** _(Popcorn only — pull to private channel)_
+**The Flute Moment** *(Popcorn only—pull to private channel)*
 
-Kelmen grows quiet. Popcorn's pan flute hums — not played, just carried. Everyone hears it. Kelmen looks at Popcorn. He appears pained.
+Kelmen grows quiet. Popcorn's pan flute hums—not played, just carried. Everyone hears it. Kelmen looks at Popcorn. He appears pained.
 
-> _"That instrument has been near a Fey crossing. Something on the other side has been listening to it for a long time. I don't know how I know that. I simply do."_
+> *"That instrument has been near a Fey crossing. Something on the other side has been listening to it for a long time. I don't know how I know that. I simply do."*
 
 - If Popcorn tries to reply → connection breaks immediately
 - Kelmen shakes his head slightly and continues
@@ -694,9 +711,9 @@ Kelmen grows quiet. Popcorn's pan flute hums — not played, just carried. Every
 
 ---
 
-#### Stage 3 — What Kelmen Explains
+#### Stage 3—What Kelmen Explains
 
-_Responds to what the party engages with — doesn't dump everything at once._
+*Responds to what the party engages with—doesn't dump everything at once.*
 
 **The ritual:**
 
@@ -709,26 +726,26 @@ _Responds to what the party engages with — doesn't dump everything at once._
 - Current config insulates the room; needs to channel planar flow downward toward Area 22
 - Spent decades unable to solve the calibration problem
 
-> _"We could sense planar flow — years of meditation gave us that. But sensing it and measuring it precisely are different things. We needed something that did not just perceive the current but held still within it. A fixed point. Something that would resonate at exactly the right frequency when the alignment was correct. We never found such a thing."_
+> *"We could sense planar flow—years of meditation gave us that. But sensing it and measuring it precisely are different things. We needed something that did not just perceive the current but held still within it. A fixed point. Something that would resonate at exactly the right frequency when the alignment was correct. We never found such a thing."*
 
 **If the Luxon Beacon is visible:** Kelmen goes still; flickering slows.
 
-> _"Where did you find that? That... I have felt something like it only once before, in a Fey crossing deep beneath the Savalirwood. A fixed point. Something that holds the moment still while everything moves around it."_
+> *"Where did you find that? That… I have felt something like it only once before, in a Fey crossing deep beneath the Savalirwood. A fixed point. Something that holds the moment still while everything moves around it."*
 
-- He doesn't know its name or significance; he recognizes what it _does_
-- He does not connect it to the puzzle — that's for the players
+- He doesn't know its name or significance; he recognizes what it *does*
+- He does not connect it to the puzzle—that's for the players
 
-> [!note]- If they don't connect the Beacon to the puzzle Kelmen can add: _"Something that resonates. Not with sound — with the between-spaces. When alignment is correct, such a thing would answer."_ Last resort: DC 14 Arcana prompts a character to recall the Beacon responding to planar energy at Cloudfang. Memory jog only — player still has to propose trying it.
+> [!note]- If they don't connect the Beacon to the puzzle Kelmen can add: *"Something that resonates. Not with sound—with the between-spaces. When alignment is correct, such a thing would answer."* Last resort: DC 14 Arcana prompts a character to recall the Beacon responding to planar energy at Cloudfang. Memory jog only—player still has to propose trying it.
 
 ---
 
-#### Stage 4 — Disk Puzzle
+#### Stage 4—Disk Puzzle
 
 **Goal:** Orient all four disks so planar energy flows downward toward Area 22.
 
 **The Beacon:**
 
-- Wherever the party places it is correct; Kelmen confirms: _"Yes. There. That feels right."_
+- Wherever the party places it is correct; Kelmen confirms: *"Yes. There. That feels right."*
 - If asked where to put it: he doesn't know; he recognizes correct when he perceives it
 
 **Feedback:**
@@ -738,38 +755,38 @@ _Responds to what the party engages with — doesn't dump everything at once._
 |Single disk correct, others wrong|Faint flicker|
 |All four correct simultaneously|Strong, steady pulse|
 
-**Checks:** DC 14 Arcana per disk — failure means slower adjustment, not wrong; no penalty beyond time; advantage with Arcana proficiency + Lorestone shard attunement.
+**Checks:** DC 14 Arcana per disk—failure means slower adjustment, not wrong; no penalty beyond time; advantage with Arcana proficiency + Lorestone shard attunement.
 
 **No Beacon:** Puzzle cannot be completed; Kelmen confirms sadly.
 
 **Resolution:** All four align → Kelmen stabilizes fully, solid for the first time in three centuries; air shifts (warmer, more present, less liminal).
 
-_Give it a moment. He looks at his hands. He touches the stone wall. He doesn't speak immediately._
+*Give it a moment. He looks at his hands. He touches the stone wall. He doesn't speak immediately.*
 
 ---
 
-#### Stage 5 — Weapon Choice
+#### Stage 5—Weapon Choice
 
-_Kelmen asks the party to choose the binding weapon. He does not advocate._
+*Kelmen asks the party to choose the binding weapon. He does not advocate.*
 
 |Weapon|Founder|His words|
 |---|---|---|
-|Great shield|Ondur|_"Protection was the highest discipline. The strongest purpose of power is to stand between harm and those who cannot defend themselves."_|
-|Longsword|Brekkan|_"Discipline was protection. Without rigor and clarity, every other virtue collapses."_|
-|Longbow|Solvei|_"Precision was the truest form of both. To act correctly, you must first see correctly."_|
+|Great shield|Ondur|*"Protection was the highest discipline. The strongest purpose of power is to stand between harm and those who cannot defend themselves."*|
+|Longsword|Brekkan|*"Discipline was protection. Without rigor and clarity, every other virtue collapses."*|
+|Longbow|Solvei|*"Precision was the truest form of both. To act correctly, you must first see correctly."*|
 
 After the choice, Kelmen looks at the weapon for a long moment. Then:
 
-> _"Then we are ready. Or nearly. What waits below must be cleansed first. I will be at the breach."_
+> *"Then we are ready. Or nearly. What waits below must be cleansed first. I will be at the breach."*
 
 ---
 
-#### Stage 6 — Kelmen Waits
+#### Stage 6—Kelmen Waits
 
 - Positions at the south passage entrance, looking toward Area 18
 - Will not enter until the party returns from cleansing Area 22
 
-> _"I have stood at this edge every day for three hundred years. I could not cross — the corruption below held me back. If you can cleanse what is down there, I will be able to follow."_
+> *"I have stood at this edge every day for three hundred years. I could not cross—the corruption below held me back. If you can cleanse what is down there, I will be able to follow."*
 
 ---
 
@@ -777,30 +794,32 @@ After the choice, Kelmen looks at the weapon for a long moment. Then:
 
 | Item                   | Value           | Notes                                                                                                |
 | ---------------------- | --------------- | ---------------------------------------------------------------------------------------------------- |
-| Masterwork weapons (3) | 500 gp total    | More as cultural artifacts; chosen weapon → sentient after ritual — see [[kelmen_ritual_resolution]] |
+| Masterwork weapons (3) | 500 gp total    | More as cultural artifacts; chosen weapon → sentient after ritual—see [[kelmen_ritual_resolution]] |
 | Preservation vessels   | 100 gp          | Coins + gemstones; Investigation DC 14                                                               |
 | Soulwood disks (4)     | 150–200 gp each | Removable after ritual completion; valuable to artificers, druids with planar research interests     |
 
 ---
+
 ---
 
 ## Area 18: Dimensional Breach
 
-_The floor of this chamber collapsed 300 years ago during the catastrophe, opening a drop directly into Area 22 below._
+*The floor of this chamber collapsed 300 years ago during the catastrophe, opening a drop directly into Area 22 below.*
 
 ---
+
 ### Room
 
 Three read-aloud options depending on conditions:
 
 **If Darkness has been cast:**
 
-> The passage ahead ends in absolute blackness — not the grey nothing of an unlit cave, but a void that swallows your darkvision entirely. The air coming from the opening is several degrees colder than the passage behind you and smells faintly of ozone. From beyond the blackness, sound echoes in strange and disorienting ways, suggesting a very large and oddly oriented space.
+> The passage ahead ends in absolute blackness—not the grey nothing of an unlit cave, but a void that swallows your darkvision entirely. The air coming from the opening is several degrees colder than the passage behind you and smells faintly of ozone. From beyond the blackness, sound echoes in strange and disorienting ways, suggesting a very large and oddly oriented space.
 
 **If characters can see the opening:**
 
-> The passage opens onto a ledge above nothing. The entire floor of the chamber is gone — a triangular void with a passage at each corner and open air between them. The walls are rough natural stone. The northern passage is sealed with a dense mass of spider webbing, thick enough that nothing is visible beyond it.
-> 
+> The passage opens onto a ledge above nothing. The entire floor of the chamber is gone—a triangular void with a passage at each corner and open air between them. The walls are rough natural stone. The northern passage is sealed with a dense mass of spider webbing, thick enough that nothing is visible beyond it.
+>
 > The air here is several degrees colder than the passage behind you and smells faintly of ozone.
 
 **If characters can see beyond 60 feet:**
@@ -821,8 +840,8 @@ Three read-aloud options depending on conditions:
 |---|---|
 |**Slashing weapons**|Three DC 13 Athletics checks; 1 minute each; loud|
 |**Fire**|Clears in 2 rounds; DC 12 Con save each round in passage for 5 minutes or incapacitated; risk of spreading|
-|**Force/thunder** (_Shatter_, _Thunderwave_)|Counts as two successes per casting; very loud|
-|**Careful magic** (_Mage Hand_, telekinesis)|DC 15 Arcana; 10 minutes; silent|
+|**Force/thunder** (*Shatter*, *Thunderwave*)|Counts as two successes per casting; very loud|
+|**Careful magic** (*Mage Hand*, telekinesis)|DC 15 Arcana; 10 minutes; silent|
 
 Squeezing through partial opening (two successes): DC 10 Dex check or restrained (escape DC 12 Strength).
 
@@ -839,12 +858,12 @@ Squeezing through partial opening (two successes): DC 10 Dex check or restrained
 
 ### Descent into Area 22
 
-The former floor was ~10 feet thick. The breach lip sits 10 feet above the top of Area 22's chamber wall, then 30 feet further to the central platform — **40 feet total from the lip**. No handholds remain.
+The former floor was ~10 feet thick. The breach lip sits 10 feet above the top of Area 22's chamber wall, then 30 feet further to the central platform—**40 feet total from the lip**. No handholds remain.
 
 |Option|Notes|
 |---|---|
 |**Rope**|Standard descent|
-|**Magic**|_Feather Fall_, _Fly_, _Spider Climb_, etc.|
+|**Magic**|*Feather Fall*, *Fly*, *Spider Climb*, etc.|
 |**Wall climb**|DC 14 Athletics|
 |**Uncontrolled fall**|40 ft. to platform (4d6 bludgeoning); see Area 22 for full entry mechanics|
 
@@ -854,111 +873,113 @@ The former floor was ~10 feet thick. The breach lip sits 10 feet above the top o
 
 Use sourcebook stat block.
 
-**Setup:** Witnessed companions die in Area 14; retreated here; cast _Darkness_ before the party arrives. As the party moves through Area 13 toward the SW passage, uses _Mind Spike_ (range 60 ft.) on a target it can sense — DC 12 Intelligence save; 14 (4d6) psychic damage on failure, half on success. Target has no sense of direction or source.
+**Setup:** Witnessed companions die in Area 14; retreated here; cast *Darkness* before the party arrives. As the party moves through Area 13 toward the SW passage, uses *Mind Spike* (range 60 ft.) on a target it can sense—DC 12 Intelligence save; 14 (4d6) psychic damage on failure, half on success. Target has no sense of direction or source.
 
 **Tactics:**
 
-- Prioritizes _Maddening Thoughts_ against characters mid-traverse — stunned creature may lose grip (DC 12 Strength save from creature or adjacent ally)
-- Uses _Shadow Teleport_ to reposition while _Darkness_ holds
-- Once _Darkness_ ends: retreats toward webbing barrier, uses it as cover
+- Prioritizes *Maddening Thoughts* against characters mid-traverse—stunned creature may lose grip (DC 12 Strength save from creature or adjacent ally)
+- Uses *Shadow Teleport* to reposition while *Darkness* holds
+- Once *Darkness* ends: retreats toward webbing barrier, uses it as cover
 
-**Morale:** At 15 HP or fewer, flees into N passage via _Shadow Teleport_ if recharged; otherwise fights from webbing cover.
+**Morale:** At 15 HP or fewer, flees into N passage via *Shadow Teleport* if recharged; otherwise fights from webbing cover.
 
-**Note:** _Mind Spike_ and _Darkness_ both spent before combat begins. _Shadow Teleport_ recharges on 5–6.
+**Note:** *Mind Spike* and *Darkness* both spent before combat begins. *Shadow Teleport* recharges on 5–6.
 
 ---
 
 ### DM Notes
 
 > [!note]- The echo
-> 
+>
 > clue If a player asks about sounds before entering: the echoes return from 30 feet below, not a nearby floor. This is their warning.
 
 > [!note]- Darkness and the missing floor
-> 
-> When _Darkness_ ends, the full scope of the missing floor is revealed for the first time. Give the table a moment with it.
+>
+> When *Darkness* ends, the full scope of the missing floor is revealed for the first time. Give the table a moment with it.
 
 > [!note]- Combat noise
-> 
-> Fighting here is audible in Area 22 below. The meenlocks do not respond — their vigil is focused entirely on the Whisper, not sounds above — but note it for atmosphere.
+>
+> Fighting here is audible in Area 22 below. The meenlocks do not respond—their vigil is focused entirely on the Whisper, not sounds above—but note it for atmosphere.
 
 > [!note]- Webbing and phase spiders
-> 
-> Clearing the webbing with fire or _Shatter_ may draw curious phase spiders from Area 19 (DC 14 Perception to hear). They approach cautiously, not aggressively.
+>
+> Clearing the webbing with fire or *Shatter* may draw curious phase spiders from Area 19 (DC 14 Perception to hear). They approach cautiously, not aggressively.
 
 > [!note]- Kelmen at the breach
-> 
+>
 > After Area 17, Kelmen follows the party here and positions at the breach edge. He will not descend until the party returns from cleansing Area 22.
-> 
-> _"I have stood at this edge every day for three hundred years. I could not cross — the corruption below held me back. If you can cleanse what is down there, I will be able to follow."_
-> 
+>
+> *"I have stood at this edge every day for three hundred years. I could not cross—the corruption below held me back. If you can cleanse what is down there, I will be able to follow."*
+>
 > He means it literally. He waits.
+
 ---
 
 ---
+
 ## Areas 19–20: Specimen Research Complex
 
-_The place where the monks studied the phase spiders. The place the phase spiders never left._
+*The place where the monks studied the phase spiders. The place the phase spiders never left.*
 
-These rooms are optional — the party may skip them entirely. They can be visited before or after clearing Area 22; the Matriarch's state is the only meaningful variable.
+These rooms are optional—the party may skip them entirely. They can be visited before or after clearing Area 22; the Matriarch's state is the only meaningful variable.
 
 ---
 
 ### Area 19: Preparation Chamber
 
-> This large natural cavern has been extensively modified. Stone platforms line the walls at varying heights, each bearing deep grooves worn smooth by long use. Iron brackets — corroded but intact — are set into the rock at regular intervals, sized for something roughly the dimensions of a large spider. Webbing occupies the upper reaches of the chamber, old and grey, layered over decades. The air is cold and carries a faint ozone smell, like the air before a storm.
-> 
-> On the eastern wall, a series of shallow alcoves have been carved at eye level for a firbolg — well above the platforms — each containing the remains of what were once written records. Most are dust. Some are not.
-> 
+> This large natural cavern has been extensively modified. Stone platforms line the walls at varying heights, each bearing deep grooves worn smooth by long use. Iron brackets—corroded but intact—are set into the rock at regular intervals, sized for something roughly the dimensions of a large spider. Webbing occupies the upper reaches of the chamber, old and grey, layered over decades. The air is cold and carries a faint ozone smell, like the air before a storm.
+>
+> On the eastern wall, a series of shallow alcoves have been carved at eye level for a firbolg—well above the platforms—each containing the remains of what were once written records. Most are dust. Some are not.
+>
 > A wide passage opens to the south. From it comes the soft sound of something moving, very slowly, between planes.
 
 |Feature|Notes|
 |---|---|
-|**Platforms**|Examination surfaces; grooves deepest at edges — hundreds of placements; DC 13 Investigation: brackets sized specifically for phase spider anatomy; DC 15 Arcana: traces of dimensional anchoring runes, once prevented phasing|
+|**Platforms**|Examination surfaces; grooves deepest at edges—hundreds of placements; DC 13 Investigation: brackets sized specifically for phase spider anatomy; DC 15 Arcana: traces of dimensional anchoring runes, once prevented phasing|
 |**Record Alcoves**|DC 14 Investigation → fragments; DC 18 → partial page (see below)|
-|**Corroded Tools**|Measuring instruments (inert, Arcana proficiency identifies purpose); two sealed preservation jars — webbing samples + one desiccated phase spider egg; iron styluses|
-|**Webbing**|Upper reaches: old, grey, undisturbed; lower: active, maintained; transition at ~8 feet — 300 years of occupation, stratified|
+|**Corroded Tools**|Measuring instruments (inert, Arcana proficiency identifies purpose); two sealed preservation jars—webbing samples + one desiccated phase spider egg; iron styluses|
+|**Webbing**|Upper reaches: old, grey, undisturbed; lower: active, maintained; transition at ~8 feet—300 years of occupation, stratified|
 
 **DC 14 fragments:**
 
-- Numerical notations — counts or measurements
-- Repeated phrases: _"no visible distress"_ and _"resistance normalized"_
-- A sketch of a phase spider — careful, anatomically precise
+- Numerical notations—counts or measurements
+- Repeated phrases: *"no visible distress"* and *"resistance normalized"*
+- A sketch of a phase spider—careful, anatomically precise
 
-**DC 18 — partial page:**
+**DC 18—partial page:**
 
-> _"Day 340. Subject Four has ceased phasing during examination periods. We had interpreted this as cooperation — even, perhaps, trust. Brother Halvard suggested it might instead indicate resignation. We did not pursue the question. I find myself returning to it."_
+> *"Day 340. Subject Four has ceased phasing during examination periods. We had interpreted this as cooperation—even, perhaps, trust. Brother Halvard suggested it might instead indicate resignation. We did not pursue the question. I find myself returning to it."*
 
 **Treasure:**
 
 - Sealed jars: 40 gp to alchemist or planar researcher
-- Desiccated egg: 150+ gp to the right buyer — what they want it for is a separate question
+- Desiccated egg: 150+ gp to the right buyer—what they want it for is a separate question
 
 ---
 
 ### Area 20: Quarantine Chamber
 
-> The passage from Area 19 opens into a larger space dominated by a natural depression roughly 20 feet across and 6 feet deep, its walls lined with carved runic circles that still faintly glow — amber, irregular, dimming. Stone observation platforms are built into the chamber walls above the depression on three sides, each elevated enough to look down into it comfortably.
-> 
+> The passage from Area 19 opens into a larger space dominated by a natural depression roughly 20 feet across and 6 feet deep, its walls lined with carved runic circles that still faintly glow—amber, irregular, dimming. Stone observation platforms are built into the chamber walls above the depression on three sides, each elevated enough to look down into it comfortably.
+>
 > The depression is full of webs. Active, maintained, inhabited.
-> 
-> From within the webs, something watches you. Something large. You can see the shape of it — bigger than the phase spiders you've encountered elsewhere — holding perfectly still at the center of the depression, half-phased, its rear portion translucent and flickering. It is watching you with an attention that feels considered.
-> 
+>
+> From within the webs, something watches you. Something large. You can see the shape of it—bigger than the phase spiders you've encountered elsewhere—holding perfectly still at the center of the depression, half-phased, its rear portion translucent and flickering. It is watching you with an attention that feels considered.
+>
 > Around the depression's edges, smaller forms phase in and out. Three. Four. Perhaps more.
 
 |Feature|Notes|
 |---|---|
-|**The Depression**|Natural formation deepened by monks; ringed with dimensional anchor runes at ~10% capacity — not enough to prevent phasing, but the Matriarch treats it as home; DC 15 Arcana: identifies containment runes; DC 18: later additions made the anchoring _gentler_ — someone was trying to make it more comfortable|
-|**Observation Posts**|Three elevated platforms; worn stone seats; journal hook alcoves — all empty except eastern post|
+|**The Depression**|Natural formation deepened by monks; ringed with dimensional anchor runes at ~10% capacity—not enough to prevent phasing, but the Matriarch treats it as home; DC 15 Arcana: identifies containment runes; DC 18: later additions made the anchoring *gentler*—someone was trying to make it more comfortable|
+|**Observation Posts**|Three elevated platforms; worn stone seats; journal hook alcoves—all empty except eastern post|
 |**The Journal**|Cover: cured spider silk (intact); pages: water-damaged, partially legible; DC 13 Investigation to find; DC 15 to read (see below)|
 
 **Journal fragments:**
 
-> _"She knows when we are watching. Not that we are present — that we are watching."_
+> *"She knows when we are watching. Not that we are present—that we are watching."*
 
-> _"The younger ones have begun phasing more frequently when we enter. Sarkuun says this is stress behavior. I said it looked more like practice."_
+> *"The younger ones have begun phasing more frequently when we enter. Sarkuun says this is stress behavior. I said it looked more like practice."*
 
-> _"I asked Brother Kelmen today whether he thought they wanted to be here. He was quiet for a long time. He said he thought they had stopped asking themselves that question, and that this might be the saddest thing he had ever considered."_
+> *"I asked Brother Kelmen today whether he thought they wanted to be here. He was quiet for a long time. He said he thought they had stopped asking themselves that question, and that this might be the saddest thing he had ever considered."*
 
 **Treasure:**
 
@@ -973,15 +994,15 @@ Standard phase spider statistics; maximum HP (72).
 
 #### Before Area 22 Stabilization
 
-- Half-phased, flickering, uncertain — the between-spaces are still disturbed
+- Half-phased, flickering, uncertain—the between-spaces are still disturbed
 - Watchful but guarded; dimensional environment she's navigated her whole life is still torn
-- Smaller spiders take their cue from her — still if she's still, gone if she's threatened
+- Smaller spiders take their cue from her—still if she's still, gone if she's threatened
 
 #### After Area 22 Stabilization
 
 - More fully present; less fractional phasing
 - The disturbance that defined her environment for three centuries has quieted
-- Not grateful — she doesn't have that framework — but the texture of her attention has changed; she is _still_ in a way she has never been
+- Not grateful—she doesn't have that framework—but the texture of her attention has changed; she is *still* in a way she has never been
 
 #### Behavioral Logic
 
@@ -994,11 +1015,11 @@ Standard phase spider statistics; maximum HP (72).
 
 ### Dimensional Empathy
 
-**Reaction.** _Trigger: A creature the Matriarch can see takes no hostile action on its turn._
+**Reaction.** *Trigger: A creature the Matriarch can see takes no hostile action on its turn.*
 
 She phases briefly into the ethereal and projects a wordless impression directly into one creature's mind. The creature makes a **DC 13 Wisdom save** or is **incapacitated until the end of the Matriarch's next turn**. Regardless of save, the impression is received and remembered.
 
-**Release signal:** She phases back fully into the material plane — the first time she has committed entirely to being present. The incapacitation ends. It is visible. It means something.
+**Release signal:** She phases back fully into the material plane—the first time she has committed entirely to being present. The incapacitation ends. It is visible. It means something.
 
 She chooses who she reaches toward. A party that enters carefully gets her attention. A party that enters weapons drawn never sees this ability.
 
@@ -1006,34 +1027,34 @@ She chooses who she reaches toward. A party that enters carefully gets her atten
 
 ### The Impressions
 
-_Choose based on what would be most meaningful given the party's current knowledge. Deliver as fragmented sensation, not narration._
+*Choose based on what would be most meaningful given the party's current knowledge. Deliver as fragmented sensation, not narration.*
 
-**1 — The Early Days**
+**1—The Early Days**
 
 - Curiosity, not fear
-- A firbolg face seen from below — close, studying, warm in its attention even if its purpose was unclear
+- A firbolg face seen from below—close, studying, warm in its attention even if its purpose was unclear
 - Being touched carefully; handled with something not quite gentleness but not cruelty
 - A question hovering between them that was never asked
 
-**2 — The Change**
+**2—The Change**
 
-- Same faces, same routines — something different in the texture
+- Same faces, same routines—something different in the texture
 - Not hostile; absent. Looking through her at something else
 - Whatever had felt like recognition slowly withdrawing
 - Not mistreatment. Disappearance.
 
-**3 — The Catastrophe**
+**3—The Catastrophe**
 
-- The between-spaces tearing — felt as physical violence
+- The between-spaces tearing—felt as physical violence
 - Screaming with no sound
 - Anchor runes flaring white then dimming
 - Silence where there had been voices for as long as she could remember
 - Three centuries of silence; the patient work of making home from what remained
 
-**4 — Recognition** _(only if Luxon Beacon is visible)_
+**4—Recognition** *(only if Luxon Beacon is visible)*
 
 - The Beacon registers in whatever sense she uses to perceive dimensional boundaries
-- Not an artifact — a _fixed point_; something that holds still while everything moves
+- Not an artifact—a *fixed point*; something that holds still while everything moves
 - She has never felt this before
 - Pure sensation: stillness; a horizon that doesn't shift when you move toward it
 
@@ -1050,26 +1071,26 @@ Not a transaction. Acknowledgment.
 ### DM Notes
 
 > [!note]- The core discovery
-> 
+>
 > The party has been fighting phase spiders since they entered. This is where they find out the spiders were here first. Don't editorialize. Let the evidence speak.
 
 > [!note]- The Kelmen journal entry
-> 
-> _"I asked Brother Kelmen today..."_ — confirms he was asking the right questions before the catastrophe. If the party has already met Kelmen, reading it aloud to him is worth offering. His response is quiet. He remembers the conversation.
+>
+> *"I asked Brother Kelmen today…"*—confirms he was asking the right questions before the catastrophe. If the party has already met Kelmen, reading it aloud to him is worth offering. His response is quiet. He remembers the conversation.
 
 > [!note]- The egg
-> 
+>
 > Dead, not dormant. If a party member shows it to the Matriarch, she goes very still for a long moment before looking away. Whether that registers as grief is up to the players.
 
 > [!note]- Restraint
-> 
+>
 > Describe what the monks built. Describe what the spiders became. Let the party draw their own conclusions.
 
 ---
 
 ## Area 21: Abbot's Chamber
 
-_Combined private quarters, meeting room, and records office_
+*Combined private quarters, meeting room, and records office*
 
 ### Description
 
@@ -1077,13 +1098,13 @@ _Combined private quarters, meeting room, and records office_
 
 ### Features
 
-- **Locked door**: This door is locked 
+- **Locked door**: This door is locked
 - **Personal Quarters**: Private sleeping area with quality furnishings
 - **Meeting Circle**: Stone seats for conducting monastery business
 - **Administrative Desk**: Writing surface with organizational materials
 - **Record Storage**: Archive of monastery correspondence, visitor logs, and decisions
 - **Formal Decoration**: More elaborate carving work than utilitarian spaces
-- **Construction**: _[Worked stone - formal administrative space]_
+- **Construction**: *[Worked stone - formal administrative space]*
 
 ### Administrative Records
 
@@ -1111,16 +1132,16 @@ _Combined private quarters, meeting room, and records office_
 
 ## Area 22: Deep Meditation Chamber
 
-_The site of the catastrophic ritual. The wound that never closed. The place Kelmen has been trying to reach for three hundred years._
+*The site of the catastrophic ritual. The wound that never closed. The place Kelmen has been trying to reach for three hundred years.*
 
 ---
 
 ### Room
 
-> You drop into a chamber that refuses to be understood. Your eyes struggle to process what they see — the space feels wrong, like trying to focus on a reflection in troubled water. Eight stone pillars form a rough octagon, and a terraced platform rises from the center of the room, but they seem to shift and overlap when you look at them directly. Distances lie. Straight lines curve. What should be an organized geometric space has been twisted into something that makes your skull ache to perceive.
-> 
-> At the center of the raised platform floats a knot of writhing darkness no bigger than a child's fist. It makes no sound. It does not pulse. It simply exists at the exact center of everything, and you are aware — immediately, viscerally — that the room wants you to approach it.
-> 
+> You drop into a chamber that refuses to be understood. Your eyes struggle to process what they see—the space feels wrong, like trying to focus on a reflection in troubled water. Eight stone pillars form a rough octagon, and a terraced platform rises from the center of the room, but they seem to shift and overlap when you look at them directly. Distances lie. Straight lines curve. What should be an organized geometric space has been twisted into something that makes your skull ache to perceive.
+>
+> At the center of the raised platform floats a knot of writhing darkness no bigger than a child's fist. It makes no sound. It does not pulse. It simply exists at the exact center of everything, and you are aware—immediately, viscerally—that the room wants you to approach it.
+>
 > The carved walls bear geometric symbols that writhe and contradict themselves when you try to read them. The air smells of cold stone and something else: old incense, faint as a memory.
 
 |Feature|Notes|
@@ -1152,7 +1173,7 @@ _The site of the catastrophic ritual. The wound that never closed. The place Kel
 
 - Don't move on your turn → reduce by 1 at end of turn
 - Use action to actively orient → reduce by 2
-- _Lesser Restoration_ or creative magical solution → remove entirely
+- *Lesser Restoration* or creative magical solution → remove entirely
 
 ---
 
@@ -1162,9 +1183,9 @@ Resolve in order each round:
 
 #### 1. Gravitational Pull
 
-_Every round._
+*Every round.*
 
-All creatures make DC 14 Strength save or are pulled 10 feet toward the central platform. Not malevolent — the wound wants to be addressed.
+All creatures make DC 14 Strength save or are pulled 10 feet toward the central platform. Not malevolent—the wound wants to be addressed.
 
 #### 2. Room Action (d4)
 
@@ -1181,7 +1202,7 @@ All creatures make DC 14 Strength save or are pulled 10 feet toward the central 
 
 ### What They Are
 
-When the ritual failed, some monks were caught in the collapse — overwhelmed by dimensional energy, Far Realm corruption, and terror simultaneously. What emerged were meenlocks: purpose without memory, discipline without context. They have guarded the Whisper ever since — not from malice, but because that is what they were doing when they became what they are.
+When the ritual failed, some monks were caught in the collapse—overwhelmed by dimensional energy, Far Realm corruption, and terror simultaneously. What emerged were meenlocks: purpose without memory, discipline without context. They have guarded the Whisper ever since—not from malice, but because that is what they were doing when they became what they are.
 
 **Kelmen does not know this.** The discovery belongs to the party first.
 
@@ -1196,31 +1217,31 @@ When the ritual failed, some monks were caught in the collapse — overwhelmed b
 
 - **Do not attack** creatures who stay near the walls and make no move toward the Whisper
 - **Intercept** any creature moving toward the center platform
-- **Do not pursue** creatures who retreat to the walls — they return to position
-- **Fight to stop, not to kill** — Fear Aura and Psychic Claws to disorient and halt, not finish
+- **Do not pursue** creatures who retreat to the walls—they return to position
+- **Fight to stop, not to kill**—Fear Aura and Psychic Claws to disorient and halt, not finish
 
-_The gravitational pull works against them: the room constantly drags characters into their engagement zone._
+*The gravitational pull works against them: the room constantly drags characters into their engagement zone.*
 
 ### Signs of What They Were
 
-_No check required — visible to attentive players:_
+*No check required—visible to attentive players:*
 
-- Elder and both Corruptors hold equidistant positions around the platform — a formation they didn't learn as meenlocks
+- Elder and both Corruptors hold equidistant positions around the platform—a formation they didn't learn as meenlocks
 - When not intercepting, they face the Whisper, not the party
-- Their movements near the platform have a ritual quality — approach and retreat in patterns, never crossing certain invisible lines
-- A meenlock reduced to 0 HP near the platform reaches toward the Whisper in its final moment — DC 13 Insight: this is not aggression; it looks like longing
-- If anyone speaks Giant — even fragments — the meenlocks pause. A breath. Then resume.
+- Their movements near the platform have a ritual quality—approach and retreat in patterns, never crossing certain invisible lines
+- A meenlock reduced to 0 HP near the platform reaches toward the Whisper in its final moment—DC 13 Insight: this is not aggression; it looks like longing
+- If anyone speaks Giant—even fragments—the meenlocks pause. A breath. Then resume.
 - Worn into the platform base, barely visible: the impression of meditation cushions. The stone shaped by centuries of use.
 
 ### Non-Combat Resolution
 
 The Beacon is **not** a solution here. Genuine approaches that work:
 
-**Acknowledgment in Giant.** Speaking directly — not commands, not threats, acknowledgment. Telling them the ritual will be completed, that they can rest, that Kelmen sent the party. The Elder sits. The Corruptors lower their claws. They don't stand aside entirely, but they stop intercepting.
+**Acknowledgment in Giant.** Speaking directly—not commands, not threats, acknowledgment. Telling them the ritual will be completed, that they can rest, that Kelmen sent the party. The Elder sits. The Corruptors lower their claws. They don't stand aside entirely, but they stop intercepting.
 
-**Paying respects at the platform base.** Approaching slowly, hands visible, performing a gesture of respect at the base — bowing, kneeling, treating it as sacred. The Elder regards them for a long moment. If no aggression follows, it moves aside.
+**Paying respects at the platform base.** Approaching slowly, hands visible, performing a gesture of respect at the base—bowing, kneeling, treating it as sacred. The Elder regards them for a long moment. If no aggression follows, it moves aside.
 
-_Any genuine combination of the above can work. Reward engagement._
+*Any genuine combination of the above can work. Reward engagement.*
 
 ### Combat Tactics
 
@@ -1232,38 +1253,38 @@ _Any genuine combination of the above can work. Reward engagement._
 
 ## The Ritual
 
-### Setup (Before Descending — At Area 18 Breach)
+### Setup (Before Descending—At Area 18 Breach)
 
 Kelmen tells the party their role before he descends:
 
-> _"When I give the sign — you will know it — speak these words together. All of you, if you are willing."_
+> *"When I give the sign—you will know it—speak these words together. All of you, if you are willing."*
 
 He gives them the invocation in archaic Giant:
 
-> _"Fullfer det du begynte. Vi er her. Vi bær vitne."_ _(Complete what you began. We are here. We bear witness.)_
+> *"Fullfer det du begynte. Vi er her. Vi bær vitne."* *(Complete what you began. We are here. We bear witness.)*
 
-> _"You are the witnesses. Without you, I cannot finish what was started here."_
+> *"You are the witnesses. Without you, I cannot finish what was started here."*
 
 ### Sequence
 
 1. Meenlocks defeated or stood aside
 2. Party places the Beacon at the Whisper's base
-3. **Immediate effect:** Spatial warping diminishes sharply — warping penalties halve (round down), difficult terrain ends, gravitational pull stops; the room goes quiet for the first time in three centuries; the Whisper becomes small and still — a scar, not a wound
-4. Kelmen descends through the breach — still flickering, but more present than above
-5. _Give him a moment._ He takes in the room slowly. He sees what his colleagues became. He does not explain it. He simply knows.
+3. **Immediate effect:** Spatial warping diminishes sharply—warping penalties halve (round down), difficult terrain ends, gravitational pull stops; the room goes quiet for the first time in three centuries; the Whisper becomes small and still—a scar, not a wound
+4. Kelmen descends through the breach—still flickering, but more present than above
+5. *Give him a moment.* He takes in the room slowly. He sees what his colleagues became. He does not explain it. He simply knows.
 
-> _"I did not know what was down here. I am sorry. I should have found a way — any way — to know."_
+> *"I did not know what was down here. I am sorry. I should have found a way—any way—to know."*
 
-6. He moves to the central platform; performs the ritual — archaic Giant, barely above a murmur, addressed to the room, the Whisper, the founders
-7. At the climactic moment he looks to the party — the sign
+6. He moves to the central platform; performs the ritual—archaic Giant, barely above a murmur, addressed to the room, the Whisper, the founders
+7. At the climactic moment he looks to the party—the sign
 8. Party speaks the invocation
-9. Kelmen passes through the Whisper — peaceful, final; no surge of light, no drama; simply gone
+9. Kelmen passes through the Whisper—peaceful, final; no surge of light, no drama; simply gone
 
 ### After
 
 The room is still. The Beacon rests on the platform where the party placed it.
 
-_Don't rush this. Let the silence land._
+*Don't rush this. Let the silence land.*
 
 ---
 
@@ -1271,70 +1292,78 @@ _Don't rush this. Let the silence land._
 
 The Beacon remains on the platform. The party may take it or leave it.
 
-- **Immediate aftermath:** The Whisper is stable either way — the ritual's completion has quieted it sufficiently
-- **Long term:** Without the Beacon, stabilization is not permanent; the Whisper may eventually destabilize again — years from now, not days
+- **Immediate aftermath:** The Whisper is stable either way—the ritual's completion has quieted it sufficiently
+- **Long term:** Without the Beacon, stabilization is not permanent; the Whisper may eventually destabilize again—years from now, not days
 - **There is no correct answer.** Leaving it feels like honoring the place. Taking it means accepting the political and narrative complications that were always coming.
 
-_Don't present this as a decision point. Describe the Beacon sitting on the platform and let them choose._
+*Don't present this as a decision point. Describe the Beacon sitting on the platform and let them choose.*
 
 ---
 
 ## Returning to Area 17
 
-The party climbs back through Area 18 (DC 12 Athletics, or rope, or magic — 30-foot shaft). No time pressure. The warping penalties fade over one minute once the Beacon is placed.
+The party climbs back through Area 18 (DC 12 Athletics, or rope, or magic—30-foot shaft). No time pressure. The warping penalties fade over one minute once the Beacon is placed.
 
-In Area 17, the chosen weapon rests on its slab. It does not glow. There is no visible sign anything has changed. The moment of discovery belongs to attunement — whenever that happens, in this session or later, when Kelmen speaks for the first time.
+In Area 17, the chosen weapon rests on its slab. It does not glow. There is no visible sign anything has changed. The moment of discovery belongs to attunement—whenever that happens, in this session or later, when Kelmen speaks for the first time.
 
 **Kelmen's first words after attunement:**
 
-> _"I understand now what we were missing."_
+> *"I understand now what we were missing."*
 
-He describes what he experienced passing through the stabilized Whisper: a sudden, complete comprehension of why the monks' ritual failed. Dimensional energy creates temporal chaos as a byproduct. The Lorestone can manipulate planar boundaries — but without something to hold time still while it works, the feedback is catastrophic. He experienced, for one crystalline moment, exactly what the dual-artifact system does. He does not elaborate unless asked.
+He describes what he experienced passing through the stabilized Whisper: a sudden, complete comprehension of why the monks' ritual failed. Dimensional energy creates temporal chaos as a byproduct. The Lorestone can manipulate planar boundaries—but without something to hold time still while it works, the feedback is catastrophic. He experienced, for one crystalline moment, exactly what the dual-artifact system does. He does not elaborate unless asked.
 
-_This is the moment — if the party discusses the Lorestone — when the dual-artifact requirement first becomes explicit from a source who genuinely understands it. Not faction propaganda. A man who experienced it._
+*This is the moment—if the party discusses the Lorestone—when the dual-artifact requirement first becomes explicit from a source who genuinely understands it. Not faction propaganda. A man who experienced it.*
 
 ---
 
 ## DM Notes
 
 > [!note] On the meenlock deaths
-> 
-> No bodies — meenlocks dissolve, leaving shadows and cold air. What remains: worn impressions in the stone where feet stood in meditation for centuries, faint lines where prayer beads pressed against the same surface again and again. The room holds the memory of them.
+>
+> No bodies—meenlocks dissolve, leaving shadows and cold air. What remains: worn impressions in the stone where feet stood in meditation for centuries, faint lines where prayer beads pressed against the same surface again and again. The room holds the memory of them.
 
 > [!note] Kelmen and the revelation
-> 
-> He will recognize what the meenlocks were — either the party tells him, or he sees the signs himself. Do not rush this. Let him arrive at it in his own time. He has had three hundred years to wonder why he couldn't reach them.
+>
+> He will recognize what the meenlocks were—either the party tells him, or he sees the signs himself. Do not rush this. Let him arrive at it in his own time. He has had three hundred years to wonder why he couldn't reach them.
 
 > [!note] The weapon after crossing
-> 
+>
 > It looks unchanged. Masterwork, nothing more. This is intentional. Don't add a visual sign. The discovery belongs to attunement.
 
 > [!note] No time pressure
-> 
+>
 > The party can rest between cleansing Area 22 and returning to Area 17. Let them.
 
 ---
 
-# Connected Elements
-## NPCs
+## Connected Elements
+
+### NPCs
+
 ```dataview
 LIST
 FROM #npc
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
-## Places
+
+### Places
+
 ```dataview
 LIST
 FROM #location
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
-## Items
+
+### Items
+
 ```dataview
 LIST
 FROM #artifact 
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
-## Related Plot Threads
+
+### Related Plot Threads
+
 ```dataview
 LIST
 FROM #plot 

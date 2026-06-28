@@ -4,32 +4,36 @@ tags:
   - needs-work
   - plot
 ---
-# Quick Reference
+
+## Quick Reference
+
 > [!info] Essential Details
 > - Stage: Active
 > - Priority: Medium
-> - Timeline: 
+> - Timeline:
 > - Key Players: [[Drawg Stormbrew (Brew)|Drawg]]
 > - Last Session: [[Session 28 - Back at Harmony Hall]]
 > - Next Steps: Leave for [[Cloudfang Keep]]
 
-# Overview
+## Overview
 
-# Current State
-## Recent Events
+## Current State
+
+### Recent Events
 
 - Party learns that [[Cloudfang Keep]] is where both Ilya's brother ([[Varnes Dwell]]) is and where [[Dreyara Drimvar|Dreyara]] is likely heading.
 - Cloudfang Keep is in the high elevations of the Cyrios Mountains (cold climate).
 
-## Active Elements
+### Active Elements
 
 - Party is preparing to leave for Cloudfang
 
-## Blocking Issues
+### Blocking Issues
 
 - Long journey from [[Port Damali]] to Cloudfang
 
-# Player Knowledge
+## Player Knowledge
+
 - What they know:
 	- [[Cloudfang Keep]] is where both Ilya's brother ([[Varnes Dwell]]) is and where [[Dreyara Drimvar|Dreyara]] is likely heading.
 	- Be prepared for basilisks and other ways people are turned to stone.
@@ -40,48 +44,58 @@ tags:
 	- [[Lady Emer]] has transformed herself into a medusa.
 	- The pearl of power she carries is actually the [[Lawbearer's Tear]]. Lady Emer doesn't even realize it is an artifact.
 
-# Plot Hierarchy
-- Parent Plot: 
-- Subplots: 
+## Plot Hierarchy
 
-# Development Stages
-## Seeds
+- Parent Plot:
+- Subplots:
+
+## Development Stages
+
+### Seeds
+
 - [ ] Seed description
 - [ ] Expected trigger: (event/condition/timing)
 - [ ] Potential implications
 
-## Planned Developments
+### Planned Developments
+
 - [ ] Immediate actions
 - [ ] Timing constraints
 - [ ] Required preparation
 
-## Long-term Plans
+### Long-term Plans
+
 - Major plot points
 - Possible branches
 
-# Connected Elements
-## NPCs
+## Connected Elements
+
+### NPCs
+
 ```dataview
 LIST
 FROM #npc
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
 
-## Places
+### Places
+
 ```dataview
 LIST
 FROM #location
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
 
-## Items
+### Items
+
 ```dataview
 LIST
 FROM #artifact 
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
 
-## Related Plot Threads
+### Related Plot Threads
+
 ```dataview
 LIST
 FROM #plot 

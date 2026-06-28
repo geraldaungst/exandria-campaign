@@ -1,12 +1,15 @@
 ---
 cssclasses: wide-table
-tags: npc-database
+tags:
+  - npc-database
 ---
+
 See also [[NPC Stat Block Reference Table]]
 
-# Quick Reference NPCs
+## Quick Reference NPCs
 
 **Jump to Category:**
+
 - [[#Authority & Law Enforcement]]
 - [[#Service & Hospitality]]
 - [[#Underworld & Crime]]
@@ -18,7 +21,7 @@ See also [[NPC Stat Block Reference Table]]
 
 ---
 
-## Authority & Law Enforcement
+### Authority & Law Enforcement
 
 | Name             | Race       | Gender | Age | Occupation           | Appearance                                           | Distinctive Feature           | Motivation           | Useful Skill/Knowledge               |
 | ---------------- | ---------- | ------ | --- | -------------------- | ---------------------------------------------------- | ----------------------------- | -------------------- | ------------------------------------ |
@@ -32,7 +35,7 @@ See also [[NPC Stat Block Reference Table]]
 | Greta Wolfhart   | Human      | Female | 44  | Crownsguard Sergeant | Stocky build, braided blonde hair, iron jaw          | Never breaks eye contact      | Protect the innocent | City defense, crowd control          |
 | Klaus Eisenbach  | Dwarf      | Male   | 127 | Border Warden        | Weathered face, gray beard, practical armor          | Counts on his fingers         | Secure the frontier  | Border patrols, smuggling routes     |
 
-## Service & Hospitality
+### Service & Hospitality
 
 | Name                | Race     | Gender | Age | Occupation           | Appearance                                                  | Distinctive Feature                      | Motivation                | Useful Skill/Knowledge              |
 | ------------------- | -------- | ------ | --- | -------------------- | ----------------------------------------------------------- | ---------------------------------------- | ------------------------- | ----------------------------------- |
@@ -51,7 +54,7 @@ See also [[NPC Stat Block Reference Table]]
 | Oskar Lamprecht     | Halfling | Male   | 49  | Chandler             | Precise movements, measuring eyes, wax-stained fingers      | Arranges everything by height            | Perfect order             | Wax varieties, wealthy customers    |
 | Borivik Coalforge   | Dwarf    | Male   | 88  | Merchant             | Boisterous presence                                         | Loud, infectious laugh                   | Wealth                    | Gem appraisal, trade routes         |
 
-## Underworld & Crime
+### Underworld & Crime
 
 | Name | Race | Gender | Age | Occupation | Appearance | Distinctive Feature | Motivation | Useful Skill/Knowledge |
 |------|------|--------|-----|------------|------------|---------------------|------------|------------------------|
@@ -62,7 +65,7 @@ See also [[NPC Stat Block Reference Table]]
 | Pip Quickfoot | Human | Male | 14 | Street Urchin | Skinny, dirty face, quick movements | Appears from nowhere | Survive | Sneaking, shortcuts, rumors |
 | Jessa Nimblefingers | Halfling | Female | 12 | Street Urchin | Small even for halfling, bright eyes, patched clothes | Befriends stray animals | Find her missing brother | City shortcuts, picking locks |
 
-## Professionals & Specialists
+### Professionals & Specialists
 
 | Name                | Race       | Gender | Age | Occupation            | Appearance                                          | Distinctive Feature           | Motivation              | Useful Skill/Knowledge              |
 | ------------------- | ---------- | ------ | --- | --------------------- | --------------------------------------------------- | ----------------------------- | ----------------------- | ----------------------------------- |
@@ -78,7 +81,7 @@ See also [[NPC Stat Block Reference Table]]
 | Melodia Ravensong   | Human      | Female | 29  | Bard                  | Mysterious aura                                     | Haunting voice                | Find the truth          | Performance, local legends          |
 |Dolgrim Stoneheart|Firbolg|Male|127|Cartographer & Wilderness Guide|Towering (8'2"), gray-blue fur, gentle eyes, ink-stained fingers|Whispers even when haggling|Chart the unmapped wilds|Map-making, wilderness survival, safe route knowledge|
 
-## Warriors & Fighters
+### Warriors & Fighters
 
 | Name                    | Race | Gender | Age | Occupation | Appearance | Distinctive Feature | Motivation | Useful Skill/Knowledge |
 | ----------------------- | ---------- | --------- | --- | ---------------- | ---------------------------------------------------------------------------------------- | ----------------------------- | ------------- | ---------------------------------- |
@@ -88,7 +91,7 @@ See also [[NPC Stat Block Reference Table]]
 | Jenessa Sarthak         | Half-Orc | Female | 26 | Ranger | Rugged, wild | Moves silently through brush | Prove herself | Tracking, animal handling |
 | Barret Giliam           | Halfling | Male | 30 | Scout/Adventurer | Light brown skin, curly blond hair | Collection of ridiculous hats | Adventure | Scouting, sling accuracy |
 
-## Maritime & Docks
+### Maritime & Docks
 
 | Name | Race | Gender | Age | Occupation | Appearance | Distinctive Feature | Motivation | Useful Skill/Knowledge |
 |------|------|--------|-----|------------|------------|---------------------|------------|------------------------|
@@ -102,7 +105,7 @@ See also [[NPC Stat Block Reference Table]]
 | Nereus Brightwater | Water Genasi | Male | 31 | Pearl Diver | Blue-green skin, collection of sea creature scars | Holds breath impossibly long | Find the perfect pearl | Underwater navigation, marine life |
 | Ingrid Kaltmeer | Human | Female | 39 | Customs Officer | Sharp eyes, never smiles, leather-bound ledger in hand | Taps pen while thinking | Catch smugglers | Tariff codes, ship manifests |
 
-## Mystics & Faith
+### Mystics & Faith
 
 | Name                      | Race     | Gender | Age | Occupation         | Appearance                                                     | Distinctive Feature                                   | Motivation                 | Useful Skill/Knowledge                    |
 | ------------------------- | -------- | ------ | --- | ------------------ | -------------------------------------------------------------- | ----------------------------------------------------- | -------------------------- | ----------------------------------------- |
@@ -117,7 +120,7 @@ See also [[NPC Stat Block Reference Table]]
 | Matthias Sternhoff        | Human    | Male   | 58  | Grave Cleric       | Somber, gray vestments, carries consecrated candles            | Lights a candle for every death                       | Ensure proper burial rites | Last rites, undead lore, grief counseling |
 | Sister Johanna Frostheim  | Dwarf    | Female | 134 | Battle Priestess   | Scarred face, warhammer always within reach, armor under robes | Prays before every fight                              | Protect the faithful       | Combat blessings, defensive tactics       |
 
-## Wanderers & Nobles
+### Wanderers & Nobles
 
 | Name | Race | Gender | Age | Occupation | Appearance | Distinctive Feature | Motivation | Useful Skill/Knowledge |
 |------|------|--------|-----|------------|------------|---------------------|------------|------------------------|

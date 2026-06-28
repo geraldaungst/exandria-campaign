@@ -3,9 +3,11 @@ tags:
   - campaign/tyranny
   - world/faerun
 ---
-# Tyjit Skesh
+
+## Tyjit Skesh
 
 Last Edited: May 1, 2021 9:32 PM
+
 Tags: NPC
 
 ![https://db4sgowjqfwig.cloudfront.net/images/2401931/Tyjit.jpg](https://db4sgowjqfwig.cloudfront.net/images/2401931/Tyjit.jpg)

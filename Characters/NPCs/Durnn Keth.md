@@ -1,16 +1,17 @@
 ---
-tags:
-  - npc
-  - world/exandria
-  - region/tal'dorei
-aliases:
-  - "durnn"
 affiliations:
   - "[[Terrah Tribe]]"
   - "[[Ashari Riftguard]]"
+aliases:
+  - durnn
 current_location: "unknown"
 disposition: indifferent
+tags:
+  - npc
+  - world/exandria
+  - "region/tal'dorei"
 ---
+
 ![[durnn.png|right|300]]
 
 - **Tribe:** Terrah (Earth Ashari)

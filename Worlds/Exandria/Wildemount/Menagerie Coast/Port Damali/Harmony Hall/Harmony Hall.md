@@ -1,12 +1,13 @@
 ---
-tags:
-  - location
 aliases:
   - Coriander & Mallow
   - Coriander & Mallow Exchange Company
+tags:
+  - location
 ---
 
-# Quick Reference
+## Quick Reference
+
 > [!info] Essential Details
 > - Current Status:
 > - Key Feature:
@@ -16,13 +17,16 @@ aliases:
 > 	- [[Grisul Adder]] - Owner, former madam
 > 	- [[Annah]] - Ticket booth and performer
 
-# Overview
-## Physical Description
+## Overview
+
+### Physical Description
+
 - External features
 - Internal layout
 - Notable areas
 
-## Current State
+### Current State
+
 > [!note] Active Elements
 > - Present situation:
 > 	- Operates as a successful dinner theater with live performances
@@ -34,7 +38,7 @@ aliases:
 > 	- Party met [[Annah]] at the ticket booth.
 > 	- She was surprised [[Hesterian Shyr (Dot)|Hesterian]] was alive.
 > 	- They saw Grisul Adder who supposedly is on the up-and-up now and seemed much happier.
-> 	- Something big went down after Hesterian's murder but Annah wouldn’t talk about it.
+> 	- Something big went down after Hesterian's murder but Annah wouldn't talk about it.
 > 	- Party stayed for a nice dinner theater show.
 > 	- No one aside from Annah recognized [[Hesterian Shyr (Dot)|Hesterian]] as far as she knows.
 > 	- Hesterian went back to terrorize [[Grisul Adder]].
@@ -42,32 +46,41 @@ aliases:
 
 ![[History of Harmony Hall#Core Information]]
 
-# Hidden Elements
+## Hidden Elements
+
 > [!secret]- DM Only
 > - Concealed features
 > - Unknown connections
 > - Future developments
 
-# Connected Elements
-## NPCs
+## Connected Elements
+
+### NPCs
+
 ```dataview
 LIST
 FROM #npc
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
-## Places
+
+### Places
+
 ```dataview
 LIST
 FROM #location
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
-## Items
+
+### Items
+
 ```dataview
 LIST
 FROM #artifact 
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
-## Related Plot Threads
+
+### Related Plot Threads
+
 ```dataview
 LIST
 FROM #plot 

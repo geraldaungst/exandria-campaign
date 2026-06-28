@@ -3,9 +3,11 @@ tags:
   - needs-work
   - npc
 ---
+
 The phenomenon that the [[Emissaries of the Sunfall]] and [[Vaud Qalix]] are attempting to construct with the [[Lorestone of Eryndor]].
 
 Components required:
+
 - The complete Lorestone of Eryndor
 - An [[Arcanist's Prism]] (which doesn't actually exist)
 - Arboreal Heartwood
@@ -43,7 +45,7 @@ Steps for construction:
 
 This process creates a Harmonic Planar Conduit that harnesses the Phase Spider's planar shifting abilities, the Luxon Beacon's dunamantic energy, and the stabilizing properties of the Arcanist's Prism to create a stable portal between planes.
 
-In reality, the Lorestone cannot form such a conduit, and the attempt will fail. In the best possible circumstance, the rift will simply close, but at worst it could [[Lorestone of Eryndor#Lorestone Ritual of Closing|result in catastrophe]]. 
+In reality, the Lorestone cannot form such a conduit, and the attempt will fail. In the best possible circumstance, the rift will simply close, but at worst it could [[Lorestone of Eryndor#Lorestone Ritual of Closing|result in catastrophe]].
 
 ## **Vaud's Misunderstanding of the Requirements**
 

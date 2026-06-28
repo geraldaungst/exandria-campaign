@@ -1,33 +1,37 @@
 ---
+faction: [[Emissaries of the Sunfall]]
+location: [[Cloudfang Keep]]
 tags:
   - atomic
   - needs-work
-faction: [[Emissaries of the Sunfall]]
-location: [[Cloudfang Keep]]
 ---
+
 > [!info]- Essential Details
 > - Location: [[Cloudfang Keep]] Library (Area E6)
 > - Current Goal: Complete analysis of Luxon Beacon's temporal resonance properties and their connection to Lorestone shard patterns
 > - Last Updated: `$= moment(dv.current().file.mtime.toString()).format("MMM D, YYYY") + " (" + moment(dv.current().file.mtime.toString()).fromNow() + ")"`
 
-# Other Important Locations Seen
+## Other Important Locations Seen
+
 - Various planar rift sites across Wildemount (Molaesmyr, Savalirwood, Barbed Fields)
 - Previous Emissaries of the Sunfall operational areas (as a scout)
 
-# Immediate Plans
+## Immediate Plans
+
 - Finalize temporal resonance analysis before [[Dreyara Drimvar|Dreyara's]] expected arrival
 - Prepare secure workspace for "specimens requiring immediate attention" that Dreyara will bring
 - Continue documenting how the [[luxon-beacon-egw|Luxon Beacon]] (her "Temporal Resonance Crystal") interacts with planar rift energy
 - Map the connections between beacon properties and Lorestone fragment resonance patterns
 
-# Goals
+## Goals
+
 - Master planar magic through comprehensive understanding of rift energy mechanics
 - Unlock the secrets of the Lorestone shards and their relationship to planar rifts
 - Prove her theories about controlled planar energy manipulation
 - Deliver results that satisfy [[Vaud Qalix]]'s escalating demands for progress
 - Maintain her position as Qalix's primary planar research specialist
 
-# Relationships
+## Relationships
 
 **[[Vaud Qalix]]** (Employer, Never Met): Her patron and funding source. All communication occurs through letters and [[Dreyara Drimvar|Dreyara's]] visits. She views him as a powerful figure who recognizes her brilliance and provides resources she couldn't acquire independently. Recently he's been applying more pressure for results on the Lorestone research. She has no knowledge of his true nature or connection to [[Ceratos]].
 
@@ -39,31 +43,38 @@ location: [[Cloudfang Keep]]
 
 **Her Guardians** (Wyvern, Basilisks, etc.): Trained creatures serving as security. She maintains them efficiently but without particular affection—they're tools, not pets.
 
-# Current Pressures
+## Current Pressures
 
 The research has reached a critical juncture. The [[Luxon Beacon]]'s temporal properties suggest profound connections to the Lorestone fragments that she hasn't fully mapped yet, and Qalix has made it explicitly clear this work takes priority above all other projects. The pressure to deliver breakthrough results has made her more irritable and impatient than usual—her already low tolerance for incompetence has dropped to near zero.
 
+## Connected Elements
 
-# Connected Elements
-## NPCs
+### NPCs
+
 ```dataview
 LIST
 FROM #npc
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
-## Places
+
+### Places
+
 ```dataview
 LIST
 FROM #location
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
-## Items
+
+### Items
+
 ```dataview
 LIST
 FROM #artifact 
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
-## Related Plot Threads
+
+### Related Plot Threads
+
 ```dataview
 LIST
 FROM #plot 

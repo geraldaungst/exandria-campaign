@@ -1,53 +1,65 @@
 ---
+started:
 tags:
   - campaign/eryndor
   - needs-work
   - plot/active
-started:
 ---
-# Quick Reference
+
+## Quick Reference
+
 > [!info] Essential Details
 > Status: Active
 > Last Session Mentioned: [[Sessions 14 to 16 - Rift to the Elemental Plane of Fire]]
-> Key Players: [[Aethor Kalisk]], 
+> Key Players: [[Aethor Kalisk]],
 > Next Expected Development: Return the compass to Aethor
 
-# Overview
+## Overview
+
 [[Aethor Kalisk|Aethor]] is headquartered in [[Port Damali]] while he researches the [[Assembling the Lorestone]].
 
-# Current State
+## Current State
 
-# Player Knowledge
+## Player Knowledge
+
 - What they know:
 	- They possess the [[Stonefoot Compass]]. It needs to go to Aethor Kaelisk who is using it in trade for information about a [[Lorestone of Eryndor]] shard.
 	- Aethor has a [[Letter to Calderax|letter]] which [[Calderax Dunhall]] gave him.
-- What they think they know: 
+- What they think they know:
 - What they don't know:
 
-# Future Developments
-> [!secret]- DM Only
-> 
+## Future Developments
 
-# Connected Elements
-## NPCs
+> [!secret]- DM Only
+
+## Connected Elements
+
+### NPCs
+
 ```dataview
 LIST
 FROM #npc
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
-## Places
+
+### Places
+
 ```dataview
 LIST
 FROM #location
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
-## Items
+
+### Items
+
 ```dataview
 LIST
 FROM #artifact 
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
-## Related Plot Threads
+
+### Related Plot Threads
+
 ```dataview
 LIST
 FROM #plot 

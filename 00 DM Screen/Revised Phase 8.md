@@ -16,6 +16,7 @@ This was deferred to Phase 8 to see patterns across the full vault.
 - [x] Step 1: Inventory all properties
 - [x] **Step 2: Apply the property/tag rule**
 - [x] **Step 3: Decide on `processed` workflow**
+
 ### Part B: Tyranny NPCs Processing
 
 Before general file triage, handle the archived Tyranny content:
@@ -57,6 +58,7 @@ aliases: []
 ```
 
 Completed templates:
+
 - [[NPC Template]]
 - [[Location Template]]
 - [[Artifact-Item Template]]
@@ -78,8 +80,6 @@ WHERE contains(tags, "npc")
 AND !contains(tags, "region")
 SORT file.name
 ```
-
-
 
 **Step 2: Triage into categories**
 

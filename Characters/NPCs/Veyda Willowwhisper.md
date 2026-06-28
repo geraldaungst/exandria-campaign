@@ -1,20 +1,20 @@
 ---
+affiliations:
+  - "[[Obsidian Echoforge]]"
+aliases:
+  - Veyda
+current_location: "[[Palma Flora]]"
+disposition: indifferent
+home_city: "Palma Flora"
 tags:
   - npc
   - world/exandria
   - region/menagerie-coast
-aliases:
-  - "Veyda"
-affiliations:
-  - "[[Obsidian Echoforge]]"
-current_location: "[[Palma Flora]]"
-disposition: indifferent
-home_city: "Palma Flora"
 ---
 
 Former leader of the [[Obsidian Echoforge]], now serving as advisor to her niece [[Lyren Willowwhisper]]. A firbolg mage of considerable skill, her tenure is best remembered for integrating arcane methods into the group's search—an approach that led to the discovery of the penultimate fragment.
 
-_Appearance:_ Medium height, lean build, deep blue eyes. Long dark hair streaked with silver. Robes bearing Echoforge symbols; carries an ornate staff passed down through generations.
+*Appearance:* Medium height, lean build, deep blue eyes. Long dark hair streaked with silver. Robes bearing Echoforge symbols; carries an ornate staff passed down through generations.
 
 ## Relationship with Lyren
 

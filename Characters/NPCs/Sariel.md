@@ -4,12 +4,14 @@ tags:
   - npc
   - region/menagerie-coast
 ---
+
 ![[sariel.jpeg|right|300]]
+
 Sariel, [[Tharivol]]'s younger sister, has a slender build with emerald-green scales and deep green eyes. She often wears a cloak with intricate arcane symbols.
 
 **Backstory**: Sariel accompanied her brother to Tal'Dorei, driven by her thirst for arcane knowledge. In Tal'Dorei, she studied under renowned wizards, learning about the various magical practices and histories of the land. Her primary focus was on learning ways to protect and uplift her community in Talonstadt. Sariel returns with a wealth of knowledge about defensive and restorative magic, hoping to fortify Talonstadt against future threats.
 
-_Medium dragonborn, neutral good_
+*Medium dragonborn, neutral good*
 
 ---
 
@@ -41,18 +43,18 @@ _Medium dragonborn, neutral good_
 
 ---
 
-### Spellcasting
+## Spellcasting
 
 Sariel is a 3rd-level spellcaster. Her spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). Sariel has the following wizard spells prepared:
 
-- Cantrips (at will): _Mage Hand, Light, Ray of Frost_
-- 1st level (4 slots): _Mage Armor, Shield, Magic Missile, Cure Wounds_
-- 2nd level (2 slots): _Misty Step, Mirror Image_
+- Cantrips (at will): *Mage Hand, Light, Ray of Frost*
+- 1st level (4 slots): *Mage Armor, Shield, Magic Missile, Cure Wounds*
+- 2nd level (2 slots): *Misty Step, Mirror Image*
 
-### Actions
+## Actions
 
-**Dagger.** _Melee or Ranged Weapon Attack:_ +4 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ 4 (1d4 + 2) piercing damage.
+**Dagger.** *Melee or Ranged Weapon Attack:* +4 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 4 (1d4 + 2) piercing damage.
 
-### Special Abilities
+## Special Abilities
 
 **Arcane Recovery.** Once per day when Sariel finishes a short rest, she can choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half her wizard level (rounded up), and none of the slots can be 6th level or higher.

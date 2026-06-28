@@ -1,15 +1,17 @@
 ---
-tags:
-  - antagonist
-  - npc
-location: Rexxentrum
 affiliations:
   - "[[Emissaries of the Sunfall]]"
   - "[[The Inkwell]]"
 aliases:
   - valen
+location: Rexxentrum
+tags:
+  - antagonist
+  - npc
 ---
-# Quick Reference
+
+## Quick Reference
+
 > [!info] Essential Details
 > - Current Location: Scroll and Scribe, Rexxentrum
 > - Key Motivation: Seize control of the shards through any means necessary; restore the Emissaries to their former aggressive approach
@@ -18,12 +20,15 @@ aliases:
 > - Status: Active leader of splinter cell within Emissaries
 
 ![[valen-elderguard.png|right|300]]
-# Description
+
+## Description
+
 A tall, wiry half-elf with an asymmetrical hairstyle - long raven-black hair tossed to one side, shaved short on the other with a geometric tattoo on his temple. Despite what most would consider an ugly face, his outward demeanor is pleasant and inviting. He favors deep maroon robes with black and brown trim, decorated with subtle arcane patterns.
 
-## Roleplay
+### Roleplay
+
 - Voice: Calm, smooth, and eerily captivating. Speaks with measured precision, choosing words carefully. Maintains an academic's thoughtful tone.
-- Mannerisms: 
+- Mannerisms:
   - Tends to steeple fingers when making important points
   - Maintains uncomfortably direct eye contact during conversations
   - Often references historical texts and scholarly works
@@ -34,16 +39,19 @@ A tall, wiry half-elf with an asymmetrical hairstyle - long raven-black hair tos
   - Shows genuine enthusiasm for magical theory and research
   - Treats subordinates with apparent respect while subtly manipulating them
 
-# Current Situation
+## Current Situation
+
 Operating primarily from two locations in Rexxentrum: the Scroll and Scribe for legitimate Emissary business, and a townhouse in the Pearls' Rest district for splinter cell activities. The townhouse serves as the primary meeting place for the Inkwell, appearing outwardly as a wealthy scholar's residence. Currently investigating an old prophecy through his agent [[Eledyr Dephar]].
 
-# Background
+## Background
+
 Comes from the Elderguard family, known for shadow magic prowess. Rose to prominence within the Emissaries of the Sunfall but grew disillusioned with their diplomatic approach. Secretly believes in returning to the more aggressive methods of Neris Solbane's era. Has begun gathering like-minded members within the Emissaries, forming a splinter cell financed by Vaud Qalix.
 
-# Hidden Information
+## Hidden Information
+
 > [!secret]- DM Only
 > - Secret motivations: Believes power and control are the only reliable means of securing peace
-> - Unknown connections: 
+> - Unknown connections:
 >   - Reports directly to [[Vaud Qalix]]
 >   - Has recruited [[Eledyr Dephar]] using Clasp connections
 > - Operations:
@@ -79,26 +87,34 @@ Comes from the Elderguard family, known for shadow magic prowess. Rose to promin
 > 
 > Example: "The prime pigment needs a quality test before the fresh batch" = "The primary target needs surveillance before the new operation"
 
-# Connected Elements
-## NPCs
+## Connected Elements
+
+### NPCs
+
 ```dataview
 LIST
 FROM #npc
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
-## Places
+
+### Places
+
 ```dataview
 LIST
 FROM #location
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
-## Items
+
+### Items
+
 ```dataview
 LIST
 FROM #artifact 
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
-## Related Plot Threads
+
+### Related Plot Threads
+
 ```dataview
 LIST
 FROM #plot 

@@ -1,60 +1,73 @@
 ---
+aliases:
+  - prophecy
 tags:
   - campaign/eryndor
   - plot/active
-aliases:
-  - prophecy
 ---
 
-# Quick Reference
+## Quick Reference
+
 > [!info] Essential Details
 > - Current Status: Active
 > - Key Players:
 > - Next Expected Development:
 
-# Overview
+## Overview
+
 Associated with the [[Lorestone of Eryndor]].
 
-# Current State
+## Current State
 
-# Player Knowledge
-## What they know: 
-1. Rifts have begun to appear across Wildemount. 
+## Player Knowledge
+
+### What they know
+
+1. Rifts have begun to appear across Wildemount.
 2. A prophecy exists (see text below). The [[Obsidian Echoforge]] is pursuing information about this prophecy.
 
 ![[The Prophecy (Modern Text)#Core Information]]
-## What they think they know:
+
+### What they think they know
 
 ![[Lorestone of Eryndor#Faction Knowledge Evolution]]
 
-## What they don't know:
+### What they don't know
 
 ![[Prophecy General Info#Core Information]]
+
 ![[History of the Prophecy#Core Information]]
+
 ![[The Prophecy (Original Form)#Core Information]]
 
+### Connected Elements
 
+#### NPCs
 
-## Connected Elements
-### NPCs
 ```dataview
 LIST
 FROM #npc
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
-### Places
+
+#### Places
+
 ```dataview
 LIST
 FROM #location
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
-### Items
+
+#### Items
+
 ```dataview
 LIST
 FROM #artifact 
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
-### Related Plot Threads
+
+#### Related Plot Threads
+
 ```dataview
 LIST
 FROM #plot 

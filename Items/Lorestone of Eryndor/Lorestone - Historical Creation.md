@@ -1,12 +1,13 @@
 ---
+context:
+created: 2025-09-27
 tags:
   - atomic
   - campaign/eryndor
   - needs-work
-created: 2025-09-27
-context:
 ---
-# Core Information
+
+## Core Information
 
 [[Eryndor]], aware of the weight and significance of their visions, knew the prophecy needed to be preserved in a manner that would withstand the ravages of time. They sought out a famed Drow artificer named [[Illyndra Shadowveil]], who was known for her mastery in crafting artifacts imbued with protective magic.
 
@@ -22,50 +23,62 @@ Centuries later, a Firbolg scholar named [[Lys Willowwhisper]], driven by dreams
 
 This expedition would begin what became known as the [[Legacy of the Seekers]], a 400+ year quest spanning multiple generations. Over the next four hundred years, The Seekers of Eryndor's Echo (later known as the [[Obsidian Echoforge]]) grew in number and dedication. Lys' descendants, along with followers inspired by the tale, dedicated their lives to the search. They braved stormy seas, battled lurking sea creatures, and deciphered ancient clues. With each passing generation, they pieced together more of the prophecy.
 
-# Source Context
+## Source Context
+
 Brief note about where this information originated (session, NPC conversation, etc.)
 
-# Relationship Details
+## Relationship Details
+
 [Delete section if not a relationship note]
-## Nature of Connection
+
+### Nature of Connection
+
 Brief description of how these elements relate
 
-## Impact/Implications
+### Impact/Implications
+
 How this relationship affects the campaign
 
-# Connections
-## Source Note
+## Connections
+
+### Source Note
+
 [[Lorestone of Eryndor]]
 
-## Related Atomic Notes
+### Related Atomic Notes
+
 ```dataview
 LIST
 FROM #atomic
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
 
-## Related NPCs
+### Related NPCs
+
 ```dataview
 LIST
 FROM #npc 
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
 
-## Related Plot Threads
+### Related Plot Threads
+
 ```dataview
 LIST
 FROM #plot  
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
 
-## Related Locations
+### Related Locations
+
 ```dataview
 LIST
 FROM #location 
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
 
-## Related Items/Artifacts
+### Related Items/Artifacts
+
 ```dataview
 LIST
 FROM #artifact 

@@ -1,18 +1,19 @@
 ---
+current_location: "[[Baldur's Gate]]"
+disposition: indifferent
 tags:
   - npc
   - world/toril
   - region/sword-coast
-current_location: "[[Baldur's Gate]]"
-disposition: indifferent
 ---
 
 Last Edited: May 1, 2021 8:35 PM
+
 Tags: NPC
 
 ![https://db4sgowjqfwig.cloudfront.net/images/3239401/326px_Elar.jpg](https://db4sgowjqfwig.cloudfront.net/images/3239401/326px_Elar.jpg)
 
-Owner of a small roadhouse in the Outer City of Baldur’s Gate. Rumors in the city are that he is a cultist.
+Owner of a small roadhouse in the Outer City of Baldur's Gate. Rumors in the city are that he is a cultist.
 
 In fact he is not a cult member, but is a sympathizer and a beneficiary of their lavish spending, providing a safe house for the cult on their way through the city. He overcharges the cultists, but they are happy to pay.
 

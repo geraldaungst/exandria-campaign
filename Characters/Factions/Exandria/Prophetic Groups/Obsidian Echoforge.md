@@ -1,14 +1,17 @@
 ---
+aliases:
+  - echoforge
+disposition: friendly
 tags:
   - faction
   - offscreen
   - world/exandria
-aliases:
-  - "echoforge"
-disposition: friendly
 ---
+
 ![[obsidian-echoforge.png|right|100]]
-# Quick Reference
+
+## Quick Reference
+
 > [!info] Essential Details
 > - Base of Operations: Permanent collection and workshop on the outskirts of [[Palma Flora]] on the Menagerie Coast
 > - Primary Goal: Locate and assemble the fragments of the [[Lorestone of Eryndor]] in order to close rifts
@@ -16,13 +19,17 @@ disposition: friendly
 > - Party Standing: Pursuing a [[Aethor Kalisk's Secret Mission|quest]] for [[Aethor Kalisk]]
 > - Influence Level: Regional
 
-# Organization
-## Leadership Structure
-### Current Leadership
+## Organization
+
+### Leadership Structure
+
+#### Current Leadership
+
 - [[Lyren Willowwhisper]] - Current Leader (resides at the [[Palma Flora]] facility)
 - [[Veyda Willowwhisper]] - Former leader, now advisor (and [[Lyren Willowwhisper|Lyren]]'s aunt, also resides at [[Palma Flora]])
 
-### Historical Leadership
+#### Historical Leadership
+
 The Willowwhisper lineage has led the organization through multiple generations:
 
 | Leader                   | Era                | Notable Achievements                 | Legacy                                          |
@@ -38,23 +45,28 @@ The Willowwhisper lineage has led the organization through multiple generations:
 | [[Veyda Willowwhisper]] | Recent Past        | Expanded collection facilities       | Established [[Palma Flora]] base                |
 | [[Lyren Willowwhisper]]  | Present            | Current operations                   | Active leadership                               |
 
-## Notable Members
+### Notable Members
+
 - [[Aethor Kalisk]] - Member (currently on mission in [[Port Damali]])
 - [[Gaius Emberfell]] - Field Agent
 - [[Tessa Sunwarden]] - Field Agent
 
-## Size/Scale
+### Size/Scale
+
 Regional organization with multiple field agents and a permanent facility
 
-## Resources & Assets
+### Resources & Assets
+
 - Permanent collection and workshop facility
 - Network of field agents
 - Historical archives and documentation
 - Arcane and technological resources for fragment detection
 - Collection of recovered prophecy fragments (number unknown)
 
-# Culture & Methods
-## Philosophy/Beliefs
+## Culture & Methods
+
+### Philosophy/Beliefs
+
 - Dedicated to preserving and reconstructing ancient knowledge
 - Believe the complete prophecy will provide guidance for Exandria's future
 - Focus on unity and collective purpose
@@ -62,8 +74,10 @@ Regional organization with multiple field agents and a permanent facility
 - Strong emphasis on preservation and protection of recovered pieces
 - Believe that the assembled Lorestone can be used to prevent or close the rifts. (They are unaware that this will also require the use of a [[luxon-beacon-egw|Luxon Beacon]].)
 
-## Historical Evolution
-### Name Changes and Significance
+### Historical Evolution
+
+#### Name Changes and Significance
+
 1. **Seekers of [[Eryndor]]'s Echo** - Original name under [[Lys Willowwhisper]]
 2. **[[Eryndor]] Echo Seekers** - Streamlined version
 3. **Echo Seekers** - Adopted to reflect mission's universal importance beyond [[Eryndor]]'s legacy
@@ -72,72 +86,89 @@ Regional organization with multiple field agents and a permanent facility
 
 For the complete 400-year history of how these name changes reflect the organization's evolution, see [[Legacy of the Seekers]].
 
-## Traditions/Customs
+### Traditions/Customs
+
 - Documentation and interpretation of fragments
 - Guardianship of recovered fragments
 - Sharing of prophecy contents when new pieces are recovered
 - Training in both scholarly research and exploration techniques
 
-## Known Symbols
+### Known Symbols
+
 - Obsidian disc fragments
 - Organization name image: ![[obsidian-echoforge.png|right|100]]
 
-# Relationships
-## Rivals
+## Relationships
+
+### Rivals
+
 - [[Emissaries of the Sunfall]] - Hostile rival faction seeking shards for personal gain and power
 
-# Current Activities
-## Active Operations
+## Current Activities
+
+### Active Operations
+
 - [[Aethor Kalisk]]'s mission in [[Port Damali]]
 - Ongoing search for prophecy disc fragments
 
-## Recent Events
+### Recent Events
+
 - [[Sessions 1 to 3 - The Skyship]] involving [[Aethor Kalisk]]
 
-# Historical Events
-## The Massacre
+## Historical Events
+
+### The Massacre
+
 ![[The Massacre#Core Information#The Event]]
 
 For more information see [[The Massacre]].
 
-## Legacy of the Seekers
+### Legacy of the Seekers
+
 ![[Legacy of the Seekers#Core Information]]
 
-# Future Developments
-## Primary Objectives
+## Future Developments
+
+### Primary Objectives
+
 - Continue locating and assembling fragments of the Obsidian Prophecy Disc
 - Maintain and protect already recovered fragments
 - Further development of detection and preservation methods
 - Discovery of a method for using the Lorestone to close rifts
 - Training next generation of scholars and explorers
 
-## Faction Knowledge Evolution
+### Faction Knowledge Evolution
 
 ![[Lorestone of Eryndor#Faction Knowledge Evolution]]
 
-# Related Elements
-## Notable Members
+## Related Elements
+
+### Notable Members
+
 ```dataview
 LIST
 FROM #npc
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
 
-## Controlled/Occupied Locations
+### Controlled/Occupied Locations
+
 ```dataview
 LIST
 FROM #location
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
 
-## Important Items
+### Important Items
+
 ```dataview
 LIST
 FROM #artifact 
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
 
-## Connected Plot Threads
+### Connected Plot Threads
+
 ```dataview
 LIST
 FROM #plot 

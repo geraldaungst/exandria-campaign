@@ -2,9 +2,10 @@
 tags:
   - campaign/eryndor
 ---
+
 ## Lorestone Shard
 
-_Wondrous item, very rare (requires attunement)_
+*Wondrous item, very rare (requires attunement)*
 
 A jagged fragment of obsidian, roughly 6 inches at its longest point, with ancient Elvish script etched in silvery mithral lines across its surface. The shard feels heavier than its size suggests and emits a faint, pulsing warmth when near planar disturbances.
 
@@ -27,7 +28,7 @@ Once you use this feature, you cannot use it again until you finish a long rest.
 
 ## Lorestone of Eryndor (Assembled)
 
-_Wondrous item, artifact (requires attunement)_
+*Wondrous item, artifact (requires attunement)*
 
 A perfectly circular obsidian disc, 2 feet in diameter, inscribed with the complete Prophecy of Eryndor in flowing Elvish script inlaid with mithral and star metal. When whole, the disc radiates an aura of ancient power and barely contained energy that makes the air shimmer around it.
 
@@ -52,10 +53,10 @@ A perfectly circular obsidian disc, 2 feet in diameter, inscribed with the compl
 
 **Spells.** While attuned to the Lorestone, you can cast the following spells from it:
 
-- _Detect Magic_ (at will)
-- _Identify_ (3/day)
-- _Plane Shift_ (1/day, but only to the last plane you detected with Planar Awareness)
-- _Banishment_ (1/day)
+- *Detect Magic* (at will)
+- *Identify* (3/day)
+- *Plane Shift* (1/day, but only to the last plane you detected with Planar Awareness)
+- *Banishment* (1/day)
 
 The Lorestone regains all expended spell uses at dawn.
 

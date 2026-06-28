@@ -1,12 +1,13 @@
 ---
+cssclasses: "- wide-table"
+disposition: indifferent
 tags:
   - faction
   - world/exandria
-disposition: indifferent
-cssclasses: "- wide-table"
 ---
 
-# Summary of Relationships
+## Summary of Relationships
+
 | Faction/Individual                                | Goal                              | Obsidian Echoforge                                                                                                                   | Malachite Cord                                                                                                                        | Emissaries of the Sunfall                                                     | Vaud Qalix                                                               |
 | ------------------------------------------------- | --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
 | Obsidian Echoforge                                | Assemble Lorestone to close rifts | -                                                                                                                                    | Direct conflict over Lorestone assembly; both seek to prevent misuse by others; Might work together if they learn about Luxon Beacons | Conflict over control of Lorestone; potential alliance against Malachite Cord | Direct conflict over possession of Lorestone shards                      |
@@ -17,8 +18,8 @@ cssclasses: "- wide-table"
 | Ashari Riftguard                                  | Protect rifts                     | Potential ally in studying rifts; conflict over Lorestone use                                                                        | Aligned in protecting rifts; conflict over methods                                                                                    | Conflict over rift control and exploitation                                   | Conflict over rift exploitation                                          |
 | Scars of Scale and Tooth (Xarzith Kitril Council) | Govern Draconia                   | Unaware of conflict                                                                                                                  | Unaware of conflict                                                                                                                   | Unaware of conflict                                                           | Qalix uses position for personal goals                                   |
 
-
 [[Obsidian Echoforge]]
+
 - Trying to seal the rifts with the Lorestone.
 [[Malachite Cord]]
 - Trying to stop the [[Obsidian Echoforge]] from assembling the Lorestone, which they think will cause further catastrophe. (They are partly correct--the Lorestone alone will indeed cause catastrophe.)

@@ -4,7 +4,9 @@ tags:
   - needs-work
   - plot
 ---
-# Quick Reference
+
+## Quick Reference
+
 > [!info] Essential Details
 > - Stage: Ongoing
 > - Priority: Medium
@@ -12,61 +14,75 @@ tags:
 > - Last Session: [[Session 28 - Back at Harmony Hall]]
 > - Next Steps: Drawg confronts Dreyara
 
-# Overview
+## Overview
 
-# Current State
-## Recent Events
+## Current State
+
+### Recent Events
+
 Drawg discovered that Dreyara has a dagger that is shaped remarkably like his scabbard.
 
-## Active Elements
+### Active Elements
+
 Dreyara is just behind the party in the Cyrios Mountains, headed towards Cloudfang Keep.
 
-## Blocking Issues
+### Blocking Issues
+
 Dreyara has possession of the dagger and is unlikely to let it go.
 
-# Player Knowledge
+## Player Knowledge
+
 - What they know: [[Dreyara Drimvar|Dreyara]] has a dagger strapped to her arm that appears to be the one [[Drawg Stormbrew (Brew)|Drawg]] is searching for.
-- What they think they know: 
+- What they think they know:
 - What they don't know: The dagger is in fact the [[Blade of Maroth Fenn]], one of the [[vestiges-of-divergence-by-advancement-tdcsr|Vestiges of Divergence]].
 
-# Development Stages
-## Seeds
+## Development Stages
+
+### Seeds
+
 - [ ] Seed description
 - [ ] Expected trigger: (event/condition/timing)
 - [ ] Potential implications
 
-## Planned Developments
+### Planned Developments
+
 - [ ] Immediate actions
 - [ ] Timing constraints
 - [ ] Required preparation
 
-## Long-term Plans
+### Long-term Plans
+
 - Major plot points
 - Possible branches
 
-# Connected Elements
-## NPCs
+## Connected Elements
+
+### NPCs
+
 ```dataview
 LIST
 FROM #npc
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
 
-## Places
+### Places
+
 ```dataview
 LIST
 FROM #location
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
 
-## Items
+### Items
+
 ```dataview
 LIST
 FROM #artifact 
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
 
-## Related Plot Threads
+### Related Plot Threads
+
 ```dataview
 LIST
 FROM #plot 

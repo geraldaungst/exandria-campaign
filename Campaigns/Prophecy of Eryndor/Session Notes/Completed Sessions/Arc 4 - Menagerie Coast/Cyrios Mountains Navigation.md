@@ -2,15 +2,16 @@
 tags:
   - campaign/eryndor
 ---
-# Mountain Pursuit System - Daily GM Reference
 
+## Mountain Pursuit System - Daily GM Reference
 
-## Setup
+### Setup
 
 - **Total Journey**: 25 Progress Points
 - **Quarry Starting Lead**: 8 points
 
-## Current Status
+### Current Status
+
 Update this as party progresses.
 
 | Group               | Current Points | Location         | Path     |
@@ -20,9 +21,9 @@ Update this as party progresses.
 
 ---
 
-## Daily Sequence
+### Daily Sequence
 
-### 1. ROLL QUARRY PROGRESS (d12)
+#### 1. ROLL QUARRY PROGRESS (d12)
 
 | Roll | Progress                                     | Points |
 | ---- | -------------------------------------------- | ------ |
@@ -32,7 +33,7 @@ Update this as party progresses.
 | 6-11 | **Normal** (steady moderate route travel)    | 4      |
 | 12   | **Good** (favorable conditions, shortcuts)   | 5      |
 
-### 2. ROUTE SELECTION (At decision nodes only)
+#### 2. ROUTE SELECTION (At decision nodes only)
 
 **Player Choice:**
 
@@ -40,7 +41,7 @@ Update this as party progresses.
 - Moderate Route: 4 base points/day
 - Difficult Route: 5 base points/day
 
-### 3. TRAVEL PACE DECISION
+#### 3. TRAVEL PACE DECISION
 
 **Player Choice - Apply modifier to base route progress:**
 
@@ -49,11 +50,11 @@ Update this as party progresses.
 - **Fast Pace**: +1 point, Disadvantage on Perception/Survival/Stealth
 - **Push Hard**: +1 additional point, DC 13 Con save or gain exhaustion
 
-### 4. SKILL CHALLENGES & OBSTACLES
+#### 4. SKILL CHALLENGES & OBSTACLES
 
 See specific route details below.
 
-### 5. TRACKING CHECK
+#### 5. TRACKING CHECK
 
 **If players attempt to follow quarry's trail:**
 
@@ -63,15 +64,14 @@ See specific route details below.
 - **Failure**: Lose trail
 - **Spend extra time searching**: advantage on roll, but failure means spend day searching (-1 points)
 
-### 6. CALCULATE PARTY PROGRESS
+#### 6. CALCULATE PARTY PROGRESS
 
 **Formula**: Base Route + Pace Modifier + Challenge Results
 
 - Record total secretly
 - Give environmental description instead of numbers
 
-
-### 7. CHECK FOR ENCOUNTERS
+#### 7. CHECK FOR ENCOUNTERS
 
 **Base Encounter Chance per Day**: Roll d20
 
@@ -107,7 +107,7 @@ See specific route details below.
     - Failed Perception vs encounter's Stealth = party surprised
     - Normal/Slow Pace: Standard surprise rules
 
-### 8. UPDATE PROGRESS TRACKER
+#### 8. UPDATE PROGRESS TRACKER
 
 - Add party progress to running total
 - Add quarry progress to running total
@@ -116,7 +116,7 @@ See specific route details below.
 
 ---
 
-## Quick Reference
+### Quick Reference
 
 **Typical Progress Examples:**
 
@@ -135,17 +135,18 @@ See specific route details below.
 - Reach 25 points (destination)
 - Match quarry's progress total (catch up)
 
-# Cyrios Mountain Travel Nodes
+## Cyrios Mountain Travel Nodes
 
 ![[mountain_node_map.svg]]
 
-# Cyrios Mountains - Node Structure
+## Cyrios Mountains - Node Structure
 
-## Starting Node: Merrow Cave
+### Starting Node: Merrow Cave
 
 Encounter: [[River Crossing - False Parley of the Leviathan]]
 
-**Progress**: 0 points  
+**Progress**: 0 points
+
 **Features**:
 
 - Map discovery location
@@ -160,9 +161,9 @@ Encounter: [[River Crossing - False Parley of the Leviathan]]
 
 ---
 
-## First Tier Nodes (8 Progress Points)
+### First Tier Nodes (8 Progress Points)
 
-### Windgate Pass (Easy Route)
+#### Windgate Pass (Easy Route)
 
 **Features**:
 
@@ -173,11 +174,11 @@ Encounter: [[River Crossing - False Parley of the Leviathan]]
 **Skill Challenges on approach**:
 
 - **Navigation**: DC 10 Survival (group check) - following established trail markers
-    - _Success_: Make normal progress, gain information about weather ahead
-    - _Failure_: Lose 2 hours, -1 progress for the day
+    - *Success*: Make normal progress, gain information about weather ahead
+    - *Failure*: Lose 2 hours, -1 progress for the day
 - **Cart Management**: DC 8 Animal Handling - keeping horses calm on mountain path
-    - _Success_: Cart travels smoothly
-    - _Failure_: Cart wheel needs minor repair, requires 1 hour and DC 12 Tinker's Tools check
+    - *Success*: Cart travels smoothly
+    - *Failure*: Cart wheel needs minor repair, requires 1 hour and DC 12 Tinker's Tools check
 
 **Set Encounter at node**: [[Cyrios Random Encounters#8. Tribal Diplomats (Snowy Passage)|Tribal Diplomats]]
 
@@ -186,7 +187,7 @@ Encounter: [[River Crossing - False Parley of the Leviathan]]
 - **Shepherd's Rest** (Easy): Continue gradual ascent
 - **Thornvale Crossing** (Moderate): Cut toward center routes
 
-### Frostfall Valley (Moderate Route)
+#### Frostfall Valley (Moderate Route)
 
 **Features**:
 
@@ -197,14 +198,14 @@ Encounter: [[River Crossing - False Parley of the Leviathan]]
 **Skill Challenges on approach**:
 
 - **Terrain Navigation**: DC 12 Survival - finding path through rocky valley
-    - _Success_: Normal progress, spot quarry's tracks (Investigation DC 10)
-    - _Failure_: Wrong turn adds 4 hours, -2 progress for the day
+    - *Success*: Normal progress, spot quarry's tracks (Investigation DC 10)
+    - *Failure*: Wrong turn adds 4 hours, -2 progress for the day
 - **Cart Obstacle**: DC 14 group Athletics check - lifting cart over fallen logs
-    - _Success_: Cart continues normally
-    - _Failure_: Must find alternate route (-1 point) or leave cart behind
+    - *Success*: Cart continues normally
+    - *Failure*: Must find alternate route (-1 point) or leave cart behind
 - **Weather Check**: DC 11 Constitution save - dealing with altitude and cold
-    - _Success_: No effect
-    - _Failure_: Gain 1 level of exhaustion
+    - *Success*: No effect
+    - *Failure*: Gain 1 level of exhaustion
 
 **Set Encounter**: [[Cyrios Random Encounters#13-14. Ancient Shrine|Ancient Shrine (meditation benefits)]]
 
@@ -214,9 +215,10 @@ Encounter: [[River Crossing - False Parley of the Leviathan]]
 - **Iceheart Gorge** (Moderate): Continue direct path
 - **Stormcrown Peak** (Difficult): Push for high route
 
-### Razorspine Ridge (Difficult Route)
+#### Razorspine Ridge (Difficult Route)
 
-**Progress to Reach**: 8 points  
+**Progress to Reach**: 8 points
+
 **Features**:
 
 - Treacherous but allows faster daily progress
@@ -226,13 +228,13 @@ Encounter: [[River Crossing - False Parley of the Leviathan]]
 **Skill Challenges on approach**:
 
 - **Dangerous Climb**: DC 15 Athletics (individual checks) - scaling steep rocky sections
-    - _Success_: Normal progress
-    - _Failure_: Take 1d6 bludgeoning damage, progress reduced by 1 point
+    - *Success*: Normal progress
+    - *Failure*: Take 1d6 bludgeoning damage, progress reduced by 1 point
 - **Cart Crisis**: No check required - cart cannot proceed for final 2 miles
-    - _Options_: Turn back (-2 progress), abandon cart (no change), or disassemble and carry (DC 18 group Athletics, -3 progress)
+    - *Options*: Turn back (-2 progress), abandon cart (no change), or disassemble and carry (DC 18 group Athletics, -3 progress)
 - **Navigation Hazard**: DC 16 Perception - spotting unstable ground and rockslide danger
-    - _Success_: Avoid hazard, spot shortcut (+1 progress if not pushing pace)
-    - _Failure_: Trigger rockslide, all make DC 14 Dex save or take 2d6 damage
+    - *Success*: Avoid hazard, spot shortcut (+1 progress if not pushing pace)
+    - *Failure*: Trigger rockslide, all make DC 14 Dex save or take 2d6 damage
 
 **Set Encounter**: [[Cyrios Random Encounters#6. Stranded Exploration Party (Mountain Pass)|Stranded Exploration Party (rescue opportunity)]]
 
@@ -243,11 +245,12 @@ Encounter: [[River Crossing - False Parley of the Leviathan]]
 
 ---
 
-## Second Tier Nodes (16 Progress Points)
+### Second Tier Nodes (16 Progress Points)
 
-### Shepherd's Rest (Safe Haven)
+#### Shepherd's Rest (Safe Haven)
 
-**Progress to Reach**: 16 points  
+**Progress to Reach**: 16 points
+
 **Features**:
 
 - Abandoned but intact waystation
@@ -258,19 +261,20 @@ Encounter: [[River Crossing - False Parley of the Leviathan]]
 **Skill Challenges**:
 
 - **Waystation Assessment**: DC 8 Investigation - checking structural integrity and supplies
-    - _Success_: Find useful supplies (rope, lamp oil, rations for 1 day)
-    - _Failure_: Miss hidden cache, but waystation still provides shelter
+    - *Success*: Find useful supplies (rope, lamp oil, rations for 1 day)
+    - *Failure*: Miss hidden cache, but waystation still provides shelter
 - **Rest Management**: No check required - safe rest location
-    - _Automatic_: All characters regain 1 additional hit die during rest
-    - _Automatic_: Cart can be fully maintained and repaired
+    - *Automatic*: All characters regain 1 additional hit die during rest
+    - *Automatic*: Cart can be fully maintained and repaired
 
 **Route Choices from Shepherd's Rest:**
 
 - **Cloudfang Approach** (Easy): Final safe approach
 
-### Thornvale Crossing (Central Hub)
+#### Thornvale Crossing (Central Hub)
 
-**Progress to Reach**: 16 points  
+**Progress to Reach**: 16 points
+
 **Features**:
 
 - Multiple route convergence
@@ -281,20 +285,21 @@ Encounter: [[River Crossing - False Parley of the Leviathan]]
 **Skill Challenges**:
 
 - **Bridge Assessment**: DC 12 Investigation - checking bridge safety for cart
-    - _Success_: Bridge is safe, proceed normally
-    - _Failure_: Discover loose planks during crossing, requires DC 15 group Athletics to stabilize cart
+    - *Success*: Bridge is safe, proceed normally
+    - *Failure*: Discover loose planks during crossing, requires DC 15 group Athletics to stabilize cart
 - **Route Planning**: DC 10 Survival - determining best path forward based on weather/conditions
-    - _Success_: Gain advantage on next node's skill checks
-    - _Failure_: No bonus, but no penalty
+    - *Success*: Gain advantage on next node's skill checks
+    - *Failure*: No bonus, but no penalty
 
 **Route Choices from Thornvale Crossing:**
 
 - **Cloudfang Approach** (Easy): Safe final stretch
 - **Skyreach Pass** (Moderate): Balanced final approach
 
-### Iceheart Gorge (Perilous Passage)
+#### Iceheart Gorge (Perilous Passage)
 
-**Progress to Reach**: 16 points  
+**Progress to Reach**: 16 points
+
 **Features**:
 
 - Narrow canyon walls
@@ -305,23 +310,24 @@ Encounter: [[River Crossing - False Parley of the Leviathan]]
 **Skill Challenges**:
 
 - **Elemental Navigation**: DC 14 Arcana or Nature - understanding elemental behavior to avoid conflict
-    - _Success_: Pass safely without triggering territorial response
-    - _Failure_: Elements notice party, must succeed on DC 13 Stealth (group) or face encounter
+    - *Success*: Pass safely without triggering territorial response
+    - *Failure*: Elements notice party, must succeed on DC 13 Stealth (group) or face encounter
 - **Narrow Passage**: DC 16 Athletics (group check) - maneuvering cart through tight canyon
-    - _Success_: Cart squeezes through with careful positioning
-    - _Failure_: Cart gets stuck, requires 4 hours and DC 18 combined Athletics/Tinker's Tools to free
+    - *Success*: Cart squeezes through with careful positioning
+    - *Failure*: Cart gets stuck, requires 4 hours and DC 18 combined Athletics/Tinker's Tools to free
 - **Unstable Ground**: DC 13 Perception - noticing loose scree and planning route
-    - _Success_: Avoid dangerous areas
-    - _Failure_: Rockfall forces DC 12 Dex saves, 1d6 damage on failure
+    - *Success*: Avoid dangerous areas
+    - *Failure*: Rockfall forces DC 12 Dex saves, 1d6 damage on failure
 
 **Route Choices from Iceheart Gorge:**
 
 - **Skyreach Pass** (Easy): Exit to main road
 - **Stormwatch Pinnacle** (Difficult): Push through dangerous terrain
 
-### Stormcrown Peak (High Risk/Reward)
+#### Stormcrown Peak (High Risk/Reward)
 
-**Progress to Reach**: 16 points  
+**Progress to Reach**: 16 points
+
 **Features**:
 
 - Highest elevation point
@@ -332,13 +338,13 @@ Encounter: [[River Crossing - False Parley of the Leviathan]]
 **Skill Challenges**:
 
 - **Extreme Altitude**: DC 15 Constitution save (individual) - dealing with thin air and cold
-    - _Success_: Adapt to conditions
-    - _Failure_: Gain 1 level of exhaustion, -1 to all checks until next rest
+    - *Success*: Adapt to conditions
+    - *Failure*: Gain 1 level of exhaustion, -1 to all checks until next rest
 - **Storm Navigation**: DC 17 Survival - navigating in severe weather conditions
-    - _Success_: Find shelter and safe passage, +1 progress if weather clears for good visibility
-    - _Failure_: Lost in storm, lose 6 hours (-2 progress for day)
+    - *Success*: Find shelter and safe passage, +1 progress if weather clears for good visibility
+    - *Failure*: Lost in storm, lose 6 hours (-2 progress for day)
 - **Cart Impossibility**: Automatic - cart cannot proceed on steep rocky terrain
-    - _Options_: Leave cart in hidden cache (DC 15 Survival to hide well), abandon it, or attempt dangerous portage (DC 20 group Athletics, 8 hours, cart takes 2d6 damage on failure)
+    - *Options*: Leave cart in hidden cache (DC 15 Survival to hide well), abandon it, or attempt dangerous portage (DC 20 group Athletics, 8 hours, cart takes 2d6 damage on failure)
 
 **Route Choices from Stormcrown Peak:**
 
@@ -347,11 +353,12 @@ Encounter: [[River Crossing - False Parley of the Leviathan]]
 
 ---
 
-## Third Tier Nodes (22 Progress Points)
+### Third Tier Nodes (22 Progress Points)
 
-### Skyreach Pass (Mountain Highway)
+#### Skyreach Pass (Mountain Highway)
 
-**Progress to Reach**: 22 points  
+**Progress to Reach**: 22 points
+
 **Features**:
 
 - Well-maintained mountain road
@@ -362,21 +369,22 @@ Encounter: [[River Crossing - False Parley of the Leviathan]]
 **Skill Challenges**:
 
 - **Toll Negotiation**: Ettin wants 100gp toll or equivalent trade goods
-    - _Diplomacy_: DC 14 Persuasion to negotiate with "Mung" head for reduced price (50gp)
-    - _Intimidation_: DC 16 Intimidation (Grak head resists, may provoke fight)
-    - _Deception_: DC 15 Deception to convince them party is broke/poor
-    - _Stealth_: DC 13 group Stealth check to bypass toll station entirely
+    - *Diplomacy*: DC 14 Persuasion to negotiate with "Mung" head for reduced price (50gp)
+    - *Intimidation*: DC 16 Intimidation (Grak head resists, may provoke fight)
+    - *Deception*: DC 15 Deception to convince them party is broke/poor
+    - *Stealth*: DC 13 group Stealth check to bypass toll station entirely
 - **Road Conditions**: DC 10 Survival - assessing road quality for cart travel
-    - _Success_: Road is excellent, gain +1 progress for easy final stretch
-    - _Failure_: Miss potholes and rough spots, cart wheel damaged (1 hour repair, DC 10 Tinker's Tools)
+    - *Success*: Road is excellent, gain +1 progress for easy final stretch
+    - *Failure*: Miss potholes and rough spots, cart wheel damaged (1 hour repair, DC 10 Tinker's Tools)
 
 **Route Choices from Skyreach Pass:**
 
 - **Cloudfang Keep** (Easy): Main road to keep
 
-### Stormwatch Pinnacle (Final Challenge)
+#### Stormwatch Pinnacle (Final Challenge)
 
-**Progress to Reach**: 22 points  
+**Progress to Reach**: 22 points
+
 **Features**:
 
 - Most dangerous final approach
@@ -387,21 +395,22 @@ Encounter: [[River Crossing - False Parley of the Leviathan]]
 **Skill Challenges**:
 
 - **Roc Avoidance**: DC 16 Stealth (group) - moving quietly through roc territory
-    - _Success_: Avoid detection, proceed normally
-    - _Failure_: Roc spots party, requires negotiation, driving off, or hiding
+    - *Success*: Avoid detection, proceed normally
+    - *Failure*: Roc spots party, requires negotiation, driving off, or hiding
 - **Treacherous Descent**: DC 17 Athletics (individual) - navigating dangerous cliff paths
-    - _Success_: Make rapid progress, +1 progress for daring route
-    - _Failure_: Slip and fall, take 2d6 damage and lose equipment (DC 15 Dex save to catch)
+    - *Success*: Make rapid progress, +1 progress for daring route
+    - *Failure*: Slip and fall, take 2d6 damage and lose equipment (DC 15 Dex save to catch)
 - **Cart Abandonment**: Automatic - no way to bring cart on final approach
-    - _Required_: Must cache or abandon cart, proceed on foot for final 3 progress points
+    - *Required*: Must cache or abandon cart, proceed on foot for final 3 progress points
 
 **Route Choices from Stormwatch Pinnacle:**
 
 - **Cloudfang Keep** (Direct): Dangerous but direct descent
 
-### Cloudfang Approach (Safe Final Stretch)
+#### Cloudfang Approach (Safe Final Stretch)
 
-**Progress to Reach**: 22 points  
+**Progress to Reach**: 22 points
+
 **Features**:
 
 - Gentle final approach
@@ -412,14 +421,14 @@ Encounter: [[River Crossing - False Parley of the Leviathan]]
 **Skill Challenges**:
 
 - **Final Navigation**: DC 8 Survival - following clear path to keep
-    - _Success_: Smooth approach, arrive with full supplies and cart
-    - _Failure_: Take wrong fork, lose 2 hours but no other penalty
+    - *Success*: Smooth approach, arrive with full supplies and cart
+    - *Failure*: Take wrong fork, lose 2 hours but no other penalty
 - **Griffon Aid**: Optional Animal Handling DC 15 to help injured griffon
-    - _Success_: Griffon grateful, provides aerial reconnaissance of keep area
-    - _Failure_: Griffon remains wary but not hostile
+    - *Success*: Griffon grateful, provides aerial reconnaissance of keep area
+    - *Failure*: Griffon remains wary but not hostile
 - **Cart Maintenance**: DC 10 Animal Handling - final check on horses and cart condition
-    - _Success_: Arrive in excellent condition
-    - _Failure_: Cart needs 1 hour of maintenance before being reliable
+    - *Success*: Arrive in excellent condition
+    - *Failure*: Cart needs 1 hour of maintenance before being reliable
 
 **Route Choices from Cloudfang Approach:**
 
@@ -427,28 +436,29 @@ Encounter: [[River Crossing - False Parley of the Leviathan]]
 
 ---
 
-## Destination: Cloudfang Keep
+### Destination: Cloudfang Keep
 
-**Progress to Reach**: 25 points  
+**Progress to Reach**: 25 points
+
 **Final Destination**
 
 **Final Approach Challenges** (based on route taken):
 
-### From Skyreach Pass (Easy Final Stretch)
+#### From Skyreach Pass (Easy Final Stretch)
 
 - **Keep Recognition**: DC 8 Perception - spotting the keep on its perch
-    - _Success_: Clear view, easy approach planning
-    - _Failure_: Takes 1 extra hour to locate proper entrance
+    - *Success*: Clear view, easy approach planning
+    - *Failure*: Takes 1 extra hour to locate proper entrance
 - **Gate Approach**: No check required with cart via main road
 
-### From Stormwatch Pinnacle (Direct Dangerous Approach)
+#### From Stormwatch Pinnacle (Direct Dangerous Approach)
 
 - **Cliff Descent**: DC 18 Athletics (individual) - final dangerous climb down to keep level
-    - _Success_: Dramatic arrival, possible surprise advantage if approaching stealthily
-    - _Failure_: Fall damage 3d6, arrive injured and making noise
+    - *Success*: Dramatic arrival, possible surprise advantage if approaching stealthily
+    - *Failure*: Fall damage 3d6, arrive injured and making noise
 - **Keep Assault**: Arrives at keep walls rather than main gate, may enable different tactical options
 
-### From Cloudfang Approach (Safest Route)
+#### From Cloudfang Approach (Safest Route)
 
 - **Leisurely Arrival**: No checks required
 - **Full Preparation**: Cart and supplies intact, horses rested, party at full strength
@@ -456,7 +466,7 @@ Encounter: [[River Crossing - False Parley of the Leviathan]]
 
 ---
 
-## Integration Notes for Skill Challenges
+### Integration Notes for Skill Challenges
 
 **Failed Skill Challenge Consequences:**
 

@@ -1,15 +1,15 @@
 ---
+date: 2025-03-16
+next_session:
+previous_session:
+session_number:
 tags:
   - campaign/eryndor
   - session
-session_number:
-date: 2025-03-16
-previous_session:
-next_session:
-  - no
-  - yes
 ---
-# Quick Reference
+
+## Quick Reference
+
 > [!info] Essential Details
 > - Location(s): [[Port Damali]]
 > - Active Plots: [[Aethor Kalisk's Secret Mission]], [[Assembling the Lorestone]], [[Search for the Stonefoot Compass]]
@@ -17,59 +17,73 @@ next_session:
 > - Previous Session: [[Session 24 - Gorillafish Attack]]
 > - Next Session: [[Session 26 - Investigating the Abandoned Safehouse]]
 
-# Session Prep (1-2 hours)
-## Strong Start
+## Session Prep (1-2 hours)
+
+### Strong Start
+
 - Opening scene: Meeting with the Zhelezo
 - Purpose: Establish the missing shard
 
-## Core Content
-### Potential Scenes
+### Core Content
+
+#### Potential Scenes
+
 1. Players seek out Calderax and confront him
 
-# Session Notes
-## Timeline
-- 
+## Session Notes
 
-## Significant Changes
+### Timeline
+
+### Significant Changes
+
 - [ ] NPC status/location changes
 - [ ] New relationships formed
 - [ ] Plot developments
 - [ ] Location changes
 - [ ] Faction moves
 
-## Player Choices & Seeds
+### Player Choices & Seeds
+
 - Choice made:
 - Potential consequences:
 - Future hooks:
 
-# Post-Session Processing
-## Required Updates
+## Post-Session Processing
+
+### Required Updates
+
 - [ ] Update NPC locations/status
 - [ ] Note faction changes
 - [ ] Record plot developments
 - [ ] Update location states
 
-## Atomic Notes Needed
+### Atomic Notes Needed
+
 - [ ] New facts discovered
 - [ ] Relationships changed
 - [ ] Status updates needed
 - [ ] Plot elements revealed
 
-## Review and update:
+### Review and update
+
 - [ ] Relationship notes
 - [ ] Plot threads
 - [ ] Location states
 - [ ] NPC goals
 
-## Clean up:
+### Clean up
+
 - [ ] Remove outdated status info
 - [ ] Consolidate redundant notes
 - [ ] Update broken links
 - [ ] Add missing connections
 
-## Next Session Planning
-### Likely Next Steps
+### Next Session Planning
+
+#### Likely Next Steps
+
 Consider:
+
 - Immediate player goals stated:
 - Time-sensitive plot elements:
 - Faction reactions:
@@ -78,7 +92,8 @@ Consider:
 - Unresolved tensions:
 - Player expressed interests:
 
-### Prep Priority
+#### Prep Priority
+
 1. Must Have
   - Critical NPCs/locations:
   - Active plot developments:

@@ -1,35 +1,42 @@
 ---
+affiliations:
+  - "[[Myriad]]"
+aliases:
+  - Cree
+context:
+created: 2025-09-28
+current_location: "[[Zadash]]"
+disposition: indifferent
 tags:
   - npc
   - world/exandria
   - region/dwendalian-empire
-aliases:
-  - "Cree"
-affiliations:
-  - "[[Myriad]]"
-current_location: "[[Zadash]]"
-disposition: indifferent
-created: 2025-09-28
-context:
-
 ---
+
 home_city: Zadash
+
 region: Dwendalian Empire
-# Core Information
 
-## Cree Deeproots
+## Core Information
 
-### **Basic Information**
+### Cree Deeproots
 
-**Species:** Tabaxi  
-**Class:** Blood Domain Cleric  
-**Current Employer:** [[Korfel Withrethin]] (The Gentleman)  
-**Employment Duration:** Approximately 2-3 years (since Korfel established himself in [[Zadash]])  
+#### **Basic Information**
+
+**Species:** Tabaxi
+
+**Class:** Blood Domain Cleric
+
+**Current Employer:** [[Korfel Withrethin]] (The Gentleman)
+
+**Employment Duration:** Approximately 2-3 years (since Korfel established himself in [[Zadash]])
+
 **Official Role:** "Specialized consultant" for security and personnel management
 
-### **Background and Recruitment**
+#### **Background And Recruitment**
 
-**Previous Affiliation:** Blood magic researcher/test subject for the [[Cerberus Assembly]]  
+**Previous Affiliation:** Blood magic researcher/test subject for the [[Cerberus Assembly]]
+
 **Recruitment Method:** Approached by The Gentleman during his rise to power in Zadash.
 
 **Why She Was Recruited:**
@@ -49,7 +56,7 @@ region: Dwendalian Empire
 
 **What She Brought:** Unique magical capabilities plus insider knowledge of Assembly procedures and security methods
 
-### **Current Responsibilities**
+#### **Current Responsibilities**
 
 **Primary Function:** [[Blood Sample Collection Protocol]] administration
 
@@ -73,7 +80,7 @@ region: Dwendalian Empire
 - Coordinates with other specialists in the organization
 - Consults on Assembly-related threats or opportunities
 
-### **Capabilities and Methods**
+#### **Capabilities And Methods**
 
 **Blood Magic Specialization:**
 
@@ -99,9 +106,10 @@ region: Dwendalian Empire
 - Access to organization safe houses and communication networks
 - Budget for bribes, information purchases, and operational expenses
 
-### **Loyalty and Motivations**
+#### **Loyalty And Motivations**
 
-**Current Loyalty Level:** High professional loyalty, moderate personal investment  
+**Current Loyalty Level:** High professional loyalty, moderate personal investment
+
 **Primary Motivations:**
 
 - Steady employment with someone who values her unique skills
@@ -120,11 +128,14 @@ region: Dwendalian Empire
 - **Assembly Trauma:** Memories of being treated as disposable could be triggered
 - **Professional Pride:** Values being respected for expertise, vulnerable to appeals about working for "amateurs"
 
-### **Relationship with The Gentleman**
+#### **Relationship With The Gentleman**
 
-**Professional Dynamic:** Valued specialist with significant autonomy in her area of expertise  
-**Trust Level:** High operational trust, moderate personal trust  
-**Communication:** Regular briefings on security status and tracked individuals  
+**Professional Dynamic:** Valued specialist with significant autonomy in her area of expertise
+
+**Trust Level:** High operational trust, moderate personal trust
+
+**Communication:** Regular briefings on security status and tracked individuals
+
 **Authority:** Can make immediate tactical decisions but reports strategic intelligence
 
 **What She Knows About Him:**
@@ -142,9 +153,12 @@ region: Dwendalian Empire
 - Standard procedures for handling "special acquisitions"
 - **Specific Memory:** Processing and assessment of a young half-elf named [[Melthes]] with Feywild connection abilities
 
-### Cree's Involvement in the Melthes Kidnapping
-**Timeline:** Approximately 833 PD (about a year after Hesterian was sold)  
-**Location:** Cerberus Assembly research facility in [[Rexxentrum]]  
+#### Cree's Involvement in the Melthes Kidnapping
+
+**Timeline:** Approximately 833 PD (about a year after Hesterian was sold)
+
+**Location:** Cerberus Assembly research facility in [[Rexxentrum]]
+
 **Cree's Role:** Conducted magical assessment of new "acquisition"
 
 **What Happened:**
@@ -168,12 +182,12 @@ region: Dwendalian Empire
 - Has no idea Melthes has a sister named [[Hesterian Shyr (Dot)|Hesterian]]
 - Doesn't know current status or location of Melthes
 - Unaware of any connection to party members
-- Remembers him as routine but memorable professional assignment **Information Compartmentalization:** Knows only what's necessary for her specific role  
-    **Personal Security:** Maintains low profile, uses organization resources for protection  
-    **Counter-Intelligence:** Aware of basic operational security but not full organizational secrets  
+- Remembers him as routine but memorable professional assignment **Information Compartmentalization:** Knows only what's necessary for her specific role
+    **Personal Security:** Maintains low profile, uses organization resources for protection
+    **Counter-Intelligence:** Aware of basic operational security but not full organizational secrets
     **Escape Plans:** Professional criminal with contingency plans, but currently committed to position
 
-### **Impact on Party Encounters**
+#### **Impact On Party Encounters**
 
 **If Party Meets The Gentleman:**
 
@@ -200,13 +214,13 @@ region: Dwendalian Empire
 - **Assembly Knowledge:** Her insider information about Assembly could be valuable leverage
 - **Trauma Exploitation:** Her resentment toward Assembly treatment could be manipulated
 
-# Source Context
+## Source Context
 
 Based on Critical Role Campaign 2 information about Cree's employment with The Gentleman, adapted for campaign-specific context and timeline.
 
-# Connections
+## Connections
 
-## Related Characters
+### Related Characters
 
 - [[Korfel Withrethin]] (The Gentleman) - Current employer and primary loyalty
 - [[Cerberus Assembly]] researchers and personnel - Former colleagues/captors
@@ -214,18 +228,18 @@ Based on Critical Role Campaign 2 information about Cree's employment with The G
 - [[Melthes]] - Young half-elf she processed during Assembly employment
 - [[Hesterian Shyr (Dot)]] - Will likely encounter during infiltration attempts (unknown connection to Melthes)
 
-## Related Systems
+### Related Systems
 
 - [[Blood Sample Collection Protocol]] - Her primary responsibility
 - [[The Gentleman's Criminal Empire]] - Organization she serves and protects
 
-## Related Capabilities
+### Related Capabilities
 
 - Blood Domain cleric abilities and limitations
 - Criminal organization experience and knowledge
 - Personal security and counter-intelligence skills
 
-## Related Plot Threads
+### Related Plot Threads
 
 - [[Hesterian Shyr's Infiltration]] - Cree represents major operational challenge
 - [[The Capture of Melthes]] - Her past involvement in processing him
@@ -234,37 +248,42 @@ Based on Critical Role Campaign 2 information about Cree's employment with The G
 - Intelligence gathering opportunities through turning her loyalty
 - **Assembly Opposition:** Could be valuable ally against Cerberus Assembly if properly motivated
 
-# Connections
+## Connections
 
-## Related Atomic Notes
+### Related Atomic Notes
+
 ```dataview
 LIST
 FROM #atomic
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
 
-## Related NPCs
+### Related NPCs
+
 ```dataview
 LIST
 FROM #npc 
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
 
-## Related Plot Threads
+### Related Plot Threads
+
 ```dataview
 LIST
 FROM #plot  
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
 
-## Related Locations
+### Related Locations
+
 ```dataview
 LIST
 FROM #location 
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
 
-## Related Items/Artifacts
+### Related Items/Artifacts
+
 ```dataview
 LIST
 FROM #artifact 

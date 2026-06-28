@@ -1,11 +1,12 @@
 ---
-tags:
-  - campaign/eryndor
-  - player
 aliases:
   - Dechs
 modifier: 2
+tags:
+  - campaign/eryndor
+  - player
 ---
+
 ![[dechs-token.png|right|200]]Hill Dwarf Beastmaster Ranger
 
 [[Eidechse Backstory]]
@@ -26,7 +27,7 @@ As the years went on and I learned the tricks of the tradespeople, I gained an a
 
 I traveled among the islands and beaches for several years, learning about the nature I had become so fond of and taking on various jobs and quests of a ranger to make ends meet.  I would often go looking for exotic plants and animals for various sorcerers and noble people who wanted something pretty for their gardens or needed particular ingredients for potions.
 
-# A Magical Awakening: Finding Your Marine Iguana Companion
+## A Magical Awakening: Finding Your Marine Iguana Companion
 
 Scenario:
 
@@ -41,4 +42,3 @@ As you approached the marine iguana, a surge of energy washed over you. You felt
 Surge was a magnificent creature, with scales that shimmered like emeralds in the sunlight. Her eyes held a wisdom that belied her young age, and her powerful tail thrashed the water into a frenzy. You knew instantly that Surge was the companion you had been searching for.
 
 With a newfound sense of purpose, you reached out to Surge, your hand trembling slightly. To your surprise, the iguana did not flinch or retreat. Instead, she nuzzled her head against your palm, purring softly. In that moment, you knew that your journey had been worth it.
-

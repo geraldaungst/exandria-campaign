@@ -1,22 +1,22 @@
 ---
+created: 2025-01-27
 tags:
   - atomic
-created: 2025-01-27
 ---
 
-# Core Information
+## Core Information
 
-## Luxon Beacon Integration with Lorestone
+### Luxon Beacon Integration with Lorestone
 
-### Theoretical Foundation
+#### Theoretical Foundation
 
 The integration between Luxon Beacons and the Lorestone of Eryndor is based on complementary dunamantic principles. While the Lorestone serves as a massive energy channeling device capable of manipulating planar boundaries, it creates dangerous temporal flux during operation. Luxon Beacons, as fragments of the Luxon that naturally manipulate time, entropy, and probability, provide the necessary temporal stabilization.
 
-### Historical Design Intent
+#### Historical Design Intent
 
 [[Illyndra Shadowveil]], the Drow artificer who created the Lorestone, was familiar with Luxon Beacons through her people's ancient knowledge. She intentionally designed the Lorestone to require dunamantic stabilization, understanding that channeling planar energies without temporal anchoring would create catastrophic feedback loops.
 
-### Operational Mechanics
+#### Operational Mechanics
 
 **Energy Flow Pattern:**
 
@@ -31,7 +31,7 @@ The integration between Luxon Beacons and the Lorestone of Eryndor is based on c
 3. Dual-attuned operators channel energies simultaneously
 4. Beacon maintains temporal coherence while Lorestone manipulates planar boundaries
 
-### Proximity Effects
+#### Proximity Effects
 
 When a Luxon Beacon is within 100 feet of a Lorestone shard:
 
@@ -40,13 +40,13 @@ When a Luxon Beacon is within 100 feet of a Lorestone shard:
 - Temporal "resonance" creates visible brightening of both artifacts
 - Local magical effects become more stable and predictable
 
-### Historical Precedents
+#### Historical Precedents
 
 **[[Rupture of the Molaesmyr Fey Crossing|The Molaesmyr Disaster]] (585 PD):** Elven scholars attempted to use a Lorestone shard to stabilize the ruptured Fey Crossing without understanding the need for temporal stabilization. The resulting temporal chaos amplified the disaster from a localized rupture to city-wide destruction and regional corruption.
 
 **Aeorian Research:** Ancient mages of Aeor discovered similar principles when experimenting with their "Relic" (likely a Luxon Beacon). Their research into "temporal transmutation" and "anchoring echoes" suggests they understood the stabilization requirements, though their work was lost in the city's destruction.
 
-### Risks of Improper Integration
+#### Risks of Improper Integration
 
 **Without Luxon Beacon:**
 
@@ -62,7 +62,7 @@ When a Luxon Beacon is within 100 feet of a Lorestone shard:
 - Reduced effectiveness of rift manipulation
 - Risk of beacon overload and subsequent failure
 
-### Modern Implications
+#### Modern Implications
 
 Most current factions are unaware of this dual-requirement:
 
@@ -73,36 +73,38 @@ Most current factions are unaware of this dual-requirement:
 
 Only [[Aveqtaro Thaan]], through recovered memories of her past life as [[Cadariel Ordo]], possesses complete knowledge of the proper integration ritual.
 
-## How Players Learn This (DM Pacing Note)
+### How Players Learn This (DM Pacing Note)
 
 The dual-requirement is revealed in three stages across the campaign:
 
-1. **[[Brother Kelmen]] (Monastery ritual)** — plants the foundational principle: 
-   dimensional energy requires temporal anchoring. He doesn't know about the 
-   Lorestone or Beacons specifically, but articulates why the monks' ritual 
-   failed and why any attempt to manipulate planar boundaries without a 
+1. **[[Brother Kelmen]] (Monastery ritual)**—plants the foundational principle:
+   dimensional energy requires temporal anchoring. He doesn't know about the
+   Lorestone or Beacons specifically, but articulates why the monks' ritual
+   failed and why any attempt to manipulate planar boundaries without a
    stabilizing counterweight amplifies chaos rather than containing it.
 
-2. **[[Lady Emer]]'s research notes (Cloudfang Keep)** — demonstrate the 
-   principle experimentally. Her 14 months of documented analysis show the 
-   Beacon's temporal stabilization effects near rift energy and its resonance 
-   with Lorestone shards. She didn't have a unified theory, but the data is 
+2. **[[Lady Emer]]'s research notes (Cloudfang Keep)**—demonstrate the
+   principle experimentally. Her 14 months of documented analysis show the
+   Beacon's temporal stabilization effects near rift energy and its resonance
+   with Lorestone shards. She didn't have a unified theory, but the data is
    there for players who read carefully.
 
-3. **[[Aveqtaro Thaan]] (later campaign)** — confirms the complete theory through 
-   recovered memories of [[Cadariel Ordo]]. She is the only living person with 
-   full knowledge of the proper integration ritual and the geometric/temporal 
+3. **[[Aveqtaro Thaan]] (later campaign)**—confirms the complete theory through
+   recovered memories of [[Cadariel Ordo]]. She is the only living person with
+   full knowledge of the proper integration ritual and the geometric/temporal
    alignments required for safe operation.
 
-No single source gives the complete picture. Players who synthesize all three 
-understand what no faction currently does.
-# Relationship Details
+No single source gives the complete picture. Players who synthesize all three
 
-## Nature of Connection
+understand what no faction currently does.
+
+## Relationship Details
+
+### Nature of Connection
 
 The Lorestone and Luxon Beacons represent complementary aspects of fundamental magical forces - chaos and order, energy and stability, potential and actuality.
 
-## Impact/Implications
+### Impact/Implications
 
 Understanding this integration is crucial for:
 
@@ -111,13 +113,13 @@ Understanding this integration is crucial for:
 - Properly interpreting the prophecy's references to "beacon bright"
 - Achieving lasting solutions to the rift crisis
 
-# Connections
+## Connections
 
-## Source Note
+### Source Note
 
 [[Lorestone of Eryndor]]
 
-## Related Atomic Notes
+### Related Atomic Notes
 
 ```dataview
 LIST
@@ -125,7 +127,7 @@ FROM #atomic
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
 
-## Related NPCs
+### Related NPCs
 
 ```dataview
 LIST
@@ -133,7 +135,7 @@ FROM #npc
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
 
-## Related Plot Threads
+### Related Plot Threads
 
 ```dataview
 LIST
@@ -141,7 +143,7 @@ FROM #plot
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
 
-## Related Locations
+### Related Locations
 
 ```dataview
 LIST
@@ -149,7 +151,7 @@ FROM #location
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
 
-## Related Items/Artifacts
+### Related Items/Artifacts
 
 ```dataview
 LIST

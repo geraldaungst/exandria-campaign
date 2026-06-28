@@ -2,7 +2,8 @@
 tags:
   - campaign/eryndor
 ---
-_Use these when a random encounter rolls a result that has already been used as a set encounter_
+
+*Use these when a random encounter rolls a result that has already been used as a set encounter*
 
 Roll d20
 
@@ -18,12 +19,16 @@ Roll d20
 
 ---
 
-## 2 or 16. Unstable Ground
+## 2 Or 16. Unstable Ground
 
 **Environmental Hazard**: Loose scree or weakened ledge
+
 **Detection**: DC 13 Perception to notice instability before stepping
+
 **Challenge**: DC 14 Acrobatics to cross safely, or find alternate route (+1 hour)
+
 **Failure**: 1d6 bludgeoning damage, loud noise (triggers encounter check with -2)
+
 **Cart Impact**: If cart present, requires DC 16 group Athletics to maneuver safely
 
 ---
@@ -31,8 +36,11 @@ Roll d20
 ## 3. Lost Traveler
 
 **NPC**: Merchant, pilgrim, or messenger (use appropriate stat block) **Situation**: Single traveler, lost and seeking directions
+
 **Personality**: Roll d6: 1-2 Grateful, 3-4 Suspicious, 5-6 Desperate
+
 **Information**: May have news from direction they came, trade opportunities
+
 **Potential Complications**: 10% chance they're being pursued or are not what they seem
 
 ---
@@ -40,9 +48,13 @@ Roll d20
 ## 4. Old Campsite
 
 **Discovery**: Abandoned campsite from 1d4 days ago
+
 **Investigation DC 12**: Determine who used it (size of group, direction traveled)
+
 **Investigation DC 15**: Find useful remnants (50% chance of minor supplies)
+
 **Clue Potential**: 25% chance of finding evidence related to quarry's passage
+
 **Rest Benefit**: If used for rest, sheltered area provides +1 hit die recovery
 
 ---
@@ -60,14 +72,18 @@ Roll d20
 
 ---
 
-## 6 or 17. Sudden Weather Change
+## 6 Or 17. Sudden Weather Change
 
-**Weather Shift**: Roll d6 
+**Weather Shift**: Roll d6
+
 1-2.**Temperature Drop**: DC 11 Constitution save or gain 1 exhaustion level
-3-4. **Wind Pickup**: Disadvantage on ranged attacks and Perception for 2 hours  
+
+3-4. **Wind Pickup**: Disadvantage on ranged attacks and Perception for 2 hours
+
 5-6. **Visibility Reduction**: Fog or snow, DC 13 Survival each hour to avoid getting lost
 
 **Duration**: 1d4+1 hours
+
 **Adaptation**: Proper gear or shelter negates most effects
 
 ---
@@ -75,7 +91,9 @@ Roll d20
 ## 7. Scavenger Pack
 
 **Creatures**: 2d4 Ravens, 1d6 Dire Rats, or 3d4 Stirges
+
 **Behavior**: Attracted to food smells or shiny objects
+
 **Tactics**: Harass party, attempt to steal supplies rather than fight to death
 
 **Resolution**:
@@ -86,12 +104,16 @@ Roll d20
 
 ---
 
-## 8 or 18. Helpful Shortcut
+## 8 Or 18. Helpful Shortcut
 
 **Discovery**: DC 15 Survival check to notice more direct path
+
 **Benefit**: If taken, gain +1 progress point for the day
+
 **Risk**: 30% chance of additional encounter check due to unexplored route
+
 **Cart Compatibility**: 50% chance shortcut is too narrow/steep for cart
+
 **Alternative**: Safe but conventional route continues as normal
 
 ---
@@ -101,6 +123,7 @@ Roll d20
 **Phenomenon**: Strange sound echoes through the mountains
 
 **Source Options**: Roll d6
+
 1. Distant rockslide (no immediate danger)
 2. Animal call (predator or large herbivore nearby)
 3. Wind through rock formations (natural occurrence)
@@ -112,9 +135,10 @@ Roll d20
 
 ---
 
-## 10 or 19. Resource Opportunity
+## 10 Or 19. Resource Opportunity
 
-**Discovery Type**: Roll d6 
+**Discovery Type**: Roll d6
+
 - Odd. **Fresh Water Source**: Spring or clean stream, refill all water supplies
 - Even. **Edible Plants**: DC 13 Nature check yields 1d3 days emergency rations
 
@@ -125,12 +149,17 @@ Roll d20
 ## 11. Territorial Markings
 
 **Signs**: Animal scratches, scent markers, or territorial displays
+
 **Creature Type**: Roll d6
+
 1-2. Bear territory (50% chance of avoiding by detour)
+
 3-4. Wolf pack area (tracking check reveals pack size)
+
 5-6. Large cat markings (stealth check to pass unnoticed)
 
 **Navigation Choice**:
+
 - Detour around (-1 progress, safety)
 - Press through (normal time, -3 on next encounter check)
 - Study markings (DC 15 Nature for tactical advantage for next node)
@@ -140,18 +169,25 @@ Roll d20
 ## 12. Altitude Adjustment
 
 **Effect**: Party reaches significantly higher elevation
+
 **Challenge**: All characters make DC 12 Constitution save
+
 **Success**: No effect, acclimatized well
+
 **Failure**: Disadvantage on Constitution-based checks for rest of day
+
 **Severe Failure** (Fail by 5+): 1 level of exhaustion
+
 **Mitigation**: Slow pace grants advantage on save, magical assistance negates
 
 ---
 
-## 13 or 20. Trail Maintenance
+## 13 Or 20. Trail Maintenance
 
 **Situation**: Path ahead needs clearing or basic repair to continue
+
 **Obstacle**: Fallen tree, rockfall, or washed-out section
+
 **Challenge**: 2-hour task requiring group effort
 
 - DC 12 Athletics (group check) to clear efficiently
@@ -164,7 +200,9 @@ Roll d20
 ## 14. Social Encounter - Fellow Travelers
 
 **Group**: 1d4+1 travelers heading opposite direction
+
 **Composition**: Merchants, pilgrims, adventurers, or locals
+
 **Information Exchange**:
 
 - Recent conditions ahead
@@ -179,9 +217,11 @@ Roll d20
 ## 15. Natural Wonder
 
 **Discovery**: Beautiful vista, unusual rock formation, or natural phenomenon
+
 **Benefit**: Inspiring sight grants inspiration to 1d3 party members
 
 **Optional Activities**:
+
 - Detailed observation (DC 15 Nature reveals useful environmental knowledge)
 - Sketching/mapping (advantage on future navigation in this area)
 - Rest stop (+1 hit die recovery if short rest taken here)

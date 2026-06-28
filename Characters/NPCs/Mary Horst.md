@@ -3,9 +3,11 @@ tags:
   - campaign/tyranny
   - world/faerun
 ---
-# Mary Horst
+
+## Mary Horst
 
 Last Edited: May 1, 2021 9:28 PM
+
 Tags: NPC
 
 [NPC Generator](https://www.kassoon.com/dnd/npc-generator/008503040005000/99001/mary-cumberbatch-female-human/)

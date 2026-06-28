@@ -4,71 +4,90 @@ tags:
   - needs-work
   - plot/active
 ---
-# Quick Reference
+
+## Quick Reference
+
 > [!info] Essential Details
 > - Stage: Active
 > - Priority: Medium
 > - Key Players: [[Eidechse (Amanda Jeane)|Dechs]]
-> - Last Session: 
+> - Last Session:
 > - Next Steps: Travel to Zadash to deliver the herbs
 
-# Overview
+## Overview
 
-# Current State
-## Recent Events
+## Current State
+
+### Recent Events
+
 (last major development)
-## Active Elements
+
+### Active Elements
+
 (what's currently in motion)
-## Blocking Issues
+
+### Blocking Issues
+
 (what's preventing progress)
 
-# Player Knowledge
+## Player Knowledge
+
 - What they know:
 - What they think they know:
 - What they don't know:
 
-# Plot Hierarchy
-- Parent Plot: 
-- Subplots: 
+## Plot Hierarchy
 
-# Development Stages
-## Seeds
+- Parent Plot:
+- Subplots:
+
+## Development Stages
+
+### Seeds
+
 - [ ] Seed description
 - [ ] Expected trigger: (event/condition/timing)
 - [ ] Potential implications
 
-## Planned Developments
+### Planned Developments
+
 - [ ] Immediate actions
 - [ ] Timing constraints
 - [ ] Required preparation
 
-## Long-term Plans
+### Long-term Plans
+
 - Major plot points
 - Possible branches
 
-# Connected Elements
-## NPCs
+## Connected Elements
+
+### NPCs
+
 ```dataview
 LIST
 FROM #npc
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
 
-## Places
+### Places
+
 ```dataview
 LIST
 FROM #location
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
 
-## Items
+### Items
+
 ```dataview
 LIST
 FROM #artifact 
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
 
-## Related Plot Threads
+### Related Plot Threads
+
 ```dataview
 LIST
 FROM #plot 

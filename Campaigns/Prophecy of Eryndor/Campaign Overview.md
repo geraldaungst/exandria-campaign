@@ -1,7 +1,10 @@
 ---
-tags: campaign/eryndor
+tags:
+  - campaign/eryndor
 ---
+
 ## Characters
+
 ```dataview
 TABLE WITHOUT ID
   file.link as "Character Name",
@@ -18,6 +21,7 @@ where (status = "Active")
 ## NPCs
 
 [[00 NPC Map.canvas|Click Here for graphic NPC Map]]
+
 ```dataview
 LIST rows.Summary
 FROM #npc
@@ -26,7 +30,9 @@ FLATTEN file.link + " (" + race + " " + class + ")" as Summary
 SORT affiliations, Name
 GROUP BY affiliations
 ```
+
 ## NPCs by Profession
+
 ```dataview
 LIST rows.Summary
 FROM #npc
@@ -36,7 +42,8 @@ SORT class, Name
 GROUP BY class
 ```
 
-# Vestiges of Divergence
+## Vestiges of Divergence
+
 (checked items have been found)
 
 ![[Character Story Beats#Vestiges Found]]

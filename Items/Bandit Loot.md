@@ -1,9 +1,11 @@
 ---
-tags: item
+tags:
+  - item
 ---
+
 [[Session 20 - Bandit Ambush in Swamp]]
 
-# Bandit Loot
+## Bandit Loot
 
 1. 87 gold pieces, 143 silver pieces, and 215 copper pieces
 2. A weathered leather pouch containing 3 small, uncut rubies

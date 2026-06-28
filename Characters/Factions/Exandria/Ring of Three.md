@@ -1,13 +1,14 @@
 ---
-tags:
-  - faction
-  - world/exandria
-  - region/dwendalian-empire
 affiliations:
   - "[[Dwendalian Empire]]"
 current_location: "[[Bysaes Tyl]]"
 disposition: indifferent
+tags:
+  - faction
+  - world/exandria
+  - region/dwendalian-empire
 ---
+
 Leaders of the city of Bysaes Tyl
 
 Not long after The Calamity, the prominent elven society on Wildemount was the powerful nation of Molaesmyr, in what is now the Greying Wildlands. Through some "strange, not entirely understood [[Rupture of the Molaesmyr Fey Crossing|cataclysm]]", the city fell in roughly 585 PD and the surrounding Veluthil Forest, now known as the Savalirwood, was corrupted. The elves scattered in two directions. Some of them went northward and joined Uthodurn, and the others fled westward and founded Bysaes Tyl.

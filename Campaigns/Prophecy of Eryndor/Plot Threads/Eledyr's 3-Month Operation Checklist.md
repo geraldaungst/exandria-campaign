@@ -2,9 +2,10 @@
 tags:
   - region/menagerie-coast
 ---
+
 ## **MONTH 1: Intelligence Gathering Phase**
 
-_Base Location: Rexxentrum_
+*Base Location: Rexxentrum*
 
 ### Week 1-2: Initial Survey
 
@@ -35,14 +36,14 @@ _Base Location: Rexxentrum_
     - Determine source of questions about his activities
     - Assess personal security risk
 
-**📋 Knowledge Gained:**  (add to [[Eledyr Dephar]]: What Eledyr Knows)
+**📋 Knowledge Gained:** (add to [[Eledyr Dephar]]: What Eledyr Knows)
 
 - **Cerberus Assembly has a different prophecy interpretation** - they believe rifts can be controlled/weaponized rather than sealed
 - **Qilynn and/or her allies are actively investigating him** - inquiries about Aelorin trace back to her revenge quest
 
 ## **MONTH 2: Operational Planning Phase**
 
-_Base Location: Rexxentrum, possible short trips_
+*Base Location: Rexxentrum, possible short trips*
 
 ### Week 1-2: Strategic Development
 
@@ -54,7 +55,7 @@ _Base Location: Rexxentrum, possible short trips_
     - Secure travel documents and cover identities
     - Recruit local assets if needed
 
-**📋 Knowledge Gained:**  (add to [[Eledyr Dephar]]: What Eledyr Knows)
+**📋 Knowledge Gained:** (add to [[Eledyr Dephar]]: What Eledyr Knows)
 
 - **The Malachite Cord exists and opposes Lorestone assembly** - they believe it will cause another Molaesmyr-style disaster
 - **Obsidian Echoforge's main facility is at Palma Flora** - heavily defended but has predictable supply/personnel schedules
@@ -71,14 +72,14 @@ _Base Location: Rexxentrum, possible short trips_
     - Propose direct intervention scenarios
     - Request authorization for field deployment
 
-**📋 Knowledge Gained:**  (add to [[Eledyr Dephar]]: What Eledyr Knows)
+**📋 Knowledge Gained:** (add to [[Eledyr Dephar]]: What Eledyr Knows)
 
 - **Assembly is planning a major expedition to Draconian ruins within 6 weeks** - seeking pre-Calamity artifacts and additional prophecy fragments
 - **The party has acquired significant artifacts/knowledge** - Assembly and Echoforge communications reference "new players with important acquisitions"
 
 ## **MONTH 3: Active Operations Phase**
 
-_Flexible location based on campaign needs_
+*Flexible location based on campaign needs*
 
 ### Week 1-2: Pre-Deployment
 
@@ -91,7 +92,7 @@ _Flexible location based on campaign needs_
 - [ ] **Deploy to primary target area** (timing flexible)
     - Options: Draconian ruins, Palma Flora, Rift locations, Party intercept
 
-**📋 Knowledge Gained:**  (add to [[Eledyr Dephar]]: What Eledyr Knows)
+**📋 Knowledge Gained:** (add to [[Eledyr Dephar]]: What Eledyr Knows)
 
 - **Lorestone assembly requires a Luxon Beacon in addition to the shards** - explains why no faction has succeeded yet despite finding fragments
 - **The party's current location and likely next destinations** - intercepted communications reveal their general whereabouts and mission goals
@@ -99,28 +100,28 @@ _Flexible location based on campaign needs_
 ### Week 3-4: Field Activities (Location Dependent)
 
 - [ ] **Option A: Draconian Ruins Expedition**
-    
+
     - Infiltrate/monitor Assembly archaeological operations
     - Search for additional prophecy fragments
     - Sabotage competitor efforts if opportunity arises
 - [ ] **Option B: Obsidian Echoforge Facility Infiltration**
-    
+
     - Penetrate Palma Flora or other Echoforge stronghold
     - Steal/copy Lorestone research
     - Plant surveillance assets
 - [ ] **Option C: Party Intercept Mission**
-    
+
     - Track party's activities and acquisitions
     - Determine what artifacts/knowledge they possess
     - Coordinate with Dreyara Drimvar if paths cross
 
-**📋 Knowledge Gained (varies by chosen option):**  (add to [[Eledyr Dephar]]: What Eledyr Knows)
+**📋 Knowledge Gained (varies by chosen option):** (add to [[Eledyr Dephar]]: What Eledyr Knows)
 
 - **Option A:** Location of additional prophecy shards hidden in Draconian ruins + Assembly's true timeline (much faster than expected)
 - **Option B:** Complete Echoforge research data + discovery that they're closer to success than any other faction
 - **Option C:** Detailed inventory of party's capabilities and artifacts + confirmation of their alliance with specific factions
 
-## **ONGOING ACTIVITIES** _(Throughout all 3 months)_
+## **ONGOING ACTIVITIES** *(Throughout All 3 months)*
 
 - [ ] **Weekly reports to Valen Elderguard**
 - [ ] **Maintain academic cover identity**
@@ -128,7 +129,7 @@ _Flexible location based on campaign needs_
 - [ ] **Track Qilynn/Yrene investigation progress**
 - [ ] **Update prophecy interpretation research**
 
-## **CONTINGENCY TRIGGERS** _(Adjust timeline if these occur)_
+## **CONTINGENCY TRIGGERS** *(Adjust Timeline if these occur)*
 
 - [ ] **If party returns to Rexxentrum early**: Accelerate to field deployment
 - [ ] **If Echoforge makes major breakthrough**: Emergency intervention mode
@@ -136,7 +137,7 @@ _Flexible location based on campaign needs_
 - [ ] **If Assembly deploys first**: Counter-operation immediate deployment
 - [ ] **If Valen needs immediate asset**: Drop current activities for priority mission
 
-## **INTELLIGENCE PRODUCTS** _(What he discovers along the way)_
+## **INTELLIGENCE PRODUCTS** *(What He discovers along the way)*
 
 - [ ] **Four-faction conflict map** - Who wants what and why
 - [ ] **Prophecy timeline assessment** - How close each faction is to success
@@ -144,7 +145,7 @@ _Flexible location based on campaign needs_
 - [ ] **Lorestone assembly requirements** - What's still needed beyond shards
 - [ ] **Vulnerable operation windows** - When/where to strike competitors
 
-## **POTENTIAL DISCOVERY CLUES** _(For party to find)_
+## **POTENTIAL DISCOVERY CLUES** *(For party to find)*
 
 - Research notes in academic institutions
 - Black market dealer testimonies about "well-funded buyer"

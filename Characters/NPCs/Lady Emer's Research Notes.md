@@ -1,6 +1,8 @@
 ---
-
+tags:
+  - campaign/eryndor
 ---
+
 All of the research notes below are scattered among Lady Emer's notebooks, papers, and books in her library. Searching the library for a time will reveal some of the information.
 
 A brief search (15 minutes or less) may locate two items. Roll an Investigation check. Use the list below to determine which items are found based on the roll.
@@ -30,7 +32,7 @@ Note: During [[Session 33 - What to Do with Lady Emer?]], players discovered ALL
 
 ### Item 1: Personal Transformation Research
 
-_Day 52 - Connecting the Dots_
+*Day 52 - Connecting the Dots*
 
 My transformation occurred when I encountered a planar rift near the Marrow Valley. The energy signature was identical to what I now observe in the Savalir Wood rift. This suggests my medusa transformation was not random curse but **direct exposure to rift energy**.
 
@@ -40,7 +42,7 @@ My transformation occurred when I encountered a planar rift near the Marrow Vall
 - The transformation follows recognizable patterns (petrification-related abilities)
 - **I may be the key to understanding how rift energy affects living beings**
 
-**Experiment proposal**: Controlled exposure of test subjects to minimal rift energy. _(Several pages of increasingly unethical experimental designs follow)_
+**Experiment proposal**: Controlled exposure of test subjects to minimal rift energy. *(Several pages of increasingly unethical experimental designs follow)*
 
 **Note**: Must acquire subjects who won't be missed. Bandits? Prisoners from Vaud's operations?
 
@@ -48,11 +50,11 @@ My transformation occurred when I encountered a planar rift near the Marrow Vall
 
 ### Item 2: Correspondence Fragment - Unknown Recipient
 
-_Date unclear_
+*Date unclear*
 
-"...your interest in my research is flattering, but I must decline your offer to 'enhance' my studies. I've seen what happened to Molaesmyr, and I have no intention of repeating their mistakes. The temporal stabilization you describe sounds promising, but until you can provide more concrete proof of your methods..."
+"…your interest in my research is flattering, but I must decline your offer to 'enhance' my studies. I've seen what happened to Molaesmyr, and I have no intention of repeating their mistakes. The temporal stabilization you describe sounds promising, but until you can provide more concrete proof of your methods…"
 
-_(The letter breaks off mid-sentence. No indication of who the recipient was.)_
+*(The letter breaks off mid-sentence. No indication of who the recipient was.)*
 
 ---
 
@@ -60,7 +62,7 @@ _(The letter breaks off mid-sentence. No indication of who the recipient was.)_
 
 ### Item 3: Theoretical Framework - Rift Origins
 
-_Day 45_
+*Day 45*
 
 Working theory: The rifts are not random tears but **intentional gateways** created during the Calamity as escape routes or invasion points. They've remained dormant for centuries and are now reactivating due to some external trigger.
 
@@ -76,13 +78,13 @@ Working theory: The rifts are not random tears but **intentional gateways** crea
 - Rift locations don't match known Calamity battlefields
 - Energy patterns are too chaotic for deliberate construction
 
-**Alternative theory**: Something is actively _creating_ new rifts from the other side. The patterns suggest intelligence, but not necessarily ancient origin.
+**Alternative theory**: Something is actively *creating* new rifts from the other side. The patterns suggest intelligence, but not necessarily ancient origin.
 
 ---
 
 ### Item 4: Final Entry - Growing Concerns
 
-_Day 78_
+*Day 78*
 
 Something is wrong with my research site. The Ashkeeper rift has grown 30% larger in the past week, and the energy fluctuations are becoming more violent. Worse, I've been having dreams about a rift in the Savalirwood - dreams where I see figures moving on the other side, watching me through the tear in reality.
 
@@ -96,9 +98,9 @@ The temporal resonance crystal I acquired may be the key to safely studying the 
 
 ### Item 5: Collaboration Notes - Vaud Qalix
 
-_Day 120 - Initial Partnership_
+*Day 120 - Initial Partnership*
 
-Vaud Qalix has made an interesting proposition. He requires a secure, isolated research facility and someone with expertise in planar phenomena. The compensation is... substantial. 2,000 gp upfront plus ongoing retainer.
+Vaud Qalix has made an interesting proposition. He requires a secure, isolated research facility and someone with expertise in planar phenomena. The compensation is… substantial. 2,000 gp upfront plus ongoing retainer.
 
 His theories about "harmonic resonance" are intriguing but flawed. He believes each rift has a unique "signature" that can be catalogued and predicted. I've tried to explain that the energy patterns I observe are chaotic fluctuations, not meaningful signatures, but he insists his calculations are correct.
 
@@ -112,11 +114,11 @@ His theories about "harmonic resonance" are intriguing but flawed. He believes e
 
 ### Item 6: Field Study - Savalirwood Site Delta
 
-_Day 162 - Commissioned Field Work_
+*Day 162 - Commissioned Field Work*
 
 V.Q. insisted I examine this particular rift personally despite the danger. His instructions were precise—document the temporal distortions, measure planar bleed-through, collect ambient energy samples from the Savalirwood site he designated as "Delta."
 
-The rift shows signs of intentional manipulation. Someone has been... experimenting here. The energy patterns are too deliberate, too controlled to be natural deterioration. V.Q. claims this is why he needs my analysis, to understand "what went wrong" at similar sites. But watching the way the rift pulses in response to certain stimulus patterns, I suspect he's more interested in learning what went _right_.
+The rift shows signs of intentional manipulation. Someone has been… experimenting here. The energy patterns are too deliberate, too controlled to be natural deterioration. V.Q. claims this is why he needs my analysis, to understand "what went wrong" at similar sites. But watching the way the rift pulses in response to certain stimulus patterns, I suspect he's more interested in learning what went *right*.
 
 **Observations:**
 
@@ -136,7 +138,7 @@ He pays well enough that I don't ask too many questions about his ultimate goals
 
 ### Item 7: Lorestone Fragment Analysis - Priority Project
 
-_Day 237 - Urgent Commission Expansion_
+*Day 237 - Urgent Commission Expansion*
 
 V.Q. has become obsessed with these shard fragments. What started as general rift research has pivoted entirely to the Lorestone. He wants detailed reports on their individual properties and—more concerning—their potential for reconstruction.
 
@@ -149,7 +151,7 @@ His questions grow more specific with each correspondence:
 
 These aren't theoretical inquiries. He's planning something.
 
-**Critical development:** Dreyara arrives within the week. V.Q. says she may bring a specimen for my examination—an actual Lorestone fragment, not just residue or energy samples. I've prepared the warded analysis chamber in the storage room in case the fragment proves... volatile.
+**Critical development:** Dreyara arrives within the week. V.Q. says she may bring a specimen for my examination—an actual Lorestone fragment, not just residue or energy samples. I've prepared the warded analysis chamber in the storage room in case the fragment proves… volatile.
 
 **Security concern:** V.Q. was unusually emphatic in his latest letter about discretion. "Do not discuss this work with anyone. The consequences of loose talk would be unfortunate." I'm being well-compensated for my silence, but his tone suggests he's not merely concerned about academic rivals.
 
@@ -157,13 +159,13 @@ Whatever he's planning with these shards, it's reached a critical phase.
 
 ### Item 8: Temporal Resonance Crystal - Initial Discovery
 
-_Day 61 - Savalirwood Expedition_
+*Day 61 - Savalirwood Expedition*
 
 Made an extraordinary discovery at the Savalirwood rift site. The recent expansion of the rift's energy field apparently disturbed the surrounding terrain—found a crystalline dodecahedron partially exposed in the collapsed earth approximately twenty feet from the rift's edge. Gray translucent material, roughly eight inches across, unlike anything in my collection.
 
 The artifact pulses with faint internal light. Even without magical examination, I can feel temporal weight emanating from it—as if it exists slightly out of phase with normal time.
 
-**Initial Analysis**: Cast _Identify_ to determine its properties. The experience was... unsettling. The magic within is utterly alien, operating on principles outside standard arcane theory. Instead of clear information, I received overwhelming sensory input—an expanse of endless void, whispers in languages I don't recognize, the sensation of existing in multiple timelines simultaneously.
+**Initial Analysis**: Cast *Identify* to determine its properties. The experience was… unsettling. The magic within is utterly alien, operating on principles outside standard arcane theory. Instead of clear information, I received overwhelming sensory input—an expanse of endless void, whispers in languages I don't recognize, the sensation of existing in multiple timelines simultaneously.
 
 What I could determine:
 
@@ -177,7 +179,7 @@ What I could determine:
 
 The possibilities are tantalizing. If I can understand how it manipulates time, it might provide the key to predicting or even controlling rift behavior.
 
-**Next steps**: Careful experimentation required. The mental effects from the _Identify_ attempt suggest this artifact should not be handled carelessly.
+**Next steps**: Careful experimentation required. The mental effects from the *Identify* attempt suggest this artifact should not be handled carelessly.
 
 ---
 
@@ -185,13 +187,13 @@ The possibilities are tantalizing. If I can understand how it manipulates time, 
 
 ### Item 9: Planar Rift Analysis - General Observations
 
-_Day 12 - Ashkeeper Peaks Survey_
+*Day 12 - Ashkeeper Peaks Survey*
 
 The rifts appear to follow ley line intersections, but not all ley line crossings produce rifts. There's another factor at work - possibly related to historical magical trauma. The Ashkeeper Peaks rift sits directly above what my geological surveys suggest was once a massive magical explosion, likely from the Calamity era.
 
 **Hypothesis**: Rifts form where ley lines intersect AND where the planar barriers were previously weakened by catastrophic magical events.
 
-_Day 18_
+*Day 18*
 
 **BREAKTHROUGH!** The rifts pulse in a synchronized pattern every 47 minutes and 23 seconds. This cannot be coincidence. There must be a central source or controlling mechanism that regulates all rifts simultaneously.
 
@@ -199,7 +201,7 @@ _Day 18_
 
 ### Item 10: Material Analysis - Planar Samples
 
-_Day 67_
+*Day 67*
 
 **Feywild crystal** (from Ashkeeper rift): Maintains faint enchantment even when removed from rift proximity. Could be useful as spell components. Weight: 2.3 lbs, estimated value: 200gp.
 
@@ -213,9 +215,9 @@ _Day 67_
 
 ### Item 11: Temporal Resonance Crystal - Experimentation Suspended
 
-_Day 73 - Research Complications_
+*Day 73 - Research Complications*
 
-I've sealed the temporal crystal away in the stone chest. The experiments have become... problematic.
+I've sealed the temporal crystal away in the stone chest. The experiments have become… problematic.
 
 **Attempted Applications**:
 
@@ -242,22 +244,20 @@ Sealed in the stone chest with my other volatile specimens. I may revisit this r
 
 ---
 
-
-
 ## Well Hidden (DC 25 to locate)
 
 ### Item 12: Energy Signature Analysis
 
-_Day 31 - Multiple Rift Comparison_
+*Day 31 - Multiple Rift Comparison*
 
-**Confirmed observation**: Smaller rifts (under 5 feet diameter) can be temporarily stabilized using standard _Dispel Magic_ effects, but the stabilization only lasts 2-4 hours before the rift reopens, usually larger than before.
+**Confirmed observation**: Smaller rifts (under 5 feet diameter) can be temporarily stabilized using standard *Dispel Magic* effects, but the stabilization only lasts 2-4 hours before the rift reopens, usually larger than before.
 
-**WARNING**: Attempted _Banishment_ on rift energy resulted in backlash that left me unconscious for 6 hours. The rift briefly _tripled_ in size before returning to normal. Never attempt banishment magic near active rifts.
+**WARNING**: Attempted *Banishment* on rift energy resulted in backlash that left me unconscious for 6 hours. The rift briefly *tripled* in size before returning to normal. Never attempt banishment magic near active rifts.
 
 **Energy types observed**:
 
 - Ashkeeper Peaks: Elemental Air + trace Feywild energy
 - Cyrios foothills: Pure Elemental Fire
-- Savalir Wood: Shadowfell + unknown planar signature _(possibly Far Realm)_
+- Savalir Wood: Shadowfell + unknown planar signature *(possibly Far Realm)*
 
 **CRITICAL DISCOVERY**: The "unknown signature" from Savalir Wood is the same energy type I detected around my transformation site years ago. This cannot be coincidence.

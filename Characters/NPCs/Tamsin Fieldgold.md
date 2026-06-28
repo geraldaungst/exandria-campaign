@@ -1,15 +1,17 @@
 ---
+aliases:
+  - Tamsin
 tags:
   - needs-work
   - npc
-aliases:
-  - Tamsin
 ---
+
 home_city: Zadash
+
 region: Tal'Dorei
 
 *Small humanoid (halfling), neutral good**
-*
+
 ![[tamsin-fieldgold.jpeg|right|300]]
 
 Armor Class 10 (natural armor)
@@ -19,6 +21,7 @@ Hit Points 9 (2d6 + 2)
 Speed 25 ft.
 
 STR	DEX	CON	INT	WIS	CHA
+
 8 (-1)	14 (+2)	12 (+1)	13 (+1)	16 (+3)	18 (+4)
 
 Skills Animal Handling +5, Nature +3, Perception +5, Survival +5
@@ -30,6 +33,7 @@ Languages Common, Halfling
 Challenge 1/4 (50 XP)
 
 Traits
+
 Halfling Nimbleness. Tamsin can move through the space of any creature that is of a size larger than hers.
 
 Lucky. When Tamsin rolls a 1 on the d20 for an attack roll, ability check, or saving throw, she can reroll the die and must use the new roll.
@@ -39,14 +43,17 @@ Brave. Tamsin has advantage on saving throws against being frightened.
 Beekeeper's Expertise. Tamsin has advantage on Animal Handling checks related to bees and gains proficiency in the use of beekeeping tools.
 
 Actions
+
 Honey Dipper. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 1 (1d4 - 1) bludgeoning damage. Tamsin can choose to deal no damage, instead calming a bee or similar small creature.
 
 Brew Craft. Tamsin can create healing meads and honeys during downtime. Consuming her special mead or honey acts like a potion of healing, restoring 2d4 + 2 hit points.
 
 Reactions
+
 Quick Dodge. When a creature Tamsin can see attacks her with an attack she can see, she can dodge out of the way, adding 2 to her AC against that attack.
 
 Personality
+
 Tamsin is jovial and warm, with a deep love for her bees and the natural world. Her dedication to her craft makes her a respected and beloved figure in her community. Her infectious smile and laughter often bring joy to those around her.
 
 Tamsin Fieldgold, a mahogany-skinned halfling in her early 30s, is a local beekeeper whose jovial and warm demeanor is as delightful as the honey and mead she lovingly crafts. Standing at a height typical for a halfling, she possesses a compact, agile build that serves her well in navigating through her bee gardens and meadery.

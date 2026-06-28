@@ -1,16 +1,18 @@
 ---
+aliases:
+  - riftguard
+current_location: "unknown"
+disposition: indifferent
 tags:
   - faction
   - world/exandria
-  - region/tal'dorei
-aliases:
-  - "riftguard"
-current_location: "unknown"
-disposition: indifferent
+  - "region/tal'dorei"
 ---
+
 ![[riftguard.png|right|400]]
 
-# Goals
+## Goals
+
 - Long-Term: Prevent the rifts from forming and prevent the [[Emissaries of the Sunfall|Emissaries]] from constructing a permanent door.
 - Medium-Term: Researching the [[01 The Prophecy|Prophecy]]
 
@@ -18,8 +20,10 @@ The Ashari are extremely concerned about the potential for opening new rifts. Th
 
 Though the Ashari are rarely found in Wildemount, since the rifts they guard are not there, they have learned that the new rifts will most likely occur in Xhorhas, and so members of each of the Ashari tribes have formed an alliance, and a small group known as the Riftguard have been sent to Wildemount to research the [[01 The Prophecy|prophecy]] and find out how to prevent the rifts from forming.
 
-# Riftguard
+## Riftguard
+
 The Riftguard currently has four members, one from each of the Ashari tribes (left to right in the image above):
+
 - [[Lorcan Vale]] of the Fire Ashari
 - [[Melina Denos]] of the Water Ashari
 - [[Durnn Keth]] of the Earth Ashari

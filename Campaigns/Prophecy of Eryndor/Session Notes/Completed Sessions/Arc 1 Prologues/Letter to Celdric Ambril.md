@@ -2,7 +2,9 @@
 tags:
   - campaign/eryndor
 ---
-(Written in Elvish, for some reason...)
+
+(Written in Elvish, for some reason…)
+
 Esteemed [[Celdric Ambril|Celdric]],
 
 I have spied peculiar individuals aboard our voyage - rough stowaways bearing an arcane curiosity. Though unaware of specifics, I briefly detected aged enchantments upon a relic item secreted among their possessions.
@@ -12,4 +14,5 @@ If subtle means after disembarking allow, I believe your expertise in antiquitie
 Fair compensation often shifts stubborn ownerships. But I overstep with suppositions - please destroy this correspondence soon as prudence allows. I shall relay further in person upon return should fortuity favor us that the stowaways reemerge amenable to etiquette upon the docks.
 
 Discreetly Yours,
+
 Oneiros

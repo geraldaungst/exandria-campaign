@@ -3,12 +3,14 @@ tags:
   - region/menagerie-coast
   - world/exandria
 ---
+
 ## 4. Security Corridor
 
 > [!info]
 > The spiral staircase opens into a long stone-walled corridor stretching into darkness. Flickering torchlight from wall sconces creates dancing shadows along the rough-hewn walls. The air here is noticeably cooler and carries a hint of dampness. Unlike the polished floors above, your feet meet rough planks underneath, and the craftsmanship of the masonry walls speaks to the age of these foundations. Small decorative grates near the ceiling appear to be part of the original ventilation system.
 
 *DM Notes:*
+
 This 30-foot corridor serves as the primary security checkpoint between the shop and the hideout. Notable features include:
 
 - The walls are made of fitted stone blocks, typical of Port Damali's older foundations
@@ -31,6 +33,7 @@ This 30-foot corridor serves as the primary security checkpoint between the shop
 > A comfortable but businesslike room spreads before you. A heavy wooden table dominates the center, surrounded by several well-worn chairs. Candlelight flickers from wall sconces, and a few unlit candles sit on the table. The room has the lived-in feel of a space that serves multiple purposes - part guard post, part office, and part common room. Papers and playing cards are scattered across the table's surface, and a half-empty bottle of wine sits beside several goblets. A weapons rack mounted on the wall holds an assortment of blades and crossbows.
 
 *DM Notes:*
+
 This room serves as both security checkpoint and general-purpose space for Myriad members. Notable features include:
 
 - Large oak table with 6 chairs
@@ -58,6 +61,7 @@ This room serves as both security checkpoint and general-purpose space for Myria
 > This stone corridor stretches about thirty feet before terminating in what appears to be an impromptu storage area. The passage is lit by a single wall sconce, casting long shadows across the accumulated clutter at the far end - broken chairs, old display mannequins, discarded workbenches, and various wooden odds and ends from the tailor shop above. Several cracked floorboards and pieces of wooden trim are propped against the walls, suggesting ongoing renovations from the shop that never quite made it up the stairs for disposal.
 
 **DM Notes:**
+
 This hallway serves as both passage and apparent dumping ground. Notable features include:
 
 - Single torch sconce on the left wall
@@ -79,6 +83,7 @@ This hallway serves as both passage and apparent dumping ground. Notable feature
 > This room is outfitted as a simple but comfortable bedroom. Two narrow beds with surprisingly plush mattresses are pushed against opposite walls, each topped with quality linens and warm blankets. A brass washbasin sits atop a wooden stand between them, and a small table near the door holds an elegant decanter of amber liquid and two crystal glasses. The room carries a faint scent of lavender, likely from the sachet hanging near the window.
 
 *DM Notes:*
+
 This room serves as temporary quarters for Myriad operatives. Notable features include:
 
 - Two beds with high-quality mattresses and linens:
@@ -105,13 +110,16 @@ The room is kept ready for use at all times, and shows signs of frequent occupan
 Myriad operatives would know this is Aelorin's personal chamber from the plate on the door.
 
 *Upon opening the door:*
+
 > [!important]
 > A soft green magical light suffuses this chamber, emanating from an elegant crystalline fixture hanging from the ceiling. The room exudes the same refined taste as the tailor shop above, but with a more personal touch. A massive four-poster bed draped in dark silk dominates one wall, while a polished wooden desk and comfortable reading chair occupy another. Exquisite Marquesian rugs cover the stone floor, and a tall wardrobe of deep mahogany stands in one corner. The air carries a subtle scent of sandalwood and fresh ink.
 
 *DM Notes:*
+
 Aelorin's private sanctuary reflects both his public persona and criminal authority. Notable features include:
 
 Security Measures:
+
 - Door is locked with a superior lock (DC 17 to pick)
 - Crossbow trap mounted inside the door frame (DC 15 Investigation to spot):
     - Triggers when door opens without proper key
@@ -121,6 +129,7 @@ Security Measures:
 - Permanent Alarm spell (alerts Aelorin via a ring he wears)
 
 Furnishings and Valuables:
+
 - Four-poster bed with hidden compartment in headboard (DC 18 to find) containing:
 	 - Personal correspondence
 	 - 500 platinum pieces
@@ -148,31 +157,34 @@ The magical light is permanent and maintains a consistent soft illumination perf
 > A scholar's sanctuary unfolds before you, its atmosphere a peculiar blend of meticulousness and barely contained chaos. The room features a simple bed draped with expensive but slightly mismatched linens, and a large desk drowning in papers and open books. A standing wardrobe tries to project sophistication with its brass fittings, while a wall-mounted board nearby bristles with notes connected by red string. Several half-burned candles cast warm light across the space, their holders of varying quality suggesting gradual acquisitions rather than a matched set. A faint scent of ink and old parchment permeates the air.
 
 *DM Notes:*
+
 This room reflects Calderax's complex nature as both an eager scholar and a double agent trying to maintain appearances. Notable features include:
 
 Security Measures:
+
 - Standard lock on door (DC 15 to pick)
 - Personal alarm spell on desk drawer (cast daily, not permanent)
 - False bottom in wardrobe poorly hidden (DC 12 to find) but containing a forged letter:
 	3rd Thunsheer, 835 P.D.
-	
+
 	My dear Gentleman,
-	
+
 	I hope this letter finds you well in Zadash. Our mutual friend has ensured its safe passage, as always. Your generous offer has not gone unnoticed, and I am inclined to accept.
-	
+
 	The information you seek about the Myriad's operations in Port Damali is as follows:
-	
+
 	1. The shipment of Marquesian spices will arrive on the 20th. The usual warehouse will be lightly guarded that night.
 	2. Aelorin plans to expand our influence into the Tumbledowns next month. Key bribes have already been arranged.
 	3. The Zhelezo captain in the Opal Archways is now on our payroll. His name is Joren Vex.
-	
+
 	As for your proposal to "redirect" some of the Myriad's assets, I believe I can arrange it without arousing suspicion. The upcoming Merryfrond's Day celebrations at the end of the month should provide ample distraction.
-	
+
 	I must stress the need for utmost discretion. My position here grows precarious, and Aelorin's trust is not easily earned back once lost.
-	
+
 	Our next exchange will follow the usual protocol. Until then, may the Wildmother's winds carry you to prosperity.
-	
+
 	Your faithful ally,
+
 	C.D.
 
 Careful further inspection (DC 15 Investigation) reveals subtle evidence that something else was recently removed:
@@ -182,6 +194,7 @@ Careful further inspection (DC 15 Investigation) reveals subtle evidence that so
 - Faint scrape marks along one edge of the compartment with more of the black glass-like dust
 
 Furnishings and Contents:
+
 - Desk area:
     - Research notes on planar magic (genuine academic interest)
     - Brass pocket watch prominently displayed
@@ -189,18 +202,17 @@ Furnishings and Contents:
         - 200gp
         - Letters from Aelorin regarding his mentorship
         - Two vials of poison along with a coded note with a vague reference to "Assassination plans proceeding as hoped".
-
 - Wall board with notes:
     - Appears to track planar research
     - Actually contains coded intelligence on Obsidian Echoforge movements
     - Recently disturbed, suggesting Dreyara's team accessed it
-
 - Wardrobe:
     - Expensive but slightly outdated clothes (worth 400gp total)
     - Several scholarly robes
     - Hidden bottom compartment containing disguise kit and backup identity papers
 
 Current Situation:
+
 - Room shows signs of recent careful searching
 - Some papers are slightly out of place
 - Dreyara's team has planted false evidence in the desk drawer implicating Calderax in serious crimes
@@ -213,14 +225,17 @@ The room's current disarray tells two stories: the natural chaos of a scholar's 
 > This long room serves dual purposes, with one end set up as austere living quarters - a simple bed and sturdy desk - while the remainder is dedicated to storage. Wooden crates and shelving units line the walls, carefully organized and labeled. Some containers bear dates, while others have simple numerical codes. A few trunks appear to be ready for quick transport, with handles and carrying straps. The air has the crisp smell of preserved textiles and dried goods.
 
 *DM Notes:*
+
 This room serves as both emergency accommodation and a strategic supply cache. Notable features include:
 
 Security Measures:
+
 - Standard lock on door (DC 15 to pick)
 - Simple inventory system using numerical codes to obscure contents
 - False crates that appear full but contain emergency escape gear
 
 Storage Contents:
+
 - Emergency Supplies:
     - Preserved rations for 20 person-days
     - Medical supplies worth 300gp
@@ -228,7 +243,6 @@ Storage Contents:
     - Clean water in sealed containers
     - 3 complete sets of weather-appropriate clothing
     - Basic adventuring gear (rope, lanterns, etc.)
-
 - Ready-to-Go Packages:
     - 3 "bug-out bags" containing:
         - 100gp each
@@ -236,7 +250,6 @@ Storage Contents:
         - Local maps and travel papers
         - Emergency rations
         - Basic weapons (daggers, hand crossbow)
-
 - Agent Support Materials:
     - Spare clothing in various sizes
     - Blank documentation for forgery
@@ -244,6 +257,7 @@ Storage Contents:
     - Common trade goods for cover stories
 
 Living Space:
+
 - Simple but serviceable bed with clean linens
 - Desk with basic writing materials
 - Small chest containing spare blankets and pillows
@@ -258,25 +272,26 @@ The room is maintained regularly, with supplies rotated to prevent spoilage and 
 > Tall bookcases line the walls of this well-appointed study, their shelves filled with leather-bound volumes and document folios. A circular reading table sits to one side. A brass brazier casts warm light across the chamber, making the leather bindings gleam. Near the door, a washbasin sits atop a small table, and a modest nightstand holds a few personal items. The air carries the distinct smell of old parchment and leather, along with a faint trace of lamp oil.
 
 *DM Notes:*
+
 Currently occupied by Dreyara's team in ambush positions:
 
 Combatants:
+
 - Dreyara Drimvar (Elite Assassin, CR 10)
     - Hidden behind the circular reading table, which provides half cover
     - Has clear sight lines to door while remaining in shadow
     - Poison-coated weapons ready
-
 - Ra'ak (Black Dragonborn, use Spy CR 1 stat block with modification)
     - Added ability: Acid Breath (Recharge 5-6). 15 ft. line, DC 12 Dex save, 2d8 lightning damage
     - Concealed behind bookcase
     - Positioned to use breath weapon along the entrance corridor
-
 - Brunhilda (Dwarf, use Thug CR 1/2 stat block with modification)
     - Added ability: Dwarven Resilience. Advantage on saving throws against poison, resistance to poison damage
     - Hidden behind bookcase near secret door
     - Ready to emerge and flank intruders
 
 Room Features:
+
 - Bookcases contain:
     - Myriad financial records (coded)
     - Maps of trade routes and safe houses
@@ -294,6 +309,7 @@ Room Features:
     - Currently full, could be knocked over to create slick floor
 
 Tactical Strategy:
+
 - Initial Ambush:
     - Dreyara uses table for cover while maintaining attack options
     - Razak's lightning breath can arc between metal fixtures
@@ -317,15 +333,18 @@ Ah, now I see the beds clearly stacked along the walls! Let me revise:
 > This squarish room serves as sleeping quarters for the Myriad's guards. Several well-made beds line the far wall. Personal effects are minimal but present - a deck of cards on one nightstand, a half-empty wine bottle on another, a cloak hung on a bedpost. Wall-mounted hooks hold guards' off-duty weapons, and the air carries the lived-in smell of a regularly used barracks. Two of the beds appear to be occupied with sleeping guards.
 
 *DM Notes:*
+
 This room serves as the primary sleeping quarters for the hideout's security personnel.
 
 Features:
+
 - 4 beds total, well-maintained:
     - Fresh linens issued weekly
     - Each has a small side table
     - Storage hooks above each bed
 
 Current Contents (due to late hour):
+
 - Most personal effects present but guards absent
 - Evidence of regular use:
     - Recently made beds
@@ -341,9 +360,11 @@ The two guards are dead--killed by Drimvar and her crew then dragged in here and
 > This abandoned chamber bears hasty scars of evacuation - empty brackets and mounting holes line the walls where bookshelves once stood, and deep scratches in the floor mark their hurried removal. Two stone pillars rise from floor to ceiling, their surfaces now strangely textured with crawling shadows that seem to move when viewed directly. In the far end of the room, reality tears open in a vertical gash of absolute darkness, its edges rippling with tendrils of pure shadow. Scattered across the floor are spreading pools of darkness that persist despite the light, like spilled ink that refuses to dry. The air here is unnaturally cold and still, carrying the faint scent of decay and abandonment. Two dark shapes prowl the chamber - a crouching, winged figure of living shadow accompanied by a beast-like form that seems to drink in what little light reaches them. They immediately react to the light streaming in from the door and move to attack.
 
 *DM Notes:*
+
 The room shows signs of both its previous purpose and current corruption:
 
 Current Occupants:
+
 - 1 Gloomstalker:
     - Patrols near the rift
     - Uses pillars for cover
@@ -354,12 +375,14 @@ Current Occupants:
     - Use shadow patches for additional stealth
 
 Architectural Features:
+
 - 8-foot ceiling supported by two stone pillars
 - Door is both locked (DC 16) and barred from the hallway (Area 6)
 - Walls show evidence of hastily removed shelving
 - Floor is solid stone but growing increasingly unstable near the rift
 
 Environmental Effects:
+
 - Temperature is 15-20 degrees colder than surrounding rooms
 - Normal light sources are slightly dimmed
 - Shadows cast by objects move independently
@@ -367,6 +390,7 @@ Environmental Effects:
 - Shadow stains on floor slowly expand (roughly 1 inch per day)
 
 Rift Characteristics:
+
 - Approximately 7 feet tall, 3 feet wide
 - Edges pulse and writhe with shadow energy
 - Occasional whispers emerge from the tear
@@ -374,12 +398,14 @@ Rift Characteristics:
 - Small objects within 5 feet are pulled very slightly toward the rift
 
 Evidence of Evacuation:
+
 - Tool marks on walls from shelf removal
 - Scattered papers and broken quills
 - Dropped books damaged by shadow exposure
 - Boot prints in layers of dust show no recent entry
 
 Combat Considerations:
+
 - Creatures can use shadow patches as partial cover
 - Pillars provide full cover
 - Room's dim light conditions favor the shadow creatures
@@ -398,12 +424,14 @@ The chest is secured with an intricate locking mechanism bearing the subtle mark
 When properly unlocked (requiring the correct key and activation of two pressure plates in the correct sequence), the chest contains what appears to be a partially depleted emergency cache:
 
 A collection of currency and valuables fills the upper compartment:
+
 - 200 platinum pieces in a black silk pouch
 - Eight gems: three diamonds, three sapphires, and two rubies, each carefully wrapped in soft cloth
 - A plain silver ring (Ring of Mind Shielding)
 - Four crystal vials: three containing the deep red liquid of greater healing potions, and one filled with a clear potion of invisibility
 
 The lower compartment contains documents and supplies:
+
 - A leather folio containing forged merchant credentials from the Menagerie Coast, including Zhelezo-sealed letters of transit, trade licenses, and a carefully maintained ledger of "previous" border crossings
 - A set of masterwork thieves' tools in a worn leather case
 - Two glass vials of antitoxin
@@ -411,6 +439,7 @@ The lower compartment contains documents and supplies:
 If tampered with incorrectly, the chest's protection mechanisms trigger, releasing poisoned needles (DC 15 Constitution save, 6d6 poison damage) and casting Alarm. A secondary trap releases sleep gas (DC 14 Constitution save or fall unconscious for 1 minute).
 
 ## 15. Hidden Exit to Surface
+
 This narrow space has only a ladder leading up to the surface. The door to area 13 is locked and barred from the other side. A DC 20 strength check is required to force it open from this side.
 
-The ladder leads to a hidden entrance in the woods just outside the  tailor shop (area 15 on the ground floor map). A simple level from this side will unlock the bench and disarm the lightning trap, allowing someone to escape from the tunnel.
+The ladder leads to a hidden entrance in the woods just outside the tailor shop (area 15 on the ground floor map). A simple level from this side will unlock the bench and disarm the lightning trap, allowing someone to escape from the tunnel.

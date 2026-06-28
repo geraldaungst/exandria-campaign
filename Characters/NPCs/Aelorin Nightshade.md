@@ -1,13 +1,14 @@
 ---
-tags:
-  - npc
-  - world/exandria
-  - region/menagerie-coast
 affiliations:
   - "[[Clasp]]"
 current_location: "[[Aelorin's Headquarters]]"
 disposition: indifferent
+tags:
+  - npc
+  - world/exandria
+  - region/menagerie-coast
 ---
+
 [[Qilynn Duskwhisper (Nicole)|Qilynn]]'s mentor and trainer.
 
 Aelorin was an orphan who grew up in the Driftwood Asylum. While there, he was often sent on "missions" by the cruel headmaster, Grankton. Eventually, he grew tired of the life there, and as a teenager he left on a mission and never returned. Grankton assumed he had died and never looked into it.

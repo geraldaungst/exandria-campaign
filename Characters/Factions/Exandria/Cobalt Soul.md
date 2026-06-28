@@ -1,8 +1,10 @@
 ---
+disposition: indifferent
 tags:
   - faction
   - world/exandria
-disposition: indifferent
 ---
-# Cobalt Soul
+
+## Cobalt Soul
+
 TBD how they feel about this

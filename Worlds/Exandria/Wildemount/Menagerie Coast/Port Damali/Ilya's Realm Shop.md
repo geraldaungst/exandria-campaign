@@ -3,17 +3,20 @@ tags:
   - location
   - region/menagerie-coast
 ---
-# Quick Reference
+
+## Quick Reference
+
 > [!info] Essential Details
 > - Current Status: Active
-> - Key Feature: 
+> - Key Feature:
 > - Atmosphere:
 > - Recent Events:
 
-# Overview
-## Physical Description
-- [[Ilya the Sorceress]] was an adventurer sorceress who quested Exandria before retiring to Port Damali. She has multiple items of her time adventuring, which she sells as well as maintaining a business. The shop has the following items on sale, in addition to a reasonably full stock of common and uncommon items:
+## Overview
 
+### Physical Description
+
+- [[Ilya the Sorceress]] was an adventurer sorceress who quested Exandria before retiring to Port Damali. She has multiple items of her time adventuring, which she sells as well as maintaining a business. The shop has the following items on sale, in addition to a reasonably full stock of common and uncommon items:
 - Elixirs of Health
 - Potion of Superior Healing
 - Potions of Acid Breath (handcrafted)
@@ -28,13 +31,15 @@ tags:
 - Periapt of Health
 - Pipes of Haunting
 
-## Current State
+### Current State
+
 > [!note] Active Elements
 > - Present situation
 > - Recent changes
 > - Immediate concerns
 
-# Hidden Elements
+## Hidden Elements
+
 > [!secret]- DM Only
 > - Current Stock:
 > 	- [x] 1d8 Elixirs of Health (168gp)
@@ -57,26 +62,34 @@ tags:
 > 	- Example: Decanter of Endless Hot Cocoa: 250gp or 350gp for rush
 > - Future developments
 
-# Connected Elements
-## NPCs
+## Connected Elements
+
+### NPCs
+
 ```dataview
 LIST
 FROM #npc
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
-## Places
+
+### Places
+
 ```dataview
 LIST
 FROM #location
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
-## Items
+
+### Items
+
 ```dataview
 LIST
 FROM #artifact 
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
-## Related Plot Threads
+
+### Related Plot Threads
+
 ```dataview
 LIST
 FROM #plot 

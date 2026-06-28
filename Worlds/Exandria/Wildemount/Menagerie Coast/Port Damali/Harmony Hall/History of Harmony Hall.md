@@ -1,11 +1,14 @@
 ---
+context:
+created: 2025-01-09
 tags:
   - atomic
-created: 2025-01-09
-context:
 ---
-# Core Information
-## Key Info
+
+## Core Information
+
+### Key Info
+
 - Originally a brothel where Hesterian Shyr worked
 - A raid on the establishment after Hesterian's murder led to workers being arrested or fleeing, causing the madam to have a moral awakening
 - A priestess from the Pearl Shrine (temple of Avandra) reached out and inspired the madam to transform the business
@@ -23,7 +26,8 @@ context:
     - Use the escape network to start fresh in a new location
 - The establishment is now considered a symbol of transformation and hope in Port Damali
 
-## History of Harmony Hall
+### History of Harmony Hall
+
 Formerly the "Coriander & Mallow Exchange Company", this used to be the brothel where [[Hesterian Shyr (Dot)|Hesterian]] used to work.
 
 After the raid on the brothel, the madam found herself at a moral crossroads. The violent events and the fear etched on the faces of her workers forced her to confront the harsh realities of her business. The legal repercussions and the sight of her workers being arrested or fleeing made her realize the profound impact of her choices. This moment of clarity was a mixture of remorse for the harm caused and pragmatism about the unsustainable nature of her current operations.
@@ -40,50 +44,62 @@ The former workers of the brothel were given options tailored to their needs and
 
 Through these efforts, the madam turned a place of exploitation into a sanctuary of hope and transformation. The dinner theater thrived, offering joy and entertainment to the public while secretly sheltering and rehabilitating those in need. With the support of the Pearl Shrine and the dedication of her staff, the madam's establishment became a beacon of change and redemption in [[Port Damali]].
 
-# Source Context
+## Source Context
+
 Brief note about where this information originated (session, NPC conversation, etc.)
 
-# Relationship Details
+## Relationship Details
+
 [Delete section if not a relationship note]
-## Nature of Connection
+
+### Nature of Connection
+
 Brief description of how these elements relate
 
-## Impact/Implications
+### Impact/Implications
+
 How this relationship affects the campaign
 
-# Connections
-## Source Note
+## Connections
+
+### Source Note
+
 [[Harmony Hall]]
 
-## Related Atomic Notes
+### Related Atomic Notes
+
 ```dataview
 LIST
 FROM #atomic
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
 
-## Related NPCs
+### Related NPCs
+
 ```dataview
 LIST
 FROM #npc 
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
 
-## Related Plot Threads
+### Related Plot Threads
+
 ```dataview
 LIST
 FROM #plot  
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
 
-## Related Locations
+### Related Locations
+
 ```dataview
 LIST
 FROM #location 
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
 
-## Related Items/Artifacts
+### Related Items/Artifacts
+
 ```dataview
 LIST
 FROM #artifact 

@@ -2,6 +2,7 @@
 tags:
   - region/menagerie-coast
 ---
+
 (Captain Rizzen T'orgh).
 
 This ship made an expedition from Xhorhas to the Shattered Teeth in 136 PD, soon after the discovery of the second Luxon Beacon by the Kryn Dynasty. When they found the second, they immediately began searching for more.

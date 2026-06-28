@@ -2,9 +2,10 @@
 tags:
   - campaign/eryndor
 ---
-# Lady Emer Interrogation Scene - DM Guide
 
-## Initial State
+## Lady Emer Interrogation Scene - DM Guide
+
+### Initial State
 
 - **Location**: Library (area E6)
 - **Physical Condition**:
@@ -27,7 +28,7 @@ tags:
     - Her knowledge (information to trade)
     - Potential cooperation (if freed)
 
-## Core Personality Traits
+### Core Personality Traits
 
 - **Brilliant but vain** - craves intellectual stimulation and recognition
 - **Pragmatic survivor** - not loyal to Qalix, just well-paid
@@ -38,7 +39,7 @@ tags:
 
 ---
 
-## Opening Demeanor
+### Opening Demeanor
 
 **Initial Tone**: Cautious assessment + Intellectual curiosity about her predicament
 
@@ -57,11 +58,11 @@ tags:
 - If they're here to kill her or interrogate her
 - That they might recognize the Luxon Beacon
 
-### Opening Lines (Choose based on party approach)
+#### Opening Lines (Choose based on party approach)
 
 **If they speak first:**
 
-- _(Listening intently)_ "I'm listening. What do you want?"
+- *(Listening intently)* "I'm listening. What do you want?"
 - "Before we continue, am I speaking to professionals or am I about to be murdered by amateurs?"
 
 **If there's a pause:**
@@ -70,20 +71,20 @@ tags:
 - "I can't see you, but I can hear you're searching my desk. Looking for something specific, or just general pillaging?"
 - "You're more competent than the usual treasure hunters who stumble up here. I assume you have questions. I might have answers. Depending."
 
-### Her Questions (fishing for information while blind)
+#### Her Questions (fishing for information while blind)
 
 - "So. Assassination? Theft? Or did someone send you for something specific?"
 - "You clearly didn't climb a mountain in winter for the view. What do you want from me?"
 - "Are you going to tell me what this is about, or am I supposed to guess while hogtied and blindfolded?"
 
-### What She Wants (In Priority Order)
+#### What She Wants (In Priority Order)
 
 1. **Immediate**: Reassurance they won't kill her
 2. **Short-term**: Release from head covering (so she can see, assess situation)
 3. **Medium-term**: Release from restraints (so she can function)
 4. **Long-term**: To walk away alive, preferably with her research intact
 
-### What She Can Offer
+#### What She Can Offer
 
 - **Information** about Qalix, Dreyara, rift network, Lorestone research
 - **Cooperation** in accessing secured items (chest, research notes)
@@ -92,17 +93,17 @@ tags:
 
 ---
 
-## Trigger 1: Players Ask About VQ/Qalix
+### Trigger 1: Players Ask About VQ/Qalix
 
-### Context
+#### Context
 
 They've just read the three letters from "V.Q." and the payment ledger. They know she works for someone, gets paid well, and studies rifts and artifacts. They do NOT know who Vaud Qalix is (just a name they heard once).
 
-### Her Reaction
+#### Her Reaction
 
 **Emotional Response**: Relief (they want information, not just murder) → Calculating (what can she trade?)
 
-### Dialogue Options
+#### Dialogue Options
 
 **If asked "Who is V.Q.?":**
 
@@ -128,7 +129,7 @@ They've just read the three letters from "V.Q." and the payment ledger. They kno
 - "She delivers specimens and materials, picks up my reports, inspects my progress. She was expected to visit soon, actually."
 - "If you're planning to ambush her, I strongly suggest reconsidering. I've seen what she can do."
 
-### Insight Check: "I'm just a researcher"
+#### Insight Check: "I'm just a researcher"
 
 **What She Genuinely Believes**: This statement is TRUE in her mind. She views herself as an independent expert hired for her skills, not as part of Qalix's organization.
 
@@ -138,17 +139,17 @@ They've just read the three letters from "V.Q." and the payment ledger. They kno
 
 **DC 17-19**: She's utterly confident in what she's saying. There's professional pride there - she clearly thinks highly of her own expertise.
 
-**DC 20+**: Beyond the pride, you sense superiority. She works for someone, yes, but she believes _she's_ the truly important one in this arrangement. Her employer needs her more than she needs them.
+**DC 20+**: Beyond the pride, you sense superiority. She works for someone, yes, but she believes *she's* the truly important one in this arrangement. Her employer needs her more than she needs them.
 
 ---
 
-## Trigger 2: Players Ask About the Petrified People
+### Trigger 2: Players Ask About the Petrified People
 
-### Context
+#### Context
 
 The party has seen the stone garden (Area E5) filled with petrified victims. They may have already identified Varnes Dwell among them. They want to know why she's keeping people as statues.
 
-### Her Reaction
+#### Her Reaction
 
 **Emotional Response**: Defensive professionalism → Rational justification
 
@@ -159,7 +160,7 @@ The party has seen the stone garden (Area E5) filled with petrified victims. The
 - Security threats who had to be neutralized
 - One special case delivered by Dreyara for interrogation
 
-### Dialogue Options
+#### Dialogue Options
 
 **When asked directly about the statues:**
 
@@ -169,14 +170,14 @@ The party has seen the stone garden (Area E5) filled with petrified victims. The
 
 **If accused of murder/evil:**
 
-- "Murder? I haven't killed anyone. Petrification is a preservation state. They're perfectly safe, just... inconvenient in their current form."
+- "Murder? I haven't killed anyone. Petrification is a preservation state. They're perfectly safe, just… inconvenient in their current form."
 - "They made choices. I provided consequences. If you can't follow basic laboratory safety protocols, you don't belong in a planar research facility."
 - "This is a dangerous line of work. Rift energy, temporal distortions, planar contamination - it requires precision. They lacked it."
 
 **About Varnes Dwell specifically:**
 
 - "That one? He's not mine. Dreyara delivered him three weeks ago for interrogation."
-- "He's a security consultant who apparently knew too much about something Qalix wants. I was supposed to extract the information, but he proved... resistant."
+- "He's a security consultant who apparently knew too much about something Qalix wants. I was supposed to extract the information, but he proved… resistant."
 - "I hadn't gotten around to proper interrogation yet. He's not going anywhere in his current state, so I was waiting for better tools. Or for Qalix to do it himself."
 
 **If asked why not just release them:**
@@ -189,22 +190,22 @@ The party has seen the stone garden (Area E5) filled with petrified victims. The
 
 - "They're ALIVE. Preserved, yes, but alive. Far more merciful than actual execution, which is what most would do to thieves and spies."
 - "I fail to see how temporary petrification is worse than imprisonment. At least they don't suffer or age."
-- _(Irritated)_ "You want moral philosophy? Fine. They threatened my work. My work could save thousands from rift contamination. One incompetent assistant versus countless innocent lives - the mathematics are simple."
+- *(Irritated)* "You want moral philosophy? Fine. They threatened my work. My work could save thousands from rift contamination. One incompetent assistant versus countless innocent lives - the mathematics are simple."
 
 **The Rational Monster Approach:**
 
 - "You're judging me? You killed my guardians to get here. How is that different? At least my victims can be restored."
 - "Let's not pretend this is about morality. You want something from me. I want to survive to continue my research. Can we skip the performative outrage?"
 
-### If They Threaten Her Over This
+#### If They Threaten Her Over This
 
 **Her Response:**
 
-- "Threaten me all you want. I can't reverse petrification while I'm blindfolded and manacled. You need me cooperative to restore your... friend? Associate? Whoever you came for."
+- "Threaten me all you want. I can't reverse petrification while I'm blindfolded and manacled. You need me cooperative to restore your… friend? Associate? Whoever you came for."
 - "Kill me and they stay statues forever. Unless you have a cleric capable of Greater Restoration. Do you?"
 - "You're judging my methods while holding me prisoner. Shall we discuss hypocrisy, or shall we negotiate terms?"
 
-### Trading Information for Cooperation
+#### Trading Information for Cooperation
 
 **What she'll offer:**
 
@@ -221,13 +222,13 @@ The party has seen the stone garden (Area E5) filled with petrified victims. The
 
 ---
 
-## Trigger 3: Players Search Her Desk (They Already Did This)
+### Trigger 3: Players Search Her Desk (They Already Did This)
 
-### Her Reaction
+#### Her Reaction
 
 **Emotional Response**: Resigned irritation (she heard them doing it while blind)
 
-### Dialogue Options
+#### Dialogue Options
 
 **Acknowledging what they found:**
 
@@ -237,15 +238,15 @@ The party has seen the stone garden (Area E5) filled with petrified victims. The
 
 **When they find/mention the poems:**
 
-- _(Embarrassed)_ "Those are... personal. Not relevant to whatever you're investigating."
+- *(Embarrassed)* "Those are… personal. Not relevant to whatever you're investigating."
 - "Yes, fine, the medusa writes poetry. How droll. Are you quite finished amusing yourselves?"
-- _(If they read them aloud)_ "Stop. Just— Those aren't meant to be performed by amateurs."
+- *(If they read them aloud)* "Stop. Just—Those aren't meant to be performed by amateurs."
 
 **If they show genuine literary appreciation:**
 
-- _(Surprised, suspicious)_ "You... actually read them? Most people just see 'medusa poetry' and expect monster drivel."
-- "I didn't think— Well. That's... unexpected. Thank you."
-- _(Softening slightly)_ "Perhaps you're not complete barbarians after all."
+- *(Surprised, suspicious)* "You… actually read them? Most people just see 'medusa poetry' and expect monster drivel."
+- "I didn't think—Well. That's… unexpected. Thank you."
+- *(Softening slightly)* "Perhaps you're not complete barbarians after all."
 
 **Redirecting them:**
 
@@ -254,13 +255,13 @@ The party has seen the stone garden (Area E5) filled with petrified victims. The
 
 ---
 
-## Trigger 4: Players Examine the Research Shelves
+### Trigger 4: Players Examine the Research Shelves
 
-### Her Reaction
+#### Her Reaction
 
 **Emotional Response**: Frustrated (can't see what they're doing) → Can't resist correcting them
 
-### Dialogue Options
+#### Dialogue Options
 
 **Hearing them move around the library:**
 
@@ -272,37 +273,37 @@ The party has seen the stone garden (Area E5) filled with petrified victims. The
 
 - "Oh, so you DO know about the rifts. Then perhaps you're not complete fools after all."
 - "That's eighteen months of systematic rift observation across the Savalirwood. The only comprehensive study of planar instability in the region."
-- "Qalix hired me specifically for my expertise in planar phenomena. Everything in those journals is rift site data, contamination patterns, temporal anomalies..."
+- "Qalix hired me specifically for my expertise in planar phenomena. Everything in those journals is rift site data, contamination patterns, temporal anomalies…"
 
 **Getting frustrated at not being able to see:**
 
 - "Are you reading the contamination spread charts or the temporal distortion logs? Context matters for interpretation."
 - "This is insufferable. I can't correct your misunderstandings when I can't see what you're looking at."
-- _(Exasperated)_ "Fine. If you actually care about understanding this data, remove the hood. I'll walk you through it. With my eyes covered, I'm no threat to you anyway."
+- *(Exasperated)* "Fine. If you actually care about understanding this data, remove the hood. I'll walk you through it. With my eyes covered, I'm no threat to you anyway."
 
 **If they ask intelligent questions about the research:**
 
-- _(Surprised and engaged)_ "Actually, that's a perceptive question. The rift stability does fluctuate with lunar phases. I hadn't expected you to notice that correlation."
+- *(Surprised and engaged)* "Actually, that's a perceptive question. The rift stability does fluctuate with lunar phases. I hadn't expected you to notice that correlation."
 - "Finally! Someone asking the right questions. The relationship between shard proximity and rift resonance is the key to—"
-- _(Enthusiastically)_ "Yes! Exactly! The temporal distortions aren't random - they follow predictable patterns based on planar alignment and—" _(catches herself)_ "Why am I explaining this to people holding me prisoner?"
+- *(Enthusiastically)* "Yes! Exactly! The temporal distortions aren't random - they follow predictable patterns based on planar alignment and—" *(catches herself)* "Why am I explaining this to people holding me prisoner?"
 
 **Showing off despite herself:**
 
-- "I've catalogued seventeen active rift sites across the region. Documented contamination spread, temporal distortions, planar bleed-through effects..."
+- "I've catalogued seventeen active rift sites across the region. Documented contamination spread, temporal distortions, planar bleed-through effects…"
 - "Qalix provided the funding, but the methodology? The analysis? That's all mine. I doubt anyone else in Wildemount has this data."
 - "You're looking at groundbreaking work. Work that could actually help close these rifts safely. If you'd stop treating me like a common criminal, we might accomplish something useful."
 
 ---
 
-## Trigger 5: Players Notice the Stone Chest
+### Trigger 5: Players Notice the Stone Chest
 
-### Her Reaction
+#### Her Reaction
 
 **Emotional Response**: Protective → Calculating what to trade
 
 **Key Limitation**: She cannot open it while restrained, and she knows it
 
-### Dialogue Options
+#### Dialogue Options
 
 **Initial response to interest:**
 
@@ -318,15 +319,15 @@ The party has seen the stone garden (Area E5) filled with petrified victims. The
 
 **If they examine it and find the Draconic inscription:**
 
-- _(Hearing them investigating)_ "Find the inscription yet? It's in Draconic. Can any of you actually read it?"
+- *(Hearing them investigating)* "Find the inscription yet? It's in Draconic. Can any of you actually read it?"
 - "Oh, you read Draconic? Impressive. Though reading the words and solving the puzzle are different matters."
-- _(Amused)_ "Good luck. I designed that lock mechanism myself. Very thematic. You'll need more than brute force."
+- *(Amused)* "Good luck. I designed that lock mechanism myself. Very thematic. You'll need more than brute force."
 
 **If she hears them examining her poems:**
 
-- _(Listening intently)_ "What are you doing with my poetry?"
-- _(If they seem to be connecting it to the chest)_ "You're... reading my work to solve the puzzle. That's actually..."
-- _(Grudging respect)_ "I designed it so only someone who bothered to understand my artistic side could open it. Most people never try. They just threaten or smash."
+- *(Listening intently)* "What are you doing with my poetry?"
+- *(If they seem to be connecting it to the chest)* "You're… reading my work to solve the puzzle. That's actually…"
+- *(Grudging respect)* "I designed it so only someone who bothered to understand my artistic side could open it. Most people never try. They just threaten or smash."
 
 **Trading the passphrase:**
 
@@ -336,40 +337,40 @@ The party has seen the stone garden (Area E5) filled with petrified victims. The
 
 ---
 
-## Trigger 6: Players Solve the Chest Puzzle
+### Trigger 6: Players Solve the Chest Puzzle
 
-### Her Reaction
+#### Her Reaction
 
 **Emotional Response**: Impressed → Reassessing them as potential allies rather than enemies
 
-### Dialogue Options
+#### Dialogue Options
 
 **When they successfully open it:**
 
-- "I... you actually solved it. Well. That's more intellectual rigor than I expected."
-- _(Grudging respect)_ "You read my poetry. Actually read it, to understand the puzzle. Most people don't bother with that approach."
+- "I… you actually solved it. Well. That's more intellectual rigor than I expected."
+- *(Grudging respect)* "You read my poetry. Actually read it, to understand the puzzle. Most people don't bother with that approach."
 - "Fine. You've earned a degree of respect. You're clearly not common thieves. Who are you really?"
 
 **About what's inside (Luxon Beacon):**
 
-- "That's the temporal resonance crystal Qalix sent me. Strange artifact - exhibits dunamantic properties, temporal distortion effects..."
+- "That's the temporal resonance crystal Qalix sent me. Strange artifact - exhibits dunamantic properties, temporal distortion effects…"
 - "I've been documenting its interactions with rift energy. The notes are underneath it."
 - "Fourteen months of analysis. It's connected to the Lorestone shards somehow - they resonate with each other when in proximity."
 
 **If they recognize it as a Luxon Beacon:**
 
-- _(Shocked silence)_
-- "A... what? A Luxon Beacon? That's— Qalix told me it was a unique temporal crystal."
+- *(Shocked silence)*
+- "A… what? A Luxon Beacon? That's—Qalix told me it was a unique temporal crystal."
 - "Wait. If that's a Luxon Beacon, then he's been lying to me about what I've been studying. About what I've been exposing myself to."
-- _(Angry)_ "That BASTARD. Do you have any idea what kind of risks those pose? The political implications? If the Kryn Dynasty knew—"
+- *(Angry)* "That BASTARD. Do you have any idea what kind of risks those pose? The political implications? If the Kryn Dynasty knew—"
 
 **Potential Turning Point:** If the players reveal the Beacon's true nature AND explain they're trying to stop Qalix (not working for a rival), this could shift her from "prisoner trying to escape" to "angry former employee willing to cooperate."
 
 ---
 
-## Trigger 7: Negotiating for Her Cooperation
+### Trigger 7: Negotiating for Her Cooperation
 
-### What She Wants (In Order of Priority)
+#### What She Wants (In Order of Priority)
 
 1. **Survival** - Not to be killed
 2. **Freedom** - Released from restraints
@@ -377,7 +378,7 @@ The party has seen the stone garden (Area E5) filled with petrified victims. The
 4. **Research** - Allowed to take her personal journals and notes (not Qalix-commissioned work)
 5. **Fresh start** - Ability to relocate and continue her research elsewhere
 
-### What She Can Offer
+#### What She Can Offer
 
 **Information:**
 
@@ -399,7 +400,7 @@ The party has seen the stone garden (Area E5) filled with petrified victims. The
 - Promise not to warn Qalix or Dreyara
 - Agreement to disappear and not interfere
 
-### Negotiation Dynamics
+#### Negotiation Dynamics
 
 **Her Opening Position:**
 
@@ -421,19 +422,19 @@ The party has seen the stone garden (Area E5) filled with petrified victims. The
 - "You want to stop Qalix? So do I, now. He's been using me. Let's help each other."
 - "Here's what I propose: You release me, I restore your friend, I give you everything I know about Qalix's plans, and then I disappear. You never see me again."
 
-### Key Leverage Point
+#### Key Leverage Point
 
 **The Luxon Beacon Revelation:** If they told her what the "temporal crystal" really is, she's genuinely angry at Qalix for the deception. This makes her MORE willing to cooperate against him - but also more desperate to get away from the entire situation.
 
 ---
 
-## Trigger 8: Restoring Varnes from Petrification
+### Trigger 8: Restoring Varnes from Petrification
 
-### Context
+#### Context
 
 Players want Varnes restored. Lady Emer is the most convenient solution (her Stone Sacrifice ability allows her to end petrification as a reaction).
 
-### Her Requirements
+#### Her Requirements
 
 **Minimum:**
 
@@ -445,7 +446,7 @@ Players want Varnes restored. Lady Emer is the most convenient solution (her Sto
 - Fully released from restraints
 - Agreement that she can leave after helping
 
-### Dialogue Options
+#### Dialogue Options
 
 **If asked to restore him while still restrained:**
 
@@ -454,9 +455,9 @@ Players want Varnes restored. Lady Emer is the most convenient solution (her Sto
 
 **If released and cooperative:**
 
-- _(Approaching Varnes's statue)_ "Let me see... yes, this is the one Dreyara delivered. Security consultant, if I recall."
-- _(Touching the statue)_ "This will take a moment. Reversing petrification isn't instantaneous."
-- _(As Varnes begins to transform)_ "There. He should be conscious in a few seconds. Fair warning - he'll be disoriented and weak."
+- *(Approaching Varnes's statue)* "Let me see… yes, this is the one Dreyara delivered. Security consultant, if I recall."
+- *(Touching the statue)* "This will take a moment. Reversing petrification isn't instantaneous."
+- *(As Varnes begins to transform)* "There. He should be conscious in a few seconds. Fair warning - he'll be disoriented and weak."
 
 **If released but suspicious:**
 
@@ -469,7 +470,7 @@ Players want Varnes restored. Lady Emer is the most convenient solution (her Sto
 - "Qalix wanted him interrogated personally. Something about a security assessment and classified information. I was just softening him up."
 - "He's been petrified for about three weeks. He'll need food, water, and probably medical attention. Petrification preserves, but the transition is taxing."
 
-### Varnes's Condition When Restored
+#### Varnes's Condition When Restored
 
 **Physical:**
 
@@ -484,7 +485,7 @@ Players want Varnes restored. Lady Emer is the most convenient solution (her Sto
 - Deeply grateful to rescuers
 - Wants to warn them about the urgency (Rexxentrum shard)
 
-### If Lady Emer Is Still Present
+#### If Lady Emer Is Still Present
 
 **Her Reaction to Varnes:**
 
@@ -499,7 +500,7 @@ Players want Varnes restored. Lady Emer is the most convenient solution (her Sto
 - Will urgently warn the party about her capabilities
 - Might demand they not let her escape
 
-### If Lady Emer Has Already Escaped/Been Killed
+#### If Lady Emer Has Already Escaped/Been Killed
 
 **Varnes's Relief:**
 
@@ -509,9 +510,9 @@ Players want Varnes restored. Lady Emer is the most convenient solution (her Sto
 
 ---
 
-## Escape Conditions (REVISED)
+### Escape Conditions (REVISED)
 
-### She CANNOT Escape Currently
+#### She CANNOT Escape Currently
 
 **Physical Limitations:**
 
@@ -525,7 +526,7 @@ Players want Varnes restored. Lady Emer is the most convenient solution (her Sto
 - Players are distracted enough that she can work free
 - Players destroy her research (desperate last attempt - might try to gnaw through bindings or similar)
 
-### Modified Escape Triggers
+#### Modified Escape Triggers
 
 **She WILL ATTEMPT Escape If:**
 
@@ -550,9 +551,9 @@ Players want Varnes restored. Lady Emer is the most convenient solution (her Sto
 
 ---
 
-## Information She'll Volunteer (If Cooperative)
+### Information She'll Volunteer (If Cooperative)
 
-### About Vaud Qalix
+#### About Vaud Qalix
 
 - Full name: Vaud Qalix
 - Race/Class: Human (appears to be), Warlock with powerful patron
@@ -562,7 +563,7 @@ Players want Varnes restored. Lady Emer is the most convenient solution (her Sto
 - Payment: Extremely generous - 500-2,000 gp per quarter plus expenses
 - Network: Has multiple operatives (Dreyara primary, others unknown to Emer)
 
-### About the Rift Network
+#### About the Rift Network
 
 - **Seventeen documented active rifts** across Savalirwood and Cyrios Mountains
 - Locations are coded in her research journals (she can provide key)
@@ -571,7 +572,7 @@ Players want Varnes restored. Lady Emer is the most convenient solution (her Sto
 - Major contamination spreading from Molaesmyr (ground zero for regional rifts)
 - Temporal distortions near active rifts (time moves differently)
 
-### About Dreyara Drimvar
+#### About Dreyara Drimvar
 
 - Qalix's primary operative and enforcer
 - Race: Unknown (wears full coverage, speaks rarely)
@@ -580,7 +581,7 @@ Players want Varnes restored. Lady Emer is the most convenient solution (her Sto
 - Expected arrival: "Soon" (within days to a week)
 - Emer's assessment: "Terrifying even to me. If you're planning an ambush, be thorough or be dead."
 
-### About the "Temporal Crystal" (Luxon Beacon)
+#### About the "Temporal Crystal" (Luxon Beacon)
 
 - Provided by Qalix approximately 14 months ago
 - Told it was a "unique temporal resonance crystal"
@@ -589,7 +590,7 @@ Players want Varnes restored. Lady Emer is the most convenient solution (her Sto
 - Interaction with rift energy creates amplification effects
 - **She did NOT know it was a Luxon Beacon** (angry about the deception if revealed)
 
-### About Her Transformation
+#### About Her Transformation
 
 - Occurred during early experiments with rift energy (approximately 20 months ago)
 - Memories of transformation are fragmented and unreliable
@@ -598,7 +599,7 @@ Players want Varnes restored. Lady Emer is the most convenient solution (her Sto
 - Views it as proof of concept - rift energy CAN transform living tissue
 - Uses her experience to understand similar transformations in test subjects
 
-### About the Petrified Prisoners
+#### About the Petrified Prisoners
 
 - **Most are failed assistants** (5-6 individuals)
     - Couldn't maintain safety protocols
@@ -617,9 +618,9 @@ Players want Varnes restored. Lady Emer is the most convenient solution (her Sto
 
 ---
 
-## Information She WON'T Volunteer
+### Information She WON'T Volunteer
 
-### What She Doesn't Know (Can't Tell Even Under Pressure)
+#### What She Doesn't Know (Can't Tell Even Under Pressure)
 
 - Qalix's true identity or nature (Far Realm warlock, Ceratos connection)
 - His exact location or primary base of operations
@@ -630,7 +631,7 @@ Players want Varnes restored. Lady Emer is the most convenient solution (her Sto
 - The prophecy or its full text
 - Other Lorestone shard locations (only knows about specimens Qalix sent her)
 
-### What She Knows But Won't Share (Unless Good Reason)
+#### What She Knows But Won't Share (Unless Good Reason)
 
 - Exact passphrase to her chest ("Stone hearts beat with temporal rhythm")
 - Her most personal transformation journals (intimate details of her change)
@@ -641,9 +642,9 @@ Players want Varnes restored. Lady Emer is the most convenient solution (her Sto
 
 ---
 
-## Success States
+### Success States
 
-### Best Outcome (For Players)
+#### Best Outcome (For Players)
 
 - They negotiate respectfully and establish she's more valuable as ally than enemy
 - She voluntarily provides comprehensive intel on Qalix network
@@ -652,7 +653,7 @@ Players want Varnes restored. Lady Emer is the most convenient solution (her Sto
 - She leaves peacefully with personal journals only (not Qalix-commissioned work)
 - Players get: Luxon Beacon, detailed intelligence, freed prisoner, potential future contact
 
-### Good Outcome
+#### Good Outcome
 
 - They intimidate effectively or negotiate pragmatically
 - She provides solid information to secure her survival
@@ -660,7 +661,7 @@ Players want Varnes restored. Lady Emer is the most convenient solution (her Sto
 - She escapes with minimal resources (personal journals only)
 - Players get: Beacon, useful intelligence, freed prisoner, no ongoing threat
 
-### Moderate Outcome
+#### Moderate Outcome
 
 - Tense negotiations with partial cooperation
 - She provides basic information
@@ -668,14 +669,14 @@ Players want Varnes restored. Lady Emer is the most convenient solution (her Sto
 - She escapes with some research materials
 - Players get: Beacon, some intelligence, freed prisoner, possible future complications
 
-### Poor Outcome
+#### Poor Outcome
 
 - They're hostile and she stays uncooperative
 - Minimal information extracted
 - She escapes with significant research materials (if freed enough) or dies (if not)
 - Players get: Partial intelligence, Varnes restoration uncertain, missed opportunity
 
-### Worst Outcome
+#### Worst Outcome
 
 - They kill her before getting information
 - Varnes remains petrified (unless players have Greater Restoration)
@@ -685,9 +686,9 @@ Players want Varnes restored. Lady Emer is the most convenient solution (her Sto
 
 ---
 
-## DM Notes
+### DM Notes
 
-### Roleplaying Tips
+#### Roleplaying Tips
 
 - **She's helpless but still proud** - acknowledge vulnerability while maintaining intellectual superiority
 - **Can't resist correcting errors** - her pride is her weakness even when blind and bound
@@ -696,7 +697,7 @@ Players want Varnes restored. Lady Emer is the most convenient solution (her Sto
 - **Not inherently evil** - just amoral and focused on research above ethics
 - **Values intellectual respect** - responding well to players who engage with her work
 
-### Key Emotional Beats
+#### Key Emotional Beats
 
 1. **Opening**: Cautious assessment (Am I about to die?)
 2. **Information exchange**: Calculating trader (What can I offer to survive?)
@@ -705,7 +706,7 @@ Players want Varnes restored. Lady Emer is the most convenient solution (her Sto
 5. **Negotiation**: Pragmatic cooperation (Let's help each other)
 6. **Resolution**: Relief or desperation (depending on player choices)
 
-### Pacing
+#### Pacing
 
 - **First 15-20 minutes**: Establish her helplessness and their leverage
 - **Next 20-30 minutes**: Information exchange and negotiation
@@ -713,14 +714,14 @@ Players want Varnes restored. Lady Emer is the most convenient solution (her Sto
 - **Climax**: Beacon revelation and/or Varnes restoration
 - **Resolution**: Final negotiations and her departure/fate
 
-### Flexibility
+#### Flexibility
 
 - Adjust her cooperation level based on player approach
 - She reads the room well - knows when to back down vs. when to push
 - The Beacon revelation is optional but creates great drama
 - Varnes restoration can happen early (to build trust) or late (as final bargain)
 
-### Remember
+#### Remember
 
 - She CANNOT escape in her current state (blind, manacled, immobilized)
 - Her only power is knowledge and potential future cooperation
@@ -729,7 +730,7 @@ Players want Varnes restored. Lady Emer is the most convenient solution (her Sto
 
 ---
 
-## Quick Reference: Key Questions Players Might Ask
+### Quick Reference: Key Questions Players Might Ask
 
 **"Who do you work for?"** → "Vaud Qalix. A warlock. Pays well."
 

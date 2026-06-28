@@ -3,6 +3,7 @@ tags:
   - region/menagerie-coast
   - world/exandria
 ---
+
 ## 1. Main Shop
 
 Evaldo's Elegant Attire
@@ -13,7 +14,9 @@ Evaldo's Elegant Attire
 This is the shop of Evaldo Ide (secretly an ally of the Myriad and cooperating with Aelorin). His hair is always unkempt, surprising for someone who is otherwise fastidious in his work. His latest innovation is that he discovered how to use bat guano to treat the cuffs and collars of his suits to make them stand up to greater wear and tear.
 
 *DM Notes:*
+
 The shop contains numerous items of interest that careful players might notice:
+
 - The display tables near the windows showcase examples of finished work: embroidered cloaks, formal wear, and various accessories
 - A small lockbox beneath the fabric display (requires thieves' tools, DC 13) contains the day's earnings: 45 gold pieces and 112 silver pieces
 - A ledger on one of the display tables lists customer appointments and measurements
@@ -29,7 +32,9 @@ The shop contains numerous items of interest that careful players might notice:
 > This room stands in stark contrast to the orderly showroom. Moonlight spilling through a high window reveals a chaos of creativity: a broad workbench cluttered with half-finished projects, scattered patterns, and loose threads. Rolls of fabric lean haphazardly against one wall, while scraps of luxurious materials litter the floor. Papers and sketches are pinned to the walls in a seemingly random arrangement, their corners curling in the night air.
 
 *DM Notes:*
+
 A thorough search of the workshop reveals:
+
 - Several sets of high-quality tailoring tools worth 25 gold pieces each
 - A drawer containing various valuable notions: pearl buttons, gold thread, and silver clasps (total value 75 gold pieces)
 - Stacks of papers including customer measurements, orders, and financial records
@@ -44,7 +49,9 @@ A thorough search of the workshop reveals:
 > Your light reflects off a full-length mirror that dominates one wall of this intimate space. Bolts of fabric are neatly stacked in one corner, their rich textures suggesting quality even in the dim light. Plush cushions rest atop a carved wooden bench, while discarded garments hang limply from hooks on the wall. A small Marquesian carpet adds warmth to the wooden floor, its pattern echoing the larger one in the main room.
 
 *DM Notes:*
+
 Notable items in the fitting room include:
+
 - The mirror is of excellent quality and worth 100 gold pieces
 - Several discarded garments that appear to be customer try-ons, including one fine silk shirt worth 25 gold pieces
 - A forgotten coin purse containing 3 gold pieces and 7 silver pieces tucked between the cushions
@@ -53,6 +60,7 @@ Notable items in the fitting room include:
 - The bolts of fabric include some expensive materials worth 20-30 gold pieces per yard
 
 ## 15. Hidden Entrance to Basement
+
 A trio of cypress trees provides a welcome patch of shade beside the tailor shop, with a simple limestone bench tucked between them.An empty teacup sits on the bench.
 
 Investigation around the bench will reveal a small pile of used tea leaves on the ground behind the bench. The tailor apparently takes his tea breaks out here under the trees while sitting on this bench.

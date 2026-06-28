@@ -1,5 +1,6 @@
 ---
-
+tags:
+  - dm-tool
 ---
 
 | Category                 | Role/Job                 | Stat Block           | Source | Modifications   |

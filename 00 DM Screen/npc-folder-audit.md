@@ -1,6 +1,6 @@
-# NPC Folder Audit & Reorganization Recommendation
+## NPC Folder Audit & Reorganization Recommendation
 
-## Context for Continuing This Work
+### Context for Continuing This Work
 
 This document was produced through an extended conversation analyzing the `Characters/NPCs/` folder and related notes across the vault. The goal was to establish a principled approach to NPC note organization that balances atomicity with practicality.
 
@@ -9,10 +9,11 @@ This document was produced through an extended conversation analyzing the `Chara
 **The solution:** A tiered system where note complexity matches the NPC's campaign role, with a "three zoom levels" approach (always visible → collapsed callout → linked note) that respects how the DM actually reads and uses notes. Default-collapsed callouts (`> [!secret]-` and `> [!note]-`) serve as the middle tier for brief drill-down content.
 
 **Key design decisions made during the conversation:**
+
 - Obsidian callouts with `-` suffix (default collapsed) are the preferred way to hide detail in a single note, but only for relatively brief content without its own substructure
 - Stat blocks are omitted from vault NPC notes if the NPC is unlikely to be in combat; combat stats live in Roll20
 - The `#needs-work` tag is retained on all refactored notes until separately reviewed in a different process
-- When merging, content is streamlined for scannability — narrative prose is condensed to bullet-friendly summaries focused on what helps run the game
+- When merging, content is streamlined for scannability—narrative prose is condensed to bullet-friendly summaries focused on what helps run the game
 - Lyren Willowwhisper's character was developed in depth during this conversation: her role as the face of the Echoforge's institutional will, the "warmth and steel" characterization, and five specific "oh wait" trigger scenarios tied to shard locations. See the Lyren note for the full design rationale in the Hidden Information section.
 - The three-faction conflict (Echoforge right about goal/wrong about method, Malachite Cord right about danger/no alternative plan, Qalix wrong about everything) was clarified and informs NPC characterization.
 - **Name change:** Aelora Willowwhisper was renamed to **Veyda Willowwhisper** during this process. The Lyren note and other references should use the new name. Older vault notes may still reference "Aelora" and need updating.
@@ -23,7 +24,7 @@ This document was produced through an extended conversation analyzing the `Chara
 
 ---
 
-## Guiding Principles
+### Guiding Principles
 
 1. **Atomic when shared, consolidated when owned.** If content belongs to one NPC and you only access it through that NPC, it goes in the NPC note. If multiple unrelated notes need to reference it independently, it earns its own file.
 2. **Overview first, drill-down on demand.** The default view of any NPC should be a concise reference card. Depth lives in collapsed callouts (brief content) or linked notes (extended content with its own structure).
@@ -33,34 +34,37 @@ This document was produced through an extended conversation analyzing the `Chara
 
 ---
 
-## NPC Tiers
+### NPC Tiers
 
 Not all NPCs need the same level of documentation. The tier determines how much structure a note gets.
 
-### Tier 1: Major NPCs (Hub + Subnotes)
+#### Tier 1: Major NPCs (Hub + Subnotes)
+
 Characters with multiple active storylines, complex hidden agendas, or extended content that serves genuinely different use cases (running a scene vs. planning behind-the-scenes moves vs. tracking a spy network).
 
 **Current candidates:** Dreyara Drimvar, Vaud Qalix, Korfel Withrethin, Aveqtaro Thaan
 
 **Structure:** A hub note (concise reference card) with links to purposeful subnotes. Each subnote should represent a different *use case*, not just a different topic.
 
-### Tier 2: Supporting NPCs (Single Comprehensive Note)
+#### Tier 2: Supporting NPCs (Single Comprehensive Note)
+
 Characters the party interacts with regularly who have goals, secrets, and roleplay needs, but whose content fits comfortably in one note using collapsed callouts for deeper material.
 
 **Current candidates:** Aethor Kalisk, Lyren Willowwhisper, Calderax Dunhall, Radelia Caphax, Varnes Dwell, Lady Emer, Eledyr Dephar, Veyda Willowwhisper, Brother Kelmen
 
 **Structure:** Single note with Quick Reference always visible, roleplay always visible, and deeper content (background, hidden info, stats) in collapsed callouts.
 
-### Tier 3: Minor NPCs (Minimal Note or Table Row)
+#### Tier 3: Minor NPCs (Minimal Note or Table Row)
+
 Characters who serve a functional role but don't need deep documentation. A shopkeeper, a guard captain, a one-scene informant.
 
 **Structure:** Either a minimal note (Quick Reference + a few sentences) or a row in the Quick NPCs table. No subnotes, no elaborate templates.
 
 ---
 
-## Audit of Existing NPC-Adjacent Notes
+### Audit of Existing NPC-Adjacent Notes
 
-### Notes to MERGE into their parent NPC note
+#### Notes to MERGE into their parent NPC note
 
 | Note | Merge Into | Rationale |
 |------|-----------|-----------|
@@ -76,13 +80,13 @@ Characters who serve a functional role but don't need deep documentation. A shop
 | `Dreyara Drimvar's Background` | `Dreyara Drimvar` | Dreyara is Tier 1, but her background is a single narrative that doesn't represent a separate use case. Condense the key beats into a collapsed callout; cut the extended prose. |
 | `Possible Connections Between Qalix and the Myriad in Port Damali` | `Vaud Qalix` or relevant faction note | Reads as a brainstorming transcript. Extract any actionable intelligence not already captured elsewhere; delete the rest. |
 
-### Notes to RELOCATE (not NPC notes, wrong folder)
+#### Notes to RELOCATE (not NPC notes, wrong folder)
 
 | Note | Move To | Rationale |
 |------|---------|-----------|
 | `Aethor Kalisk's Workshop` | `Worlds/Exandria/` (appropriate location subfolder) | This is a location, not a character. |
 
-### Notes that are correctly atomic (keep as-is)
+#### Notes that are correctly atomic (keep as-is)
 
 These follow the "atomic when shared" principle—referenced from multiple unrelated contexts:
 
@@ -96,7 +100,7 @@ These follow the "atomic when shared" principle—referenced from multiple unrel
 
 ---
 
-## Recommended NPC Note Template (Tier 2)
+### Recommended NPC Note Template (Tier 2)
 
 ```markdown
 ---
@@ -144,28 +148,31 @@ This replaces the separate "Status" note.]
 [Keep existing Dataview blocks — low-cost, useful for planning.]
 ```
 
-### Key differences from current template:
-- **No transclusions of single-owner atomic notes** — that content is now inline
+#### Key differences from current template
+
+- **No transclusions of single-owner atomic notes**—that content is now inline
 - **Description and Roleplay combined** into one always-visible section
 - **Current Situation is inline**, not a link to a separate status note
 - **Hidden Information uses `> [!secret]-`** (collapsed by default)
 - **Background is a collapsed callout** for brief content, or contains a link for extended content
-- **No separate "Relationships" section** — relationships are implicit in Connected Elements and Current Situation
+- **No separate "Relationships" section**—relationships are implicit in Connected Elements and Current Situation
 
 ---
 
-## Tagging Rules
+### Tagging Rules
 
 **Going forward:**
+
 - `#npc` = this note IS an individual NPC character
 - Atomic notes about NPC-related topics use `#atomic` and/or content-specific tags, NOT `#npc`
 - `#needs-work` is retained on all notes that currently have it, even after refactoring, until separately reviewed
 
 ---
 
-## Execution Sequence
+### Execution Sequence
 
-### Phase 1: Merge and restructure individual NPCs
+#### Phase 1: Merge and restructure individual NPCs
+
 - [x] Consolidate all Aethor Kalisk satellite notes (`Status`, `Description`, `Arcane Refraction Research`, `Arcane Refraction Device`, `Recruiting Aethor Kalisk`) into a single Tier 2 note using the new template
 - [x] Update Lyren Willowwhisper: merge `Controversial Ascendancy` into a collapsed callout; replace `Recruiting Aethor` transclusion with brief summary + link; develop character voice, roleplay cues, and "oh wait" trigger scenarios
 - [x] Consolidate Radelia Caphax: merge `Current Status` and `What Radelia Knows` into the main note
@@ -174,6 +181,7 @@ This replaces the separate "Status" note.]
 - [x] Delete `Possible Connections Between Qalix and the Myriad in Port Damali` (brainstorming transcript; actionable content moved to Dreyara)
 
 **Files to delete after vault replacement:**
+
 - [x] `Aethor Kalisk Status`
 - [x] `Aethor Kalisk Description`
 - [x] `Arcane Refraction Research`
@@ -187,27 +195,32 @@ This replaces the separate "Status" note.]
 - [x] `Possible Connections Between Qalix and the Myriad in Port Damali`
 
 **Post-merge link updates needed:**
-- [x] Update `Veyda Willowwhisper` (formerly `Aelora Willowwhisper`) — remove reference to `Controversial Ascendancy` note
+
+- [x] Update `Veyda Willowwhisper` (formerly `Aelora Willowwhisper`)—remove reference to `Controversial Ascendancy` note
 - [x] Search vault for any remaining links to deleted files and redirect
 
-### Phase 2: Relocate misplaced notes
+#### Phase 2: Relocate misplaced notes
+
 - [x] Move `Aethor Kalisk's Workshop` to appropriate location folder in `Worlds/Exandria/`
 
-### Phase 3: Link cleanup
+#### Phase 3: Link cleanup
+
 - [x] After all merges and relocations: comprehensive search for broken links to deleted/merged notes
 
-### Phase 4: Tier 1 NPC restructuring
+#### Phase 4: Tier 1 NPC restructuring
+
 - [ ] Restructure `Aveqtaro Thaan` as a Tier 1 hub note with purposeful subnotes (complex multi-stage campaign role; significant existing content about Lorestone-Beacon integration and three-stage reveal)
 - [ ] Evaluate other Tier 1 candidates (`Vaud Qalix`, `Korfel Withrethin`) for similar restructuring
 
-### Phase 5: Broader audit
+#### Phase 5: Broader audit
+
 - [ ] Scan full `Characters/NPCs/` folder for other notes that aren't individual NPCs
 - [ ] Apply the same merge/relocate/keep principles
 - [ ] Apply new template to remaining NPCs incrementally as time allows
 
 ---
 
-## The "Should This Be a Separate Note?" Test
+### The "Should This Be a Separate Note?" Test
 
 For future note creation:
 

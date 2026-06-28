@@ -1,13 +1,15 @@
 ---
+date:
+next_session:
+previous_session:
+session_number:
 tags:
   - campaign/eryndor
   - session
-session_number:
-date:
-previous_session:
-next_session:
 ---
-# Quick Reference
+
+## Quick Reference
+
 > [!info] Essential Details
 > - Location(s): [[Tyodan River Bridge]]
 > - Active Plots: Goblin Leadership Dispute
@@ -15,39 +17,49 @@ next_session:
 > - Previous Session: [[Session 9 - Seeking the Compass]]
 > - Next Session: [[Sessions 12 & 13 - Finding the Compass]]
 
-# Pre-Session Review (30-45 min)
-## Previous Content
+## Pre-Session Review (30-45 min)
+
+### Previous Content
+
 - [ ] Read previous session notes
 - [ ] Check [[Seeds Planted]]
 - [ ] Review active plot threads
 - [ ] Note character goals/interests
 - [ ] Check faction moves/timelines
 
-## Current Status
-### Active Plots
+### Current Status
+
+#### Active Plots
+
 - Goblin Leadership Dispute:
   - Current state: Death of leader Viklorg, power vacuum
   - Next developments: Leadership contest or combat
   - Involved NPCs: All bridge goblins
 
-### PC Situations
+#### PC Situations
+
 - To be filled based on party composition and previous actions
 
-### Faction Status
+#### Faction Status
+
 - Bridge Goblins:
   - Recent actions: Loss of leader Viklorg
   - Planned moves: Determine new leadership
   - NPC involvement: All goblins present at bridge
 
-# Session Prep (1-2 hours)
-## Strong Start
+## Session Prep (1-2 hours)
+
+### Strong Start
+
 - Opening scene: Argument heard from bridge approach (DC 12 passive perception)
 - Purpose: Introduce conflict and allow player choice in resolution
 - Connected plots: Goblin leadership dispute
 - Required prep: Goblin dialogue options, contest mechanics
 
-## Core Content
-### Potential Scenes
+### Core Content
+
+#### Potential Scenes
+
 1. Initial Approach
   - Connected plots/NPCs: All goblins
   - Potential outcomes: Negotiation, contest, or combat
@@ -63,20 +75,23 @@ next_session:
   - Potential outcomes: Party victory/defeat, treasure discovery
   - Required prep: Combat stats, treasure placement
 
-### Secrets & Clues
+#### Secrets & Clues
+
 - [ ] Some rats in the contest are still alive
 - [ ] Two goblin snipers are hidden nearby
 - [ ] Viklorg's body is beneath the bridge
 - [ ] Contents of the [[Bag of Holding]]
 - [ ] Presence of valuable items on Viklorg's body
 
-### Location Details
+#### Location Details
+
 - The Bridge:
   - Key aspects: Waterfall, strategic crossing
   - Present NPCs: Seven visible goblins, two hidden
   - Hidden elements: Snipers, underwater treasure
 
-### Prepared NPCs
+#### Prepared NPCs
+
 | NPC Name | Current Goals | Key Information | Likely Reactions |
 |----------|---------------|-----------------|------------------|
 | Vaku | Claim leadership | Strongest goblin | Aggressive, confrontational |
@@ -86,14 +101,17 @@ next_session:
 | Bez | Judge by cooking | Terrible cook | Food-based solutions |
 | Mugor | Find quick solution | Voice of reason | Practical approach |
 
-### Combat Encounters
+#### Combat Encounters
+
 - Location: Bridge area
 - Monsters: 7 goblins (2 hidden)
 - Context: Leadership dispute
 - Objectives: Control bridge crossing
 
-# Session Notes
-## Rat-Eating Contest Rules
+## Session Notes
+
+### Rat-Eating Contest Rules
+
 - DC 12 medicine/animal handling reveals live rats
 - Constitution saves (DC 10 + 1 per rat)
 - Consequence table for failed saves
@@ -110,41 +128,50 @@ next_session:
 11. Projectile vomit (d10 poison damage)
 12. Sewer plague (DC 11 Con save in 1d4 days)
 
-## Treasure
+### Treasure
+
 - [[Bag of Holding]] contents
 - [[Arghyak Bow]]
 - [[Bone Merchant's Coin]]
 - Currency: 16 gp, 92 sp, 316 cp
 - Viklorg's body: Scroll of [[hypnotic-pattern|Hypnotic Pattern]], 88 gp
 
-# Post-Session Processing
-## Required Updates
+## Post-Session Processing
+
+### Required Updates
+
 - [ ] Update NPC locations/status
 - [ ] Note faction changes
 - [ ] Record plot developments
 - [ ] Update location states
 
-## Atomic Notes Needed
+### Atomic Notes Needed
+
 - [ ] New facts discovered
 - [ ] Relationships changed
 - [ ] Status updates needed
 - [ ] Plot elements revealed
 
-## Review and update:
+### Review and update
+
 - [ ] Relationship notes
 - [ ] Plot threads
 - [ ] Location states
 - [ ] NPC goals
 
-## Clean up:
+### Clean up
+
 - [ ] Remove outdated status info
 - [ ] Consolidate redundant notes
 - [ ] Update broken links
 - [ ] Add missing connections
 
-## Next Session Planning
-### Likely Next Steps
+### Next Session Planning
+
+#### Likely Next Steps
+
 Consider:
+
 - Immediate player goals stated:
 - Time-sensitive plot elements:
 - Faction reactions:
@@ -153,7 +180,8 @@ Consider:
 - Unresolved tensions:
 - Player expressed interests:
 
-### Prep Priority
+#### Prep Priority
+
 1. Must Have
   - Critical NPCs/locations: The Bridge, goblin NPCs
   - Active plot developments: Resolution of leadership

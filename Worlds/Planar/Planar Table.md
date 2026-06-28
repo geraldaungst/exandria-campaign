@@ -1,8 +1,10 @@
 ---
-
+tags:
+  - campaign/eryndor
 ---
 
-### Planar Table
+## Planar Table
+
 If players encounter a rift, you may roll on this table to ascertain which plane of existence it is connected to.
 
 | d20 | Plane of Existence       | Color    | Damage Type | Saving Throw |

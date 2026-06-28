@@ -1,13 +1,14 @@
 ---
-tags:
-  - needs-work
-  - npc
 affiliations:
   - Vesrah Tribe
   - "[[Ashari Riftguard]]"
 aliases:
   - melina
+tags:
+  - needs-work
+  - npc
 ---
+
 ![[melina.png|right|300]]
 
 - **Tribe:** Vesrah (Water Ashari)

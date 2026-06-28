@@ -1,22 +1,23 @@
 ---
-tags:
-  - campaign/eryndor
-  - player
 aliases:
   - Hesterian
 modifier: 2
+tags:
+  - campaign/eryndor
+  - player
 ---
-# Character Overview
+
+## Character Overview
 
 Hesterian Shyr is a [[Hollow One]] who was murdered and brought back to life under mysterious circumstances. She seeks justice for her death and the wrongful imprisonment of an innocent man, while grappling with her undead nature and fragmented memories.
 
-# Background
+## Background
 
-## Life Before Death
+### Life Before Death
 
 Hesterian worked at [[Harmony Hall]] in [[Port Damali]] when it operated as [[Grisul Adder]]'s brothel. She had developed a relationship with another performer, [[Xanaphia Lothliss]], and they planned to escape together from their situation under the patronage system.
 
-## The Murder
+### The Murder
 
 The full details of Hesterian's death can be found in [[Port Damali Murders]]. In summary:
 
@@ -25,31 +26,31 @@ The full details of Hesterian's death can be found in [[Port Damali Murders]]. I
 - Hesterian was brought back to life as a [[Hollow One]] with incomplete memories
 - Korfel framed an innocent stable boy, [[Rylan Estevez]], for the crime (detailed in [[Rylan Estevez Frame Job]])
 
-## Current Quest
+### Current Quest
 
 Hesterian knows her killer fled north, possibly to [[Zadash]], and she seeks justice. Her investigation has led her to express interest in infiltrating the [[Myriad]] criminal organization, though she doesn't yet know this will lead her directly to her murderer. See [[Hesterian Shyr's Infiltration]] for full plot details.
 
-## Family
+### Family
 
 Hesterian has a brother named [[Melthes]] who she believes is studying magic. Unknown to her, [[The Capture of Melthes|Melthes was taken by the Cerberus Assembly]], creating a potential intersection between her [[Rescue Melthes|personal quest]] and larger campaign events.
 
-## Mysterious Secret
+### Mysterious Secret
 
-### The Stone of Memory Visions
+#### The Stone of Memory Visions
 
 Hesterian experiences recurring dreams where an old stranger looks her dead in the eye, screams "Scourger!" at the top of their lungs, and then explodes into a column of flame.
 
 > [!secret]- Explanation (DM Only)
-> 
+>
 > The vision is actually an echo of a memory contained in a [[stone-of-memory|Stone of Memory]] that Hesterian carries, which she pickpocketed from a former client. The client was a Volstrucker agent, and the stone contains memories related to the Cerberus Assembly:
-> 
+>
 > **Memory of Ludinus Da'leth:** You are standing in a spacious, well-organized study, overwhelmed by the scent of old tomes and alchemical concoctions. Somehow you know this is the workshop of [[Isolene Fenzana]], one of Ludinus Da'leth's top researchers. Isolene is holding a battered and rusted artifact.
-> 
+>
 > This memory may become relevant when Hesterian's quest intersects with Assembly-related plots, particularly through [[Cree Deeproots]]' background with the Assembly and potential connection to [[Melthes]].
 
-# Character Traits
+## Character Traits
 
-## Hollow One Nature
+### Hollow One Nature
 
 As a Hollow One, Hesterian:
 
@@ -58,76 +59,76 @@ As a Hollow One, Hesterian:
 - Appears alive but with subtle signs of her undead nature
 - Struggles with questions of identity and purpose
 
-## Current Motivations
+### Current Motivations
 
 1. **Justice for Herself:** Finding and confronting [[Korfel Withrethin]]
 2. **Justice for Others:** Freeing [[Rylan Estevez]] from wrongful imprisonment
 3. **Family Concerns:** Learning the truth about [[Melthes]]'s disappearance
 4. **Understanding:** Discovering the meaning behind her mysterious visions
 
-## Skills and Abilities
+### Skills and Abilities
 
 - **Mastermind Rogue:** Skilled in deception, investigation, and social manipulation
 - **Criminal Background:** Understanding of underworld operations
 - **Performance:** Former entertainer with social skills
 - **Investigation:** Methodical approach to uncovering truth
 
-# Current Relationships
+## Current Relationships
 
-## Allied NPCs
+### Allied NPCs
 
 - **[[Grisul Adder]]:** Former employer, source of information about events after her death
 - **[[Annah]]:** Fellow performer at Harmony Hall, potential ongoing contact
 
-## Target NPCs
+### Target NPCs
 
 - **[[Korfel Withrethin]]:** Her murderer, now operating as "The Gentleman" in [[Zadash]]
 - **Unknown Myriad contacts:** Potential infiltration targets
 
-## Potential Allies
+### Potential Allies
 
 - **[[Cree Deeproots]]:** Korfel's employee who may have connections to [[Melthes]] through Assembly background
 - **[[Rylan Estevez]]:** Wrongfully imprisoned victim who could become ally if freed
 
-# Connected Plot Threads
+## Connected Plot Threads
 
-## Primary Plot
+### Primary Plot
 
 - **[[Hesterian Shyr's Infiltration]]:** Her quest to infiltrate the Myriad and find her killer
 
-## Related Plots
+### Related Plots
 
 - **[[The Capture of Melthes]]:** Her brother's fate with the Cerberus Assembly
 - **Justice for [[Rylan Estevez]]:** Freeing the wrongfully imprisoned stable boy
 - **[[stone-of-memory]] Mystery:** Understanding her visions and their connection to the Volstrucker
 
-## Future Intersections
+### Future Intersections
 
 - **Assembly Opposition:** Potential alliance with others who oppose the Cerberus Assembly
 - **Criminal Justice:** Using Myriad infiltration for broader law enforcement goals
 - **Family Reunification:** Discovering and potentially rescuing [[Melthes]]
 
-# Items of Significance
+## Items of Significance
 
 - **[[stone-of-memory]]:** Unknown source of her mysterious visions
 - **Evidence of [[Rylan Estevez Frame Job]]:** Information that could free an innocent man
 - **Personal effects from her former life:** Connections to [[Harmony Hall]] and [[Port Damali]]
 
-# Character Development Opportunities
+## Character Development Opportunities
 
-## Moral Complexity
+### Moral Complexity
 
 - Balancing personal revenge versus systematic justice
 - Deciding how far to go in criminal infiltration
 - Weighing individual versus group loyalties
 
-## Identity Questions
+### Identity Questions
 
 - Accepting her nature as a [[Hollow One]]
 - Integrating fragmented memories with current goals
 - Defining justice in a morally complex world
 
-## Relationship Dynamics
+### Relationship Dynamics
 
 - Building trust with living companions despite undead nature
 - Navigating complex power dynamics in criminal organizations
@@ -135,22 +136,24 @@ As a Hollow One, Hesterian:
 
 ---
 
-_For detailed background events, see the connected atomic notes and plot threads linked throughout this document._
+*For detailed background events, see the connected atomic notes and plot threads linked throughout this document.*
 
 ![[hesterian-token.png|right|200]] Pallid Elf Bard
 
 [Complete backstory here](https://docs.google.com/document/d/109vjUzyVcwu5tewMmHsuFFG6j3VoYXRjdbY-qQ2gkaU/edit)
 
-### Physical Description:
-- Height:  5’3”
+#### Physical Description
+
+- Height:  5'3"
 - Stature:  Shapely but slim/soft (not skinny)
 - Hair:  White
 - Eyes:  Red
 - Complexion:  Very pale
 - Appears to be a woman in her mid 20s
-- A scar running across her neck (caused by the patron’s attempt to kill her)
+- A scar running across her neck (caused by the patron's attempt to kill her)
 
-### Personality:
+#### Personality
+
 - Generally quiet and introverted
 - Turns on seductive charm for potential clients but this is more of a stage persona, which she finds exhausting
 - Likes small trinkets like buttons, dislikes expensive things.  She especially dislikes jewelry from admiring clientele, this is a reminder of how she became a hollow one and is traumatic for her.
@@ -158,43 +161,49 @@ _For detailed background events, see the connected atomic notes and plot threads
 - Uses her unsettling nature to scare off creepers.
 
 ![[hesterian.png|right|300]]
-### Stage Act:
+
+#### Stage Act
+
 - Sings, plays stringed instruments, and dances
 - Later acts in her show are more seductive and allude to her after hours work as a prostitute
 - More bawdy like a musical burlesque routine
 - Used to pickpocket unsuspecting men during the interactive parts of the burlesque routine
 
-### Present Day
+#### Present Day
+
 Hesterian works as a traveling musical entertainer. Her shows involve bawdy dance acts/burlesque as well as moving ballads and folk music.  If the tavern owner is amenable to bribes, she takes on clients in her lodging after the show.
 
-### Potential Backstory
-Hesterian was born in the war-torn Xarzith Kitril to a commoner family.  Her parents also welcomed 4 other children into the world.  Her oldest brother, Fia, died from an unknown illness for which the family could not afford medicine.  Their second youngest son, [[Melthes]], was permanently affected by the same illness, but survived.  Hesterian and her brother Zylas were spared from the illness.  Their mother welcomed a fourth child, a daughter named Taryn, a year after Fia’s death.
+#### Potential Backstory
 
-In order to keep up with the difficulty of supporting their sickly heir and a newborn, her parents decided to sell Hestarian and her brother, Zylas, the two healthiest children.  They intended to provide medical care and a trade to [[Melthes]] and an education to Taryn, once she was ready.  While the sale of children faced severe legal consequences in Xarzith Kitril, this only increased the price that the parents were able to ask of willing buyers.  They had lined up connections to two interested buyers and readily looked forward to a new and less scarce life.  Zylas was sold to a guildsman who bought the boy as a carpenter’s apprentice, as he had no children of his own.  Hesterian was sold to [[Grisul Adder]], a brothel owner who brought her to the Menagerie coast.  She has not seen her family since this late night illegal sale and resents her parents.
+Hesterian was born in the war-torn Xarzith Kitril to a commoner family.  Her parents also welcomed 4 other children into the world.  Her oldest brother, Fia, died from an unknown illness for which the family could not afford medicine.  Their second youngest son, [[Melthes]], was permanently affected by the same illness, but survived.  Hesterian and her brother Zylas were spared from the illness.  Their mother welcomed a fourth child, a daughter named Taryn, a year after Fia's death.
 
-Arriving at a [[Harmony Hall|brothel]] in [[Port Damali]], she was given a spot to sleep and tasked with cleaning and doing domestic chores.  Living among the prostitutes, who the madam referred to as “ladies”, they tried to shield her from the realities of their work until she got older.  Her singing and musicality encouraged the ladies to train her to sing and play various instruments.  She excelled at stringed instruments such as the viol, lyre, and dulcimer.
+In order to keep up with the difficulty of supporting their sickly heir and a newborn, her parents decided to sell Hestarian and her brother, Zylas, the two healthiest children.  They intended to provide medical care and a trade to [[Melthes]] and an education to Taryn, once she was ready.  While the sale of children faced severe legal consequences in Xarzith Kitril, this only increased the price that the parents were able to ask of willing buyers.  They had lined up connections to two interested buyers and readily looked forward to a new and less scarce life.  Zylas was sold to a guildsman who bought the boy as a carpenter's apprentice, as he had no children of his own.  Hesterian was sold to [[Grisul Adder]], a brothel owner who brought her to the Menagerie coast.  She has not seen her family since this late night illegal sale and resents her parents.
 
-As she approached adulthood, the madam of the brothel gave Hesterian the option to leave and find an honest living or join the ladies.  While the ladies of the brothel encouraged her to leave, Hesterian chose to stay as she didn’t know anyone outside of the brothel and feared being on the street and truly becoming an orphan.  She convinced the madam to allow her to devise a musical show to attract more clients to the brothel, sparing her from becoming one of the ladies full time.  Her bawdy dance and musical show was successful and attracted wealthier clientele, as the building was no longer solely a brothel but also a theatre.
+Arriving at a [[Harmony Hall|brothel]] in [[Port Damali]], she was given a spot to sleep and tasked with cleaning and doing domestic chores.  Living among the prostitutes, who the madam referred to as "ladies", they tried to shield her from the realities of their work until she got older.  Her singing and musicality encouraged the ladies to train her to sing and play various instruments.  She excelled at stringed instruments such as the viol, lyre, and dulcimer.
 
-During this time, Hesterian developed a romance with [[Xanaphia Lothliss|another of the ladies in the brothel]].  They knew that this was a bad idea, as they were only drawn to each other because of their shared struggles in the brothel.  They had little in common and probably would have disregarded each other in different circumstances.  Their thin connection was tested even further when the madam made the business decision to auction Hesterian—their featured performer in the musical revue—to the highest bidder.  The madam intended to gain a new revenue stream—and keep control of her budding starlets—by taking a large portion of the wealth drawn in by the ladies’ patrons.  Hesterian was auctioned to a [[Korfel Withrethin|merchant with ties to criminal organizations and illegal traders]].  While she still lived and worked at the brothel, her patron lavished her with gifts and took her on trips.  She intensely disliked his attempts to buy her love, resenting her status as a cash cow and prized possession.  The patron became attached, either to his fantasy of having an attractive companion or to having a subdued object to control, and wanted to have sole control of Hesterian, offering to pay a large sum to purchase her permanently from the madam.  This sum of money was much greater than the madam had ever expected, as Hesterian was not her most beautiful inventory, and she quickly agreed to the sale.
+As she approached adulthood, the madam of the brothel gave Hesterian the option to leave and find an honest living or join the ladies.  While the ladies of the brothel encouraged her to leave, Hesterian chose to stay as she didn't know anyone outside of the brothel and feared being on the street and truly becoming an orphan.  She convinced the madam to allow her to devise a musical show to attract more clients to the brothel, sparing her from becoming one of the ladies full time.  Her bawdy dance and musical show was successful and attracted wealthier clientele, as the building was no longer solely a brothel but also a theatre.
 
-In a fit of panic, Hesterian attempted to convince her lover to escape the brothel.  She planned to sell the expensive gifts from her patron and use the money to travel to another city and form new identities for both of them.  To earn money, they could perform music in taverns as traveling musicians.  Hesterian’s patronage, even with the possessiveness and potential loss of autonomy and dignity, had driven a wedge between them.  Her lover was reluctant to leave the brothel, as she wanted the luxury and comfort that the other performers had received from patrons.  In her jealousy and anger towards Hesterian’s attempts to throw away the thing that she desperately coveted, Hesterian’s lover told the patron of the plans to flee.  Not wanting to out herself as Hesterian’s lover and suffer the patron’s jealousy (or lose a sweet proposition of her own), she told the patron that Hesterian was fleeing with one of the madam’s stable boys.
+During this time, Hesterian developed a romance with [[Xanaphia Lothliss|another of the ladies in the brothel]].  They knew that this was a bad idea, as they were only drawn to each other because of their shared struggles in the brothel.  They had little in common and probably would have disregarded each other in different circumstances.  Their thin connection was tested even further when the madam made the business decision to auction Hesterian—their featured performer in the musical revue—to the highest bidder.  The madam intended to gain a new revenue stream—and keep control of her budding starlets—by taking a large portion of the wealth drawn in by the ladies' patrons.  Hesterian was auctioned to a [[Korfel Withrethin|merchant with ties to criminal organizations and illegal traders]].  While she still lived and worked at the brothel, her patron lavished her with gifts and took her on trips.  She intensely disliked his attempts to buy her love, resenting her status as a cash cow and prized possession.  The patron became attached, either to his fantasy of having an attractive companion or to having a subdued object to control, and wanted to have sole control of Hesterian, offering to pay a large sum to purchase her permanently from the madam.  This sum of money was much greater than the madam had ever expected, as Hesterian was not her most beautiful inventory, and she quickly agreed to the sale.
 
-The patron and Hesterian’s lover devised a plan.  Knowing that she needed to avoid arousing the patron’s suspicions of her connection to Hesterian and that Hesterian would be anxious to escape with her, they needed to draw Hesterian to a neutral location that would not be suspicious to either Hesterian or anyone who saw the three.  The lover told the patron that she would string Hesterian along for a celebratory night of drinks—a last hurrah—at a tavern before Hesterian ran away to make new life with the stable boy.  She would draw Hesterian to a room above the selected tavern so that he could exact revenge in the way he saw fit.  With this, she would only need to minimally lie to Hesterian, who would see through her charm quickly if the pretense were different.  In exchange, the lover would receive the merchant's patronage.
+In a fit of panic, Hesterian attempted to convince her lover to escape the brothel.  She planned to sell the expensive gifts from her patron and use the money to travel to another city and form new identities for both of them.  To earn money, they could perform music in taverns as traveling musicians.  Hesterian's patronage, even with the possessiveness and potential loss of autonomy and dignity, had driven a wedge between them.  Her lover was reluctant to leave the brothel, as she wanted the luxury and comfort that the other performers had received from patrons.  In her jealousy and anger towards Hesterian's attempts to throw away the thing that she desperately coveted, Hesterian's lover told the patron of the plans to flee.  Not wanting to out herself as Hesterian's lover and suffer the patron's jealousy (or lose a sweet proposition of her own), she told the patron that Hesterian was fleeing with one of the madam's stable boys.
 
-With the trap in place, Hesterian’s lover convinced her that she would wait for Hesterian at a tavern down the road from the patron’s home.  The patron would pretend to be called away on business for the rest of the evening providing time for Hesterian to escape.  Meeting her lover at the tavern, they celebrated with drink paid for with money stolen from Hesterian’s patron.  They went upstairs to sleep, both fairly intoxicated—so much so that her lover had forgotten that the patron waited upstairs.  Having grown angry and impatient, he was surprised to see both women emerge into their lodging passionately engaged.  Realizing that he had been lied to, and that the other woman was Hesterian’s lover, the patron attacked both women.  He slashed Hesterian’s neck and then beat the other woman out of rage, not intending to kill her but accidentally doing so out of spite.  He then fled from the tavern to avoid being implicated for their murders.
+The patron and Hesterian's lover devised a plan.  Knowing that she needed to avoid arousing the patron's suspicions of her connection to Hesterian and that Hesterian would be anxious to escape with her, they needed to draw Hesterian to a neutral location that would not be suspicious to either Hesterian or anyone who saw the three.  The lover told the patron that she would string Hesterian along for a celebratory night of drinks—a last hurrah—at a tavern before Hesterian ran away to make new life with the stable boy.  She would draw Hesterian to a room above the selected tavern so that he could exact revenge in the way he saw fit.  With this, she would only need to minimally lie to Hesterian, who would see through her charm quickly if the pretense were different.  In exchange, the lover would receive the merchant's patronage.
 
-The women were found, as their door had been left open.  Another lodger, who claimed to have magical abilities to raise the dead, attempted to save them.  They were unable to revive Hesterian’s lover, despite trying multiple times.  Hesterian was revived, but something went wrong.  She awoke as a Hollow One, with memories of her past life partially intact—she knew who killed her, what her profession had been, who her family had been, and who the dead woman was lying near her.  But, she did not remember the words that the patron had said in his fit of rage, scolding both women for betraying him.  She was left with a deep sense of anger and resentment for the man who killed both her and her lover on the night of their supposed escape.
+With the trap in place, Hesterian's lover convinced her that she would wait for Hesterian at a tavern down the road from the patron's home.  The patron would pretend to be called away on business for the rest of the evening providing time for Hesterian to escape.  Meeting her lover at the tavern, they celebrated with drink paid for with money stolen from Hesterian's patron.  They went upstairs to sleep, both fairly intoxicated—so much so that her lover had forgotten that the patron waited upstairs.  Having grown angry and impatient, he was surprised to see both women emerge into their lodging passionately engaged.  Realizing that he had been lied to, and that the other woman was Hesterian's lover, the patron attacked both women.  He slashed Hesterian's neck and then beat the other woman out of rage, not intending to kill her but accidentally doing so out of spite.  He then fled from the tavern to avoid being implicated for their murders.
 
-## Mysterious Secret
-I once had a dream where an old stranger looked me dead in the eye, screamed “Scourger!” at the top of their lungs, and then exploded into a column of flame.
+The women were found, as their door had been left open.  Another lodger, who claimed to have magical abilities to raise the dead, attempted to save them.  They were unable to revive Hesterian's lover, despite trying multiple times.  Hesterian was revived, but something went wrong.  She awoke as a Hollow One, with memories of her past life partially intact—she knew who killed her, what her profession had been, who her family had been, and who the dead woman was lying near her.  But, she did not remember the words that the patron had said in his fit of rage, scolding both women for betraying him.  She was left with a deep sense of anger and resentment for the man who killed both her and her lover on the night of their supposed escape.
 
-### Explanation?
+### Mysterious Secret
+
+I once had a dream where an old stranger looked me dead in the eye, screamed "Scourger!" at the top of their lungs, and then exploded into a column of flame.
+
+#### Explanation?
+
 The vision is actually an echo of a memory contained in a trinket Hesterian carries which she pickpocketed from a former client. The trinket is a [[stone-of-memory|Stone of Memory]], containing two memories. The client from whom she stole the item was a Volstrucker agent. The Stone has the following memory recorded:
 
 > [!info]- Memory of Ludinus Da'leth
-> You are standing in a spacious, well-organized study, you are overwhelmed by the scent of old tomes and alchemical concoctions. Somehow you know this is the workshop of  [[Isolene Fenzana]], one of Ludinus Da'leth's top researchers. Isolene is holding a battered and rusted artifact.
-> She murmurs, "This... this could be a link to the [[Rupture of the Molaesmyr Fey Crossing|Molaesmyr cataclysm]], but its revelation... too dangerous." A female half-elf with an elegant stature, Isolene has sharp, angular features and long, straight silver hair that cascades over her shoulders. Her eyes, a piercing blue, flicker with a keen intellect. She wears robes of deep blue adorned with silver thread, signifying her high rank within the [[Cerberus Assembly]].
+> You are standing in a spacious, well-organized study, you are overwhelmed by the scent of old tomes and alchemical concoctions. Somehow you know this is the workshop of [[Isolene Fenzana]], one of Ludinus Da'leth's top researchers. Isolene is holding a battered and rusted artifact.
+> She murmurs, "This… this could be a link to the [[Rupture of the Molaesmyr Fey Crossing|Molaesmyr cataclysm]], but its revelation… too dangerous." A female half-elf with an elegant stature, Isolene has sharp, angular features and long, straight silver hair that cascades over her shoulders. Her eyes, a piercing blue, flicker with a keen intellect. She wears robes of deep blue adorned with silver thread, signifying her high rank within the [[Cerberus Assembly]].
 > Peering over from the other side of the worktable, Isolene's assistant Gorak whispers in awe, "Is that fomorian?" Gorak is a male half-orc with a towering, muscular build, slightly greenish skin tone and prominent tusks. His dark hair is cut short, and his deep-set eyes are keen and observant. He wears heavy, dark, very practical robes, and he moves with a surprising grace for his size.
 > "Yes, but we must tread carefully," Isolene responds, her tone serious.
 > You feel yourself fidgeting nervously, and then you say, "Shouldn't the Assembly be informed?"
@@ -203,5 +212,6 @@ The vision is actually an echo of a memory contained in a trinket Hesterian carr
 
 The stone also contains an echo of a previous memory, which is the source of the vision. The holder of the stone was a Volstrucker agent, and the echo is recalling a moment when the agent was recognized by an associate. The flames in the vision are the mind's interpretation of the fragmented memory of the fear and panic the agent felt at the time of the event.
 
-## [[Melthes]] and the [[Cerberus Assembly]]
+### [[Melthes]] And the [[Cerberus Assembly]]
+
 Unknown to Hesterian, about a year after she was sold, two Volstrucker agents (one of whom happens to be the former client) arrived in Xarzith Kitril on a tip from a local informant. After about a week's investigation, [[The Capture of Melthes|they left with Melthes]]. No one in the city knows much more than that.

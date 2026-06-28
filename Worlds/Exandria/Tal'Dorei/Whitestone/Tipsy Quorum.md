@@ -2,6 +2,7 @@
 tags:
   - location
 ---
+
 Tavern in Whitestone
 
 [[Shauna Rual]] is the proprietor.

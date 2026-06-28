@@ -1,17 +1,24 @@
 ---
+aliases:
+  - Yrene
 tags:
   - needs-work
   - npc
   - region/menagerie-coast
-aliases:
-  - Yrene
 ---
-![[yrene-token.png|left|100]] **Species:** Elf  
-**Age:** 120 (appears to be in her early 30s by human standards)  
-**Skin Color:** Light tan  
-**Hair Color and Style:** Midnight black, flowing and straight, often kept loose but with a single braid adorned with silver beads running along the side  
-**Eyes:** Deep violet, with a hint of sadness  
-**Style of Dress:** Yrene dresses in dark, elegant robes that allow for freedom of movement, often accented with silver threads and small arcane symbols embroidered subtly into the fabric. She wears a cloak with a deep hood that can shadow her face, and her boots are soft-soled for silent movement.  
+
+![[yrene-token.png|left|100]] **Species:** Elf
+
+**Age:** 120 (appears to be in her early 30s by human standards)
+
+**Skin Color:** Light tan
+
+**Hair Color and Style:** Midnight black, flowing and straight, often kept loose but with a single braid adorned with silver beads running along the side
+
+**Eyes:** Deep violet, with a hint of sadness
+
+**Style of Dress:** Yrene dresses in dark, elegant robes that allow for freedom of movement, often accented with silver threads and small arcane symbols embroidered subtly into the fabric. She wears a cloak with a deep hood that can shadow her face, and her boots are soft-soled for silent movement.
+
 **Significant Item:** A delicate silver necklace with a moonstone pendant, a gift from [[Aelorin Nightshade]], signifying her favored status among his pupils.
 
 ![[yrene.png]] **Background:** Yrene was born in the Elven city of Syngorn, where she trained in both arcane and martial disciplines. Her natural talent for stealth and magic caught the attention of [[Aelorin Nightshade]], who recruited her into the Clasp. Over the decades, she became one of his most trusted operatives, known for her proficiency and loyalty.

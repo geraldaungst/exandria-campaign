@@ -1,11 +1,13 @@
 ---
+context:
+  - atomic
 created: 2025-01-10
-context: 
- - atomic
 ---
-# Core Information
 
-## Plan Outline
+## Core Information
+
+### Plan Outline
+
 1. [ ] Acquire the 2 known shards of the [[Lorestone of Eryndor]] not held by the [[Obsidian Echoforge]]
 	- [ ] Steal the shard from the Rexxentrum Archive (assigned to [[Dreyara Drimvar]])
 	- [ ] Buy the shard from [[Celdric Ambril]]
@@ -18,20 +20,21 @@ context:
 	- [ ] Gloomstalker ichor
 	- [ ] Residuum dust
 	- [ ] [[Arcanist's Prism]] from [[Korfel Withrethin|The Gentleman]]
-1. [ ] Conduct the assembly ritual and construct a stable [[Harmonic Planar Conduit]]
-2. [ ] Siphon the energy from a rift to feed his patron and increase Qalix's power
-3. [ ] Begin restoring the Ruins of Draconia
-4. [ ] Leverage existing alliances by demonstrating the new power of Draconia
-5. [ ] Declare himself [[Vaud Qalix|Dawnbringer of the New Draconian Dominion]].
+5. [ ] Conduct the assembly ritual and construct a stable [[Harmonic Planar Conduit]]
+6. [ ] Siphon the energy from a rift to feed his patron and increase Qalix's power
+7. [ ] Begin restoring the Ruins of Draconia
+8. [ ] Leverage existing alliances by demonstrating the new power of Draconia
+9. [ ] Declare himself [[Vaud Qalix|Dawnbringer of the New Draconian Dominion]].
 
-## Obstacles
+### Obstacles
+
 - The [[Obsidian Echoforge]] will not willingly release the shards
 - [[Archivist Ovedo]] will carefully protect the shard in their care
 - Two shards have yet to be discovered
 - The [[Ashari Riftguard]] and [[Malachite Cord]] are going to get in the way
 - Defending the rifts from creatures coming through from other planes
 
-## **Vaud's Incomplete Understanding**
+### **Vaud's Incomplete Understanding**
 
 While Vaud believes his plan is methodical and well-researched, his understanding contains several critical gaps that will ultimately doom his efforts:
 
@@ -49,39 +52,46 @@ While Vaud believes his plan is methodical and well-researched, his understandin
 
 **Resource Management Blind Spots**: Despite his substantial treasury and network of agents, Vaud has overcommitted resources to pursuing non-existent or impossible objectives. His 12 arcane researchers are studying flawed theories, his 75 artifact seekers are chasing false leads, and his spies are gathering intelligence based on fundamentally incorrect assumptions about how planar magic functions.
 
-# Connections
-## Source Note
+## Connections
+
+### Source Note
+
 [[Vaud Qalix]]
 
-## Related Atomic Notes
+### Related Atomic Notes
+
 ```dataview
 LIST
 FROM #atomic
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
 
-## Related NPCs
+### Related NPCs
+
 ```dataview
 LIST
 FROM #npc 
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
 
-## Related Plot Threads
+### Related Plot Threads
+
 ```dataview
 LIST
 FROM #plot  
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
 
-## Related Locations
+### Related Locations
+
 ```dataview
 LIST
 FROM #location 
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
 
-## Related Items/Artifacts
+### Related Items/Artifacts
+
 ```dataview
 LIST
 FROM #artifact 

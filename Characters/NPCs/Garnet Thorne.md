@@ -1,13 +1,14 @@
 ---
+aliases:
+  - Garnet
+current_location: "[[Whitestone]]"
+disposition: hostile
 tags:
   - npc
   - world/exandria
-  - region/tal'dorei
-aliases:
-  - "Garnet"
-current_location: "[[Whitestone]]"
-disposition: hostile
+  - "region/tal'dorei"
 ---
+
 ![[garnet-thorne.jpeg|right|300]]
 
 ***Medium humanoid (human), neutral***
@@ -21,7 +22,9 @@ disposition: hostile
 **Speed** 30 ft.
 
 ---
+
 home_city: Zadash
+
 region: Tal'Dorei
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -39,7 +42,8 @@ region: Tal'Dorei
 **Challenge** 1/2 (100 XP)
 
 ---
-### Traits
+
+## Traits
 
 **Hardworking.** Garnet has advantage on Constitution checks related to physical labor and tasks that require endurance.
 
@@ -47,13 +51,13 @@ region: Tal'Dorei
 
 **Craftsman's Pride.** Garnet can spend 1 hour crafting an exceptional brew that grants temporary benefits. A creature that drinks this brew gains a +1 bonus to Constitution and Wisdom saving throws for 8 hours.
 
-### Actions
+## Actions
 
-**Craftsman's Tools.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 3 (1d4 + 2) bludgeoning damage. Garnet can use her brewing tools as an improvised weapon if necessary.
+**Craftsman's Tools.** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 3 (1d4 + 2) bludgeoning damage. Garnet can use her brewing tools as an improvised weapon if necessary.
 
 **Command Brewery.** Garnet can command up to 3 workers in her brewery as a bonus action on her turn, directing them to perform tasks efficiently and effectively. These workers gain a +2 bonus to their ability checks related to brewing for the next 10 minutes.
 
-### Reactions
+## Reactions
 
 **Instinctive Command.** If an ally within 30 feet of Garnet is about to make an ability check related to brewing or business, she can use her reaction to give advice or instructions, granting advantage on the check.
 

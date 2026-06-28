@@ -2,14 +2,23 @@
 tags:
   - campaign/eryndor
 ---
-# Scenario Updates
+
+## Scenario Updates
+
 None yet
-# Timeline of Bangs
-## Scheduled Events
+
+## Timeline of Bangs
+
+### Scheduled Events
+
 - [ ] Event 1
-## Unscheduled Events
+
+### Unscheduled Events
+
 - [ ] Event 2
 
 ![[Character Story Beats#Story Beats for Planning]]
-## Background Events
+
+### Background Events
+
 - [ ] Event 3

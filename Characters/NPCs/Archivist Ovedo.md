@@ -1,15 +1,15 @@
 ---
+affiliations:
+  - "[[Cobalt Soul]]"
+aliases:
+  - Ovedo
+current_location: "[[Cobalt Soul Archive (Rexxentruum)]]"
+disposition: indifferent
 tags:
   - npc
   - hook
   - world/exandria
   - region/dwendalian-empire
-aliases:
-  - "Ovedo"
-affiliations:
-  - "[[Cobalt Soul]]"
-current_location: "[[Cobalt Soul Archive (Rexxentruum)]]"
-disposition: indifferent
 ---
 
 ![[ovedo.webp|right|300]]

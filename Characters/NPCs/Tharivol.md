@@ -4,14 +4,16 @@ tags:
   - npc
   - region/menagerie-coast
 ---
+
 ![[tharivol.jpeg|right|300]]
+
 Tharivol is a robust, silver-scaled dragonborn with piercing blue eyes. He wears armor adorned with symbols of Bahamut, the Platinum Dragon, signifying his devotion. He is [[Sariel|Sariel's]] brother.
 
 Backstory: Tharivol was a protector in Talonstadt, a refugee tent city near the [[Dwendalian Empire]], predominantly inhabited by Ravenite refugees from Draconia after its destruction in 811 PD​​​​. He ventured to Tal'Dorei seeking knowledge and aid to help his people rebuild and defend their community. His journey led him to train under the paladins of Bahamut, honing his skills and faith. Returning to Talonstadt, Tharivol brings with him not just enhanced abilities but also hope and resources for his people.
 
 He wants to return home to see his family again after a long absence.
 
-_Medium dragonborn (silver), lawful good_
+*Medium dragonborn (silver), lawful good*
 
 ---
 
@@ -45,11 +47,11 @@ _Medium dragonborn (silver), lawful good_
 
 **Divine Health.** Tharivol is immune to disease.
 
-### Actions
+## Actions
 
 **Multiattack.** Tharivol makes two melee attacks.
 
-**Longsword.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands, plus 3 (1d6) radiant damage on a hit.
+**Longsword.** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands, plus 3 (1d6) radiant damage on a hit.
 
 **Breath Weapon (Recharge 5–6).** Tharivol exhales destructive energy in a 15-ft. cone. Each creature in that area must make a DC 13 Constitution saving throw, taking 12 (3d8) cold damage on a failed save, or half as much damage on a successful one.
 

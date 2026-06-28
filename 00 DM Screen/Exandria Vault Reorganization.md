@@ -1,8 +1,8 @@
-# Vault Reorganization Tasks
+## Vault Reorganization Tasks
 
-## High Priority
+### High Priority
 
-### Create Lorestone Shard Status Tracker
+#### Create Lorestone Shard Status Tracker
 
 - [x] **Create new note:** `40 Artifacts/Lorestone Shard Status Tracker.md`
 - [x] **Add YAML frontmatter:** Set `processed: yes`, `tags: atomic`, `type: artifact`
@@ -20,7 +20,7 @@
 - [x] **Update main Lorestone note:** Add link to new tracker in "Known Locations" section
 - [x] **Update Assembling the Lorestone plot:** Add link to tracker
 
-### Session Notes Folder Structure
+#### Session Notes Folder Structure
 
 - [x] **Create folder:** `90 Session Notes/Completed Sessions/`
 - [x] **Create folder:** `90 Session Notes/Future Planning/`
@@ -44,26 +44,21 @@ SORT date ASC
 
 - [x] **Verify folder contents:** Confirm "99 Old Sessions" contains only archived material
 
-## Tag and Property Cleanup
+### Tag and Property Cleanup
 
-### Resolve Tag/Property Redundancy
+#### Resolve Tag/Property Redundancy
 
 **Decision needed:** Determine whether to keep `#to-process` tag, `processed: no` property, or both. Consider:
 
 - `processed` property allows three states: yes/no/pending
-    
 - `#to-process` tag is visible in graph view and easier to search
-    
 - Having both may be redundant unless you need the pending state
-    
-- [x] **Make decision:** Choose to keep tag only, property only, or both with clear use cases
-    
-- [x] **Document decision:** Add note to this file explaining the system
-    
-- [x] **Apply decision:** Use queries below to standardize
-    
 
-### Notes with Conflicting Status
+- [x] **Make decision:** Choose to keep tag only, property only, or both with clear use cases
+- [x] **Document decision:** Add note to this file explaining the system
+- [x] **Apply decision:** Use queries below to standardize
+
+#### Notes with Conflicting Status
 
 ```dataview
 TABLE tags, processed
@@ -77,7 +72,7 @@ LIMIT 10
 - [x] Review note content to determine actual status
 - [x] Remove `#to-process` tag OR change `processed` to `no`
 
-### Notes Missing Tags
+#### Notes Missing Tags
 
 ```dataview
 TABLE processed, file.folder
@@ -92,7 +87,7 @@ LIMIT 10
 - [ ] Review if work is incomplete
 - [ ] Add `#to-process` tag if incomplete OR set `processed: yes` if complete
 
-### Process Notes Tagged To-Process
+#### Process Notes Tagged To-Process
 
 ```dataview
 TABLE file.folder, processed
@@ -108,9 +103,9 @@ LIMIT 10
 - [x] If completed: Set `processed: yes` and remove `#to-process` tag
 - [x] If deleted: Remove file
 
-## Location Cleanup
+### Location Cleanup
 
-### Empty Location Templates
+#### Empty Location Templates
 
 ```dataview
 TABLE processed, status, controlling_faction
@@ -128,7 +123,7 @@ LIMIT 5
 - [ ] If relevant: Set `processed: yes`
 - [ ] If not relevant: Delete file
 
-### Locations Needing Description
+#### Locations Needing Description
 
 ```dataview
 TABLE processed, status
@@ -144,9 +139,9 @@ LIMIT 5
 - [ ] Add Current Situation section
 - [ ] Consider if Secrets & Clues section needs content
 
-## Faction Events Consolidation
+### Faction Events Consolidation
 
-### Identify Duplicate Event Descriptions
+#### Identify Duplicate Event Descriptions
 
 - [x] **Search vault:** Look for mentions of "The Massacre" across faction files
 - [x] **List duplicate files:** Note which faction files describe the same event
@@ -158,7 +153,7 @@ LIMIT 5
 - [x] **Update faction files:** Replace full descriptions with link to atomic note
 - [x] **Verify links:** Ensure all faction files link to new atomic note
 
-### Additional Faction Events
+#### Additional Faction Events
 
 ```dataview
 TABLE file.folder
@@ -174,9 +169,9 @@ LIMIT 5
 - [ ] If duplicated: Create atomic note for event (following structure above)
 - [ ] If unique: Leave in faction file or create atomic note for reference
 
-## NPC Status Updates
+### NPC Status Updates
 
-### NPCs Marked To-Process
+#### NPCs Marked To-Process
 
 ```dataview
 TABLE affiliations, status, location
@@ -194,9 +189,9 @@ LIMIT 8
 - [ ] Ensure Connected Elements dataview blocks are present
 - [ ] Set `processed: yes` when complete
 
-## Opponent Files
+### Opponent Files
 
-### Opponents Needing Processing
+#### Opponents Needing Processing
 
 ```dataview
 TABLE race, class, affiliations
@@ -215,9 +210,9 @@ LIMIT 5
 - [ ] Add Connected Elements dataview blocks
 - [ ] Set `processed: yes` when complete
 
-## Plot Thread Maintenance
+### Plot Thread Maintenance
 
-### Incomplete Plot Threads
+#### Incomplete Plot Threads
 
 ```dataview
 TABLE plot_stage, priority

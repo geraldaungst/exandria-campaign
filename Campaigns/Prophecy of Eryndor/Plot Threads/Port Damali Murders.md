@@ -1,27 +1,28 @@
 ---
+context:
+created: 2025-09-28
 tags:
   - atomic
   - campaign/eryndor
-created: 2025-09-28
-context:
 ---
-# Core Information
 
-## The Port Damali Murders
+## Core Information
 
-### **The Background Context**
+### The Port Damali Murders
+
+#### **The Background Context**
 
 [[Korfel Withrethin]], a merchant with criminal ties, had purchased exclusive patronage of [[Hesterian Shyr (Dot)]] from [[Grisul Adder]]'s brothel for a substantial sum. Korfel was possessive and controlling, wanting sole ownership of Hesterian, which she deeply resented. The patronage system had created tension between Hesterian and her lover [[Xanaphia Lothliss]], as Xanaphia was jealous of the luxury and comfort that came with having a patron.
 
-### **The Escape Plan**
+#### **The Escape Plan**
 
 In a fit of panic at the prospect of permanent ownership, Hesterian planned to escape with Xanaphia. She intended to sell expensive gifts from Korfel and use the money to travel to another city, creating new identities as traveling musicians. However, Xanaphia was reluctant to leave, coveting the luxury that patronage could provide.
 
-### **The Betrayal**
+#### **The Betrayal**
 
 Driven by jealousy and anger at Hesterian's willingness to "throw away" what she desperately wanted, Xanaphia betrayed the escape plan to Korfel. To avoid arousing suspicion about her own relationship with Hesterian, she lied and told Korfel that Hesterian was planning to flee with "one of the madam's stable boys" ([[Rylan Estevez]]).
 
-### **The Trap**
+#### **The Trap**
 
 Korfel and Xanaphia devised a plan to draw Hesterian to a neutral location where Korfel could exact revenge:
 
@@ -30,10 +31,12 @@ Korfel and Xanaphia devised a plan to draw Hesterian to a neutral location where
 - **The Location:** A tavern where Xanaphia could lure Hesterian to a rented room above the main floor
 - **The Exchange:** In return for this betrayal, Xanaphia would receive Korfel's patronage
 
-### **The Murders**
+#### **The Murders**
 
-**Location:** A tavern in [[Port Damali]], in a rented room above the main floor  
-**Date:** Approximately 2-3 years ago  
+**Location:** A tavern in [[Port Damali]], in a rented room above the main floor
+
+**Date:** Approximately 2-3 years ago
+
 **Victims:** [[Hesterian Shyr (Dot)]] and [[Xanaphia Lothliss]]
 
 **What happened:**
@@ -49,7 +52,7 @@ Korfel and Xanaphia devised a plan to draw Hesterian to a neutral location where
 - He beat Xanaphia in a fit of rage, not intending to kill her but accidentally doing so out of spite
 - Korfel fled the scene, leaving the door open
 
-### **The Discovery and Resurrection**
+#### **The Discovery and Resurrection**
 
 - The women were found by other tavern lodgers because their door had been left open
 - Another lodger, who claimed to have magical abilities to raise the dead, attempted to save them
@@ -60,26 +63,26 @@ Korfel and Xanaphia devised a plan to draw Hesterian to a neutral location where
 - **What she doesn't remember:** The angry words that Korfel spoke during his fit of rage, scolding both women for betraying him
 - She was left with a deep sense of anger and resentment for the man who killed both her and her lover on the night of their supposed escape
 
-### **Immediate Aftermath**
+#### **Immediate Aftermath**
 
 - Korfel gave authorities a false tip pointing to [[Rylan Estevez]], an innocent stable boy from the brothel
 - Evidence (the bloody murder weapon) was planted on Rylan
 - Rylan was quickly convicted and sentenced to 10 years in prison
 - Korfel used the chaos to flee [[Port Damali]] and eventually establish himself in [[Zadash]]
 
-### **Key Evidence Lost/Hidden**
+#### **Key Evidence Lost/Hidden**
 
 - Rylan's leather bracelet (a gift from Xanaphia) proves their innocent connection
 - No investigation into Korfel's motive or whereabouts
 - Witnesses who could place Korfel at the scene never questioned
 
-# Source Context
+## Source Context
 
 This event is the central trauma in [[Hesterian Shyr (Dot)]]'s backstory and the foundation for her current quest for justice/revenge.
 
-# Connections
+## Connections
 
-## Related Characters
+### Related Characters
 
 - [[Hesterian Shyr (Dot)]] - Victim, now Hollow One seeking justice
 - [[Korfel Withrethin]] - Perpetrator, now "The Gentleman" in [[Zadash]]
@@ -88,27 +91,27 @@ This event is the central trauma in [[Hesterian Shyr (Dot)]]'s backstory and the
 - [[Grisul Adder]] - Brothel owner, unaware of the true circumstances
 - [[Annah]] - Harmony Hall employee who knew about the escape plan
 
-## Related Locations
+### Related Locations
 
 - [[Port Damali]] - Location of murders
 - [[Harmony Hall]] - Former brothel, center of relationships
 - [[Zadash]] - Korfel's current location and power base
 
-## Related Plot Threads
+### Related Plot Threads
 
 - [[Hesterian Shyr's Infiltration]] - Hesterian's quest leads back to her murderer
 - Justice for [[Rylan Estevez]] - Innocent man wrongly imprisoned
 - Potential legal/political ramifications when truth emerges
 
-## Related Items
+### Related Items
 
 - Murder weapon (planted on Rylan)
 - Rylan's leather bracelet from Xanaphia (evidence of innocent connection)
 - [[stone-of-memory]] - Contains echoes that may relate to the trauma
 
-# Connections
+## Connections
 
-## Related Atomic Notes
+### Related Atomic Notes
 
 ```dataview
 LIST
@@ -116,7 +119,7 @@ FROM #atomic
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
 
-## Related NPCs
+### Related NPCs
 
 ```dataview
 LIST
@@ -124,7 +127,7 @@ FROM #npc
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
 
-## Related Plot Threads
+### Related Plot Threads
 
 ```dataview
 LIST
@@ -132,7 +135,7 @@ FROM #plot
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
 
-## Related Locations
+### Related Locations
 
 ```dataview
 LIST
@@ -140,7 +143,7 @@ FROM #location
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
 
-## Related Items/Artifacts
+### Related Items/Artifacts
 
 ```dataview
 LIST

@@ -1,5 +1,6 @@
 ---
-
+tags:
+  - campaign/eryndor
 ---
 
 | d100  | Rift Size  | Lorestone Range | Diameter   | Success Threshold | Total Successes | Riftcages Necessary to Stabilize |     |
@@ -10,4 +11,3 @@
 | 90-96 | Huge       | 45 ft           | 10-20 feet | 30                | 4               | 4                                |     |
 | 97-99 | Gargantuan | 60 ft           | 20-60 feet | 35                | 6               | 6                                |     |
 | 00    | Mega-Rift  | 60 ft           | >60 feet   | 40                | 10              | 10                               |     |
-

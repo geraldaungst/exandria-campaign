@@ -1,9 +1,9 @@
 ---
-tags:
-  - needs-work
 cssclasses:
   - wide-table
-tags: campaign/eryndor
+tags:
+  - needs-work
+  - campaign/eryndor
 ---
 
 | Title                        | Genre                      | Mood                    | BPM | Thematic elements                                                                                                                          |

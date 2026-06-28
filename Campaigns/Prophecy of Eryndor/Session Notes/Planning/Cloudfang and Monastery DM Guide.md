@@ -2,9 +2,10 @@
 tags:
   - campaign/eryndor
 ---
-# CLOUDFANG KEEP & MONASTERY - DM GUIDE
 
-## CURRENT SITUATION
+## CLOUDFANG KEEP & MONASTERY - DM GUIDE
+
+### CURRENT SITUATION
 
 **Party Status:**
 
@@ -21,9 +22,9 @@ tags:
 
 ---
 
-## PHASE 1: LADY EMER COMBAT & SURRENDER
+### PHASE 1: LADY EMER COMBAT & SURRENDER
 
-### Combat Tactics
+#### Combat Tactics
 
 - Falls back to Stone Garden (area E5) when losing
 - Warns Dreyara via bird if left alone for a round or more
@@ -31,7 +32,7 @@ tags:
 - Lair action: Rift Pulse (custom planar-themed)
 - Fights strategically but NOT to death
 
-### Surrender (at ~40 HP)
+#### Surrender (at ~40 HP)
 
 > "Stop! I yield! You want information? The prisoner? My research? Take it all. Just spare my life."
 
@@ -51,26 +52,26 @@ tags:
 
 ---
 
-## PHASE 2: PARTY CHOICES FOR LADY EMER
+### PHASE 2: PARTY CHOICES FOR LADY EMER
 
-### A. Kill Her
+#### A. Kill Her
 
 - No warning possible to Dreyara
 - Dreyara arrives to silent Keep → withdraws cautiously
 - No additional intel from interrogation
 
-### B. Release Her
+#### B. Release Her
 
 - Flees immediately
 - Sends warning to Dreyara once safe
 - Dreyara arrives fully prepared or avoids Keep
 
-### C. Hold Her Prisoner
+#### C. Hold Her Prisoner
 
 - **She WILL try to warn Dreyara**
 - See "Warning Methods" below
 
-### D. Try to Hire Her (Unlikely)
+#### D. Try to Hire Her (Unlikely)
 
 - Requires 50,000+ gp AND protection from Qalix
 - Persuasion DC 20 (with resources) or DC 25 (without)
@@ -78,7 +79,7 @@ tags:
 
 ---
 
-## LADY EMER'S WARNING METHODS
+### LADY EMER'S WARNING METHODS
 
 **Most Likely: Trained Creature**
 
@@ -100,10 +101,10 @@ tags:
 
 - If Dreyara arrives before warning sent
 - Specific phrases in "normal" conversation
-- "The weather has been _particularly cold_ lately"
+- "The weather has been *particularly cold* lately"
 - **Party Insight DC 22**: Realize she's using codes
 
-### Preventing Warning
+#### Preventing Warning
 
 **Effective Countermeasures:**
 
@@ -115,20 +116,20 @@ tags:
 
 ---
 
-## PHASE 3: VARNES DWELL INFORMATION
+### PHASE 3: VARNES DWELL INFORMATION
 
 **After Being Freed (Immediately):**
 
 > "Listen carefully. I don't have much time before I need to rest.
-> 
+>
 > Six months ago, the Cobalt Soul hired me to assess security at their Rexxentrum Archive. During that work, I discovered a Lorestone shard they were keeping secret - Shard Five. The Archivist, Ovedo, paid me extremely well for my discretion.
-> 
+>
 > That's why Dreyara captured me. Qalix learned I had worked at the Archive. They've been trying to extract the information under torture and memory magic. I held out, but I don't know what I revealed.
-> 
+>
 > If they know about Shard Five, Dreyara will move on Rexxentrum. Soon. That shard is in danger.
-> 
+>
 > I know there are other things you might want here - that dagger, that confrontation, information from her. But you can't protect everything. You have to choose.
-> 
+>
 > I'll be fine here for a few days. The others too. This Keep is secure now. But you? You need to move. Fast."
 
 **What This Creates:**
@@ -140,7 +141,7 @@ tags:
 
 ---
 
-## PHASE 4: DREYARA'S ARRIVAL & DECISION
+### PHASE 4: DREYARA'S ARRIVAL & DECISION
 
 **Timeline:**
 
@@ -148,7 +149,7 @@ tags:
 - Party defeats Lady Emer: Day 16-17
 - Dreyara arrives Keep: Day 18
 
-### Dreyara's Approach (Standard Protocol)
+#### Dreyara's Approach (Standard Protocol)
 
 **Step 1: Advance Scout (200-300 yards ahead)**
 
@@ -178,13 +179,13 @@ tags:
 - They're likely waiting for ambush
 - **Decision: Withdraw immediately, flee east**
 
-### Dreyara's Professional Choice
+#### Dreyara's Professional Choice
 
 **She Flees East (Not Track)**
 
 **Why:**
 
-- Has Shard 6 (protecting it is priority #1)
+- Has Shard 6 (protecting it is priority 1)
 - Qalix has resources to respond with force
 - If Varnes freed → he knows about Shard 5
 - Must warn Qalix immediately
@@ -198,9 +199,9 @@ tags:
 
 ---
 
-## PHASE 5: AVALANCHE & MONASTERY CONVERGENCE
+### PHASE 5: AVALANCHE & MONASTERY CONVERGENCE
 
-### Timeline
+#### Timeline
 
 **Day 18: Dreyara Flees East**
 
@@ -229,12 +230,14 @@ tags:
 - Party sees: fresh snow, impassable road
 - Bodies partially exposed in snow
 
-### Avalanche Site Discovery
+#### Avalanche Site Discovery
 
 > The mountain pass narrows here. The way forward is buried under tons of snow and ice. Recent avalanche - maybe a day or two ago.
 
-**Perception DC 12:** Spot bodies in snow (2-3 visible)  
-**Perception DC 15:** Professional travelers, good gear, Empire-style  
+**Perception DC 12:** Spot bodies in snow (2-3 visible)
+
+**Perception DC 15:** Professional travelers, good gear, Empire-style
+
 **Investigation DC 14:** Killed 24-36 hours ago, tracks lead toward Monastery before fresh snow covered them
 
 **Key Information:**
@@ -247,9 +250,9 @@ tags:
 
 ---
 
-## PHASE 6: MONASTERY ENCOUNTER
+### PHASE 6: MONASTERY ENCOUNTER
 
-### Dreyara's Status When Party Arrives
+#### Dreyara's Status When Party Arrives
 
 **Physical:**
 
@@ -273,52 +276,52 @@ tags:
 - Many of them throughout structure
 - Been looking for exit, hasn't found safe route
 
-### Discovery Scene Options
+#### Discovery Scene Options
 
 **Option A: Party Enters, Finds Her Resting**
 
 > Heavy doors groan open. Ancient stone halls stretch into darkness. As you move deeper, you hear labored breathing.
-> 
+>
 > Around a corner: a woman sits against the wall, dark hair matted with blood and snow. Cloak torn, one arm cradled. And strapped to that arm - Drawg recognizes it - your blade.
-> 
+>
 > Her eyes snap open. Green eyes, sharp despite exhaustion. She sees you. Hand moves toward dagger.
-> 
+>
 > Then freezes.
-> 
-> From deeper in the Monastery: _click-click-click-click_
-> 
+>
+> From deeper in the Monastery: *click-click-click-click*
+>
 > Her hand drops away. "Tell me you have a way out of here."
 
 **Option B: Both Encounter During Phase Spider Attack**
 
 > Combat sounds ahead. Steel on chitin. A woman's voice, sharp commands.
-> 
+>
 > You round corner: woman fighting phase spider, backing away, wounded and exhausted. Spider is winning. She hasn't seen you yet.
-> 
-> Then _click-click-click_ from behind YOU. Another spider, phasing through wall.
-> 
+>
+> Then *click-click-click* from behind YOU. Another spider, phasing through wall.
+>
 > Woman spots your group. Recognition flashes - and Drawg sees: your blade, strapped to her arm.
-> 
+>
 > Two spiders. Two groups. One room.
 
 **Option C: Evidence First, Then Discovery**
 
 > You find signs of recent occupation:
-> 
+>
 > - Bloodied bandages, still damp
 > - Empty ration wrappers
 > - Bedroll, still warm
 > - Phase spider ichor and fresh sword cuts
 > 
 > Investigation checks reveal: injured person, alone, been fighting spiders, systematically exploring for exit
-> 
-> You follow the trail...
+>
+> You follow the trail…
 
 ---
 
-## PARTY CHOICES AT MONASTERY
+### PARTY CHOICES AT MONASTERY
 
-### Immediate Options
+#### Immediate Options
 
 **1. Attack Dreyara on Sight**
 
@@ -352,16 +355,16 @@ tags:
 - Leverage: she needs help surviving
 - She's pragmatic, might negotiate
 
-### Dreyara's Calculation
+#### Dreyara's Calculation
 
 > "These are enemies of Qalix. Killed Lady Emer, freed Varnes. Under normal circumstances, fight or flee.
-> 
+>
 > But: wounded, alone, outnumbered, trapped in spider nest. They're fresh and numerous.
-> 
-> Attack = I die.  
-> Flee = Where? I die to spiders.  
+>
+> Attack = I die.
+> Flee = Where? I die to spiders.
 > Cooperate = Maybe we all survive. Then deal with enmity later.
-> 
+>
 > Qalix needs Shard 6. Can't complete mission if dead. Temporary alliance."
 
 **She Will:**
@@ -381,9 +384,9 @@ tags:
 
 ---
 
-## KEY NPCS - QUICK REFERENCE
+### KEY NPCS - QUICK REFERENCE
 
-### Lady Emer
+#### Lady Emer
 
 - CR 11 Medusa (modified)
 - Pragmatic researcher, not fanatic
@@ -392,7 +395,7 @@ tags:
 - Knows: Qalix hired her, Dreyara is spymaster, basic Lorestone research
 - Doesn't know: Qalix's true goal, other shard locations, Luxon Beacon's true nature
 
-### Dreyara Drimvar
+#### Dreyara Drimvar
 
 - CR 10 Elite Assassin
 - Former Volstrucker, now Qalix's spymaster
@@ -401,7 +404,7 @@ tags:
 - Passive Perception 20
 - At Monastery: ~70 HP, 1 exhaustion, wounded from avalanche
 
-### Varnes Dwell
+#### Varnes Dwell
 
 - Ilya's brother
 - Security consultant captured 3 weeks ago
@@ -411,36 +414,36 @@ tags:
 
 ---
 
-## CONSEQUENCES TRACKER
+### CONSEQUENCES TRACKER
 
-### If Lady Emer Dies
+#### If Lady Emer Dies
 
 - Dreyara gets no warning (beyond dead guardians)
 - No intel from interrogation
 - Keep is secured but empty
 
-### If Lady Emer Warns Dreyara
+#### If Lady Emer Warns Dreyara
 
 - Dreyara knows: powerful adventurers, freed Varnes
 - Withdraws from Keep immediately
 - Flees east more cautiously
 - Still caught by avalanche
 
-### If Party Waits at Keep
+#### If Party Waits at Keep
 
 - Dreyara arrives Day 18
 - Withdraws without investigating (too risky)
 - Party realizes she's not coming Day 19
 - Party leaves 1-2 days behind her
 
-### If Party Leaves Immediately
+#### If Party Leaves Immediately
 
 - Dreyara arrives to empty Keep Day 18
 - Begins fleeing east same day
 - Avalanche hits her Day 18-19
 - Party encounters avalanche site Day 19-20
 
-### Either Way
+#### Either Way
 
 - Both groups converge at Monastery
 - Dreyara wounded and alone
@@ -449,7 +452,7 @@ tags:
 
 ---
 
-## CRITICAL REMINDERS
+### CRITICAL REMINDERS
 
 **Dead Guardians = No Surprise**
 
@@ -459,7 +462,7 @@ tags:
 
 **Dreyara Has Shard 6**
 
-- This is her #1 priority to protect
+- This is her 1 priority to protect
 - Will flee east to secure it rather than track party
 - Professional choice: preserve critical asset
 
@@ -483,9 +486,9 @@ tags:
 
 ---
 
-## PREP CHECKLIST
+### PREP CHECKLIST
 
-### Before Session
+#### Before Session
 
 - [ ] Lady Emer combat stats and surrender speech ready
 - [ ] Varnes's information speech prepared
@@ -494,7 +497,7 @@ tags:
 - [ ] Dreyara's wounded status and dialogue
 - [ ] Phase spider encounter basics
 
-### During Session
+#### During Session
 
 - [ ] Track Lady Emer's HP (surrender at ~40)
 - [ ] Note whether she successfully warns Dreyara
@@ -503,7 +506,7 @@ tags:
 - [ ] Run Monastery discovery scene appropriate to circumstances
 - [ ] Let players drive Dreyara interaction (attack/negotiate/etc.)
 
-### After Session
+#### After Session
 
 - [ ] Note: Did they attack or negotiate?
 - [ ] Track: What information did they extract?
@@ -513,30 +516,30 @@ tags:
 
 ---
 
-## END STATE OPTIONS
+### END STATE OPTIONS
 
-### Outcome A: Dreyara Killed
+#### Outcome A: Dreyara Killed
 
 - Party has Blade of Maroth Fenn (Drawg's quest complete)
 - Party may have Shard 6 (huge win)
 - Qalix loses valuable spymaster
 - Race to Rexxentrum is unopposed
 
-### Outcome B: Dreyara Captured
+#### Outcome B: Dreyara Captured
 
 - Interrogation opportunities
 - Leverage against Qalix
 - Potential intelligence goldmine
 - Question: what to do with prisoner?
 
-### Outcome C: Temporary Alliance Holds
+#### Outcome C: Temporary Alliance Holds
 
 - Both escape Monastery alive
 - Race to Rexxentrum begins
 - Ongoing tension and competition
 - Possible future confrontation
 
-### Outcome D: Dreyara Escapes
+#### Outcome D: Dreyara Escapes
 
 - Blade still with her (Drawg's quest continues)
 - Shard 6 secure with her

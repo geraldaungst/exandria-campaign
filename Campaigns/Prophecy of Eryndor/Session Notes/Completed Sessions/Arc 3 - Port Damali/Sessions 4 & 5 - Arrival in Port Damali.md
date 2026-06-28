@@ -1,18 +1,20 @@
 ---
-- no
-  - yes
-tags: campaign/eryndor
+tags:
+  - campaign/eryndor
 ---
-# Characters
-- [x]  Review the characters
-- [x] Review the [[Seeds Planted]] list
-- [x]  Review notes from last session
 
-# Strong Start
+## Characters
+
+- [x] Review the characters
+- [x] Review the [[Seeds Planted]] list
+- [x] Review notes from last session
+
+## Strong Start
+
 Qilynn and Drawg are out late at night roaming her old haunts where she knows that [[Yrene Shadowthorn|Yrene]] used to hang out.
 
-# Scenes
+## Scenes
+
 - [[Sessions 7 & 8 - Tracking Yrene]]
 
 ### Session Notes
-- 

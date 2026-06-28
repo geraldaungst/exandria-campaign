@@ -1,23 +1,23 @@
-# DM Vault Reorganization Plan
+## DM Vault Reorganization Plan
 
-# NEXT STEP
+## NEXT STEP
 
 I am ready to begin Phase 8 of the refactoring plan. I want to do this carefully and deliberately to make sure everything is done completely and correctly. This will likely involve a lot of tedious updates, so I don't want to rush or make errors on my end.
 
 First, analyze the entire phase and the contents of the vault. As part of your analysis, review the "Exandria Vault Reorganization" document to see if any of that applies to this phase of the vault restructuring. Consider the best sequence to do the necessary tasks in this phase and tell me what you recommend completing first.
 
-## Overview
+### Overview
 
 This plan consolidates your DM notes into a single vault that supports multiple campaigns, multiple worlds, and (when needed) multiple game systems—while maintaining clean Claude project separation through selective GitHub syncing.
 
-### Current State
+#### Current State
 
-- **Exandria campaign** — active, weekly, synced to GitHub/Claude project
-- **Tyranny of Dragons** — completed, needs archiving
-- **Keln** — homebrew world in development
-- **Future capacity** — one-shots, side games, additional campaigns
+- **Exandria campaign**—active, weekly, synced to GitHub/Claude project
+- **Tyranny of Dragons**—completed, needs archiving
+- **Keln**—homebrew world in development
+- **Future capacity**—one-shots, side games, additional campaigns
 
-### Goals
+#### Goals
 
 1. Single vault for all DM content
 2. Easy filtering to work on one campaign at a time
@@ -28,7 +28,7 @@ This plan consolidates your DM notes into a single vault that supports multiple 
 
 ---
 
-## Target Folder Structure
+### Target Folder Structure
 
 ```
 DM Vault/
@@ -103,7 +103,7 @@ DM Vault/
     └── Templates (old)/
 ```
 
-### Key Structural Decisions
+#### Key Structural Decisions
 
 **Campaign-specific vs. Shared content:**
 
@@ -126,9 +126,9 @@ DM Vault/
 
 ---
 
-## Tag Taxonomy
+### Tag Taxonomy
 
-### Core Content Tags (Keep from current structure)
+#### Core Content Tags (Keep from current structure)
 
 ```
 #npc          — any non-player character
@@ -139,7 +139,7 @@ DM Vault/
 #player       — player character info
 ```
 
-### Campaign Tags (New)
+#### Campaign Tags (New)
 
 ```
 #campaign/exandria        — current Exandria campaign
@@ -148,7 +148,7 @@ DM Vault/
 #campaign/oneshot/[name]  — individual one-shots
 ```
 
-### World Tags (New)
+#### World Tags (New)
 
 ```
 #world/exandria
@@ -157,21 +157,21 @@ DM Vault/
 #world/planar
 ```
 
-### System Tags (Use sparingly)
+#### System Tags (Use sparingly)
 
 ```
 #system/dnd5e        — only for mechanically-specific content
 #system/daggerheart  — if/when needed
 ```
 
-### Workflow Tags (Keep from current structure)
+#### Workflow Tags (Keep from current structure)
 
 ```
 #to-process   — needs attention
 #atomic       — standalone note
 ```
 
-### Tag Application Rules
+#### Tag Application Rules
 
 1. **Every content note gets:** content tag + campaign tag (if campaign-specific) + world tag (if world-specific)
 2. **Session notes:** `#campaign/exandria` only (implicitly campaign-specific)
@@ -180,7 +180,7 @@ DM Vault/
 5. **World locations:** `#location #world/exandria` (add campaign tag only if party has visited)
 6. **System tags:** Only on notes with stat blocks or mechanical content that wouldn't translate
 
-### Example Tag Combinations
+#### Example Tag Combinations
 
 |Note|Tags|
 |---|---|
@@ -191,7 +191,7 @@ DM Vault/
 |Blade of Maroth Fenn|`#artifact #world/exandria`|
 |Homebrew monster stat block|`#npc #system/dnd5e`|
 
-### NPC Location Tracking
+#### NPC Location Tracking
 
 Since NPCs move around but you still need to find "who's in Zadash right now," use frontmatter properties rather than folder structure:
 
@@ -216,10 +216,10 @@ locations_visited:
 
 **Key properties:**
 
-- `home_base` — where they're from (static)
-- `current_location` — where they are now (update as campaign progresses)
-- `affiliations` — organizations, factions, groups
-- `locations_visited` — everywhere they've been (for "who might know this place")
+- `home_base`—where they're from (static)
+- `current_location`—where they are now (update as campaign progresses)
+- `affiliations`—organizations, factions, groups
+- `locations_visited`—everywhere they've been (for "who might know this place")
 
 **Querying by location:**
 
@@ -239,18 +239,18 @@ WHERE contains(locations_visited, "Port Damali")
 
 ---
 
-## Migration Sequence
+### Migration Sequence
 
-### Phase 1: Preparation (Before Moving Files)
+#### Phase 1: Preparation (Before Moving Files)
 
-- [x] **Backup everything** — full copy of current vault
+- [x] **Backup everything**—full copy of current vault
 - [x] **Delete confirmed cruft:**
     - `copilot-conversations/` (review first for anything worth saving)
     - `copilot-custom-prompts/`
     - `z_textgenerator/`
     - Root-level `z_compendium/` and `z_Assets/` (you mentioned handling this)
 - [x] **Create new folder structure** in current vault (empty folders)
-- [x] **Update .gitignore** for new structure:
+- [x] **Update.gitignore** for new structure:
 
 ```gitignore
 # Ignore everything by default
@@ -280,7 +280,7 @@ DM Screen/
 .DS_Store
 ```
 
-### Phase 2: Restructure Exandria Campaign
+#### Phase 2: Restructure Exandria Campaign
 
 This is your active campaign, so we'll be careful.
 
@@ -293,26 +293,29 @@ This is your active campaign, so we'll be careful.
 - [x] **Move status docs:** `05 General Plans/001 Campaign Status Documents/` → `Campaigns/Exandria/Status/`
 - [x] **Move DM Screen:** `00 DM Screen/` → `DM Screen/`
 
-### Phase 3: Restructure World Content
+#### Phase 3: Restructure World Content
 
-#### **Verification Tasks**
+##### **Verification Tasks**
+
 - [x] Verify Characters/NPCs/, Characters/Adversaries/, Characters/Factions/ folders exist
 - [x] Verify Worlds/Exandria/ structure matches geographic organization (Wildemount subfolders: Dwendalian Empire, Menagerie Coast, Xorhas, Greying Wildlands)
 - [x] Verify Items/ folder exists
 
-#### **Content Migration Tasks**
+##### **Content Migration Tasks**
+
 - [x] Move items: `40 Artifacts/` → `Items/`
 - [x] Move factions: `19 Factions/` → `Characters/Factions/`
 - [x] Move NPCs: `25 NPCs/` → `Characters/NPCs/`
 - [x] Move adversaries: `21 Opponents/` → `Characters/Adversaries/`
 - [x] Move locations: `60 Locations/` → `Worlds/Exandria/` (preserve internal folder structure)
 
-#### **Post-Migration**
+##### **Post-Migration**
+
 - [x] Verify links still work (spot check 5-10 notes across different types)
 - [x] Update any hardcoded folder references in Dataview queries
 - [x] Delete empty numbered folders once content verified in new locations
 
-### Phase 4: Add Campaign Tags
+#### Phase 4: Add Campaign Tags
 
 Use find-and-replace to add campaign tags to frontmatter:
 
@@ -327,13 +330,13 @@ Replace: tags:\n  - campaign/exandria
 
 **For NPCs/Locations that are campaign-specific:** Manually review and add `#campaign/exandria` to notes that are specific to the current campaign vs. general Exandria lore.
 
-### Phase 5: Reference Materials
+#### Phase 5: Reference Materials
 
 - [x] **Move templates:** `z_Reference/z_Templates/` → `Templates/`
 - [x] **Consolidate reference:** Keep `z_Reference/` with Compendium, Mechanics, Clippings
 - [x] **Remove Folder Overview plugin code** from notes (optional—can do incrementally)
 
-### Phase 6: Import Tyranny of Dragons
+#### Phase 6: Import Tyranny of Dragons
 
 - [x] **Create `Campaigns/Tyranny of Dragons/`**
 - [x] **Move content from old vault** into this folder
@@ -341,17 +344,17 @@ Replace: tags:\n  - campaign/exandria
 - [x] **Move to `z_Archive/Tyranny of Dragons/`** if you want it out of active view
 - [x] **Move any Faerun locations** to `Worlds/Faerun/`
 
-### Phase 7: Set Up Keln
+#### Phase 7: Set Up Keln
 
 - [x] **Create `Campaigns/Keln/`** with Session Notes, Worldbuilding, etc.
 - [x] **Create `Worlds/Keln/`** for world content
-- [x] **Begin building** — new content goes in appropriate locations with `#campaign/keln` and `#world/keln` tags
+- [x] **Begin building**—new content goes in appropriate locations with `#campaign/keln` and `#world/keln` tags
 
-### Phase 8: File Audit & Cleanup
+#### Phase 8: File Audit & Cleanup
 
 You have a backlog of unprocessed files (`processed: no` or `#to-process`). Before spending time processing everything, let's identify what's actually needed.
 
-#### Part A: Frontmatter Audit
+##### Part A: Frontmatter Audit
 
 **Problem:** Frontmatter that duplicates tags, properties that are never queried, fields that stay empty and add visual noise.
 
@@ -382,9 +385,9 @@ dv.list([...allKeys].sort());
 
 Common culprits:
 
-- `type: npc` AND `#npc` — pick one (tags are more searchable)
-- `campaign: exandria` AND `#campaign/exandria` — use tag only
-- `status: active` AND `#active` — pick one
+- `type: npc` AND `#npc`—pick one (tags are more searchable)
+- `campaign: exandria` AND `#campaign/exandria`—use tag only
+- `status: active` AND `#active`—pick one
 
 **Recommended minimal frontmatter:**
 
@@ -418,15 +421,15 @@ The `processed: yes/no/pending` system creates ongoing maintenance. Ask yourself
 
 Alternative approaches:
 
-- **Delete it entirely** — if a note is in the vault and tagged, it's "processed enough"
-- **Use a tag instead** — `#inbox` for new notes needing attention, remove tag when done
-- **Time-box it** — anything unprocessed after 3 months gets archived or deleted
+- **Delete it entirely**—if a note is in the vault and tagged, it's "processed enough"
+- **Use a tag instead**—`#inbox` for new notes needing attention, remove tag when done
+- **Time-box it**—anything unprocessed after 3 months gets archived or deleted
 
 The goal is reducing friction, not tracking completion status of every note.
 
-#### Part B: Template Simplification
+##### Part B: Template Simplification
 
-**Principle:** A template should be a _thinking prompt_, not a form to fill out.
+**Principle:** A template should be a *thinking prompt*, not a form to fill out.
 
 **When templates help:**
 
@@ -532,7 +535,7 @@ The simplified version:
 - Lets connections emerge organically rather than forcing empty Dataview tables
 - Fits on one screen
 
-#### Part C: File Triage
+##### Part C: File Triage
 
 **Step 1: Generate inventory of unprocessed files**
 
@@ -549,11 +552,11 @@ Working together, we'll sort unprocessed files into:
 
 |Category|Action|
 |---|---|
-|**Essential**|Must process — active plot threads, current NPCs, locations party will visit|
-|**Reference**|Keep as-is — useful but doesn't need full template treatment|
-|**Redundant**|Delete or merge — duplicates, outdated info, superseded notes|
-|**Archive**|Move to z_Archive — completed content, old campaign material|
-|**Stub**|Decide: flesh out or delete — placeholder notes that never developed|
+|**Essential**|Must process—active plot threads, current NPCs, locations party will visit|
+|**Reference**|Keep as-is—useful but doesn't need full template treatment|
+|**Redundant**|Delete or merge—duplicates, outdated info, superseded notes|
+|**Archive**|Move to z_Archive—completed content, old campaign material|
+|**Stub**|Decide: flesh out or delete—placeholder notes that never developed|
 
 **Step 3: Identify redundant/mergeable files**
 
@@ -585,7 +588,7 @@ Replace: processed: reference
 
 **Step 5: Process remaining essentials**
 
-After triage, the remaining "essential" files get proper attention—but with _simplified_ templates, not the elaborate ones.
+After triage, the remaining "essential" files get proper attention—but with *simplified* templates, not the elaborate ones.
 
 ---
 
@@ -597,42 +600,42 @@ After triage, the remaining "essential" files get proper attention—but with _s
 
 ---
 
-## Dataview Query Updates
+### Dataview Query Updates
 
 Your existing Dataview queries assume single-campaign structure. Here's how to make them campaign-aware:
 
-### Current: Task rollup from numbered folders
+#### Current: Task rollup from numbered folders
 
 ```dataviewjs
 const pages = dv.pages('"05 General Plans"').where(p => p.file.tasks.length > 0);
 ```
 
-### Updated: Task rollup from campaign folder
+#### Updated: Task rollup from campaign folder
 
 ```dataviewjs
 const campaign = "Exandria"; // Change per dashboard
 const pages = dv.pages(`"Campaigns/${campaign}"`).where(p => p.file.tasks.length > 0);
 ```
 
-### Current: NPC list
+#### Current: NPC list
 
 ```dataview
 LIST FROM #npc
 ```
 
-### Updated: NPCs for specific campaign
+#### Updated: NPCs for specific campaign
 
 ```dataview
 LIST FROM #npc AND #campaign/exandria
 ```
 
-### Updated: All NPCs in a world (any campaign)
+#### Updated: All NPCs in a world (any campaign)
 
 ```dataview
 LIST FROM #npc AND #world/exandria
 ```
 
-### Dynamic Campaign Detection
+#### Dynamic Campaign Detection
 
 For dashboards that should auto-detect their campaign context:
 
@@ -652,7 +655,7 @@ if (campaign) {
 }
 ```
 
-### Connected Elements (Updated)
+#### Connected Elements (Updated)
 
 Your template pattern for connected elements can stay largely the same, but consider adding campaign filtering:
 
@@ -666,9 +669,9 @@ This still works because it follows links rather than relying on folder structur
 
 ---
 
-## GitHub / Claude Project Strategy
+### GitHub / Claude Project Strategy
 
-### Current Project (Exandria)
+#### Current Project (Exandria)
 
 Your existing GitHub sync continues to work. Update `.gitignore` to exclude other campaigns:
 
@@ -680,7 +683,7 @@ Worlds/Faerun/
 Worlds/Keln/
 ```
 
-### Future Projects
+#### Future Projects
 
 **Option A: Separate repos per campaign**
 
@@ -696,7 +699,7 @@ Worlds/Keln/
 - Pro: Shared content stays in sync
 - Con: More git complexity
 
-**Option C: Single repo, selective .gitignore**
+**Option C: Single repo, selective.gitignore**
 
 - One repo, swap `.gitignore` when switching Claude project focus
 - Pro: Simplest git setup
@@ -710,28 +713,28 @@ Worlds/Keln/
 
 ---
 
-## Plugin Cleanup
+### Plugin Cleanup
 
-### Keep
+#### Keep
 
-- **Dataview** — essential for your queries
-- **Templater** — template automation
-- **Tag Wrangler** — tag management (renaming, merging)
+- **Dataview**—essential for your queries
+- **Templater**—template automation
+- **Tag Wrangler**—tag management (renaming, merging)
 
-### Remove or Disable
+#### Remove or Disable
 
-- **Copilot** — replaced by Claude project
-- **Text Generator** — not in use
-- **Folder Overview** — can be replaced by Dataview queries if needed
+- **Copilot**—replaced by Claude project
+- **Text Generator**—not in use
+- **Folder Overview**—can be replaced by Dataview queries if needed
 
-### Consider
+#### Consider
 
-- **Workspaces** (core plugin) — for switching campaign contexts
-- **Bookmarks** (core plugin) — for quick access to campaign dashboards
+- **Workspaces** (core plugin)—for switching campaign contexts
+- **Bookmarks** (core plugin)—for quick access to campaign dashboards
 
 ---
 
-## Verification Checklist
+### Verification Checklist
 
 After migration, verify:
 
@@ -745,7 +748,7 @@ After migration, verify:
 
 ---
 
-## Quick Reference: Where Does This Go?
+### Quick Reference: Where Does This Go?
 
 |Content Type|Location|Tags|Key Properties|
 |---|---|---|---|
@@ -764,7 +767,7 @@ After migration, verify:
 
 ---
 
-## Next Steps
+### Next Steps
 
 1. Review this plan and flag anything that doesn't fit your workflow
 2. Back up your vault

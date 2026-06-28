@@ -2,6 +2,7 @@
 tags:
   - campaign/eryndor
 ---
+
 Ladies, gentlemen, and distinguished guests from near and far, welcome to the heart of Whitestone, where the whispers of the past and the promises of tomorrow dance in the wind.
 
 On this hallowed eve, we stand together at the cusp of seasons, where the last kiss of winter's chill graces our cheeks, and the burgeoning embrace of spring awaits just beyond the horizon.

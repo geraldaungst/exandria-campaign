@@ -1,6 +1,6 @@
-# Exandria Climate Chart by Region and Season
+## Exandria Climate Chart by Region and Season
 
-## Tal'Dorei
+### Tal'Dorei
 
 | Region | Spring | Summer | Autumn | Winter |
 |--------|--------|--------|--------|--------|
@@ -13,7 +13,7 @@
 | **Stormcrest Mountains** | 40-55°F (4-13°C)<br>Warming, snow melt, thunderstorms | 55-70°F (13-21°C)<br>Mild days, frequent electrical storms | 40-60°F (4-16°C)<br>Cooling rapidly, early snow | 15-35°F (-9 to 2°C)<br>Heavy snow, lightning storms, high winds |
 | **Verdant Expanse** | 55-70°F (13-21°C)<br>Abundant rainfall, new growth | 70-85°F (21-29°C)<br>Warm, humid, afternoon showers | 60-75°F (16-24°C)<br>Mild, pleasant, colorful foliage | 40-55°F (4-13°C)<br>Cool rains, occasional frost |
 
-## Wildemount
+### Wildemount
 
 | Region | Spring | Summer | Autumn | Winter |
 |--------|--------|--------|--------|--------|
@@ -25,7 +25,7 @@
 | **Xhorhas** | 55-70°F (13-21°C)<br>Ash storms, strange weather | 75-90°F (24-32°C)<br>Hot, dry, dust devils | 60-75°F (16-24°C)<br>Cooling, electrical storms | 35-50°F (2-10°C)<br>Cold winds, magical weather anomalies |
 | **Zemni Fields** | 45-60°F (7-16°C)<br>Melting snow, mud, fog | 65-80°F (18-27°C)<br>Warm days, cool nights | 50-65°F (10-18°C)<br>Autumn colors, early frost | 20-35°F (-7 to 2°C)<br>Snow, ice, frigid winds |
 
-## Marquet
+### Marquet
 
 | Region | Spring | Summer | Autumn | Winter |
 |--------|--------|--------|--------|--------|
@@ -35,7 +35,7 @@
 | **Emerald Gulch** | 65-80°F (18-27°C)<br>Flash floods, growing vegetation | 85-100°F (29-38°C)<br>Hot, dry, rare thunderstorms | 70-85°F (21-29°C)<br>Pleasant evenings, dry conditions | 50-65°F (10-18°C)<br>Mild, occasional cool rains |
 | **Marquesian Sea Coast** | 65-75°F (18-24°C)<br>Warming waters, gentle breezes | 80-95°F (27-35°C)<br>Hot, humid, tropical storms | 70-80°F (21-27°C)<br>Cooling breezes, occasional rain | 55-70°F (13-21°C)<br>Mild, increased ocean storms |
 
-## Issylra
+### Issylra
 
 | Region | Spring | Summer | Autumn | Winter |
 |--------|--------|--------|--------|--------|
@@ -43,9 +43,8 @@
 | **Dormaloch Wilderness** | 45-60°F (7-16°C)<br>Spring floods, emerging growth | 60-75°F (16-24°C)<br>Pleasant, afternoon thunderstorms | 50-65°F (10-18°C)<br>Early frost, autumn colors | 25-40°F (-4 to 4°C)<br>Snow, cold winds, ice storms |
 | **Smoolder Mountains** | 35-50°F (2-10°C)<br>Thawing snow, rock slides | 50-65°F (10-18°C)<br>Mild days, cool nights | 40-55°F (4-13°C)<br>Early snow, high winds | 10-30°F (-12 to -1°C)<br>Heavy snow, blizzards, avalanches |
 
-## Shattered Teeth
+### Shattered Teeth
 
 | Region | Spring | Summer | Autumn | Winter |
 |--------|--------|--------|--------|--------|
 | **Island Archipelago** | 60-75°F (16-24°C)<br>Warming waters, tropical rain | 75-90°F (24-32°C)<br>Hot, humid, hurricane season | 65-80°F (18-27°C)<br>Cooling breezes, decreasing storms | 55-70°F (13-21°C)<br>Mild, occasional storms |
-

@@ -24,7 +24,7 @@
 
 **Advanced Commands**
 
-- `!group-init --ids <token_id> [<token_id> ...]` - Roll initiative for specific token IDs
+- `!group-init --ids <token_id> [<token_id> …]` - Roll initiative for specific token IDs
 - `!group-init --adjust <value>` - Adjust all turn order values by specified amount
 - `!group-init --adjust-current <value>` - Adjust only the current turn's initiative
 
@@ -164,7 +164,7 @@ After importing 5E-OGL preset, common commands include:
 
 - `--ignore-selected` - Don't modify selected tokens
 - `--current-page` - Only modify tokens on current page
-- `--ids <token_id> [...]` - Specify tokens by ID
+- `--ids <token_id> […]` - Specify tokens by ID
 
 **Multi-line Format:**
 
@@ -188,7 +188,7 @@ After importing 5E-OGL preset, common commands include:
 - `!aura` - Open configuration menu with toggle buttons
 - `!aura on` - Turn health coloring on
 - `!aura off` - Turn health coloring off
-- `!aura ?` - Show help/settings
+- `!aura?` - Show help/settings
 - `!aura update` - Force update of all tokens
 
 **Configuration Commands**

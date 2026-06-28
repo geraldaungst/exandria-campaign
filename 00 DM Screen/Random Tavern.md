@@ -1,11 +1,12 @@
 ---
-tags: dm-tool
+tags:
+  - dm-tool
 ---
+
 <iframe
 		height = 700
 		width = 100%
-		padding  = 0 0
+		padding = 0 0
 		margins = 0 0
 		style="background-color: #FFFFFF"
 		src="https://thecoppersanctum.github.io/thecoppersanctum/taverns.html"></iframe>
-		

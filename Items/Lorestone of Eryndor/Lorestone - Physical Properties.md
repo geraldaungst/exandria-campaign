@@ -1,12 +1,13 @@
 ---
+context:
+created: 2025-09-27
 tags:
   - atomic
   - campaign/eryndor
   - needs-work
-created: 2025-09-27
-context:
 ---
-# Core Information
+
+## Core Information
 
 A 2-foot diameter obsidian disc engraved with the [[01 The Prophecy|Prophecy]] of [[Eryndor]] in an ancient dialect of Elvish. To read the prophecy requires both:
 
@@ -17,50 +18,62 @@ Individual shards of the Lorestone register as magic items. When the holder of a
 
 *For complete mechanical details, see [[Lorestone - Magic Item Blocks]]*
 
-# Source Context
+## Source Context
+
 Brief note about where this information originated (session, NPC conversation, etc.)
 
-# Relationship Details
+## Relationship Details
+
 [Delete section if not a relationship note]
-## Nature of Connection
+
+### Nature of Connection
+
 Brief description of how these elements relate
 
-## Impact/Implications
+### Impact/Implications
+
 How this relationship affects the campaign
 
-# Connections
-## Source Note
+## Connections
+
+### Source Note
+
 [[Lorestone of Eryndor]]
 
-## Related Atomic Notes
+### Related Atomic Notes
+
 ```dataview
 LIST
 FROM #atomic
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
 
-## Related NPCs
+### Related NPCs
+
 ```dataview
 LIST
 FROM #npc 
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
 
-## Related Plot Threads
+### Related Plot Threads
+
 ```dataview
 LIST
 FROM #plot  
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
 
-## Related Locations
+### Related Locations
+
 ```dataview
 LIST
 FROM #location 
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
 
-## Related Items/Artifacts
+### Related Items/Artifacts
+
 ```dataview
 LIST
 FROM #artifact 

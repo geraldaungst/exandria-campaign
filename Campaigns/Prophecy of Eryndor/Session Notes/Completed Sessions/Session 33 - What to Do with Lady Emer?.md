@@ -1,29 +1,29 @@
 ---
+date: 2025-11-16
+next_session:
+  - - Session 34
+previous_session:
+  - - Session 32 - Confronting Lady Emer
+session_number: 33
 tags:
   - campaign/eryndor
   - needs-work
   - session
-session_number: 33
-date: 2025-11-16
-previous_session:
-  - - Session 32 - Confronting Lady Emer
-next_session:
-  - - Session 34
 ---
 
-# Quick Reference
+## Quick Reference
 
 > [!info] Essential Details
-> 
+>
 > - **Location**: Cloudfang Keep - Library (Area E6)
 > - **Active Plots**: Lady Emer interrogation, Varnes Dwell rescue, Luxon Beacon discovery, Qalix network investigation
 > - **Key NPCs**: Lady Emer (prisoner), Varnes Dwell (petrified), Wyvern (in garden)
 > - **Previous Session**: Party defeated Lady Emer, secured her with immovable shield, discovered VQ letters and ledger
 > - **Current Situation**: Lady Emer is hogtied, manacled, head covered (blind), completely helpless. Party just read Qalix correspondence and is mid-interrogation.
 
-# Pre-Session Review (30-45 min)
+## Pre-Session Review (30-45 min)
 
-## Previous Session Recap
+### Previous Session Recap
 
 **What Happened:**
 
@@ -48,9 +48,9 @@ next_session:
 - Stone chest exists (locked, trapped, no key)
 - Multiple petrified people in stone garden (party saw them earlier)
 
-## Current Status
+### Current Status
 
-### Lady Emer's Situation
+#### Lady Emer's Situation
 
 - **Physical State**: See [[Lady Emer Conversation Progression#Initial State]]
     - Completely helpless (blind, immobilized, cannot cast)
@@ -59,7 +59,7 @@ next_session:
 - **Mental State**: Calculating survival, assessing captors' intentions
 - **Leverage**: Information about Qalix network, ability to restore Varnes (if freed), knowledge of chest puzzle
 
-### Party's Situation
+#### Party's Situation
 
 - All relatively healthy after combat
 - Have secure prisoner
@@ -67,7 +67,7 @@ next_session:
 - Likely goals: Learn about VQ/Qalix, find/free Varnes, investigate the research
 - Drawg wants to tame the wyvern (separate goal)
 
-### Active Tensions
+#### Active Tensions
 
 - Lady Emer is helpless but still proud - will negotiate from weakness
 - Party doesn't know full extent of what she's done (petrified prisoners)
@@ -75,9 +75,9 @@ next_session:
 - Dreyara could arrive "soon" (party doesn't know timing)
 - Wyvern in garden (hostile to party, loyal to Emer)
 
-# Session Prep (1-2 hours)
+## Session Prep (1-2 hours)
 
-## Strong Start Options
+### Strong Start Options
 
 **Resolve Insight Check First** (RECOMMENDED) Open with: "Drawg, you wanted to Insight check Lady Emer's statement 'I'm just a researcher.' Go ahead and roll."
 
@@ -92,33 +92,33 @@ Then after result, turn to room: "Lady Emer lies beneath the immovable shield, h
 
 ---
 
-## Core Content
+### Core Content
 
-### Primary Scene: Lady Emer Interrogation
+#### Primary Scene: Lady Emer Interrogation
 
 **Reference Document**: [[Lady Emer Conversation Progression]]
 
 **Most Likely Triggers This Session:**
 
 1. **Trigger 1: Players Ask About VQ/Qalix** - They just read the letters, will definitely ask
-    
+
     - See full dialogue options in Progression doc
     - Key info she'll volunteer: Full name, warlock, Lorestone obsession, compartmentalized network
     - About Dreyara: Terrifying operative, delivers specimens, expected soon
 2. **Trigger 2: Players Ask About Petrified People** - They saw the stone garden
-    
+
     - See full dialogue options in Progression doc
     - Her justification: Failed assistants, thieves, security threats, one special case (Varnes)
     - Key point: She views petrification as "storage" not murder
     - Players may judge her harshly for this
 3. **Trigger 4: Players Examine Research Shelves** - Looking for intel on Qalix's plans
-    
+
     - See full dialogue options in Progression doc
     - She'll get frustrated not being able to see what they're doing
     - May offer to explain if they remove hood
     - Research contains: 17 rift site locations, contamination data, temporal distortion logs
 4. **Trigger 5: Players Notice Stone Chest** - They know it exists, will investigate
-    
+
     - See full dialogue options in Progression doc
     - Locked, trapped, warded
     - Contains Luxon Beacon (she calls it "temporal crystal") and research notes
@@ -135,24 +135,24 @@ Then after result, turn to room: "Lady Emer lies beneath the immovable shield, h
 **Less Likely But Possible:**
 
 5. **Trigger 3: Players Search Desk** - Already did this, but may revisit poems
-    
+
     - Hundreds of pages of poetry about metamorphosis and transformation
     - Connection to chest puzzle if they read carefully
     - Lady Emer will be embarrassed/defensive if they mock it, softened if they appreciate it
 6. **Trigger 7: Negotiating for Cooperation** - If they seem reasonable
-    
+
     - See full section in Progression doc
     - What she wants: Survival, freedom, dignity, her personal research, fresh start
     - What she offers: Intel, assistance, restoration of Varnes, future contact
     - Key leverage: Luxon Beacon revelation (if they tell her what it really is, she's angry at Qalix)
 7. **Trigger 8: Restoring Varnes** - Eventual goal
-    
+
     - See full section in Progression doc
     - Requires her hands free and hood removed
     - She can use Stone Sacrifice ability to reverse petrification
     - Alternative: Player casts Greater Restoration (5th level spell)
 
-### Varnes Dwell Restoration
+#### Varnes Dwell Restoration
 
 **Reference Document**: [[Varnes Dwell]]
 
@@ -194,7 +194,7 @@ Then after result, turn to room: "Lady Emer lies beneath the immovable shield, h
 
 **Dialogue Reference**: See [[Varnes Dwell#His Urgent Message to Party]] for his full speech about the Rexxentrum shard
 
-### Wyvern Taming (Drawg's Side Quest)
+#### Wyvern Taming (Drawg's Side Quest)
 
 **Simple Skill Challenge:**
 
@@ -244,10 +244,10 @@ Then after result, turn to room: "Lady Emer lies beneath the immovable shield, h
 - "Hurt tail-biters before. They stay away now." [referring to basilisks learning to give her space]
 - "Warm here. Safe here. Many meals."
 - "You smell wrong. Not-food?" [confusion at being talked to]
-- "Boring. Boring. Boring... FOOD!" [her typical day]
+- "Boring. Boring. Boring… FOOD!" [her typical day]
 - "Sting makes them slow. Easy."
 
-### Location Details
+#### Location Details
 
 **Library (Area E6)** - Current location
 
@@ -267,7 +267,7 @@ Then after result, turn to room: "Lady Emer lies beneath the immovable shield, h
 
 **Full Keep Details**: See [[Cloudfang Keep]] for all room descriptions
 
-### Prepared NPCs
+#### Prepared NPCs
 
 |NPC Name|Current Goals|Key Information|Likely Reactions|
 |---|---|---|---|
@@ -277,7 +277,7 @@ Then after result, turn to room: "Lady Emer lies beneath the immovable shield, h
 
 ---
 
-## Secrets & Clues
+### Secrets & Clues
 
 **Secrets That Can Be Revealed This Session:**
 
@@ -300,7 +300,7 @@ Then after result, turn to room: "Lady Emer lies beneath the immovable shield, h
 
 ---
 
-## Potential Complications
+### Potential Complications
 
 **If Players Try to Kill Emer:**
 
@@ -337,7 +337,7 @@ Then after result, turn to room: "Lady Emer lies beneath the immovable shield, h
 
 ---
 
-## Likely Flow of Session
+### Likely Flow of Session
 
 **Phase 1: Interrogation (30-60 min)**
 
@@ -378,7 +378,7 @@ Then after result, turn to room: "Lady Emer lies beneath the immovable shield, h
 
 ---
 
-## DM Reminders
+### DM Reminders
 
 **Key Points:**
 
@@ -405,7 +405,7 @@ Then after result, turn to room: "Lady Emer lies beneath the immovable shield, h
 
 ---
 
-## Reference Links
+### Reference Links
 
 **Core Documents:**
 
@@ -428,50 +428,60 @@ Then after result, turn to room: "Lady Emer lies beneath the immovable shield, h
 - [[Malachite Cord]] - Another faction (Varnes mentions them)
 - [[Emissaries of the Sunfall]] - Emer's former organization
 
-# Session Notes
-## Timeline
-- 
+## Session Notes
 
-## Significant Changes
+### Timeline
+
+### Significant Changes
+
 - [ ] NPC status/location changes
 - [ ] New relationships formed
 - [ ] Plot developments
 - [ ] Location changes
 - [ ] Faction moves
 
-## Player Choices & Seeds
+### Player Choices & Seeds
+
 - Choice made:
 - Potential consequences:
 - Future hooks:
 
-# Post-Session Processing
-## Required Updates
+## Post-Session Processing
+
+### Required Updates
+
 - [ ] Update NPC locations/status
 - [ ] Note faction changes
 - [ ] Record plot developments
 - [ ] Update location states
 
-## Atomic Notes Needed
+### Atomic Notes Needed
+
 - [ ] New facts discovered
 - [ ] Relationships changed
 - [ ] Status updates needed
 - [ ] Plot elements revealed
 
-## Review and update:
+### Review and update
+
 - [ ] Relationship notes
 - [ ] Plot threads
 - [ ] Location states
 - [ ] NPC goals
 
-## Clean up:
+### Clean up
+
 - [ ] Remove outdated status info
 - [ ] Consolidate redundant notes
 - [ ] Update broken links
 - [ ] Add missing connections
 
-## Next Session Planning
-### Likely Next Steps
+### Next Session Planning
+
+#### Likely Next Steps
+
 Consider:
+
 - Immediate player goals stated:
 - Time-sensitive plot elements:
 - Faction reactions:
@@ -480,7 +490,8 @@ Consider:
 - Unresolved tensions:
 - Player expressed interests:
 
-### Prep Priority
+#### Prep Priority
+
 1. Must Have
   - Critical NPCs/locations:
   - Active plot developments:

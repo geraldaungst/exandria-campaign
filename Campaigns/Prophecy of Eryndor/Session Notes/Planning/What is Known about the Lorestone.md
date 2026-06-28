@@ -1,12 +1,13 @@
 ---
-epoch: 1732996440942
 tags:
   - copilot-conversation
   - campaign/eryndor
 ---
+
 **DELETE WHEN PROCESSED**
 
 **user**: @vault Summarize everything that is known about the Lorestone and the locations of its pieces.
+
 [Timestamp: 2024/11/30 14:54:00]
 
 **ai**: Based on the information provided in the context, here's a summary of what is known about the Lorestone of Eryndor and the locations of its pieces:
@@ -49,12 +50,15 @@ tags:
    - The full implications of assembling the Lorestone are not entirely understood, with different groups having conflicting beliefs about its potential effects.
 
 This summary encapsulates the key information about the Lorestone of Eryndor and its scattered pieces based on the provided context.
+
 [Timestamp: 2024/11/30 14:54:24]
 
 **user**: @vault Now summarize everything Aethor Kalisk would know about the Lorestone.
+
 [Timestamp: 2024/11/30 14:55:06]
 
 **user**: @vault Now summarize everything Aethor Kalisk would know about the Lorestone.
+
 [Timestamp: 2024/11/30 14:57:31]
 
 **ai**: Aethor Kalisk, a key researcher for the Obsidian Echoforge, would have extensive knowledge about the Lorestone of Eryndor and the locations of its pieces. Here's a summary of what he would know:
@@ -82,4 +86,5 @@ This summary encapsulates the key information about the Lorestone of Eryndor and
    - The Emissaries of the Sunfall aim to use the Lorestone to construct a permanent planar gate, posing another challenge to the Echoforge's mission.
 
 Aethor's knowledge and skills are crucial in navigating these challenges and advancing the Echoforge's quest to reassemble the Lorestone.
+
 [Timestamp: 2024/11/30 14:57:46]

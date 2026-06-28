@@ -4,5 +4,7 @@ tags:
   - npc
   - region/menagerie-coast
 ---
-![[matiu.jpg|right|300]] 
+
+![[matiu.jpg|right|300]]
+
 Ki'Nau elder, handling the problem at the [[New Temple of Moradin]].

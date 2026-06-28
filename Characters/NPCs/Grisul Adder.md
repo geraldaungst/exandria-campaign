@@ -1,32 +1,44 @@
 ---
+current_location: "[[Harmony Hall]]"
+disposition: friendly
 tags:
   - npc
   - deceased
   - world/exandria
   - region/menagerie-coast
-current_location: "[[Harmony Hall]]"
-disposition: friendly
 ---
-![[grisul-adder.jpeg|right|300]]_Medium humanoid (goliath), Chaotic Good_
 
-**Armor Class:** 14 (natural armor)  
-**Hit Points:** 102 (12d8 + 48)  
+![[grisul-adder.jpeg|right|300]]*Medium humanoid (goliath), Chaotic Good*
+
+**Armor Class:** 14 (natural armor)
+
+**Hit Points:** 102 (12d8 + 48)
+
 **Speed:** 30 ft.
 
-**STR:** 9 (-1)  
-**DEX:** 11 (+0)  
-**CON:** 18 (+4)  
-**INT:** 12 (+1)  
-**WIS:** 16 (+3)  
+**STR:** 9 (-1)
+
+**DEX:** 11 (+0)
+
+**CON:** 18 (+4)
+
+**INT:** 12 (+1)
+
+**WIS:** 16 (+3)
+
 **CHA:** 18 (+4)
 
-**Saving Throws:** Wis +6, Cha +7  
-**Skills:** Insight +6, Persuasion +7, Deception +7, Intimidation +7  
-**Senses:** Passive Perception 13  
-**Languages:** Common, Giant  
+**Saving Throws:** Wis +6, Cha +7
+
+**Skills:** Insight +6, Persuasion +7, Deception +7, Intimidation +7
+
+**Senses:** Passive Perception 13
+
+**Languages:** Common, Giant
+
 **Challenge:** 5 (1,800 XP)
 
-**Stone’s Endurance (Recharges after a Short or Long Rest):** Grisul can use a reaction to reduce damage dealt to her by 1d12 + 4.
+**Stone's Endurance (Recharges after a Short or Long Rest):** Grisul can use a reaction to reduce damage dealt to her by 1d12 + 4.
 
 **Powerful Build:** Grisul counts as one size larger when determining her carrying capacity and the weight she can push, drag, or lift.
 
@@ -36,7 +48,7 @@ disposition: friendly
 
 **Multiattack:** Grisul makes two attacks with her cane.
 
-**Cane:** _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 5 (1d8 + 1) bludgeoning damage.
+**Cane:** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 5 (1d8 + 1) bludgeoning damage.
 
 **Bonus Actions**
 
@@ -44,7 +56,7 @@ disposition: friendly
 
 **Reactions**
 
-**Stone’s Endurance (Recharges after a Short or Long Rest):** Grisul can use a reaction to reduce damage dealt to her by 1d12 + 4.
+**Stone's Endurance (Recharges after a Short or Long Rest):** Grisul can use a reaction to reduce damage dealt to her by 1d12 + 4.
 
 **Legendary Resistance (1/Day):** If Grisul fails a saving throw, she can choose to succeed instead.
 

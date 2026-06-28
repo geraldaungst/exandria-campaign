@@ -3,9 +3,11 @@ tags:
   - campaign/tyranny
   - world/faerun
 ---
-# Samardag the Hoper
+
+## Samardag the Hoper
 
 Last Edited: May 1, 2021 8:45 PM
+
 Tags: NPC
 
 ![https://www.scabard.com/user/Bergtorp/image/Human%20Male%20Merchant%204.jpg](https://www.scabard.com/user/Bergtorp/image/Human%20Male%20Merchant%204.jpg)

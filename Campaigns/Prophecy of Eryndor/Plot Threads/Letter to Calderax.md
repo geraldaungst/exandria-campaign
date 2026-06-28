@@ -3,6 +3,7 @@ tags:
   - npc
   - region/menagerie-coast
 ---
+
 Dear Friend of [[Calderax Dunhall|Calderax]],
 
 It seems we have a shared interest in an ancient artifact, one that has come to my attention through a trusted intermediary. As the lead of the Port Zoon Cartographers Guild, I do indeed hold information about this item.
@@ -20,5 +21,7 @@ If you can retrieve this compass for me, I would be more than willing to part wi
 Warm regards,
 
 [[Keldar Stonefoot]]
+
 Chief Cartographer
+
 Port Zoon

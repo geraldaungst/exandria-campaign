@@ -1,8 +1,10 @@
 ---
-tags: campaign/eryndor
+tags:
+  - campaign/eryndor
 ---
 
-# 05 General Plans
+## 05 General Plans
+
 ```dataviewjs
 const pages = dv.pages('"05 General Plans"').where(p => p.file.tasks.length > 0);
 const tasks = pages.file.tasks.where(t => !t.completed && !t.checked).groupBy(p => p.path.split("/").last());
@@ -17,7 +19,8 @@ if (tasks.length === 0) {
 }
 ```
 
-# 10 The Party
+## 10 The Party
+
 ```dataviewjs
 const pages = dv.pages('"10 The Party"').where(p => p.file.tasks.length > 0);
 const tasks = pages.file.tasks.where(t => !t.completed && !t.checked).groupBy(p => p.path.split("/").last());
@@ -32,7 +35,8 @@ if (tasks.length === 0) {
 }
 ```
 
-# 19 Factions
+## 19 Factions
+
 ```dataviewjs
 const pages = dv.pages('"19 Factions"').where(p => p.file.tasks.length > 0);
 const tasks = pages.file.tasks.where(t => !t.completed && !t.checked).groupBy(p => p.path.split("/").last());
@@ -47,7 +51,8 @@ if (tasks.length === 0) {
 }
 ```
 
-# 21 Opponents
+## 21 Opponents
+
 ```dataviewjs
 const pages = dv.pages('"21 Opponents"').where(p => p.file.tasks.length > 0);
 const tasks = pages.file.tasks.where(t => !t.completed && !t.checked).groupBy(p => p.path.split("/").last());
@@ -62,7 +67,8 @@ if (tasks.length === 0) {
 }
 ```
 
-# 25 NPCs
+## 25 NPCs
+
 ```dataviewjs
 const pages = dv.pages('"25 NPCs"').where(p => p.file.tasks.length > 0);
 const tasks = pages.file.tasks.where(t => !t.completed && !t.checked).groupBy(p => p.path.split("/").last());
@@ -77,7 +83,8 @@ if (tasks.length === 0) {
 }
 ```
 
-# 60 Locations
+## 60 Locations
+
 ```dataviewjs
 const pages = dv.pages('"60 Locations"').where(p => p.file.tasks.length > 0);
 const tasks = pages.file.tasks.where(t => !t.completed && !t.checked).groupBy(p => p.path.split("/").last());
@@ -92,7 +99,8 @@ if (tasks.length === 0) {
 }
 ```
 
-# 80 Mechanics
+## 80 Mechanics
+
 ```dataviewjs
 const pages = dv.pages('"80 Mechanics"').where(p => p.file.tasks.length > 0);
 const tasks = pages.file.tasks.where(t => !t.completed && !t.checked).groupBy(p => p.path.split("/").last());
@@ -107,7 +115,8 @@ if (tasks.length === 0) {
 }
 ```
 
-# 90 Session Notes
+## 90 Session Notes
+
 ```dataviewjs
 const pages = dv.pages('"90 Session Notes"').where(p => p.file.tasks.length > 0);
 const tasks = pages.file.tasks.where(t => !t.completed && !t.checked).groupBy(p => p.path.split("/").last());

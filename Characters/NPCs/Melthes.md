@@ -1,16 +1,18 @@
 ---
+faction:
+location:
 tags:
   - needs-work
   - npc
   - region/dwendalian-empire
-faction:
-location:
 ---
 
 ![[young-melthes.png|right|300]]
+
 ![[melthes.png|right|300]]
 
-# Quick Reference
+## Quick Reference
+
 > [!info] Essential Details
 > - Current Location: Unknown (somewhere in [[Cerberus Assembly]] custody)
 > - Key Motivation: Unknown (likely wants to return home)
@@ -18,56 +20,62 @@ location:
 > - Critical Knowledge: Has unique Feywild/Feydark connection abilities
 > - Status: Captive since 833 PD
 
-# Description
+## Description
 
 Melthes is a half-elf with distinctive Feywild magical resonance and abilities related to planar connections, particularly to the Feydark. He was taken by the [[Cerberus Assembly]] at age 16 for exploitation of these abilities.
 
-## Appearance
+### Appearance
+
 - Half-elf
 - Age at capture: 16 years old (833 PD)
 - Current age: Approximately 18 but appears much older due to poor treatment by Cerberus Assembly.
 
-## Roleplay
+### Roleplay
+
 - Voice: Unknown
 - Mannerisms: Unknown
-- Notable Traits: 
+- Notable Traits:
   - Close family bonds (repeatedly asked about family during intake)
   - Showed fear and distress when taken
 
-# Current Situation
+## Current Situation
 
 Current whereabouts unknown. Last confirmed location was [[Cerberus Assembly]] research facility in [[Rexxentrum]] where he was assigned to [[Isolene Fenzana]]'s research division.
 
 **Status:** Has been in Assembly custody since approximately 833 PD. Current condition, exact location, and whether he remains in their custody are all unknown.
 
-# Background
+## Background
 
-## Family
+### Family
+
 - Sister: [[Hesterian Shyr (Dot)|Hesterian Shyr]]
 - Parents: Living in [[Xarzith Kitril]] at time of capture (current status unknown)
 - Relationship: Close-knit family; Melthes asked repeatedly about them during intake
 
-## Abilities
+### Abilities
+
 - Unique Feywild/Feydark connection abilities
 - Distinctive Feywild magical resonance unlike typical magic users
 - Capable of navigating and manipulating Feywild energies
 - Connection to Feydark (rare and valuable to Assembly)
 
-## The Capture
+### The Capture
 
 Full details in [[The Capture of Melthes]].
 
 **Summary:** In approximately 833 PD (about a year after his sister was sold into patronage), Melthes was taken from [[Xarzith Kitril]] by two Volstrucker agents. The Assembly used persuasion and payment to convince his parents that he needed "special care" and training, while secretly intending to exploit his abilities for their research into planar connections.
 
 **His Response:** During intake and assessment by [[Cree Deeproots]], Melthes was:
+
 - Terrified and displaced
 - Repeatedly asking about his family
 - Asking when he could go home
 - Showing clear signs of close family bonds
 
-## Assembly's Interest
+### Assembly's Interest
 
 The [[Cerberus Assembly]] considers Melthes valuable for:
+
 - Navigating and manipulating the Feywild and its energies
 - Expanding their magical prowess and understanding of different planes
 - His connection to the Feydark for political maneuvering
@@ -75,7 +83,7 @@ The [[Cerberus Assembly]] considers Melthes valuable for:
 
 He was recommended for advanced study under [[Isolene Fenzana]]'s research division.
 
-# Hidden Information
+## Hidden Information
 
 > [!secret]- DM Only
 > - **Current Status:** [DM to determine - is he still captive? Broken? Escaped? Corrupted? Willing participant now?]
@@ -86,40 +94,51 @@ He was recommended for advanced study under [[Isolene Fenzana]]'s research divis
 > - **Rescue Difficulty:** [DM to determine appropriate challenge level when/if players attempt rescue]
 > - **Potential Role:** Could become ally, tragic victim, corrupted enemy, or complex moral dilemma depending on his current state
 
-## Family
+### Family
+
 - [[Hesterian Shyr (Dot)|Hesterian Shyr]] - Sister (unaware of his true situation)
 
-## Captors/Handlers
+### Captors/Handlers
+
 - [[Cerberus Assembly]] - Holding organization
 - [[Isolene Fenzana]] - Oversees research division he was assigned to
 - [[Cree Deeproots]] - Conducted initial magical assessment
 - Two Volstrucker agents (names unknown) - Brought him from [[Xarzith Kitril]]
 
-## Related Locations
+### Related Locations
+
 - [[Xarzith Kitril]] - Home city
 - [[Rexxentrum]] - Last known location (Assembly facility)
 - [[Feywild]]/[[Feydark]] - Source of his abilities
 
-# Connected Elements
-## NPCs
+## Connected Elements
+
+### NPCs
+
 ```dataview
 LIST
 FROM #npc
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
-## Places
+
+### Places
+
 ```dataview
 LIST
 FROM #location
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
-## Items
+
+### Items
+
 ```dataview
 LIST
 FROM #artifact 
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
-## Related Plot Threads
+
+### Related Plot Threads
+
 ```dataview
 LIST
 FROM #plot 

@@ -1,17 +1,20 @@
 ---
+created: 2025-01-19
 tags:
   - atomic
   - campaign/eryndor
-created: 2025-01-19
 ---
-# Core Information
 
-## Blood Sample Collection Protocol
+## Core Information
 
-### **The Procedure**
+### Blood Sample Collection Protocol
 
-**Administering Agent:** [[Cree Deeproots]], a tabaxi Blood Domain cleric employed by [[Korfel Withrethin]] (The Gentleman)  
-**Timing:** Required from all new associates, allies, or persons conducting business with The Gentleman  
+#### **The Procedure**
+
+**Administering Agent:** [[Cree Deeproots]], a tabaxi Blood Domain cleric employed by [[Korfel Withrethin]] (The Gentleman)
+
+**Timing:** Required from all new associates, allies, or persons conducting business with The Gentleman
+
 **Method:** Ceremonial collection using small vials, presented as "standard insurance policy"
 
 **How it's presented to targets:**
@@ -21,7 +24,7 @@ created: 2025-01-19
 - Emphasis on reciprocal nature ("I provide samples too")
 - Presented with formal, almost ritual-like solemnity to add legitimacy
 
-### **Mechanical Capabilities**
+#### **Mechanical Capabilities**
 
 Based on Blood Domain cleric abilities, the collected samples enable:
 
@@ -40,14 +43,17 @@ Based on Blood Domain cleric abilities, the collected samples enable:
 - **Duration:** Number of rounds equal to Cree's Wisdom modifier
 - **Cost:** Cree takes necrotic damage regardless of outcome
 
-### **Storage and Organization**
+#### **Storage And Organization**
 
-**Physical Storage:** Small leather satchel containing labeled vials  
-**Documentation:** Detailed records of whose blood corresponds to which sample  
-**Security:** Kept in The Gentleman's secure areas, accessible only to trusted inner circle  
+**Physical Storage:** Small leather satchel containing labeled vials
+
+**Documentation:** Detailed records of whose blood corresponds to which sample
+
+**Security:** Kept in The Gentleman's secure areas, accessible only to trusted inner circle
+
 **Maintenance:** Samples remain viable indefinitely once properly preserved
 
-### **Strategic Applications**
+#### **Strategic Applications**
 
 **Tracking Purposes:**
 
@@ -70,29 +76,39 @@ Based on Blood Domain cleric abilities, the collected samples enable:
 - Track movement patterns and associate networks
 - Verify truthfulness through proximity to claimed locations
 
-### **Presentation and Justification**
+#### **Presentation And Justification**
 
-**To New Associates:** "A time-honored tradition ensuring mutual trust and protection"  
-**Business Rationale:** "Given the dangerous nature of our enterprises, knowing the safety of our partners is essential"  
-**Reciprocal Assurance:** "I maintain samples from all my trusted associates, including myself"  
+**To New Associates:** "A time-honored tradition ensuring mutual trust and protection"
+
+**Business Rationale:** "Given the dangerous nature of our enterprises, knowing the safety of our partners is essential"
+
+**Reciprocal Assurance:** "I maintain samples from all my trusted associates, including myself"
+
 **Professional Image:** "This level of care and preparation separates us from common criminals"
 
-### **Operational Limitations**
+#### **Operational Limitations**
 
-**Range Restriction:** Only effective within 10 miles  
-**Resource Cost:** Requires Cree's active participation and spell slots  
-**Concentration Dependent:** Tracking requires sustained focus, limiting multitasking  
-**Physical Vulnerability:** Samples can be destroyed, stolen, or corrupted  
+**Range Restriction:** Only effective within 10 miles
+
+**Resource Cost:** Requires Cree's active participation and spell slots
+
+**Concentration Dependent:** Tracking requires sustained focus, limiting multitasking
+
+**Physical Vulnerability:** Samples can be destroyed, stolen, or corrupted
+
 **Personnel Dependency:** System fails if Cree is unavailable, dead, or disloyal
 
-### **Counter-Measures (Unknown to Targets)**
+#### **Counter-Measures (Unknown to Targets)**
 
-**Detection Avoidance:** Most targets unaware when being monitored  
-**Magic Resistance:** Some individuals may have natural or magical resistance  
-**False Information:** Samples only show location/health, not activities or intentions  
+**Detection Avoidance:** Most targets unaware when being monitored
+
+**Magic Resistance:** Some individuals may have natural or magical resistance
+
+**False Information:** Samples only show location/health, not activities or intentions
+
 **Timing Gaps:** Monitoring is not constant, creating windows of unobserved activity
 
-### **Security Implications**
+#### **Security Implications**
 
 **For The Gentleman:**
 
@@ -108,67 +124,73 @@ Based on Blood Domain cleric abilities, the collected samples enable:
 - Provides leverage for The Gentleman in all negotiations
 - Makes escape or betrayal significantly more difficult
 
-# Source Context
+## Source Context
 
 Based on Critical Role's Blood Domain cleric mechanics and The Gentleman's canonical use of blood samples for tracking and control of associates.
 
-# Connections
+## Connections
 
-## Related Characters
+### Related Characters
 
 - [[Cree Deeproots]] - The specialist who performs collections and monitoring
 - [[Korfel Withrethin]] (The Gentleman) - Architect and beneficiary of the system
 - All associates, allies, and business partners of The Gentleman
 
-## Related Abilities
+### Related Abilities
 
 - Blood Domain cleric Channel Divinity: Crimson Bond
 - Blood magic surveillance techniques
 - Intimidation and psychological control methods
 
-## Related Operations
+### Related Operations
 
 - [[The Gentleman's Criminal Empire]] - Part of broader control system
 - New associate recruitment and vetting processes
 - Intelligence gathering and counter-intelligence operations
 
-## Related Plot Threads
+### Related Plot Threads
 
 - [[Hesterian Shyr's Infiltration]] - Party will likely be required to provide samples
 - Any dealings with The Gentleman or Myriad operations
 - Potential counter-intelligence or escape planning by party
 - Discovery and exploitation of system vulnerabilities
-# Connections
 
-## Related Atomic Notes
+## Connections
+
+### Related Atomic Notes
+
 ```dataview
 LIST
 FROM #atomic
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
 
-## Related NPCs
+### Related NPCs
+
 ```dataview
 LIST
 FROM #npc 
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
 
-## Related Plot Threads
+### Related Plot Threads
+
 ```dataview
 LIST
 FROM #plot  
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
 
-## Related Locations
+### Related Locations
+
 ```dataview
 LIST
 FROM #location 
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
 
-## Related Items/Artifacts
+### Related Items/Artifacts
+
 ```dataview
 LIST
 FROM #artifact 

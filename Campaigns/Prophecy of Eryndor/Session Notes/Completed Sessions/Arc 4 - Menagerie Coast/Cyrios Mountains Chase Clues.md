@@ -17,7 +17,7 @@ tags:
 | 19       | **Interaction with Wildlife** | Scattered supplies from hasty retreat from animal encounter. Some items retrieved but others left behind in urgency.                   | Signs of planned detour around active animal territory (bear markings, etc.). Cautious but steady navigation.                        | Evidence of successful hunt or detailed animal observation. Time taken to study local fauna behavior patterns.                          | **Disturbed Wildlife:** Mountain goats or birds seem agitated on the parallel ridge, suggesting recent human disturbance over there. Local wildlife on your path remains calm.     |
 | 20       | **Path Choice Indicators**    | Backtrack marks where they started down wrong path but quickly corrected. Hurried decision-making evident.                             | Single set of scouting prints exploring options before committing to route. Deliberate but efficient choice.                         | Multiple scouting expeditions visible. Several false starts indicate thorough route evaluation - or indecision.                         | **Path Convergence:** At a distant trail junction visible from your vantage point, you can see someone explored both options before committing to the route away from yours.       |
 
-## Usage Notes:
+## Usage Notes
 
 - Roll d20 when players have opportunity to find clues (not every day)
 - Check the appropriate column based on current chase status
@@ -40,7 +40,7 @@ tags:
 |19|**Interaction with Wildlife**|Scattered supplies from hasty retreat from animal encounter. Some items retrieved but others left behind in urgency.|Signs of planned detour around active animal territory (bear markings, etc.). Cautious but steady navigation.|Evidence of successful hunt or detailed animal observation. Time taken to study local fauna behavior patterns.|**Disturbed Wildlife:** Mountain goats or birds seem agitated on the parallel ridge, suggesting recent human disturbance over there. Local wildlife on your path remains calm.|☐|
 |20|**Path Choice Indicators**|Backtrack marks where they started down wrong path but quickly corrected. Hurried decision-making evident.|Single set of scouting prints exploring options before committing to route. Deliberate but efficient choice.|Multiple scouting expeditions visible. Several false starts indicate thorough route evaluation - or indecision.|**Path Convergence:** At a distant trail junction visible from your vantage point, you can see someone explored both options before committing to the route away from yours.|☐|
 
-## Usage Notes:
+## Usage Notes
 
 - Roll d20 when players have opportunity to find clues (not every day)
 - Check the appropriate column based on current chase status

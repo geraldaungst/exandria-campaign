@@ -1,18 +1,18 @@
 ---
+created: 2025-01-27
 tags:
   - atomic
-created: 2025-01-27
 ---
 
-# Core Information
+## Core Information
 
-## Temporal Stabilization Theory
+### Temporal Stabilization Theory
 
-### Fundamental Principles
+#### Fundamental Principles
 
 Temporal stabilization theory describes the magical principles governing how massive energy manipulations affect the flow of time and local reality. When arcane forces channel planar energies at the scale required for rift manipulation, they inevitably create temporal flux as a byproduct - distortions in the normal flow of time that can cascade into reality-warping disasters.
 
-### The Nature of Temporal Flux
+#### The Nature of Temporal Flux
 
 **Primary Cause:** Large-scale energy channeling creates "temporal pressure" - areas where time flows at different rates or in conflicting directions. This occurs because:
 
@@ -27,7 +27,7 @@ Temporal stabilization theory describes the magical principles governing how mas
 - Reality distortions as causality becomes confused
 - Cascade failures where small temporal anomalies amplify into large-scale disasters
 
-### Dunamantic Stabilization Mechanisms
+#### Dunamantic Stabilization Mechanisms
 
 Dunamantic magic, particularly as channeled through Luxon Beacons, provides temporal stabilization through several mechanisms:
 
@@ -49,7 +49,7 @@ Dunamantic magic, particularly as channeled through Luxon Beacons, provides temp
 - Prevent temporal paradoxes from destabilizing local reality
 - Ensure that energy channeling follows predictable magical laws
 
-### Historical Applications and Failures
+#### Historical Applications and Failures
 
 **Age of Arcanum Research:** Ancient mages understood these principles intuitively, though they lacked modern terminology. Aeoran researchers called it "temporal anchoring" and developed early stabilization techniques. Their T-Dock project demonstrated both the potential and dangers of temporal manipulation.
 
@@ -63,7 +63,7 @@ Dunamantic magic, particularly as channeled through Luxon Beacons, provides temp
 
 **Kryn Dynasty Discoveries:** Through centuries of Luxon Beacon study, Kryn researchers developed practical dunamancy without fully understanding the theoretical framework. Their success in consecution and graviturgy/chronurgy magic demonstrates working knowledge of temporal stabilization, though they've never applied it to large-scale planar manipulation.
 
-### Modern Theoretical Framework
+#### Modern Theoretical Framework
 
 **The Stabilization Requirement:** Any magical operation involving energies above approximately 7th-level spell equivalency requires some form of temporal stabilization to prevent cascade failures. The larger the scale, the more robust the stabilization must be.
 
@@ -80,7 +80,7 @@ Dunamantic magic, particularly as channeled through Luxon Beacons, provides temp
 - **Major Catastrophes:** Permanent reality damage, regional corruption (Molaesmyr-scale)
 - **Critical Failures:** Planar boundary collapse, timeline fragmentation (theoretical)
 
-### Practical Applications
+#### Practical Applications
 
 **Detection Methods:**
 
@@ -101,7 +101,7 @@ Dunamantic magic, particularly as channeled through Luxon Beacons, provides temp
 3. Evacuate non-essential personnel from affected area
 4. Monitor for cascade development over following days/weeks
 
-### Knowledge Distribution
+#### Knowledge Distribution
 
 **Who Understands This Theory:**
 
@@ -117,7 +117,7 @@ Dunamantic magic, particularly as channeled through Luxon Beacons, provides temp
 - **Emissaries of the Sunfall:** Seeks power without comprehending safety requirements
 - **Vaud Qalix:** Ceratos deliberately withholds this knowledge to encourage failure
 
-### Research Implications
+#### Research Implications
 
 Understanding temporal stabilization theory is crucial for:
 
@@ -129,26 +129,26 @@ Understanding temporal stabilization theory is crucial for:
 
 The theory also suggests that many "mysterious" magical disasters throughout history may have been caused by temporal cascade failures, making this knowledge valuable for both practical applications and historical research.
 
-# Relationship Details
+## Relationship Details
 
-## Nature of Connection
+### Nature of Connection
 
 This theory underlies the fundamental requirements for safe operation of powerful magical artifacts, particularly those that manipulate planar energies.
 
-## Impact/Implications
+### Impact/Implications
 
 - Provides scientific foundation for dual-artifact requirement
 - Explains historical magical disasters
 - Guides safe magical research and development
 - Crucial for preventing future catastrophes
 
-# Connections
+## Connections
 
-## Source Note
+### Source Note
 
 [[Luxon Beacon Integration with Lorestone]]
 
-## Related Atomic Notes
+### Related Atomic Notes
 
 ```dataview
 LIST
@@ -156,7 +156,7 @@ FROM #atomic
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
 
-## Related NPCs
+### Related NPCs
 
 ```dataview
 LIST
@@ -164,7 +164,7 @@ FROM #npc
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
 
-## Related Plot Threads
+### Related Plot Threads
 
 ```dataview
 LIST
@@ -172,7 +172,7 @@ FROM #plot
 WHERE contains(file.outlinks, this.link) OR contains(file.inlinks, this.file.link)
 ```
 
-## Related Locations
+### Related Locations
 
 ```dataview
 LIST
@@ -180,7 +180,7 @@ FROM #location
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
 
-## Related Items/Artifacts
+### Related Items/Artifacts
 
 ```dataview
 LIST

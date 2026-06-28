@@ -1,17 +1,19 @@
 ---
-tags:
-  - npc
-  - deceased
-  - world/exandria
-  - region/tal'dorei
 affiliations:
   - "[[Emissaries of the Sunfall]]"
 current_location: "unknown"
 disposition: hostile
+tags:
+  - npc
+  - deceased
+  - world/exandria
+  - "region/tal'dorei"
 ---
+
 home_city: Zadash
 
 ![[guzezzik.png|right|300]]
+
 Cook on the skyship. Poisons the captain's food (and accidentally some of the other passengers as well.)
 
 **Physical Description:**

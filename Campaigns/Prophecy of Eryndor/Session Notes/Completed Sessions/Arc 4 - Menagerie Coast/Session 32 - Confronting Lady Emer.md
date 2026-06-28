@@ -1,29 +1,30 @@
 ---
+date: 2025-11-01
+next_session:
+  - Session 33
+previous_session:
+  - Sessions 29-31 - Traveling to Cloudfang
+session_number: 32
 tags:
   - campaign/eryndor
   - session
-session_number: 32
-date: 2025-11-01
-previous_session:
-  - - Sessions 29-31 - Traveling to Cloudfang
-next_session:
-  - - Session 33
 ---
-# SESSION PREP - Cloudfang Keep Confrontation
 
-# Quick Reference
+## SESSION PREP - Cloudfang Keep Confrontation
+
+## Quick Reference
 
 > [!info] Essential Details
-> 
+>
 > - Location(s): Cloudfang Keep (E6. Library → E5. Stone Garden)
 > - Active Plots: Rescue Varnes Dwell, Assembling the Lorestone, Drawg's Dagger Quest
 > - Key NPCs: Lady Emer, Varnes Dwell (petrified), Dreyara Drimvar (arrives later)
 > - Previous Session: Party arrived at Keep, began conversation with Lady Emer in Library
 > - Next Session: [[Session 33 - What to Do with Lady Emer?]]
 
-# Pre-Session Review (30-45 min)
+## Pre-Session Review (30-45 min)
 
-## Previous Content
+### Previous Content
 
 - [x] Read previous session notes - Party traveled 16 days to reach Cloudfang Keep
 - [x] Check Seeds Planted - Dreyara has Drawg's blade, party knows she's heading to Keep
@@ -31,9 +32,9 @@ next_session:
 - [x] Note character goals/interests - Drawg wants blade, party knows Dreyara is threat
 - [x] Check faction moves/timelines - Dreyara ~1 day behind party, traveling with 2 companions
 
-## Current Status
+### Current Status
 
-### Active Plots
+#### Active Plots
 
 **[[Rescue Ilya's Brother]]:**
 
@@ -53,7 +54,7 @@ next_session:
 - Next developments: Choice to wait for ambush vs. pursue to Rexxentrum
 - Involved NPCs: Dreyara (has blade), Drawg (seeking it)
 
-### PC Situations
+#### PC Situations
 
 **Drawg Stormbrew:**
 
@@ -73,7 +74,7 @@ next_session:
 - Shared goal: stop rifts, protect Lorestone shards
 - Time pressure: Varnes has critical intel about Shard 5
 
-### Faction Status
+#### Faction Status
 
 **Vaud Qalix Organization:**
 
@@ -89,9 +90,9 @@ next_session:
 
 ---
 
-# Session Prep (1-2 hours)
+## Session Prep (1-2 hours)
 
-## Strong Start
+### Strong Start
 
 **Opening scene:** Continue conversation with Lady Emer in Library. Multiple players have stated intent to attack her - expect combat to begin within first 10-15 minutes.
 
@@ -116,9 +117,9 @@ next_session:
 
 ---
 
-## Core Content
+### Core Content
 
-### Potential Scenes
+#### Potential Scenes
 
 **1. Combat with Lady Emer**
 
@@ -187,7 +188,7 @@ next_session:
     - Let players debate and decide without thumb on scale
     - See [[cloudfang_keep_dm_guide.md#PHASE 4: DREYARA'S ARRIVAL & DECISION]]
 
-### Secrets & Clues
+#### Secrets & Clues
 
 - [ ] Lady Emer works for Vaud Qalix (paid researcher, not fanatic)
 - [ ] Dreyara is Qalix's spymaster and former Volstrucker
@@ -198,7 +199,7 @@ next_session:
 - [ ] Lady Emer has trained messenger creatures for warnings
 - [ ] Dreyara travels with 2-3 companions (from Lady Emer's info)
 
-### Location Details
+#### Location Details
 
 **E6. Library (Current Location):**
 
@@ -219,7 +220,7 @@ next_session:
 - Supplies: Limited after 16-day journey
 - Time pressure: Environmental (can't stay indefinitely) + Mission (Rexxentrum urgency)
 
-### Prepared NPCs
+#### Prepared NPCs
 
 |NPC Name|Current Goals|Key Information|Likely Reactions|
 |---|---|---|---|
@@ -228,7 +229,7 @@ next_session:
 |**Dreyara Drimvar**|(Not present yet) Check on Lady Emer, deliver specimens|Spymaster, former Volstrucker, has Blade of Maroth Fenn and Shard 6|Will arrive Day 18, sees dead guardians, withdraws and flees east professionally|
 |**Freed NPCs**|Survive, recover, return home|Petrified victims, various backgrounds|Grateful, willing to stay at Keep to recover, reassure party they'll be fine|
 
-### Combat Encounters
+#### Combat Encounters
 
 **Location:** E5. Stone Garden (outdoor courtyard)
 
@@ -256,35 +257,35 @@ next_session:
 
 ---
 
-# Session Flow Prediction
+## Session Flow Prediction
 
-## Opening (15-30 min)
+### Opening (15-30 min)
 
 - Resume conversation with Lady Emer
 - Tension builds, combat triggers
 - Initiative rolled
 
-## Combat (45-75 min)
+### Combat (45-75 min)
 
 - Lady Emer fights tactically in Stone Garden
 - Uses lair actions, Stone Sacrifice on statues
 - Surrenders at ~40 HP
 - Party decides: kill or capture?
 
-## Interrogation (30-45 min)
+### Interrogation (30-45 min)
 
 - If alive: Lady Emer provides information (three tiers)
 - Party decides how to handle her (kill/release/hold/hire)
 - If hold: she attempts warning (skill challenge)
 
-## Rescue & Intel (30-45 min)
+### Rescue & Intel (30-45 min)
 
 - Free Varnes and other statues
 - Varnes delivers urgent information about Shard 5
 - Frames party's choice: ambush Dreyara or race to Rexxentrum
 - Other NPCs reassure party they'll be fine at Keep
 
-## The Choice (20-30 min)
+### The Choice (20-30 min)
 
 - Party debates: stay and wait vs. leave immediately
 - Environmental pressure (altitude, supplies, weather)
@@ -294,9 +295,9 @@ next_session:
 
 ---
 
-# DM Notes During Session
+## DM Notes During Session
 
-## Track These:
+### Track These
 
 - [ ] Lady Emer's HP (note when she hits surrender threshold)
 - [ ] Did she successfully warn Dreyara? (messenger creature, signal, etc.)
@@ -305,7 +306,7 @@ next_session:
 - [ ] Party's decision: Stay at Keep or Leave immediately?
 - [ ] Any creative solutions that bypass planned scenarios?
 
-## Key Dialogue Hooks:
+### Key Dialogue Hooks
 
 **Lady Emer's Surrender (~40 HP):**
 
@@ -323,7 +324,7 @@ next_session:
 
 > "You've been at this altitude for [duration]. The thin air, the cold - it's already affecting you. You stay here much longer, you'll be weakened when she shows up. Better to descend while you're still strong, hit Rexxentrum before she does. That's just tactical sense." (From Gorith Tork or other freed NPC)
 
-## Improvisation Triggers:
+### Improvisation Triggers
 
 **If party tries unexpected solution:**
 
@@ -345,9 +346,9 @@ next_session:
 
 ---
 
-# Post-Session Processing
+## Post-Session Processing
 
-## Required Updates
+### Required Updates
 
 - [ ] Update Lady Emer status (dead/captured/released/escaped)
 - [ ] Update Varnes Dwell location (with party or staying at Keep)
@@ -356,7 +357,7 @@ next_session:
 - [ ] Track Luxon Beacon status (looted or left behind)
 - [ ] Update freed NPC locations (traveling with party or staying)
 
-## Atomic Notes Needed
+### Atomic Notes Needed
 
 - [ ] Lady Emer's fate and any information revealed
 - [ ] Varnes's intel about Shard 5 and Archivist Ovedo
@@ -364,7 +365,7 @@ next_session:
 - [ ] Any new relationships formed with freed NPCs
 - [ ] Dreyara's knowledge level going forward
 
-## Review and update:
+### Review and update
 
 - [ ] Rescue Ilya's Brother plot thread (resolved or updated)
 - [ ] Assembling the Lorestone plot thread (Shard 5 location revealed)
@@ -372,7 +373,7 @@ next_session:
 - [ ] Cloudfang Keep location state (cleared, looted, secured)
 - [ ] Dreyara Drimvar NPC page (update with party's choice impact)
 
-## Clean up:
+### Clean up
 
 - [ ] Remove "party arriving at Keep" from active elements
 - [ ] Move Lady Emer to dead/captured/fled as appropriate
@@ -381,9 +382,9 @@ next_session:
 
 ---
 
-# Next Session Planning
+## Next Session Planning
 
-## Likely Next Steps
+### Likely Next Steps
 
 **If Party Leaves Immediately (Most Likely):**
 
@@ -406,9 +407,9 @@ next_session:
 
 **Either Way → Monastery Encounter Next Session**
 
-## Prep Priority
+### Prep Priority
 
-### 1. Must Have (For Next Session)
+#### 1. Must Have (For Next Session)
 
 - **Avalanche Site Description:**
     - Body discovery scene
@@ -424,7 +425,7 @@ next_session:
     - What she will/won't reveal or negotiate
 - See [[cloudfang_keep_dm_guide.md#PHASE 6: MONASTERY ENCOUNTER]]
 
-### 2. Should Have
+#### 2. Should Have
 
 - **Phase Spider Encounters:**
     - Basic stats (MM phase spiders)
@@ -437,7 +438,7 @@ next_session:
     - Supplies/resources available
     - Tactical considerations for combat
 
-### 3. Could Have
+#### 3. Could Have
 
 - **Extended Monastery Content:**
     - Detailed room descriptions
@@ -451,16 +452,16 @@ next_session:
 
 ---
 
-# Quick Reference - Session Goals
+## Quick Reference - Session Goals
 
-## What Needs to Happen This Session:
+### What Needs to Happen This Session
 
 1. ✅ Resolve Lady Emer encounter (combat → surrender or death)
 2. ✅ Rescue Varnes and learn about Shard 5 in Rexxentrum
 3. ✅ Party makes choice: stay for Dreyara or leave for Rexxentrum
 4. ✅ Set up next session (either way leads to Monastery)
 
-## Success Metrics:
+### Success Metrics
 
 - Players feel they made meaningful choices
 - Varnes's intel creates urgency without railroading
@@ -468,7 +469,7 @@ next_session:
 - Choice between ambush vs. mission feels like real dilemma
 - Clear path forward to next session (travel east)
 
-## Potential Problems:
+### Potential Problems
 
 - **Combat takes too long:** Lady Emer surrenders before party TPK risk
 - **Players paralyzed by choice:** NPCs (Varnes, freed prisoners) provide perspective
@@ -478,7 +479,7 @@ next_session:
 
 ---
 
-# References
+## References
 
 **Full DM Guide:** [[cloudfang_keep_dm_guide.md]]
 

@@ -1,14 +1,15 @@
 ---
+created: 2025-01-19
 tags:
   - atomic
   - campaign/eryndor
-created: 2025-01-19
 ---
-# Core Information
 
-## The Gentleman's Criminal Empire
+## Core Information
 
-### **Rise to Power**
+### The Gentleman's Criminal Empire
+
+#### **Rise To Power**
 
 After fleeing [[Port Damali]] following [[The Port Damali Murders]], [[Korfel Withrethin]] arrived in [[Zadash]] with murder proceeds and criminal connections. Using his merchant background and ruthless pragmatism, he systematically built a criminal power base:
 
@@ -26,10 +27,12 @@ After fleeing [[Port Damali]] following [[The Port Damali Murders]], [[Korfel Wi
 - Built network through combination of bribery, blackmail, and strategic elimination
 - Recruited specialists like [[Cree Deeproots]] for blood magic surveillance
 
-### **Current Criminal Operations**
+#### **Current Criminal Operations**
 
-**Base of Operations:** Evening Nip tavern in [[Zadash]], with extensive underground network  
-**Territory:** Significant influence over Zadash's underworld and portions of legitimate commerce  
+**Base of Operations:** Evening Nip tavern in [[Zadash]], with extensive underground network
+
+**Territory:** Significant influence over Zadash's underworld and portions of legitimate commerce
+
 **Operating Style:** Sophisticated criminal enterprise with veneer of respectability
 
 **Key Operations:**
@@ -40,7 +43,7 @@ After fleeing [[Port Damali]] following [[The Port Damali Murders]], [[Korfel Wi
 - **Black Market Trading:** Rare artifacts, stolen goods, contraband substances
 - **Political Corruption:** Bribed officials in tax offices, judiciary, and lower Righteous Brand ranks
 
-### **Resources and Assets**
+#### **Resources And Assets**
 
 **Personnel:**
 
@@ -63,7 +66,7 @@ After fleeing [[Port Damali]] following [[The Port Damali Murders]], [[Korfel Wi
 - Substantial liquid assets for bribes and operations
 - Investment in underground infrastructure
 
-### **Operational Methods**
+#### **Operational Methods**
 
 **Intelligence Gathering:**
 
@@ -86,7 +89,7 @@ After fleeing [[Port Damali]] following [[The Port Damali Murders]], [[Korfel Wi
 - Alliance-building with other criminal elements
 - Elimination of threats through planning rather than direct confrontation
 
-### **Current Challenges and Vulnerabilities**
+#### **Current Challenges and Vulnerabilities**
 
 **External Threats:**
 
@@ -109,11 +112,14 @@ After fleeing [[Port Damali]] following [[The Port Damali Murders]], [[Korfel Wi
 - Tendency toward overcomplicated schemes
 - Underestimation of opponents due to past success
 
-### **Relationship with Larger Myriad**
+#### **Relationship With Larger Myriad**
 
-**Status:** Significant regional boss within Myriad hierarchy  
-**Autonomy:** Operates with considerable independence in Zadash territory  
-**Resources:** Access to Myriad networks and support when needed  
+**Status:** Significant regional boss within Myriad hierarchy
+
+**Autonomy:** Operates with considerable independence in Zadash territory
+
+**Resources:** Access to Myriad networks and support when needed
+
 **Obligations:** Expected to contribute to larger organizational goals
 
 **Connections:**
@@ -123,40 +129,40 @@ After fleeing [[Port Damali]] following [[The Port Damali Murders]], [[Korfel Wi
 - Shared intelligence and resource networks
 - Mutual protection agreements
 
-### **Future Expansion Plans**
+#### **Future Expansion Plans**
 
 - Deeper infiltration of Zadash's legitimate government
 - Expansion into neighboring territories and trade routes
 - Development of magical assets and capabilities
 - Consolidation of control over existing territory
 
-# Source Context
+## Source Context
 
 This criminal empire represents [[Korfel Withrethin]]'s transformation from desperate murderer to sophisticated crime boss, showing both his capabilities and vulnerabilities.
 
-# Connections
+## Connections
 
-## Related Characters
+### Related Characters
 
 - [[Korfel Withrethin]] (The Gentleman/Babenon Dosal) - Leader and architect
 - [[Cree Deeproots]] - Key magical asset for surveillance and control
 - [[Hesterian Shyr (Dot)]] - Represents threat from his past
 - Various Myriad associates and corrupt officials
 
-## Related Locations
+### Related Locations
 
 - [[Zadash]] - Primary territory and base of operations
 - Evening Nip tavern - Headquarters and front operation
 - Underground tunnel networks - Transportation and smuggling routes
 - [[Port Damali]] - Origin point, potential vulnerability if past discovered
 
-## Related Operations
+### Related Operations
 
 - [[Blood Sample Collection Protocol]] - Method of controlling associates
 - [[Rylan Estevez Frame Job]] - Potential vulnerability from past crimes
 - Correspondence with other Myriad factions (like Calderax letter)
 
-## Related Plot Threads
+### Related Plot Threads
 
 - [[Hesterian Shyr's Infiltration]] - Direct threat to his empire
 - Myriad faction politics and rivalries

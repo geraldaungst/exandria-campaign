@@ -4,6 +4,7 @@ tags:
   - atomic
   - needs-work
 ---
+
 A rare crystal rumored to be capable of dispersing focused magical energy, reducing the risk of catastrophic feedback during planar manipulation. The Prism is crucial for the dispersal device the Wardens are constructing; without it, the device could malfunction or amplify the rifts instead of closing them.
 
 ## Legend
@@ -16,9 +17,10 @@ The prism was created from a unique type of crystal found only in a now-lost min
 
 In actuality, the Prism is a myth. The object is a forgery created by [[Celdric Ambril]]. It was recently sold to someone heading to [[Zadash]]. It is currently in the possession of [[Korfel Withrethin|The Gentleman]].
 
-# Connections
+## Connections
 
-## Related Atomic Notes
+### Related Atomic Notes
+
 ```dataview
 LIST
 FROM #atomic

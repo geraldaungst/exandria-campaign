@@ -1,48 +1,58 @@
 ---
+aliases: []
 tags:
   - location
-aliases:
 ---
-# Quick Reference
+
+## Quick Reference
+
 > [!info] Essential Details
 > - Current Status:
 > - Key Feature:
 > - Atmosphere:
 
-# Description
-## External
+## Description
 
-## Internal
+### External
 
-# Notable Features
-- 
+### Internal
 
-# Current Situation
+## Notable Features
 
-# Secrets & Clues
+## Current Situation
+
+## Secrets & Clues
+
 > [!secret]- DM Only
-> 
 
-# Connected Elements
-## NPCs
+## Connected Elements
+
+### NPCs
+
 ```dataview
 LIST
 FROM #npc
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
-## Places
+
+### Places
+
 ```dataview
 LIST
 FROM #location
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
-## Items
+
+### Items
+
 ```dataview
 LIST
 FROM #artifact 
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
-## Related Plot Threads
+
+### Related Plot Threads
+
 ```dataview
 LIST
 FROM #plot 

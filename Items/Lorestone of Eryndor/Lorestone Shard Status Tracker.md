@@ -1,19 +1,19 @@
 ---
+aliases:
+  - Shard Tracker
+  - Lorestone Shards
 tags:
   - item
   - atomic
   - campaign/eryndor
-aliases:
-  - Shard Tracker
-  - Lorestone Shards
 ---
 
-# Lorestone Shard Status Tracker
+## Lorestone Shard Status Tracker
 
 > [!info] Purpose
 > This note is the authoritative source for all Lorestone shard locations and status. Other notes should transclude sections from here or query this data rather than duplicating information.
 
-## Overview
+### Overview
 
 The [[Lorestone of Eryndor]] was shattered into 8 pieces. This tracker documents the current status, location, and faction interest in each shard.
 
@@ -25,19 +25,22 @@ The [[Lorestone of Eryndor]] was shattered into 8 pieces. This tracker documents
 - **Guarded by dragon:** Shard 7
 - **Astral Plane** (tentatively): Shard 8
 
-## Faction Knowledge Evolution
+### Faction Knowledge Evolution
 
 ![[Lorestone of Eryndor#Faction Knowledge Evolution]]
 
 ---
 
-## Shard 1
+### Shard 1
 
 ^shard1
 
-**Current Status:** Secured  
-**Current Holder:** [[Lyren Willowwhisper]]  
-**Physical Location:** [[Palma Flora]] (Obsidian Echoforge base)  
+**Current Status:** Secured
+
+**Current Holder:** [[Lyren Willowwhisper]]
+
+**Physical Location:** [[Palma Flora]] (Obsidian Echoforge base)
+
 **Acquired:** Pre-campaign (centuries of collection)
 
 **Known By:**
@@ -57,13 +60,16 @@ The [[Lorestone of Eryndor]] was shattered into 8 pieces. This tracker documents
 
 ---
 
-## Shard 2
+### Shard 2
 
 ^shard2
 
-**Current Status:** Secured  
-**Current Holder:** [[Lyren Willowwhisper]]  
-**Physical Location:** [[Palma Flora]] (Obsidian Echoforge base)  
+**Current Status:** Secured
+
+**Current Holder:** [[Lyren Willowwhisper]]
+
+**Physical Location:** [[Palma Flora]] (Obsidian Echoforge base)
+
 **Acquired:** Pre-campaign (centuries of collection)
 
 **Known By:**
@@ -83,13 +89,16 @@ The [[Lorestone of Eryndor]] was shattered into 8 pieces. This tracker documents
 
 ---
 
-## Shard 3
+### Shard 3
 
 ^shard3
 
-**Current Status:** Secured  
-**Current Holder:** [[Lyren Willowwhisper]]  
-**Physical Location:** [[Palma Flora]] (Obsidian Echoforge base)  
+**Current Status:** Secured
+
+**Current Holder:** [[Lyren Willowwhisper]]
+
+**Physical Location:** [[Palma Flora]] (Obsidian Echoforge base)
+
 **Acquired:** Pre-campaign (centuries of collection)
 
 **Known By:**
@@ -109,13 +118,16 @@ The [[Lorestone of Eryndor]] was shattered into 8 pieces. This tracker documents
 
 ---
 
-## Shard 4
+### Shard 4
 
 ^shard4
 
-**Current Status:** Secured  
-**Current Holder:** [[Lyren Willowwhisper]]  
-**Physical Location:** [[Palma Flora]] (Obsidian Echoforge base)  
+**Current Status:** Secured
+
+**Current Holder:** [[Lyren Willowwhisper]]
+
+**Physical Location:** [[Palma Flora]] (Obsidian Echoforge base)
+
 **Acquired:** Pre-campaign (centuries of collection)
 
 **Known By:**
@@ -135,13 +147,16 @@ The [[Lorestone of Eryndor]] was shattered into 8 pieces. This tracker documents
 
 ---
 
-## Shard 5
+### Shard 5
 
 ^shard5
 
-**Current Status:** Hidden/Researched  
-**Current Holder:** [[Archivist Ovedo]]  
-**Physical Location:** Rexxentrum Archive ([[Cobalt Soul]])  
+**Current Status:** Hidden/Researched
+
+**Current Holder:** [[Archivist Ovedo]]
+
+**Physical Location:** Rexxentrum Archive ([[Cobalt Soul]])
+
 **Acquired:** Unknown date (pre-campaign)
 
 **Known By:**
@@ -163,13 +178,16 @@ The [[Lorestone of Eryndor]] was shattered into 8 pieces. This tracker documents
 
 ---
 
-## Shard 6
+### Shard 6
 
 ^shard6
 
-**Current Status:** Enemy possession  
-**Current Holder:** [[Dreyara Drimvar]]  
-**Physical Location:** Cyrios Mountains (mobile with Dreyara)  
+**Current Status:** Enemy possession
+
+**Current Holder:** [[Dreyara Drimvar]]
+
+**Physical Location:** Cyrios Mountains (mobile with Dreyara)
+
 **Acquired:** Recently (taken from [[Celdric Ambril]]'s expedition)
 
 **Known By:**
@@ -199,13 +217,16 @@ The [[Lorestone of Eryndor]] was shattered into 8 pieces. This tracker documents
 
 ---
 
-## Shard 7
+### Shard 7
 
 ^shard7
 
-**Current Status:** Dragon hoard  
-**Current Holder:** [[Shoagragoth, The Acid Crown]]  
-**Physical Location:** The Ebonglass (dragon's lair)  
+**Current Status:** Dragon hoard
+
+**Current Holder:** [[Shoagragoth, The Acid Crown]]
+
+**Physical Location:** The Ebonglass (dragon's lair)
+
 **Acquired:** Unknown (retrieved from expedition)
 
 **Known By:**
@@ -244,13 +265,16 @@ The [[Lorestone of Eryndor]] was shattered into 8 pieces. This tracker documents
 
 ---
 
-## Shard 8
+### Shard 8
 
 ^shard8
 
 **Current Status:** Unknown (stolen from Exandria?)
-**Current Holder:** TBD  
-**Physical Location:** TBD  (perhaps the Astral Plane?)
+
+**Current Holder:** TBD
+
+**Physical Location:** TBD (perhaps the Astral Plane?)
+
 **Acquired:** N/A
 
 **Known By:**
@@ -260,6 +284,7 @@ The [[Lorestone of Eryndor]] was shattered into 8 pieces. This tracker documents
 **Pursued By:**
 
 All of these will eventually pursue it when they learn of its existence
+
 - [[Obsidian Echoforge]]
 - [[Vaud Qalix]]
 - [[Emissaries of the Sunfall]]
@@ -282,48 +307,63 @@ All of these will eventually pursue it when they learn of its existence
 
 ---
 
-## Faction Interests Summary
+### Faction Interests Summary
 
-### [[Obsidian Echoforge]]
+#### [[Obsidian Echoforge]]
 
-**Goal:** Assemble all shards to close rifts  
-**Current Holdings:** Shards 1-4  
-**Actively Pursuing:** Shard 6 (recently discovered) and Shard 7 (though they think it's Shard 5)  
+**Goal:** Assemble all shards to close rifts
+
+**Current Holdings:** Shards 1-4
+
+**Actively Pursuing:** Shard 6 (recently discovered) and Shard 7 (though they think it's Shard 5)
+
 **Unaware Of:** true location of Shard 5, existence of Shards 7-8.
 
-### [[Malachite Cord]]
+#### [[Malachite Cord]]
 
-**Goal:** Prevent assembly (fear catastrophic failure)  
-**Current Holdings:** None  
-**Strategy:** Monitor and interfere with Echoforge operations  
+**Goal:** Prevent assembly (fear catastrophic failure)
+
+**Current Holdings:** None
+
+**Strategy:** Monitor and interfere with Echoforge operations
+
 **Knowledge:** Aware of Echoforge's 4 shards, investigating other shard locations
 
-### [[Emissaries of the Sunfall]]
+#### [[Emissaries of the Sunfall]]
 
-**Goal:** Acquire shards to create permanent gates  
-**Current Holdings:** None  
-**Actively Pursuing:** Any available shards, especially those held by Echoforge  
+**Goal:** Acquire shards to create permanent gates
+
+**Current Holdings:** None
+
+**Actively Pursuing:** Any available shards, especially those held by Echoforge
+
 **Strategy:** Theft, infiltration, violence
 
-### [[Vaud Qalix]]
+#### [[Vaud Qalix]]
 
-**Goal:** Assemble Lorestone to power Draconia restoration  
-**Current Holdings:** Shard 6 (via [[Dreyara Drimvar]])  
-**Resources:** 75 researchers, 10 spies, substantial funding  
+**Goal:** Assemble Lorestone to power Draconia restoration
+
+**Current Holdings:** Shard 6 (via [[Dreyara Drimvar]])
+
+**Resources:** 75 researchers, 10 spies, substantial funding
+
 **Actively Pursuing:** Shards 1-5 (via [[Obsidian Echoforge]])
+
 **Knowledge:** Knows about Echoforge holdings, knows of Shard 5 existence but not location
 
-### [[Cobalt Soul]]
+#### [[Cobalt Soul]]
 
-**Goal:** Research and understand (not necessarily assemble)  
-**Current Holdings:** Shard 5  
+**Goal:** Research and understand (not necessarily assemble)
+
+**Current Holdings:** Shard 5
+
 **Strategy:** Secret study, not revealing possession to other factions
 
 ---
 
-## Connected Elements
+### Connected Elements
 
-### Related Plot Threads
+#### Related Plot Threads
 
 ```dataview
 LIST
@@ -331,7 +371,7 @@ FROM #plot
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
 
-### NPCs with Shard Knowledge
+#### NPCs with Shard Knowledge
 
 ```dataview
 TABLE affiliations, status
@@ -340,7 +380,7 @@ WHERE contains(file.outlinks, [[Lorestone of Eryndor]]) OR contains(file.outlink
 SORT file.name ASC
 ```
 
-### Relevant Locations
+#### Relevant Locations
 
 ```dataview
 LIST
@@ -348,7 +388,7 @@ FROM #location
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
 
-### Related Artifacts
+#### Related Artifacts
 
 - [[Lorestone of Eryndor]] (parent artifact)
 - [[Stonefoot Compass]] (related to Shard 7 quest)

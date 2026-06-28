@@ -1,13 +1,14 @@
 ---
-tags:
-  - needs-work
-  - npc
 affiliations:
   - Zephrah Tribe
   - "[[Ashari Riftguard]]"
 aliases:
   - sylphia
+tags:
+  - needs-work
+  - npc
 ---
+
 ![[sylphia.png|right|300]]
 
 - **Tribe:** Zephrah (Air Ashari)
