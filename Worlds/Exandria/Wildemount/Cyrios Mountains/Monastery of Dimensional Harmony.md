@@ -647,9 +647,11 @@ This exit offers the party a safe route out that bypasses both the avalanche-blo
 
 > This rectangular chamber—50 by 40 feet, 13-foot ceiling—is worked stone of unusual precision. Three deep alcoves open from the north, east, and west walls, each containing a stone sarcophagus. Before each sarcophagus lies a polished stone slab bearing a weapon: a great shield to the west, a longsword to the north, a longbow to the east. The names of the three founders are carved in Giant script above each alcove.
 >
-> In each corner of the room sits a circular disk about two feet across, flush with the floor, made of unusually dense dark wood with a faint iridescent quality. A central peg allows each disk to be rotated. Two smaller alcoves near the southern entrance hold stone preservation vessels—long empty.
->
-> The room is pristine. Nothing has been disturbed in three hundred years.
+> In each corner of the room sits a circular disk about two feet across, flush with the floor, made of unusually dense dark wood with a faint iridescent quality. Two smaller alcoves near the southern entrance hold stone urns.
+
+The stone urns are empty save some dust and dried residue.
+
+The wood disks can be rotated, DC 11 Investigation check to notice this feature.
 
 |Feature|Notes|
 |---|---|
@@ -671,13 +673,17 @@ This exit offers the party a safe route out that bypasses both the avalanche-blo
 
 **His words** (archaic Giant—threatening *or* desperate; don't resolve the ambiguity):
 
-|Giant|Translation|
-|---|---|
-|*"Skade… deg… am… maat stanse…"*|"Harm… you… I… must stop…"|
-|*"Farel… dir… deg… bringer… dod…"*|"Danger… here… you… bring… death…"|
-|*"Kor lang… kor… dei forlot meg… kvorfor…"*|"How long… how… they left me… why…"|
+| Giant                                       | Translation                         |
+| ------------------------------------------- | ----------------------------------- |
+| *"Skade… deg… am… maat stanse…"*            | "Harm… you… I… must stop…"          |
+| *"Farel… dir… deg… bringer… dod…"*          | "Danger… here… you… bring… death…"  |
+| *"Kor lang… kor… dei forlot meg… kvorfor…"* | "How long… how… they left me… why…" |
+|                                             |                                     |
 
-> [!note]- Pronunciation SKAH-deh… day… ahm… maht STAHN-seh / FAH-rel… deer… day… BRING-er… dohd / kor lahng… kor… day for-LOT may… KVOR-for
+> [!note]- Pronunciation:
+> SKAH-deh… day… ahm… maht STAHN-seh
+> FAH-rel… deer… day… BRING-er… dohd
+> kor lahng… kor… day for-LOT may… KVOR-for
 
 **Language:** No party member speaks Giant.
 
