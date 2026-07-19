@@ -1146,9 +1146,9 @@ Not a transaction. Acknowledgment.
 
 > You drop into a chamber that refuses to be understood. Your eyes struggle to process what they see—the space feels wrong, like trying to focus on a reflection in troubled water. Eight stone pillars form a rough octagon, and a terraced platform rises from the center of the room, but they seem to shift and overlap when you look at them directly. Distances lie. Straight lines curve. What should be an organized geometric space has been twisted into something that makes your skull ache to perceive.
 >
-> At the center of the raised platform floats a knot of writhing darkness no bigger than a child's fist. It makes no sound. It does not pulse. It simply exists at the exact center of everything, and you are aware—immediately, viscerally—that the room wants you to approach it.
+> At the center of the raised platform floats a knot of writhing darkness no bigger than a fist. It makes no sound. It does not pulse. It simply exists at the exact center of everything, and you are aware—immediately, viscerally—that the room wants you to approach it.
 >
-> The carved walls bear geometric symbols that writhe and contradict themselves when you try to read them. The air smells of cold stone and something else: old incense, faint as a memory.
+> The carved walls bear geometric symbols that twist, shimmer, and contradict themselves when you try to read them. The air smells of cold stone and a whiff of ancient incense.
 
 |Feature|Notes|
 |---|---|
