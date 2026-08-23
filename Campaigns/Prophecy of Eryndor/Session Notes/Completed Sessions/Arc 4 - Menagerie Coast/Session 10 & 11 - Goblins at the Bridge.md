@@ -15,7 +15,7 @@ tags:
 > - Active Plots: Goblin Leadership Dispute
 > - Key NPCs: Vaku, Wart, Gribna, Grigna, Limper, Bez, Mugor
 > - Previous Session: [[Session 9 - Seeking the Compass]]
-> - Next Session: [[Sessions 12 & 13 - Finding the Compass]]
+> - Next Session: [[Session 12 & 13 - Finding the Compass]]
 
 ## Pre-Session Review (30-45 min)
 

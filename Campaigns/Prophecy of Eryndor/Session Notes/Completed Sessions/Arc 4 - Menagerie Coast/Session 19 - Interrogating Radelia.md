@@ -14,7 +14,7 @@ tags:
 > - Location(s):
 > - Active Plots:
 > - Key NPCs:
-> - Previous Session: [[Sessions 17 & 18 - Aftermath at the Shrine of Melora]]
+> - Previous Session: [[Session 17 & 18 - Aftermath at the Shrine of Melora]]
 > - Next Session: [[Session 20 - Bandit Ambush in Swamp]]
 
 ## Session Prep (1-2 hours)

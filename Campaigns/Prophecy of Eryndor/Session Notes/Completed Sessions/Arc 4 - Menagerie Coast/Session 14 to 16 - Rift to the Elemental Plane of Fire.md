@@ -14,8 +14,8 @@ tags:
 > - Main Location(s): [[The Shrine of Melora]]
 > - Active Quests: [[Understanding the Rifts]]
 > - Important NPCs: [[Malachite Cord]], [[Rinneth Starsong]]
-> - Previous Session: [[Sessions 12 & 13 - Finding the Compass]]
-> - Next Session: [[Sessions 17 & 18 - Aftermath at the Shrine of Melora]]
+> - Previous Session: [[Session 12 & 13 - Finding the Compass]]
+> - Next Session: [[Session 17 & 18 - Aftermath at the Shrine of Melora]]
 
 ## Pre-Session Prep
 
@@ -64,4 +64,4 @@ tags:
 
 ### Next Session Planning
 
-- [[Sessions 17 & 18 - Aftermath at the Shrine of Melora]]
+- [[Session 17 & 18 - Aftermath at the Shrine of Melora]]

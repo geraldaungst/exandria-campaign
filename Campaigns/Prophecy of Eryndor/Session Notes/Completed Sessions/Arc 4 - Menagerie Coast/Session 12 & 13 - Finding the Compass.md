@@ -16,8 +16,8 @@ tags:
 > - Location(s): Odessloe swamp
 > - Active Plots: [[Aethor Kalisk's Secret Mission]]
 > - Key NPCs: [[Eidechse (Amanda Jeane)]] who will become a PC
-> - Previous Session: [[Sessions 10 & 11 - Goblins at the Bridge]]
-> - Next Session: [[Sessions 14 to 16 - Rift to the Elemental Plane of Fire]]
+> - Previous Session: [[Session 10 & 11 - Goblins at the Bridge]]
+> - Next Session: [[Session 14 to 16 - Rift to the Elemental Plane of Fire]]
 
 ## Session Notes
 

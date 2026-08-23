@@ -15,7 +15,7 @@ tags:
 > - Active Plots: [[Assembling the Lorestone]]
 > - Key NPCs:
 > - Previous Session: [[Session 27 - Slaad Encounter]]
-> - Next Session: [[Sessions 29-31 - Traveling to Cloudfang]]
+> - Next Session: [[Session 29-31 - Traveling to Cloudfang]]
 
 ## Pre-Session Review (30-45 min)
 

@@ -14,7 +14,7 @@ tags:
 > - Main Location(s): [[The Shrine of Melora]]
 > - Active Quests: [[Search for the Stonefoot Compass]]
 > - Important NPCs: [[Rinneth Starsong]], [[Radelia Caphax]]
-> - Previous session: [[Sessions 14 to 16 - Rift to the Elemental Plane of Fire]]
+> - Previous session: [[Session 14 to 16 - Rift to the Elemental Plane of Fire]]
 > - Next session: [[Session 19 - Interrogating Radelia]]
 
 ## Pre-Session Prep
