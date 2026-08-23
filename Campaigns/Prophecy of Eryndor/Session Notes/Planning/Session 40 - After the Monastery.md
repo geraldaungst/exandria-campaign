@@ -21,7 +21,9 @@ tags:
 ### 1. Review Characters (3 min)
 
 **Scan [[Character Story Beats]] - what's relevant THIS session?**
+
 - None specifically for this session
+
 ### 2. Strong Start (5 min)
 
 **How does the session open?**
@@ -39,7 +41,7 @@ For each: Who's there? What's the conflict/choice/discovery?
 *Thinking prompts: What do PCs want? What opposes them? What interrupts? What arrives? What's discovered? What choice emerges?*
 
 1. Drawg wants his dagger and his wyvern pet back
-2. Dreyara 
+2. Dreyara
 
 ### 4. Secrets & Clues (10 min)
 
