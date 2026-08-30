@@ -76,7 +76,7 @@ You can use Life Infusion only once per turn.
 > **Scabbard Separation:** If the blade remains attuned but is somehow separated from its scabbard, the blade will lose one level of progression every five days they are apart until it reverts to its basic properties. Reuniting the blade with its scabbard will maintain the dagger at whatever level of progression it currently holds. Lost levels can only be regained through another increase in proficiency or significant life events (at DM's discretion).
 >
 > **Attunement Loss:** Losing attunement will revert it immediately to an ordinary dagger. If a character re-attunes after this, progression starts over, and any lost levels must be regained through additional increases in proficiency. Any character attuned to the blade when it is Awakened or higher will be aware of this risk.
-> 
+>
 > ## Awakened (Level 2)
 
 The blade retains all Dormant properties, with the following changes and additions:
