@@ -21,7 +21,7 @@ The [[Lorestone of Eryndor]] was shattered into 8 pieces. This tracker documents
 
 - **Secured by Obsidian Echoforge:** Shards 1-4
 - **Held by Cobalt Soul (secret):** Shard 5
-- **In enemy hands:** Shard 6
+- **Carried by the party:** Shard 6
 - **Guarded by dragon:** Shard 7
 - **Astral Plane** (tentatively): Shard 8
 
@@ -182,17 +182,17 @@ The [[Lorestone of Eryndor]] was shattered into 8 pieces. This tracker documents
 
 ^shard6
 
-**Current Status:** Enemy possession
+**Current Status:** Held by the party
 
-**Current Holder:** [[Dreyara Drimvar]]
+**Current Holder:** A party member (unsure which character)
 
-**Physical Location:** Cyrios Mountains (mobile with Dreyara)
+**Physical Location:** Party inventory
 
-**Acquired:** Recently (taken from [[Celdric Ambril]]'s expedition)
+**Acquired:** from [[Dreyara Drimvar|Dreyara]] when she was killed
 
 **Known By:**
 
-- [[Dreyara Drimvar]] (possession)
+- [[Dreyara Drimvar]] (deceased, no longer has it)
 - [[Vaud Qalix]] (Dreyara works for him)
 - [[Celdric Ambril]] (was seeking it, knows it was found)
 - [[Aelorin Nightshade]]
@@ -200,9 +200,6 @@ The [[Lorestone of Eryndor]] was shattered into 8 pieces. This tracker documents
 **Pursued By:**
 
 - [[Obsidian Echoforge]] (seeking via [[Aethor Kalisk]] investigation)
-- Player characters (current quest line)
-
-**Security Level:** Low-Medium - On person, mobile
 
 **Prophecy Content:** Lines revealed on this shard:
 
