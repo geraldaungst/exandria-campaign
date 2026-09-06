@@ -11,6 +11,8 @@ A jagged fragment of obsidian, roughly 6 inches at its longest point, with ancie
 
 **Planar Awareness.** While attuned to this shard, you can sense the direction and general nature of any planar rift within 1,000 feet of you. You instinctively know which plane the rift connects to (if any) and can sense the rift's approximate size and stability.
 
+A shard's detection radius scales with the strength of the planar disturbance. The listed radius is the maximum, for a fully open, active rift. Weaker disturbances register at proportionally shorter range, and intensity increases with proximity within that range. See [[Table Rulings#Planar Detection Range]] for more.
+
 **Phase Sight.** When you are within 30 feet of a planar rift, you can use a bonus action to activate the shard's phase-sight ability for 10 minutes. While active, you can perceive both the Material Plane and the connected plane simultaneously, gaining the following benefits and drawbacks:
 
 - You have advantage on Dexterity (Stealth) checks.
