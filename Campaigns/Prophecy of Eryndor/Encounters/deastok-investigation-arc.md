@@ -26,6 +26,29 @@ type: session-prep
 
 ---
 
+## Social Reference—DM
+
+> [!info] No combat, no stat blocks. **Nobody in Deastok is lying.**
+> Zone of Truth accomplishes nothing here. Insight against Bramwell reveals tiredness, not deceit—"I collect odd reports for someone" is literally true. Brynna would admit she's burying the anomaly if asked directly; she thinks it's the correct professional call, and she's right.
+>
+> The obstacles are **offers, not DCs.** Hesterian's Silver Tongue floors her Persuasion and Deception at 10, so any DC under ~15 is automatic for her. Jorun returning to the site and Aldous granting delay should both hinge on what the party puts on the table.
+
+| NPC | Passive Insight | Relevant Skills | Notes |
+|---|---|---|---|
+| [[Surveyor Brynna Colefist\|Brynna]] | 14 | History/Investigation +6 (masonry, surveying) | Reads people professionally. Sharp, not suspicious. |
+| [[Bramwell Bellweather\|Bramwell]] | 14 | Deception +5, Insight +4 | Deflects, doesn't lie. |
+| [[Torvald Halsen\|Torvald]] | 13 |—| Innkeeper's read on people. Nothing to roll. |
+| [[Dr. Wenna Alsott\|Wenna]] | 14 | Medicine +5 |—|
+| [[Aldous Penwrye\|Aldous]] | 12 |—| Uninterested in being read. |
+| [[Jorun Kettlewright\|Jorun]] | 11 | Perception at disadvantage (exhaustion) |—|
+| Survey crew | 10 |—| Commoners. |
+
+**Aldous specifically:** no delay without a reason he can write down. *With* a reason he can write down, near-automatic—it costs the estate nothing.
+
+> [!warning] Spell contingencies
+> - **Detect Magic**—a level 8–9 party will cast this within a minute of arriving at the site. Faint conjuration across the whole footprint, no localization, no stronger anywhere they can point to, unchanged on a repeat casting. Consistent with the shard's null Planar Awareness result: something is there, and nothing will name it.
+> - **Speak with Animals**—the cart horse and the farm dog already refuse the footprint. A legitimate door to the watching presence: an animal can report not wanting to be there without interpreting anything.
+
 ### Today's Clock
 
 > [!warning] The site is available for one day
@@ -96,9 +119,9 @@ type: session-prep
 > [!warning] Text Vicki before the session
 > This assigns Seraphina an experience she didn't choose. Tell her it's coming so she can decide what Seraphina does with it, rather than improvising cold in the middle of a market scene. You're not asking permission for the dream—you're giving her room to prepare.
 
-Fern undergrowth, big oak trees. Sun streaming through, babbling brook. Quiet glen away from the city, solitude, connecting with the animals. Foxes, otters. Patron would come to visit. Clean running streams. Very green. Moss on the rocks, skipping through the pathway to the glen with a waterfall, twilight with a sprinkle of fireflies. 
+Fern undergrowth, big oak trees. Sun streaming through, babbling brook. Quiet glen away from the city, solitude, connecting with the animals. Foxes, otters. Patron would come to visit. Clean running streams. Very green. Moss on the rocks, skipping through the pathway to the glen with a waterfall, twilight with a sprinkle of fireflies.
 
-Black corruption, animals deformed. Black mold creeping across the trees, leaves wilting, squirrels with melted faces, 
+Black corruption, animals deformed. Black mold creeping across the trees, leaves wilting, squirrels with melted faces,
 
 Seraphina has had this dream the last night or two on the road down out of the Cyrios Mountains. She's written it off. She dreams about home.
 
