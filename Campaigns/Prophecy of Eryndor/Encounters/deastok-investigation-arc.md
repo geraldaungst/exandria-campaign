@@ -140,7 +140,7 @@ Seraphina has had this dream the last night or two on the road down out of the C
 The beat is not "do you recognize these trees." It's **a stranger who has never left the Truscan Vale casually reciting the inside of her head.**
 
 > [!quote]- Boxed text: first mention
-> "A woman at the fruit stall is laughing without much humor. 'Third night this week. Same dream. Standing in trees I've never seen in my life—bark all wrong, leaves all wrong—and something in among them, watching me. Never comes near. Just watches.' Her friend nods along."
+> "A woman at the fruit stall is laughing without much humor. 'Third night this week. Same dream. Standing in trees I've never seen in my life—bark all wrong, leaves all wrong—Fern undergrowth, big trees. Sun streaming through, babbling brook. Very green. Moss on the rocks, I'm skipping through the pathway to the glen with then a waterfall at twilight with a sprinkle of fireflies." Her friend nods along.
 
 **Running notes:**
 
@@ -161,10 +161,10 @@ The comb delivery is happening regardless. This is what it buys.
 
 **Beats:**
 
-- [ ] Baseline: courteous, uninvested. Good service, no small talk, no curiosity about where they're from.
-- [ ] **The shift is triggered specifically by Marta's name or the comb**—not by anything else the party says or does.
-- [ ] Once warm: he asks after Marta and Henrik by name, may sit with them.
-- [ ] **Then, unprompted:** Jorun hasn't been in. That isn't like him—he's a friend, not just a regular. Torvald is worried and says so.
+- [x] Baseline: courteous, uninvested. Good service, no small talk, no curiosity about where they're from.
+- [x] **The shift is triggered specifically by Marta's name or the comb**—not by anything else the party says or does.
+- [x] Once warm: he asks after Marta and Henrik by name, may sit with them.
+- [x] **Then, unprompted:** Jorun hasn't been in. That isn't like him—he's a friend, not just a regular. Torvald is worried and says so.
 - [ ] If asked where to find him: a stonemason's house in [[Garden Grounds]], squared lintels, easy to spot.
 
 #### [[Dr. Wenna Alsott]]—clinical Angle
@@ -581,8 +581,8 @@ Old-money residential, parks, red-roofed on the working map. Deastok's genuine a
 
 **First visit:**
 
-- [ ] Torvald greets them plainly, seats them, takes an order. No questions about where they're from.
-- [ ] The room is quiet and local. No performance, nothing aimed at a visitor.
+- [x] Torvald greets them plainly, seats them, takes an order. No questions about where they're from.
+- [x] The room is quiet and local. No performance, nothing aimed at a visitor.
 - [ ] **Comb or Marta's name → the shift.** Warmer, more present. May sit with them, asks after Marta and Henrik by name. **Then raises Jorun.**
 - [ ] Without the comb: nothing happens. Pleasant and unremarkable until it does.
 
