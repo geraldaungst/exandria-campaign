@@ -140,7 +140,7 @@ Seraphina has had this dream the last night or two on the road down out of the C
 The beat is not "do you recognize these trees." It's **a stranger who has never left the Truscan Vale casually reciting the inside of her head.**
 
 > [!quote]- Boxed text: first mention
-> "A woman at the fruit stall is laughing without much humor. 'Third night this week. Same dream. Standing in trees I've never seen in my life—bark all wrong, leaves all wrong—Fern undergrowth, big trees. Sun streaming through, babbling brook. Very green. Moss on the rocks, I'm skipping through the pathway to the glen with then a waterfall at twilight with a sprinkle of fireflies." Her friend nods along.
+> "A woman at the fruit stall is laughing without much humor. 'Third night this week I had the same dream. Standing in trees I've never seen in my life—bark was all wrong, smoother and lighter than 'round here—Fern undergrowth, big leafy trees. Sun streaming through. Oh there was a babbling brook too. It was very green. Moss on the rocks. Every night the same thing: I'm skipping along a pathway towards the glen, then a waterfall at twilight with a sprinkle of fireflies. I feel like I'm expecting someone. And then I wake up." Her friend nods along.
 
 **Running notes:**
 
@@ -165,7 +165,7 @@ The comb delivery is happening regardless. This is what it buys.
 - [x] **The shift is triggered specifically by Marta's name or the comb**—not by anything else the party says or does.
 - [x] Once warm: he asks after Marta and Henrik by name, may sit with them.
 - [x] **Then, unprompted:** Jorun hasn't been in. That isn't like him—he's a friend, not just a regular. Torvald is worried and says so.
-- [ ] If asked where to find him: a stonemason's house in [[Garden Grounds]], squared lintels, easy to spot.
+- [x] If asked where to find him: a stonemason's house in [[Garden Grounds]], squared lintels, easy to spot.
 
 #### [[Dr. Wenna Alsott]]—clinical Angle
 
@@ -174,12 +174,12 @@ The comb delivery is happening regardless. This is what it buys.
 
 **Facts Wenna can share:**
 
-- [ ] Four or five patients over several weeks, same recurring dream. **Their accounts are vague**—trees, being watched, nothing anyone can pin down.
-- [ ] **Common thread: trees nobody recognizes**, and being watched from among them. The vagueness is what nags at her: five people who can't describe it, describing the same thing.
-- [ ] **Jorun is the exception.** His account is exact, and it's recent. That's why she brings him up.
+- [x] Four or five patients over several weeks, same recurring dream. **Their accounts are vague**—trees, being watched, nothing anyone can pin down.
+- [x] **Common thread: trees nobody recognizes**, and being watched from among them. The vagueness is what nags at her: five people who can't describe it, describing the same thing.
+- [x] **Jorun is the exception.** His account is exact, and it's recent. That's why she brings him up.
 - [ ] Nobody is physically harmed—poor sleep, irritability, nothing worse. She's puzzled, not alarmed.
-- [ ] No common cause she can find. Different ages, different districts, no shared meal, water, or event.
-- [ ] **(Referral)** "You should talk to [[Jorun Kettlewright|Jorun]], down in the Garden Grounds. He described it more exactly than the others. And he's taken it harder."
+- [x] No common cause she can find. Different ages, different districts, no shared meal, water, or event.
+- [x] **(Referral)** "You should talk to [[Jorun Kettlewright|Jorun]], down in the Garden Grounds. He described it more exactly than the others. And he's taken it harder."
 
 **If pushed:**
 
@@ -200,10 +200,10 @@ The comb delivery is happening regardless. This is what it buys.
 
 **Facts Jorun can share:**
 
-- [ ] The dream repeats almost exactly. Trees at night. Watched by something old.
-- [ ] The presence never approaches, never speaks, never resolves. Present, and *wrong.* "Not evil, exactly. Just… old. Older than it should be."
-- [ ] **He was at the site.** Brynna asked him out to look at the stonework—she knows he takes an interest in old construction. He was there a few hours.
-- [ ] **He got sick and left.** He can't say what happened. He was fine, then he wasn't, and he went home. The dream came that night.
+- [x] The dream repeats almost exactly. Trees at night. Watched by something old.
+- [x] The presence never approaches, never speaks, never resolves. Present, and *wrong.* "Not evil, exactly. Just… old. Older than it should be."
+- [x] **He was at the site.** Brynna asked him out to look at the stonework—she knows he takes an interest in old construction. He was there a few hours.
+- [x] **He got sick and left.** He can't say what happened. He was fine, then he wasn't, and he went home. The dream came that night.
 - [ ] **Professional read on the masonry** (firsthand—he handled it): the joints aren't Empire work, aren't elven, aren't anything he's placed. Courses laid tighter than he can account for with the tools he knows.
 - [ ] **(Fact 2 door)** This read survives even if the party never gets Brynna—see Scene 2 routing.
 
