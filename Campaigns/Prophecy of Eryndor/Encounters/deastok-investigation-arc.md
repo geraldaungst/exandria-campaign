@@ -33,15 +33,15 @@ type: session-prep
 >
 > The obstacles are **offers, not DCs.** Hesterian's Silver Tongue floors her Persuasion and Deception at 10, so any DC under ~15 is automatic for her. Jorun returning to the site and Aldous granting delay should both hinge on what the party puts on the table.
 
-| NPC | Passive Insight | Relevant Skills | Notes |
-|---|---|---|---|
-| [[Surveyor Brynna Colefist\|Brynna]] | 14 | History/Investigation +6 (masonry, surveying) | Reads people professionally. Sharp, not suspicious. |
-| [[Bramwell Bellweather\|Bramwell]] | 14 | Deception +5, Insight +4 | Deflects, doesn't lie. |
-| [[Torvald Halsen\|Torvald]] | 13 |—| Innkeeper's read on people. Nothing to roll. |
-| [[Dr. Wenna Alsott\|Wenna]] | 14 | Medicine +5 |—|
-| [[Aldous Penwrye\|Aldous]] | 12 |—| Uninterested in being read. |
-| [[Jorun Kettlewright\|Jorun]] | 11 | Perception at disadvantage (exhaustion) |—|
-| Survey crew | 10 |—| Commoners. |
+| NPC                                  | Passive Insight | Relevant Skills                               | Notes                                               |
+| ------------------------------------ | --------------- | --------------------------------------------- | --------------------------------------------------- |
+| [[Surveyor Brynna Colefist\|Brynna]] | 14              | History/Investigation +6 (masonry, surveying) | Reads people professionally. Sharp, not suspicious. |
+| [[Bramwell Bellweather\|Bramwell]]   | 14              | Deception +5, Insight +4                      | Deflects, doesn't lie.                              |
+| [[Torvald Halsen\|Torvald]]          | 13              | —                                             | Innkeeper's read on people. Nothing to roll.        |
+| [[Dr. Wenna Alsott\|Wenna]]          | 14              | Medicine +5                                   | —                                                   |
+| [[Aldous Penwrye\|Aldous]]           | 12              | —                                             | Uninterested in being read.                         |
+| [[Jorun Kettlewright\|Jorun]]        | 11              | Perception at disadvantage (exhaustion)       | —                                                   |
+| Survey crew                          | 10              | —                                             | Commoners.                                          |
 
 **Aldous specifically:** no delay without a reason he can write down. *With* a reason he can write down, near-automatic—it costs the estate nothing.
 
