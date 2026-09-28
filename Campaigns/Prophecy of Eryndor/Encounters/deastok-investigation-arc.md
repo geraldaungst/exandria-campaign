@@ -37,11 +37,11 @@ type: session-prep
 | ------------------------------------ | --------------- | --------------------------------------------- | --------------------------------------------------- |
 | [[Surveyor Brynna Colefist\|Brynna]] | 14              | History/Investigation +6 (masonry, surveying) | Reads people professionally. Sharp, not suspicious. |
 | [[Bramwell Bellweather\|Bramwell]]   | 14              | Deception +5, Insight +4                      | Deflects, doesn't lie.                              |
-| [[Torvald Halsen\|Torvald]]          | 13              | —                                             | Innkeeper's read on people. Nothing to roll.        |
-| [[Dr. Wenna Alsott\|Wenna]]          | 14              | Medicine +5                                   | —                                                   |
-| [[Aldous Penwrye\|Aldous]]           | 12              | —                                             | Uninterested in being read.                         |
-| [[Jorun Kettlewright\|Jorun]]        | 11              | Perception at disadvantage (exhaustion)       | —                                                   |
-| Survey crew                          | 10              | —                                             | Commoners.                                          |
+| [[Torvald Halsen\|Torvald]]          | 13              |—| Innkeeper's read on people. Nothing to roll.        |
+| [[Dr. Wenna Alsott\|Wenna]]          | 14              | Medicine +5                                   |—|
+| [[Aldous Penwrye\|Aldous]]           | 12              |—| Uninterested in being read.                         |
+| [[Jorun Kettlewright\|Jorun]]        | 11              | Perception at disadvantage (exhaustion)       |—|
+| Survey crew                          | 10              |—| Commoners.                                          |
 
 **Aldous specifically:** no delay without a reason he can write down. *With* a reason he can write down, near-automatic—it costs the estate nothing.
 
@@ -253,10 +253,10 @@ The comb delivery is happening regardless. This is what it buys.
 
 **[[Aldous Penwrye]]—land steward.** Courteous, brisk, unbothered. Routine paperwork, not security.
 
-- [ ] Asks their business. A simple statement of intent is sufficient.
-- [ ] Produces far more forms than the request warrants. Takes longer than it should. If asked why: a brief stare, then **"You must be new to the Empire."** No further explanation.
-- [ ] Notes names and purpose in the ledger, already halfway to the next thought.
-- [ ] Hands over a signed chit, practically an afterthought.
+- [x] Asks their business. A simple statement of intent is sufficient.
+- [x] Produces far more forms than the request warrants. Takes longer than it should. If asked why: a brief stare, then **"You must be new to the Empire."** No further explanation.
+- [x] Notes names and purpose in the ledger, already halfway to the next thought.
+- [x] Hands over a signed chit, practically an afterthought.
 - [ ] **The deadline lands here.** Mentioned in passing, not as a warning: Colefist's report is overdue, he expects it in the morning, and the field is going under the plow after that. He is entirely unbothered about it, which is exactly what makes it real.
 - [ ] **This is a lever.** If the party later wants the site preserved, Aldous can extend the deadline—for a reason he can write down, a name he recognizes, or something that costs the estate nothing. He does not care about the anomaly. He cares about the paperwork being clean.
 - [ ] **Optional:** "Half of Deastok's been curious about that hole in the ground."
