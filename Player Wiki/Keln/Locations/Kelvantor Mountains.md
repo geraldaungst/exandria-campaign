@@ -5,6 +5,7 @@ tags:
   - world/keln
 aliases: []
 publish: true
+cssclasses: world-keln
 ---
 
 ## Description

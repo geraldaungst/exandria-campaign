@@ -1,10 +1,11 @@
 ---
+aliases: []
+publish: true
 tags:
   - atomic
   - player-facing
   - world/keln
-aliases: []
-publish: true
+cssclasses: world-keln
 ---
 
 Universal term for common people who are not [[Quickened]].

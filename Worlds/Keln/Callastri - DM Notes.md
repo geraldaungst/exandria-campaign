@@ -1,8 +1,8 @@
 ---
+aliases: []
 tags:
   - location
   - world/keln
-aliases: []
 ---
 
 ![[Callastri]]

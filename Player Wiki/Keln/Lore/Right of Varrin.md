@@ -1,10 +1,11 @@
 ---
+aliases: []
+publish: true
 tags:
   - atomic
   - player-facing
   - world/keln
-aliases: []
-publish: true
+cssclasses: world-keln
 ---
 
 > [!info] Quick Reference

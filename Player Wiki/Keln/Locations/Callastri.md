@@ -1,10 +1,11 @@
 ---
+aliases: []
+cssclasses: world-keln
+publish: true
 tags:
   - location
   - player-facing
   - world/keln
-aliases: []
-publish: true
 ---
 
 > [!info] Quick Reference

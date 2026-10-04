@@ -1,12 +1,13 @@
 ---
+aliases:
+  - Varrinthal (Kingdom)
+publish: true
 tags:
   - location
   - player-facing
   - world/keln
   - region/varrinthal
-aliases:
-  - "Varrinthal (Kingdom)"
-publish: true
+cssclasses: world-keln
 ---
 
 > [!info] Quick Reference
