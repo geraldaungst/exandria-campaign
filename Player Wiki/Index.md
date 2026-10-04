@@ -1,8 +1,8 @@
 ---
-tags:
-  - player-facing
 aliases: []
 publish: true
+tags:
+  - player-facing
 ---
 
 This wiki collects what the characters know about the worlds we play in. It grows as the campaigns do.

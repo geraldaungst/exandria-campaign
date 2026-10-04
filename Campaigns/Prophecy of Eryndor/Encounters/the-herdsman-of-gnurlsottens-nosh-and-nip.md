@@ -1,8 +1,8 @@
 ---
 leads-to: "[[Deastok]]"
-location: "[[Gnurlsotten's Nosh & Nip]]"
+location: "[[Gnurlsotten's Nosh & Nip - DM Notes]]"
 npcs:
-  - "[[Grent Gnurlsotten]]"
+  - "[[Grent Gnurlsotten - DM Notes]]"
 session: ""
 status: ready
 tags:
@@ -19,7 +19,7 @@ type: session-prep
 
 **Party:** Drawg, Hesterian, Popcorn, Qilynn, Seraphina (~level 8-9)
 
-**Reference:** [[Grent Gnurlsotten]] · [[Gnurlsotten's Nosh & Nip]]
+**Reference:** [[Grent Gnurlsotten - DM Notes]] · [[Gnurlsotten's Nosh & Nip - DM Notes]]
 
 ---
 
@@ -41,7 +41,7 @@ type: session-prep
 | **Popcorn** | Yes, same name as the PC. Grent's first line to the party is about *this* goat. |
 | **Pretzel** | Arrived last, jogging, refusing to be left out. |
 
-> Seven more in the herd—see [[Gnurlsotten's Nosh & Nip]] if a player asks.
+> Seven more in the herd—see [[Gnurlsotten's Nosh & Nip - DM Notes]] if a player asks.
 
 #### The regulars
 
@@ -52,7 +52,7 @@ type: session-prep
 | **Old Ren Pallick**  | "Winters"   | Dwarf    | Commoner | Gaunt, seventy-plus, hands like knotted rope, wind-burned. Nearest the fire, same four stories in rotation.                                                          |
 | **Bram Ostwick**     | "Loud Bram" | Halfling | Commoner | Four feet tall, thirty, gap-toothed. Voice carries through a closed door. Runs the betting in Beat 4.                                                                |
 
-**Grent:** Gladiator—no spear, no shield, all grapples and shoves, roughly double HP. Crowd calls the fight, not zero HP. Full note in [[Grent Gnurlsotten]].
+**Grent:** Gladiator—no spear, no shield, all grapples and shoves, roughly double HP. Crowd calls the fight, not zero HP. Full note in [[Grent Gnurlsotten - DM Notes]].
 
 #### Cave-Aged Truscan
 
@@ -121,7 +121,7 @@ Pick before you start, adjust live. Each beat below has **Trim** and **Stretch**
 
 ### Beat 1—Arrival & the Accusation
 
-**Trigger:** Party reaches [[Gnurlsotten's Nosh & Nip]] with three goats in tow.
+**Trigger:** Party reaches [[Gnurlsotten's Nosh & Nip - DM Notes]] with three goats in tow.
 
 > [!quote] Read-aloud 1—from the road
 > Ahead of you as dusk is falling, you see the warm glow of firelight lighting the trees and snow. The trail bends around a shoulder of grey rock, and there it is: a low building of mountain logs set hard against the hillside, snow banked up along its windward wall. Whoever built it knew what they were doing.
@@ -439,4 +439,4 @@ Genuinely, mildly annoyed. Every time.
 
 - The real goat-thieves are never confronted here. Could resurface later for a laugh, or stay an unsolved mystery Grent never learns.
 - **Wheel-Balance Gauntlet** and **The Long Story**—unused trial ideas, banked for a return visit.
-- Grent's visibly expensive items around the tavern go unexplained. A hook if you want a reason to come back. See [[Gnurlsotten's Nosh & Nip]].
+- Grent's visibly expensive items around the tavern go unexplained. A hook if you want a reason to come back. See [[Gnurlsotten's Nosh & Nip - DM Notes]].

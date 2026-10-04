@@ -1,5 +1,5 @@
 ---
-proprietor: "[[Grent Gnurlsotten]]"
+proprietor: "[[Grent Gnurlsotten - DM Notes]]"
 region: Cyrios Mountains
 settlement-type: roadside tavern
 status: active
@@ -14,7 +14,7 @@ type: location
 
 A one-room tavern and cheesery at the edge of the Cyrios Mountains. Not in a town—but close enough that regulars from nearby settlements make the trip, and far enough that travelers treat it as a known haven.
 
-**Proprietor:** [[Grent Gnurlsotten]]
+**Proprietor:** [[Grent Gnurlsotten - DM Notes]]
 
 **First visited:** [[the-herdsman-of-gnurlsottens-nosh-and-nip]]
 
@@ -32,7 +32,7 @@ The cave's naturally cold, mineral-rich walls are where the cheese ages. **Grent
 
 ---
 
-### Hollowfrost Wheel
+### Cave-Aged Truscan
 
 The cheese. Legendary across Wildemount, and rumored—wrongly—to involve blood sacrifice, a lost dwarven recipe, or a pact with a cave spirit.
 
@@ -44,7 +44,7 @@ The cheese. Legendary across Wildemount, and rumored—wrongly—to involve bloo
 
 A genuine minor magical property, and part of why the cheese is so sought after.
 
-> For 1 hour after eating a portion of Hollowfrost Wheel, your voice carries with unnatural clarity and volume—as if the stillness of the aging cave itself lives in your throat. At will during this hour, you can cause your voice to boom up to three times louder than normal for 1 minute, audible clearly at a great distance even over wind, crowds, or storm.
+> For 1 hour after eating a portion of Cave-Aged Truscan, your voice carries with unnatural clarity and volume—as if the stillness of the aging cave itself lives in your throat. At will during this hour, you can cause your voice to boom up to three times louder than normal for 1 minute, audible clearly at a great distance even over wind, crowds, or storm.
 >
 > This is the "manipulate your voice" option of the *thaumaturgy* cantrip and no other part of that spell. It has no combat application beyond being heard—it doesn't frighten, damage, or otherwise affect creatures.
 
