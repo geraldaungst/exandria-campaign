@@ -1,8 +1,8 @@
 ---
 tags:
-  - item
   - needs-work
   - region/menagerie-coast
+  - artifact
 ---
 
 ![[Stonefoot Compass.jpeg]]

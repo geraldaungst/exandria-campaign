@@ -37,7 +37,7 @@ WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.fil
 
 ```dataview
 LIST
-FROM #item
+FROM #artifact
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
 

@@ -1,9 +1,9 @@
 ---
+aliases: []
 tags:
   - location
   - world/keln
   - region/ringhold
-aliases: []
 ---
 
 ![[The Ringhold]]
@@ -16,11 +16,11 @@ The Ring is a permanent five-seat council (see [[The Ring]]). Seats are lifetime
 
 ### Elections
 
-Charter grants suffrage to all Ringhold citizens, but practically, only settlements formally on the confederation's rolls participate — see membership below. Within a city or town, neighborhoods self-organize to choose a preferred candidate by whatever local method they like, then select one representative to carry a signed ballot (with all participating citizens' signatures) to [[Tur-Marethis]]. Votes are counted by signature, not by ballot — one person, one signature, regardless of distance traveled. Distant member-towns need only send one representative, not their whole population. Each town/neighborhood decides its own definition of "eligible voter." No formal audit process currently exists for signature sheets; fraud is possible and has likely happened, undetected, at least occasionally. Good seed for a local corruption plot.
+Charter grants suffrage to all Ringhold citizens, but practically, only settlements formally on the confederation's rolls participate—see membership below. Within a city or town, neighborhoods self-organize to choose a preferred candidate by whatever local method they like, then select one representative to carry a signed ballot (with all participating citizens' signatures) to [[Tur-Marethis]]. Votes are counted by signature, not by ballot—one person, one signature, regardless of distance traveled. Distant member-towns need only send one representative, not their whole population. Each town/neighborhood decides its own definition of "eligible voter." No formal audit process currently exists for signature sheets; fraud is possible and has likely happened, undetected, at least occasionally. Good seed for a local corruption plot.
 
 ### Membership/growth
 
-The Ringhold grew primarily through voluntary petition, not conquest. A settlement learns of the Ringhold's resources/protection, decides the benefits outweigh independence, and applies to join — agreeing to Ringhold law and the electoral system in exchange. Conquest/annexation exists elsewhere in [[Callastri|Callastri's]] history but is the rare exception, not how the Ringhold itself expanded. This mirrors how [[Varrinthal Kingdom|Varrinthal's]] realm likely absorbed places like [[Watcher's Rest]]: not conquest, but opt-in alliance.
+The Ringhold grew primarily through voluntary petition, not conquest. A settlement learns of the Ringhold's resources/protection, decides the benefits outweigh independence, and applies to join—agreeing to Ringhold law and the electoral system in exchange. Conquest/annexation exists elsewhere in [[Callastri|Callastri's]] history but is the rare exception, not how the Ringhold itself expanded. This mirrors how [[Varrinthal Kingdom|Varrinthal's]] realm likely absorbed places like [[Watcher's Rest]]: not conquest, but opt-in alliance.
 
 ### The Founders
 
@@ -48,7 +48,7 @@ WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.fil
 
 ```dataview
 LIST
-FROM #item
+FROM #artifact
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 ```
 

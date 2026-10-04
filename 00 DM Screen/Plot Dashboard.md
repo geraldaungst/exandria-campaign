@@ -83,6 +83,6 @@ WHERE any(file.inlinks, (l) => contains(l.file.tags, "plot/active"))
 
 ```dataview
 LIST
-FROM #item
+FROM #artifact
 WHERE any(file.inlinks, (l) => contains(l.file.tags, "plot/active"))
 ```

@@ -34,14 +34,14 @@ An "Owns" list names the subjects a run is responsible for deciding about. It do
 - [ ] "Rename first" list applied in Obsidian, then the new notes added.
 - [ ] New note titles added to [[Player Wiki Ledger]], committed, and synced.
 - [ ] "Additions for existing notes" merged. "Unassigned subjects" assigned. "Left out" reviewed.
-- [ ] Exandria Index replaced with Claude's new version.
+- [ ] The World of Exandria replaced with Claude's new version.
 
 ---
 
 ## Phase 1: Test run
 
 - [ ] **S01 Gnurlsotten's Nosh & Nip**
-  - Owns: the tavern and cheesery, its proprietor Grent Gnurlsotten, the Hollowfrost Wheel (the cheese and its reputation).
+  - Owns: the tavern and cheesery, its proprietor Grent Gnurlsotten, Cave-Aged Truscan (the cheese and its reputation).
   - Leaves to: T08 (Cyrios Mountains). The regulars, goats, and the party's visit are out of scope.
 
 ## Phase 2: Travel Exandria (destinations)
@@ -97,7 +97,7 @@ An "Owns" list names the subjects a run is responsible for deciding about. It do
 
 ## Phase 4: Finish
 
-- [ ] **F01 Final pass.** No new subjects. Rebuild the Exandria Index, audit unresolved links and duplicates, and consolidate any leftover rename and merge lists.
+- [ ] **F01 Final pass.** No new subjects. Rebuild The World of Exandria, audit unresolved links and duplicates, and consolidate any leftover rename and merge lists.
 
 ---
 

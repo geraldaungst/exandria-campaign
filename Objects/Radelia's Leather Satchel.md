@@ -1,6 +1,6 @@
 ---
 tags:
-  - item
+  - artifact
 ---
 
 ## Radelia's Leather Satchel

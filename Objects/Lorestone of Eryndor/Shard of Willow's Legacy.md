@@ -3,6 +3,7 @@ tags:
   - item
   - campaign/eryndor
   - needs-work
+  - artifact
 ---
 
 **Shard of Willow's Legacy**

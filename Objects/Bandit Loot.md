@@ -1,6 +1,5 @@
 ---
-tags:
-  - item
+tags: []
 ---
 
 [[Session 20 - Bandit Ambush in Swamp]]

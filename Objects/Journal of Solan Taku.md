@@ -1,6 +1,6 @@
 ---
 tags:
-  - item
+  - artifact
 ---
 
 ## **Day 12 Of Blossoming**

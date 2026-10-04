@@ -1,6 +1,7 @@
 ---
 tags:
   - campaign/eryndor
+  - artifact
 ---
 
 ## Lorestone Shard

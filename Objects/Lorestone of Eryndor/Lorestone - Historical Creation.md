@@ -5,6 +5,7 @@ tags:
   - atomic
   - campaign/eryndor
   - needs-work
+  - artifact
 ---
 
 ## Core Information

@@ -8,8 +8,8 @@ possession:
   - "[[Aethor Kalisk]]"
   - "[[01 The Prophecy]]"
 tags:
-  - item
   - campaign/eryndor
+  - artifact
 ---
 
 ![[Lorestone-of-Eryndor.png|400]]

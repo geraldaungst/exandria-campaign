@@ -1,3 +1,8 @@
+---
+tags:
+  - artifact
+---
+
 *Wondrous item, rare (consumable), requires no attunement*
 
 These cloudy, brined spider eyes are stored in small stone jars filled with a sharply pungent, milky liquid. Once harvested from phase spiders, the eyes were pickled in an alchemical brine developed by firbolg monks who studied planar creatures. They used the eyes both as a research tool and as fuel for good-natured pranks. When consumed, the eye briefly imparts some of the phase spider's strange abilities—along with some unsettling side effects.

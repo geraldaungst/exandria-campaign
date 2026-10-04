@@ -6,6 +6,7 @@ tags:
   - item
   - atomic
   - campaign/eryndor
+  - artifact
 ---
 
 ## Lorestone Shard Status Tracker

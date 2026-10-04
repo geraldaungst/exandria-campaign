@@ -2,8 +2,8 @@
 aliases:
   - Riftcage
 tags:
-  - item
   - needs-work
+  - artifact
 ---
 
 ![[riftcage.jpeg]]

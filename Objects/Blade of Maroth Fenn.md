@@ -1,8 +1,8 @@
 ---
 aliases: []
-possession: "[[Dreyara Drimvar]]"
+possession: "[[Drawg Stormbrew (Brew)|Drawg]]"
 tags:
-  - item
+  - artifact
 ---
 
 ## Item Name

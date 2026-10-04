@@ -5,6 +5,7 @@ tags:
   - campaign/eryndor
   - dm-only
   - plot
+  - artifact
 ---
 
 ## Luxon Beacon Political Consequences
