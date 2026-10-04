@@ -47,7 +47,7 @@ A well-dressed human man in his early 40s who carries himself with the confidenc
 
 ## Current Situation
 
-Currently operates as a major [[Myriad]] crime boss in [[Zadash - DM Notes]] under the alias "Babenon Dosal." Runs operations from the Evening Nip tavern and has built a sophisticated criminal network over 2-3 years. Unknown to his organization, he is actually Korfel Withrethin, a murderer who fled [[Port Damali]] after committing the [[Port Damali Murders]].
+Currently operates as a major [[Myriad]] crime boss in [[Zadash - DM Notes]] under the alias "Babenon Dosal." Runs operations from the Evening Nip tavern and has built a sophisticated criminal network over 2-3 years. Unknown to his organization, he is actually Korfel Withrethin, a murderer who fled [[Port Damali - DM Notes]] after committing the [[Port Damali Murders]].
 
 **Current Resources:**
 
@@ -61,7 +61,7 @@ Currently operates as a major [[Myriad]] crime boss in [[Zadash - DM Notes]] und
 
 ### Origins in Port Damali
 
-Korfel Withrethin was a merchant in [[Port Damali]] with criminal connections who had purchased exclusive patronage of [[Hesterian Shyr (Dot)]] from [[Grisul Adder]]'s brothel. When he discovered Hesterian planned to escape with her lover [[Xanaphia Lothliss]], his obsession with control led to violence.
+Korfel Withrethin was a merchant in [[Port Damali - DM Notes]] with criminal connections who had purchased exclusive patronage of [[Hesterian Shyr (Dot)]] from [[Grisul Adder]]'s brothel. When he discovered Hesterian planned to escape with her lover [[Xanaphia Lothliss]], his obsession with control led to violence.
 
 ![[Port Damali Murders#Core Information]]
 
@@ -71,7 +71,7 @@ To cover his crimes and deflect suspicion, Korfel immediately framed an innocent
 
 ![[Rylan Estevez Frame Job#Core Information]]
 
-After successfully framing Rylan, Korfel fled [[Port Damali]] with whatever criminal proceeds he could gather, eventually settling in [[Zadash - DM Notes]] where he reinvented himself.
+After successfully framing Rylan, Korfel fled [[Port Damali - DM Notes]] with whatever criminal proceeds he could gather, eventually settling in [[Zadash - DM Notes]] where he reinvented himself.
 
 ### Rise to Power
 

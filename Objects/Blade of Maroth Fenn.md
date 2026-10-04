@@ -10,7 +10,7 @@ tags:
 ### Quick Reference
 
 > [!info] Essential Details
-> - Current Location/Owner: [[Dreyara Drimvar]], [[Port Damali]]
+> - Current Location/Owner: [[Dreyara Drimvar]], [[Port Damali - DM Notes]]
 > - Power/Significance: Vestige of Divergence (unknown)
 > - Known by: None; [[Drawg Stormbrew (Brew)|Drawg]] has its scabbard
 

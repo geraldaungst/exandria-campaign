@@ -16,7 +16,7 @@ tags:
 
 ## Overview
 
-[[Aethor Kalisk|Aethor]] is headquartered in [[Port Damali]] while he researches the [[Assembling the Lorestone]].
+[[Aethor Kalisk|Aethor]] is headquartered in [[Port Damali - DM Notes]] while he researches the [[Assembling the Lorestone]].
 
 ## Current State
 

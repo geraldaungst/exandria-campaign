@@ -4,12 +4,12 @@ affiliations:
   - "[[Ashari Riftguard]]"
 aliases:
   - durnn
-current_location: "unknown"
+current_location: unknown
 disposition: indifferent
 tags:
   - npc
   - world/exandria
-  - "region/tal'dorei"
+  - region/taldorei
 ---
 
 ![[durnn.png|right|300]]

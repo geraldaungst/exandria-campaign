@@ -31,14 +31,14 @@ Attractive woman, lean and moderately muscular. Large tan jacket, well-kept copp
 
 ## Current Situation
 
-Recently returned from the Whitestone festival via the [[Sessions 1 to 3 - The Skyship|Unshaken]], where she was selling Cithrel Textiles goods as cover. Followed [[Aethor Kalisk]] around [[Port Damali]], gathering intelligence on his activities. Now stationed at [[The Shrine of Melora]] reporting to [[Rinneth Starsong]].
+Recently returned from the Whitestone festival via the [[Sessions 1 to 3 - The Skyship|Unshaken]], where she was selling Cithrel Textiles goods as cover. Followed [[Aethor Kalisk]] around [[Port Damali - DM Notes]], gathering intelligence on his activities. Now stationed at [[The Shrine of Melora]] reporting to [[Rinneth Starsong]].
 
 **Immediate plans:** Recover [[Radelia's Leather Satchel]], then return home to [[Odessloe]].
 
 **Secondary goal:** Maintain and grow her textile business as cover for [[Malachite Cord]] activities.
 
 > [!note]- Intelligence on Aethor Kalisk (Session 19)
-> Gathered during surveillance in [[Port Damali]]. Revealed during [[Session 19 - Interrogating Radelia]]:
+> Gathered during surveillance in [[Port Damali - DM Notes]]. Revealed during [[Session 19 - Interrogating Radelia]]:
 >
 > **Revealed to party:**
 > - [x] Aethor met with [[Calderax Dunhall]] at The Sunset Sail tavern in the Larboard Light

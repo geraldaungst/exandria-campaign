@@ -50,7 +50,7 @@ Operating in Port Damali, working to secure Myriad support for a planned heist o
 3. Execution of Covert Operations: Under her direction, numerous high-stakes missions have been carried out successfully, including the acquisition of rare artifacts and the elimination of key opposition figures.
 
 > [!note]- Myriad Contacts in Port Damali
-> Dreyara is cultivating alliances with the [[Myriad]] in [[Port Damali]] on Qalix's behalf. Key targets:
+> Dreyara is cultivating alliances with the [[Myriad]] in [[Port Damali - DM Notes]] on Qalix's behalf. Key targets:
 > - **[[Father Dwondaff Pierce]]**—head of the Pearl Shrine, contact for [[Korfel Withrethin|the Gentleman]]. Can provide safe havens, moral/social influence, and access to religious community resources.
 > - **Lord Gabriel Rymmer**—manager of the Exalted Collection Auction House, Rymmer family. Can provide financial resources and black market access for rare artifacts.
 > 

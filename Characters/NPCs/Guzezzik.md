@@ -1,13 +1,13 @@
 ---
 affiliations:
   - "[[Emissaries of the Sunfall]]"
-current_location: "unknown"
+current_location: unknown
 disposition: hostile
 tags:
   - npc
   - deceased
   - world/exandria
-  - "region/tal'dorei"
+  - region/taldorei
 ---
 
 home_city: Zadash

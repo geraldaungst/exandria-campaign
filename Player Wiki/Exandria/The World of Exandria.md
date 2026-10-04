@@ -10,6 +10,21 @@ publish: true
 
 This contains information specific to the Lorestone of Eryndor campaign.
 
+## Tal'Dorei
+
+### Locations
+
+- [[Tal'Dorei]]: continent across the Lucidian Ocean from Wildemount, home to the Republic of Tal'Dorei
+- [[Emon]]: capital of the Republic of Tal'Dorei and seat of the Tal'Dorei Council
+- [[Whitestone]]: city-state in the Alabaster Sierras, ruled by the de Rolo family
+- [[Shrine of Bahamut]]: small shrine in Whitestone with tapestries of Bahamut's lore
+- [[Tipsy Quorum]]: tavern in Whitestone
+
+### People
+
+- [[Percival de Rolo]]: Lord of Whitestone and member of Vox Machina
+- [[Vex'ahlia de Rolo]]: Lady of Whitestone, ranger, and member of Vox Machina
+
 ## Cyrios Mountains
 
 ### Locations

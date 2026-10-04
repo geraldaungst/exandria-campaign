@@ -7,7 +7,7 @@ tags:
   - npc
   - needs-work
   - world/exandria
-  - "region/tal'dorei"
+  - region/taldorei
 ---
 
 ![[brin-shadowfoot.png|right|300]]

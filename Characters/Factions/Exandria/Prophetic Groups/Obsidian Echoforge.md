@@ -47,7 +47,7 @@ The Willowwhisper lineage has led the organization through multiple generations:
 
 ### Notable Members
 
-- [[Aethor Kalisk]] - Member (currently on mission in [[Port Damali]])
+- [[Aethor Kalisk]] - Member (currently on mission in [[Port Damali - DM Notes]])
 - [[Gaius Emberfell]] - Field Agent
 - [[Tessa Sunwarden]] - Field Agent
 
@@ -108,7 +108,7 @@ For the complete 400-year history of how these name changes reflect the organiza
 
 ### Active Operations
 
-- [[Aethor Kalisk]]'s mission in [[Port Damali]]
+- [[Aethor Kalisk]]'s mission in [[Port Damali - DM Notes]]
 - Ongoing search for prophecy disc fragments
 
 ### Recent Events

@@ -9,13 +9,13 @@ tags:
 
 ### The True History of [[Celdric Ambril|Celunor]] and His Shop
 
-[[Celdric Ambril]] was no archivist in a grand library, but rather a savvy collector and trader of rare books. He spent years traveling across continents, collecting tomes, scrolls, and artifacts from various cultures and civilizations, some of which were indeed rare and potentially valuable to the right buyer. Eventually, he settled in [[Port Damali]], a bustling port city that offered a steady stream of travelers, scholars, and collectors—his ideal clientele.
+[[Celdric Ambril]] was no archivist in a grand library, but rather a savvy collector and trader of rare books. He spent years traveling across continents, collecting tomes, scrolls, and artifacts from various cultures and civilizations, some of which were indeed rare and potentially valuable to the right buyer. Eventually, he settled in [[Port Damali - DM Notes]], a bustling port city that offered a steady stream of travelers, scholars, and collectors—his ideal clientele.
 
 Instead of a library reclaimed from the depths, his shop—*Celunor's Collection*—is a peculiar establishment located near the docks, designed to mimic the atmosphere of a submerged archive. He achieved this by decorating the place with salvaged ship parts, maritime artifacts, and cleverly placed water features that give the illusion of being underwater. Dim lighting and bottles filled with strange curiosities line the shelves alongside the books, all to give the impression of ancient depth and mystery.
 
 #### [[Celdric Ambril|Celunor]]'s Role in the Community
 
-Despite the falsehoods and theatrics, [[Celdric Ambril|Celdric]] does provide a valuable service to [[Port Damali]]. His shop has become a haven for knowledge seekers and a center for cultural exchange. His genuine expertise in history and the arcane is respected by those who can see past the persona of [[Celdric Ambril|Celunor]].
+Despite the falsehoods and theatrics, [[Celdric Ambril|Celdric]] does provide a valuable service to [[Port Damali - DM Notes]]. His shop has become a haven for knowledge seekers and a center for cultural exchange. His genuine expertise in history and the arcane is respected by those who can see past the persona of [[Celdric Ambril|Celunor]].
 
 Furthermore, [[Celdric Ambril|Celunor]] has become a bit of a local celebrity, with his exaggerated persona lending a certain charm to the district where his shop is located. In turn, his success has helped the surrounding businesses thrive, as people flock to see the famed Drowned Library and its enigmatic curator.
 

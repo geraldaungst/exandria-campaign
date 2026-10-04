@@ -3,9 +3,9 @@ affiliations:
   - "[[Obsidian Echoforge]]"
 aliases:
   - Aethor
-current_location: "[[Port Damali]]"
+current_location: "[[Port Damali - DM Notes]]"
 disposition: friendly
-home_city: "Port Damali"
+home_city: Port Damali
 tags:
   - npc
   - world/exandria
@@ -15,7 +15,7 @@ tags:
 ## Quick Reference
 
 > [!info] Essential Details
-> - **Location:** [[Port Damali]]
+> - **Location:** [[Port Damali - DM Notes]]
 > - **Goal:** Locate and assemble [[Lorestone of Eryndor]] fragments using arcane refraction
 > - **Attitude toward party:** Cautiously friendly
 > - **Key knowledge:** [[Lorestone of Eryndor]], [[01 The Prophecy|The Prophecy]], arcane refraction theory
@@ -32,7 +32,7 @@ Elderly gnome with soft, rounded features marked by lines of concentration. Brig
 
 ## Current Situation
 
-Headquartered in [[Port Damali]] while researching Lorestone assembly. Has a lead on [[Calderax Dunhall]], who may have information about a missing shard. Hired the party to retrieve the [[Stonefoot Compass]] to use as a trade for Calderax's information. Continues development of his arcane refraction device.
+Headquartered in [[Port Damali - DM Notes]] while researching Lorestone assembly. Has a lead on [[Calderax Dunhall]], who may have information about a missing shard. Hired the party to retrieve the [[Stonefoot Compass]] to use as a trade for Calderax's information. Continues development of his arcane refraction device.
 
 **Key relationships:**
 

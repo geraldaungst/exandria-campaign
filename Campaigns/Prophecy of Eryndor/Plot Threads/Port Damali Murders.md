@@ -33,7 +33,7 @@ Korfel and Xanaphia devised a plan to draw Hesterian to a neutral location where
 
 #### **The Murders**
 
-**Location:** A tavern in [[Port Damali]], in a rented room above the main floor
+**Location:** A tavern in [[Port Damali - DM Notes]], in a rented room above the main floor
 
 **Date:** Approximately 2-3 years ago
 
@@ -68,7 +68,7 @@ Korfel and Xanaphia devised a plan to draw Hesterian to a neutral location where
 - Korfel gave authorities a false tip pointing to [[Rylan Estevez]], an innocent stable boy from the brothel
 - Evidence (the bloody murder weapon) was planted on Rylan
 - Rylan was quickly convicted and sentenced to 10 years in prison
-- Korfel used the chaos to flee [[Port Damali]] and eventually establish himself in [[Zadash - DM Notes]]
+- Korfel used the chaos to flee [[Port Damali - DM Notes]] and eventually establish himself in [[Zadash - DM Notes]]
 
 #### **Key Evidence Lost/Hidden**
 
@@ -93,7 +93,7 @@ This event is the central trauma in [[Hesterian Shyr (Dot)]]'s backstory and the
 
 ### Related Locations
 
-- [[Port Damali]] - Location of murders
+- [[Port Damali - DM Notes]] - Location of murders
 - [[Harmony Hall]] - Former brothel, center of relationships
 - [[Zadash - DM Notes]] - Korfel's current location and power base
 

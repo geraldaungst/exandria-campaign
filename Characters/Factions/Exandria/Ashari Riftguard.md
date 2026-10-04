@@ -1,12 +1,12 @@
 ---
 aliases:
   - riftguard
-current_location: "unknown"
+current_location: unknown
 disposition: indifferent
 tags:
   - faction
   - world/exandria
-  - "region/tal'dorei"
+  - region/taldorei
 ---
 
 ![[riftguard.png|right|400]]

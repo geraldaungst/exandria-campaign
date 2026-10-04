@@ -82,6 +82,6 @@ Celdric was an attentive child, with an innate ability to notice and mimic the s
 
 His life took a pivotal turn when his parents acquired an old, seemingly mundane book from a mysterious figure. This book, imbued with faint, ancient magic, subtly enhanced Celdric's already notable ability to fit into any crowd. The book wasn't powerful enough to change his appearance drastically, but it did sharpen his features in ways that leaned toward the expectations of whoever he interacted with.
 
-When his parents passed, Celdric took his inheritance and his talents to [[Port Damali]], where he established the [[Celunor’s Collection|Drowned Library]]. The exotic tales of the place's creation and his own shrouded history are a blend of the stories he grew up with and his own creative additions, meant to captivate and intrigue his customers.
+When his parents passed, Celdric took his inheritance and his talents to [[Port Damali - DM Notes]], where he established the [[Celunor’s Collection|Drowned Library]]. The exotic tales of the place's creation and his own shrouded history are a blend of the stories he grew up with and his own creative additions, meant to captivate and intrigue his customers.
 
 But at the heart of it, Celdric is a human with a talent for stories and a deep love for the artifacts and lore that have become his life's work. His past, while not as fantastical as he makes it seem, is filled with genuine experiences of the many faces and places of Exandria, which he uses to his advantage both in business and in personal dealings.

@@ -34,7 +34,7 @@ After the raid on the brothel, the madam found herself at a moral crossroads. Th
 
 As she grappled with her conscience, a local priestess from the Pearl Shrine, the temple dedicated to Avandra, the Changebringer, reached out to her. The priestess had heard about the raid and the plight of the brothel's workers. She spoke passionately about Avandra's teachings of change, freedom, and the potential for new beginnings. Inspired by this message, the madam saw an opportunity to transform her establishment into a force for good.
 
-Determined to make amends and create a positive impact, the madam decided to convert the brothel into a dinner theater. This new establishment would serve as a public front, offering a respectable and entertaining venue for the citizens of [[Port Damali]]. The dinner theater featured exquisite dining paired with live musical and theatrical performances, providing a cover for its true purpose: a safehouse for those in need.
+Determined to make amends and create a positive impact, the madam decided to convert the brothel into a dinner theater. This new establishment would serve as a public front, offering a respectable and entertaining venue for the citizens of [[Port Damali - DM Notes]]. The dinner theater featured exquisite dining paired with live musical and theatrical performances, providing a cover for its true purpose: a safehouse for those in need.
 
 The madam collaborated with the Pearl Shrine to gather support for this transformation. The temple provided funds, volunteers, and spiritual guidance to help refurbish the building. The new dinner theater included a state-of-the-art kitchen and a beautifully designed stage, where residents could learn valuable skills either in culinary arts or performing arts. This not only gave them a chance to rebuild their lives but also provided a therapeutic outlet for their past traumas.
 
@@ -42,7 +42,7 @@ As part of the safehouse's covert operations, the madam established a network to
 
 The former workers of the brothel were given options tailored to their needs and aspirations. Some chose to stay and work in the dinner theater, finding new purpose in cooking or performing. Others received training and resources from the Pearl Shrine to pursue new careers or education. For those who wanted to leave the city, the escape network provided a safe and discreet way to start anew.
 
-Through these efforts, the madam turned a place of exploitation into a sanctuary of hope and transformation. The dinner theater thrived, offering joy and entertainment to the public while secretly sheltering and rehabilitating those in need. With the support of the Pearl Shrine and the dedication of her staff, the madam's establishment became a beacon of change and redemption in [[Port Damali]].
+Through these efforts, the madam turned a place of exploitation into a sanctuary of hope and transformation. The dinner theater thrived, offering joy and entertainment to the public while secretly sheltering and rehabilitating those in need. With the support of the Pearl Shrine and the dedication of her staff, the madam's establishment became a beacon of change and redemption in [[Port Damali - DM Notes]].
 
 ## Source Context
 

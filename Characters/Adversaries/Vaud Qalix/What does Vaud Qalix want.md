@@ -15,7 +15,7 @@ Vaud sees potential in siphoning the energies from the rifts across Exandria. He
 ## Source Context
 
 - Key for [[Vaud Qalix]]'s plan to [[Restore Draconia]].
-- Related to activities in [[Xarzith Kitril]], [[Port Damali]], and [[Rexxentrum - DM Notes]] currently.
+- Related to activities in [[Xarzith Kitril]], [[Port Damali - DM Notes]], and [[Rexxentrum - DM Notes]] currently.
 
 ## Connections
 

@@ -32,7 +32,7 @@ Youthful exuberance despite the weight she carries. Tall for her lineage, deep b
 
 ## Current Situation
 
-Based at [[Palma Flora]], leading the [[Obsidian Echoforge]]'s operations. Holds Shards 1-4 in a magically locked and trapped chest. Has [[Aethor Kalisk]] deployed to [[Port Damali]] pursuing leads on additional shards.
+Based at [[Palma Flora]], leading the [[Obsidian Echoforge]]'s operations. Holds Shards 1-4 in a magically locked and trapped chest. Has [[Aethor Kalisk]] deployed to [[Port Damali - DM Notes]] pursuing leads on additional shards.
 
 Growing increasingly urgent about the rift situation—the rifts are worsening, Qalix is stealing shards, and the [[Malachite Cord]] is obstructing rather than helping. She believes delay costs lives, and she's not entirely wrong.
 

@@ -11,7 +11,7 @@ tags:
 
 #### **Rise To Power**
 
-After fleeing [[Port Damali]] following [[The Port Damali Murders]], [[Korfel Withrethin]] arrived in [[Zadash - DM Notes]] with murder proceeds and criminal connections. Using his merchant background and ruthless pragmatism, he systematically built a criminal power base:
+After fleeing [[Port Damali - DM Notes]] following [[The Port Damali Murders]], [[Korfel Withrethin]] arrived in [[Zadash - DM Notes]] with murder proceeds and criminal connections. Using his merchant background and ruthless pragmatism, he systematically built a criminal power base:
 
 **Initial Strategy (Year 1):**
 
@@ -154,7 +154,7 @@ This criminal empire represents [[Korfel Withrethin]]'s transformation from desp
 - [[Zadash - DM Notes]] - Primary territory and base of operations
 - Evening Nip tavern - Headquarters and front operation
 - Underground tunnel networks - Transportation and smuggling routes
-- [[Port Damali]] - Origin point, potential vulnerability if past discovered
+- [[Port Damali - DM Notes]] - Origin point, potential vulnerability if past discovered
 
 ### Related Operations
 

@@ -4,14 +4,15 @@ affiliations:
 tags:
   - location
   - world/exandria
-  - region/tal-dorei
+  - region/rexxentruum
+  - region/dwendalian-empire
 ---
 
 ## Quick Reference
 
 > [!info] Essential Details
 > - Current Status: Open for business
-> - Location: Emon, Tal'Dorei
+> - Location: Recently moved to Rexxentruum
 > - Key Feature: Military surplus and curiosities; relics of the Chroma Conclave era
 > - Atmosphere: Cluttered, warm, faintly melancholy—a place where old things are treated with respect
 > - Owner: [[Azel Brightful]]

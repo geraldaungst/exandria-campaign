@@ -5,7 +5,7 @@ tags:
 
 ## Backstory
 
-- [x] Give each character a reason to be traveling from Emon to [[Port Damali]]
+- [x] Give each character a reason to be traveling from Emon to [[Port Damali - DM Notes]]
 - [x] Plan a one-shot pre-campaign adventure for each pair.
 - [x] See [[90 Player Preferences|Player Preferences]] for more info on what the party wants
 

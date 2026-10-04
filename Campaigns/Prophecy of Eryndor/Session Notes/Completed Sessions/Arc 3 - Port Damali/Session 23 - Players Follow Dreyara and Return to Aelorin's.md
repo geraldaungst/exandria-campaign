@@ -11,7 +11,7 @@ tags:
 ## Quick Reference
 
 > [!info] Essential Details
-> - Location(s): [[Port Damali]]
+> - Location(s): [[Port Damali - DM Notes]]
 > - Active Plots: [[Restore Draconia]], [[Assembling the Lorestone]]
 > - Key NPCs: [[Dreyara Drimvar|Dreyara]]
 > - Previous Session: [[Session 22 - Raid on Aelorin's Headquarters]]

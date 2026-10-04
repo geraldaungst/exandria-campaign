@@ -3,7 +3,7 @@ affiliations:
   - "[[Emissaries of the Sunfall]]"
 aliases:
   - berinon
-current_location: "[[Port Damali]]"
+current_location: "[[Port Damali - DM Notes]]"
 disposition: hostile
 tags:
   - npc
@@ -37,7 +37,7 @@ Berinon is missing the middle finger of his right hand. Any time someone asks hi
 
 ### Personality Traits
 
-He is very selfish. He is very courageous, to a fault. He always carries food in his pockets. He knows all the gossip around [[Port Damali]].
+He is very selfish. He is very courageous, to a fault. He always carries food in his pockets. He knows all the gossip around [[Port Damali - DM Notes]].
 
 Catchphrases:
 

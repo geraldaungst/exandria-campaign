@@ -8,7 +8,7 @@ tags:
 
 [Timestamp: 2025/03/30 15:24:07]
 
-**ai**: [[Korfel Withrethin]], also known as "The Gentleman" and Babenon Dosal, is a former patron of [[Hesterian Shyr (Dot)|Hesterian]] who murdered her and framed a stable boy, [[Rylan Estevez]], for the crime. After the murder, Korfel fled to [[Zadash - DM Notes]], where he established himself as a merchant and Myriad crime boss under the alias Babenon Dosal. He keeps his past life in [[Port Damali]] a secret from everyone in [[Zadash - DM Notes]]. Korfel currently possesses the forged [[Arcanist's Prism]], and is rumored to have a contact in [[Port Damali]], [[Father Dwondaff Pierce]].
+**ai**: [[Korfel Withrethin]], also known as "The Gentleman" and Babenon Dosal, is a former patron of [[Hesterian Shyr (Dot)|Hesterian]] who murdered her and framed a stable boy, [[Rylan Estevez]], for the crime. After the murder, Korfel fled to [[Zadash - DM Notes]], where he established himself as a merchant and Myriad crime boss under the alias Babenon Dosal. He keeps his past life in [[Port Damali - DM Notes]] a secret from everyone in [[Zadash - DM Notes]]. Korfel currently possesses the forged [[Arcanist's Prism]], and is rumored to have a contact in [[Port Damali - DM Notes]], [[Father Dwondaff Pierce]].
 
 [Timestamp: 2025/03/30 15:24:14]
 

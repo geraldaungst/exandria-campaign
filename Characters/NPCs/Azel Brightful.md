@@ -7,7 +7,7 @@ tags:
   - npc
   - hook
   - world/exandria
-  - region/tal'dorei
+  - region/taldorei
 ---
 
 ## Quick Reference

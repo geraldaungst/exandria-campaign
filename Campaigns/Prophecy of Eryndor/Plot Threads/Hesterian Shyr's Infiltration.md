@@ -224,7 +224,7 @@ Multiple potential endings based on player choices:
 ### Locations
 
 - [[Harmony Hall]] - Site of investigation and information gathering
-- [[Port Damali]] - Scene of original crimes
+- [[Port Damali - DM Notes]] - Scene of original crimes
 - [[Zadash - DM Notes]] - Current confrontation location and Korfel's power base
 
 ### Items & Evidence

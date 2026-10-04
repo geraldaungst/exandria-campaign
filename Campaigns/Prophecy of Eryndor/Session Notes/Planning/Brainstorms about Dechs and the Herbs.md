@@ -55,13 +55,13 @@ tags:
 
 **[[Dreyara Drimvar]]'s Current Activities:**
 
-- **Spymaster:** [[Dreyara Drimvar|Dreyara]] is currently operating in [[Port Damali]], monitoring the party and seeking Myriad support for a planned heist of the Rexxentrum Archive.
+- **Spymaster:** [[Dreyara Drimvar|Dreyara]] is currently operating in [[Port Damali - DM Notes]], monitoring the party and seeking Myriad support for a planned heist of the Rexxentrum Archive.
 - **Possession of Artifact:** She possesses Drawg's Blade of Maroth Fenn.
 - **Alliance Building:** [[Dreyara Drimvar|Dreyara]] is focused on building connections and resources for the Archive operation, which includes securing the alliance with the Myriad.
 
 **Overall:**
 
-Qalix's alliance with the Myriad is a crucial element of his plan, providing him with resources, intelligence, and influence within [[Port Damali]]. [[Dreyara Drimvar]] is the key figure in managing this alliance, using her skills and experience to navigate the complex relationships within the Myriad and ensure their support for
+Qalix's alliance with the Myriad is a crucial element of his plan, providing him with resources, intelligence, and influence within [[Port Damali - DM Notes]]. [[Dreyara Drimvar]] is the key figure in managing this alliance, using her skills and experience to navigate the complex relationships within the Myriad and ensure their support for
 
 [Timestamp: 2025/04/27 19:06:21]
 

@@ -158,7 +158,7 @@ The Massacre had profound internal consequences:
 
 ### Short-term Goals
 
-- Track [[Aethor Kalisk]]'s movements in [[Port Damali]] to determine if he's transporting shards
+- Track [[Aethor Kalisk]]'s movements in [[Port Damali - DM Notes]] to determine if he's transporting shards
 - Establish surveillance on the [[Obsidian Echoforge]]'s [[Palma Flora]] facility, focusing on security measures around their shard collection
 - Gather intelligence on [[Lyren Willowwhisper]]'s daily routines and vulnerabilities
 - Maintain cover operations at [[Scroll and Scribe]] to monitor [[Archivist Ovedo]]'s activities

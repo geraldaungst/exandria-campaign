@@ -143,7 +143,7 @@ region: Dwendalian Empire
 - His current criminal operations and organizational structure
 - Some details about his paranoia and control methods
 - His professional capabilities and leadership style
-- **Does NOT know:** His true identity as Korfel Withrethin or his past in [[Port Damali]]
+- **Does NOT know:** His true identity as Korfel Withrethin or his past in [[Port Damali - DM Notes]]
 
 **What She Knows About the Assembly:**
 

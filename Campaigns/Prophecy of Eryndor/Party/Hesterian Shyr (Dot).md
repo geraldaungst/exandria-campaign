@@ -15,14 +15,14 @@ Hesterian Shyr is a [[Hollow One]] who was murdered and brought back to life und
 
 ### Life Before Death
 
-Hesterian worked at [[Harmony Hall]] in [[Port Damali]] when it operated as [[Grisul Adder]]'s brothel. She had developed a relationship with another performer, [[Xanaphia Lothliss]], and they planned to escape together from their situation under the patronage system.
+Hesterian worked at [[Harmony Hall]] in [[Port Damali - DM Notes]] when it operated as [[Grisul Adder]]'s brothel. She had developed a relationship with another performer, [[Xanaphia Lothliss]], and they planned to escape together from their situation under the patronage system.
 
 ### The Murder
 
 The full details of Hesterian's death can be found in [[Port Damali Murders]]. In summary:
 
 - [[Korfel Withrethin]], her patron, discovered their escape plan through Xanaphia's betrayal
-- Both women were murdered in a tavern room in [[Port Damali]]
+- Both women were murdered in a tavern room in [[Port Damali - DM Notes]]
 - Hesterian was brought back to life as a [[Hollow One]] with incomplete memories
 - Korfel framed an innocent stable boy, [[Rylan Estevez]], for the crime (detailed in [[Rylan Estevez Frame Job]])
 
@@ -112,7 +112,7 @@ As a Hollow One, Hesterian:
 
 - **[[stone-of-memory]]:** Unknown source of her mysterious visions
 - **Evidence of [[Rylan Estevez Frame Job]]:** Information that could free an innocent man
-- **Personal effects from her former life:** Connections to [[Harmony Hall]] and [[Port Damali]]
+- **Personal effects from her former life:** Connections to [[Harmony Hall]] and [[Port Damali - DM Notes]]
 
 ## Character Development Opportunities
 
@@ -179,7 +179,7 @@ Hesterian was born in the war-torn Xarzith Kitril to a commoner family.  Her pa
 
 In order to keep up with the difficulty of supporting their sickly heir and a newborn, her parents decided to sell Hestarian and her brother, Zylas, the two healthiest children.  They intended to provide medical care and a trade to [[Melthes]] and an education to Taryn, once she was ready.  While the sale of children faced severe legal consequences in Xarzith Kitril, this only increased the price that the parents were able to ask of willing buyers.  They had lined up connections to two interested buyers and readily looked forward to a new and less scarce life.  Zylas was sold to a guildsman who bought the boy as a carpenter's apprentice, as he had no children of his own.  Hesterian was sold to [[Grisul Adder]], a brothel owner who brought her to the Menagerie coast.  She has not seen her family since this late night illegal sale and resents her parents.
 
-Arriving at a [[Harmony Hall|brothel]] in [[Port Damali]], she was given a spot to sleep and tasked with cleaning and doing domestic chores.  Living among the prostitutes, who the madam referred to as "ladies", they tried to shield her from the realities of their work until she got older.  Her singing and musicality encouraged the ladies to train her to sing and play various instruments.  She excelled at stringed instruments such as the viol, lyre, and dulcimer.
+Arriving at a [[Harmony Hall|brothel]] in [[Port Damali - DM Notes]], she was given a spot to sleep and tasked with cleaning and doing domestic chores.  Living among the prostitutes, who the madam referred to as "ladies", they tried to shield her from the realities of their work until she got older.  Her singing and musicality encouraged the ladies to train her to sing and play various instruments.  She excelled at stringed instruments such as the viol, lyre, and dulcimer.
 
 As she approached adulthood, the madam of the brothel gave Hesterian the option to leave and find an honest living or join the ladies.  While the ladies of the brothel encouraged her to leave, Hesterian chose to stay as she didn't know anyone outside of the brothel and feared being on the street and truly becoming an orphan.  She convinced the madam to allow her to devise a musical show to attract more clients to the brothel, sparing her from becoming one of the ladies full time.  Her bawdy dance and musical show was successful and attracted wealthier clientele, as the building was no longer solely a brothel but also a theatre.
 

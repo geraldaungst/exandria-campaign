@@ -11,7 +11,7 @@ tags:
 
 ## Strong Start
 
-- Characters are all on a skyship from Emon to [[Port Damali]]. Each one has a [[Character Story Beats#Backstory|reason to be going]] but they don't necessarily know each other. All are from somewhere in Wildemount.
+- Characters are all on a skyship from Emon to [[Port Damali - DM Notes]]. Each one has a [[Character Story Beats#Backstory|reason to be going]] but they don't necessarily know each other. All are from somewhere in Wildemount.
 - Ship captain: [[Captain Thyakas]]
 - Others on the ship (checked are built in Roll20):
 	- [x] [[Georgina Wiseacre]] - Heading home to support her war-ravaged home.
@@ -26,7 +26,7 @@ tags:
 	- [x] [[Grendar Goss]] (ship's bartender)
 	- [x] [[Durnvolk Durmir]] (passenger, heading to PD to assist with construction of a new forge temple of Moradin there)
 	- [x] [[Tharivol]] and [[Sariel]]
-- Depending on how things progress, the ship may make it to [[Xorhas Landing|Xorhas]], land safely in [[Port Damali|Port Damali]], or crash somewhere in the [[Crash in Dwendalian Empire|Dwendalian Empire]] or in the [[Cyrios Mountains Crash|Cyrios Mountains]].
+- Depending on how things progress, the ship may make it to [[Xorhas Landing|Xorhas]], land safely in [[Port Damali - DM Notes|Port Damali]], or crash somewhere in the [[Crash in Dwendalian Empire|Dwendalian Empire]] or in the [[Cyrios Mountains Crash|Cyrios Mountains]].
 
 ## Scenes
 
@@ -57,7 +57,7 @@ We can RP interactions with other party members, passengers, and crew as long as
 		- [ ] This sounds just like that curse I heard about that the Kryn were creating to destroy the Empire
 		- [ ] No it was definitely the Cerberus Assembly that was manufacturing it to take out the "kricks"
 		- [ ] I bet it's Mind Flayers…it's always Mind Flayers.
-		- [x] There's a gigantic storm brewing near [[Port Damali]] and we have to go around it.
+		- [x] There's a gigantic storm brewing near [[Port Damali - DM Notes]] and we have to go around it.
 		- [ ] The engine has malfunctioned and we are going to crash! I heard there were stowaways on the last trip who sabotaged the ship.
 	- [ ] The growing rumors will cause the crew to do two things:
 		- [ ] Passengers will be restricted to quarters except for meals
@@ -82,7 +82,7 @@ We can RP interactions with other party members, passengers, and crew as long as
 ##### 2.1 - Trying to Navigate
 
 - If they manage to take control of the ship, there is still the matter of navigating. Anyone can attempt to navigate with a DC 18 Nature or Survival check at disadvantage (since it is not the usual use of those skills). A second person can assist.
-	- A success means they can land the ship in [[Port Damali]] where it was originally heading, since they have charts to follow.
+	- A success means they can land the ship in [[Port Damali - DM Notes]] where it was originally heading, since they have charts to follow.
 	- Failure means they have to find a place to land. The ship would be heading towards Xhorhas, so that is the most likely landing location, but PCs may attempt a landing elsewhere if they wish.
 
 ##### 2.2 - Loss of Control
@@ -91,12 +91,12 @@ We can RP interactions with other party members, passengers, and crew as long as
 
 ### Conclusion of the Hijacking
 
-One way or another, the Skyship will return to Exandria at the end of this adventure. It may land successfully (either in Xorhas where the hijackers want it to land, or in [[Port Damali]] where it was intended to go originally) or it will crash (either in the [[Dwendalian Empire]] or in the Cyrios Mountains, possibly as a result of a random roll).
+One way or another, the Skyship will return to Exandria at the end of this adventure. It may land successfully (either in Xorhas where the hijackers want it to land, or in [[Port Damali - DM Notes]] where it was intended to go originally) or it will crash (either in the [[Dwendalian Empire]] or in the Cyrios Mountains, possibly as a result of a random roll).
 
 Depending on where they land, the characters will find things to do there to get to know each other and start developing their skills and reputation:
 
 - [[Xorhas Landing]]
-- [[Port Damali]] - Characters pursue whatever reasons they had to be in [[Port Damali]].
+- [[Port Damali - DM Notes]] - Characters pursue whatever reasons they had to be in [[Port Damali - DM Notes]].
 - [[Crash in Dwendalian Empire]] -
 - [[Cyrios Mountains Crash]] -
 

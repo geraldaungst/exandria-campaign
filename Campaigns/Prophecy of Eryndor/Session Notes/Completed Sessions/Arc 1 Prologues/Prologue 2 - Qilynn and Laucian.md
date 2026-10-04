@@ -7,9 +7,9 @@ tags:
 
 [[Laucian Greycastle (Brent)]]
 
-[[Qilynn Duskwhisper (Nicole)|Qilynn]] and the artificer first crossed paths during a chaotic night in [[Port Damali]] when a street brawl erupted. [[Qilynn Duskwhisper (Nicole)|Qilynn]], skilled in stealth and quick reflexes, helped [[Laucian Greycastle (Brent)|Laucian]] escape a tricky situation. Grateful for the assistance, [[Laucian Greycastle (Brent)|Laucian]] proposed a partnership, realizing their combined abilities could be advantageous in navigating the city's underworld. Since then, their bond has grown through shared adventures and a mutual understanding of each other's strengths.
+[[Qilynn Duskwhisper (Nicole)|Qilynn]] and the artificer first crossed paths during a chaotic night in [[Port Damali - DM Notes]] when a street brawl erupted. [[Qilynn Duskwhisper (Nicole)|Qilynn]], skilled in stealth and quick reflexes, helped [[Laucian Greycastle (Brent)|Laucian]] escape a tricky situation. Grateful for the assistance, [[Laucian Greycastle (Brent)|Laucian]] proposed a partnership, realizing their combined abilities could be advantageous in navigating the city's underworld. Since then, their bond has grown through shared adventures and a mutual understanding of each other's strengths.
 
-The street brawl was ignited when a notorious gang attempted to extort the artificer who had inadvertently acquired a rare and sought-after [[Campaigns/Prophecy of Eryndor/Session Notes/Completed Sessions/Arc 1 Prologues/Laucian's Artifact|artifact]]. Unwilling to comply, he resisted, leading to a confrontation. [[Qilynn Duskwhisper (Nicole)|Qilynn]], passing by, noticed the artificer in trouble and intervened not initiating the conflict but joining to help a fellow resident of [[Port Damali]]. This shared encounter became the foundation for their alliance and subsequent adventures.
+The street brawl was ignited when a notorious gang attempted to extort the artificer who had inadvertently acquired a rare and sought-after [[Campaigns/Prophecy of Eryndor/Session Notes/Completed Sessions/Arc 1 Prologues/Laucian's Artifact|artifact]]. Unwilling to comply, he resisted, leading to a confrontation. [[Qilynn Duskwhisper (Nicole)|Qilynn]], passing by, noticed the artificer in trouble and intervened not initiating the conflict but joining to help a fellow resident of [[Port Damali - DM Notes]]. This shared encounter became the foundation for their alliance and subsequent adventures.
 
 ## Arrive at Plot
 
@@ -42,7 +42,7 @@ They discover that the animal has a collar and is therefore a pet, not a wild cr
 
 This could resolve in multiple ways:
 
-- [ ] The [[Lady Triotta Thessaly|noble passenger]] who owned the creature gives the PCs a written letter of marque to show any authorities, pardoning their stowaway status in gratitude, but it requires them to come back to [[Port Damali]] immediately to deliver a [[Letter to Celdric Ambril|message]] to the vendor from whom the noble received the animal (who will be [[Celdric Ambril]]).
+- [ ] The [[Lady Triotta Thessaly|noble passenger]] who owned the creature gives the PCs a written letter of marque to show any authorities, pardoning their stowaway status in gratitude, but it requires them to come back to [[Port Damali - DM Notes]] immediately to deliver a [[Letter to Celdric Ambril|message]] to the vendor from whom the noble received the animal (who will be [[Celdric Ambril]]).
 - [ ] The [[Captain Thyakas|captain]] is thankful for their assistance and is willing to overlook their crime of stowing away if they will serve a "penance" as crew on the return journey since many of the current crew will be disembarking and she needs replacements.
 - [ ] A passenger the PCs assisted offers patronage and urges them to come back aboard as their bodyguards. In return the passenger will cover the fee for their passage in both directions, thereby negating the charge of stowing away.
 

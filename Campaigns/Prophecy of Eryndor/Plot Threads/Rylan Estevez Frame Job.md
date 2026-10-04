@@ -12,7 +12,7 @@ tags:
 
 #### **The Victim**
 
-[[Rylan Estevez]] was an 18-year-old stable boy who worked at [[Harmony Hall]] when it operated as [[Grisul Adder]]'s brothel in [[Port Damali]]. He was known to be honest, hardworking, and had developed an innocent friendship with [[Xanaphia Lothliss]], one of the performers.
+[[Rylan Estevez]] was an 18-year-old stable boy who worked at [[Harmony Hall]] when it operated as [[Grisul Adder]]'s brothel in [[Port Damali - DM Notes]]. He was known to be honest, hardworking, and had developed an innocent friendship with [[Xanaphia Lothliss]], one of the performers.
 
 #### **The Frame-Up**
 
@@ -54,7 +54,7 @@ tags:
 
 **Current Status:** Still serving sentence, approximately 7-8 years remaining
 
-**Location:** [[Port Damali]] prison system
+**Location:** [[Port Damali - DM Notes]] prison system
 
 #### **Rylan's Current State**
 
@@ -85,7 +85,7 @@ tags:
 - Overturning the conviction would expose massive judicial failure
 - Compensation issues for wrongful imprisonment
 - Political scandal if frame-up becomes public knowledge
-- Could destabilize public trust in [[Port Damali]] law enforcement
+- Could destabilize public trust in [[Port Damali - DM Notes]] law enforcement
 
 **Personal Stakes:**
 
@@ -114,7 +114,7 @@ This frame-up is central to understanding [[Korfel Withrethin]]'s character and 
 
 ### Related Locations
 
-- [[Port Damali]] - Location of crime, trial, and imprisonment
+- [[Port Damali - DM Notes]] - Location of crime, trial, and imprisonment
 - [[Harmony Hall]] - Rylan's former workplace
 - Port Damali prison system (specific facility to be detailed)
 

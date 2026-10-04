@@ -2,12 +2,13 @@
 affiliations:
   - "[[Obsidian Echoforge]]"
   - "[[Emissaries of the Sunfall]]"
-current_location: "[[Port Damali]]"
+current_location: "[[Port Damali - DM Notes]]"
 disposition: indifferent
-faction: 
-  - [[Obsidian Echoforge]]
-  - [[Emissaries of the Sunfall]] 
-location: [[Port Damali]]
+faction:
+  - - - Obsidian Echoforge
+  - - - Emissaries of the Sunfall
+location:
+  - - Port Damali
 tags:
   - npc
   - world/exandria
@@ -17,7 +18,7 @@ tags:
 ## Quick Reference
 
 > [!info] Essential Details
-> - Current Location: [[Port Damali]] (The [[Sunset Sail]])
+> - Current Location: [[Port Damali - DM Notes]] (The [[Sunset Sail]])
 > - Key Motivation: Pursue knowledge of planar magic beyond conventional limits
 > - Attitude toward party: Neutral (unaware)
 > - Critical Knowledge: Double agent working with [[Dreyara Drimvar]] while posing as [[Obsidian Echoforge]] member
@@ -46,7 +47,7 @@ His face has sharp, aristocratic features that could be striking if not for his 
 
 ## Current Situation
 
-Currently residing above The [[Sunset Sail]] tavern in [[Port Damali]], maintaining his cover as a traveling scholar while serving as [[Dreyara Drimvar]]'s spy. Primary mission is to monitor [[Aethor Kalisk]]'s movements and delay [[Obsidian Echoforge]] attempts to acquire new shards. Possesses a letter containing information about a [[Lorestone of Eryndor|Lorestone Shard]], which has led to the current situation involving the [[Stonefoot Compass]].
+Currently residing above The [[Sunset Sail]] tavern in [[Port Damali - DM Notes]], maintaining his cover as a traveling scholar while serving as [[Dreyara Drimvar]]'s spy. Primary mission is to monitor [[Aethor Kalisk]]'s movements and delay [[Obsidian Echoforge]] attempts to acquire new shards. Possesses a letter containing information about a [[Lorestone of Eryndor|Lorestone Shard]], which has led to the current situation involving the [[Stonefoot Compass]].
 
 ## Background
 

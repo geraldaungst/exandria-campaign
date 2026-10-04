@@ -11,7 +11,7 @@ tags:
 ## Quick Reference
 
 > [!info] Essential Details
-> - Location(s): [[Port Damali]], Road to [[Cloudfang Keep]]
+> - Location(s): [[Port Damali - DM Notes]], Road to [[Cloudfang Keep]]
 > - Active Plots: [[Assembling the Lorestone]], [[]]
 > - Key NPCs:
 > - Previous Session:

@@ -1,7 +1,7 @@
 ---
 affiliations:
   - "[[Unshaken (Skyship)]]"
-current_location: "[[Port Damali]]"
+current_location: "[[Port Damali - DM Notes]]"
 disposition: friendly
 tags:
   - npc

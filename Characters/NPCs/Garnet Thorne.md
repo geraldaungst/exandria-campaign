@@ -6,7 +6,7 @@ disposition: hostile
 tags:
   - npc
   - world/exandria
-  - "region/tal'dorei"
+  - region/taldorei
 ---
 
 ![[garnet-thorne.jpeg|right|300]]

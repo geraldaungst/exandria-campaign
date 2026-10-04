@@ -30,7 +30,7 @@ tags:
 
 ### Blocking Issues
 
-- Long journey from [[Port Damali]] to Cloudfang
+- Long journey from [[Port Damali - DM Notes]] to Cloudfang
 
 ## Player Knowledge
 

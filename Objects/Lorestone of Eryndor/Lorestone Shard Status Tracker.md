@@ -210,7 +210,7 @@ The [[Lorestone of Eryndor]] was shattered into 8 pieces. This tracker documents
 **Notes:**
 
 - Recently discovered in Marquet
-- Key connection to [[Port Damali]] plot threads
+- Key connection to [[Port Damali - DM Notes]] plot threads
 - Potential encounter location for players to recover this shard
 
 ---

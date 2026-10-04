@@ -1,15 +1,15 @@
 ---
+aliases:
+  - Gnurlsottens Nosh and Nip and Cheesery
+  - "Gnurlsotten's Nosh and Nip"
+cssclasses:
+  - world-exandria
+publish: true
 tags:
   - location
   - player-facing
   - world/exandria
   - region/cyrios-mountains
-aliases:
-  - Gnurlsottens Nosh and Nip and Cheesery
-  - Gnurlsotten's Nosh and Nip
-cssclasses:
-  - world-exandria
-publish: true
 ---
 
 > [!info] Quick Reference

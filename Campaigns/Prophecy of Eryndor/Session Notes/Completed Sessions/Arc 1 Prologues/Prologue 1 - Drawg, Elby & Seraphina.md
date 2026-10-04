@@ -15,7 +15,7 @@ Characters:
 
 **Social:** [[Seraphina Amaris (Vicki)|Seraphina]] appears outside the temple of Bahamut in Whitestone. [[Elby Cinderdash (Brew)|Elby]] and [[Drawg Stormbrew (Brew)|Drawg]] are having a "discussion" with the priest of the temple.
 
-**Combat:** [[Drawg Stormbrew (Brew)|Drawg]], [[Elby Cinderdash (Brew)|Elby]], and [[Seraphina Amaris (Vicki)|Seraphina]] are in the [[Tipsy Quorum]] tavern in Whitestone. The barkeep notices [[Elby Cinderdash (Brew)|Elby]] is a musician and offers a free night's stay and one meal if he will provide the evening's entertainment.
+**Combat:** [[Drawg Stormbrew (Brew)|Drawg]], [[Elby Cinderdash (Brew)|Elby]], and [[Seraphina Amaris (Vicki)|Seraphina]] are in the [[Tipsy Quorum - DM Notes]] tavern in Whitestone. The barkeep notices [[Elby Cinderdash (Brew)|Elby]] is a musician and offers a free night's stay and one meal if he will provide the evening's entertainment.
 
 At some point in the evening, [[Laugu Nalakekali|a local]] is highly offended by [[Elby Cinderdash (Brew)|Elby]]'s song choice. [[Elby Cinderdash (Brew)|Elby]] inadvertently chose a song that Scanlan Shorthalt used to sing in this very tavern, and [[Laugu Nalakekali|Laugu]] thinks [[Elby Cinderdash (Brew)|Elby]] is mocking Scanlan. [[Laugu Nalakekali|Laugu]] throws her mug of ale at [[Elby Cinderdash (Brew)|Elby]]. She is drunk and very angry. A brawl (potentially) begins.
 
@@ -55,7 +55,7 @@ The party returns to Whitestone where [[Brin Shadowfoot|Brin]] and [[Laugu Nalak
 
 [[Finestria]]
 
-[[Shauna Rual]], proprietor at the [[Tipsy Quorum]]
+[[Shauna Rual]], proprietor at the [[Tipsy Quorum - DM Notes]]
 
 [[Finestria]] - Dryad
 

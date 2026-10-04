@@ -11,7 +11,7 @@ tags:
 ## Quick Reference
 
 > [!info] Essential Details
-> - Location(s): [[Port Damali]]
+> - Location(s): [[Port Damali - DM Notes]]
 > - Active Plots: [[]]
 > - Key NPCs:
 > - Previous Session: [[Session 20 - Bandit Ambush in Swamp]]
