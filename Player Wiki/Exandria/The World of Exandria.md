@@ -29,11 +29,7 @@ This contains information specific to the Lorestone of Eryndor campaign.
 
 ### Locations
 
-- [[Port Damali]]: largest city on Wildemount's western coast, where the Tyodan River meets the Lucidian Ocean
-
-### People
-
-- [[Olesya Lapidus]]: Marquis of Port Damali
+- [[Port Damali]]: largest city on Wildemount's western coast, where the Tyodan River meets the Lucidian Ocean; its page lists the city's notable places and people
 
 ## Cyrios Mountains
 

@@ -26,7 +26,7 @@ Hesterian has expressed the goal of infiltrating the Myriad criminal organizatio
 
 ### Recent Events
 
-- Hesterian visited [[Harmony Hall]] and confronted [[Grisul Adder]]
+- Hesterian visited [[Harmony Hall - DM Notes]] and confronted [[Grisul Adder]]
 - Learned some details about events after [[The Port Damali Murders]]
 - Established that she's seeking her killer and has leads pointing north
 
@@ -223,7 +223,7 @@ Multiple potential endings based on player choices:
 
 ### Locations
 
-- [[Harmony Hall]] - Site of investigation and information gathering
+- [[Harmony Hall - DM Notes]] - Site of investigation and information gathering
 - [[Port Damali - DM Notes]] - Scene of original crimes
 - [[Zadash - DM Notes]] - Current confrontation location and Korfel's power base
 

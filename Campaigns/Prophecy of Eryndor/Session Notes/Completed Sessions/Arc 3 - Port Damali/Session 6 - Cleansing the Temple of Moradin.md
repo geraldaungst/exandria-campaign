@@ -7,7 +7,7 @@ tags:
 
 ### Social
 
-Party arrives early morning at the location of the [[New Temple of Moradin]]. They find Durnvolk and several other folk (dwarves, a couple of humans, a firbolg, and an elf) talking to [[Matiu]], an elder from the Ki'Nau clan that lives closest to PD. Durnvolk tells them that there will be no construction any time soon due to a conflict with the Ki'Nau. Maram is the dwarf who is most adamant that they continue.
+Party arrives early morning at the location of the [[New Temple of Moradin - DM Notes]]. They find Durnvolk and several other folk (dwarves, a couple of humans, a firbolg, and an elf) talking to [[Matiu]], an elder from the Ki'Nau clan that lives closest to PD. Durnvolk tells them that there will be no construction any time soon due to a conflict with the Ki'Nau. Maram is the dwarf who is most adamant that they continue.
 
 ### Combat
 

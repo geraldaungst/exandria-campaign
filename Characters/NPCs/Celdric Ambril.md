@@ -1,11 +1,11 @@
 ---
 affiliations:
-  - "[[Celunor’s Collection]]"
+  - "[[Celunor’s Collection - DM Notes]]"
 aliases:
   - Celunor
   - Celunor the Tidebound
   - Celdric
-current_location: "[[Celunor’s Collection]]"
+current_location: "[[Celunor’s Collection - DM Notes]]"
 disposition: indifferent
 tags:
   - npc
@@ -26,7 +26,7 @@ S: Will go to great lengths to maintain his fictional persona but not at risk of
 
 ## Celunor the Tidebound
 
-The curator of the [[Celunor’s Collection#Legend of the Drowned Library|Drowned Library]] is an enigmatic figure known as Celunor the Tidebound. Legend has it that Celunor was once a renowned archivist and a mage who had an insatiable thirst for knowledge. When the disaster struck that sunk his home and the bastion of lore he cherished, his life's work seemed doomed to be lost beneath the waves. Through a powerful and arcane ritual, Celunor bound his life force to the library, effectively becoming a part of it. As a result, he survived in a state between life and death, sworn to guard the knowledge within for eternity. Celunor is said to have become something more than human—transformed into a being of water and spirit, an elemental guardian of the library's ancient tomes and scrolls.
+The curator of the [[Celunor’s Collection - DM Notes#Legend of the Drowned Library|Drowned Library]] is an enigmatic figure known as Celunor the Tidebound. Legend has it that Celunor was once a renowned archivist and a mage who had an insatiable thirst for knowledge. When the disaster struck that sunk his home and the bastion of lore he cherished, his life's work seemed doomed to be lost beneath the waves. Through a powerful and arcane ritual, Celunor bound his life force to the library, effectively becoming a part of it. As a result, he survived in a state between life and death, sworn to guard the knowledge within for eternity. Celunor is said to have become something more than human—transformed into a being of water and spirit, an elemental guardian of the library's ancient tomes and scrolls.
 
 ## Phrases and Sayings
 
@@ -82,6 +82,6 @@ Celdric was an attentive child, with an innate ability to notice and mimic the s
 
 His life took a pivotal turn when his parents acquired an old, seemingly mundane book from a mysterious figure. This book, imbued with faint, ancient magic, subtly enhanced Celdric's already notable ability to fit into any crowd. The book wasn't powerful enough to change his appearance drastically, but it did sharpen his features in ways that leaned toward the expectations of whoever he interacted with.
 
-When his parents passed, Celdric took his inheritance and his talents to [[Port Damali - DM Notes]], where he established the [[Celunor’s Collection|Drowned Library]]. The exotic tales of the place's creation and his own shrouded history are a blend of the stories he grew up with and his own creative additions, meant to captivate and intrigue his customers.
+When his parents passed, Celdric took his inheritance and his talents to [[Port Damali - DM Notes]], where he established the [[Celunor’s Collection - DM Notes|Drowned Library]]. The exotic tales of the place's creation and his own shrouded history are a blend of the stories he grew up with and his own creative additions, meant to captivate and intrigue his customers.
 
 But at the heart of it, Celdric is a human with a talent for stories and a deep love for the artifacts and lore that have become his life's work. His past, while not as fantastical as he makes it seem, is filled with genuine experiences of the many faces and places of Exandria, which he uses to his advantage both in business and in personal dealings.

@@ -8,7 +8,7 @@ tags:
 
 [Timestamp: 2025/03/02 14:33:42]
 
-**ai**: Okay, here are ten ideas to motivate your players to leave [[Port Damali - DM Notes]] and explore Wildemount, increasing the stakes and creating urgency, followed by three ideas to bring them back to [[The Pudgy Pigeon]]:
+**ai**: Okay, here are ten ideas to motivate your players to leave [[Port Damali - DM Notes]] and explore Wildemount, increasing the stakes and creating urgency, followed by three ideas to bring them back to [[The Pudgy Pigeon - DM Notes]]:
 
 ## Ten Ideas to Motivate Departure from [[Port Damali - DM Notes]]
 
@@ -27,10 +27,10 @@ tags:
 9. **A Call for Aid:** A settlement or community in another region of Wildemount sends a desperate plea for help, describing a crisis that requires the party's unique skills and abilities. The call is urgent, suggesting that lives are at stake if the party doesn't respond quickly.
 10. **The Stonefoot Compass Trade:** The party learns that [[Calderax Dunhall]] is in [[Port Zoon]] and is willing to trade the [[Stonefoot Compass]] for the map that [[Keldar Stonefoot]] has.
 
-## Three Ideas to Return the Party to [[The Pudgy Pigeon]]
+## Three Ideas to Return the Party to [[The Pudgy Pigeon - DM Notes]]
 
-1. **Unfinished Business:** The party left something important behind at [[The Pudgy Pigeon]], such as a valuable item, a crucial clue, or a debt that needs to be settled. Returning to the tavern is necessary to resolve this loose end.
-2. **A Familiar Face:** An NPC that the party befriended at [[The Pudgy Pigeon]] (perhaps the innkeeper or a regular patron) sends a message requesting their assistance. The NPC is in trouble or has uncovered information that could be valuable to the party.
+1. **Unfinished Business:** The party left something important behind at [[The Pudgy Pigeon - DM Notes]], such as a valuable item, a crucial clue, or a debt that needs to be settled. Returning to the tavern is necessary to resolve this loose end.
+2. **A Familiar Face:** An NPC that the party befriended at [[The Pudgy Pigeon - DM Notes]] (perhaps the innkeeper or a regular patron) sends a message requesting their assistance. The NPC is in trouble or has uncovered information that could be valuable to the party.
 3. **A Safe Haven:** After facing dangers and challenges in other parts of Wildemount,
 [Timestamp: 2025/03/02 14:34:03]
 

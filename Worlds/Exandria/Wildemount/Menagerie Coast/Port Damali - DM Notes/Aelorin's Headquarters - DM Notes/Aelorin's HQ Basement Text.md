@@ -14,7 +14,7 @@ tags:
 This 30-foot corridor serves as the primary security checkpoint between the shop and the hideout. Notable features include:
 
 - The walls are made of fitted stone blocks, typical of Port Damali's older foundations
-- Three torch sconces line the corridor, regularly maintained and replaced by Myriad members
+- Three torch sconces line the corridor, regularly maintained and replaced by Clasp members
 - Two-part sleeping gas trap:
 	 - Primary trigger: Pressure plate in center of corridor (DC 15 Investigation to spot)
 	 - Secondary trigger: Tripwire near the right wall (DC 17 Investigation to spot) - catches those trying to avoid the obvious pressure plate
@@ -27,14 +27,14 @@ This 30-foot corridor serves as the primary security checkpoint between the shop
 - The ceiling is 8 feet high with visible support beams
 - A small drainage grate in the floor helps manage natural dampness
 
-## 5. Myriad Guard Post
+## 5. Clasp Guard Post
 
 > [!info]
 > A comfortable but businesslike room spreads before you. A heavy wooden table dominates the center, surrounded by several well-worn chairs. Candlelight flickers from wall sconces, and a few unlit candles sit on the table. The room has the lived-in feel of a space that serves multiple purposes - part guard post, part office, and part common room. Papers and playing cards are scattered across the table's surface, and a half-empty bottle of wine sits beside several goblets. A weapons rack mounted on the wall holds an assortment of blades and crossbows.
 
 *DM Notes:*
 
-This room serves as both security checkpoint and general-purpose space for Myriad members. Notable features include:
+This room serves as both security checkpoint and general-purpose space for Clasp members. Notable features include:
 
 - Large oak table with 6 chairs
 - Wall-mounted weapons rack containing:
@@ -43,7 +43,7 @@ This room serves as both security checkpoint and general-purpose space for Myria
   - 1 rapier of good quality
 - Storage cabinet containing:
   - Guard rotation schedules
-  - Various reports and documents about Myriad operations (in code)
+  - Various reports and documents about Clasp operations (in code)
   - Bottle of fine whiskey, almost empty (25gp value)
   - Set of weighted dice
 - Small lockbox built into the wall (DC 15 to spot, DC 16 to pick) containing:
@@ -84,7 +84,7 @@ This hallway serves as both passage and apparent dumping ground. Notable feature
 
 *DM Notes:*
 
-This room serves as temporary quarters for Myriad operatives. Notable features include:
+This room serves as temporary quarters for Clasp operatives. Notable features include:
 
 - Two beds with high-quality mattresses and linens:
   - Hidden compartments under each bed (DC 14 Investigation)
@@ -107,7 +107,7 @@ The room is kept ready for use at all times, and shows signs of frequent occupan
 > [!info]
 > A brass plate on the door catches your eye - an ornate design of needle and thread forming an impossible stitch pattern.
 
-Myriad operatives would know this is Aelorin's personal chamber from the plate on the door.
+Clasp operatives would know this is Aelorin's personal chamber from the plate on the door.
 
 *Upon opening the door:*
 
@@ -134,12 +134,12 @@ Furnishings and Valuables:
 	 - Personal correspondence
 	 - 500 platinum pieces
 	 - Two sending stones
-	 - Keys to various Myriad properties
+	 - Keys to various Clasp properties
 - Desk containing:
 	 - Ledgers in complex code
 	 - Expensive writing materials
 	 - Three scrolls of Shield
-	 - Signet ring with Myriad symbol (worth 750gp)
+	 - Signet ring with Clasp symbol (worth 750gp)
 - Wardrobe filled with:
 	 - Expensive clothing (total value 1,000gp)
 	 - False bottom (DC 17 to find) containing disguise kit and escape gear
@@ -171,13 +171,13 @@ Security Measures:
 
 	I hope this letter finds you well in Zadash. Our mutual friend has ensured its safe passage, as always. Your generous offer has not gone unnoticed, and I am inclined to accept.
 
-	The information you seek about the Myriad's operations in Port Damali is as follows:
+	The information you seek about the Clasp's operations in Port Damali is as follows:
 
 	1. The shipment of Marquesian spices will arrive on the 20th. The usual warehouse will be lightly guarded that night.
 	2. Aelorin plans to expand our influence into the Tumbledowns next month. Key bribes have already been arranged.
 	3. The Zhelezo captain in the Opal Archways is now on our payroll. His name is Joren Vex.
 
-	As for your proposal to "redirect" some of the Myriad's assets, I believe I can arrange it without arousing suspicion. The upcoming Merryfrond's Day celebrations at the end of the month should provide ample distraction.
+	As for your proposal to "redirect" some of the Clasp's assets, I believe I can arrange it without arousing suspicion. The upcoming Merryfrond's Day celebrations at the end of the month should provide ample distraction.
 
 	I must stress the need for utmost discretion. My position here grows precarious, and Aelorin's trust is not easily earned back once lost.
 
@@ -266,7 +266,7 @@ Living Space:
 
 The room is maintained regularly, with supplies rotated to prevent spoilage and equipment checked for functionality. All containers are organized so they can be quickly identified and accessed in low light conditions.
 
-## 11. Myriad Library
+## 11. Clasp Library
 
 > [!info]
 > Tall bookcases line the walls of this well-appointed study, their shelves filled with leather-bound volumes and document folios. A circular reading table sits to one side. A brass brazier casts warm light across the chamber, making the leather bindings gleam. Near the door, a washbasin sits atop a small table, and a modest nightstand holds a few personal items. The air carries the distinct smell of old parchment and leather, along with a faint trace of lamp oil.
@@ -293,7 +293,7 @@ Combatants:
 Room Features:
 
 - Bookcases contain:
-    - Myriad financial records (coded)
+    - Clasp financial records (coded)
     - Maps of trade routes and safe houses
     - Detailed information about Port Damali's criminal underworld
     - Ledgers of bribes and blackmail material
@@ -330,7 +330,7 @@ Ah, now I see the beds clearly stacked along the walls! Let me revise:
 ## 12. Guards' Barracks
 
 > [!info]
-> This squarish room serves as sleeping quarters for the Myriad's guards. Several well-made beds line the far wall. Personal effects are minimal but present - a deck of cards on one nightstand, a half-empty wine bottle on another, a cloak hung on a bedpost. Wall-mounted hooks hold guards' off-duty weapons, and the air carries the lived-in smell of a regularly used barracks. Two of the beds appear to be occupied with sleeping guards.
+> This squarish room serves as sleeping quarters for the Clasp's guards. Several well-made beds line the far wall. Personal effects are minimal but present - a deck of cards on one nightstand, a half-empty wine bottle on another, a cloak hung on a bedpost. Wall-mounted hooks hold guards' off-duty weapons, and the air carries the lived-in smell of a regularly used barracks. Two of the beds appear to be occupied with sleeping guards.
 
 *DM Notes:*
 
@@ -350,7 +350,7 @@ Current Contents (due to late hour):
     - Recently made beds
     - Fresh water pitcher
 
-The room is kept orderly but comfortable, reflecting the Myriad's professional approach to security while maintaining reasonable comfort for their personnel.
+The room is kept orderly but comfortable, reflecting the Clasp's professional approach to security while maintaining reasonable comfort for their personnel.
 
 The two guards are dead--killed by Drimvar and her crew then dragged in here and left in the beds.
 
@@ -412,7 +412,7 @@ Combat Considerations:
 - Multiple entry points allow for tactical positioning
 - Cold temperature may affect player stamina over extended combat
 
-The room represents an ongoing hazard that the Myriad has chosen to contain through isolation rather than active management, now made more dangerous by its current residents.
+The room represents an ongoing hazard that the Clasp has chosen to contain through isolation rather than active management, now made more dangerous by its current residents.
 
 ## 14. Hidden Emergency Cache
 

@@ -29,7 +29,7 @@ tags:
 - Want to find a way to harness the power of the rifts for their own use. Originally directly opposed to the [[Obsidian Echoforge]], in recent years they have begun trying to work together.
 - A splinter cell within the group, led by [[Valen Elderguard]] and financed by [[Vaud Qalix|Vaud Qalix]] is opposed to this partnership and is secretly working to undermine the work.
 [[Ashari Riftguard]]
-[[Cobalt Soul]]
+[[Cobalt Soul - DM Notes]]
 [[Cerberus Assembly]]
 [[Dwendalian Empire]]
 [[Kryn Dynasty]]

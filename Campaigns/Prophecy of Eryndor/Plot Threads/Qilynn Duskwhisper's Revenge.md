@@ -151,7 +151,7 @@ From [[Character Story Beats#Medium Term]]:
 ### Places
 
 - [[Port Damali - DM Notes]] - Location where truth can be uncovered
-- [[Harmony Hall]] - Potential meeting place for clandestine discussions
+- [[Harmony Hall - DM Notes]] - Potential meeting place for clandestine discussions
 
 ### Items
 

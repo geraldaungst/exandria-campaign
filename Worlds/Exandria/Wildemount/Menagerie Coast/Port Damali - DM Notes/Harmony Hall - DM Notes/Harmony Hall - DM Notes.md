@@ -14,8 +14,9 @@ tags:
 > - Atmosphere:
 > - Recent Events:
 > - Current residents/employees:
-> 	- [[Grisul Adder]] - Owner, former madam
+> 	- [[Grisul Adder]] - Former owner, deceased, former madam
 > 	- [[Annah]] - Ticket booth and performer
+> 	- [[Hesterian Shyr (Dot)|Hesterian]] - current owner, inherited from Grisul
 
 ## Overview
 

@@ -11,7 +11,7 @@ tags:
 ## Quick Reference
 
 > [!info] Essential Details
-> - Location(s): [[The Pudgy Pigeon]]
+> - Location(s): [[The Pudgy Pigeon - DM Notes]]
 > - Active Plots: [[Assembling the Lorestone]]
 > - Key NPCs:
 > - Previous Session: [[Session 27 - Slaad Encounter]]
@@ -32,9 +32,9 @@ tags:
 ### Timeline
 
 - Players discovered Drawg was not around
-- Returned to [[Harmony Hall]] to find two guards outside and a new "bartender" named Barrelcrest.
+- Returned to [[Harmony Hall - DM Notes]] to find two guards outside and a new "bartender" named Barrelcrest.
 - Opened gifts and letters from Drawg
-- Went to [[Ilya's Realm Shop]] to ask about Drawg. Did some shopping.
+- Went to [[Ilya's Realm Shop - DM Notes]] to ask about Drawg. Did some shopping.
 - Drawg returned to the party and they learned that [[Cloudfang Keep]] is not only the location of Ilya's brother but also the likely destination of [[Dreyara Drimvar|Dreyara]].
 
 ### Significant Changes

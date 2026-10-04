@@ -7,7 +7,7 @@ disposition: indifferent
 tags:
   - npc
   - world/exandria
-  - region/port-damali
+  - region/menagerie-coast
 ---
 
 ![[dwondaff-pierce.jpeg|right|300]]

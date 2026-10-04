@@ -12,7 +12,7 @@ tags:
 
 #### **The Victim**
 
-[[Rylan Estevez]] was an 18-year-old stable boy who worked at [[Harmony Hall]] when it operated as [[Grisul Adder]]'s brothel in [[Port Damali - DM Notes]]. He was known to be honest, hardworking, and had developed an innocent friendship with [[Xanaphia Lothliss]], one of the performers.
+[[Rylan Estevez]] was an 18-year-old stable boy who worked at [[Harmony Hall - DM Notes]] when it operated as [[Grisul Adder]]'s brothel in [[Port Damali - DM Notes]]. He was known to be honest, hardworking, and had developed an innocent friendship with [[Xanaphia Lothliss]], one of the performers.
 
 #### **The Frame-Up**
 
@@ -115,7 +115,7 @@ This frame-up is central to understanding [[Korfel Withrethin]]'s character and 
 ### Related Locations
 
 - [[Port Damali - DM Notes]] - Location of crime, trial, and imprisonment
-- [[Harmony Hall]] - Rylan's former workplace
+- [[Harmony Hall - DM Notes]] - Rylan's former workplace
 - Port Damali prison system (specific facility to be detailed)
 
 ### Related Evidence

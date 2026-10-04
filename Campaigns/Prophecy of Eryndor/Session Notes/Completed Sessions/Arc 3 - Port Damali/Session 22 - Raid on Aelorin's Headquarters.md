@@ -13,7 +13,7 @@ tags:
 ## Quick Reference
 
 > [!info] Essential Details
-> - Location(s): [[Aelorin's Headquarters]]
+> - Location(s): [[Aelorin's Headquarters - DM Notes]]
 > - Active Plots: [[Restore Draconia]], [[Assembling the Lorestone]]
 > - Key NPCs: [[Dreyara Drimvar]], [[Aelorin Nightshade]]
 > - Previous Session: [[Session 21 - Return to Port Damali]]
@@ -42,7 +42,7 @@ tags:
 
 ### Timeline
 
-- Players come to the tailor shop that serves as [[Aelorin's Headquarters]].
+- Players come to the tailor shop that serves as [[Aelorin's Headquarters - DM Notes]].
 - They walk the grounds to get the lay of the land, then hide nearby to watch.
 - They see lights inside several times.
 - [[Seraphina Amaris (Vicki)|Seraphina]] sent her rat familiar into the building and explored around.

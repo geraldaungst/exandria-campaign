@@ -54,7 +54,7 @@ Growing increasingly urgent about the rift situation—the rifts are worsening, 
 > - Her urgency isn't purely strategic; she feels the Willowwhisper legacy as personal debt and fears being the leader who failed after 400 years of progress
 > 
 > **Potential "oh wait" triggers—moments where the party's interests and Lyren's diverge:**
-> - **Shard 5 (Rexxentrum Archive):** If the party builds a relationship with the [[Cobalt Soul]] or [[Archivist Ovedo]], Lyren may push for taking the shard by whatever means necessary—including theft or political pressure—while the party may want to negotiate or respect Ovedo's caution
+> - **Shard 5 (Rexxentrum Archive):** If the party builds a relationship with the [[Cobalt Soul - DM Notes]] or [[Archivist Ovedo]], Lyren may push for taking the shard by whatever means necessary—including theft or political pressure—while the party may want to negotiate or respect Ovedo's caution
 > - **Shard 6 (Dreyara):** If the party has an opportunity to trade the shard for something they need (Drawg's blade, information, safe passage), Lyren would view any deal that doesn't end with the shard in Echoforge hands as betrayal of their alliance
 > - **Shard 7 (Shoagragoth's hoard):** If recovering it requires a dangerous expedition, Lyren would expect the party to prioritize it even if they have personal quests pulling them elsewhere—the shards come first, always
 > - **The Luxon Beacon:** When the party learns the Lorestone alone isn't enough, Lyren's first instinct will be to acquire the Beacon immediately, including from the Kryn Dynasty by force or subterfuge if needed. The party may see diplomatic or cautious approaches she'd reject as too slow

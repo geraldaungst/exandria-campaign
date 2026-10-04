@@ -4,7 +4,6 @@ affiliations:
 tags:
   - location
   - world/exandria
-  - region/rexxentruum
   - region/dwendalian-empire
 ---
 

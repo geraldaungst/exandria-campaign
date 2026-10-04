@@ -3,7 +3,6 @@ aliases:
   - Shard Tracker
   - Lorestone Shards
 tags:
-  - item
   - atomic
   - campaign/eryndor
   - artifact
@@ -156,13 +155,13 @@ The [[Lorestone of Eryndor]] was shattered into 8 pieces. This tracker documents
 
 **Current Holder:** [[Archivist Ovedo]]
 
-**Physical Location:** Rexxentrum Archive ([[Cobalt Soul]])
+**Physical Location:** Rexxentrum Archive ([[Cobalt Soul - DM Notes]])
 
 **Acquired:** Unknown date (pre-campaign)
 
 **Known By:**
 
-- [[Cobalt Soul]] (possession, actively researching)
+- [[Cobalt Soul - DM Notes]] (possession, actively researching)
 - [[Obsidian Echoforge]] - Know it exists, but think the compass lead is pointing them to this one; are not aware Ovedo is keeping it secret
 
 **Pursued By:**
@@ -349,7 +348,7 @@ All of these will eventually pursue it when they learn of its existence
 
 **Knowledge:** Knows about Echoforge holdings, knows of Shard 5 existence but not location
 
-#### [[Cobalt Soul]]
+#### [[Cobalt Soul - DM Notes]]
 
 **Goal:** Research and understand (not necessarily assemble)
 

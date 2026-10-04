@@ -64,7 +64,7 @@ How this relationship affects the campaign
 
 ### Source Note
 
-[[Harmony Hall]]
+[[Harmony Hall - DM Notes]]
 
 ### Related Atomic Notes
 

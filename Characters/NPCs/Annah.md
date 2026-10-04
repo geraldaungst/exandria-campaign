@@ -1,7 +1,7 @@
 ---
 affiliations:
   - "[[Party]]"
-current_location: "[[Harmony Hall]]"
+current_location: "[[Harmony Hall - DM Notes]]"
 disposition: friendly
 tags:
   - npc
@@ -9,18 +9,11 @@ tags:
   - region/menagerie-coast
 ---
 
----
-
-tags:
-
-  - needs-work
-  - npc
-  - region/menagerie-coast
 ![[annah.jpeg|right|300]]
 
 > You see a striking tiefling woman with deep crimson skin, pink horns, and vibrant violet eyes. Her long, sleek black hair cascades down her back. She wears a simple dark purple gown and a silver pendant around her neck. She has kind eyes and a warm expression on her face.
 
-Annah works at [[Harmony Hall]]. She is head of the support staff and runs the box office. She recently began performing when [[Grisul Adder]] learned of her beautiful singing voice.
+Annah works at [[Harmony Hall - DM Notes]]. She is head of the support staff and runs the box office. She recently began performing when [[Grisul Adder]] learned of her beautiful singing voice.
 
 Annah also worked there when it was a brothel. She was not one of the ladies. There was no hierarchy as such, but Annah was as close to a "supervisor" of the support staff (cleaners, clerical staff, etc.) as there was. Annah never judged the ladies (unlike some of the other staff who either looked down on them or were jealous of the attention and status). She and [[Hesterian Shyr (Dot)|Hesterian]] were fairly close while they both lived there. Annah did not get along with Xanaphia Lothliss (Hesterian's lover), who tended to be more jealous, despite Annah being more of a sister than potential lover.
 

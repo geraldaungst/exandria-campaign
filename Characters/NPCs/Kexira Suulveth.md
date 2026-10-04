@@ -1,6 +1,6 @@
 ---
 affiliations:
-  - "[[Cobalt Soul]]"
+  - "[[Cobalt Soul - DM Notes]]"
 tags:
   - npc
   - world/exandria

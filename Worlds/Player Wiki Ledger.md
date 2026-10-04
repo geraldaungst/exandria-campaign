@@ -7,20 +7,30 @@ tags: []
 
 One row per published Exandria note. Claude reads this before every run and does not draft any subject listed here. Keep it in the DM vault, not in `Player Wiki`. Update it after each run, commit, and sync before the next one. A place note that has become a hub gets Type set to Hub.
 
-| Note title               | Type     | Scope | Date       | Renamed DM note                     |
-| ------------------------ | -------- | ----- | ---------- | ----------------------------------- |
-| Tal'Dorei                | Location | T01   | 2026-10-04 | None                                |
-| Emon                     | Location | T01   | 2026-10-04 | None                                |
-| Whitestone               | Location | T01   | 2026-10-04 | None                                |
-| Shrine of Bahamut        | Location | T01   | 2026-10-04 | Shrine of Bahamut - DM Notes        |
-| Tipsy Quorum             | Location | T01   | 2026-10-04 | Tipsy Quorum - DM Notes             |
-| Percival de Rolo         | NPC      | T01   | 2026-10-04 | None                                |
-| Vex'ahlia de Rolo        | NPC      | T01   | 2026-10-04 | None                                |
-| Gnurlsotten's Nosh & Nip | Location | S01   | 2026-10-04 | Gnurlsotten's Nosh & Nip - DM Notes |
-| Grent Gnurlsotten        | NPC      | S01   | 2026-10-04 | Grent Gnurlsotten - DM Notes        |
-| Cave-Aged Truscan        | Item     | S01   | 2026-10-04 | none                                |
-| Port Damali|Location | T02 | 2026-10-04 | Port Damali - DM Notes (already renamed) |
-| Olesya Lapidus | NPC | T02 | 2026-10-04 | None |
+| Note title                         | Type     | Scope | Date       | Renamed DM note                               |
+| ---------------------------------- | -------- | ----- | ---------- | --------------------------------------------- |
+| Tal'Dorei                          | Location | T01   | 2026-10-04 | None                                          |
+| Emon                               | Location | T01   | 2026-10-04 | None                                          |
+| Whitestone                         | Location | T01   | 2026-10-04 | None                                          |
+| Shrine of Bahamut                  | Location | T01   | 2026-10-04 | Shrine of Bahamut - DM Notes                  |
+| Tipsy Quorum                       | Location | T01   | 2026-10-04 | Tipsy Quorum - DM Notes                       |
+| Percival de Rolo                   | NPC      | T01   | 2026-10-04 | None                                          |
+| Vex'ahlia de Rolo                  | NPC      | T01   | 2026-10-04 | None                                          |
+| Gnurlsotten's Nosh & Nip           | Location | S01   | 2026-10-04 | Gnurlsotten's Nosh & Nip - DM Notes           |
+| Grent Gnurlsotten                  | NPC      | S01   | 2026-10-04 | Grent Gnurlsotten - DM Notes                  |
+| Cave-Aged Truscan                  | Item     | S01   | 2026-10-04 | none                                          |
+| Port Damali                        | Location | T02   | 2026-10-04 | Port Damali - DM Notes (already renamed)      |
+| Olesya Lapidus                     | NPC      | T02   | 2026-10-04 | None                                          |
+| Port Damali                        | Hub      | T02   | 2026-10-04 | Port Damali - DM Notes (already renamed)      |
+| Harmony Hall                       | Location | T03   | 2026-10-04 | Harmony Hall - DM Notes                       |
+| Pearl Shrine                       | Location | T03   | 2026-10-04 | None                                          |
+| Cobalt Soul Archive in Port Damali | Location | T03   | 2026-10-04 | Cobalt Soul Archive in Port Damali - DM Notes |
+| The Pudgy Pigeon                   | Location | T03   | 2026-10-04 | The Pudgy Pigeon - DM Notes                   |
+| Staff and Scimitar                 | Location | T03   | 2026-10-04 | None                                          |
+| Celunor's Collection               | Location | T03   | 2026-10-04 | Celunor's Collection - DM Notes               |
+| Ilya's Realm Shop                  | Location | T03   | 2026-10-04 | Ilya's Realm Shop - DM Notes                  |
+| New Temple of Moradin              | Location | T03   | 2026-10-04 | New Temple of Moradin - DM Notes              |
+| Aelorin's Headquarters             | Location | T03   | 2026-10-04 | Aelorin's Headquarters - DM Notes             |
 
 ## Standing Decisions
 
@@ -50,6 +60,9 @@ Decisions from earlier runs that apply to every future run. Source and run in br
 - Local governing bodies with little to say (Tal'Dorei Council, Chamber of Whitestone) go in the place note, not a separate faction note. [Claude, T01]
 - Travel routes get no standalone notes. A city's Getting There section names its skyship port or harbor and the destinations served. Fares and travel times are not published. [Gerald and Claude, T01]
 - Specific ships and their crews are left out. [Claude, T01]
+- Hidden places the party knows well get player notes. Publish what the party has learned there, not the place's secrets. [Gerald, T03]
+- A player character's backstory place that is an important location in its own right gets a note with its history. Omit the character's connection. [Gerald, T03]
 
 ### Other Decisions
+
 - New ledger rows should be presented in raw markdown format for simpler copy/paste into the vault

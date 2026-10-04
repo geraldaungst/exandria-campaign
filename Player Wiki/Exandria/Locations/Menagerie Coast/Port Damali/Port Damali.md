@@ -1,15 +1,15 @@
 ---
-tags:
-  - location
-  - player-facing
-  - world/exandria
-  - region/menagerie-coast
 aliases:
   - Port Demali
   - Port Dalmali
 cssclasses:
   - world-exandria
 publish: true
+tags:
+  - location
+  - player-facing
+  - world/exandria
+  - region/menagerie-coast
 ---
 
 > [!info] Quick Reference
@@ -68,3 +68,21 @@ About 82,000 people live in the city. Roughly half are human, with large numbers
 - **By sea:** The harbor in the Larboard Light receives ships from across the Lucidian Ocean and beyond.
 - **By air:** Port Damali has the only skyport in Wildemount, a spire in the Gilded Esplanade. Skyships connect it with [[Emon]] and [[Whitestone]], and ships also arrive from Marquet. Arrivals draw crowds.
 - **By land:** Trade routes leave the city in every direction.
+
+## In Port Damali
+
+### Locations
+
+- [[Aelorin's Headquarters]]: hidden Clasp base beneath a tailor shop
+- [[Celunor's Collection]]: shop of rare books and curiosities, styled as a sunken archive
+- [[Cobalt Soul Archive in Port Damali]]: the Cobalt Soul's library and archive in the city
+- [[Harmony Hall]]: dinner theater in a former brothel
+- [[Ilya's Realm Shop]]: high-end magic shop owned by a retired adventurer
+- [[New Temple of Moradin]]: dwarven temple to Moradin in the Crescents, built over Ki'Nau burial crypts
+- [[Pearl Shrine]]: temple to Avandra in the Crescents
+- [[Staff and Scimitar]]: dockside tavern in the Larboard Light
+- [[The Pudgy Pigeon]]: inn and tavern with rooms to rent
+
+### People
+
+- [[Olesya Lapidus]]: Marquis of Port Damali

@@ -48,10 +48,10 @@ An "Owns" list names the subjects a run is responsible for deciding about. It do
 
 - [X] **T01 Tal'Dorei: Emon and Whitestone**
   - Owns: Tal'Dorei overview, Emon, Whitestone, and the Emon to Port Damali skyship route (confirm).
-- [ ] **T02 Port Damali: the city**
+- [X] **T02 Port Damali: the city**
   - Owns: Port Damali itself, its districts, government, and character.
   - Leaves to: T03 for specific venues, T04 for organizations.
-- [ ] **T03 Port Damali: notable places**
+- [X] **T03 Port Damali: notable places**
   - Owns: venues a visitor would hear about, such as Harmony Hall and the Pearl Shrine, Cobalt Soul Archive in Port Damali, the Gilded Pearl Tavern, the Pudgy Pigeon, the Staff and Scimitar (confirm).
   - Out: hidden or secret locations, such as any organization's headquarters.
 - [ ] **T04 Port Damali: organizations**

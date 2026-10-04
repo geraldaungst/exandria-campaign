@@ -203,7 +203,7 @@ Rotisserie-cooked slices of frog with a ginger marinade served over mashed potat
 
 ### Source Note
 
-[[The Pudgy Pigeon]]
+[[The Pudgy Pigeon - DM Notes]]
 
 ### Related Atomic Notes
 

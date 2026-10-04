@@ -44,7 +44,7 @@ Recently returned from the Whitestone festival via the [[Sessions 1 to 3 - The S
 > - [x] Aethor met with [[Calderax Dunhall]] at The Sunset Sail tavern in the Larboard Light
 > - [x] Carries a distinctive satchel filled with scrolls and documents
 > - [x] Often seems distracted or lost in thought while walking the streets
-> - [x] Stays at [[The Pudgy Pigeon]], second floor
+> - [x] Stays at [[The Pudgy Pigeon - DM Notes]], second floor
 > - [x] Works for the [[Obsidian Echoforge]] as a key researcher
 > - [x] Overheard discussions about the [[Lorestone of Eryndor]]
 > - [x] Has made multiple trips to the Cobalt Soul library

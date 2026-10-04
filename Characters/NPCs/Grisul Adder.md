@@ -1,5 +1,5 @@
 ---
-current_location: "[[Harmony Hall]]"
+current_location: "[[Harmony Hall - DM Notes]]"
 disposition: friendly
 tags:
   - npc

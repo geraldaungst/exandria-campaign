@@ -53,9 +53,9 @@ Anyone - [[danoths-visor-egw|Danoth's Visor]], [[jewel-of-three-prayers-crcotn|J
 
 - [ ] [[Drawg Stormbrew (Brew)|Drawg]] needs to acquire his [[Blade of Maroth Fenn|dagger]]…currently held by [[Dreyara Drimvar]]
 - [x] …and [[Drawg Stormbrew (Brew)|Drawg]] also wants a trident
-- [x] [[Drawg Stormbrew (Brew)|Drawg]] has promised to help with the [[New Temple of Moradin]]
+- [x] [[Drawg Stormbrew (Brew)|Drawg]] has promised to help with the [[New Temple of Moradin - DM Notes]]
 - [ ] [[Hesterian Shyr (Dot)|Hesterian]] will infiltrate the Myriad, but doing so will compel her to commit evil acts.
-- [x] [[Hesterian Shyr (Dot)|Hesterian]] wants to visit the [[Harmony Hall|Coriander & Mallow Exchange Company]].
+- [x] [[Hesterian Shyr (Dot)|Hesterian]] wants to visit the [[Harmony Hall - DM Notes|Coriander & Mallow Exchange Company]].
 - [x] [[Qilynn Duskwhisper (Nicole)|Qilynn]] knows damn well that her [[21 Qilynn's Failed Heist|last failure was not her fault]], but she can't prove it. It's just a hunch. When she figures out who sabotaged the gig, she owes them. Her revenge may cause unexpected complications for her and for the party.
 - [x] [[Seraphina Amaris (Vicki)|Seraphina]] wants to find out what century it is, and how to fit into this new reality. The discovery will turn her world upside down.
 - [ ] [[Popcorn Zikelfikel (Viv)|Popcorn]] really wants to prove himself physically in a fight to show that he can hold his own as a barbarian. Because of his size and typically sweet nature, he is not taken seriously in that regard so doing something awesome in a fight and getting praise for it would make him feel validated.

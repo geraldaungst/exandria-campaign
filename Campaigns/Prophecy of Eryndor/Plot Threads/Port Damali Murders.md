@@ -94,7 +94,7 @@ This event is the central trauma in [[Hesterian Shyr (Dot)]]'s backstory and the
 ### Related Locations
 
 - [[Port Damali - DM Notes]] - Location of murders
-- [[Harmony Hall]] - Former brothel, center of relationships
+- [[Harmony Hall - DM Notes]] - Former brothel, center of relationships
 - [[Zadash - DM Notes]] - Korfel's current location and power base
 
 ### Related Plot Threads

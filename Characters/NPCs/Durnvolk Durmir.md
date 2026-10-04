@@ -1,7 +1,7 @@
 ---
 aliases:
   - Durnvolk
-current_location: "[[New Temple of Moradin]]"
+current_location: "[[New Temple of Moradin - DM Notes]]"
 disposition: friendly
 tags:
   - npc
