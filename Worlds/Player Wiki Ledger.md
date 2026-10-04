@@ -5,7 +5,7 @@ tags: []
 
 ## Player Wiki Ledger
 
-One row per published Exandria note. Claude reads this before every run and does not draft any subject listed here. Keep it in the DM vault, not in `Player Wiki`. Update it after each run, commit, and sync before the next one.
+One row per published Exandria note. Claude reads this before every run and does not draft any subject listed here. Keep it in the DM vault, not in `Player Wiki`. Update it after each run, commit, and sync before the next one. A place note that has become a hub gets Type set to Hub.
 
 | Note title               | Type     | Scope | Date       | Renamed DM note                     |
 | ------------------------ | -------- | ----- | ---------- | ----------------------------------- |
