@@ -5,7 +5,7 @@ aliases:
   - Cree
 context:
 created: 2025-09-28
-current_location: "[[Zadash]]"
+current_location: "[[Zadash - DM Notes]]"
 disposition: indifferent
 tags:
   - npc
@@ -29,7 +29,7 @@ region: Dwendalian Empire
 
 **Current Employer:** [[Korfel Withrethin]] (The Gentleman)
 
-**Employment Duration:** Approximately 2-3 years (since Korfel established himself in [[Zadash]])
+**Employment Duration:** Approximately 2-3 years (since Korfel established himself in [[Zadash - DM Notes]])
 
 **Official Role:** "Specialized consultant" for security and personnel management
 
@@ -157,7 +157,7 @@ region: Dwendalian Empire
 
 **Timeline:** Approximately 833 PD (about a year after Hesterian was sold)
 
-**Location:** Cerberus Assembly research facility in [[Rexxentrum]]
+**Location:** Cerberus Assembly research facility in [[Rexxentrum - DM Notes]]
 
 **Cree's Role:** Conducted magical assessment of new "acquisition"
 

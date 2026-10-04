@@ -1,7 +1,7 @@
 ---
 aliases:
   - the empire
-current_location: "[[Rexxentrum]]"
+current_location: "[[Rexxentrum - DM Notes]]"
 disposition: indifferent
 tags:
   - faction

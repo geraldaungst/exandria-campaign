@@ -15,7 +15,7 @@ type: session-prep
 
 ## Session: The Herdsman of Gnurlsotten's Nosh & Nip
 
-**Purpose:** Decompression after the Monastery arc. Low stakes, high charm, one nonlethal brawl as the climax. Ends by handing the party a reason to go to [[Deastok]], and from there [[Zadash]].
+**Purpose:** Decompression after the Monastery arc. Low stakes, high charm, one nonlethal brawl as the climax. Ends by handing the party a reason to go to [[Deastok]], and from there [[Zadash - DM Notes]].
 
 **Party:** Drawg, Hesterian, Popcorn, Qilynn, Seraphina (~level 8-9)
 
@@ -386,7 +386,7 @@ Grent doesn't need to learn who really took the goats. He's more relieved than v
 
 #### The Favor
 
-**Marta Halsen**—the woman leading the [[Zadash]] refugees the party met earlier on the road—passed through here and left something behind. Grent knows her group won't double back, so he's sending it to the one connection he's sure of: **Torvald**, her brother-in-law at the **White Peak Inn** in [[Deastok]].
+**Marta Halsen**—the woman leading the [[Zadash - DM Notes]] refugees the party met earlier on the road—passed through here and left something behind. Grent knows her group won't double back, so he's sending it to the one connection he's sure of: **Torvald**, her brother-in-law at the **White Peak Inn** in [[Deastok]].
 
 His regular cheese courier to Torvald is running late. He asks the party to carry both the delivery and the item.
 
@@ -399,7 +399,7 @@ His regular cheese courier to Torvald is running late. He asks the party to carr
 > Nothing here connects to the rifts or the larger plot. Purely a warm, human detail.
 
 > [!secret]- DM Only—where this goes
-> The natural hook into [[Deastok]], and from there toward [[Zadash]] and the [[Korfel Withrethin]] arc. No plot pressure—a favor and an introduction.
+> The natural hook into [[Deastok]], and from there toward [[Zadash - DM Notes]] and the [[Korfel Withrethin]] arc. No plot pressure—a favor and an introduction.
 
 ---
 

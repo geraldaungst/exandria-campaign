@@ -40,7 +40,7 @@ Melthes is a half-elf with distinctive Feywild magical resonance and abilities r
 
 ## Current Situation
 
-Current whereabouts unknown. Last confirmed location was [[Cerberus Assembly]] research facility in [[Rexxentrum]] where he was assigned to [[Isolene Fenzana]]'s research division.
+Current whereabouts unknown. Last confirmed location was [[Cerberus Assembly]] research facility in [[Rexxentrum - DM Notes]] where he was assigned to [[Isolene Fenzana]]'s research division.
 
 **Status:** Has been in Assembly custody since approximately 833 PD. Current condition, exact location, and whether he remains in their custody are all unknown.
 
@@ -108,7 +108,7 @@ He was recommended for advanced study under [[Isolene Fenzana]]'s research divis
 ### Related Locations
 
 - [[Xarzith Kitril]] - Home city
-- [[Rexxentrum]] - Last known location (Assembly facility)
+- [[Rexxentrum - DM Notes]] - Last known location (Assembly facility)
 - [[Feywild]]/[[Feydark]] - Source of his abilities
 
 ## Connected Elements

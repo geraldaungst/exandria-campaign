@@ -40,13 +40,13 @@ An "Owns" list names the subjects a run is responsible for deciding about. It do
 
 ## Phase 1: Test run
 
-- [ ] **S01 Gnurlsotten's Nosh & Nip**
+- [X] **S01 Gnurlsotten's Nosh & Nip**
   - Owns: the tavern and cheesery, its proprietor Grent Gnurlsotten, Cave-Aged Truscan (the cheese and its reputation).
   - Leaves to: T08 (Cyrios Mountains). The regulars, goats, and the party's visit are out of scope.
 
 ## Phase 2: Travel Exandria (destinations)
 
-- [ ] **T01 Tal'Dorei: Emon and Whitestone**
+- [X] **T01 Tal'Dorei: Emon and Whitestone**
   - Owns: Tal'Dorei overview, Emon, Whitestone, and the Emon to Port Damali skyship route (confirm).
 - [ ] **T02 Port Damali: the city**
   - Owns: Port Damali itself, its districts, government, and character.

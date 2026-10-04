@@ -7,7 +7,7 @@ aliases:
   - Melthes Recruitment
 context:
 created: 2025-10-12
-current_location: "[[Rexxentrum]]"
+current_location: "[[Rexxentrum - DM Notes]]"
 disposition: indifferent
 tags:
   - faction
@@ -25,7 +25,7 @@ tags:
 
 **Location of Recruitment:** [[Xarzith Kitril]]
 
-**Location of Processing:** [[Cerberus Assembly]] research facility in [[Rexxentrum]]
+**Location of Processing:** [[Cerberus Assembly]] research facility in [[Rexxentrum - DM Notes]]
 
 **Agents Involved:** Two Volstrucker agents (one was a former client of Hesterian's)
 
@@ -43,7 +43,7 @@ The Assembly, realizing the potential of such a unique individual, used a blend 
 
 #### The Assessment
 
-Upon arrival at the Assembly facility in [[Rexxentrum]], [[Melthes]] (then 16 years old) underwent magical assessment by [[Cree Deeproots]].
+Upon arrival at the Assembly facility in [[Rexxentrum - DM Notes]], [[Melthes]] (then 16 years old) underwent magical assessment by [[Cree Deeproots]].
 
 **Assessment Results:**
 

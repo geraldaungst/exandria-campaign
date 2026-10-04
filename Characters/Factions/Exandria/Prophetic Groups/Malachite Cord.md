@@ -42,7 +42,7 @@ Leader: [[Rinneth Starsong]]
 
 ### Resources & Assets
 
-- The group's headquarters (such as it is) is in [[Odessloe]], near [[Rexxentrum]]. The group uses a section of Radelia Caphax's Cithrel Textiles company warehouse for their records and meetings, though more often than not the group is traveling and does not stay in one place much.
+- The group's headquarters (such as it is) is in [[Odessloe]], near [[Rexxentrum - DM Notes]]. The group uses a section of Radelia Caphax's Cithrel Textiles company warehouse for their records and meetings, though more often than not the group is traveling and does not stay in one place much.
 
 ## Culture & Methods
 

@@ -14,7 +14,7 @@ tags:
 ## Quick Reference
 
 > [!info] Essential Details
-> - Base of Operations: Network presence in [[Rexxentrum]], meetings at [[Scroll and Scribe]]
+> - Base of Operations: Network presence in [[Rexxentrum - DM Notes]], meetings at [[Scroll and Scribe]]
 > - Primary Goal: Construct a permanent doorway to harness rift power
 > - Current Status: Active, operating covertly
 > - Party Standing: Unknown
@@ -49,7 +49,7 @@ Regional organization with distributed network structure
 
 ### Resources & Assets
 
-- Distributed network of members in [[Rexxentrum]]
+- Distributed network of members in [[Rexxentrum - DM Notes]]
 - Important materials and documents spread among members
 - Meeting location at [[Scroll and Scribe]] in Court of Colors
 - Financial backing from hidden sources
@@ -162,7 +162,7 @@ The Massacre had profound internal consequences:
 - Establish surveillance on the [[Obsidian Echoforge]]'s [[Palma Flora]] facility, focusing on security measures around their shard collection
 - Gather intelligence on [[Lyren Willowwhisper]]'s daily routines and vulnerabilities
 - Maintain cover operations at [[Scroll and Scribe]] to monitor [[Archivist Ovedo]]'s activities
-- Establish secure supply routes between [[Rexxentrum]] and the Ruins of Draconia
+- Establish secure supply routes between [[Rexxentrum - DM Notes]] and the Ruins of Draconia
 - Screen potential recruits for [[Valen Elderguard]]'s "special operations" team
 - Investigate any unusual arcane activity near known rift locations
 - Monitor [[Obsidian Echoforge]] communications for mentions of the [[Harmonic Planar Conduit]] components
@@ -185,7 +185,7 @@ The Massacre had profound internal consequences:
 - Unusual interest in historical documents about Draconia
 - Multiple break-in attempts at artifact storage facilities
 - Suspicious "scholarly visitors" at various archives
-- Increased recruitment of mercenaries in [[Rexxentrum]]
+- Increased recruitment of mercenaries in [[Rexxentrum - DM Notes]]
 
 ## Related Elements
 

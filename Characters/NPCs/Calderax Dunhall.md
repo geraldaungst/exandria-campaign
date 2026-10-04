@@ -50,7 +50,7 @@ Currently residing above The [[Sunset Sail]] tavern in [[Port Damali]], maintain
 
 ## Background
 
-![[calderax-dunhall.jpeg|right|300]] Studied at a small academy in [[Zadash]] before moving to [[Port Zoon]] to pursue independent research on planar anomalies, which eventually led to his recruitment by the [[Obsidian Echoforge]]. Joined the [[Obsidian Echoforge]] about a year ago as a junior researcher in their archives division. Became [[Aelorin Nightshade]]'s mentee approximately 2-3 months ago, presenting himself as an eager scholar interested in specialized magical theory. Shortly after beginning his mentorship with [[Aelorin Nightshade]], he was recruited by [[Dreyara Drimvar]], who recognized his potential value as an informant and manipulated his attraction to her to secure his loyalty.
+![[calderax-dunhall.jpeg|right|300]] Studied at a small academy in [[Zadash - DM Notes]] before moving to [[Port Zoon]] to pursue independent research on planar anomalies, which eventually led to his recruitment by the [[Obsidian Echoforge]]. Joined the [[Obsidian Echoforge]] about a year ago as a junior researcher in their archives division. Became [[Aelorin Nightshade]]'s mentee approximately 2-3 months ago, presenting himself as an eager scholar interested in specialized magical theory. Shortly after beginning his mentorship with [[Aelorin Nightshade]], he was recruited by [[Dreyara Drimvar]], who recognized his potential value as an informant and manipulated his attraction to her to secure his loyalty.
 
 ## Hidden Information
 

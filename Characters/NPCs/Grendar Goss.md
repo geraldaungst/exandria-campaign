@@ -48,8 +48,8 @@ Grendar keeps the following plants at his bar in a kind of herb garden. He uses 
     - **Reason for Addition:** Grendar ventured to the Shattered Teeth to procure these vines, which bloom only under moonlight, casting an ethereal glow. They add a mystical, luminescent quality to his cocktails, embodying the enchantment of moonlit nights.
 7. **Starpepper Seeds from Wildemount**
 
-    - **Origin:** The exotic markets of [[Zadash]], Wildemount.
-    - **Reason for Addition:** Acquired in the bustling markets of [[Zadash]], these seeds produce peppers that burst with a flavor both spicy and reminiscent of distant stars. Grendar uses them to add a celestial spark to his creations, inspired by the vastness of the cosmos.
+    - **Origin:** The exotic markets of [[Zadash - DM Notes]], Wildemount.
+    - **Reason for Addition:** Acquired in the bustling markets of [[Zadash - DM Notes]], these seeds produce peppers that burst with a flavor both spicy and reminiscent of distant stars. Grendar uses them to add a celestial spark to his creations, inspired by the vastness of the cosmos.
 8. **Frostleaf from the Cyrios Mountains**
 
     - **Origin:** The icy peaks of the Cyrios Mountains.

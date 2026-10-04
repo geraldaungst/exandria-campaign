@@ -44,7 +44,7 @@ tags:
 
 - Choice made:
 - Potential consequences:
-- Future hooks: Dechs needs to return to [[Zadash]] to turn in her herbs
+- Future hooks: Dechs needs to return to [[Zadash - DM Notes]] to turn in her herbs
 
 ## Post-Session Processing
 

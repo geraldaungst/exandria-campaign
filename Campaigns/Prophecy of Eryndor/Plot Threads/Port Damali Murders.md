@@ -68,7 +68,7 @@ Korfel and Xanaphia devised a plan to draw Hesterian to a neutral location where
 - Korfel gave authorities a false tip pointing to [[Rylan Estevez]], an innocent stable boy from the brothel
 - Evidence (the bloody murder weapon) was planted on Rylan
 - Rylan was quickly convicted and sentenced to 10 years in prison
-- Korfel used the chaos to flee [[Port Damali]] and eventually establish himself in [[Zadash]]
+- Korfel used the chaos to flee [[Port Damali]] and eventually establish himself in [[Zadash - DM Notes]]
 
 #### **Key Evidence Lost/Hidden**
 
@@ -85,7 +85,7 @@ This event is the central trauma in [[Hesterian Shyr (Dot)]]'s backstory and the
 ### Related Characters
 
 - [[Hesterian Shyr (Dot)]] - Victim, now Hollow One seeking justice
-- [[Korfel Withrethin]] - Perpetrator, now "The Gentleman" in [[Zadash]]
+- [[Korfel Withrethin]] - Perpetrator, now "The Gentleman" in [[Zadash - DM Notes]]
 - [[Xanaphia Lothliss]] - Victim, betrayed escape plan leading to both deaths
 - [[Rylan Estevez]] - Falsely imprisoned stable boy
 - [[Grisul Adder]] - Brothel owner, unaware of the true circumstances
@@ -95,7 +95,7 @@ This event is the central trauma in [[Hesterian Shyr (Dot)]]'s backstory and the
 
 - [[Port Damali]] - Location of murders
 - [[Harmony Hall]] - Former brothel, center of relationships
-- [[Zadash]] - Korfel's current location and power base
+- [[Zadash - DM Notes]] - Korfel's current location and power base
 
 ### Related Plot Threads
 

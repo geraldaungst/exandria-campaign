@@ -18,7 +18,7 @@ publish: true
 
 ## Description
 
-A tavern and cheesery at the edge of the [[Cyrios Mountains]], on the road toward [[Deastok]] and, beyond it, [[Zadash]]. It stands on its own rather than in any town. Regulars come from nearby settlements, and travelers on the mountain road stop here. The proprietor is [[Grent Gnurlsotten]].
+A tavern and cheesery at the edge of the [[Cyrios Mountains]], on the road toward [[Deastok]] and, beyond it, [[Zadash - DM Notes]]. It stands on its own rather than in any town. Regulars come from nearby settlements, and travelers on the mountain road stop here. The proprietor is [[Grent Gnurlsotten]].
 
 ## The Building
 

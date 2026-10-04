@@ -60,7 +60,7 @@ Anyone - [[danoths-visor-egw|Danoth's Visor]], [[jewel-of-three-prayers-crcotn|J
 - [x] [[Seraphina Amaris (Vicki)|Seraphina]] wants to find out what century it is, and how to fit into this new reality. The discovery will turn her world upside down.
 - [ ] [[Popcorn Zikelfikel (Viv)|Popcorn]] really wants to prove himself physically in a fight to show that he can hold his own as a barbarian. Because of his size and typically sweet nature, he is not taken seriously in that regard so doing something awesome in a fight and getting praise for it would make him feel validated.
 - [x] [[Laucian Greycastle (Brent)|Laucian]] has a [[Letter to Celdric Ambril]] to deliver
-- [ ] [[Eidechse (Amanda Jeane)|Dechs]] - Complete her assignment to obtain the rare herbs and return them to [[Zadash]] for payment
+- [ ] [[Eidechse (Amanda Jeane)|Dechs]] - Complete her assignment to obtain the rare herbs and return them to [[Zadash - DM Notes]] for payment
 
 ### Medium Term
 

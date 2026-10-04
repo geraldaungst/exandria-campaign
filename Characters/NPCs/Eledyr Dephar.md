@@ -16,7 +16,7 @@ tags:
 
 > [!info] Essential Details
 >
-> - Current Location: [[Rexxentrum]] ([[Scroll and Scribe]], Valen's townhouse)
+> - Current Location: [[Rexxentrum - DM Notes]] ([[Scroll and Scribe]], Valen's townhouse)
 > - Key Motivation: Climb Clasp ranks while serving Emissary goals; personal vendetta against Qilynn
 > - Attitude toward party: Unknown/Hostile (unaware of party but opposes their likely allies)
 > - Critical Knowledge: In section below [What Eledyr Knows]

@@ -1,13 +1,13 @@
 ---
 affiliations:
   - none
-current_location: "[[Rexxentrum]]"
+current_location: "[[Rexxentrum - DM Notes]]"
 disposition: friendly
 tags:
   - npc
   - hook
   - world/exandria
-  - "region/tal'dorei"
+  - region/tal'dorei
 ---
 
 ## Quick Reference

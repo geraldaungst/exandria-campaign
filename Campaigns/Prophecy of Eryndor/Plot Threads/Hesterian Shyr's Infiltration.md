@@ -14,11 +14,11 @@ tags:
 > - Key Players: [[Hesterian Shyr (Dot)]], [[Korfel Withrethin]], [[Myriad]]
 > - Parent Plot: Character Development
 > - Last Session: Not yet activated
-> - Next Steps: Party travels north toward [[Zadash]], Hesterian decides to pursue infiltration
+> - Next Steps: Party travels north toward [[Zadash - DM Notes]], Hesterian decides to pursue infiltration
 
 ## Overview
 
-Hesterian has expressed the goal of infiltrating the Myriad criminal organization. Unknown to her, this quest will lead her directly to the man who murdered her - [[Korfel Withrethin]], who now operates as "The Gentleman" and runs [[The Gentleman's Criminal Empire]] in [[Zadash]]. The central dramatic tension lies in the immediate recognition between murderer and victim, forcing complex choices about revenge, justice, and survival.
+Hesterian has expressed the goal of infiltrating the Myriad criminal organization. Unknown to her, this quest will lead her directly to the man who murdered her - [[Korfel Withrethin]], who now operates as "The Gentleman" and runs [[The Gentleman's Criminal Empire]] in [[Zadash - DM Notes]]. The central dramatic tension lies in the immediate recognition between murderer and victim, forcing complex choices about revenge, justice, and survival.
 
 **Core Dramatic Question:** When Hesterian meets her killer face-to-face in a position of power, how will she choose between immediate revenge and strategic patience?
 
@@ -33,7 +33,7 @@ Hesterian has expressed the goal of infiltrating the Myriad criminal organizatio
 ### Active Elements
 
 - Player has expressed interest in Myriad infiltration
-- Hesterian knows [[Korfel Withrethin]] fled north, possibly to [[Zadash]]
+- Hesterian knows [[Korfel Withrethin]] fled north, possibly to [[Zadash - DM Notes]]
 - Geographic progression brings party closer to Zadash/northern regions
 - Potential connection to [[Eidechse (Amanda Jeane)|Dechs]]'s herb delivery mission
 
@@ -48,7 +48,7 @@ Hesterian has expressed the goal of infiltrating the Myriad criminal organizatio
 ### What Hesterian Knows
 
 - **Her Murder:** Full details in [[The Port Damali Murders]]
-- **Current Lead:** Killer fled north, possibly to [[Zadash]]
+- **Current Lead:** Killer fled north, possibly to [[Zadash - DM Notes]]
 - **Infiltration Goal:** Wants to infiltrate the Myriad (player choice)
 - **Mysterious Visions:** Strange dreams about "Scourger" and flames from [[stone-of-memory]]
 
@@ -99,7 +99,7 @@ When Hesterian finally encounters "The Gentleman" during Myriad business, both w
 
 **Justice vs. Revenge:** Does exposing [[Rylan Estevez Frame Job|Rylan's wrongful imprisonment]] matter more than personal satisfaction?
 
-**Greater Good vs. Personal Vendetta:** Taking down The Gentleman might destabilize [[Zadash]]'s criminal balance - is that worth it?
+**Greater Good vs. Personal Vendetta:** Taking down The Gentleman might destabilize [[Zadash - DM Notes]]'s criminal balance - is that worth it?
 
 **Party Loyalty vs. Individual Goals:** How far will Hesterian go before her quest endangers her companions?
 
@@ -119,7 +119,7 @@ When Hesterian finally encounters "The Gentleman" during Myriad business, both w
 
 ### Phase 1: The Approach (Current)
 
-- [ ] **Trigger Opportunity:** Party travels to [[Zadash]] region or encounters Myriad operatives
+- [ ] **Trigger Opportunity:** Party travels to [[Zadash - DM Notes]] region or encounters Myriad operatives
 - [ ] Initial contact with Myriad representatives
 - [ ] Learning about "The Gentleman" without knowing his identity
 - [ ] **Choice Point:** Commit to infiltration or find another approach
@@ -148,7 +148,7 @@ Multiple potential endings based on player choices:
 
 - Expose Korfel's crimes and true identity to authorities
 - Free [[Rylan Estevez]] from wrongful imprisonment
-- Risk destabilizing criminal balance in [[Zadash]]
+- Risk destabilizing criminal balance in [[Zadash - DM Notes]]
 
 #### Resolution Path B: Criminal Justice
 
@@ -217,7 +217,7 @@ Multiple potential endings based on player choices:
 ### Plot Threads
 
 - [[The Capture of Melthes]] - Brother's fate intersects through Assembly connection
-- [[Delivering the Herbs]] - Potential shared destination in [[Zadash]]
+- [[Delivering the Herbs]] - Potential shared destination in [[Zadash - DM Notes]]
 - Justice subplot for [[Rylan Estevez]]
 - Broader Myriad/criminal organization conflicts
 
@@ -225,7 +225,7 @@ Multiple potential endings based on player choices:
 
 - [[Harmony Hall]] - Site of investigation and information gathering
 - [[Port Damali]] - Scene of original crimes
-- [[Zadash]] - Current confrontation location and Korfel's power base
+- [[Zadash - DM Notes]] - Current confrontation location and Korfel's power base
 
 ### Items & Evidence
 

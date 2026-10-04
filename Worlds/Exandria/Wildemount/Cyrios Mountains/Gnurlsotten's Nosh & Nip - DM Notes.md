@@ -130,4 +130,4 @@ Four feet tall, stout and barrel-chested, roughly thirty, ruddy and gap-toothed,
 ### Connections
 
 - **Courier route** to **Torvald** at the **White Peak Inn** in [[Deastok]]—Grent sends cheese down regularly.
-- On the road toward [[Deastok]] and, beyond it, [[Zadash]].
+- On the road toward [[Deastok]] and, beyond it, [[Zadash - DM Notes]].

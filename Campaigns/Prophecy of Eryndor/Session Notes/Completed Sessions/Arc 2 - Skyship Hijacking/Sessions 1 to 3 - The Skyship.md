@@ -15,7 +15,7 @@ tags:
 - Ship captain: [[Captain Thyakas]]
 - Others on the ship (checked are built in Roll20):
 	- [x] [[Georgina Wiseacre]] - Heading home to support her war-ravaged home.
-	- [x] [[Kite of the Wind]] - "Happy to make your acquaintance, happy to party with you, but we are not friends, and my business is none of yours." If pressed, says he is from [[Zadash]] and just heading home after a long, tedious, and unsuccessful journey.
+	- [x] [[Kite of the Wind]] - "Happy to make your acquaintance, happy to party with you, but we are not friends, and my business is none of yours." If pressed, says he is from [[Zadash - DM Notes]] and just heading home after a long, tedious, and unsuccessful journey.
 	- [x] [[Berinon Truegust]] (first officer, part of the skyjacking)
 	- [x] [[Guzezzik]] (ship's cook, bribed to poison the captain)
 	- [x] [[Aethor Kalisk]] (passenger, en route to PD to seek an artifact, skyjacking is intended to divert him or kill him without it being known he was a direct target) - Not as quiet about his business as he should be--he is excited about his journey and about what he is seeking, though he won't say much in detail about exactly what it is. "My boss wouldn't want me to say any more. Academic rivalries being what they are. I'm sure you know."

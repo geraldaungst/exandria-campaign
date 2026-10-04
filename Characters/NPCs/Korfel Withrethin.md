@@ -21,7 +21,7 @@ region: Dwendalian Empire
 
 > [!info] Essential Details
 >
-> - Current Location: [[Zadash]] (Evening Nip tavern headquarters)
+> - Current Location: [[Zadash - DM Notes]] (Evening Nip tavern headquarters)
 > - Key Motivation: Self-preservation and power expansion through control
 > - Attitude toward party: Initially welcoming but calculating; becomes hostile if identity discovered
 > - Critical Knowledge: [[Port Damali Murders]], [[Rylan Estevez Frame Job]], [[The Gentleman's Criminal Empire]]
@@ -47,7 +47,7 @@ A well-dressed human man in his early 40s who carries himself with the confidenc
 
 ## Current Situation
 
-Currently operates as a major [[Myriad]] crime boss in [[Zadash]] under the alias "Babenon Dosal." Runs operations from the Evening Nip tavern and has built a sophisticated criminal network over 2-3 years. Unknown to his organization, he is actually Korfel Withrethin, a murderer who fled [[Port Damali]] after committing the [[Port Damali Murders]].
+Currently operates as a major [[Myriad]] crime boss in [[Zadash - DM Notes]] under the alias "Babenon Dosal." Runs operations from the Evening Nip tavern and has built a sophisticated criminal network over 2-3 years. Unknown to his organization, he is actually Korfel Withrethin, a murderer who fled [[Port Damali]] after committing the [[Port Damali Murders]].
 
 **Current Resources:**
 
@@ -71,7 +71,7 @@ To cover his crimes and deflect suspicion, Korfel immediately framed an innocent
 
 ![[Rylan Estevez Frame Job#Core Information]]
 
-After successfully framing Rylan, Korfel fled [[Port Damali]] with whatever criminal proceeds he could gather, eventually settling in [[Zadash]] where he reinvented himself.
+After successfully framing Rylan, Korfel fled [[Port Damali]] with whatever criminal proceeds he could gather, eventually settling in [[Zadash - DM Notes]] where he reinvented himself.
 
 ### Rise to Power
 
