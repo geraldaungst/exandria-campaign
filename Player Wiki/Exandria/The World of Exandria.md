@@ -25,6 +25,16 @@ This contains information specific to the Lorestone of Eryndor campaign.
 - [[Percival de Rolo]]: Lord of Whitestone and member of Vox Machina
 - [[Vex'ahlia de Rolo]]: Lady of Whitestone, ranger, and member of Vox Machina
 
+## Menagerie Coast
+
+### Locations
+
+- [[Port Damali]]: largest city on Wildemount's western coast, where the Tyodan River meets the Lucidian Ocean
+
+### People
+
+- [[Olesya Lapidus]]: Marquis of Port Damali
+
 ## Cyrios Mountains
 
 ### Locations
