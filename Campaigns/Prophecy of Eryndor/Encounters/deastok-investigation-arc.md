@@ -370,7 +370,7 @@ The comb delivery is happening regardless. This is what it buys.
 > [!quote] The prompt (once the count fails)
 > *"You've seen a space like this before. Tell us where it was and how you came across it."*
 
-- [ ] Let her define the location and circumstance. It doesn't need to match this footprint's configuration—**the impossible geometry is the throughline, not a floor plan.**
+- [x] Let her define the location and circumstance. It doesn't need to match this footprint's configuration—**the impossible geometry is the throughline, not a floor plan.** The room behind the waterfall in the grotto where she used to meet with Elowyn.
 - [ ] Whatever she supplies becomes real, reusable canon. The same signature can recur anywhere Far Realm/Astral corruption touches physical construction.
 - [ ] **If her answer lands near the Savalirwood,** the chain closes on its own: dreams → Savalirwood → site. Don't close it for her.
 - [ ] **If it lands somewhere unrelated,** that's fine—Fact 3 still has the watching presence. Don't steer her.
