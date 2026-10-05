@@ -41,7 +41,7 @@ Players will either seek out or run into [[Aethor Kalisk]] during their travels.
 
 ### Intro Enemy
 
-Calderax doesn't actually have the shard: [[Letter to Calderax]].
+Calderax doesn't actually have the shard: [[Keldar Stonefoot Letter to Calderax]].
 
 ### Intro Situation
 

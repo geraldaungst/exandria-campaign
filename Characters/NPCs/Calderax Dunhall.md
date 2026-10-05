@@ -1,14 +1,10 @@
 ---
 affiliations:
-  - "[[Obsidian Echoforge]]"
+  - "[[Clasp]]"
   - "[[Emissaries of the Sunfall]]"
+  - "[[Obsidian Echoforge]]"
 current_location: "[[Port Damali - DM Notes]]"
 disposition: indifferent
-faction:
-  - - - Obsidian Echoforge
-  - - - Emissaries of the Sunfall
-location:
-  - - Port Damali
 tags:
   - npc
   - world/exandria
@@ -51,14 +47,14 @@ Currently residing above The [[Sunset Sail]] tavern in [[Port Damali - DM Notes]
 
 ## Background
 
-![[calderax-dunhall.jpeg|right|300]] Studied at a small academy in [[Zadash - DM Notes]] before moving to [[Port Zoon]] to pursue independent research on planar anomalies, which eventually led to his recruitment by the [[Obsidian Echoforge]]. Joined the [[Obsidian Echoforge]] about a year ago as a junior researcher in their archives division. Became [[Aelorin Nightshade]]'s mentee approximately 2-3 months ago, presenting himself as an eager scholar interested in specialized magical theory. Shortly after beginning his mentorship with [[Aelorin Nightshade]], he was recruited by [[Dreyara Drimvar]], who recognized his potential value as an informant and manipulated his attraction to her to secure his loyalty.
+![[calderax-dunhall.jpeg|right|300]] Studied at a small academy in [[Zadash - DM Notes]] before moving to [[Port Zoon]] to pursue independent research on planar anomalies, which eventually led to his recruitment by the [[Obsidian Echoforge]]. Joined the [[Obsidian Echoforge]] about a year ago as a junior researcher in their archives division. Presented himself to [[Aelorin Nightshade]] soon afterwards as an eagar scholar interested in specialized magical theory. About 2-3 months ago he became part of Aelorin's inner circle and a mentee. Shortly after beginning his mentorship with [[Aelorin Nightshade]], he was recruited by [[Dreyara Drimvar]], who recognized his potential value as an informant and manipulated his attraction to her to secure his loyalty.
 
 ## Hidden Information
 
 > [!secret]- DM Only
 > - Secretly working for [[Dreyara Drimvar]] while pretending to serve the [[Obsidian Echoforge]]
 > - Has unrequited romantic feelings for [[Dreyara Drimvar]]
-> - His mentorship with [[Aelorin Nightshade]] is a cover for gathering intelligence
+> - His mentorship with [[Aelorin Nightshade]] is a now being used as cover for gathering intelligence
 > - Currently tracking [[Aethor Kalisk]]'s movements for [[Dreyara Drimvar]]
 > - Possible underlying resentment toward some [[Obsidian Echoforge]] members due to subtle prejudice about his tiefling heritage
 > 

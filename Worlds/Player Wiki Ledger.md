@@ -19,7 +19,6 @@ One row per published Exandria note. Claude reads this before every run and does
 | Gnurlsotten's Nosh & Nip           | Location | S01   | 2026-10-04 | Gnurlsotten's Nosh & Nip - DM Notes           |
 | Grent Gnurlsotten                  | NPC      | S01   | 2026-10-04 | Grent Gnurlsotten - DM Notes                  |
 | Cave-Aged Truscan                  | Item     | S01   | 2026-10-04 | none                                          |
-| Port Damali                        | Location | T02   | 2026-10-04 | Port Damali - DM Notes (already renamed)      |
 | Olesya Lapidus                     | NPC      | T02   | 2026-10-04 | None                                          |
 | Port Damali                        | Hub      | T02   | 2026-10-04 | Port Damali - DM Notes (already renamed)      |
 | Harmony Hall                       | Location | T03   | 2026-10-04 | Harmony Hall - DM Notes                       |
@@ -31,6 +30,9 @@ One row per published Exandria note. Claude reads this before every run and does
 | Ilya's Realm Shop                  | Location | T03   | 2026-10-04 | Ilya's Realm Shop - DM Notes                  |
 | New Temple of Moradin              | Location | T03   | 2026-10-04 | New Temple of Moradin - DM Notes              |
 | Aelorin's Headquarters             | Location | T03   | 2026-10-04 | Aelorin's Headquarters - DM Notes             |
+| Zhelezo                            | Faction  | T04   | 2026-10-05 | None                                          |
+| Myriad                             | Faction  | T04   | 2026-10-05 | None                                          |
+| Clasp                              | Faction  | T04   | 2026-10-05 | None                                          |
 
 ## Standing Decisions
 

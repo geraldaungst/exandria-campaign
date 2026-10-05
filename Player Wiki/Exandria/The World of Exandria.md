@@ -31,6 +31,10 @@ This contains information specific to the Lorestone of Eryndor campaign.
 
 - [[Port Damali]]: largest city on Wildemount's western coast, where the Tyodan River meets the Lucidian Ocean; its page lists the city's notable places and people
 
+### Factions
+
+- [[Zhelezo]]: city guard and law enforcement of the Clovis Concord
+
 ## Cyrios Mountains
 
 ### Locations
@@ -44,3 +48,10 @@ This contains information specific to the Lorestone of Eryndor campaign.
 ### Items
 
 - [[Cave-Aged Truscan]]: a goat's-milk cheese made at Gnurlsotten's Nosh & Nip
+
+## Across Regions
+
+### Factions
+
+- [[Clasp]]: guild of thieves and assassins founded in Tal'Dorei
+- [[Myriad]]: the largest criminal syndicate in Wildemount

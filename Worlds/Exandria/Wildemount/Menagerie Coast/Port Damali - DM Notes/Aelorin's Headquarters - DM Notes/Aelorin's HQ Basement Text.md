@@ -185,7 +185,11 @@ Security Measures:
 
 	Your faithful ally,
 
-	C.D.
+	Calde-- [note is torn here]
+
+[The torn corner reading `--rax` was found in the study]
+
+DM Note: Dreyara forged and planted the letter to frame Calderax and burn him as an asset.
 
 Careful further inspection (DC 15 Investigation) reveals subtle evidence that something else was recently removed:
 

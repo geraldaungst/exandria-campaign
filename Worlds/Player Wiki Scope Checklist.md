@@ -54,7 +54,7 @@ An "Owns" list names the subjects a run is responsible for deciding about. It do
 - [X] **T03 Port Damali: notable places**
   - Owns: venues a visitor would hear about, such as Harmony Hall and the Pearl Shrine, Cobalt Soul Archive in Port Damali, the Gilded Pearl Tavern, the Pudgy Pigeon, the Staff and Scimitar (confirm).
   - Out: hidden or secret locations, such as any organization's headquarters.
-- [ ] **T04 Port Damali: organizations**
+- [X] **T04 Port Damali: organizations**
   - Owns: groups that operate in the city, such as the Zhelezo and Primework Station, and the Myriad and the Clasp as far as they are publicly known (confirm).
 - [ ] **T05 The Menagerie Coast**
   - Owns: the region overview and other coastal destinations the characters would know of, such as Nicodranas (confirm).

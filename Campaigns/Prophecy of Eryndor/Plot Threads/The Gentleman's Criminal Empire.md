@@ -160,7 +160,7 @@ This criminal empire represents [[Korfel Withrethin]]'s transformation from desp
 
 - [[Blood Sample Collection Protocol]] - Method of controlling associates
 - [[Rylan Estevez Frame Job]] - Potential vulnerability from past crimes
-- Correspondence with other Myriad factions (like Calderax letter)
+- Correspondence with other Myriad factions (Dreyara's forged Calderax letter reporting on Clasp operations was intended to appear as this type)
 
 ### Related Plot Threads
 
