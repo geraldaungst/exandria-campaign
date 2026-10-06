@@ -1,15 +1,15 @@
 ---
-tags: []
 aliases: []
+tags: []
 ---
 
-# Player Wiki Scope Checklist
+## Player Wiki Scope Checklist
 
 The Exandria wiki is a reference, not a record: an "Encyclopedia of Exandria" plus a "Travel Exandria" guide. Scopes follow that shape. Part 1 covers destinations by region, in roughly the order the party has travelled. Part 2 covers subjects an encyclopedia would cover: institutions, people, items, lore, and history.
 
 An "Owns" list names the subjects a run is responsible for deciding about. It does not promise a note. A run may find that a subject is too minor for a guidebook and leave it out. Lists marked (confirm) come from searching folder paths and session notes, not a full vault read.
 
-## Rules that prevent overlap
+### Rules that prevent overlap
 
 1. **One owner per subject.** A subject is written up only in the run that owns it. Every other run links to it in a clause and never describes it.
 2. **Default owner:**
@@ -23,13 +23,13 @@ An "Owns" list names the subjects a run is responsible for deciding about. It do
 4. **Nothing gets dropped.** Each run ends with "Unassigned subjects" (anything no scope owns) and "Left out (minor or group-specific)". Assign the first list to a scope, and review the second.
 5. **Size.** About 3 to 8 notes per run. If a scope is bigger, split it here before drafting. If it yields fewer than 3, merge it with a neighbor.
 
-## Before every run
+### Before every run
 
 - [ ] Vault committed and synced. The conventions note and the ledger are current in project knowledge.
 - [ ] Players' notes attached (the whole document each time).
 - [ ] Scope line, "Owns" list, and "Leaves to" list pasted into the prompt.
 
-## After every run
+### After every run
 
 - [ ] "Rename first" list applied in Obsidian, then the new notes added.
 - [ ] New note titles added to [[Player Wiki Ledger]], committed, and synced.
@@ -38,13 +38,13 @@ An "Owns" list names the subjects a run is responsible for deciding about. It do
 
 ---
 
-## Phase 1: Test run
+### Phase 1: Test run
 
 - [X] **S01 Gnurlsotten's Nosh & Nip**
   - Owns: the tavern and cheesery, its proprietor Grent Gnurlsotten, Cave-Aged Truscan (the cheese and its reputation).
   - Leaves to: T08 (Cyrios Mountains). The regulars, goats, and the party's visit are out of scope.
 
-## Phase 2: Travel Exandria (destinations)
+### Phase 2: Travel Exandria (destinations)
 
 - [X] **T01 Tal'Dorei: Emon and Whitestone**
   - Owns: Tal'Dorei overview, Emon, Whitestone, and the Emon to Port Damali skyship route (confirm).
@@ -56,7 +56,7 @@ An "Owns" list names the subjects a run is responsible for deciding about. It do
   - Out: hidden or secret locations, such as any organization's headquarters.
 - [X] **T04 Port Damali: organizations**
   - Owns: groups that operate in the city, such as the Zhelezo and Primework Station, and the Myriad and the Clasp as far as they are publicly known (confirm).
-- [ ] **T05 The Menagerie Coast**
+- [X] **T05 The Menagerie Coast**
   - Owns: the region overview and other coastal destinations the characters would know of, such as Nicodranas (confirm).
 - [ ] **T06 The Tyodan River and Odessloe swamp**
   - Owns: the river, the bridge as a landmark, and the swamp as a region. The goblin band and individual encounters are out of scope.
@@ -83,7 +83,7 @@ An "Owns" list names the subjects a run is responsible for deciding about. It do
   - Owns: the forest, the ruins as a place, the Fey crossing as a place.
   - Leaves to: E07 for the destruction as an event.
 
-## Phase 3: Encyclopedia of Exandria
+### Phase 3: Encyclopedia of Exandria
 
 - [ ] **E01 Rift factions:** the Obsidian Echoforge, the Malachite Cord, and the Emissaries of the Sunfall, as publicly known (confirm).
 - [ ] **E02 Institutions:** the Cobalt Soul, the Cerberus Assembly, and similar bodies that span regions.
@@ -95,13 +95,13 @@ An "Owns" list names the subjects a run is responsible for deciding about. It do
 - [ ] **E08 History:** the Calamity and other major events not owned above.
 - [ ] **E09 Species and customs** that appear in the campaign, such as Ravenite and Draconblood dragonborn, pallid elves, and the Kryn (confirm).
 
-## Phase 4: Finish
+### Phase 4: Finish
 
 - [ ] **F01 Final pass.** No new subjects. Rebuild The World of Exandria, audit unresolved links and duplicates, and consolidate any leftover rename and merge lists.
 
 ---
 
-## Deliberately not covered
+### Deliberately not covered
 
 These were in the earlier checklist and no longer fit a reference wiki:
 
