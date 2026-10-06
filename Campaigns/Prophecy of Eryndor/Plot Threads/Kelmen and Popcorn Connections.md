@@ -15,7 +15,7 @@ tags:
 > [!warning] DM Only
 > This note contains connective tissue across three storylines. Details for the Savalirwood portion are TBD and will be fleshed out separately.
 
-[[Monastery of Dimensional Harmony]]
+[[Monastery of Dimensional Harmony - DM Notes]]
 
 ### The Core Revelation (What Players Can Learn from Kelmen)
 
@@ -27,7 +27,7 @@ tags:
 
 ### What Kelmen Doesn't Know (That the Players Do)
 
-When players share information about the [[Lorestone of Eryndor]], Kelmen has a moment of recognition and grief. The monks were trying to solve through *technique* what apparently has an *artifact solution*—one that requires exactly the stabilizing counterweight their research described. He died and was trapped for three centuries working on something that could have been avoided.
+When players share information about the [[Lorestone of Eryndor - DM Notes]], Kelmen has a moment of recognition and grief. The monks were trying to solve through *technique* what apparently has an *artifact solution*—one that requires exactly the stabilizing counterweight their research described. He died and was trapped for three centuries working on something that could have been avoided.
 
 This exchange is what unlocks his most valuable revelation: he synthesizes the players' knowledge of the Lorestone with his own memory of the singing fragment, and concludes they may be describing the same phenomenon—a resonant artifact hidden in the Feywild.
 

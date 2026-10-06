@@ -25,7 +25,7 @@ The Menagerie Coast runs the length of Wildemount's southwestern shore along the
 - The major cities are [[Port Damali]], Feolinn, Othe, [[Nicodranas]], Gwardan, [[Port Zoon]], and Tussoa. Five of them have open shipping ports.
 - Port Damali is the largest city. Nicodranas, the easternmost, is the second largest.
 - The Swavain Islands lie scattered offshore, with shipping posts and dangerous reefs.
-- The Cyrios Mountains rise to the north and east, between the coast and the Dwendalian Empire.
+- The [[Cyrios Mountains]] rise to the north and east, between the coast and the [[Dwendalian Empire]].
 
 ## The Clovis Concord
 
@@ -56,8 +56,11 @@ The Menagerie Coast runs the length of Wildemount's southwestern shore along the
 ### Locations
 
 - [[Nicodranas]]: easternmost city on the coast, where most diplomacy between the Concord and the Empire takes place
+- [[Othemoor]]: perilous marsh inland on the coast
 - [[Port Damali]]: largest city on Wildemount's western coast, where the Tyodan River meets the Lucidian Ocean; its page lists the city's notable places and people
 - [[Port Zoon]]: industrial city known for its powerful crafting guilds
+- [[Shrine of Melora]]: ancient hilltop shrine to the Wildmother east of Port Damali
+- [[Tyodan River]]: river that meets the ocean at Port Damali, crossed by a stone bridge at a waterfall
 
 ### People
 

@@ -21,7 +21,7 @@ tags:
 [[Obsidian Echoforge]]
 
 - Trying to seal the rifts with the Lorestone.
-[[Malachite Cord]]
+[[Malachite Cord - DM Notes]]
 - Trying to stop the [[Obsidian Echoforge]] from assembling the Lorestone, which they think will cause further catastrophe. (They are partly correct--the Lorestone alone will indeed cause catastrophe.)
 - Trying to find and cure the corruption in the Savalirwood and think it is spreading across Exandria via the rifts. (They are correct.)
 - Is not yet aware of the [[Emissaries of the Sunfall|Emissaries]] or [[Vaud Qalix]].
@@ -31,7 +31,7 @@ tags:
 [[Ashari Riftguard]]
 [[Cobalt Soul - DM Notes]]
 [[Cerberus Assembly]]
-[[Dwendalian Empire]]
+[[Dwendalian Empire - DM Notes]]
 [[Kryn Dynasty]]
 [[Ring of Three]]
 [[Obsidian Echoforge]]

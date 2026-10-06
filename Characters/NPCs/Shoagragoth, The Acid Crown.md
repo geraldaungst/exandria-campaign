@@ -21,7 +21,7 @@ tags:
 > - Current Location: Corrupted temple complex in buried dwarven stronghold of Xagonstar, Ebonglass Massif, Blightshore
 > - Key Motivation: Establish sovereignty, collect corrupted artifacts proving his intellectual superiority
 > - Attitude toward party: Initially curious, dismissive, manipulable through flattery
-> - Critical Knowledge: [[Rupture of the Molaesmyr Fey Crossing]], [[Lorestone of Eryndor]]
+> - Critical Knowledge: [[Rupture of the Molaesmyr Fey Crossing]], [[Lorestone of Eryndor - DM Notes]]
 > - Status: Reigning over thralls in Xagonstar
 
 ## Description

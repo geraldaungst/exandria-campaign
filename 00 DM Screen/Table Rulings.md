@@ -44,7 +44,7 @@ intended.
 
 ### Planar Detection Range
 
-Applies to [[Lorestone of Eryndor|Lorestone]] shards and any comparable
+Applies to [[Lorestone of Eryndor - DM Notes|Lorestone]] shards and any comparable
 
 detection property.
 

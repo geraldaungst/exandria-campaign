@@ -29,12 +29,13 @@ This contains information specific to the Lorestone of Eryndor campaign.
 
 ### Locations
 
-- [[Menagerie Coast]]: Wildemount's southwestern coast, governed by the Clovis Concord; its page lists the region's cities, people, and factions
+- [[Menagerie Coast]]: Wildemount's southwestern coast, governed by the Clovis Concord; its page lists the region's cities, landmarks, people, and factions
 
 ## Cyrios Mountains
 
 ### Locations
 
+- [[Cyrios Mountains]]: mountain range between the Menagerie Coast and the Dwendalian Empire
 - [[Gnurlsotten's Nosh & Nip]]: a roadside tavern and cheesery on the road toward Deastok
 
 ### People

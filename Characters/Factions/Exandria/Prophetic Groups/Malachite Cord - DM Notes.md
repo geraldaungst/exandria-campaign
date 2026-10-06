@@ -1,5 +1,5 @@
 ---
-current_location: "[[Shrine of Melora]]"
+current_location: "[[The Shrine of Melora - DM Notes]]"
 disposition: indifferent
 tags:
   - faction
@@ -12,7 +12,7 @@ tags:
 > [!info] Essential Details
 > - Base of Operations: [[Odessloe]]
 > - Primary Goal: Identify the source of corruption in the Savalirwood and stop the spread
-> - Secondary Goal: Prevent assembly of the [[Lorestone of Eryndor|Lorestone]] to avoid catastrophe
+> - Secondary Goal: Prevent assembly of the [[Lorestone of Eryndor - DM Notes|Lorestone]] to avoid catastrophe
 > - Current Status: Active
 > - Party Standing: Neutral
 > - Influence Level: Regional
@@ -53,7 +53,7 @@ Leader: [[Rinneth Starsong]]
 - Natural balance must be protected and restored, particularly in regards to the Savalirwood
 - Direct intervention to prevent catastrophic magical events is necessary
 - Prevention and healing are preferred over aggressive countermeasures
-- Fears that assembly of the [[Lorestone of Eryndor]] will result in disaster. (They are unaware that the Lorestone can be used in conjunction with a Beacon to close rifts safely and stably)
+- Fears that assembly of the [[Lorestone of Eryndor - DM Notes]] will result in disaster. (They are unaware that the Lorestone can be used in conjunction with a Beacon to close rifts safely and stably)
 
 ### Traditions/Customs
 
@@ -106,8 +106,8 @@ Leader: [[Rinneth Starsong]]
 ### Active Operations
 
 - They are working short term to prevent the the location of and long term to determine the actual source of the corruption in order to heal the Savalirwood and return it ultimately to its healthy state.
-- They are also working to prevent the restoration of the [[Lorestone of Eryndor]] as they believe it to be a dangerous artifact.
-- Attemping to restore and rededicate [[The Shrine of Melora]].
+- They are also working to prevent the restoration of the [[Lorestone of Eryndor - DM Notes]] as they believe it to be a dangerous artifact.
+- Attemping to restore and rededicate [[The Shrine of Melora - DM Notes]].
 
 ### Recent Events
 
@@ -122,7 +122,7 @@ Group 2 on the [[Sessions 1 to 3 - The Skyship|Skyship]].
 
 ### Short-term Goals
 
-- [ ] Restore and rededicate [[The Shrine of Melora]]
+- [ ] Restore and rededicate [[The Shrine of Melora - DM Notes]]
 
 ### Long-term Aspirations
 

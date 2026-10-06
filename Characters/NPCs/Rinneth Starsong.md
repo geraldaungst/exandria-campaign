@@ -1,12 +1,12 @@
 ---
 affiliations:
-  - "[[Malachite Cord]]"
+  - "[[Malachite Cord - DM Notes]]"
 aliases:
   - rinneth
-faction: 
+faction:
 important_for:
-knows: 
-location: 
+knows:
+location:
 tags:
   - npc
 ---
@@ -18,7 +18,7 @@ tags:
 ## Quick Reference
 
 > [!info] Essential Details
-> - Current Location: [[The Shrine of Melora]]
+> - Current Location: [[The Shrine of Melora - DM Notes]]
 > - Key Motivation: Prevent catastrophic magical events foreseen in her visions
 > - Attitude toward party: Cautiously friendly, evaluating their potential role in her visions
 

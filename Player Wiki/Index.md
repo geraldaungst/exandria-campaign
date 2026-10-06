@@ -9,8 +9,10 @@ This wiki collects what the characters know about the worlds we play in. It grow
 
 ## Worlds
 
-- [[The World of Keln|Keln]]: the continent of Callastri, its kingdoms, and how magic works there
-- [[The World of Exandria|Exandria]]: lore for the current campaign
+- [[The World of Keln|Keln]]: the continent of Callastri, its kingdoms, and how magic works there.
+	- Future world for one-shots and later campaigns.
+- [[The World of Exandria|Exandria]]: My version of the world created by Matthew Mercer for Critical Role.
+	- Current campaign: [[Prophecy of Eryndor]]
 
 ## Table Rules
 

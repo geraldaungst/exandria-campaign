@@ -12,7 +12,7 @@ tags:
 
 [[Eryndor]], aware of the weight and significance of their visions, knew the prophecy needed to be preserved in a manner that would withstand the ravages of time. They sought out a famed Drow artificer named [[Illyndra Shadowveil]], who was known for her mastery in crafting artifacts imbued with protective magic.
 
-Together, they devised a plan. Eryndor would dictate the prophecy, and Illyndra would inscribe it onto a large, circular obsidian disc (which would come to be known as the [[Lorestone of Eryndor]]) using an alloy of mithral and star metal, materials known for their resilience and connection to ancient magic.
+Together, they devised a plan. Eryndor would dictate the prophecy, and Illyndra would inscribe it onto a large, circular obsidian disc (which would come to be known as the [[Lorestone of Eryndor - DM Notes]]) using an alloy of mithral and star metal, materials known for their resilience and connection to ancient magic.
 
 **Crucially**, Illyndra designed the Lorestone to work in conjunction with a Luxon Beacon. As a Drow artificer familiar with dunamantic principles, she understood that channeling the massive energies needed to manipulate planar rifts would create dangerous temporal flux. The Lorestone was intentionally created as an energy channeling device that required temporal stabilization from a Luxon Beacon to operate safely.
 
@@ -44,7 +44,7 @@ How this relationship affects the campaign
 
 ### Source Note
 
-[[Lorestone of Eryndor]]
+[[Lorestone of Eryndor - DM Notes]]
 
 ### Related Atomic Notes
 

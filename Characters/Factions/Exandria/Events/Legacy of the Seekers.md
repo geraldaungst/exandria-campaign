@@ -13,7 +13,7 @@ tags:
 
 ### Historical Span
 
-Over 400 years of organizational history spanning multiple generations and name changes, representing the longest continuous effort to recover and preserve the [[Lorestone of Eryndor]] [[Lorestone Shard Status Tracker|fragments]].
+Over 400 years of organizational history spanning multiple generations and name changes, representing the longest continuous effort to recover and preserve the [[Lorestone of Eryndor - DM Notes]] [[Lorestone Shard Status Tracker|fragments]].
 
 ### Key Accomplishments
 

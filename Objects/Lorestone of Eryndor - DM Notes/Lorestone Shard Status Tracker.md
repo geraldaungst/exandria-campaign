@@ -15,7 +15,7 @@ tags:
 
 ### Overview
 
-The [[Lorestone of Eryndor]] was shattered into 8 pieces. This tracker documents the current status, location, and faction interest in each shard.
+The [[Lorestone of Eryndor - DM Notes]] was shattered into 8 pieces. This tracker documents the current status, location, and faction interest in each shard.
 
 **Quick Status:**
 
@@ -27,7 +27,7 @@ The [[Lorestone of Eryndor]] was shattered into 8 pieces. This tracker documents
 
 ### Faction Knowledge Evolution
 
-![[Lorestone of Eryndor#Faction Knowledge Evolution]]
+![[Lorestone of Eryndor - DM Notes#Faction Knowledge Evolution]]
 
 ---
 
@@ -46,7 +46,7 @@ The [[Lorestone of Eryndor]] was shattered into 8 pieces. This tracker documents
 **Known By:**
 
 - [[Obsidian Echoforge]] (possession)
-- [[Malachite Cord]] (aware of Echoforge holdings)
+- [[Malachite Cord - DM Notes]] (aware of Echoforge holdings)
 - Player characters (informed by [[Aethor Kalisk]])
 
 **Pursued By:**
@@ -75,7 +75,7 @@ The [[Lorestone of Eryndor]] was shattered into 8 pieces. This tracker documents
 **Known By:**
 
 - [[Obsidian Echoforge]] (possession)
-- [[Malachite Cord]] (aware of Echoforge holdings)
+- [[Malachite Cord - DM Notes]] (aware of Echoforge holdings)
 - Player characters (informed by [[Aethor Kalisk]])
 
 **Pursued By:**
@@ -104,7 +104,7 @@ The [[Lorestone of Eryndor]] was shattered into 8 pieces. This tracker documents
 **Known By:**
 
 - [[Obsidian Echoforge]] (possession)
-- [[Malachite Cord]] (aware of Echoforge holdings)
+- [[Malachite Cord - DM Notes]] (aware of Echoforge holdings)
 - Player characters (informed by [[Aethor Kalisk]])
 
 **Pursued By:**
@@ -133,7 +133,7 @@ The [[Lorestone of Eryndor]] was shattered into 8 pieces. This tracker documents
 **Known By:**
 
 - [[Obsidian Echoforge]] (possession)
-- [[Malachite Cord]] (aware of Echoforge holdings)
+- [[Malachite Cord - DM Notes]] (aware of Echoforge holdings)
 - Player characters (informed by [[Aethor Kalisk]])
 
 **Pursued By:**
@@ -316,7 +316,7 @@ All of these will eventually pursue it when they learn of its existence
 
 **Unaware Of:** true location of Shard 5, existence of Shards 7-8.
 
-#### [[Malachite Cord]]
+#### [[Malachite Cord - DM Notes]]
 
 **Goal:** Prevent assembly (fear catastrophic failure)
 
@@ -387,6 +387,6 @@ WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.fil
 
 #### Related Artifacts
 
-- [[Lorestone of Eryndor]] (parent artifact)
+- [[Lorestone of Eryndor - DM Notes]] (parent artifact)
 - [[Stonefoot Compass - DM Notes]] (related to Shard 7 quest)
 - [[Consecution's Hope]] (transported Shard 7)

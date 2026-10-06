@@ -9,11 +9,11 @@ When Lady Emer was human, she excelled as a scout in the mercenary Emissaries of
 
 Emer now seeks to master planar magic, driven by a thirst for knowledge and the potential for immense power. She believes the Lorestone shards are keys to unlocking the secrets of the planes and controlling the rifts that scar Exandria.
 
-[[Lady Emer]] is a planar magic expert working with Vaud Qalix and Dreyara Drimvar. She uses [[Cloudfang Keep]] as a base of operations for studying planar rifts and researching the Lorestone shards. She provides Qalix with arcane expertise and a secure location for experimentation.
+[[Lady Emer]] is a planar magic expert working with Vaud Qalix and Dreyara Drimvar. She uses [[Cloudfang Keep - DM Notes]] as a base of operations for studying planar rifts and researching the Lorestone shards. She provides Qalix with arcane expertise and a secure location for experimentation.
 
 ## Keep Features
 
-Unless otherwise noted, each area of Cloud Fang Keep has the following features:
+Unless otherwise noted, each area of Cloudfang Keep has the following features:
 
 > Ceilings. The stone ceilings are 60 feet high. The ceilings in each chamber have been patched up, but the halls still have holes that allow snow into the keep.
 
@@ -35,13 +35,13 @@ Unless otherwise noted, if the keep's guardians are clearly losing a battle to i
 
 Lady Emer's guardians try to keep defeated characters alive and bring them to Lady Emer, who petrifies her prisoners and displays them in the stone garden (area E5).
 
-## Resting in Cloud Fang Keep
+## Resting in Cloudfang Keep
 
 Once an area is clear of enemies, the characters can take a short rest there uninterrupted. If the characters take a long rest in the lair while Lady Emer is alive, there is a 50 percent chance she finds them 1 hour into the long rest.
 
-## Entering Cloud Fang Keep
+## Entering Cloudfang Keep
 
-Perched atop Frigid Summit, Cloud Fang Keep is 23,421 feet above sea level. The area outside the lair is a high altitude and extreme cold environment. You can find rules for these adventure environments in the game's core rules.
+Perched atop Frigid Summit, Cloudfang Keep is 23,421 feet above sea level. The area outside the lair is a high altitude and extreme cold environment. You can find rules for these adventure environments in the game's core rules.
 
 The crumbling castle's stone double doors are flanked by two trained owlbears disguised as statues thanks to an illusion created by the castle. If the characters observe the castle from a distance for at least 5 minutes before entering, they notice that another four owlbears patrol the castle's perimeter, while four griffons patrol the skies and occasionally visit a nest atop the ruined tower.
 
@@ -53,9 +53,9 @@ At the start of the fourth round of combat, a griffon from the roost (area E2) s
 
 For convenience, the blood-borne oozes simply emerge from the owlbears when they die. However, for more unpredictability, you can have each ooze make a Constitution saving throw whenever an owlbear takes 5 or more damage, per their Pseudopod attack.
 
-## Cloud Fang Keep Areas
+## Cloudfang Keep Areas
 
-The following areas are keyed to the Cloud Fang Keep Map.
+The following areas are keyed to the Cloudfang Keep Map.
 
 ### E1. Entrance Hall
 
@@ -98,7 +98,7 @@ The nest is difficult terrain for non-griffon creatures.
 
 #### Griffons
 
-A family of four griffons patrol the castle and serve as Lady Emer's mounts and guardians. Two griffons are in the nest when the characters arrive. Another two in the sky return to the nest at the start of the second round of combat. Only one griffon arrives as reinforcements if the characters have already defeated a griffon (see "Entering Cloud Fang Keep").
+A family of four griffons patrol the castle and serve as Lady Emer's mounts and guardians. Two griffons are in the nest when the characters arrive. Another two in the sky return to the nest at the start of the second round of combat. Only one griffon arrives as reinforcements if the characters have already defeated a griffon (see "Entering Cloudfang Keep").
 
 If the characters outnumber the griffons, the griffons try to pick up and drop foes to the ground or use Buffet to push them off the tower. While foes remain in the nest, the griffons ignore foes outside the nest. If the griffons outnumber the characters, they engage in melee, hoping to kill the intruders quickly and devour their bodies.
 

@@ -87,11 +87,11 @@ We can RP interactions with other party members, passengers, and crew as long as
 
 ##### 2.2 - Loss of Control
 
-- Loss of control means the ship will crash either in the Cyrios Mountains or somewhere in the [[Dwendalian Empire]] (choose a random location). The crash is not catastrophic since the Brumestones still work, but it is enough to damage the ship beyond easy repair. Everyone on board will take 5d6 hp of damage (rolled individually). The ship's medic and a cleric survive the crash and anyone unconscious gets d4+2 hp.
+- Loss of control means the ship will crash either in the Cyrios Mountains or somewhere in the [[Dwendalian Empire - DM Notes]] (choose a random location). The crash is not catastrophic since the Brumestones still work, but it is enough to damage the ship beyond easy repair. Everyone on board will take 5d6 hp of damage (rolled individually). The ship's medic and a cleric survive the crash and anyone unconscious gets d4+2 hp.
 
 ### Conclusion of the Hijacking
 
-One way or another, the Skyship will return to Exandria at the end of this adventure. It may land successfully (either in Xorhas where the hijackers want it to land, or in [[Port Damali - DM Notes]] where it was intended to go originally) or it will crash (either in the [[Dwendalian Empire]] or in the Cyrios Mountains, possibly as a result of a random roll).
+One way or another, the Skyship will return to Exandria at the end of this adventure. It may land successfully (either in Xorhas where the hijackers want it to land, or in [[Port Damali - DM Notes]] where it was intended to go originally) or it will crash (either in the [[Dwendalian Empire - DM Notes]] or in the Cyrios Mountains, possibly as a result of a random roll).
 
 Depending on where they land, the characters will find things to do there to get to know each other and start developing their skills and reputation:
 

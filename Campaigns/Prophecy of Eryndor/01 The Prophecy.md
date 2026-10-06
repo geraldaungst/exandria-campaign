@@ -15,7 +15,7 @@ tags:
 
 ## Overview
 
-Associated with the [[Lorestone of Eryndor]].
+Associated with the [[Lorestone of Eryndor - DM Notes]].
 
 ## Current State
 
@@ -30,7 +30,7 @@ Associated with the [[Lorestone of Eryndor]].
 
 ### What they think they know
 
-![[Lorestone of Eryndor#Faction Knowledge Evolution]]
+![[Lorestone of Eryndor - DM Notes#Faction Knowledge Evolution]]
 
 ### What they don't know
 

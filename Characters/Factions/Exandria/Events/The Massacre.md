@@ -14,7 +14,7 @@ tags:
 
 ### The Event
 
-A devastating assault in 809 PD by the [[Emissaries of the Sunfall]] on an [[Obsidian Echoforge]] gathering. This attack occurred during a meeting where Echoforge members believed they would complete assembly of a major portion of the [[Lorestone of Eryndor]].
+A devastating assault in 809 PD by the [[Emissaries of the Sunfall]] on an [[Obsidian Echoforge]] gathering. This attack occurred during a meeting where Echoforge members believed they would complete assembly of a major portion of the [[Lorestone of Eryndor - DM Notes]].
 
 ### Outcomes
 

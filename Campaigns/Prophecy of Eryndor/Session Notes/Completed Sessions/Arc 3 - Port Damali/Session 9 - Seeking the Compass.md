@@ -47,7 +47,7 @@ Simple iron-banded chest
 
 - [[Tyodan River Bridge]]
 - [[Aethor Kalisk's Secret Mission|The Swamp]]
-- [[The Shrine of Melora]]
+- [[The Shrine of Melora - DM Notes]]
 - [[Random Encounters on the Road and Forest - Menagerie Coast]]
 
 ## Secrets and Clues

@@ -1,6 +1,6 @@
 ---
 affiliations:
-  - "[[Dwendalian Empire]]"
+  - "[[Dwendalian Empire - DM Notes]]"
   - "[[Cerberus Assembly]]"
 aliases:
   - The Melthes Kidnapping
@@ -76,7 +76,7 @@ When this event is discovered by [[Hesterian Shyr (Dot)|Hesterian]], there will 
 
 ### Potential Consequences
 
-- Diplomatic incident between [[Xarzith Kitril]] and [[Dwendalian Empire]]
+- Diplomatic incident between [[Xarzith Kitril]] and [[Dwendalian Empire - DM Notes]]
 - Exposure of Assembly's coercive recruitment practices
 - Rescue mission possibilities
 - [[Cree Deeproots]] as potential information source or ally

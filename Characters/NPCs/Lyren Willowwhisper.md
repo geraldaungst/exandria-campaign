@@ -16,7 +16,7 @@ tags:
 
 > [!info] Essential Details
 > - **Location:** [[Palma Flora]] (Echoforge headquarters)
-> - **Goal:** Assemble the [[Lorestone of Eryndor]] and close the rifts before it's too late
+> - **Goal:** Assemble the [[Lorestone of Eryndor - DM Notes]] and close the rifts before it's too late
 > - **Attitude toward party:** Grateful, respectful—sees them as proven allies worth investing in
 > - **Key knowledge:** Holds Shards 1-4, Willowwhisper lineage history, Echoforge operations and intelligence network
 
@@ -34,13 +34,13 @@ Youthful exuberance despite the weight she carries. Tall for her lineage, deep b
 
 Based at [[Palma Flora]], leading the [[Obsidian Echoforge]]'s operations. Holds Shards 1-4 in a magically locked and trapped chest. Has [[Aethor Kalisk]] deployed to [[Port Damali - DM Notes]] pursuing leads on additional shards.
 
-Growing increasingly urgent about the rift situation—the rifts are worsening, Qalix is stealing shards, and the [[Malachite Cord]] is obstructing rather than helping. She believes delay costs lives, and she's not entirely wrong.
+Growing increasingly urgent about the rift situation—the rifts are worsening, Qalix is stealing shards, and the [[Malachite Cord - DM Notes]] is obstructing rather than helping. She believes delay costs lives, and she's not entirely wrong.
 
 **Key relationships:**
 
 - [[Veyda Willowwhisper]]—aunt, former leader, now advisor. Genuine bond complicated by legacy and Veyda's unspoken guilt.
 - [[Aethor Kalisk]]—trusted researcher. She speaks of him warmly: "He speaks highly of you, and Aethor doesn't speak highly of anyone."
-- [[Malachite Cord]] / [[Rinneth Starsong]]—views them as well-meaning obstructionists whose caution is going to get people killed
+- [[Malachite Cord - DM Notes]] / [[Rinneth Starsong]]—views them as well-meaning obstructionists whose caution is going to get people killed
 
 > [!secret]- Hidden Information
 > **What she doesn't know:**

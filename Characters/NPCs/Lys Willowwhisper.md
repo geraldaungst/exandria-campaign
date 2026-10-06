@@ -15,11 +15,11 @@ tags:
 > - Status: Deceased (founder, ~400 years ago)
 > - Key Achievement: Founded the Seekers of Eryndor's Echo
 > - Legacy: 400+ year organizational tradition
-> - Discovery: First fragment of the [[Lorestone of Eryndor]]
+> - Discovery: First fragment of the [[Lorestone of Eryndor - DM Notes]]
 
 ## Description
 
-Firbolg scholar driven by dreams of a shimmering disc and echoing chants of prophecy. After years of research and piecing together fragmented tales and ancient maps, Lys discovered the first fragment of the [[Lorestone of Eryndor]] in the Nightshade Caverns.
+Firbolg scholar driven by dreams of a shimmering disc and echoing chants of prophecy. After years of research and piecing together fragmented tales and ancient maps, Lys discovered the first fragment of the [[Lorestone of Eryndor - DM Notes]] in the Nightshade Caverns.
 
 ## Historical Significance
 

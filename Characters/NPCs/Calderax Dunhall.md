@@ -43,7 +43,7 @@ His face has sharp, aristocratic features that could be striking if not for his 
 
 ## Current Situation
 
-Currently residing above The [[Sunset Sail]] tavern in [[Port Damali - DM Notes]], maintaining his cover as a traveling scholar while serving as [[Dreyara Drimvar]]'s spy. Primary mission is to monitor [[Aethor Kalisk]]'s movements and delay [[Obsidian Echoforge]] attempts to acquire new shards. Possesses a letter containing information about a [[Lorestone of Eryndor|Lorestone Shard]], which has led to the current situation involving the [[Stonefoot Compass - DM Notes]].
+Currently residing above The [[Sunset Sail]] tavern in [[Port Damali - DM Notes]], maintaining his cover as a traveling scholar while serving as [[Dreyara Drimvar]]'s spy. Primary mission is to monitor [[Aethor Kalisk]]'s movements and delay [[Obsidian Echoforge]] attempts to acquire new shards. Possesses a letter containing information about a [[Lorestone of Eryndor - DM Notes|Lorestone Shard]], which has led to the current situation involving the [[Stonefoot Compass - DM Notes]].
 
 ## Background
 

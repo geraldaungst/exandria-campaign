@@ -4,7 +4,7 @@ tags:
   - artifact
 ---
 
-The Verdant Codex was originally [[Seraphina Amaris (Vicki)|Seraphina's]] childhood nature journal. At some point in the group's past, the [[Malachite Cord]] found it, preserved it, and over time has come to believe it to be a sacred text worth study and meditation.
+The Verdant Codex was originally [[Seraphina Amaris (Vicki)|Seraphina's]] childhood nature journal. At some point in the group's past, the [[Malachite Cord - DM Notes]] found it, preserved it, and over time has come to believe it to be a sacred text worth study and meditation.
 
 ## Preserved Original
 
@@ -13,5 +13,5 @@ The Verdant Codex was originally [[Seraphina Amaris (Vicki)|Seraphina's]] childh
 
 ## Copies and Transcriptions
 
-- **Widespread Use**: Recognizing the importance of the wisdom within the pages and the risk of losing it, the [[Malachite Cord]] would likely have made detailed copies and transcriptions of the journal. These copies allow members to study and utilize [[Seraphina Amaris (Vicki)|Seraphina]]'s observations without risking the original artifact.
+- **Widespread Use**: Recognizing the importance of the wisdom within the pages and the risk of losing it, the [[Malachite Cord - DM Notes]] would likely have made detailed copies and transcriptions of the journal. These copies allow members to study and utilize [[Seraphina Amaris (Vicki)|Seraphina]]'s observations without risking the original artifact.
 - **Evolving Interpretations**: Over the centuries, as the journal has been copied, members might have added annotations, interpretations, and cross-references to other works or their own findings. These evolving documents serve not only as a preservation of [[Seraphina Amaris (Vicki)|Seraphina]]'s insights but also as a living record of the Cord's ongoing work and understanding of the forest's magic and the corruption they combat.

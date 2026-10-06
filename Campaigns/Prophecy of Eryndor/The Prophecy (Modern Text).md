@@ -46,7 +46,7 @@ See also [[The Prophecy (Original Form)]].
 
 ### Nature of Connection
 
-The text above is what has been passed down and reinterpreted from existing shards of the [[Lorestone of Eryndor]]. Multiple lines are missing from the prophecy which means interpretations have been wrong.
+The text above is what has been passed down and reinterpreted from existing shards of the [[Lorestone of Eryndor - DM Notes]]. Multiple lines are missing from the prophecy which means interpretations have been wrong.
 
 ### Impact/Implications
 

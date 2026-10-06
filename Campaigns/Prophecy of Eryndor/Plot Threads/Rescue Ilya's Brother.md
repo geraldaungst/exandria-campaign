@@ -13,7 +13,7 @@ tags:
 > - Timeline:
 > - Key Players: [[Drawg Stormbrew (Brew)|Drawg]]
 > - Last Session: [[Session 28 - Back at Harmony Hall]]
-> - Next Steps: Leave for [[Cloudfang Keep]]
+> - Next Steps: Leave for [[Cloudfang Keep - DM Notes]]
 
 ## Overview
 
@@ -21,7 +21,7 @@ tags:
 
 ### Recent Events
 
-- Party learns that [[Cloudfang Keep]] is where both Ilya's brother ([[Varnes Dwell]]) is and where [[Dreyara Drimvar|Dreyara]] is likely heading.
+- Party learns that [[Cloudfang Keep - DM Notes]] is where both Ilya's brother ([[Varnes Dwell]]) is and where [[Dreyara Drimvar|Dreyara]] is likely heading.
 - Cloudfang Keep is in the high elevations of the Cyrios Mountains (cold climate).
 
 ### Active Elements
@@ -35,7 +35,7 @@ tags:
 ## Player Knowledge
 
 - What they know:
-	- [[Cloudfang Keep]] is where both Ilya's brother ([[Varnes Dwell]]) is and where [[Dreyara Drimvar|Dreyara]] is likely heading.
+	- [[Cloudfang Keep - DM Notes]] is where both Ilya's brother ([[Varnes Dwell]]) is and where [[Dreyara Drimvar|Dreyara]] is likely heading.
 	- Be prepared for basilisks and other ways people are turned to stone.
 - What they think they know:
 	- [[Dreyara Drimvar|Dreyara]] is going to be there when they arrive.

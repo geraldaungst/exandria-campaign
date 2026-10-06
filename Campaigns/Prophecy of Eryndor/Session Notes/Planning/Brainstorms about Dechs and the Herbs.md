@@ -22,7 +22,7 @@ tags:
 
 - **Alliance:** Vaud Qalix has allied with the Myriad (along with the Clasp) to further his goals.
 - **Leveraging the Myriad:** Qalix leverages the Myriad's network for:
-    - **Intelligence Gathering:** Utilizing their influence to locate shards of the [[Lorestone of Eryndor]] and monitor potential threats.
+    - **Intelligence Gathering:** Utilizing their influence to locate shards of the [[Lorestone of Eryndor - DM Notes]] and monitor potential threats.
     - **Acquiring Resources:** Benefitting from their dominance in trade and commerce to obtain rare and illicit materials.
     - **Neutralizing Obstacles:** Using their network to neutralize threats.
 - **Mutual Gain:** The Myriad supports Qalix's ambitions as long as they align with their own interests, creating a delicate balance of power.
@@ -79,7 +79,7 @@ Qalix's alliance with the Myriad is a crucial element of his plan, providing him
 
 **Possible Scenarios:**
 
-1. **[[Dreyara Drimvar]] - Enhancing Divination:** [[Dreyara Drimvar|Dreyara]] is awaiting herbs to enhance her divination rituals. She seeks to gain insight into the party's plans or to locate the remaining shards of the [[Lorestone of Eryndor]]. The herbs could be components for a potent scrying incense or potion.
+1. **[[Dreyara Drimvar]] - Enhancing Divination:** [[Dreyara Drimvar|Dreyara]] is awaiting herbs to enhance her divination rituals. She seeks to gain insight into the party's plans or to locate the remaining shards of the [[Lorestone of Eryndor - DM Notes]]. The herbs could be components for a potent scrying incense or potion.
 2. **[[Dreyara Drimvar]] - Poison for Political Maneuvering:** [[Dreyara Drimvar|Dreyara]] requires the herbs to create a subtle poison. She intends to use it against a political rival in Zadash, someone who could threaten Qalix's influence or the Myriad's operations in the region.
 3. **Unknown Alchemist - Potion for Qalix's Health:** An unknown alchemist, secretly in Qalix's service, is awaiting the herbs to brew a potion for Qalix's health or longevity. Qalix might be suffering from a condition that requires rare ingredients, or he seeks to extend his lifespan to complete his grand plan.
 4. **Myriad Contact - Healing Wounds:** A Myriad contact in Zadash, perhaps injured during a recent operation or conflict with the Clasp, requires the herbs for a potent healing remedy. This contact is vital to the Myriad's operations in Zadash, and Qalix is ensuring their well-being.
@@ -101,11 +101,11 @@ These scenarios are based on the information available and are designed to provi
 **Direct Associates & Subordinates:**
 
 - **[[Sirion Del'thane]]:** Envoy coordinating negotiations with the Empire and the Dynasty.
-- **[[Ru'Shan Halrune]]:** Head researcher and explorer locating the missing shards of the [[Lorestone of Eryndor]].
+- **[[Ru'Shan Halrune]]:** Head researcher and explorer locating the missing shards of the [[Lorestone of Eryndor - DM Notes]].
 - **[[Dreyara Drimvar]]:** Spymaster.
 - **[[Thok-Kynn Dalca]]:** Treasurer.
 - **[[Gorrath the Stonebinder]]:** Experienced architect and stonemason in charge of rebuilding Draconia.
-- **[[Iliara Firth]]:** (Potential) Chronurgy Wizard to stabilize the rifts with the [[Lorestone of Eryndor]]. Qalix has not yet recruited her, but intends to.
+- **[[Iliara Firth]]:** (Potential) Chronurgy Wizard to stabilize the rifts with the [[Lorestone of Eryndor - DM Notes]]. Qalix has not yet recruited her, but intends to.
 
 **Affiliations & Alliances:**
 
@@ -121,8 +121,8 @@ These scenarios are based on the information available and are designed to provi
 
 **Notes:**
 
-- The Obsidian Echoforge is a rival organization also seeking the [[Lorestone of Eryndor]] shards, not an ally.
-- [[Lyren Willowwhisper]] possesses four shards of the [[Lorestone of Eryndor]], but is not necessarily an associate of Qalix. She is more likely an obstacle.
+- The Obsidian Echoforge is a rival organization also seeking the [[Lorestone of Eryndor - DM Notes]] shards, not an ally.
+- [[Lyren Willowwhisper]] possesses four shards of the [[Lorestone of Eryndor - DM Notes]], but is not necessarily an associate of Qalix. She is more likely an obstacle.
 
 This revised list provides a clearer picture of Qalix's network, distinguishing between direct subordinates, allied organizations, and individuals he is attempting to recruit or manipulate.
 
@@ -148,7 +148,7 @@ This revised list provides a clearer picture of Qalix's network, distinguishing 
 
 **4. [[Ru'Shan Halrune]] - Field Research:**
 
-- [[Ru'Shan Halrune]] requires the herbs for a ritual that aids in locating the missing shards of the [[Lorestone of Eryndor]]. He believes the herbs will attune him to the magical resonance of the shards, allowing him to pinpoint their location. He's using Zadash as a base of operations due to its proximity to a potential shard location.
+- [[Ru'Shan Halrune]] requires the herbs for a ritual that aids in locating the missing shards of the [[Lorestone of Eryndor - DM Notes]]. He believes the herbs will attune him to the magical resonance of the shards, allowing him to pinpoint their location. He's using Zadash as a base of operations due to its proximity to a potential shard location.
 
 **5. [[Gorrath the Stonebinder]] - Construction Material:**
 
@@ -208,7 +208,7 @@ This revised list provides a clearer picture of Qalix's network, distinguishing 
 
 **2. The Scholarly Proposition:**
 
-- [[Dreyara Drimvar]] approaches [[Iliara Firth]] under the guise of a representative from a wealthy patron interested in funding chronurgy research. She presents a compelling proposal: Qalix (unnamed, of course) is willing to provide [[Iliara Firth]] with access to rare resources, including the precognitive herbs, and a state-of-the-art laboratory in exchange for her expertise in stabilizing temporal rifts using the [[Lorestone of Eryndor]]. The proposal emphasizes the potential benefits to her research and the advancement of chronurgy as a whole.
+- [[Dreyara Drimvar]] approaches [[Iliara Firth]] under the guise of a representative from a wealthy patron interested in funding chronurgy research. She presents a compelling proposal: Qalix (unnamed, of course) is willing to provide [[Iliara Firth]] with access to rare resources, including the precognitive herbs, and a state-of-the-art laboratory in exchange for her expertise in stabilizing temporal rifts using the [[Lorestone of Eryndor - DM Notes]]. The proposal emphasizes the potential benefits to her research and the advancement of chronurgy as a whole.
 
 **3. The Desperate Plea:**
 
@@ -220,7 +220,7 @@ This revised list provides a clearer picture of Qalix's network, distinguishing 
 
 **5. The Competitive Offer:**
 
-- [[Dreyara Drimvar]] informs [[Iliara Firth]] that another organization (perhaps a rival faction within the Cerberus Assembly or even the Obsidian Echoforge) is also interested in her expertise and has offered her a similar deal. She then presents Qalix's offer as a superior alternative, highlighting the unique benefits of working with him, such as access to the [[Lorestone of Eryndor]] shards and the opportunity to shape the future of Draconia. This approach creates a sense of urgency and encourages [[Iliara Firth]] to make a decision quickly.
+- [[Dreyara Drimvar]] informs [[Iliara Firth]] that another organization (perhaps a rival faction within the Cerberus Assembly or even the Obsidian Echoforge) is also interested in her expertise and has offered her a similar deal. She then presents Qalix's offer as a superior alternative, highlighting the unique benefits of working with him, such as access to the [[Lorestone of Eryndor - DM Notes]] shards and the opportunity to shape the future of Draconia. This approach creates a sense of urgency and encourages [[Iliara Firth]] to make a decision quickly.
 
 [Timestamp: 2025/04/27 19:12:53]
 
@@ -246,11 +246,11 @@ This revised list provides a clearer picture of Qalix's network, distinguishing 
 
 **4. The Prophetic Warning (Lysandra):**
 
-- Lysandra, using her Myriad connections, leaks carefully crafted rumors to [[Iliara Firth]] about a potential future where her research is exploited by a malevolent force (perhaps hinting at the Kryn Dynasty or even the Cerberus Assembly). She then subtly suggests that Qalix, a "visionary leader" with access to the [[Lorestone of Eryndor]], is the only one who can provide the necessary safeguards to prevent this dark future, implying that [[Iliara Firth]]'s expertise is crucial to his efforts.
+- Lysandra, using her Myriad connections, leaks carefully crafted rumors to [[Iliara Firth]] about a potential future where her research is exploited by a malevolent force (perhaps hinting at the Kryn Dynasty or even the Cerberus Assembly). She then subtly suggests that Qalix, a "visionary leader" with access to the [[Lorestone of Eryndor - DM Notes]], is the only one who can provide the necessary safeguards to prevent this dark future, implying that [[Iliara Firth]]'s expertise is crucial to his efforts.
 
 **5. The Competitive Offer (Lysandra):**
 
-- Lysandra, through her Myriad network, discovers that [[Iliara Firth]] has been approached by a rival organization (perhaps a wealthy noble or a clandestine group within the Cerberus Assembly) with a similar offer to fund her research. She then subtly informs [[Iliara Firth]] that Qalix's offer is far more comprehensive, providing not only access to the herbs and funding but also the opportunity to work on a project of immense historical significance: the restoration of Draconia and the control of temporal rifts using the [[Lorestone of Eryndor]]. This approach emphasizes the unique and potentially world-altering nature of Qalix's goals.
+- Lysandra, through her Myriad network, discovers that [[Iliara Firth]] has been approached by a rival organization (perhaps a wealthy noble or a clandestine group within the Cerberus Assembly) with a similar offer to fund her research. She then subtly informs [[Iliara Firth]] that Qalix's offer is far more comprehensive, providing not only access to the herbs and funding but also the opportunity to work on a project of immense historical significance: the restoration of Draconia and the control of temporal rifts using the [[Lorestone of Eryndor - DM Notes]]. This approach emphasizes the unique and potentially world-altering nature of Qalix's goals.
 
 [Timestamp: 2025/04/27 19:14:14]
 

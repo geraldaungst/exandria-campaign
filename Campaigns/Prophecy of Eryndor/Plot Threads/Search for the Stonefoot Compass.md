@@ -23,7 +23,7 @@ tags:
 ## Player Knowledge
 
 - What they know:
-	- They possess the [[Stonefoot Compass - DM Notes]]. It needs to go to Aethor Kaelisk who is using it in trade for information about a [[Lorestone of Eryndor]] shard.
+	- They possess the [[Stonefoot Compass - DM Notes]]. It needs to go to Aethor Kaelisk who is using it in trade for information about a [[Lorestone of Eryndor - DM Notes]] shard.
 	- Aethor has a [[Keldar Stonefoot Letter to Calderax|letter]] which [[Calderax Dunhall]] gave him.
 - What they think they know:
 - What they don't know:

@@ -12,7 +12,7 @@ tags:
 ## Quick Reference
 
 > [!info] Essential Details
-> - **Current Location**: [[Cloudfang Keep]] Library (Area E6)
+> - **Current Location**: [[Cloudfang Keep - DM Notes]] Library (Area E6)
 > - **Key Motivation**: Master planar magic through study of rift energy and Lorestone resonance
 > - **Attitude toward party**: Initially curious if approached diplomatically; immediately hostile if threatened
 > - **Critical Knowledge**: Possesses detailed research on planar rifts, Lorestone shard properties, and temporal resonance effects. Carries the [[Lawbearer's Tear]] (disguised as a mundane pearl of power) without realizing its true nature
@@ -57,7 +57,7 @@ Now she seeks to master planar magic, driven by equal parts thirst for knowledge
 - Former scout and mercenary in the Emissaries of the Sunfall
 - Encountered planar rift approximately 2-3 years ago
 - Transformed into medusa during rift energy experiments (exact circumstances deliberately vague)
-- Established research facility at [[Cloudfang Keep]] approximately 18 months ago
+- Established research facility at [[Cloudfang Keep - DM Notes]] approximately 18 months ago
 - Has been receiving regular funding and specimens from Qalix
 - Currently focused on analyzing the [[Luxon Beacon]] and its resonance with Lorestone fragments
 
@@ -150,7 +150,7 @@ Emer has three villain actions. She can take each action once during an encounte
 
 ### Lair Actions
 
-When fighting inside [[Cloudfang Keep]], Lady Emer can take lair actions. On initiative count 20 (losing initiative ties), she can take one lair action to cause one of the following effects; she can't use the same lair action two rounds in a row:
+When fighting inside [[Cloudfang Keep - DM Notes]], Lady Emer can take lair actions. On initiative count 20 (losing initiative ties), she can take one lair action to cause one of the following effects; she can't use the same lair action two rounds in a row:
 
 **Shadowstep**: Emer teleports up to 30 feet to an unoccupied space she can see.
 

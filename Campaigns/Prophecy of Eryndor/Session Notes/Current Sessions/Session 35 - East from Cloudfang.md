@@ -11,7 +11,7 @@ tags:
 - **Quick NPCs**: [[Quick NPCs]] and [[NPC Stat Block Reference Table]]
 - **Location Ideas**: [[Location Idea Generator]]
 - **Reward Options**: [[Session Rewards Reference]]
-- **Detailed prep** (if exists): [[Monastery of Dimensional Harmony]]
+- **Detailed prep** (if exists): [[Monastery of Dimensional Harmony - DM Notes]]
 
 ---
 
@@ -39,7 +39,7 @@ For each: Who's there? What's the conflict/choice/discovery?
 
 1. Party encounters [[Encounter with Zadash Refugees|refugees from Zadash]] and learn there are escalating problems east, including more rifts and tension between nations.
 2. Dechs and Laucian arrive with the cart. Laucian just received a sending from PD and he needs to turn back.
-3. Avalanche blocks the road! Detour into the [[Monastery of Dimensional Harmony]].
+3. Avalanche blocks the road! Detour into the [[Monastery of Dimensional Harmony - DM Notes]].
 
 *Thinking prompts: What do PCs want? What opposes them? What interrupts? What arrives? What's discovered? What choice emerges?*
 

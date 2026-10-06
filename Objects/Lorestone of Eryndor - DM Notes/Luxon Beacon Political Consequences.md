@@ -16,7 +16,7 @@ tags:
 
 The party holds a [[luxon-beacon-egw|Luxon Beacon]] recovered from [[Lady Emer]] at
 
-[[Cloudfang Keep]]. It was provided to Emer by [[Vaud Qalix]] for planar
+[[Cloudfang Keep - DM Notes]]. It was provided to Emer by [[Vaud Qalix]] for planar
 
 research, with no indication he understood its true nature or sacred status.
 

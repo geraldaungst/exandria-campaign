@@ -115,7 +115,7 @@ Eledyr Dephar was born to a human mother and an elven father, growing up amidst 
 > ## What Eledyr Knows
 >
 > 1. The existence of a [[01 The Prophecy|prophecy]] that speaks of three symbols or factions (Crown, Shield, and Tree) and their roles in Exandria's fate.
-> 2. The [[Lorestone of Eryndor]] is a 2-foot diameter obsidian disc engraved with the Prophecy in an ancient dialect of Elvish.
+> 2. The [[Lorestone of Eryndor - DM Notes]] is a 2-foot diameter obsidian disc engraved with the Prophecy in an ancient dialect of Elvish.
 > 3. The Lorestone was shattered during the Calamity, and its pieces were scattered across the Shattered Teeth and beyond.
 > 4. The [[Obsidian Echoforge]], founded by Lys Willowwhisper, has been searching for the Lorestone pieces for centuries.
 > 5. The Obsidian Echoforge believes that the Lorestone is a "beacon" mentioned in the prophecy that can seal rifts appearing across Wildemount.

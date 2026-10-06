@@ -8,7 +8,7 @@ created: 2025-01-10
 
 ### Plan Outline
 
-1. [ ] Acquire the 2 known shards of the [[Lorestone of Eryndor]] not held by the [[Obsidian Echoforge]]
+1. [ ] Acquire the 2 known shards of the [[Lorestone of Eryndor - DM Notes]] not held by the [[Obsidian Echoforge]]
 	- [ ] Steal the shard from the Rexxentrum Archive (assigned to [[Dreyara Drimvar]])
 	- [ ] Buy the shard from [[Celdric Ambril]]
 2. [ ] Seek and recover the missing shards.
@@ -31,7 +31,7 @@ created: 2025-01-10
 - The [[Obsidian Echoforge]] will not willingly release the shards
 - [[Archivist Ovedo]] will carefully protect the shard in their care
 - Two shards have yet to be discovered
-- The [[Ashari Riftguard]] and [[Malachite Cord]] are going to get in the way
+- The [[Ashari Riftguard]] and [[Malachite Cord - DM Notes]] are going to get in the way
 - Defending the rifts from creatures coming through from other planes
 
 ### **Vaud's Incomplete Understanding**

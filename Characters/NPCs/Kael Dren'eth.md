@@ -1,11 +1,11 @@
 ---
 affiliations:
-  - "[[Malachite Cord]]"
+  - "[[Malachite Cord - DM Notes]]"
   - Terrah Tribe
 aliases:
   - kael
 faction:
-location: "[[The Shrine of Melora]]"
+location: "[[The Shrine of Melora - DM Notes]]"
 tags:
   - npc
   - world/exandria
@@ -15,7 +15,7 @@ tags:
 ## Quick Reference
 
 > [!info] Essential Details
-> - Current Location: With the [[Malachite Cord]] at [[The Shrine of Melora]]
+> - Current Location: With the [[Malachite Cord - DM Notes]] at [[The Shrine of Melora - DM Notes]]
 > - Key Motivation: Prove that embracing and mastering chaos is superior to the Ashari's traditional approach
 > - Attitude toward party: Indifferent and wary
 

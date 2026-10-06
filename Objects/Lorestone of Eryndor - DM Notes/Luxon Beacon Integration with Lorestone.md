@@ -118,7 +118,7 @@ Understanding this integration is crucial for:
 
 ### Source Note
 
-[[Lorestone of Eryndor]]
+[[Lorestone of Eryndor - DM Notes]]
 
 ### Related Atomic Notes
 

@@ -56,7 +56,7 @@ How this relationship affects the campaign
 
 ### Source Note
 
-[[Lorestone of Eryndor]]
+[[Lorestone of Eryndor - DM Notes]]
 
 ### Related Atomic Notes
 

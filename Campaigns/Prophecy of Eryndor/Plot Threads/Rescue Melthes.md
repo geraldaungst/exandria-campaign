@@ -192,7 +192,7 @@ Hesterian believes Melthes is "studying magic" somewhere and has no knowledge of
 
 #### Complicating Factors
 
-- **Assembly Power:** One of most powerful organizations in [[Dwendalian Empire]]
+- **Assembly Power:** One of most powerful organizations in [[Dwendalian Empire - DM Notes]]
 - **Legal Authority:** Assembly operates with Crown backing
 - **Cree's Loyalty:** Professional vs. personal ethics conflict
 - **Information Gaps:** Even allies may not know current status

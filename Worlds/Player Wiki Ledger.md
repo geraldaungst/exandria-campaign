@@ -7,37 +7,41 @@ tags: []
 
 One row per published Exandria note. Claude reads this before every run and does not draft any subject listed here. Keep it in the DM vault, not in `Player Wiki`. Update it after each run, commit, and sync before the next one. A place note that has become a hub gets Type set to Hub.
 
-| Note title                         | Type     | Scope | Date       | Renamed DM note                               |
-| ---------------------------------- | -------- | ----- | ---------- | --------------------------------------------- |
-| Tal'Dorei                          | Location | T01   | 2026-10-04 | None                                          |
-| Emon                               | Location | T01   | 2026-10-04 | None                                          |
-| Whitestone                         | Location | T01   | 2026-10-04 | None                                          |
-| Shrine of Bahamut                  | Location | T01   | 2026-10-04 | Shrine of Bahamut - DM Notes                  |
-| Tipsy Quorum                       | Location | T01   | 2026-10-04 | Tipsy Quorum - DM Notes                       |
-| Percival de Rolo                   | NPC      | T01   | 2026-10-04 | None                                          |
-| Vex'ahlia de Rolo                  | NPC      | T01   | 2026-10-04 | None                                          |
-| Gnurlsotten's Nosh & Nip           | Location | S01   | 2026-10-04 | Gnurlsotten's Nosh & Nip - DM Notes           |
-| Grent Gnurlsotten                  | NPC      | S01   | 2026-10-04 | Grent Gnurlsotten - DM Notes                  |
-| Cave-Aged Truscan                  | Item     | S01   | 2026-10-04 | none                                          |
-| Olesya Lapidus                     | NPC      | T02   | 2026-10-04 | None                                          |
-| Port Damali                        | Hub      | T02   | 2026-10-04 | Port Damali - DM Notes (already renamed)      |
-| Harmony Hall                       | Location | T03   | 2026-10-04 | Harmony Hall - DM Notes                       |
-| Pearl Shrine                       | Location | T03   | 2026-10-04 | None                                          |
-| Cobalt Soul Archive in Port Damali | Location | T03   | 2026-10-04 | Cobalt Soul Archive in Port Damali - DM Notes |
-| The Pudgy Pigeon                   | Location | T03   | 2026-10-04 | The Pudgy Pigeon - DM Notes                   |
-| Staff and Scimitar                 | Location | T03   | 2026-10-04 | None                                          |
-| Celunor's Collection               | Location | T03   | 2026-10-04 | Celunor's Collection - DM Notes               |
-| Ilya's Realm Shop                  | Location | T03   | 2026-10-04 | Ilya's Realm Shop - DM Notes                  |
-| New Temple of Moradin              | Location | T03   | 2026-10-04 | New Temple of Moradin - DM Notes              |
-| Aelorin's Headquarters             | Location | T03   | 2026-10-04 | Aelorin's Headquarters - DM Notes             |
-| Zhelezo                            | Faction  | T04   | 2026-10-05 | None                                          |
-| Myriad                             | Faction  | T04   | 2026-10-05 | None                                          |
-| Clasp                              | Faction  | T04   | 2026-10-05 | None                                          |
-| Menagerie Coast                    | Hub      | T05   | 2026-10-06 | None                                          |
-| Nicodranas                         | Location | T05   | 2026-10-06 | None                                          |
-| Port Zoon                          | Location | T05   | 2026-10-06 | Port Zoon - DM Notes                          |
-| Keldar Stonefoot                   | NPC      | T05   | 2026-10-06 | Keldar Stonefoot - DM Notes                   |
-| Marion Lavorre                     | NPC      | T05   | 2026-10-06 | None                                          |
+| Note title                         | Type     | Scope   | Date       | Renamed DM note                               |
+| ---------------------------------- | -------- | ------- | ---------- | --------------------------------------------- |
+| Tal'Dorei                          | Location | T01     | 2026-10-04 | None                                          |
+| Emon                               | Location | T01     | 2026-10-04 | None                                          |
+| Whitestone                         | Location | T01     | 2026-10-04 | None                                          |
+| Shrine of Bahamut                  | Location | T01     | 2026-10-04 | Shrine of Bahamut - DM Notes                  |
+| Tipsy Quorum                       | Location | T01     | 2026-10-04 | Tipsy Quorum - DM Notes                       |
+| Percival de Rolo                   | NPC      | T01     | 2026-10-04 | None                                          |
+| Vex'ahlia de Rolo                  | NPC      | T01     | 2026-10-04 | None                                          |
+| Gnurlsotten's Nosh & Nip           | Location | S01     | 2026-10-04 | Gnurlsotten's Nosh & Nip - DM Notes           |
+| Grent Gnurlsotten                  | NPC      | S01     | 2026-10-04 | Grent Gnurlsotten - DM Notes                  |
+| Cave-Aged Truscan                  | Item     | S01     | 2026-10-04 | none                                          |
+| Olesya Lapidus                     | NPC      | T02     | 2026-10-04 | None                                          |
+| Port Damali                        | Hub      | T02     | 2026-10-04 | Port Damali - DM Notes (already renamed)      |
+| Harmony Hall                       | Location | T03     | 2026-10-04 | Harmony Hall - DM Notes                       |
+| Pearl Shrine                       | Location | T03     | 2026-10-04 | None                                          |
+| Cobalt Soul Archive in Port Damali | Location | T03     | 2026-10-04 | Cobalt Soul Archive in Port Damali - DM Notes |
+| The Pudgy Pigeon                   | Location | T03     | 2026-10-04 | The Pudgy Pigeon - DM Notes                   |
+| Staff and Scimitar                 | Location | T03     | 2026-10-04 | None                                          |
+| Celunor's Collection               | Location | T03     | 2026-10-04 | Celunor's Collection - DM Notes               |
+| Ilya's Realm Shop                  | Location | T03     | 2026-10-04 | Ilya's Realm Shop - DM Notes                  |
+| New Temple of Moradin              | Location | T03     | 2026-10-04 | New Temple of Moradin - DM Notes              |
+| Aelorin's Headquarters             | Location | T03     | 2026-10-04 | Aelorin's Headquarters - DM Notes             |
+| Zhelezo                            | Faction  | T04     | 2026-10-05 | None                                          |
+| Myriad                             | Faction  | T04     | 2026-10-05 | None                                          |
+| Clasp                              | Faction  | T04     | 2026-10-05 | None                                          |
+| Menagerie Coast                    | Hub      | T05     | 2026-10-06 | None                                          |
+| Nicodranas                         | Location | T05     | 2026-10-06 | None                                          |
+| Port Zoon                          | Location | T05     | 2026-10-06 | Port Zoon - DM Notes                          |
+| Keldar Stonefoot                   | NPC      | T05     | 2026-10-06 | Keldar Stonefoot - DM Notes                   |
+| Marion Lavorre                     | NPC      | T05     | 2026-10-06 | None                                          |
+| Tyodan River                       | Location | T06–T08 | 2026-10-06 | None                                          |
+| Othemoor                           | Location | T06–T08 | 2026-10-06 | None                                          |
+| Shrine of Melora                   | Location | T06–T08 | 2026-10-06 | Shrine of Melora - DM Notes                   |
+| Cyrios Mountains                   | Location | T06–T08 | 2026-10-06 | None                                          |
 
 ## Standing Decisions
 

@@ -65,7 +65,7 @@ tags:
 
 **[[Obsidian Echoforge]]**: Believes the Lorestone itself is the "beacon" mentioned in the prophecy. Correct that it can close rifts, incorrect about it being sufficient alone. Unaware of stabilization requirements.
 
-**[[Malachite Cord]]**: Believes using the Lorestone will cause rifts to tear wider. Partially correct - unstabilized use WILL cause catastrophic failure. Unaware that proper stabilization makes it safe and effective.
+**[[Malachite Cord - DM Notes]]**: Believes using the Lorestone will cause rifts to tear wider. Partially correct - unstabilized use WILL cause catastrophic failure. Unaware that proper stabilization makes it safe and effective.
 
 **[[Emissaries of the Sunfall]]**: Believes the Lorestone can create permanent controlled gateways. Fundamentally wrong about its purpose, but their desire to control rather than close rifts makes them especially dangerous.
 

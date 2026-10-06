@@ -125,7 +125,7 @@ Then after result, turn to room: "Lady Emer lies beneath the immovable shield, h
     - Puzzle solution requires reading her poetry
     - She won't give passphrase easily (wants to trade for freedom)
 
-**Stone Chest Puzzle Details**: See [[Cloudfang Keep#Stone Chest]]
+**Stone Chest Puzzle Details**: See [[Cloudfang Keep - DM Notes#Stone Chest]]
 
 - Draconic inscription: "Stone eyes see, but do stone ears hear?"
 - Passphrase: "Stone hearts beat with temporal rhythm" (spoken in Draconic while pressing obsidian eyes)
@@ -265,7 +265,7 @@ Then after result, turn to room: "Lady Emer lies beneath the immovable shield, h
 - Others: Failed assistants, thieves, wanderers
 - Wyvern in garden area (hostile to party)
 
-**Full Keep Details**: See [[Cloudfang Keep]] for all room descriptions
+**Full Keep Details**: See [[Cloudfang Keep - DM Notes]] for all room descriptions
 
 #### Prepared NPCs
 
@@ -410,7 +410,7 @@ Then after result, turn to room: "Lady Emer lies beneath the immovable shield, h
 **Core Documents:**
 
 - [[Lady Emer Conversation Progression]] - Full interrogation framework with all triggers and dialogue
-- [[Cloudfang Keep]] - Location details, chest puzzle mechanics, room descriptions
+- [[Cloudfang Keep - DM Notes]] - Location details, chest puzzle mechanics, room descriptions
 - [[Varnes Dwell]] - Full NPC profile, what he knows, his urgent message
 - [[Lady Emer]] - NPC profile and stat block
 - [[luxon-beacon-egw|Luxon Beacon]] - What it actually is (if players identify it)
@@ -419,13 +419,13 @@ Then after result, turn to room: "Lady Emer lies beneath the immovable shield, h
 
 - [[Vaud Qalix]] - The mysterious employer (what Emer knows vs. reality)
 - [[Dreyara Drimvar]] - The terrifying operative
-- [[Lorestone of Eryndor]] - What they're all after
+- [[Lorestone of Eryndor - DM Notes]] - What they're all after
 - [[Session 32 - Confronting Lady Emer]] - Previous session notes
 
 **Campaign Context:**
 
 - [[Obsidian Echoforge]] - One of the factions pursuing Lorestone
-- [[Malachite Cord]] - Another faction (Varnes mentions them)
+- [[Malachite Cord - DM Notes]] - Another faction (Varnes mentions them)
 - [[Emissaries of the Sunfall]] - Emer's former organization
 
 ## Session Notes

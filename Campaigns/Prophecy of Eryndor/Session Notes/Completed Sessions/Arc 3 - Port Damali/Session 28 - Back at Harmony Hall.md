@@ -35,7 +35,7 @@ tags:
 - Returned to [[Harmony Hall - DM Notes]] to find two guards outside and a new "bartender" named Barrelcrest.
 - Opened gifts and letters from Drawg
 - Went to [[Ilya's Realm Shop - DM Notes]] to ask about Drawg. Did some shopping.
-- Drawg returned to the party and they learned that [[Cloudfang Keep]] is not only the location of Ilya's brother but also the likely destination of [[Dreyara Drimvar|Dreyara]].
+- Drawg returned to the party and they learned that [[Cloudfang Keep - DM Notes]] is not only the location of Ilya's brother but also the likely destination of [[Dreyara Drimvar|Dreyara]].
 
 ### Significant Changes
 

@@ -1,6 +1,6 @@
 ---
 affiliations:
-  - "[[Dwendalian Empire]]"
+  - "[[Dwendalian Empire - DM Notes]]"
 current_location: "[[Bysaes Tyl]]"
 disposition: indifferent
 tags:

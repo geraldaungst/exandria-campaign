@@ -11,7 +11,7 @@ tags:
 ## Quick Reference
 
 > [!info] Essential Details
-> - Main Location(s): [[The Shrine of Melora]]
+> - Main Location(s): [[The Shrine of Melora - DM Notes]]
 > - Active Quests: [[Search for the Stonefoot Compass]]
 > - Important NPCs: [[Rinneth Starsong]], [[Radelia Caphax]]
 > - Previous session: [[Session 14 to 16 - Rift to the Elemental Plane of Fire]]
@@ -115,7 +115,7 @@ When roleplaying **Rinneth Starsong**, a balance between cautious openness and p
 
 ### Unresolved Elements
 
-- Party have not yet talked to [[Radelia Caphax]], who likely has some useful information about the [[Lorestone of Eryndor]] as well as the [[Emissaries of the Sunfall]].
+- Party have not yet talked to [[Radelia Caphax]], who likely has some useful information about the [[Lorestone of Eryndor - DM Notes]] as well as the [[Emissaries of the Sunfall]].
 
 ## Post-Session Processing
 

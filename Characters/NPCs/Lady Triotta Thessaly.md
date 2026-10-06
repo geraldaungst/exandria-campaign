@@ -14,7 +14,7 @@ region: Tal'Dorei
 
 ![[triotta.png|right|300]]
 
-Lady Thessaly is a middle-aged human woman known for her obsession with rare gemstones, which she trades and collects as a prominent merchant and socialite throughout the [[Dwendalian Empire]]. She exudes poise and style, never seen without an array of bejeweled rings, bracelets and amulets in a range of violet hues (her namesake favorite).
+Lady Thessaly is a middle-aged human woman known for her obsession with rare gemstones, which she trades and collects as a prominent merchant and socialite throughout the [[Dwendalian Empire - DM Notes]]. She exudes poise and style, never seen without an array of bejeweled rings, bracelets and amulets in a range of violet hues (her namesake favorite).
 
 A while back, she came across rumors of a dangerous and highly unusual creature captured by hunters near Jrusar - a [two-headed etcheda monkey](obsidian://open?vault=D%26D%20Compendium&file=bestiary%2Ftwo-headed-etcheda-monkey). Able to emit blinding flashes from crystalline sacs in its skull when threatened, it seemed the perfect exotic pet for the wealthy trader. She negotiated quickly through a proxy in [[Port Damali - DM Notes]] with black market connections, sparing no expense for the creature she planned to keep as a sparkling oddity to show off with pride.
 

@@ -9,7 +9,7 @@ tags:
 
 Tharivol is a robust, silver-scaled dragonborn with piercing blue eyes. He wears armor adorned with symbols of Bahamut, the Platinum Dragon, signifying his devotion. He is [[Sariel|Sariel's]] brother.
 
-Backstory: Tharivol was a protector in Talonstadt, a refugee tent city near the [[Dwendalian Empire]], predominantly inhabited by Ravenite refugees from Draconia after its destruction in 811 PD​​​​. He ventured to Tal'Dorei seeking knowledge and aid to help his people rebuild and defend their community. His journey led him to train under the paladins of Bahamut, honing his skills and faith. Returning to Talonstadt, Tharivol brings with him not just enhanced abilities but also hope and resources for his people.
+Backstory: Tharivol was a protector in Talonstadt, a refugee tent city near the [[Dwendalian Empire - DM Notes]], predominantly inhabited by Ravenite refugees from Draconia after its destruction in 811 PD​​​​. He ventured to Tal'Dorei seeking knowledge and aid to help his people rebuild and defend their community. His journey led him to train under the paladins of Bahamut, honing his skills and faith. Returning to Talonstadt, Tharivol brings with him not just enhanced abilities but also hope and resources for his people.
 
 He wants to return home to see his family again after a long absence.
 

@@ -169,7 +169,7 @@ The Massacre had profound internal consequences:
 
 ### Medium-term Goals
 
-- Help [[Vaud Qalix]] gather [[Lorestone of Eryndor]] shards
+- Help [[Vaud Qalix]] gather [[Lorestone of Eryndor - DM Notes]] shards
 
 ### Long-term Goals
 

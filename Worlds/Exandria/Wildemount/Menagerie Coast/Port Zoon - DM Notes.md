@@ -27,7 +27,7 @@ tags:
 
 > [!note] Active Elements
 > - Present situation:
-> 	- [[Keldar Stonefoot - DM Notes]], chief cartographer, has a [[Consecution's Hope|map]] to a shard of the [[Lorestone of Eryndor]]. [[Calderax Dunhall]]has agreed to give him the [[Stonefoot Compass - DM Notes]] in exchange for the map. (See [[Search for the Stonefoot Compass]])
+> 	- [[Keldar Stonefoot - DM Notes]], chief cartographer, has a [[Consecution's Hope|map]] to a shard of the [[Lorestone of Eryndor - DM Notes]]. [[Calderax Dunhall]]has agreed to give him the [[Stonefoot Compass - DM Notes]] in exchange for the map. (See [[Search for the Stonefoot Compass]])
 > - Recent changes
 > - Immediate concerns
 

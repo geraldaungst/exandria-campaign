@@ -12,7 +12,7 @@ tags:
 
 > [[Eryndor]], aware of the weight and significance of their visions, knew the prophecy needed to be preserved in a manner that would withstand the ravages of time. They sought out a famed Drow artificer named [[Illyndra Shadowveil]], who was known for her mastery in crafting artifacts imbued with protective magic.
 >
-> Together, they devised a plan. [Eryndor] would dictate the prophecy, and Illyndra would inscribe it onto a large, circular obsidian disc (which would come to be known as the [[Lorestone of Eryndor]]) using an alloy of mithral and star metal, materials known for their resilience and connection to ancient magic. Once inscribed, Illyndra would cast a spell of preservation, ensuring the disc would remain unaffected by external forces, whether they be physical or arcane.
+> Together, they devised a plan. [Eryndor] would dictate the prophecy, and Illyndra would inscribe it onto a large, circular obsidian disc (which would come to be known as the [[Lorestone of Eryndor - DM Notes]]) using an alloy of mithral and star metal, materials known for their resilience and connection to ancient magic. Once inscribed, Illyndra would cast a spell of preservation, ensuring the disc would remain unaffected by external forces, whether they be physical or arcane.
 >
 > The disc was then placed in the heart of the Nightshade Caverns, a labyrinthine network of tunnels deep beneath Exandria's surface. Hidden behind a waterfall and guarded by natural traps and elemental wards, the caverns were known only to a few and were spoken of in hushed tones, adding a layer of myth to its actual significance.
 >

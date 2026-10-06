@@ -14,7 +14,7 @@ tags:
 
 > [!info] Essential Details
 > - Base of Operations: Permanent collection and workshop on the outskirts of [[Palma Flora]] on the Menagerie Coast
-> - Primary Goal: Locate and assemble the fragments of the [[Lorestone of Eryndor]] in order to close rifts
+> - Primary Goal: Locate and assemble the fragments of the [[Lorestone of Eryndor - DM Notes]] in order to close rifts
 > - Current Status: Active
 > - Party Standing: Pursuing a [[Aethor Kalisk's Secret Mission|quest]] for [[Aethor Kalisk]]
 > - Influence Level: Regional
@@ -139,7 +139,7 @@ For more information see [[The Massacre]].
 
 ### Faction Knowledge Evolution
 
-![[Lorestone of Eryndor#Faction Knowledge Evolution]]
+![[Lorestone of Eryndor - DM Notes#Faction Knowledge Evolution]]
 
 ## Related Elements
 

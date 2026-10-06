@@ -1,11 +1,11 @@
 ---
 affiliations:
-  - "[[Malachite Cord]]"
+  - "[[Malachite Cord - DM Notes]]"
   - Skyship
 aliases:
   - Radelia
-current_location: "The Shrine of Melora"
-home_city: "Odessloe"
+current_location: The Shrine of Melora
+home_city: Odessloe
 tags:
   - npc
   - needs-work
@@ -14,10 +14,10 @@ tags:
 ## Quick Reference
 
 > [!info] Essential Details
-> - **Location:** [[The Shrine of Melora]]
+> - **Location:** [[The Shrine of Melora - DM Notes]]
 > - **Goal:** Support [[Rinneth Starsong]] and oppose the [[Obsidian Echoforge]]
 > - **Attitude toward party:** Wary
-> - **Key role:** High-ranking [[Malachite Cord]] member; Cord's inner circle alongside [[Kael Dren'eth]]
+> - **Key role:** High-ranking [[Malachite Cord - DM Notes]] member; Cord's inner circle alongside [[Kael Dren'eth]]
 
 ## Description & Roleplay
 
@@ -31,11 +31,11 @@ Attractive woman, lean and moderately muscular. Large tan jacket, well-kept copp
 
 ## Current Situation
 
-Recently returned from the Whitestone festival via the [[Sessions 1 to 3 - The Skyship|Unshaken]], where she was selling Cithrel Textiles goods as cover. Followed [[Aethor Kalisk]] around [[Port Damali - DM Notes]], gathering intelligence on his activities. Now stationed at [[The Shrine of Melora]] reporting to [[Rinneth Starsong]].
+Recently returned from the Whitestone festival via the [[Sessions 1 to 3 - The Skyship|Unshaken]], where she was selling Cithrel Textiles goods as cover. Followed [[Aethor Kalisk]] around [[Port Damali - DM Notes]], gathering intelligence on his activities. Now stationed at [[The Shrine of Melora - DM Notes]] reporting to [[Rinneth Starsong]].
 
 **Immediate plans:** Recover [[Radelia's Leather Satchel]], then return home to [[Odessloe]].
 
-**Secondary goal:** Maintain and grow her textile business as cover for [[Malachite Cord]] activities.
+**Secondary goal:** Maintain and grow her textile business as cover for [[Malachite Cord - DM Notes]] activities.
 
 > [!note]- Intelligence on Aethor Kalisk (Session 19)
 > Gathered during surveillance in [[Port Damali - DM Notes]]. Revealed during [[Session 19 - Interrogating Radelia]]:
@@ -46,7 +46,7 @@ Recently returned from the Whitestone festival via the [[Sessions 1 to 3 - The S
 > - [x] Often seems distracted or lost in thought while walking the streets
 > - [x] Stays at [[The Pudgy Pigeon - DM Notes]], second floor
 > - [x] Works for the [[Obsidian Echoforge]] as a key researcher
-> - [x] Overheard discussions about the [[Lorestone of Eryndor]]
+> - [x] Overheard discussions about the [[Lorestone of Eryndor - DM Notes]]
 > - [x] Has made multiple trips to the Cobalt Soul library
 > - [x] Seems to be searching for something specific in Port Damali separate from Calderax
 > - [x] Has been asking subtle questions about planar disturbances
