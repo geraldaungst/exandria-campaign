@@ -36,7 +36,7 @@ type: session-prep
 | NPC                                  | Passive Insight | Relevant Skills                               | Notes                                               |
 | ------------------------------------ | --------------- | --------------------------------------------- | --------------------------------------------------- |
 | [[Surveyor Brynna Colefist\|Brynna]] | 14              | History/Investigation +6 (masonry, surveying) | Reads people professionally. Sharp, not suspicious. |
-| [[Bramwell Bellweather\|Bramwell]]   | 14              | Deception +5, Insight +4                      | Deflects, doesn't lie.                              |
+| [[Bramwell Bellweather - DM Notes\|Bramwell]]   | 14              | Deception +5, Insight +4                      | Deflects, doesn't lie.                              |
 | [[Torvald Halsen\|Torvald]]          | 13              |—| Innkeeper's read on people. Nothing to roll.        |
 | [[Dr. Wenna Alsott\|Wenna]]          | 14              | Medicine +5                                   |—|
 | [[Aldous Penwrye\|Aldous]]           | 12              |—| Uninterested in being read.                         |
@@ -64,7 +64,7 @@ type: session-prep
 
 **Why she buries it (her reasoning, if the party gets her talking):** her credibility is her product. She cannot submit a slate showing a square with five corners—she'd be the surveyor who can't count. She cannot submit a corrected version, because the next crew would find the same thing. She cannot keep billing idle days on a fixed-price contract on Truscan land. Burying it is the only professional exit. She is not panicking and she is not wrong.
 
-**What the party can actually do about it:** anything that gets the anomaly off her paperwork buys the site. Give her a nameable authority who's interested ([[Bramwell Bellweather|Bramwell]]'s researcher in Uthodurn). Take the documentation onto themselves. Buy delay from [[Aldous Penwrye|Aldous]]. Give her an explanation she can write down. **No obviously correct option; all have costs.**
+**What the party can actually do about it:** anything that gets the anomaly off her paperwork buys the site. Give her a nameable authority who's interested ([[Bramwell Bellweather - DM Notes|Bramwell]]'s researcher in Uthodurn). Take the documentation onto themselves. Buy delay from [[Aldous Penwrye|Aldous]]. Give her an explanation she can write down. **No obviously correct option; all have costs.**
 
 **If they let it go, it is genuinely gone.** See *Loss State* at the end.
 
@@ -306,7 +306,7 @@ The comb delivery is happening regardless. This is what it buys.
 - [ ] **(Fact 3 door)** If asked about timing: "The sleeping trouble started around when we broke through—weeks back, and nobody made much of it. Jorun's the exception. He came out two days ago, went home sick, and now he's got it worse than the lot of them put together. Might be nothing."
 - [ ] **The tease, if she's refusing to talk on the land:** she mentions the tablet, catches herself, and closes the door—*"Doesn't matter anyway. Whole thing's going back under in the morning."* Gives them a specific thing to want and a specific reason to hurry, without her breaking her warning.
 - [ ] **The tablet itself:** carved stone, script none of the crew recognizes. She took it to a Bursar Plaza merchant who guessed pre-Calamity. Hand it over if they ask or show real interest.
-- [ ] **(Payoff—after Seraphina shares her detail)** Relayed, not her own knowledge: *"We couldn't make sense of it either. [[Bramwell Bellweather|Bramwell]] was telling me about some old Ashari legend just last week…"* A clean trigger straight to him if they haven't met.
+- [ ] **(Payoff—after Seraphina shares her detail)** Relayed, not her own knowledge: *"We couldn't make sense of it either. [[Bramwell Bellweather - DM Notes|Bramwell]] was telling me about some old Ashari legend just last week…"* A clean trigger straight to him if they haven't met.
 
 **If pushed:**
 
@@ -450,7 +450,7 @@ Nobody tells them they missed anything. The world just keeps quietly pointing at
 >
 > **Compressed by the one-day clock:** ambient in the morning, contact by evening. Two beats rather than four. Survivable, since his deeper engagement is deferred past this arc anyway.
 
-- **[[Bramwell Bellweather]]**—fixture at the [[White Peak Inn]], originally from [[Kamordah]] (minor landed family, inheritance dispute burned his standing). Weary, transactional associate of [[Erma Schnieb]]—doing fieldwork out of habit, not investment.
+- **[[Bramwell Bellweather - DM Notes]]**—fixture at the [[White Peak Inn]], originally from [[Kamordah]] (minor landed family, inheritance dispute burned his standing). Weary, transactional associate of [[Erma Schnieb]]—doing fieldwork out of habit, not investment.
 - **Paths to contact:** ambient at the inn from the first visit / overheard grumbling to Torvald / at the Truscan Estate in the same paperwork line / **named directly by Brynna** once Seraphina's detail lands.
 - **What he offers, if engaged:** Erma's network—favor-based fast travel via her contacts across the continent. Price: real, high-quality information, not crumbs. He'll say so a little tiredly, because he's the one who catches grief when she's unimpressed.
 - **The pivot:** if he learns Seraphina was alive at the time of the original cataclysm, it recalibrates him—not warmth, a jolt of *maybe Erma's been right all along.* This is when he might genuinely suggest they meet her.
@@ -571,7 +571,7 @@ Old-money residential, parks, red-roofed on the working map. Deastok's genuine a
 
 #### [[White Peak Inn]]
 
-[[Torvald Halsen|Torvald]]'s inn, in [[Garden Grounds]] among the old-money residents it actually serves. A small sign on the door, no advertising. Known by the people who already know it's there. Torvald is Henrik Halsen's brother—Henrik being Marta's husband—which is why the comb went to him directly. [[Bramwell Bellweather]] is a known fixture.
+[[Torvald Halsen|Torvald]]'s inn, in [[Garden Grounds]] among the old-money residents it actually serves. A small sign on the door, no advertising. Known by the people who already know it's there. Torvald is Henrik Halsen's brother—Henrik being Marta's husband—which is why the comb went to him directly. [[Bramwell Bellweather - DM Notes]] is a known fixture.
 
 > [!info] DM reminder—Torvald's tone
 > Baseline: courteous but uninvested. Paying customers get good service and nothing more. **The shift to warmth is triggered specifically by Marta's name or the comb**, not by anything else the party does. Once warm, he raises Jorun himself—see Scene 1.
@@ -617,7 +617,7 @@ The large walled estate in the southwest near the forest edge—the actual seat 
 - [[Torvald Halsen]]
 - [[Dr. Wenna Alsott]]
 - [[Aldous Penwrye]]
-- [[Bramwell Bellweather]]
+- [[Bramwell Bellweather - DM Notes]]
 - [[Erma Schnieb]]
 - [[Cairel Ulthe]] *(offstage—Uthodurn research, Molaesmyr curse; the destination the Bramwell thread aims at)*
 - [[Elby Cinderdash]]

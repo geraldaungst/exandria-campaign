@@ -47,6 +47,13 @@ One row per published Exandria note. Claude reads this before every run and does
 | Vaud Qalix                         | NPC      | T09     | 2026-10-06 | Vaud Qalix - DM Notes                         |
 | Monastery of Dimensional Harmony   | Location | T10     | 2026-10-06 | Monastery of Dimensional Harmony - DM Notes (already renamed) |
 | Brother Kelmen                     | NPC      | T10     | 2026-10-06 | None                                          |
+| Truscan Vale                       | Hub      | T11–T12 | 2026-10-06 | None                                          |
+| Deastok                            | Location | T11–T12 | 2026-10-06 | None                                          |
+| Shaded Bough                       | Location | T11–T12 | 2026-10-06 | None                                          |
+| White Peak Inn                     | Location | T11–T12 | 2026-10-06 | None                                          |
+| Temple of Bahamut in Deastok       | Location | T11–T12 | 2026-10-06 | None                                          |
+| Kamordah                           | Location | T11–T12 | 2026-10-06 | None                                          |
+| Truscan Family                     | Faction  | T11–T12 | 2026-10-06 | None                                          |
 
 ## Standing Decisions
 
@@ -58,7 +65,10 @@ Decisions from earlier runs that apply to every future run. Source and run in br
 - Location notes go in region subfolders under `Locations/`. Other folders may gain subfolders as they grow. Gerald files notes himself, so runs don't specify folder paths. [Gerald, T01]
 - Player notes never link to a `DM Notes` title. If one appears after a rename, change it back to the clean name. [T01 review]
 - If a player note already links to a subject whose DM note hasn't been renamed yet, turn off "Automatically update internal links" before renaming it. [T01 review]
-- The replacement `The World of Exandria.md` is built from the current published hub plus the new batch, never from the batch alone. [T01 review]
+- The replacement `The World of Exandria.md` is built from the current published hub plus the new batch, never from the batch alone. [T01 review
+- Region tags follow the top-level region, such as a nation. Sub-regions like the Truscan Vale get a note, and become a hub with their own folder if they reach the threshold, but get no region tag. [Gerald, T11–T12]
+- Temples are titled `Temple of <deity> in <place>`, with no alias. [Gerald, T11–T12]
+- Access rules a visitor must follow can name an official who has no note of their own. [Gerald, T11–T12]
 
 ### Sources and classification
 

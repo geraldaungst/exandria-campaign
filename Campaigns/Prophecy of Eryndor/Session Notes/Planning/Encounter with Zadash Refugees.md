@@ -9,7 +9,7 @@ tags:
 
 - Former merchant, organized the group's departure
 - Practical, decisive, protective of her family
-- Has the Deastock connection (brother-in-law Torvald at White Peak Inn)
+- Has the Deastok connection (brother-in-law Torvald at White Peak Inn)
 
 **Henrik Halsen** (human, 45, Marta's husband)
 

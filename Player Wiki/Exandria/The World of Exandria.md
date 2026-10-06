@@ -37,6 +37,12 @@ This contains information specific to the Lorestone of Eryndor campaign.
 
 - [[Cyrios Mountains]]: mountain range between the Menagerie Coast and the Dwendalian Empire; its page lists the range's landmarks, people, and items
 
+## Dwendalian Empire
+
+### Locations
+
+- [[Truscan Vale]]: region at the Empire's southwestern edge, home to Deastok and Kamordah; its page lists the vale's cities, landmarks, and factions
+
 ## Xhorhas
 
 ### People
