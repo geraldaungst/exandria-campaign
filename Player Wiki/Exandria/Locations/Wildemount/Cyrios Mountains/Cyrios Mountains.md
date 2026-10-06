@@ -1,14 +1,14 @@
 ---
-tags:
-  - location
-  - player-facing
-  - world/exandria
-  - region/cyrios-mountains
 aliases:
   - Cyrios
 cssclasses:
   - world-exandria
 publish: true
+tags:
+  - location
+  - player-facing
+  - world/exandria
+  - region/cyrios-mountains
 ---
 
 > [!info] Quick Reference
@@ -44,9 +44,11 @@ The Cyrios Mountains rise north and east of the [[Menagerie Coast]], between the
 
 - [[Cloudfang Keep]]: crumbling castle on Frigid Summit, home of Lady Emer
 - [[Gnurlsotten's Nosh & Nip]]: a roadside tavern and cheesery on the road toward Deastok
+- [[Monastery of Dimensional Harmony]]: abandoned firbolg monastery cut into the mountain, with caverns inhabited by phase spiders
 
 ### People
 
+- [[Brother Kelmen]]: firbolg monk of the Monastery of Dimensional Harmony
 - [[Grent Gnurlsotten]]: proprietor of Gnurlsotten's Nosh & Nip
 - [[Lady Emer]]: medusa scholar of planar rifts who lives at Cloudfang Keep
 

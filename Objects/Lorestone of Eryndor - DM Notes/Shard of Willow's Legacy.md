@@ -1,6 +1,5 @@
 ---
 tags:
-  - item
   - campaign/eryndor
   - needs-work
   - artifact

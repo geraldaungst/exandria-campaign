@@ -65,7 +65,7 @@ An "Owns" list names the subjects a run is responsible for deciding about. It do
 - [X] **T09 Cloudfang Keep and Frigid Summit**
   - Owns: the keep, the peak, and anyone notable tied to the keep (confirm). Secret-heavy.
   - Leaves to: E01–E06 (factions, the Lorestone), E04–E05 (items found there).
-- [ ] **T10 The Monastery of Dimensional Harmony**
+- [X] **T10 The Monastery of Dimensional Harmony**
   - Owns: the monastery, the Order of Dimensional Harmony, and anyone notable tied to it (confirm). Secret-heavy.
   - Leaves to: E04–E05 (Solvei's Vigilance), T15–E07 (planar phenomena).
 - [ ] **T11–T12 Deastok and the Truscan Vale**
@@ -73,9 +73,8 @@ An "Owns" list names the subjects a run is responsible for deciding about. It do
   - Leaves to: E01–E06 (the Lorestone shard), T15–E07 (the dreams and planar phenomena), E02–E03 (Bahamut as a deity).
   - Note: an active arc. Expect most recent developments to be left out.
 - [ ] **T13–T14 The Dwendalian Empire and the Kryn Dynasty**
-  - Owns: the Empire's overview and government, Rexxentrum, Zadash, and general customs of travel, such as the checkpoint papers routine; Xhorhas, the Kryn Dynasty, Ank'Harel, and Xhorhas Landing.
-  - Leaves to: E02–E03 (the Cobalt Soul, the Cerberus Assembly), E08–E09 (the Kryn as a people, Marquet).
-  - Note: canon places Ank'Harel in Marquet. Confirm whether it belongs here or with Marquet in E08–E09.
+  - Owns: the Empire's overview and government, Rexxentrum, Zadash, and general customs of travel, such as the checkpoint papers routine; Xhorhas, and the Kryn Dynasty.
+  - Leaves to: E02–E03 (the Cobalt Soul, the Cerberus Assembly), E08–E09 (the Kryn as a people, Ank'Harel, Marquet).
 
 ## Phase 3: Encyclopedia of Exandria
 
@@ -91,7 +90,7 @@ An "Owns" list names the subjects a run is responsible for deciding about. It do
   - Owns: the Cobalt Soul, the Cerberus Assembly, and similar bodies that span regions; the deities as the characters know them, such as Bahamut, Melora, Avandra, and Moradin, along with Uk'otoa and temples in general.
   - Leaves to: place scopes for specific temples and archives, which are already published or owned.
 - [ ] **E04–E05 Notable people and items**
-  - Owns: rulers, scholars, and public figures with no home-place scope, such as Aethor Kalisk if notable (confirm); the Stonefoot Compass, the Luxon Beacon, Solvei's Vigilance, and other notable items.
+  - Owns: rulers, scholars, and public figures with no home-place scope, such as Aethor Kalisk and Dreyara Drimvar; the Stonefoot Compass, the Luxon Beacon, Solvei's Vigilance, and other notable items.
   - Leaves to: none.
   - Note: leftovers from earlier runs. Re-size after E01–E06. Split it if it would exceed 10 notes.
 - [ ] **E08–E09 History, species, and customs**

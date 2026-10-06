@@ -45,6 +45,8 @@ One row per published Exandria note. Claude reads this before every run and does
 | Cloudfang Keep                     | Location | T09     | 2026-10-06 | Cloudfang Keep - DM Notes (already renamed)   |
 | Lady Emer                          | NPC      | T09     | 2026-10-06 | Lady Emer - DM Notes                          |
 | Vaud Qalix                         | NPC      | T09     | 2026-10-06 | Vaud Qalix - DM Notes                         |
+| Monastery of Dimensional Harmony   | Location | T10     | 2026-10-06 | Monastery of Dimensional Harmony - DM Notes (already renamed) |
+| Brother Kelmen                     | NPC      | T10     | 2026-10-06 | None                                          |
 
 ## Standing Decisions
 
