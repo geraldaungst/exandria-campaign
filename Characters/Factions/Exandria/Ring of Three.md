@@ -15,4 +15,4 @@ Not long after The Calamity, the prominent elven society on Wildemount was the p
 
 While the elves were able to build their city undiscovered for many years, the Dwendalian crown eventually became aware of their independent city-state and presented them with an ultimatum: accept Dwendalian rule, peacefully or by force. The Ring of Three convened and agreed not to fight but to submit and follow imperial laws and pay Imperial taxes, under the condition that they could maintain some level of cultural autonomy within their city.
 
-Approached Ludinus Da'leth seeking information about the [[Rupture of the Molaesmyr Fey Crossing|cataclysm]] that ended [[Ruins of Molaesmyr|Molaesmyr]].
+Approached Ludinus Da'leth seeking information about the [[Rupture of the Molaesmyr Fey Crossing|cataclysm]] that ended [[Ruins of Molaesmyr - DM Notes|Molaesmyr]].

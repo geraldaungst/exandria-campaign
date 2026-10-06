@@ -47,7 +47,7 @@ A three-way conflict over the [[Lorestone of Eryndor - DM Notes]], with competin
 
 > [!seed]- Active Seeds
 > - [ ] [[Obsidian Echoforge]] seeks to assemble the Lorestone to fulfill the prophecy
-> - [ ] [[Malachite Cord - DM Notes]] aims to prevent assembly, fearing a repeat of the [[Ruins of Molaesmyr]] disaster
+> - [ ] [[Malachite Cord - DM Notes]] aims to prevent assembly, fearing a repeat of the [[Ruins of Molaesmyr - DM Notes]] disaster
 > - [ ] [[Emissaries of the Sunfall]] plan to create a permanent gate using the Lorestone's power
 
 ### Planned Developments

@@ -11,7 +11,7 @@ tags:
 ### Prophecy General Info
 
 > 1. Rifts have begun to appear across Wildemount. Some people believe these rifts are symbolic and have a pattern. They in fact are chaotic and random, and the efforts seeking to understand the patterns will ultimately prove fruitless.
-> 2. Deep beneath the [[Ruins of Molaesmyr]] is a Fey Crossing. About 250 years ago, the elves excavating beneath the city discovered the Crossing. An unknown accident triggered an [[Rupture of the Molaesmyr Fey Crossing|event that caused the destruction]] of the city and most of its residents at the time.
+> 2. Deep beneath the [[Ruins of Molaesmyr - DM Notes]] is a Fey Crossing. About 250 years ago, the elves excavating beneath the city discovered the Crossing. An unknown accident triggered an [[Rupture of the Molaesmyr Fey Crossing|event that caused the destruction]] of the city and most of its residents at the time.
 > 3. A [[01 The Prophecy|prophecy]] exists (see below) that describes what many have interpreted to be three groups or factions that would arise and struggle for control of the rifts.
 > 4. The prophecy speaks of a "beacon" that will seal the rift. One group of scholars, the [[Obsidian Echoforge]], believes that the [[Lorestone of Eryndor - DM Notes]] itself is the beacon, and they are seeking to assemble the shards. (This group is the "Tree" of the prophecy.) (One of the passengers from Emon was a [[Aethor Kalisk|member of this group]] and had a lead on someone in [[Port Damali - DM Notes]] who may have more information about the location of a missing shard.)
 > 	- This group is partly correct--the Lorestone does need to be assembled, but it is not the beacon. It requires a [[luxon-beacon-egw|Luxon Beacon]] to function properly to close rifts.

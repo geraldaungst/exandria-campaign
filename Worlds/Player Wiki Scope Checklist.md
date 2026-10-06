@@ -78,7 +78,7 @@ An "Owns" list names the subjects a run is responsible for deciding about. It do
 
 ## Phase 3: Encyclopedia of Exandria
 
-- [ ] **T15–E07 The Savalirwood, Molaesmyr, and the rifts**
+- [X] **T15–E07 The Savalirwood, Molaesmyr, and the rifts**
   - Owns: the Savalirwood, the Ruins of Molaesmyr as a place, and the Fey crossing as a place; the rifts and the planes; the destruction of Molaesmyr as an event.
   - Leaves to: E01–E06 (factions, the Lorestone, the Prophecy), E04–E05 (Riftcages and other items, confirm).
   - Note: secret-heavy. The standing decision on player characters' backstory places applies.

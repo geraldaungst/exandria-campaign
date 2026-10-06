@@ -41,13 +41,21 @@ This contains information specific to the Lorestone of Eryndor campaign.
 
 ### Locations
 
-- [[Dwendalian Empire]]: nation ruling western Wynandir from Rexxentrum; its page lists the Empire's regions, cities, and people
+- [[Truscan Vale]]: region at the Empire's southwestern edge, home to Deastok and Kamordah; its page lists the vale's cities, landmarks, and factions
 
 ## Xhorhas
 
+### People
+
+- [[Vaud Qalix]]: Eye of the Scars, Protector of the Council of Xarzith Kitril
+
+## Greying Wildlands
+
 ### Locations
 
-- [[Xhorhas]]: eastern Wynandir beyond the Ashkeeper Peaks, home of the Kryn Dynasty; its page lists the region's cities, people, and factions
+- [[Greying Wildlands]]: Wildemount's northernmost region of forests, mountains, and tundra
+- [[Ruins of Molaesmyr]]: ruins of an elven city destroyed in 585 PD, at the heart of the Savalirwood
+- [[Savalirwood]]: cursed forest, formerly the Veluthil Forest, surrounding the ruins of Molaesmyr
 
 ## Across Regions
 
@@ -55,3 +63,7 @@ This contains information specific to the Lorestone of Eryndor campaign.
 
 - [[Clasp]]: guild of thieves and assassins founded in Tal'Dorei
 - [[Myriad]]: the largest criminal syndicate in Wildemount
+
+### Lore
+
+- [[Planar Rifts]]: unstable openings between Exandria and other planes of existence

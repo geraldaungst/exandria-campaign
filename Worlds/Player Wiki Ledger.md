@@ -64,6 +64,10 @@ One row per published Exandria note. Claude reads this before every run and does
 | Xarzith Kitril                     | Location | T13–T14 | 2026-10-06 | Xarzith Kitril - DM Notes (already renamed)   |
 | Kryn Dynasty                       | Faction  | T13–T14 | 2026-10-06 | Kryn Dynasty - DM Notes                       |
 | Leylas Kryn                        | NPC      | T13–T14 | 2026-10-06 | None                                          |
+| Greying Wildlands                  | Location | T15–E07 | 2026-10-06 | None                                          |
+| Savalirwood                        | Location | T15–E07 | 2026-10-06 | Savalirwood - DM Notes                        |
+| Ruins of Molaesmyr                 | Location | T15–E07 | 2026-10-06 | Ruins of Molaesmyr - DM Notes                 |
+| Planar Rifts                       | Lore     | T15–E07 | 2026-10-06 | None                                          |
 
 ## Standing Decisions
 
@@ -79,6 +83,10 @@ Decisions from earlier runs that apply to every future run. Source and run in br
 - Region tags follow the top-level region, such as a nation. Sub-regions like the Truscan Vale get a note, and become a hub with their own folder if they reach the threshold, but get no region tag. [Gerald, T11–T12]
 - Temples are titled `Temple of <deity> in <place>`, with no alias. [Gerald, T11–T12]
 - Access rules a visitor must follow can name an official who has no note of their own. [Gerald, T11–T12]
+- Use `Lorestone of Eryndor` as the official campaign name. Gerald sometimes uses `Prophecy of Eryndor` as an alternate campaign name which is not wrong, but all wiki references should use the former.
+- The planes get no general note. D&D rules knowledge stays off the wiki. A plane gets a note only when the party visits it and learns about it there. [Gerald, T15–E07]
+- Don't mention the Ashari until Gerald says otherwise. [Gerald, T15–E07]
+- Where the players' notes give dates that conflict with the vault or canon, default to publishing the vault's figures. [Gerald, T15–E07]
 
 ### Sources and classification
 
@@ -95,6 +103,7 @@ Decisions from earlier runs that apply to every future run. Source and run in br
 - In-world tales may be published as hedged hearsay ("some say," "it is said") even when they are false. [Gerald, T13–T14]
 - Capital cities and their rulers get notes as world knowledge. A foreign ruler's note holds only what outsiders would know. [Gerald, T13–T14]
 - A nation's customs of travel go in the nation's note, not a separate lore note. [Gerald, T13–T14]
+- Player notes may name the party, as The Third Act, when their actions affected the world in a significant way, such as defeating a major figure. State the outcome briefly in reference voice, and don't narrate the encounter. Always get confirmation from Gerald since this violates the general principle in the conventions. [Gerald, T15–E07]
 
 ### Scope and note shape
 
