@@ -33,6 +33,11 @@ One row per published Exandria note. Claude reads this before every run and does
 | Zhelezo                            | Faction  | T04   | 2026-10-05 | None                                          |
 | Myriad                             | Faction  | T04   | 2026-10-05 | None                                          |
 | Clasp                              | Faction  | T04   | 2026-10-05 | None                                          |
+| Menagerie Coast                    | Hub      | T05   | 2026-10-06 | None                                          |
+| Nicodranas                         | Location | T05   | 2026-10-06 | None                                          |
+| Port Zoon                          | Location | T05   | 2026-10-06 | Port Zoon - DM Notes                          |
+| Keldar Stonefoot                   | NPC      | T05   | 2026-10-06 | Keldar Stonefoot - DM Notes                   |
+| Marion Lavorre                     | NPC      | T05   | 2026-10-06 | None                                          |
 
 ## Standing Decisions
 

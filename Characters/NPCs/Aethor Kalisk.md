@@ -32,7 +32,7 @@ Elderly gnome with soft, rounded features marked by lines of concentration. Brig
 
 ## Current Situation
 
-Headquartered in [[Port Damali - DM Notes]] while researching Lorestone assembly. Has a lead on [[Calderax Dunhall]], who may have information about a missing shard. Hired the party to retrieve the [[Stonefoot Compass]] to use as a trade for Calderax's information. Continues development of his arcane refraction device.
+Headquartered in [[Port Damali - DM Notes]] while researching Lorestone assembly. Has a lead on [[Calderax Dunhall]], who may have information about a missing shard. Hired the party to retrieve the [[Stonefoot Compass - DM Notes]] to use as a trade for Calderax's information. Continues development of his arcane refraction device.
 
 **Key relationships:**
 
@@ -44,7 +44,7 @@ Headquartered in [[Port Damali - DM Notes]] while researching Lorestone assembly
 > - Has a lead on Calderax Dunhall regarding a Lorestone shard
 > - Was the target of [[Valen Elderguard]]'s plot to skyjack the ship
 > - Calderax is actually working with [[Aelorin Nightshade]]
-> - The shard trail leads to [[Keldar Stonefoot]]
+> - The shard trail leads to [[Keldar Stonefoot - DM Notes]]
 > - Believes the [[Arcanist's Prism]] can help his research—the one he's seeking is actually a forgery
 
 > [!note]- Arcane Refraction Device

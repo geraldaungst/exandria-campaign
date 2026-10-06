@@ -88,7 +88,7 @@ tags:
 
 ### Future Important Locations
 
-- **Port Zoon** - Deliver the [[Stonefoot Compass]]
+- **Port Zoon** - Deliver the [[Stonefoot Compass - DM Notes]]
 - **Zadash** - Need to return herbs carried by Dechs, Hesterian's murderer is here
 - **Rexxentrum** - Archivist Ovedo of Cobalt Soul holds Shard 5 of Lorestone
 - **Savalirwood** - Site of growing corruption, potential future large rift location
@@ -102,7 +102,7 @@ tags:
 - **Shards 1-4:** Lyren Willowwhisper (Obsidian Echoforge)
 - **Shard 5:** Archivist Ovedo at Rexxentrum Archive (Cobalt Soul)
 - **Shard 6:** Currently held by [[Dreyara Drimvar]] or one of her minions
-- **Shard 7**: In the hoard of [[Shoagragoth, The Acid Crown]] (not yet known by the party). This is the shard that [[Keldar Stonefoot]] will point the party towards if they get that far.
+- **Shard 7**: In the hoard of [[Shoagragoth, The Acid Crown]] (not yet known by the party). This is the shard that [[Keldar Stonefoot - DM Notes]] will point the party towards if they get that far.
 - **Shard 8**: Unknown
 
 ### Assembling Process

@@ -228,7 +228,7 @@ The [[Lorestone of Eryndor]] was shattered into 8 pieces. This tracker documents
 
 **Known By:**
 
-- [[Keldar Stonefoot]] (has map showing original location)
+- [[Keldar Stonefoot - DM Notes]] (has map showing original location)
 - [[Calderax Dunhall]] (was facilitating trade for map)
 - [[Aethor Kalisk]] (investigating the map lead)
 - [[Shoagragoth, The Acid Crown]] (current possessor)
@@ -237,7 +237,7 @@ The [[Lorestone of Eryndor]] was shattered into 8 pieces. This tracker documents
 **Pursued By:**
 
 - [[Obsidian Echoforge]] (via map acquisition, though they think this is pointing to Shard 5)
-- Player characters (have the [[Stonefoot Compass]], connected to map)
+- Player characters (have the [[Stonefoot Compass - DM Notes]], connected to map)
 
 **Security Level:** Very High - Adult black dragon guardian
 
@@ -388,5 +388,5 @@ WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.fil
 #### Related Artifacts
 
 - [[Lorestone of Eryndor]] (parent artifact)
-- [[Stonefoot Compass]] (related to Shard 7 quest)
+- [[Stonefoot Compass - DM Notes]] (related to Shard 7 quest)
 - [[Consecution's Hope]] (transported Shard 7)

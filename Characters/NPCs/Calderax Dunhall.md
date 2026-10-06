@@ -43,11 +43,11 @@ His face has sharp, aristocratic features that could be striking if not for his 
 
 ## Current Situation
 
-Currently residing above The [[Sunset Sail]] tavern in [[Port Damali - DM Notes]], maintaining his cover as a traveling scholar while serving as [[Dreyara Drimvar]]'s spy. Primary mission is to monitor [[Aethor Kalisk]]'s movements and delay [[Obsidian Echoforge]] attempts to acquire new shards. Possesses a letter containing information about a [[Lorestone of Eryndor|Lorestone Shard]], which has led to the current situation involving the [[Stonefoot Compass]].
+Currently residing above The [[Sunset Sail]] tavern in [[Port Damali - DM Notes]], maintaining his cover as a traveling scholar while serving as [[Dreyara Drimvar]]'s spy. Primary mission is to monitor [[Aethor Kalisk]]'s movements and delay [[Obsidian Echoforge]] attempts to acquire new shards. Possesses a letter containing information about a [[Lorestone of Eryndor|Lorestone Shard]], which has led to the current situation involving the [[Stonefoot Compass - DM Notes]].
 
 ## Background
 
-![[calderax-dunhall.jpeg|right|300]] Studied at a small academy in [[Zadash - DM Notes]] before moving to [[Port Zoon]] to pursue independent research on planar anomalies, which eventually led to his recruitment by the [[Obsidian Echoforge]]. Joined the [[Obsidian Echoforge]] about a year ago as a junior researcher in their archives division. Presented himself to [[Aelorin Nightshade]] soon afterwards as an eagar scholar interested in specialized magical theory. About 2-3 months ago he became part of Aelorin's inner circle and a mentee. Shortly after beginning his mentorship with [[Aelorin Nightshade]], he was recruited by [[Dreyara Drimvar]], who recognized his potential value as an informant and manipulated his attraction to her to secure his loyalty.
+![[calderax-dunhall.jpeg|right|300]] Studied at a small academy in [[Zadash - DM Notes]] before moving to [[Port Zoon - DM Notes]] to pursue independent research on planar anomalies, which eventually led to his recruitment by the [[Obsidian Echoforge]]. Joined the [[Obsidian Echoforge]] about a year ago as a junior researcher in their archives division. Presented himself to [[Aelorin Nightshade]] soon afterwards as an eagar scholar interested in specialized magical theory. About 2-3 months ago he became part of Aelorin's inner circle and a mentee. Shortly after beginning his mentorship with [[Aelorin Nightshade]], he was recruited by [[Dreyara Drimvar]], who recognized his potential value as an informant and manipulated his attraction to her to secure his loyalty.
 
 ## Hidden Information
 

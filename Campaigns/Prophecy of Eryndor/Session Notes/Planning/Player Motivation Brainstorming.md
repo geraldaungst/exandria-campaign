@@ -25,7 +25,7 @@ tags:
 7. **A Prophecy Unveiled:** The party encounters a seer or oracle who reveals a prophecy foretelling a great danger that threatens all of Exandria. The prophecy indicates that the party must travel to specific locations in Wildemount to gather allies and resources to combat this threat.
 8. **Economic Hardship:** The Myriad's control over [[Port Damali - DM Notes]]'s economy leads to increased taxes, restrictions on trade, and other hardships that make it difficult for the party to sustain themselves. They realize that they must seek opportunities elsewhere to survive.
 9. **A Call for Aid:** A settlement or community in another region of Wildemount sends a desperate plea for help, describing a crisis that requires the party's unique skills and abilities. The call is urgent, suggesting that lives are at stake if the party doesn't respond quickly.
-10. **The Stonefoot Compass Trade:** The party learns that [[Calderax Dunhall]] is in [[Port Zoon]] and is willing to trade the [[Stonefoot Compass]] for the map that [[Keldar Stonefoot]] has.
+10. **The Stonefoot Compass Trade:** The party learns that [[Calderax Dunhall]] is in [[Port Zoon - DM Notes]] and is willing to trade the [[Stonefoot Compass - DM Notes]] for the map that [[Keldar Stonefoot - DM Notes]] has.
 
 ## Three Ideas to Return the Party to [[The Pudgy Pigeon - DM Notes]]
 

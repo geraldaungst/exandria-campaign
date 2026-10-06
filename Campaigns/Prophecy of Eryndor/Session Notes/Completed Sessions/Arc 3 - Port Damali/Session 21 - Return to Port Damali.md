@@ -32,7 +32,7 @@ tags:
 #### Active Plots
 
 - Plot name: [[Aethor Kalisk's Secret Mission]]
-- Current state: Players have the [[Stonefoot Compass]]
+- Current state: Players have the [[Stonefoot Compass - DM Notes]]
 - Next developments: Aethor needs the Compass to trade to Calderax
 - Involved NPCs: [[Aethor Kalisk|Aethor]], [[Calderax Dunhall]], [[Dreyara Drimvar|Dreyara]]
 

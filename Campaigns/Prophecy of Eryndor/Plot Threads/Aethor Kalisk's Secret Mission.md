@@ -77,13 +77,13 @@ Anyone proficient in Nature would know these creatures are not native to the are
 
 ## Rewards
 
-If they return the compass to Calderax, he will tell them about [[Keldar Stonefoot]] and send them to deliver the compass themselves.
+If they return the compass to Calderax, he will tell them about [[Keldar Stonefoot - DM Notes]] and send them to deliver the compass themselves.
 
 ## NPCs
 
 [[Aethor Kalisk]]
 [[Calderax Dunhall]]
-[[Keldar Stonefoot]]
+[[Keldar Stonefoot - DM Notes]]
 ---
 
 ![[Random NPC Names#Core Information]]

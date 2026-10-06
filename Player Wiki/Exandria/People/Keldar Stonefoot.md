@@ -1,14 +1,14 @@
 ---
-tags:
-  - npc
-  - player-facing
-  - world/exandria
-  - region/menagerie-coast
 aliases:
   - Keldar
 cssclasses:
   - world-exandria
 publish: true
+tags:
+  - npc
+  - player-facing
+  - world/exandria
+  - region/menagerie-coast
 ---
 
 > [!info] Quick Reference
@@ -21,4 +21,4 @@ publish: true
 
 ## Family
 
-- His ancestor Brom Stonefoot crafted the [[Stonefoot Compass]], a Stonefoot family heirloom.
+- His ancestor Brom Stonefoot crafted the [[Stonefoot Compass - DM Notes]], a Stonefoot family heirloom.

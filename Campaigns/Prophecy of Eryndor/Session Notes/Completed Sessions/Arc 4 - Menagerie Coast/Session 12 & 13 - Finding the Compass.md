@@ -13,7 +13,7 @@ tags:
 ## Quick Reference
 
 > [!info] Essential Details
-> - Location(s): Odessloe swamp
+> - Location(s): Othemoor swamp
 > - Active Plots: [[Aethor Kalisk's Secret Mission]]
 > - Key NPCs: [[Eidechse (Amanda Jeane)]] who will become a PC
 > - Previous Session: [[Session 10 & 11 - Goblins at the Bridge]]
