@@ -1,14 +1,14 @@
 ---
-tags:
-  - location
-  - player-facing
-  - world/exandria
-  - region/menagerie-coast
 aliases:
   - The Shrine of Melora
 cssclasses:
   - world-exandria
 publish: true
+tags:
+  - location
+  - player-facing
+  - world/exandria
+  - region/menagerie-coast
 ---
 
 > [!info] Quick Reference
@@ -17,7 +17,7 @@ publish: true
 
 ## Description
 
-The Shrine of Melora is an ancient shrine to Melora, the Wildmother, on a solitary hill east of [[Port Damali]]. Little of the original structure survives.
+The Shrine of Melora is an ancient shrine to [[Melora]], the Wildmother, on a solitary hill east of [[Port Damali]]. Little of the original structure survives.
 
 ## The Site
 
@@ -29,7 +29,7 @@ The Shrine of Melora is an ancient shrine to Melora, the Wildmother, on a solita
 
 ## Rededication
 
-- The [[Malachite Cord]] has undertaken to cleanse and repair the shrine and rededicate it to the Aurora's Ascendant, whom the Cord reveres as the Chosen of Melora.
+- The [[Malachite Cord]] has undertaken to cleanse and repair the shrine and rededicate it to the Aurora's Ascendant, whom the Cord reveres as the Chosen of [[Melora]].
 - Newer celestial carvings, including stars, crescents, and a sunburst, now appear on some of the pillars beside the older carvings.
 
 ## Getting There

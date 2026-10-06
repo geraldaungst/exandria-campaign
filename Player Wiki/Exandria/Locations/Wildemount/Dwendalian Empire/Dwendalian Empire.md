@@ -1,15 +1,15 @@
 ---
-tags:
-  - location
-  - player-facing
-  - world/exandria
-  - region/dwendalian-empire
 aliases:
   - The Empire
   - Dwindalian Empire
 cssclasses:
   - world-exandria
 publish: true
+tags:
+  - location
+  - player-facing
+  - world/exandria
+  - region/dwendalian-empire
 ---
 
 > [!info] Quick Reference
@@ -41,6 +41,7 @@ The Dwendalian Empire rules the western half of Wynandir, on the continent of Wi
 - **Righteous Brand:** The Empire's army, in plate armor of silver and dark crimson.
 - Both are trained at Bladegarden, a city with a large garrison.
 - Garrisons in the mountains of the Marrow Valley guard the frontier against incursions from Xhorhas.
+- Rumors tell of the Volstrucker, said to be the Empire's secret police, made up of spellcasters.
 
 ## Laws
 
@@ -50,7 +51,7 @@ The Dwendalian Empire rules the western half of Wynandir, on the continent of Wi
 ## Religion
 
 - Every temple in the Empire is owned and run by the government.
-- Only approved deities may be worshipped: Bahamut, the Platinum Dragon; Erathis, the Lawbearer; Ioun, the Knowing Mistress; Moradin, the All-Hammer; Pelor, the Dawnfather; and the Raven Queen, the Matron of Ravens.
+- Only approved deities may be worshipped: [[Bahamut]], the Platinum Dragon; Erathis, the Lawbearer; Ioun, the Knowing Mistress; [[Moradin]], the All-Hammer; Pelor, the Dawnfather; and the Raven Queen, the Matron of Ravens.
 - Worship of any other deity is prosecuted as idol worship and punished with imprisonment.
 - Open religious devotion is socially frowned upon, and divine magic is regarded with disdain.
 
@@ -89,3 +90,7 @@ The Dwendalian Empire rules the western half of Wynandir, on the continent of Wi
 
 - [[Bertrand Dwendal]]: King of the Dwendalian Empire
 - [[The Gentleman]]: crime boss who runs the Myriad's operations in Zadash
+
+### Factions
+
+- [[Cerberus Assembly]]: council of the Empire's most powerful mages, which advises the Crown

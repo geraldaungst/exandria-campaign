@@ -1,13 +1,13 @@
 ---
+aliases: []
+cssclasses:
+  - world-exandria
+publish: true
 tags:
   - location
   - player-facing
   - world/exandria
   - region/xhorhas
-aliases: []
-cssclasses:
-  - world-exandria
-publish: true
 ---
 
 > [!info] Quick Reference
@@ -16,7 +16,7 @@ publish: true
 
 ## Description
 
-Rosohna is the capital of the [[Kryn Dynasty]], in northern Xhorhas. Its name means "rebirth." The city is built on the ruins of Ghor Dranas, once a stronghold of the followers of the Betrayer Gods. A magical darkness keeps the sky over the city dim.
+Rosohna is the capital of the [[Kryn Dynasty]], in northern Xhorhas. Its name means "rebirth." The city is built on the ruins of Ghor Dranas, once a stronghold of the followers of the [[Gods of Exandria#The Betrayer Gods|Betrayer Gods]]. A magical darkness keeps the sky over the city dim.
 
 ## Government
 

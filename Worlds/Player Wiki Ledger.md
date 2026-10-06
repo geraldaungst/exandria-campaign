@@ -7,72 +7,72 @@ tags: []
 
 One row per published Exandria note. Claude reads this before every run and does not draft any subject listed here. Keep it in the DM vault, not in `Player Wiki`. Update it after each run, commit, and sync before the next one. A place note that has become a hub gets Type set to Hub.
 
-| Note title                         | Type     | Scope   | Date       | Renamed DM note                               |
-| ---------------------------------- | -------- | ------- | ---------- | --------------------------------------------- |
-| Tal'Dorei                          | Location | T01     | 2026-10-04 | None                                          |
-| Emon                               | Location | T01     | 2026-10-04 | None                                          |
-| Whitestone                         | Location | T01     | 2026-10-04 | None                                          |
-| Shrine of Bahamut                  | Location | T01     | 2026-10-04 | Shrine of Bahamut - DM Notes                  |
-| Tipsy Quorum                       | Location | T01     | 2026-10-04 | Tipsy Quorum - DM Notes                       |
-| Percival de Rolo                   | NPC      | T01     | 2026-10-04 | None                                          |
-| Vex'ahlia de Rolo                  | NPC      | T01     | 2026-10-04 | None                                          |
-| Gnurlsotten's Nosh & Nip           | Location | S01     | 2026-10-04 | Gnurlsotten's Nosh & Nip - DM Notes           |
-| Grent Gnurlsotten                  | NPC      | S01     | 2026-10-04 | Grent Gnurlsotten - DM Notes                  |
-| Cave-Aged Truscan                  | Item     | S01     | 2026-10-04 | none                                          |
-| Olesya Lapidus                     | NPC      | T02     | 2026-10-04 | None                                          |
-| Port Damali                        | Hub      | T02     | 2026-10-04 | Port Damali - DM Notes (already renamed)      |
-| Harmony Hall                       | Location | T03     | 2026-10-04 | Harmony Hall - DM Notes                       |
-| Pearl Shrine                       | Location | T03     | 2026-10-04 | None                                          |
-| Cobalt Soul Archive in Port Damali | Location | T03     | 2026-10-04 | Cobalt Soul Archive in Port Damali - DM Notes |
-| The Pudgy Pigeon                   | Location | T03     | 2026-10-04 | The Pudgy Pigeon - DM Notes                   |
-| Staff and Scimitar                 | Location | T03     | 2026-10-04 | None                                          |
-| Celunor's Collection               | Location | T03     | 2026-10-04 | Celunor's Collection - DM Notes               |
-| Ilya's Realm Shop                  | Location | T03     | 2026-10-04 | Ilya's Realm Shop - DM Notes                  |
-| New Temple of Moradin              | Location | T03     | 2026-10-04 | New Temple of Moradin - DM Notes              |
-| Aelorin's Headquarters             | Location | T03     | 2026-10-04 | Aelorin's Headquarters - DM Notes             |
-| Zhelezo                            | Faction  | T04     | 2026-10-05 | None                                          |
-| Myriad                             | Faction  | T04     | 2026-10-05 | None                                          |
-| Clasp                              | Faction  | T04     | 2026-10-05 | None                                          |
-| Menagerie Coast                    | Hub      | T05     | 2026-10-06 | None                                          |
-| Nicodranas                         | Location | T05     | 2026-10-06 | None                                          |
-| Port Zoon                          | Location | T05     | 2026-10-06 | Port Zoon - DM Notes                          |
-| Keldar Stonefoot                   | NPC      | T05     | 2026-10-06 | Keldar Stonefoot - DM Notes                   |
-| Marion Lavorre                     | NPC      | T05     | 2026-10-06 | None                                          |
-| Tyodan River                       | Location | T06–T08 | 2026-10-06 | None                                          |
-| Othemoor                           | Location | T06–T08 | 2026-10-06 | None                                          |
-| Shrine of Melora                   | Location | T06–T08 | 2026-10-06 | Shrine of Melora - DM Notes                   |
-| Cyrios Mountains                   | Hub | T06–T08 | 2026-10-06 | None                                          |
-| Cloudfang Keep                     | Location | T09     | 2026-10-06 | Cloudfang Keep - DM Notes (already renamed)   |
-| Lady Emer                          | NPC      | T09     | 2026-10-06 | Lady Emer - DM Notes                          |
-| Vaud Qalix                         | NPC      | T09     | 2026-10-06 | Vaud Qalix - DM Notes                         |
+| Note title                         | Type     | Scope   | Date       | Renamed DM note                                               |
+| ---------------------------------- | -------- | ------- | ---------- | ------------------------------------------------------------- |
+| Tal'Dorei                          | Location | T01     | 2026-10-04 | None                                                          |
+| Emon                               | Location | T01     | 2026-10-04 | None                                                          |
+| Whitestone                         | Location | T01     | 2026-10-04 | None                                                          |
+| Shrine of Bahamut                  | Location | T01     | 2026-10-04 | Shrine of Bahamut - DM Notes                                  |
+| Tipsy Quorum                       | Location | T01     | 2026-10-04 | Tipsy Quorum - DM Notes                                       |
+| Percival de Rolo                   | NPC      | T01     | 2026-10-04 | None                                                          |
+| Vex'ahlia de Rolo                  | NPC      | T01     | 2026-10-04 | None                                                          |
+| Gnurlsotten's Nosh & Nip           | Location | S01     | 2026-10-04 | Gnurlsotten's Nosh & Nip - DM Notes                           |
+| Grent Gnurlsotten                  | NPC      | S01     | 2026-10-04 | Grent Gnurlsotten - DM Notes                                  |
+| Cave-Aged Truscan                  | Item     | S01     | 2026-10-04 | none                                                          |
+| Olesya Lapidus                     | NPC      | T02     | 2026-10-04 | None                                                          |
+| Port Damali                        | Hub      | T02     | 2026-10-04 | Port Damali - DM Notes (already renamed)                      |
+| Harmony Hall                       | Location | T03     | 2026-10-04 | Harmony Hall - DM Notes                                       |
+| Pearl Shrine                       | Location | T03     | 2026-10-04 | None                                                          |
+| Cobalt Soul Archive in Port Damali | Location | T03     | 2026-10-04 | Cobalt Soul Archive in Port Damali - DM Notes                 |
+| The Pudgy Pigeon                   | Location | T03     | 2026-10-04 | The Pudgy Pigeon - DM Notes                                   |
+| Staff and Scimitar                 | Location | T03     | 2026-10-04 | None                                                          |
+| Celunor's Collection               | Location | T03     | 2026-10-04 | Celunor's Collection - DM Notes                               |
+| Ilya's Realm Shop                  | Location | T03     | 2026-10-04 | Ilya's Realm Shop - DM Notes                                  |
+| New Temple of Moradin              | Location | T03     | 2026-10-04 | New Temple of Moradin - DM Notes                              |
+| Aelorin's Headquarters             | Location | T03     | 2026-10-04 | Aelorin's Headquarters - DM Notes                             |
+| Zhelezo                            | Faction  | T04     | 2026-10-05 | None                                                          |
+| Myriad                             | Faction  | T04     | 2026-10-05 | None                                                          |
+| Clasp                              | Faction  | T04     | 2026-10-05 | None                                                          |
+| Menagerie Coast                    | Hub      | T05     | 2026-10-06 | None                                                          |
+| Nicodranas                         | Location | T05     | 2026-10-06 | None                                                          |
+| Port Zoon                          | Location | T05     | 2026-10-06 | Port Zoon - DM Notes                                          |
+| Keldar Stonefoot                   | NPC      | T05     | 2026-10-06 | Keldar Stonefoot - DM Notes                                   |
+| Marion Lavorre                     | NPC      | T05     | 2026-10-06 | None                                                          |
+| Tyodan River                       | Location | T06–T08 | 2026-10-06 | None                                                          |
+| Othemoor                           | Location | T06–T08 | 2026-10-06 | None                                                          |
+| Shrine of Melora                   | Location | T06–T08 | 2026-10-06 | Shrine of Melora - DM Notes                                   |
+| Cyrios Mountains                   | Hub      | T06–T08 | 2026-10-06 | None                                                          |
+| Cloudfang Keep                     | Location | T09     | 2026-10-06 | Cloudfang Keep - DM Notes (already renamed)                   |
+| Lady Emer                          | NPC      | T09     | 2026-10-06 | Lady Emer - DM Notes                                          |
+| Vaud Qalix                         | NPC      | T09     | 2026-10-06 | Vaud Qalix - DM Notes                                         |
 | Monastery of Dimensional Harmony   | Location | T10     | 2026-10-06 | Monastery of Dimensional Harmony - DM Notes (already renamed) |
-| Brother Kelmen                     | NPC      | T10     | 2026-10-06 | None                                          |
-| Truscan Vale                       | Hub      | T11–T12 | 2026-10-06 | None                                          |
-| Deastok                            | Location | T11–T12 | 2026-10-06 | None                                          |
-| Shaded Bough                       | Location | T11–T12 | 2026-10-06 | None                                          |
-| White Peak Inn                     | Location | T11–T12 | 2026-10-06 | None                                          |
-| Temple of Bahamut in Deastok       | Location | T11–T12 | 2026-10-06 | None                                          |
-| Kamordah                           | Location | T11–T12 | 2026-10-06 | None                                          |
-| Truscan Family                     | Faction  | T11–T12 | 2026-10-06 | None                                          |
-| Dwendalian Empire                  | Hub      | T13–T14 | 2026-10-06 | Dwendalian Empire - DM Notes (already renamed) |
-| Rexxentrum                         | Location | T13–T14 | 2026-10-06 | Rexxentrum - DM Notes (already renamed)       |
-| Zadash                             | Location | T13–T14 | 2026-10-06 | Zadash - DM Notes (already renamed)           |
-| Bertrand Dwendal                   | NPC      | T13–T14 | 2026-10-06 | None                                          |
-| The Gentleman                      | NPC      | T13–T14 | 2026-10-06 | None                                          |
-| Xhorhas                            | Hub      | T13–T14 | 2026-10-06 | None                                          |
-| Rosohna                            | Location | T13–T14 | 2026-10-06 | None                                          |
-| Xarzith Kitril                     | Location | T13–T14 | 2026-10-06 | Xarzith Kitril - DM Notes (already renamed)   |
-| Kryn Dynasty                       | Faction  | T13–T14 | 2026-10-06 | Kryn Dynasty - DM Notes                       |
-| Leylas Kryn                        | NPC      | T13–T14 | 2026-10-06 | None                                          |
-| Greying Wildlands                  | Location | T15–E07 | 2026-10-06 | None                                          |
-| Savalirwood                        | Location | T15–E07 | 2026-10-06 | Savalirwood - DM Notes                        |
-| Ruins of Molaesmyr                 | Location | T15–E07 | 2026-10-06 | Ruins of Molaesmyr - DM Notes                 |
-| Planar Rifts                       | Lore     | T15–E07 | 2026-10-06 | None                                          |
-| Obsidian Echoforge | Faction | E01–E06 | 2026-10-06 | Obsidian Echoforge - DM Notes |
-| Malachite Cord | Faction | E01–E06 | 2026-10-06 | Malachite Cord - DM Notes (already renamed) |
-| Emissaries of the Sunfall | Faction | E01–E06 | 2026-10-06 | Emissaries of the Sunfall - DM Notes |
-| Lorestone of Eryndor | Item | E01–E06 | 2026-10-06 | Lorestone of Eryndor - DM Notes (already renamed) |
-| Prophecy of Eryndor | Lore | E01–E06 | 2026-10-06 | None |
+| Brother Kelmen                     | NPC      | T10     | 2026-10-06 | None                                                          |
+| Truscan Vale                       | Hub      | T11–T12 | 2026-10-06 | None                                                          |
+| Deastok                            | Location | T11–T12 | 2026-10-06 | None                                                          |
+| Shaded Bough                       | Location | T11–T12 | 2026-10-06 | None                                                          |
+| White Peak Inn                     | Location | T11–T12 | 2026-10-06 | None                                                          |
+| Temple of Bahamut in Deastok       | Location | T11–T12 | 2026-10-06 | None                                                          |
+| Kamordah                           | Location | T11–T12 | 2026-10-06 | None                                                          |
+| Truscan Family                     | Faction  | T11–T12 | 2026-10-06 | None                                                          |
+| Dwendalian Empire                  | Hub      | T13–T14 | 2026-10-06 | Dwendalian Empire - DM Notes (already renamed)                |
+| Rexxentrum                         | Location | T13–T14 | 2026-10-06 | Rexxentrum - DM Notes (already renamed)                       |
+| Zadash                             | Location | T13–T14 | 2026-10-06 | Zadash - DM Notes (already renamed)                           |
+| Bertrand Dwendal                   | NPC      | T13–T14 | 2026-10-06 | None                                                          |
+| The Gentleman                      | NPC      | T13–T14 | 2026-10-06 | None                                                          |
+| Xhorhas                            | Hub      | T13–T14 | 2026-10-06 | None                                                          |
+| Rosohna                            | Location | T13–T14 | 2026-10-06 | None                                                          |
+| Xarzith Kitril                     | Location | T13–T14 | 2026-10-06 | Xarzith Kitril - DM Notes (already renamed)                   |
+| Kryn Dynasty                       | Faction  | T13–T14 | 2026-10-06 | Kryn Dynasty - DM Notes                                       |
+| Leylas Kryn                        | NPC      | T13–T14 | 2026-10-06 | None                                                          |
+| Greying Wildlands                  | Location | T15–E07 | 2026-10-06 | None                                                          |
+| Savalirwood                        | Location | T15–E07 | 2026-10-06 | Savalirwood - DM Notes                                        |
+| Ruins of Molaesmyr                 | Location | T15–E07 | 2026-10-06 | Ruins of Molaesmyr - DM Notes                                 |
+| Planar Rifts                       | Lore     | T15–E07 | 2026-10-06 | None                                                          |
+| Obsidian Echoforge                 | Faction  | E01–E06 | 2026-10-06 | Obsidian Echoforge - DM Notes                                 |
+| Malachite Cord                     | Faction  | E01–E06 | 2026-10-06 | Malachite Cord - DM Notes (already renamed)                   |
+| Emissaries of the Sunfall          | Faction  | E01–E06 | 2026-10-06 | Emissaries of the Sunfall - DM Notes                          |
+| Lorestone of Eryndor               | Item     | E01–E06 | 2026-10-06 | Lorestone of Eryndor - DM Notes (already renamed)             |
+| Prophecy of Eryndor                | Lore     | E01–E06 | 2026-10-06 | None                                                          |
 
 ## Standing Decisions
 
@@ -92,6 +92,7 @@ Decisions from earlier runs that apply to every future run. Source and run in br
 - The planes get no general note. D&D rules knowledge stays off the wiki. A plane gets a note only when the party visits it and learns about it there. [Gerald, T15–E07]
 - Don't mention the Ashari until Gerald says otherwise. [Gerald, T15–E07]
 - Where the players' notes give dates that conflict with the vault or canon, default to publishing the vault's figures. [Gerald, T15–E07]
+- Moradin's title is spelled "All-Hammer" in all player notes, including in place names such as the Hearth of the All-Hammer. "Allhammer" stays as an alias only. [Gerald, E02–E03]
 
 ### Sources and classification
 
@@ -112,6 +113,9 @@ Decisions from earlier runs that apply to every future run. Source and run in br
 - Rift lore is published only when the party has experienced it or been told it in play. Documents the party holds but hasn't read in play, such as Lady Emer's research, stay off the wiki until they come up at the table. [Gerald, T15–E07]
 - Lorestone shards are never referred to by the DM's shard numbers. Public shard names follow the archaeological findspot convention ("the Marquet fragment"). A shard is named on the wiki only once the party knows where it was found. [Gerald, E01–E06]
 - The Luxon Beacon decision covers item descriptions too. A property the party hasn't noticed, such as a shard's Temporal Resonance, stays off the wiki even if an identify spell technically revealed it. [Gerald, E01–E06]
+- The Cobalt Soul's shard in Rexxentrum stays off every note until the party confirms it independently. [Gerald, E02–E03]
+- The Volstrucker get one hedged line in the Dwendalian Empire note and no page. Never tie them to the Cerberus Assembly or describe them as running the government. [Gerald, E02–E03]
+- Uk'otoa's legend (created by Zehir, once the Ki'Nau's patron, sealed beneath the Lucidian Ocean) is general knowledge. [Gerald, E02–E03]
 
 ### Scope and note shape
 

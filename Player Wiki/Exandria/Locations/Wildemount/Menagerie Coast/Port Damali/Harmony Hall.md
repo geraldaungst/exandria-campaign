@@ -1,9 +1,4 @@
 ---
-tags:
-  - location
-  - player-facing
-  - world/exandria
-  - region/menagerie-coast
 aliases:
   - The Mallow
   - Coriander & Mallow
@@ -11,6 +6,11 @@ aliases:
 cssclasses:
   - world-exandria
 publish: true
+tags:
+  - location
+  - player-facing
+  - world/exandria
+  - region/menagerie-coast
 ---
 
 > [!info] Quick Reference
@@ -25,4 +25,4 @@ Harmony Hall is a dinner theater in Port Damali. Guests dine while watching live
 
 - The building once housed the Coriander & Mallow Exchange Company, a brothel.
 - After a raid on the brothel, its madam converted the building into a dinner theater.
-- The [[Pearl Shrine]], Port Damali's temple to Avandra, supported the conversion with funds, volunteers, and guidance.
+- The [[Pearl Shrine]], Port Damali's temple to [[Avandra]], supported the conversion with funds, volunteers, and guidance.

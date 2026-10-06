@@ -59,7 +59,7 @@ The Menagerie Coast runs the length of Wildemount's southwestern shore along the
 - [[Othemoor]]: perilous marsh inland on the coast
 - [[Port Damali]]: largest city on Wildemount's western coast, where the Tyodan River meets the Lucidian Ocean; its page lists the city's notable places and people
 - [[Port Zoon]]: industrial city known for its powerful crafting guilds
-- [[Shrine of Melora]]: ancient hilltop shrine to the Wildmother east of Port Damali
+- [[Shrine of Melora]]: ancient hilltop shrine to the [[Melora|Wildmother]] east of Port Damali
 - [[Tyodan River]]: river that meets the ocean at Port Damali, crossed by a stone bridge at a waterfall
 
 ### People

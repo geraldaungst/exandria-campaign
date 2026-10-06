@@ -1,14 +1,14 @@
 ---
-tags:
-  - location
-  - player-facing
-  - world/exandria
-  - region/menagerie-coast
 aliases:
   - The Pearl Shrine
 cssclasses:
   - world-exandria
 publish: true
+tags:
+  - location
+  - player-facing
+  - world/exandria
+  - region/menagerie-coast
 ---
 
 > [!info] Quick Reference
@@ -17,7 +17,7 @@ publish: true
 
 ## Description
 
-The Pearl Shrine is a temple to Avandra, the Changebringer, in the Crescents ward of Port Damali.
+The Pearl Shrine is a temple to [[Avandra]], the Changebringer, in the Crescents ward of Port Damali.
 
 ## History
 

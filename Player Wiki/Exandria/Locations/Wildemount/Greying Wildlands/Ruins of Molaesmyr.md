@@ -1,14 +1,14 @@
 ---
-tags:
-  - location
-  - player-facing
-  - world/exandria
-  - region/greying-wildlands
 aliases:
   - Molaesmyr
 cssclasses:
   - world-exandria
 publish: true
+tags:
+  - location
+  - player-facing
+  - world/exandria
+  - region/greying-wildlands
 ---
 
 > [!info] Quick Reference

@@ -1,13 +1,13 @@
 ---
+aliases: []
+cssclasses:
+  - world-exandria
+publish: true
 tags:
   - location
   - player-facing
   - world/exandria
   - region/taldorei
-aliases: []
-cssclasses:
-  - world-exandria
-publish: true
 ---
 
 > [!info] Quick Reference

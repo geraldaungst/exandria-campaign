@@ -1,13 +1,13 @@
 ---
+aliases: []
+cssclasses:
+  - world-exandria
+publish: true
 tags:
   - location
   - player-facing
   - world/exandria
   - region/dwendalian-empire
-aliases: []
-cssclasses:
-  - world-exandria
-publish: true
 ---
 
 > [!info] Quick Reference
@@ -43,7 +43,7 @@ About 89,000 people live in Zadash: roughly 70 percent human, 11 percent halflin
 - **Triumph Chime:** A seven-story former temple and belfry, hollowed out and filled with gambling halls, bars, inn rooms, and a brothel. Each floor is built of a different colored stone, and silk banners hang from the outside.
 - **Pillow Trove:** The largest inn in Zadash, expensive, and popular with diplomats and ambassadors.
 - **Ossuary Gates:** A vast, multilayered catacomb graveyard used by the city's leading families. At its center stands the Raven's Den, a shrine to the Matron of Ravens, with a black obsidian statue whose face is a white porcelain mask.
-- **Hearth of the Allhammer:** A domed iron shrine to the All-Hammer on the north side of the Pentamarket, with a great forge and anvil inside.
+- **Hearth of the All-Hammer:** A domed iron shrine to the [[Moradin|All-Hammer]] on the north side of the Pentamarket, with a great forge and anvil inside.
 - **King's Hall:** The seat of the city's administration, where the lawmaster presides.
 - **Umber Dungeon:** The city jail.
 

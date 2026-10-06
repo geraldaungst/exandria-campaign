@@ -1,14 +1,14 @@
 ---
-tags:
-  - location
-  - player-facing
-  - world/exandria
-  - region/menagerie-coast
 aliases:
   - Temple of Moradin
 cssclasses:
   - world-exandria
 publish: true
+tags:
+  - location
+  - player-facing
+  - world/exandria
+  - region/menagerie-coast
 ---
 
 > [!info] Quick Reference
@@ -17,7 +17,7 @@ publish: true
 
 ## Description
 
-The New Temple of Moradin is a temple to Moradin, the Allhammer, in the northwest of the Crescents ward, not far from Port Damali's skyport. Its builders are dwarves from Tal'Dorei.
+The New Temple of Moradin is a temple to [[Moradin]], the All-Hammer, in the northwest of the Crescents ward, not far from Port Damali's skyport. Its builders are dwarves from Tal'Dorei.
 
 ## History
 

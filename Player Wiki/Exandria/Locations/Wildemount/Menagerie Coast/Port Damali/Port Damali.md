@@ -33,7 +33,7 @@ About 82,000 people live in the city. Roughly half are human, with large numbers
 
 - **Tumbledowns:** Home to most of the city's people, in cramped houses of every style: clay domes, thatched huts, and wooden shacks along winding streets. Several small temples stand here.
 - **Beaded Alley:** The center of general trade. Cords hung with beads and streamers stretch over each intersection, and performers work the crowds.
-- **Crescents:** An affluent ward of rival guild families and well-connected nobles. It takes its name from seven large crescent-moon statues, a gift from the Alkamar family at the city's founding. The [[Pearl Shrine]], a temple to Avandra, stands here.
+- **Crescents:** An affluent ward of rival guild families and well-connected nobles. It takes its name from seven large crescent-moon statues, a gift from the Alkamar family at the city's founding. The [[Pearl Shrine]], a temple to [[Avandra]], stands here.
 - **Gilded Esplanade:** The city's most extravagant ward. Its streets are lined with celebrated artists and performers and with markets of expensive goods and imports. It holds the Exalted Collection Auction House, venues for the city's festivals, and the skyport.
 - **Larboard Light:** The great harbor along the city's southern edge, an upscale dockside ward where dozens of ships arrive each day. The office of the marquis stands at its northern end.
 
@@ -78,7 +78,7 @@ About 82,000 people live in the city. Roughly half are human, with large numbers
 - [[Cobalt Soul Archive in Port Damali]]: the Cobalt Soul's library and archive in the city
 - [[Harmony Hall]]: dinner theater in a former brothel
 - [[Ilya's Realm Shop]]: high-end magic shop owned by a retired adventurer
-- [[New Temple of Moradin]]: dwarven temple to Moradin in the Crescents, built over Ki'Nau burial crypts
+- [[New Temple of Moradin]]: dwarven temple to [[Moradin]] in the Crescents, built over Ki'Nau burial crypts
 - [[Pearl Shrine]]: temple to Avandra in the Crescents
 - [[Staff and Scimitar]]: dockside tavern in the Larboard Light
 - [[The Pudgy Pigeon]]: inn and tavern with rooms to rent
