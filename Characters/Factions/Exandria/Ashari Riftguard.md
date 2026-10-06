@@ -13,7 +13,7 @@ tags:
 
 ## Goals
 
-- Long-Term: Prevent the rifts from forming and prevent the [[Emissaries of the Sunfall|Emissaries]] from constructing a permanent door.
+- Long-Term: Prevent the rifts from forming and prevent the [[Emissaries of the Sunfall - DM Notes|Emissaries]] from constructing a permanent door.
 - Medium-Term: Researching the [[01 The Prophecy|Prophecy]]
 
 The Ashari are extremely concerned about the potential for opening new rifts. They were the people who arose to seal the rifts formed at the last eclipse. They are adamantly opposed to the idea of a permanent door, but they are not allied with either of the other two groups (yet) since they do not have enough information to know if [[Aveqtaro Thaan]] is sincere or not.

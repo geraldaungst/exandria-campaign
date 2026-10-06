@@ -20,7 +20,7 @@ tags:
 >
 > Centuries later, a Firbolg scholar named [[Lys Willowwhisper]], driven by dreams of a shimmering disc and echoing chants of a prophecy, began an expedition that would become the [[Legacy of the Seekers]]. After years of piecing together fragmented tales and ancient maps, Lys, accompanied by a team of adventurers, managed to uncover the obscured entrance to what once was the Nightshade Caverns. They finally found the first fragment of the disc. Hungry for the rest of the prophecy and understanding its gravity, Lys began a relentless quest to find the other pieces.
 >
-> Over the next four hundred years, The Seekers of Eryndor's Echo (later known as the [[Obsidian Echoforge]]) grew in number and dedication.
+> Over the next four hundred years, The Seekers of Eryndor's Echo (later known as the [[Obsidian Echoforge - DM Notes]]) grew in number and dedication.
 >
 > *For complete history, see [[Legacy of the Seekers]].*
 

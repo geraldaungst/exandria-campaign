@@ -33,9 +33,9 @@ tags:
 | Leader | Era | Notable Achievements | Legacy |
 |--------|-----|---------------------|---------|
 | Lorion Lightseer | Founding | Created faction philosophy | Established reverence-based approach |
-| Neris Solbane | Age of Aggression | Theorized obsidian shard power | Led assault on [[Obsidian Echoforge]] |
+| Neris Solbane | Age of Aggression | Theorized obsidian shard power | Led assault on [[Obsidian Echoforge - DM Notes]] |
 | Talrek Sunshadow | Shadow Era | Built network of allies | Established covert operations model |
-| [[Valen Elderguard]] | Present | Peace overtures to [[Obsidian Echoforge]] | Public diplomacy, secret operations |
+| [[Valen Elderguard]] | Present | Peace overtures to [[Obsidian Echoforge - DM Notes]] | Public diplomacy, secret operations |
 
 ### Notable Members
 
@@ -84,7 +84,7 @@ Regional organization with distributed network structure
 
 ### Rivals
 
-- [[Obsidian Echoforge]] - Complex adversarial relationship
+- [[Obsidian Echoforge - DM Notes]] - Complex adversarial relationship
   - Historical enemies after [[The Massacre]]
   - Current public stance of diplomatic cooperation
   - Secret continued opposition under [[Valen Elderguard]]
@@ -100,7 +100,7 @@ Regional organization with distributed network structure
 
 #### The Breaking Point
 
-- [[The Massacre|Massacre]] at [[Obsidian Echoforge]] gathering
+- [[The Massacre|Massacre]] at [[Obsidian Echoforge - DM Notes]] gathering
 - Neris Solbane led assault believing group was close to assembling major portion of artifacts
 - Resulted in deaths and loss of gathered shards
 - Created lasting enmity between organizations
@@ -143,29 +143,29 @@ The Massacre had profound internal consequences:
 
 ### Active Operations
 
-- Maintenance of peaceful facade with [[Obsidian Echoforge]]
-- Secret monitoring of [[Obsidian Echoforge]] activities
+- Maintenance of peaceful facade with [[Obsidian Echoforge - DM Notes]]
+- Secret monitoring of [[Obsidian Echoforge - DM Notes]] activities
 - Covert acquisition of artifacts when possible
 - [[Sessions 1 to 3 - The Skyship]] operation (unknown to most members)
 
 ### Ongoing Conflicts
 
 - Internal tension between true believers in peace and secret operatives
-- Hidden agenda vs public cooperation with [[Obsidian Echoforge]]
+- Hidden agenda vs public cooperation with [[Obsidian Echoforge - DM Notes]]
 - Risk of exposure of [[Valen Elderguard]]'s duplicity
 
 ## Future Developments
 
 ### Short-term Goals
 
-- Track [[Aethor Kalisk]]'s movements in [[Port Damali - DM Notes]] to determine if he's transporting shards
-- Establish surveillance on the [[Obsidian Echoforge]]'s [[Palma Flora]] facility, focusing on security measures around their shard collection
+- Track [[Aethor Kalisk - DM Notes]]'s movements in [[Port Damali - DM Notes]] to determine if he's transporting shards
+- Establish surveillance on the [[Obsidian Echoforge - DM Notes]]'s [[Palma Flora]] facility, focusing on security measures around their shard collection
 - Gather intelligence on [[Lyren Willowwhisper]]'s daily routines and vulnerabilities
 - Maintain cover operations at [[Scroll and Scribe]] to monitor [[Archivist Ovedo]]'s activities
 - Establish secure supply routes between [[Rexxentrum - DM Notes]] and the Ruins of Draconia
 - Screen potential recruits for [[Valen Elderguard]]'s "special operations" team
 - Investigate any unusual arcane activity near known rift locations
-- Monitor [[Obsidian Echoforge]] communications for mentions of the [[Harmonic Planar Conduit]] components
+- Monitor [[Obsidian Echoforge - DM Notes]] communications for mentions of the [[Harmonic Planar Conduit]] components
 
 ### Medium-term Goals
 

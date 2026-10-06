@@ -84,7 +84,7 @@ The shrine to Melora has recently seen new additions made by the Malachite Cord,
 
 Malachite Cord members present here:
 
-[[Rinneth Starsong]]
+[[Rinneth Starsong - DM Notes]]
 
 [[Radelia Caphax]]
 

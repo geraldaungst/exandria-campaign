@@ -18,15 +18,15 @@ tags:
 | Ashari Riftguard                                  | Protect rifts                     | Potential ally in studying rifts; conflict over Lorestone use                                                                        | Aligned in protecting rifts; conflict over methods                                                                                    | Conflict over rift control and exploitation                                   | Conflict over rift exploitation                                          |
 | Scars of Scale and Tooth (Xarzith Kitril Council) | Govern Draconia                   | Unaware of conflict                                                                                                                  | Unaware of conflict                                                                                                                   | Unaware of conflict                                                           | Qalix uses position for personal goals                                   |
 
-[[Obsidian Echoforge]]
+[[Obsidian Echoforge - DM Notes]]
 
 - Trying to seal the rifts with the Lorestone.
 [[Malachite Cord - DM Notes]]
-- Trying to stop the [[Obsidian Echoforge]] from assembling the Lorestone, which they think will cause further catastrophe. (They are partly correct--the Lorestone alone will indeed cause catastrophe.)
+- Trying to stop the [[Obsidian Echoforge - DM Notes]] from assembling the Lorestone, which they think will cause further catastrophe. (They are partly correct--the Lorestone alone will indeed cause catastrophe.)
 - Trying to find and cure the corruption in the Savalirwood and think it is spreading across Exandria via the rifts. (They are correct.)
-- Is not yet aware of the [[Emissaries of the Sunfall|Emissaries]] or [[Vaud Qalix - DM Notes]].
-[[Emissaries of the Sunfall]]
-- Want to find a way to harness the power of the rifts for their own use. Originally directly opposed to the [[Obsidian Echoforge]], in recent years they have begun trying to work together.
+- Is not yet aware of the [[Emissaries of the Sunfall - DM Notes|Emissaries]] or [[Vaud Qalix - DM Notes]].
+[[Emissaries of the Sunfall - DM Notes]]
+- Want to find a way to harness the power of the rifts for their own use. Originally directly opposed to the [[Obsidian Echoforge - DM Notes]], in recent years they have begun trying to work together.
 - A splinter cell within the group, led by [[Valen Elderguard]] and financed by [[Vaud Qalix - DM Notes|Vaud Qalix]] is opposed to this partnership and is secretly working to undermine the work.
 [[Ashari Riftguard]]
 [[Cobalt Soul - DM Notes]]
@@ -34,5 +34,5 @@ tags:
 [[Dwendalian Empire - DM Notes]]
 [[Kryn Dynasty - DM Notes]]
 [[Ring of Three]]
-[[Obsidian Echoforge]]
+[[Obsidian Echoforge - DM Notes]]
 [[Other Factions with Interest in the Rifts]]

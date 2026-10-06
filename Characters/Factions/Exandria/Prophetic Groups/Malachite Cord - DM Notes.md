@@ -21,9 +21,9 @@ tags:
 
 ### Leadership Structure
 
-Leader: [[Rinneth Starsong]]
+Leader: [[Rinneth Starsong - DM Notes]]
 
-- **[[Rinneth Starsong]]** As the leader, [[Rinneth Starsong|Rinneth]] is the heart and soul of the Malachite Cord. Her gentle demeanor, iron will, and cryptic visions are believed to be an echo of the Aurora's Ascendant's celestial guidance. She leads the Cord with songs that are not only beautiful but are also said to carry fragments of [[Seraphina Amaris (Vicki)|Seraphina]]'s own wisdom and strength.
+- **[[Rinneth Starsong - DM Notes]]** As the leader, [[Rinneth Starsong - DM Notes|Rinneth]] is the heart and soul of the Malachite Cord. Her gentle demeanor, iron will, and cryptic visions are believed to be an echo of the Aurora's Ascendant's celestial guidance. She leads the Cord with songs that are not only beautiful but are also said to carry fragments of [[Seraphina Amaris (Vicki)|Seraphina]]'s own wisdom and strength.
 - **Inner Circle**: This small council includes [[Kael Dren'eth]] and [[Radelia Caphax]], among others, who are not just strategists and advisors but also custodians of the group's history and the legacy of the Aurora's Ascendant. They ensure that every action and mission aligns with the spirit of what they believe [[Seraphina Amaris (Vicki)|Seraphina]] stood for.
 
 ### Notable Members
@@ -93,8 +93,8 @@ Leader: [[Rinneth Starsong]]
 
 ### Rivals
 
-- [[Obsidian Echoforge]] - Similar goals, strong differences of opinion on methods
-- [[Emissaries of the Sunfall]] - Not yet aware of this group, but will likely oppose them when aware
+- [[Obsidian Echoforge - DM Notes]] - Similar goals, strong differences of opinion on methods
+- [[Emissaries of the Sunfall - DM Notes]] - Not yet aware of this group, but will likely oppose them when aware
 - [[Cerberus Assembly - DM Notes]] - clash over magical research methods and artifact handling
 
 ### Neutral Parties
@@ -115,7 +115,7 @@ Group 2 on the [[Sessions 1 to 3 - The Skyship|Skyship]].
 
 ### Ongoing Conflicts
 
-- They know of the [[Obsidian Echoforge]] and the [[01 The Prophecy|Prophecy]].
+- They know of the [[Obsidian Echoforge - DM Notes]] and the [[01 The Prophecy|Prophecy]].
 - The Malachite Cord are terrified of the consequences of the OE activities because they believe that the attempts to seal the rifts will instead rip them larger causing a widespread [[Rupture of the Molaesmyr Fey Crossing|catastrophe not unlike what happened]] in [[Ruins of Molaesmyr - DM Notes|Molaesmyr]] hundreds of years ago.
 
 ## Future Developments
@@ -160,7 +160,7 @@ Group 2 on the [[Sessions 1 to 3 - The Skyship|Skyship]].
 
 ### Years 201-250: The Modern Cord
 
-- **[[Rinneth Starsong|Rinneth]]'s Leadership**: With the ascension of [[Rinneth Starsong]], a new era began. Her prophetic abilities and connection to the celestial forces were seen as a sign of the Aurora's Ascendant's continuing guidance.
+- **[[Rinneth Starsong - DM Notes|Rinneth]]'s Leadership**: With the ascension of [[Rinneth Starsong - DM Notes]], a new era began. Her prophetic abilities and connection to the celestial forces were seen as a sign of the Aurora's Ascendant's continuing guidance.
 - **Focused Activities**: The Cord, now a small but highly effective group, conducts research, covert operations, and strategic alliances, all while maintaining a deep spiritual connection to [[Seraphina Amaris (Vicki)|Seraphina]]'s spirit. They view their mission as a sacred trust, passed down through generations, never straying from the purpose and goals set by their founders.
 
 ## Related Elements

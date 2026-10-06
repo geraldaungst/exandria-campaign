@@ -68,6 +68,11 @@ One row per published Exandria note. Claude reads this before every run and does
 | Savalirwood                        | Location | T15–E07 | 2026-10-06 | Savalirwood - DM Notes                        |
 | Ruins of Molaesmyr                 | Location | T15–E07 | 2026-10-06 | Ruins of Molaesmyr - DM Notes                 |
 | Planar Rifts                       | Lore     | T15–E07 | 2026-10-06 | None                                          |
+| Obsidian Echoforge | Faction | E01–E06 | 2026-10-06 | Obsidian Echoforge - DM Notes |
+| Malachite Cord | Faction | E01–E06 | 2026-10-06 | Malachite Cord - DM Notes (already renamed) |
+| Emissaries of the Sunfall | Faction | E01–E06 | 2026-10-06 | Emissaries of the Sunfall - DM Notes |
+| Lorestone of Eryndor | Item | E01–E06 | 2026-10-06 | Lorestone of Eryndor - DM Notes (already renamed) |
+| Prophecy of Eryndor | Lore | E01–E06 | 2026-10-06 | None |
 
 ## Standing Decisions
 
@@ -105,6 +110,8 @@ Decisions from earlier runs that apply to every future run. Source and run in br
 - A nation's customs of travel go in the nation's note, not a separate lore note. [Gerald, T13–T14]
 - Player notes may name the party, as The Third Act, when their actions affected the world in a significant way, such as defeating a major figure. State the outcome briefly in reference voice, and don't narrate the encounter. Always get confirmation from Gerald since this violates the general principle in the conventions. [Gerald, T15–E07]
 - Rift lore is published only when the party has experienced it or been told it in play. Documents the party holds but hasn't read in play, such as Lady Emer's research, stay off the wiki until they come up at the table. [Gerald, T15–E07]
+- Lorestone shards are never referred to by the DM's shard numbers. Public shard names follow the archaeological findspot convention ("the Marquet fragment"). A shard is named on the wiki only once the party knows where it was found. [Gerald, E01–E06]
+- The Luxon Beacon decision covers item descriptions too. A property the party hasn't noticed, such as a shard's Temporal Resonance, stays off the wiki even if an identify spell technically revealed it. [Gerald, E01–E06]
 
 ### Scope and note shape
 

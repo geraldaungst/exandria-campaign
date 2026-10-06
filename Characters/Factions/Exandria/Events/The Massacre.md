@@ -1,7 +1,7 @@
 ---
 context: Historical faction event
 created: 2025-01-12
-date: 785 PD
+date: 809 PD
 disposition: indifferent
 tags:
   - faction
@@ -14,7 +14,7 @@ tags:
 
 ### The Event
 
-A devastating assault in 809 PD by the [[Emissaries of the Sunfall]] on an [[Obsidian Echoforge]] gathering. This attack occurred during a meeting where Echoforge members believed they would complete assembly of a major portion of the [[Lorestone of Eryndor - DM Notes]].
+A devastating assault in 809 PD by the [[Emissaries of the Sunfall - DM Notes]] on an [[Obsidian Echoforge - DM Notes]] gathering. This attack occurred during a meeting where Echoforge members believed they would complete assembly of a major portion of the [[Lorestone of Eryndor - DM Notes]].
 
 ### Outcomes
 
@@ -55,7 +55,7 @@ The attack was ordered by **Neris Solbane** (then-leader of the Emissaries of th
 
 ### Historical Significance
 
-This event represents a defining moment in both organizations' histories and fundamentally altered the relationship between the [[Obsidian Echoforge]] and [[Emissaries of the Sunfall]], transforming them from rivals into enemies.
+This event represents a defining moment in both organizations' histories and fundamentally altered the relationship between the [[Obsidian Echoforge - DM Notes]] and [[Emissaries of the Sunfall - DM Notes]], transforming them from rivals into enemies.
 
 ## Source Context
 
@@ -65,8 +65,8 @@ Information derived from faction histories of both the Obsidian Echoforge and Em
 
 ### Source Notes
 
-- [[Obsidian Echoforge]]
-- [[Emissaries of the Sunfall]]
+- [[Obsidian Echoforge - DM Notes]]
+- [[Emissaries of the Sunfall - DM Notes]]
 
 ### Related Atomic Notes
 

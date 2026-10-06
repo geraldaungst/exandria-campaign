@@ -82,7 +82,7 @@ An "Owns" list names the subjects a run is responsible for deciding about. It do
   - Owns: the Savalirwood, the Ruins of Molaesmyr as a place, and the Fey crossing as a place; the rifts and the planes; the destruction of Molaesmyr as an event.
   - Leaves to: E01–E06 (factions, the Lorestone, the Prophecy), E04–E05 (Riftcages and other items, confirm).
   - Note: secret-heavy. The standing decision on player characters' backstory places applies.
-- [ ] **E01–E06 The rift factions, the Lorestone of Eryndor, and the Prophecy**
+- [X] **E01–E06 The rift factions, the Lorestone of Eryndor, and the Prophecy**
   - Owns: the Obsidian Echoforge, the Malachite Cord, and the Emissaries of the Sunfall, as publicly known (confirm); the Lorestone of Eryndor, its shards, and the Prophecy.
   - Leaves to: E04–E05 (the Luxon Beacon, the Stonefoot Compass), T15–E07 (rifts).
   - Note: the campaign's central secrets. Expect a large held-back list.

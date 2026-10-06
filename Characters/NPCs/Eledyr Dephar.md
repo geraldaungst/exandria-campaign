@@ -1,6 +1,6 @@
 ---
 affiliations:
-  - "[[Emissaries of the Sunfall]]"
+  - "[[Emissaries of the Sunfall - DM Notes]]"
 aliases:
   - Eledyr
 current_location: "[[Scroll and Scribe]]"
@@ -55,7 +55,7 @@ tags:
 
 ## Current Situation
 
-Currently operating dual identities in Rexxentrum. As an academic researcher, he frequents the Scroll and Scribe and various libraries investigating prophecy-related inquiries. As an Emissary operative, he meets with [[Valen Elderguard]] at the secret townhouse to plan operations against rival factions. Recently arrived to begin comprehensive intelligence gathering on the sudden interest in ancient prophecies, with particular focus on tracking [[Obsidian Echoforge]] activities and identifying other competing factions.
+Currently operating dual identities in Rexxentrum. As an academic researcher, he frequents the Scroll and Scribe and various libraries investigating prophecy-related inquiries. As an Emissary operative, he meets with [[Valen Elderguard]] at the secret townhouse to plan operations against rival factions. Recently arrived to begin comprehensive intelligence gathering on the sudden interest in ancient prophecies, with particular focus on tracking [[Obsidian Echoforge - DM Notes]] activities and identifying other competing factions.
 
 ## Background
 
@@ -83,7 +83,7 @@ Eledyr Dephar was born to a human mother and an elven father, growing up amidst 
 >     - Reports directly to [[Valen Elderguard]] via coded communications
 >     - Has established academic credentials that can withstand scrutiny
 >     - Maintains emergency escape routes and false identities
->     - **Secret Recruitment:** Was recruited by [[Valen Elderguard]] to use Clasp connections to help the [[Emissaries of the Sunfall]]
+>     - **Secret Recruitment:** Was recruited by [[Valen Elderguard]] to use Clasp connections to help the [[Emissaries of the Sunfall - DM Notes]]
 > - **Future plans:** [[Eledyr's 3-Month Operation Checklist]]
 >     - Phase 1: Map all competing factions and their capabilities
 >     - Phase 2: Identify most vulnerable operations for sabotage/infiltration
@@ -117,7 +117,7 @@ Eledyr Dephar was born to a human mother and an elven father, growing up amidst 
 > 1. The existence of a [[01 The Prophecy|prophecy]] that speaks of three symbols or factions (Crown, Shield, and Tree) and their roles in Exandria's fate.
 > 2. The [[Lorestone of Eryndor - DM Notes]] is a 2-foot diameter obsidian disc engraved with the Prophecy in an ancient dialect of Elvish.
 > 3. The Lorestone was shattered during the Calamity, and its pieces were scattered across the Shattered Teeth and beyond.
-> 4. The [[Obsidian Echoforge]], founded by Lys Willowwhisper, has been searching for the Lorestone pieces for centuries.
+> 4. The [[Obsidian Echoforge - DM Notes]], founded by Lys Willowwhisper, has been searching for the Lorestone pieces for centuries.
 > 5. The Obsidian Echoforge believes that the Lorestone is a "beacon" mentioned in the prophecy that can seal rifts appearing across Wildemount.
 > 6. Individual shards of the Lorestone have magical properties, including the ability to sense nearby planar rifts and grant phase-shifting abilities to their bearers.
 > 7. The Obsidian Echoforge is represented by the "Tree" symbol in the prophecy and is actively seeking to assemble the Lorestone.

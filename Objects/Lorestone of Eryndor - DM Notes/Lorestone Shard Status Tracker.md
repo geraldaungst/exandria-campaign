@@ -45,13 +45,13 @@ The [[Lorestone of Eryndor - DM Notes]] was shattered into 8 pieces. This tracke
 
 **Known By:**
 
-- [[Obsidian Echoforge]] (possession)
+- [[Obsidian Echoforge - DM Notes]] (possession)
 - [[Malachite Cord - DM Notes]] (aware of Echoforge holdings)
-- Player characters (informed by [[Aethor Kalisk]])
+- Player characters (informed by [[Aethor Kalisk - DM Notes]])
 
 **Pursued By:**
 
-- [[Emissaries of the Sunfall]] (seeking to steal/acquire)
+- [[Emissaries of the Sunfall - DM Notes]] (seeking to steal/acquire)
 - [[Vaud Qalix - DM Notes]] (via spy network)
 
 **Security Level:** High - Protected at Echoforge headquarters
@@ -74,13 +74,13 @@ The [[Lorestone of Eryndor - DM Notes]] was shattered into 8 pieces. This tracke
 
 **Known By:**
 
-- [[Obsidian Echoforge]] (possession)
+- [[Obsidian Echoforge - DM Notes]] (possession)
 - [[Malachite Cord - DM Notes]] (aware of Echoforge holdings)
-- Player characters (informed by [[Aethor Kalisk]])
+- Player characters (informed by [[Aethor Kalisk - DM Notes]])
 
 **Pursued By:**
 
-- [[Emissaries of the Sunfall]] (seeking to steal/acquire)
+- [[Emissaries of the Sunfall - DM Notes]] (seeking to steal/acquire)
 - [[Vaud Qalix - DM Notes]] (via spy network)
 
 **Security Level:** High - Protected at Echoforge headquarters
@@ -103,13 +103,13 @@ The [[Lorestone of Eryndor - DM Notes]] was shattered into 8 pieces. This tracke
 
 **Known By:**
 
-- [[Obsidian Echoforge]] (possession)
+- [[Obsidian Echoforge - DM Notes]] (possession)
 - [[Malachite Cord - DM Notes]] (aware of Echoforge holdings)
-- Player characters (informed by [[Aethor Kalisk]])
+- Player characters (informed by [[Aethor Kalisk - DM Notes]])
 
 **Pursued By:**
 
-- [[Emissaries of the Sunfall]] (seeking to steal/acquire)
+- [[Emissaries of the Sunfall - DM Notes]] (seeking to steal/acquire)
 - [[Vaud Qalix - DM Notes]] (via spy network)
 
 **Security Level:** High - Protected at Echoforge headquarters
@@ -132,13 +132,13 @@ The [[Lorestone of Eryndor - DM Notes]] was shattered into 8 pieces. This tracke
 
 **Known By:**
 
-- [[Obsidian Echoforge]] (possession)
+- [[Obsidian Echoforge - DM Notes]] (possession)
 - [[Malachite Cord - DM Notes]] (aware of Echoforge holdings)
-- Player characters (informed by [[Aethor Kalisk]])
+- Player characters (informed by [[Aethor Kalisk - DM Notes]])
 
 **Pursued By:**
 
-- [[Emissaries of the Sunfall]] (seeking to steal/acquire)
+- [[Emissaries of the Sunfall - DM Notes]] (seeking to steal/acquire)
 - [[Vaud Qalix - DM Notes]] (via spy network)
 
 **Security Level:** High - Protected at Echoforge headquarters
@@ -162,7 +162,7 @@ The [[Lorestone of Eryndor - DM Notes]] was shattered into 8 pieces. This tracke
 **Known By:**
 
 - [[Cobalt Soul - DM Notes]] (possession, actively researching)
-- [[Obsidian Echoforge]] - Know it exists, but think the compass lead is pointing them to this one; are not aware Ovedo is keeping it secret
+- [[Obsidian Echoforge - DM Notes]] - Know it exists, but think the compass lead is pointing them to this one; are not aware Ovedo is keeping it secret
 
 **Pursued By:**
 
@@ -199,7 +199,7 @@ The [[Lorestone of Eryndor - DM Notes]] was shattered into 8 pieces. This tracke
 
 **Pursued By:**
 
-- [[Obsidian Echoforge]] (seeking via [[Aethor Kalisk]] investigation)
+- [[Obsidian Echoforge - DM Notes]] (seeking via [[Aethor Kalisk - DM Notes]] investigation)
 
 **Prophecy Content:** Lines revealed on this shard:
 
@@ -230,13 +230,13 @@ The [[Lorestone of Eryndor - DM Notes]] was shattered into 8 pieces. This tracke
 
 - [[Keldar Stonefoot - DM Notes]] (has map showing original location)
 - [[Calderax Dunhall]] (was facilitating trade for map)
-- [[Aethor Kalisk]] (investigating the map lead)
+- [[Aethor Kalisk - DM Notes]] (investigating the map lead)
 - [[Shoagragoth, The Acid Crown]] (current possessor)
 - Note: all but the dragon believe they are pursuing Shard 5, not a new, unknown shard
 
 **Pursued By:**
 
-- [[Obsidian Echoforge]] (via map acquisition, though they think this is pointing to Shard 5)
+- [[Obsidian Echoforge - DM Notes]] (via map acquisition, though they think this is pointing to Shard 5)
 - Player characters (have the [[Stonefoot Compass - DM Notes]], connected to map)
 
 **Security Level:** Very High - Adult black dragon guardian
@@ -282,9 +282,9 @@ The [[Lorestone of Eryndor - DM Notes]] was shattered into 8 pieces. This tracke
 
 All of these will eventually pursue it when they learn of its existence
 
-- [[Obsidian Echoforge]]
+- [[Obsidian Echoforge - DM Notes]]
 - [[Vaud Qalix - DM Notes]]
-- [[Emissaries of the Sunfall]]
+- [[Emissaries of the Sunfall - DM Notes]]
 
 **Security Level:** Unknown
 
@@ -306,7 +306,7 @@ All of these will eventually pursue it when they learn of its existence
 
 ### Faction Interests Summary
 
-#### [[Obsidian Echoforge]]
+#### [[Obsidian Echoforge - DM Notes]]
 
 **Goal:** Assemble all shards to close rifts
 
@@ -326,7 +326,7 @@ All of these will eventually pursue it when they learn of its existence
 
 **Knowledge:** Aware of Echoforge's 4 shards, investigating other shard locations
 
-#### [[Emissaries of the Sunfall]]
+#### [[Emissaries of the Sunfall - DM Notes]]
 
 **Goal:** Acquire shards to create permanent gates
 
@@ -344,7 +344,7 @@ All of these will eventually pursue it when they learn of its existence
 
 **Resources:** 75 researchers, 10 spies, substantial funding
 
-**Actively Pursuing:** Shards 1-5 (via [[Obsidian Echoforge]])
+**Actively Pursuing:** Shards 1-5 (via [[Obsidian Echoforge - DM Notes]])
 
 **Knowledge:** Knows about Echoforge holdings, knows of Shard 5 existence but not location
 

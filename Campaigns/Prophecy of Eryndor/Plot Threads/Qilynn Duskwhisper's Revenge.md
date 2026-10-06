@@ -26,7 +26,7 @@ Qilynn knows her final mission failure wasn't her fault and suspects sabotage, b
 
 - Qilynn continues to carry suspicions about her failed heist
 - She remains unaware of the true perpetrators
-- [[Eledyr Dephar]] is now working with the [[Emissaries of the Sunfall]], giving him new resources
+- [[Eledyr Dephar]] is now working with the [[Emissaries of the Sunfall - DM Notes]], giving him new resources
 
 ### Active Elements
 
@@ -160,7 +160,7 @@ From [[Character Story Beats#Medium Term]]:
 
 ### Related Plot Threads
 
-- [[Eledyr Dephar]]'s work with [[Emissaries of the Sunfall]] creates intersection
+- [[Eledyr Dephar]]'s work with [[Emissaries of the Sunfall - DM Notes]] creates intersection
 - [[Assembling the Lorestone]] - Eledyr's opposition could complicate this
 - Potential Clasp alliance depending on resolution
 

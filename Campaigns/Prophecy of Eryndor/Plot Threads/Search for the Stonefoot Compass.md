@@ -11,12 +11,12 @@ tags:
 > [!info] Essential Details
 > Status: Active
 > Last Session Mentioned: [[Session 14 to 16 - Rift to the Elemental Plane of Fire]]
-> Key Players: [[Aethor Kalisk]],
+> Key Players: [[Aethor Kalisk - DM Notes]],
 > Next Expected Development: Return the compass to Aethor
 
 ## Overview
 
-[[Aethor Kalisk|Aethor]] is headquartered in [[Port Damali - DM Notes]] while he researches the [[Assembling the Lorestone]].
+[[Aethor Kalisk - DM Notes|Aethor]] is headquartered in [[Port Damali - DM Notes]] while he researches the [[Assembling the Lorestone]].
 
 ## Current State
 

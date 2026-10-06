@@ -41,13 +41,13 @@ This contains information specific to the Lorestone of Eryndor campaign.
 
 ### Locations
 
-- [[Truscan Vale]]: region at the Empire's southwestern edge, home to Deastok and Kamordah; its page lists the vale's cities, landmarks, and factions
+- [[Dwendalian Empire]]: nation ruling the western half of Wynandir from its capital, Rexxentrum; its page lists the Empire's cities, regions, and people
 
 ## Xhorhas
 
-### People
+### Locations
 
-- [[Vaud Qalix]]: Eye of the Scars, Protector of the Council of Xarzith Kitril
+- [[Xhorhas]]: the eastern half of Wynandir, beyond the Ashkeeper Peaks; its page lists the region's cities, people, and factions
 
 ## Greying Wildlands
 
@@ -62,8 +62,16 @@ This contains information specific to the Lorestone of Eryndor campaign.
 ### Factions
 
 - [[Clasp]]: guild of thieves and assassins founded in Tal'Dorei
+- [[Emissaries of the Sunfall]]: organization from Rexxentrum that seeks ways to harness power
+- [[Malachite Cord]]: fellowship devoted to the Aurora's Ascendant, opposed to reassembling the Lorestone
 - [[Myriad]]: the largest criminal syndicate in Wildemount
+- [[Obsidian Echoforge]]: society of scholars seeking to recover and reassemble the Lorestone of Eryndor
+
+### Items
+
+- [[Lorestone of Eryndor]]: ancient obsidian disc bearing the Prophecy of Eryndor, shattered and scattered across Exandria
 
 ### Lore
 
 - [[Planar Rifts]]: openings between Exandria and other planes of existence
+- [[Prophecy of Eryndor]]: prophecy inscribed on the Lorestone of Eryndor

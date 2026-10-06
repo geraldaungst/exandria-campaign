@@ -1,8 +1,8 @@
 ---
 affiliations:
   - "[[Clasp]]"
-  - "[[Emissaries of the Sunfall]]"
-  - "[[Obsidian Echoforge]]"
+  - "[[Emissaries of the Sunfall - DM Notes]]"
+  - "[[Obsidian Echoforge - DM Notes]]"
 current_location: "[[Port Damali - DM Notes]]"
 disposition: indifferent
 tags:
@@ -17,8 +17,8 @@ tags:
 > - Current Location: [[Port Damali - DM Notes]] (The [[Sunset Sail]])
 > - Key Motivation: Pursue knowledge of planar magic beyond conventional limits
 > - Attitude toward party: Neutral (unaware)
-> - Critical Knowledge: Double agent working with [[Dreyara Drimvar - DM Notes]] while posing as [[Obsidian Echoforge]] member
-> - Status: Active spy gathering intelligence on [[Aethor Kalisk]]'s movements
+> - Critical Knowledge: Double agent working with [[Dreyara Drimvar - DM Notes]] while posing as [[Obsidian Echoforge - DM Notes]] member
+> - Status: Active spy gathering intelligence on [[Aethor Kalisk - DM Notes]]'s movements
 
 ## Description
 
@@ -43,20 +43,20 @@ His face has sharp, aristocratic features that could be striking if not for his 
 
 ## Current Situation
 
-Currently residing above The [[Sunset Sail]] tavern in [[Port Damali - DM Notes]], maintaining his cover as a traveling scholar while serving as [[Dreyara Drimvar - DM Notes]]'s spy. Primary mission is to monitor [[Aethor Kalisk]]'s movements and delay [[Obsidian Echoforge]] attempts to acquire new shards. Possesses a letter containing information about a [[Lorestone of Eryndor - DM Notes|Lorestone Shard]], which has led to the current situation involving the [[Stonefoot Compass - DM Notes]].
+Currently residing above The [[Sunset Sail]] tavern in [[Port Damali - DM Notes]], maintaining his cover as a traveling scholar while serving as [[Dreyara Drimvar - DM Notes]]'s spy. Primary mission is to monitor [[Aethor Kalisk - DM Notes]]'s movements and delay [[Obsidian Echoforge - DM Notes]] attempts to acquire new shards. Possesses a letter containing information about a [[Lorestone of Eryndor - DM Notes|Lorestone Shard]], which has led to the current situation involving the [[Stonefoot Compass - DM Notes]].
 
 ## Background
 
-![[calderax-dunhall.jpeg|right|300]] Studied at a small academy in [[Zadash - DM Notes]] before moving to [[Port Zoon - DM Notes]] to pursue independent research on planar anomalies, which eventually led to his recruitment by the [[Obsidian Echoforge]]. Joined the [[Obsidian Echoforge]] about a year ago as a junior researcher in their archives division. Presented himself to [[Aelorin Nightshade]] soon afterwards as an eagar scholar interested in specialized magical theory. About 2-3 months ago he became part of Aelorin's inner circle and a mentee. Shortly after beginning his mentorship with [[Aelorin Nightshade]], he was recruited by [[Dreyara Drimvar - DM Notes]], who recognized his potential value as an informant and manipulated his attraction to her to secure his loyalty.
+![[calderax-dunhall.jpeg|right|300]] Studied at a small academy in [[Zadash - DM Notes]] before moving to [[Port Zoon - DM Notes]] to pursue independent research on planar anomalies, which eventually led to his recruitment by the [[Obsidian Echoforge - DM Notes]]. Joined the [[Obsidian Echoforge - DM Notes]] about a year ago as a junior researcher in their archives division. Presented himself to [[Aelorin Nightshade]] soon afterwards as an eagar scholar interested in specialized magical theory. About 2-3 months ago he became part of Aelorin's inner circle and a mentee. Shortly after beginning his mentorship with [[Aelorin Nightshade]], he was recruited by [[Dreyara Drimvar - DM Notes]], who recognized his potential value as an informant and manipulated his attraction to her to secure his loyalty.
 
 ## Hidden Information
 
 > [!secret]- DM Only
-> - Secretly working for [[Dreyara Drimvar - DM Notes]] while pretending to serve the [[Obsidian Echoforge]]
+> - Secretly working for [[Dreyara Drimvar - DM Notes]] while pretending to serve the [[Obsidian Echoforge - DM Notes]]
 > - Has unrequited romantic feelings for [[Dreyara Drimvar - DM Notes]]
 > - His mentorship with [[Aelorin Nightshade]] is a now being used as cover for gathering intelligence
-> - Currently tracking [[Aethor Kalisk]]'s movements for [[Dreyara Drimvar - DM Notes]]
-> - Possible underlying resentment toward some [[Obsidian Echoforge]] members due to subtle prejudice about his tiefling heritage
+> - Currently tracking [[Aethor Kalisk - DM Notes]]'s movements for [[Dreyara Drimvar - DM Notes]]
+> - Possible underlying resentment toward some [[Obsidian Echoforge - DM Notes]] members due to subtle prejudice about his tiefling heritage
 > 
 > ## Personal Effects
 > Carries a brass pocket watch with an intricate celestial design that he constantly checks and adjusts. The watch becomes a telling indicator of his stress levels despite his attempts to appear casual about checking it.

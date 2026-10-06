@@ -37,7 +37,7 @@ Description: What do we expect, and how is this different?
 
 ### Intro Goal
 
-Players will either seek out or run into [[Aethor Kalisk]] during their travels. They will learn that Aethor is seeking a powerful artifact and has a lead on that artifact.
+Players will either seek out or run into [[Aethor Kalisk - DM Notes]] during their travels. They will learn that Aethor is seeking a powerful artifact and has a lead on that artifact.
 
 ### Intro Enemy
 
@@ -81,7 +81,7 @@ If they return the compass to Calderax, he will tell them about [[Keldar Stonefo
 
 ## NPCs
 
-[[Aethor Kalisk]]
+[[Aethor Kalisk - DM Notes]]
 [[Calderax Dunhall]]
 [[Keldar Stonefoot - DM Notes]]
 ---

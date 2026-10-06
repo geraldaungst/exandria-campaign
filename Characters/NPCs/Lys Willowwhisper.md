@@ -23,7 +23,7 @@ Firbolg scholar driven by dreams of a shimmering disc and echoing chants of prop
 
 ## Historical Significance
 
-Lys Willowwhisper founded what would become the [[Obsidian Echoforge]], beginning a 400+ year quest to recover all fragments of the Lorestone. The organization's dedication to this mission has passed through multiple generations of the Willowwhisper family.
+Lys Willowwhisper founded what would become the [[Obsidian Echoforge - DM Notes]], beginning a 400+ year quest to recover all fragments of the Lorestone. The organization's dedication to this mission has passed through multiple generations of the Willowwhisper family.
 
 For the complete history of Lys's legacy, see [[Legacy of the Seekers]].
 

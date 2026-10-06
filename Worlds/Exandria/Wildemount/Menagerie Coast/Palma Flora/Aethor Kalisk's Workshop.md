@@ -42,7 +42,7 @@ Notable Features:
 
 ### Source Notes
 
-[[Aethor Kalisk]]
+[[Aethor Kalisk - DM Notes]]
 
 ### Related Atomic Notes
 

@@ -1,6 +1,6 @@
 ---
 affiliations:
-  - "[[Emissaries of the Sunfall]]"
+  - "[[Emissaries of the Sunfall - DM Notes]]"
 current_location: "[[Scroll and Scribe]]"
 disposition: indifferent
 tags:

@@ -1,6 +1,6 @@
 ---
 affiliations:
-  - "[[Obsidian Echoforge]]"
+  - "[[Obsidian Echoforge - DM Notes]]"
 aliases:
   - Aethor
 current_location: "[[Port Damali - DM Notes]]"
@@ -57,7 +57,7 @@ Headquartered in [[Port Damali - DM Notes]] while researching Lorestone assembly
 > Mechanically, grants advantage on Arcana checks related to Lorestone fragments and planar rifts.
 
 > [!note]- Background
-> Key researcher for the [[Obsidian Echoforge]]. Originally based in [[Hupperdook]], where he saved [[Lyren Willowwhisper]] from an ambush using one of his devices. After years of persistent recruitment by Lyren—including showing him a Lorestone fragment that resonated with his research—he joined as the Echoforge's leading researcher on arcane refraction.
+> Key researcher for the [[Obsidian Echoforge - DM Notes]]. Originally based in [[Hupperdook]], where he saved [[Lyren Willowwhisper]] from an ambush using one of his devices. After years of persistent recruitment by Lyren—including showing him a Lorestone fragment that resonated with his research—he joined as the Echoforge's leading researcher on arcane refraction.
 
 ## Connected Elements
 

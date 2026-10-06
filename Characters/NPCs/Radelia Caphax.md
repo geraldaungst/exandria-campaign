@@ -15,7 +15,7 @@ tags:
 
 > [!info] Essential Details
 > - **Location:** [[The Shrine of Melora - DM Notes]]
-> - **Goal:** Support [[Rinneth Starsong]] and oppose the [[Obsidian Echoforge]]
+> - **Goal:** Support [[Rinneth Starsong - DM Notes]] and oppose the [[Obsidian Echoforge - DM Notes]]
 > - **Attitude toward party:** Wary
 > - **Key role:** High-ranking [[Malachite Cord - DM Notes]] member; Cord's inner circle alongside [[Kael Dren'eth]]
 
@@ -31,7 +31,7 @@ Attractive woman, lean and moderately muscular. Large tan jacket, well-kept copp
 
 ## Current Situation
 
-Recently returned from the Whitestone festival via the [[Sessions 1 to 3 - The Skyship|Unshaken]], where she was selling Cithrel Textiles goods as cover. Followed [[Aethor Kalisk]] around [[Port Damali - DM Notes]], gathering intelligence on his activities. Now stationed at [[The Shrine of Melora - DM Notes]] reporting to [[Rinneth Starsong]].
+Recently returned from the Whitestone festival via the [[Sessions 1 to 3 - The Skyship|Unshaken]], where she was selling Cithrel Textiles goods as cover. Followed [[Aethor Kalisk - DM Notes]] around [[Port Damali - DM Notes]], gathering intelligence on his activities. Now stationed at [[The Shrine of Melora - DM Notes]] reporting to [[Rinneth Starsong - DM Notes]].
 
 **Immediate plans:** Recover [[Radelia's Leather Satchel]], then return home to [[Odessloe]].
 
@@ -45,15 +45,15 @@ Recently returned from the Whitestone festival via the [[Sessions 1 to 3 - The S
 > - [x] Carries a distinctive satchel filled with scrolls and documents
 > - [x] Often seems distracted or lost in thought while walking the streets
 > - [x] Stays at [[The Pudgy Pigeon - DM Notes]], second floor
-> - [x] Works for the [[Obsidian Echoforge]] as a key researcher
+> - [x] Works for the [[Obsidian Echoforge - DM Notes]] as a key researcher
 > - [x] Overheard discussions about the [[Lorestone of Eryndor - DM Notes]]
 > - [x] Has made multiple trips to the Cobalt Soul library
 > - [x] Seems to be searching for something specific in Port Damali separate from Calderax
 > - [x] Has been asking subtle questions about planar disturbances
 > - [x] Calderax also met with a woman named [[Dreyara Drimvar - DM Notes]] who was also asking about the shard
-> - [x] Dreyara mentioned [[Valen Elderguard]], leader of the [[Emissaries of the Sunfall]]
+> - [x] Dreyara mentioned [[Valen Elderguard]], leader of the [[Emissaries of the Sunfall - DM Notes]]
 > - [x] Dreyara mentioned someone called "The Eye"
-> - [x] (via [[Rinneth Starsong]]) The Emissaries were once enemies of the Echoforge but are now working together
+> - [x] (via [[Rinneth Starsong - DM Notes]]) The Emissaries were once enemies of the Echoforge but are now working together
 > 
 > **Not yet revealed:**
 > - [ ] Overheard Aethor asking merchants about electrum filament and star iron

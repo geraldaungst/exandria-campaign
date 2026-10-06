@@ -1,6 +1,6 @@
 ---
 affiliations:
-  - "[[Obsidian Echoforge]]"
+  - "[[Obsidian Echoforge - DM Notes]]"
 aliases:
   - tessa
 tags:
@@ -8,4 +8,4 @@ tags:
   - npc
 ---
 
-Tessa, an Aasimar with a celestial heritage, serves as a field agent for the [[Obsidian Echoforge]]. Her task is to track anomalies that could lead them to the materials needed for the construction of [[Gaius Emberfell|Gaius]]'s device. Unknown to most, she and [[Sumad-Dekon Harrowgate]]once studied together, and though their paths have diverged, she still harbors a [[History of Tessa and Sumad-Dekon|complicated mix of feelings]] about his choice to join the [[Emissaries of the Sunfall|Emissaries]].
+Tessa, an Aasimar with a celestial heritage, serves as a field agent for the [[Obsidian Echoforge - DM Notes]]. Her task is to track anomalies that could lead them to the materials needed for the construction of [[Gaius Emberfell|Gaius]]'s device. Unknown to most, she and [[Sumad-Dekon Harrowgate]]once studied together, and though their paths have diverged, she still harbors a [[History of Tessa and Sumad-Dekon|complicated mix of feelings]] about his choice to join the [[Emissaries of the Sunfall - DM Notes|Emissaries]].

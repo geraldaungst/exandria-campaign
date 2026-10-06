@@ -13,7 +13,7 @@ tags:
 > [!info] Essential Details
 > - Main Location(s): [[The Shrine of Melora - DM Notes]]
 > - Active Quests: [[Understanding the Rifts]]
-> - Important NPCs: [[Malachite Cord - DM Notes]], [[Rinneth Starsong]]
+> - Important NPCs: [[Malachite Cord - DM Notes]], [[Rinneth Starsong - DM Notes]]
 > - Previous Session: [[Session 12 & 13 - Finding the Compass]]
 > - Next Session: [[Session 17 & 18 - Aftermath at the Shrine of Melora]]
 
@@ -25,7 +25,7 @@ tags:
 
 - [x] Discover that the rifts connect to different planes of existence
 - [x] [POSSIBLE?] Discover that the Aurora's Ascendant is [[Seraphina Amaris (Vicki)|Seraphina]]
-- [ ] Discover that the [[Malachite Cord - DM Notes]] and the [[Obsidian Echoforge]] have opposing goals
+- [ ] Discover that the [[Malachite Cord - DM Notes]] and the [[Obsidian Echoforge - DM Notes]] have opposing goals
 	- [ ] Malachite Cord thinks the Obsidian Echoforge will cause a calamity with their efforts to close the rifts
 	- [ ] Obsidian Echoforge needs the shards to try and close the rifts
 

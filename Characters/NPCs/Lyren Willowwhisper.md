@@ -1,10 +1,10 @@
 ---
 affiliations:
-  - "[[Obsidian Echoforge]]"
+  - "[[Obsidian Echoforge - DM Notes]]"
 aliases:
   - Lyren
-current_location: "Palma Flora"
-home_city: "Palma Flora"
+current_location: Palma Flora
+home_city: Palma Flora
 tags:
   - npc
   - needs-work
@@ -32,15 +32,15 @@ Youthful exuberance despite the weight she carries. Tall for her lineage, deep b
 
 ## Current Situation
 
-Based at [[Palma Flora]], leading the [[Obsidian Echoforge]]'s operations. Holds Shards 1-4 in a magically locked and trapped chest. Has [[Aethor Kalisk]] deployed to [[Port Damali - DM Notes]] pursuing leads on additional shards.
+Based at [[Palma Flora]], leading the [[Obsidian Echoforge - DM Notes]]'s operations. Holds Shards 1-4 in a magically locked and trapped chest. Has [[Aethor Kalisk - DM Notes]] deployed to [[Port Damali - DM Notes]] pursuing leads on additional shards.
 
 Growing increasingly urgent about the rift situation—the rifts are worsening, Qalix is stealing shards, and the [[Malachite Cord - DM Notes]] is obstructing rather than helping. She believes delay costs lives, and she's not entirely wrong.
 
 **Key relationships:**
 
 - [[Veyda Willowwhisper]]—aunt, former leader, now advisor. Genuine bond complicated by legacy and Veyda's unspoken guilt.
-- [[Aethor Kalisk]]—trusted researcher. She speaks of him warmly: "He speaks highly of you, and Aethor doesn't speak highly of anyone."
-- [[Malachite Cord - DM Notes]] / [[Rinneth Starsong]]—views them as well-meaning obstructionists whose caution is going to get people killed
+- [[Aethor Kalisk - DM Notes]]—trusted researcher. She speaks of him warmly: "He speaks highly of you, and Aethor doesn't speak highly of anyone."
+- [[Malachite Cord - DM Notes]] / [[Rinneth Starsong - DM Notes]]—views them as well-meaning obstructionists whose caution is going to get people killed
 
 > [!secret]- Hidden Information
 > **What she doesn't know:**
@@ -63,9 +63,9 @@ Growing increasingly urgent about the rift situation—the rifts are worsening, 
 > **Design note:** These aren't scripted betrayals. They're pressure points where Lyren's genuine urgency and the party's broader perspective will naturally create friction. Let them emerge from play rather than forcing them.
 
 > [!note]- Background
-> Current leader of the [[Obsidian Echoforge]], carrying a 400-year Willowwhisper family legacy. Her mother Selene died on an expedition when Lyren was a child; her aunt [[Veyda Willowwhisper]] raised her and led the organization until disappearing during an expedition in the Shattered Teeth. Lyren was named leader in Veyda's absence—not unanimously, with a faction led by Caelum Silverstride arguing for merit over bloodline. When Veyda returned alive months later, she publicly endorsed Lyren and stepped into an advisory role, stabilizing the transition but not fully silencing the doubters.
+> Current leader of the [[Obsidian Echoforge - DM Notes]], carrying a 400-year Willowwhisper family legacy. Her mother Selene died on an expedition when Lyren was a child; her aunt [[Veyda Willowwhisper]] raised her and led the organization until disappearing during an expedition in the Shattered Teeth. Lyren was named leader in Veyda's absence—not unanimously, with a faction led by Caelum Silverstride arguing for merit over bloodline. When Veyda returned alive months later, she publicly endorsed Lyren and stepped into an advisory role, stabilizing the transition but not fully silencing the doubters.
 >
-> Recruited [[Aethor Kalisk]] after he saved her life during an ambush in [[Hupperdook]]. It took years of persistence before he agreed to join—she won him over by showing him a Lorestone fragment that resonated with his research.
+> Recruited [[Aethor Kalisk - DM Notes]] after he saved her life during an ambush in [[Hupperdook]]. It took years of persistence before he agreed to join—she won him over by showing him a Lorestone fragment that resonated with his research.
 
 ## Connected Elements
 

@@ -68,13 +68,13 @@ The centuries-long effort created:
 
 ## Source Context
 
-Information derived from the [[Obsidian Echoforge]] faction note, documenting their historical evolution and cultural traditions.
+Information derived from the [[Obsidian Echoforge - DM Notes]] faction note, documenting their historical evolution and cultural traditions.
 
 ## Connections
 
 ### Source Notes
 
-- [[Obsidian Echoforge]]
+- [[Obsidian Echoforge - DM Notes]]
 
 ### Related Atomic Notes
 

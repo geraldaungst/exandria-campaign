@@ -23,6 +23,7 @@ Rifts are openings between Exandria and other planes of existence. They are appe
 - Rifts vary in size and color.
 - Creatures from other planes come through them.
 - The Malachite Cord warns that many other planes are evil or chaotic, and that Exandria should not be permanently connected to them.
+- Shards of the [[Lorestone of Eryndor]] can sense nearby rifts.
 
 ## Containment
 

@@ -27,3 +27,4 @@ Molaesmyr (pronounced mo-LAY-əs-meer) is a ruined elven city at the heart of th
 - The survivors scattered in two directions. Some went north and joined the dwarven city of Uthodurn. Others went west and founded Bysaes Tyl.
 - A curse spread outward from the ruins into the surrounding forest, which became the Savalirwood.
 - Many have tried to learn what caused the disaster. None have learned much.
+- The [[Malachite Cord]] fears that reassembling the [[Lorestone of Eryndor]] could bring a similar catastrophe.

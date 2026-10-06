@@ -11,7 +11,7 @@ tags:
 
 > [!info] Essential Details
 > - Status: plot/upcoming
-> - Key Players: [[Seraphina Amaris (Vicki)|Seraphina]], [[Rinneth Starsong]]
+> - Key Players: [[Seraphina Amaris (Vicki)|Seraphina]], [[Rinneth Starsong - DM Notes]]
 > - Last Session:
 > - Next Steps: Connect the rifts to the corruption in the [[Savalirwood - DM Notes]]
 

@@ -16,7 +16,7 @@ tags:
 > - Base of Operations: Permanent collection and workshop on the outskirts of [[Palma Flora]] on the Menagerie Coast
 > - Primary Goal: Locate and assemble the fragments of the [[Lorestone of Eryndor - DM Notes]] in order to close rifts
 > - Current Status: Active
-> - Party Standing: Pursuing a [[Aethor Kalisk's Secret Mission|quest]] for [[Aethor Kalisk]]
+> - Party Standing: Pursuing a [[Aethor Kalisk's Secret Mission|quest]] for [[Aethor Kalisk - DM Notes]]
 > - Influence Level: Regional
 
 ## Organization
@@ -47,7 +47,7 @@ The Willowwhisper lineage has led the organization through multiple generations:
 
 ### Notable Members
 
-- [[Aethor Kalisk]] - Member (currently on mission in [[Port Damali - DM Notes]])
+- [[Aethor Kalisk - DM Notes]] - Member (currently on mission in [[Port Damali - DM Notes]])
 - [[Gaius Emberfell]] - Field Agent
 - [[Tessa Sunwarden]] - Field Agent
 
@@ -102,18 +102,18 @@ For the complete 400-year history of how these name changes reflect the organiza
 
 ### Rivals
 
-- [[Emissaries of the Sunfall]] - Hostile rival faction seeking shards for personal gain and power
+- [[Emissaries of the Sunfall - DM Notes]] - Hostile rival faction seeking shards for personal gain and power
 
 ## Current Activities
 
 ### Active Operations
 
-- [[Aethor Kalisk]]'s mission in [[Port Damali - DM Notes]]
+- [[Aethor Kalisk - DM Notes]]'s mission in [[Port Damali - DM Notes]]
 - Ongoing search for prophecy disc fragments
 
 ### Recent Events
 
-- [[Sessions 1 to 3 - The Skyship]] involving [[Aethor Kalisk]]
+- [[Sessions 1 to 3 - The Skyship]] involving [[Aethor Kalisk - DM Notes]]
 
 ## Historical Events
 

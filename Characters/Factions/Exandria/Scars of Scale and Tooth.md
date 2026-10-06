@@ -1,6 +1,6 @@
 ---
 affiliations:
-  - "[[Emissaries of the Sunfall]]"
+  - "[[Emissaries of the Sunfall - DM Notes]]"
 current_location: "[[Xarzith Kitril - DM Notes]]"
 disposition: indifferent
 tags:

@@ -424,9 +424,9 @@ Then after result, turn to room: "Lady Emer lies beneath the immovable shield, h
 
 **Campaign Context:**
 
-- [[Obsidian Echoforge]] - One of the factions pursuing Lorestone
+- [[Obsidian Echoforge - DM Notes]] - One of the factions pursuing Lorestone
 - [[Malachite Cord - DM Notes]] - Another faction (Varnes mentions them)
-- [[Emissaries of the Sunfall]] - Emer's former organization
+- [[Emissaries of the Sunfall - DM Notes]] - Emer's former organization
 
 ## Session Notes
 

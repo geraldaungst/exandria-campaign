@@ -1,6 +1,6 @@
 ---
 affiliations:
-  - "[[Emissaries of the Sunfall]]"
+  - "[[Emissaries of the Sunfall - DM Notes]]"
   - "[[The Inkwell]]"
 aliases:
   - valen
@@ -56,7 +56,7 @@ Comes from the Elderguard family, known for shadow magic prowess. Rose to promin
 >   - Has recruited [[Eledyr Dephar]] using Clasp connections
 > - Operations:
 >   - Orchestrated failed skyjacking of the *Unshaken*
->   - Targeting [[Aethor Kalisk]] and [[Obsidian Echoforge]] operations
+>   - Targeting [[Aethor Kalisk - DM Notes]] and [[Obsidian Echoforge - DM Notes]] operations
 > ## Meeting Locations
 > - Public/Legitimate: Scroll and Scribe, used for Emissary business and occasional quiet recruitment
 > - Secret: Three-story townhouse in Pearls' Rest district

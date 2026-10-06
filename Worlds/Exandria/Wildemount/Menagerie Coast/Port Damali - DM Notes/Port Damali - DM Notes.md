@@ -56,7 +56,7 @@ showFolderNotes: false
 
 ## NPC Matters
 
-- [ ] [[Aethor Kalisk]] will be looking for [[Calderax Dunhall]] to get the shard.
+- [ ] [[Aethor Kalisk - DM Notes]] will be looking for [[Calderax Dunhall]] to get the shard.
 - [x] [[Radelia Caphax]] will follow Aethor, but is unlikely to be spotted by him. Players may notice they keep running into her if they are spending time with Aethor. Radelia will leave PD to return to [[Odessloe]] when she finds out that Aethor did not actually get the shard. She will report on information that she finds out about the [[Keldar Stonefoot Letter to Calderax]].
 - [x] [[Durnvolk Durmir]] will head directly to the site of the new temple which is in the northwest end of the Crescents, not far from the skyport. He will discover problems at the site of the [[New Temple of Moradin - DM Notes]] and ask the players for help (if they are around him).
 - [ ] Bachan Briarfell is the Zhelezo who takes over the scene of the ship.

@@ -13,7 +13,7 @@ tags:
 > [!info] Essential Details
 > - Main Location(s): [[The Shrine of Melora - DM Notes]]
 > - Active Quests: [[Search for the Stonefoot Compass]]
-> - Important NPCs: [[Rinneth Starsong]], [[Radelia Caphax]]
+> - Important NPCs: [[Rinneth Starsong - DM Notes]], [[Radelia Caphax]]
 > - Previous session: [[Session 14 to 16 - Rift to the Elemental Plane of Fire]]
 > - Next session: [[Session 19 - Interrogating Radelia]]
 
@@ -21,7 +21,7 @@ tags:
 
 ### Potential Encounters
 
-#### Conversation with [[Rinneth Starsong]]
+#### Conversation with [[Rinneth Starsong - DM Notes]]
 
 When roleplaying **Rinneth Starsong**, a balance between cautious openness and protective wariness would be key. Below are some talking points she might share, depending on the direction of the conversation:
 
@@ -115,7 +115,7 @@ When roleplaying **Rinneth Starsong**, a balance between cautious openness and p
 
 ### Unresolved Elements
 
-- Party have not yet talked to [[Radelia Caphax]], who likely has some useful information about the [[Lorestone of Eryndor - DM Notes]] as well as the [[Emissaries of the Sunfall]].
+- Party have not yet talked to [[Radelia Caphax]], who likely has some useful information about the [[Lorestone of Eryndor - DM Notes]] as well as the [[Emissaries of the Sunfall - DM Notes]].
 
 ## Post-Session Processing
 

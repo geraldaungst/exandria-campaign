@@ -13,7 +13,7 @@ tags:
 > [!info] Essential Details
 > - Location(s): [[Port Damali - DM Notes]]
 > - Active Plots: [[Aethor Kalisk's Secret Mission]], [[Assembling the Lorestone]], [[Search for the Stonefoot Compass]]
-> - Key NPCs: [[Aethor Kalisk]], [[Calderax Dunhall]], Bachan Briarfell
+> - Key NPCs: [[Aethor Kalisk - DM Notes]], [[Calderax Dunhall]], Bachan Briarfell
 > - Previous Session: [[Session 24 - Gorillafish Attack]]
 > - Next Session: [[Session 26 - Investigating the Abandoned Safehouse]]
 

@@ -18,7 +18,7 @@ tags:
 > - **Goal:** Find someone she can be fully honest with. She doesn't know that's what she wants yet.
 > - **Attitude toward party:** Professional caution → guarded warmth → genuine trust (earned through roleplay, not checks)
 > - **Key knowledge:** See [[What Aveqtaro Thaan Knows]] (staged by campaign progress)
-> - **Critical:** Reincarnation of [[Cadariel Ordo]]. She does not know this. The [[Obsidian Echoforge]] does not yet know she exists.
+> - **Critical:** Reincarnation of [[Cadariel Ordo]]. She does not know this. The [[Obsidian Echoforge - DM Notes]] does not yet know she exists.
 
 ## Description & Roleplay
 
@@ -62,7 +62,7 @@ Her default is cheerful and optimistic. When things go wrong, her anxiety surfac
 >
 > **The book dealer:** She has a relationship with a black market dealer in Rosohna who supplies Empire texts and music. This person knows her habits and could be leveraged by anyone looking for her.
 >
-> **The Echoforge connection (future):** The [[Obsidian Echoforge]] does not currently know about her. When they learn of her, they will incorrectly believe she is the reincarnation of [[Eryndor]], not Cadariel. How they learn of her is undecided—possibilities include rumors about a Kryn artisan with unusual knowledge, her black market contacts being traced, or her work products attracting scholarly attention.
+> **The Echoforge connection (future):** The [[Obsidian Echoforge - DM Notes]] does not currently know about her. When they learn of her, they will incorrectly believe she is the reincarnation of [[Eryndor]], not Cadariel. How they learn of her is undecided—possibilities include rumors about a Kryn artisan with unusual knowledge, her black market contacts being traced, or her work products attracting scholarly attention.
 >
 > **What her employees notice:** She sketches things in margins that she doesn't remember drawing. She occasionally solves problems using methods she was never taught. She's been distracted and withdrawn lately. An attentive apprentice or colleague could describe these changes to the party before Aveqtaro herself is willing to.
 
