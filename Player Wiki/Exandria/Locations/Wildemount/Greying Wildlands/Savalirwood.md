@@ -1,9 +1,4 @@
 ---
-tags:
-  - location
-  - player-facing
-  - world/exandria
-  - region/greying-wildlands
 aliases:
   - Savalier Wood
   - Savalir Wood
@@ -12,6 +7,11 @@ aliases:
 cssclasses:
   - world-exandria
 publish: true
+tags:
+  - location
+  - player-facing
+  - world/exandria
+  - region/greying-wildlands
 ---
 
 > [!info] Quick Reference
@@ -36,7 +36,6 @@ The Savalirwood is a cursed forest in the [[Greying Wildlands]] of northern Wild
 - The forest covers much of northern Wildemount.
 - It surrounds the [[Ruins of Molaesmyr]] and makes them nearly inaccessible.
 - It forms a natural barrier between the city of Uthodurn and the rest of Wildemount.
-- Rift sites have been documented within the forest.
 
 ## Legend
 

@@ -1,11 +1,11 @@
 ---
-tags:
-  - player-facing
-  - world/exandria
 aliases: []
 cssclasses:
   - world-exandria
 publish: true
+tags:
+  - player-facing
+  - world/exandria
 ---
 
 This contains information specific to the Lorestone of Eryndor campaign.
@@ -66,4 +66,4 @@ This contains information specific to the Lorestone of Eryndor campaign.
 
 ### Lore
 
-- [[Planar Rifts]]: unstable openings between Exandria and other planes of existence
+- [[Planar Rifts]]: openings between Exandria and other planes of existence

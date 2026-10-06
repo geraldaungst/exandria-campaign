@@ -104,6 +104,7 @@ Decisions from earlier runs that apply to every future run. Source and run in br
 - Capital cities and their rulers get notes as world knowledge. A foreign ruler's note holds only what outsiders would know. [Gerald, T13–T14]
 - A nation's customs of travel go in the nation's note, not a separate lore note. [Gerald, T13–T14]
 - Player notes may name the party, as The Third Act, when their actions affected the world in a significant way, such as defeating a major figure. State the outcome briefly in reference voice, and don't narrate the encounter. Always get confirmation from Gerald since this violates the general principle in the conventions. [Gerald, T15–E07]
+- Rift lore is published only when the party has experienced it or been told it in play. Documents the party holds but hasn't read in play, such as Lady Emer's research, stay off the wiki until they come up at the table. [Gerald, T15–E07]
 
 ### Scope and note shape
 
