@@ -18,7 +18,7 @@ tags:
 
 ## Description
 
-Deastok is an affluent city in the [[Truscan Vale]], at the southwestern edge of the [[Dwendalian Empire]]. It sits on a hill bordering the Cyrengreen Forest, surrounded by farmland divided by fences into tidy segments. The city is comfortable and well kept, and wealthy travelers come here for a countryside retreat. A timber industry also supports it. Its sister city, [[Kamordah]], lies to the north.
+Deastok is an affluent city in the [[Truscan Vale]], at the southwestern edge of the [[Dwendalian Empire]]. It sits on a hill bordering the Cyrengreen Forest, surrounded by farmland divided by fences into tidy segments. The city is comfortable and well kept, and wealthy travelers come here for a countryside retreat. A timber industry also supports it. Its sister city, [[Kamordah - DM Notes]], lies to the north.
 
 About 10,090 people live in Deastok: 60 percent human, 26 percent dwarf, 10 percent halfling, and 4 percent other peoples.
 

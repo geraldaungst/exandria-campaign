@@ -59,6 +59,11 @@ This contains information specific to the Lorestone of Eryndor campaign.
 
 ## Across Regions
 
+### People
+
+- [[Dreyara Drimvar]]: agent and enforcer for Vaud Qalix
+- [[Rinneth Starsong]]: leader of the Malachite Cord
+
 ### Factions
 
 - [[Clasp]]: guild of thieves and assassins founded in Tal'Dorei
@@ -70,7 +75,9 @@ This contains information specific to the Lorestone of Eryndor campaign.
 
 ### Items
 
+- [[Blade of Maroth Fenn]]: kukri-style dagger carried by Dreyara Drimvar
 - [[Lorestone of Eryndor]]: ancient obsidian disc bearing the Prophecy of Eryndor, shattered and scattered across Exandria
+- [[Soulwood]]: rare, sacred wood that insulates against magic, used to make Riftcages
 
 ### Lore
 

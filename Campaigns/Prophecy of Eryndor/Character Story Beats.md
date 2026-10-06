@@ -11,7 +11,7 @@ tags:
 
 ## Weapon Options for Each Character
 
-Drawg - [[Blade of Maroth Fenn]]
+Drawg - [[Blade of Maroth Fenn - DM Notes]]
 
 [[Hesterian Shyr (Dot)|Hesterian]] - [[kiss-of-the-changebringer-tdcsr|Kiss of the Changebringer]], [[deathwalkers-ward-tdcsr|Deathwalker's Ward]], [[mythcarver-tdcsr|Mythcarver]]
 
@@ -30,7 +30,7 @@ Anyone - [[danoths-visor-egw|Danoth's Visor]], [[jewel-of-three-prayers-crcotn|J
 ### Vestiges Found
 
 - [ ] [[armor-of-the-valiant-soul-tdcsr|Armor of the Valiant Soul]]
-- [ ] [[Blade of Maroth Fenn]]
+- [ ] [[Blade of Maroth Fenn - DM Notes]]
 - [ ] [[cabals-ruin-tdcsr|Cabal's Ruin]]
 - [ ] [[circlet-of-barbed-vision-tdcsr|Circlet of Barbed Vision]]
 - [ ] [[danoths-visor-egw|Danoth's Visor]]
@@ -51,7 +51,7 @@ Anyone - [[danoths-visor-egw|Danoth's Visor]], [[jewel-of-three-prayers-crcotn|J
 
 ### Short Term
 
-- [ ] [[Drawg Stormbrew (Brew)|Drawg]] needs to acquire his [[Blade of Maroth Fenn|dagger]]…currently held by [[Dreyara Drimvar - DM Notes]]
+- [ ] [[Drawg Stormbrew (Brew)|Drawg]] needs to acquire his [[Blade of Maroth Fenn - DM Notes|dagger]]…currently held by [[Dreyara Drimvar - DM Notes]]
 - [x] …and [[Drawg Stormbrew (Brew)|Drawg]] also wants a trident
 - [x] [[Drawg Stormbrew (Brew)|Drawg]] has promised to help with the [[New Temple of Moradin - DM Notes]]
 - [ ] [[Hesterian Shyr (Dot)|Hesterian]] will infiltrate the Myriad, but doing so will compel her to commit evil acts.

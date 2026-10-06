@@ -1,14 +1,14 @@
 ---
-tags:
-  - location
-  - player-facing
-  - world/exandria
-  - region/dwendalian-empire
 aliases:
   - Kamorda
 cssclasses:
   - world-exandria
 publish: true
+tags:
+  - location
+  - player-facing
+  - world/exandria
+  - region/dwendalian-empire
 ---
 
 > [!info] Quick Reference

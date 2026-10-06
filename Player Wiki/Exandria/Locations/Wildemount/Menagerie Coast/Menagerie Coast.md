@@ -70,3 +70,7 @@ The Menagerie Coast runs the length of Wildemount's southwestern shore along the
 ### Factions
 
 - [[Zhelezo]]: city guard and law enforcement of the Clovis Concord
+
+### Items
+
+- [[Stonefoot Compass]]: magic compass made by Brom Stonefoot, an heirloom of the Stonefoot family of Port Zoon

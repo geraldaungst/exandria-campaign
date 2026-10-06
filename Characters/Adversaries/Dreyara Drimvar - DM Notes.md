@@ -15,12 +15,12 @@ tags:
 ## Quick Reference
 
 > [!info] Essential Details
-> - Current Location: Port Damali
+> - Current Location: Deceased
 > - Alias: Vessa Blackthorn
 > - Key Motivation: Serve Qalix's interests and maintain her position of power and freedom
 > - Attitude toward party: Neutral (has not encountered them)
 > - Critical Knowledge: Former Volstrucker agent turned spymaster for Qalix; tasked with stealing shard from Rexxentrum Archive
-> - Status: Active, seeking Myriad support for Rexxentrum heist
+> - Status: Deceased
 
 ## Description
 

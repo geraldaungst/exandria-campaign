@@ -18,7 +18,7 @@ The Riftcage is designed to **contain energy siphoned from a rift**, preventing 
 
 ## **Material And Creation**
 
-- [[Soulwood]]
+- [[Soulwood - DM Notes]]
 - **Silverleaf Vine**: A magically resonant vine that grows in the heart of the Verdant Expanse, known for its ability to ground arcane forces.
 
 The Riftcage is created using the **Mending** spell to shape the soulwood, combined with **Plant Growth** to reinforce the silverleaf bands and ensure they can channel energy effectively. The **Magic Circle** spell is used during the final stages of its construction to bind the device to the material plane and prepare it to hold rift energy.

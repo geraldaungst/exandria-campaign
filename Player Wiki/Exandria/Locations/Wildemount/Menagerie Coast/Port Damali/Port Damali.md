@@ -85,4 +85,5 @@ About 82,000 people live in the city. Roughly half are human, with large numbers
 
 ### People
 
+- [[Aethor Kalisk]]: gnome artificer and key researcher of the Obsidian Echoforge
 - [[Olesya Lapidus]]: Marquis of Port Damali

@@ -81,6 +81,13 @@ One row per published Exandria note. Claude reads this before every run and does
 | Avandra                            | Lore     | E02–E03 | 2026-10-06 | None                                                          |
 | Moradin                            | Lore     | E02–E03 | 2026-10-06 | None                                                          |
 | Uk'otoa                            | Lore     | E02–E03 | 2026-10-06 | None                                                          |
+| Aethor Kalisk                      | NPC      | E04–E05 | 2026-10-06 | Aethor Kalisk - DM Notes (already renamed)                    |
+| Dreyara Drimvar                    | NPC      | E04–E05 | 2026-10-06 | Dreyara Drimvar - DM Notes (already renamed)                  |
+| Rinneth Starsong                   | NPC      | E04–E05 | 2026-10-06 | Rinneth Starsong - DM Notes (already renamed)                 |
+| Stonefoot Compass                  | Item     | E04–E05 | 2026-10-06 | Stonefoot Compass - DM Notes (already renamed)                |
+| Solvei's Vigilance                 | Item     | E04–E05 | 2026-10-06 | None                                                          |
+| Blade of Maroth Fenn               | Item     | E04–E05 | 2026-10-06 | Blade of Maroth Fenn - DM Notes                               |
+| Soulwood                           | Item     | E04–E05 | 2026-10-06 | Soulwood - DM Notes                                           |
 
 ## Standing Decisions
 
@@ -124,6 +131,9 @@ Decisions from earlier runs that apply to every future run. Source and run in br
 - The Cobalt Soul's shard in Rexxentrum stays off every note until the party confirms it independently. [Gerald, E02–E03]
 - The Volstrucker get one hedged line in the Dwendalian Empire note and no page. Never tie them to the Cerberus Assembly or describe them as running the government. [Gerald, E02–E03]
 - Uk'otoa's legend (created by Zehir, once the Ki'Nau's patron, sealed beneath the Lucidian Ocean) is general knowledge. [Gerald, E02–E03]
+- The temporal resonance crystal gets no mention on the wiki until the party identifies it as a Luxon Beacon. [Gerald, E04–E05]
+- Item legends the party is meant to discover in play (such as the Blade of Maroth Fenn's) stay off the wiki until learned at the table. An item can get a stub with its appearance only. [Gerald, E04–E05]
+- Items get no region tag. An item with a clear home place is listed in that place's hub; otherwise under Across Regions. [Claude, E04–E05]
 
 ### Scope and note shape
 

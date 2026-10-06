@@ -55,3 +55,4 @@ The Cyrios Mountains rise north and east of the [[Menagerie Coast]], between the
 ### Items
 
 - [[Cave-Aged Truscan]]: a goat's-milk cheese made at Gnurlsotten's Nosh & Nip
+- [[Solvei's Vigilance]]: longbow of the monastery founder Solvei, home to Brother Kelmen's spirit

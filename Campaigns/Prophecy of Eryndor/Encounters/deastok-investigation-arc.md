@@ -450,7 +450,7 @@ Nobody tells them they missed anything. The world just keeps quietly pointing at
 >
 > **Compressed by the one-day clock:** ambient in the morning, contact by evening. Two beats rather than four. Survivable, since his deeper engagement is deferred past this arc anyway.
 
-- **[[Bramwell Bellweather - DM Notes]]**—fixture at the [[White Peak Inn]], originally from [[Kamordah]] (minor landed family, inheritance dispute burned his standing). Weary, transactional associate of [[Erma Schnieb]]—doing fieldwork out of habit, not investment.
+- **[[Bramwell Bellweather - DM Notes]]**—fixture at the [[White Peak Inn]], originally from [[Kamordah - DM Notes]] (minor landed family, inheritance dispute burned his standing). Weary, transactional associate of [[Erma Schnieb]]—doing fieldwork out of habit, not investment.
 - **Paths to contact:** ambient at the inn from the first visit / overheard grumbling to Torvald / at the Truscan Estate in the same paperwork line / **named directly by Brynna** once Seraphina's detail lands.
 - **What he offers, if engaged:** Erma's network—favor-based fast travel via her contacts across the continent. Price: real, high-quality information, not crumbs. He'll say so a little tiredly, because he's the one who catches grief when she's unimpressed.
 - **The pivot:** if he learns Seraphina was alive at the time of the original cataclysm, it recalibrates him—not warmth, a jolt of *maybe Erma's been right all along.* This is when he might genuinely suggest they meet her.
@@ -487,7 +487,7 @@ Nobody tells them they missed anything. The world just keeps quietly pointing at
 
 #### [[Deastok]]
 
-City in the Truscan Vale, Dwendalian Empire. Sister city to [[Kamordah]]. Sits on a hill bordering the Cyrengreen Forest, surrounded by fenced, segmented farmland. Population ~10,090 (60% human, 26% dwarf, 10% halfling, 4% other). Nominally led by Starosta Deter McGinneas; real power rests with the Truscan family. Single official temple, dedicated to Bahamut. Comfortable, affluent, quietly confident rather than showy.
+City in the Truscan Vale, Dwendalian Empire. Sister city to [[Kamordah - DM Notes]]. Sits on a hill bordering the Cyrengreen Forest, surrounded by fenced, segmented farmland. Population ~10,090 (60% human, 26% dwarf, 10% halfling, 4% other). Nominally led by Starosta Deter McGinneas; real power rests with the Truscan family. Single official temple, dedicated to Bahamut. Comfortable, affluent, quietly confident rather than showy.
 
 **Districts:**
 
@@ -624,7 +624,7 @@ The large walled estate in the southwest near the forest edge—the actual seat 
 
 #### Places
 
-- [[Deastok]] · [[Jeweled Gates]] · [[Bursar Plaza]] · [[Garden Grounds]] · [[White Peak Inn]] · [[Shaded Bough]] · [[Crownsguard Barracks]] · [[Kamordah]]
+- [[Deastok]] · [[Jeweled Gates]] · [[Bursar Plaza]] · [[Garden Grounds]] · [[White Peak Inn]] · [[Shaded Bough]] · [[Crownsguard Barracks]] · [[Kamordah - DM Notes]]
 
 #### Plot Threads
 

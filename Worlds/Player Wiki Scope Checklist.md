@@ -89,10 +89,13 @@ An "Owns" list names the subjects a run is responsible for deciding about. It do
 - [X] **E02–E03 Institutions and religion**
   - Owns: the Cobalt Soul, the Cerberus Assembly, and similar bodies that span regions; the deities as the characters know them, such as Bahamut, Melora, Avandra, and Moradin, along with Uk'otoa and temples in general.
   - Leaves to: place scopes for specific temples and archives, which are already published or owned.
-- [ ] **E04–E05 Notable people and items**
+- [X] **E04–E05 Notable people and items**
   - Owns: rulers, scholars, and public figures with no home-place scope, such as Aethor Kalisk and Dreyara Drimvar; the Stonefoot Compass, the Luxon Beacon, Solvei's Vigilance, and other notable items.
   - Leaves to: none.
-  - Note: leftovers from earlier runs. Re-size after E01–E06. Split it if it would exceed 10 notes.
+  - Notes:
+    - leftovers from earlier runs. Re-size after E01–E06.
+    - Check previous conversations related to this wiki. Look for notable people and items that were found but deferred or had no designated home.
+    - Split it if it would exceed 10 notes.
 - [ ] **E08–E09 History, species, and customs**
   - Owns: the Calamity, the fall of Draconia, and other major events not owned above; Marquet as the characters know it; species and customs that appear in the campaign, such as Ravenite and Draconblood dragonborn, pallid elves, the Kryn, and the Ki'Nau (confirm); the calendar and festivals, such as Merryfrond's Day (confirm).
   - Leaves to: none.

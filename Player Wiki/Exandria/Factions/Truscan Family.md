@@ -18,7 +18,7 @@ The Truscan family is a wealthy family that has made [[Deastok]] its home for ge
 
 - Deastok's Crown-appointed starosta and the city's other titled officials were appointed at the behest of Prime Arbiter Sydnock Truscan, who resides in [[Rexxentrum]].
 - It is widely assumed that anyone holding office in Deastok is related to the Truscans by blood or marriage, or deeply in their debt.
-- The family's influence reaches [[Kamordah]], whose starosta is closely tied to it.
+- The family's influence reaches [[Kamordah - DM Notes]], whose starosta is closely tied to it.
 
 ## Seat and Lands
 
