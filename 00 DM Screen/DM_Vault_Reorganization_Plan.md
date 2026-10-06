@@ -59,7 +59,7 @@ DM Vault/
 │   │   ├── Wildemount/
 │   │   │   ├── Dwendalian Empire/
 │   │   │   ├── Menagerie Coast/
-│   │   │   ├── Xorhas/
+│   │   │   ├── Xhorhas/
 │   │   │   └── Greying Wildlands/
 │   │   └── Tal'Dorei/
 │   │       └── Whitestone/
@@ -298,7 +298,7 @@ This is your active campaign, so we'll be careful.
 ##### **Verification Tasks**
 
 - [x] Verify Characters/NPCs/, Characters/Adversaries/, Characters/Factions/ folders exist
-- [x] Verify Worlds/Exandria/ structure matches geographic organization (Wildemount subfolders: Dwendalian Empire, Menagerie Coast, Xorhas, Greying Wildlands)
+- [x] Verify Worlds/Exandria/ structure matches geographic organization (Wildemount subfolders: Dwendalian Empire, Menagerie Coast, Xhorhas, Greying Wildlands)
 - [x] Verify Items/ folder exists
 
 ##### **Content Migration Tasks**

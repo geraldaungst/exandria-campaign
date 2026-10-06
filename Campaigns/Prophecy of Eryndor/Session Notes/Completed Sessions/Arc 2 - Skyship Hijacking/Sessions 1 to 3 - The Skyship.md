@@ -26,7 +26,7 @@ tags:
 	- [x] [[Grendar Goss]] (ship's bartender)
 	- [x] [[Durnvolk Durmir]] (passenger, heading to PD to assist with construction of a new forge temple of Moradin there)
 	- [x] [[Tharivol]] and [[Sariel]]
-- Depending on how things progress, the ship may make it to [[Xorhas Landing|Xorhas]], land safely in [[Port Damali - DM Notes|Port Damali]], or crash somewhere in the [[Crash in Dwendalian Empire|Dwendalian Empire]] or in the [[Cyrios Mountains Crash|Cyrios Mountains]].
+- Depending on how things progress, the ship may make it to [[Xhorhas Landing|Xhorhas]], land safely in [[Port Damali - DM Notes|Port Damali]], or crash somewhere in the [[Crash in Dwendalian Empire|Dwendalian Empire]] or in the [[Cyrios Mountains Crash|Cyrios Mountains]].
 
 ## Scenes
 
@@ -42,10 +42,10 @@ We can RP interactions with other party members, passengers, and crew as long as
 ### The Hijacking Begins
 
 - At dawn on the fifth day, the coastline of Wildemount appears as a faint line on the water.
-- Soon after sunrise, before many are awake, two of the passengers, [[Georgina Wiseacre]] and [[Kite of the Wind]] and two crew members ([[Berinon Truegust]] and [[Guzezzik]]) launch an effort to hijack the ship and redirect it to Xorhas.
+- Soon after sunrise, before many are awake, two of the passengers, [[Georgina Wiseacre]] and [[Kite of the Wind]] and two crew members ([[Berinon Truegust]] and [[Guzezzik]]) launch an effort to hijack the ship and redirect it to Xhorhas.
 - [x] First, the captain will fall ill and be confined to her cabin along with the medic, [[Brelia Solvorn]], who will attempt (unsuccessfully) to treat [[Captain Thyakas|Thyakas]].
 	- [x] If the party does nothing directly, both will later be found dead of poisoning in their quarters.
-- [x] [[Berinon Truegust|Berinon]] will take over navigation, subtly redirecting the path towards Xorhas.
+- [x] [[Berinon Truegust|Berinon]] will take over navigation, subtly redirecting the path towards Xhorhas.
 	- [x] Players with proficiency in Nature or Surival or with navigation tools can make a skill check (DC 17) to notice that the ship is headed in the wrong direction.
 	- [x] Hijackers will lock the bridge and set up a *[[glyph-of-warding|Glyph of Warding]]* that will cast *[[z_compendium/spells/thunderwave|Thunderwave]]* if someone tries to open or unlock the door. Finding the glyph requires a DC 17 Intelligence ([[skills#Investigation|Investigation]]) check, and disarming the trap is only possible with *[[dispel-magic|Dispel Magic]]*. Unlocking the door requires a DC 18 lockpicking check.
 	- [ ] They will also lock the engine room and protect it with a Glyph of Warding. If anyone steps into the room outside the engine room, a *Darkness* spell will be cast centered on the engine room door, making it much more difficult to open the lock. This lock also requires a DC 18 lockpicking check, but in darkness the check is at disadvantage.
@@ -91,11 +91,11 @@ We can RP interactions with other party members, passengers, and crew as long as
 
 ### Conclusion of the Hijacking
 
-One way or another, the Skyship will return to Exandria at the end of this adventure. It may land successfully (either in Xorhas where the hijackers want it to land, or in [[Port Damali - DM Notes]] where it was intended to go originally) or it will crash (either in the [[Dwendalian Empire - DM Notes]] or in the Cyrios Mountains, possibly as a result of a random roll).
+One way or another, the Skyship will return to Exandria at the end of this adventure. It may land successfully (either in Xhorhas where the hijackers want it to land, or in [[Port Damali - DM Notes]] where it was intended to go originally) or it will crash (either in the [[Dwendalian Empire - DM Notes]] or in the Cyrios Mountains, possibly as a result of a random roll).
 
 Depending on where they land, the characters will find things to do there to get to know each other and start developing their skills and reputation:
 
-- [[Xorhas Landing]]
+- [[Xhorhas Landing]]
 - [[Port Damali - DM Notes]] - Characters pursue whatever reasons they had to be in [[Port Damali - DM Notes]].
 - [[Crash in Dwendalian Empire]] -
 - [[Cyrios Mountains Crash]] -

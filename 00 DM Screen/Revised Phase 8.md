@@ -5,7 +5,7 @@
 Decisions that shape this phase:
 
 - **Property vs tag rule established:** Tags for categorical data (world, region, campaign associations); properties for specific filterable values (home_city, rarity, status)
-- **NPCs use specific regions:** Menagerie Coast, Dwendalian Empire, Xorhas, Greying Wildlands—not continent-level
+- **NPCs use specific regions:** Menagerie Coast, Dwendalian Empire, Xhorhas, Greying Wildlands—not continent-level
 - **World content doesn't need campaign tags:** NPCs/locations/factions are world content; campaign tags only mark narrative-specific content
 - **Template philosophy:** Thinking prompts, not forms
 

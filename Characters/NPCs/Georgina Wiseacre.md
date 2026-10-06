@@ -42,7 +42,7 @@ Info Georgina knows that she might share if interrogated. (DC 15 persuasion if a
 - The team includes Kite of the Wind, Berinon Truegust, and Guzezzik.
 - Georgina is angry at Kite of the Wind if she finds out he escaped--he was supposed to take her with him. Coward!
 - No other ship crew or passengers were involved.
-- She only knows that the purpose of sending the ship to Xorhas was to divert one of the passengers so they would not reach [[Port Damali - DM Notes]]. (The passenger was Aethor Kalisk, but Georgina does not have his name.)
+- She only knows that the purpose of sending the ship to Xhorhas was to divert one of the passengers so they would not reach [[Port Damali - DM Notes]]. (The passenger was Aethor Kalisk, but Georgina does not have his name.)
 
 Small (2'11") Halfling, Lawful Evil (CR 2)
 
