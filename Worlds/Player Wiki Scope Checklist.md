@@ -68,7 +68,7 @@ An "Owns" list names the subjects a run is responsible for deciding about. It do
 - [X] **T10 The Monastery of Dimensional Harmony**
   - Owns: the monastery, the Order of Dimensional Harmony, and anyone notable tied to it (confirm). Secret-heavy.
   - Leaves to: E04–E05 (Solvei's Vigilance), T15–E07 (planar phenomena).
-- [ ] **T11–T12 Deastok and the Truscan Vale**
+- [X] **T11–T12 Deastok and the Truscan Vale**
   - Owns: the town of Deastok, its districts (Bursar Plaza, Garden Grounds, Jeweled Gates), notable places (the Shaded Bough, the White Peak Inn, the Bahamut Temple), and notable officials; the Truscan Vale, Kamordah, the Truscan family as a public power, and the Truscan dig site as a place (confirm).
   - Leaves to: E01–E06 (the Lorestone shard), T15–E07 (the dreams and planar phenomena), E02–E03 (Bahamut as a deity).
   - Note: an active arc. Expect most recent developments to be left out.
