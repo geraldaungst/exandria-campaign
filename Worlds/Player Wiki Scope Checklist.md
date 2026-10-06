@@ -58,7 +58,7 @@ An "Owns" list names the subjects a run is responsible for deciding about. It do
   - Owns: groups that operate in the city, such as the Zhelezo and Primework Station, and the Myriad and the Clasp as far as they are publicly known (confirm).
 - [X] **T05 The Menagerie Coast**
   - Owns: the region overview and other coastal destinations the characters would know of, such as Nicodranas (confirm).
-- [ ] **T06–T08 The road east: the Tyodan River, the swamp, the Shrine of Melora, and the Cyrios Mountains**
+- [X] **T06–T08 The road east: the Tyodan River, the swamp, the Shrine of Melora, and the Cyrios Mountains**
   - Owns: the Tyodan River and its bridge as a landmark; the swamp as a region; the Shrine of Melora as a place and what it is; the Cyrios Mountains as a region, with their main routes and passes (including the Wuyun Gates, confirm) and any landmarks not owned by S01, T09, or T10.
   - Leaves to: E01–E06 (the Malachite Cord), T15–E07 (rifts), T09, T10. The goblin band and individual encounters are out of scope.
   - Note: the vault calls the swamp both "Othemoor" and "Odessloe," and Odessloe is also a town near Rexxentrum. Confirm that the swamp and the town are consistent throughout the vault and resolve any inconsistencies before this run.
