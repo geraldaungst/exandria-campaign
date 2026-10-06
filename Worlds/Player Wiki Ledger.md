@@ -55,6 +55,7 @@ Decisions from earlier runs that apply to every future run. Source and run in br
 - Completed session notes, including the Arc 1 prologues, confirm what happened in play but never expand what the party knows. [Conventions, applied T01]
 - The party's personal ties to public figures, and player characters' birthplaces and backstory places, stay off the wiki. [Claude, T01]
 - Careless wording in a vault note (such as "the mayor" for Whitestone) doesn't override canon structure. Ask when it matters. [Gerald, T01]
+- The Gentleman's lore differs from canon. Never silently import canon details about the Gentleman or Babenon Dosal, including his ties to Marion Lavorre. Confirm with Gerald first. [Gerald, T05]
 
 ### Scope and note shape
 

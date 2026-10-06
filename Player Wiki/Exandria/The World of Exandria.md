@@ -29,11 +29,7 @@ This contains information specific to the Lorestone of Eryndor campaign.
 
 ### Locations
 
-- [[Port Damali]]: largest city on Wildemount's western coast, where the Tyodan River meets the Lucidian Ocean; its page lists the city's notable places and people
-
-### Factions
-
-- [[Zhelezo]]: city guard and law enforcement of the Clovis Concord
+- [[Menagerie Coast]]: Wildemount's southwestern coast, governed by the Clovis Concord; its page lists the region's cities, people, and factions
 
 ## Cyrios Mountains
 
