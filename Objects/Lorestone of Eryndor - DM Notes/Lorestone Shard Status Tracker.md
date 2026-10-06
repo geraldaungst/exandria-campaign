@@ -52,7 +52,7 @@ The [[Lorestone of Eryndor - DM Notes]] was shattered into 8 pieces. This tracke
 **Pursued By:**
 
 - [[Emissaries of the Sunfall]] (seeking to steal/acquire)
-- [[Vaud Qalix]] (via spy network)
+- [[Vaud Qalix - DM Notes]] (via spy network)
 
 **Security Level:** High - Protected at Echoforge headquarters
 
@@ -81,7 +81,7 @@ The [[Lorestone of Eryndor - DM Notes]] was shattered into 8 pieces. This tracke
 **Pursued By:**
 
 - [[Emissaries of the Sunfall]] (seeking to steal/acquire)
-- [[Vaud Qalix]] (via spy network)
+- [[Vaud Qalix - DM Notes]] (via spy network)
 
 **Security Level:** High - Protected at Echoforge headquarters
 
@@ -110,7 +110,7 @@ The [[Lorestone of Eryndor - DM Notes]] was shattered into 8 pieces. This tracke
 **Pursued By:**
 
 - [[Emissaries of the Sunfall]] (seeking to steal/acquire)
-- [[Vaud Qalix]] (via spy network)
+- [[Vaud Qalix - DM Notes]] (via spy network)
 
 **Security Level:** High - Protected at Echoforge headquarters
 
@@ -139,7 +139,7 @@ The [[Lorestone of Eryndor - DM Notes]] was shattered into 8 pieces. This tracke
 **Pursued By:**
 
 - [[Emissaries of the Sunfall]] (seeking to steal/acquire)
-- [[Vaud Qalix]] (via spy network)
+- [[Vaud Qalix - DM Notes]] (via spy network)
 
 **Security Level:** High - Protected at Echoforge headquarters
 
@@ -188,12 +188,12 @@ The [[Lorestone of Eryndor - DM Notes]] was shattered into 8 pieces. This tracke
 
 **Physical Location:** Party inventory
 
-**Acquired:** from [[Dreyara Drimvar|Dreyara]] when she was killed
+**Acquired:** from [[Dreyara Drimvar - DM Notes|Dreyara]] when she was killed
 
 **Known By:**
 
-- [[Dreyara Drimvar]] (deceased, no longer has it)
-- [[Vaud Qalix]] (Dreyara works for him)
+- [[Dreyara Drimvar - DM Notes]] (deceased, no longer has it)
+- [[Vaud Qalix - DM Notes]] (Dreyara works for him)
 - [[Celdric Ambril]] (was seeking it, knows it was found)
 - [[Aelorin Nightshade]]
 
@@ -283,7 +283,7 @@ The [[Lorestone of Eryndor - DM Notes]] was shattered into 8 pieces. This tracke
 All of these will eventually pursue it when they learn of its existence
 
 - [[Obsidian Echoforge]]
-- [[Vaud Qalix]]
+- [[Vaud Qalix - DM Notes]]
 - [[Emissaries of the Sunfall]]
 
 **Security Level:** Unknown
@@ -336,11 +336,11 @@ All of these will eventually pursue it when they learn of its existence
 
 **Strategy:** Theft, infiltration, violence
 
-#### [[Vaud Qalix]]
+#### [[Vaud Qalix - DM Notes]]
 
 **Goal:** Assemble Lorestone to power Draconia restoration
 
-**Current Holdings:** Shard 6 (via [[Dreyara Drimvar]])
+**Current Holdings:** Shard 6 (via [[Dreyara Drimvar - DM Notes]])
 
 **Resources:** 75 researchers, 10 spies, substantial funding
 

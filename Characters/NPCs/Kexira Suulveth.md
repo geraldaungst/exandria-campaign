@@ -21,7 +21,7 @@ Young white Draconblood dragonborn, mid-twenties. Pale frost-white scales with f
 
 Works as an independent artifact and information broker, selling recovered Draconian materials, historical documents, and scholarly intelligence to buyers across Wildemount. The Cobalt Soul archive in Rexxentrum is her most reliable and prestigious client. [[Archivist Ovedo]] finds her useful—not entirely trustworthy by institutional standards, but practical and knowledgeable in ways the monks rarely are.
 
-She also, without fully acknowledging it to herself, passes information to [[Vaud Qalix]]'s network. She thinks of this less as working for Qalix and more as contributing to a cause she believes in. The distinction matters to her. It would not matter to the party.
+She also, without fully acknowledging it to herself, passes information to [[Vaud Qalix - DM Notes]]'s network. She thinks of this less as working for Qalix and more as contributing to a cause she believes in. The distinction matters to her. It would not matter to the party.
 
 ### Roleplay
 

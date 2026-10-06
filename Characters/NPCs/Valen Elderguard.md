@@ -52,7 +52,7 @@ Comes from the Elderguard family, known for shadow magic prowess. Rose to promin
 > [!secret]- DM Only
 > - Secret motivations: Believes power and control are the only reliable means of securing peace
 > - Unknown connections:
->   - Reports directly to [[Vaud Qalix]]
+>   - Reports directly to [[Vaud Qalix - DM Notes]]
 >   - Has recruited [[Eledyr Dephar]] using Clasp connections
 > - Operations:
 >   - Orchestrated failed skyjacking of the *Unshaken*

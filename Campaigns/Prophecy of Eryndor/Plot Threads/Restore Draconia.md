@@ -11,13 +11,13 @@ tags:
 > - Stage: Active
 > - Priority: High
 > - Timeline: N/A
-> - Key Players: [[Vaud Qalix]], [[Valen Elderguard]]
+> - Key Players: [[Vaud Qalix - DM Notes]], [[Valen Elderguard]]
 > - Last Session:
 > - Next Steps:
 
 ## Overview
 
-[[Vaud Qalix]] believes the [[Scars of Scale and Tooth]] are
+[[Vaud Qalix - DM Notes]] believes the [[Scars of Scale and Tooth]] are
 
 ## Current State
 

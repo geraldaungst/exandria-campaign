@@ -35,16 +35,13 @@ This contains information specific to the Lorestone of Eryndor campaign.
 
 ### Locations
 
-- [[Cyrios Mountains]]: mountain range between the Menagerie Coast and the Dwendalian Empire
-- [[Gnurlsotten's Nosh & Nip]]: a roadside tavern and cheesery on the road toward Deastok
+- [[Cyrios Mountains]]: mountain range between the Menagerie Coast and the Dwendalian Empire; its page lists the range's landmarks, people, and items
+
+## Xhorhas
 
 ### People
 
-- [[Grent Gnurlsotten]]: proprietor of Gnurlsotten's Nosh & Nip
-
-### Items
-
-- [[Cave-Aged Truscan]]: a goat's-milk cheese made at Gnurlsotten's Nosh & Nip
+- [[Vaud Qalix]]: Eye of the Scars, Protector of the Council of Xarzith Kitril
 
 ## Across Regions
 

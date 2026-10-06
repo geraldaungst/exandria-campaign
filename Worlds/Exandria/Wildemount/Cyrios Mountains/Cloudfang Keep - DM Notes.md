@@ -9,7 +9,7 @@ When Lady Emer was human, she excelled as a scout in the mercenary Emissaries of
 
 Emer now seeks to master planar magic, driven by a thirst for knowledge and the potential for immense power. She believes the Lorestone shards are keys to unlocking the secrets of the planes and controlling the rifts that scar Exandria.
 
-[[Lady Emer]] is a planar magic expert working with Vaud Qalix and Dreyara Drimvar. She uses [[Cloudfang Keep - DM Notes]] as a base of operations for studying planar rifts and researching the Lorestone shards. She provides Qalix with arcane expertise and a secure location for experimentation.
+[[Lady Emer - DM Notes]] is a planar magic expert working with Vaud Qalix and Dreyara Drimvar. She uses [[Cloudfang Keep - DM Notes]] as a base of operations for studying planar rifts and researching the Lorestone shards. She provides Qalix with arcane expertise and a secure location for experimentation.
 
 ## Keep Features
 

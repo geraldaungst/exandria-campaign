@@ -32,7 +32,7 @@ created: 2025-01-10
 
 ### Source Note
 
-[[Xarzith Kitril]]
+[[Xarzith Kitril - DM Notes]]
 
 ### Related Atomic Notes
 

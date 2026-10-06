@@ -17,7 +17,7 @@ Update this as party progresses.
 | Group               | Current Points | Location         | Path     |
 | ------------------- | -------------- | ---------------- | -------- |
 | Party               | 19             | Razorspine       | Moderate |
-| [[Dreyara Drimvar]] | 23             | Frostfall Valley | Moderate |
+| [[Dreyara Drimvar - DM Notes]] | 23             | Frostfall Valley | Moderate |
 
 ---
 

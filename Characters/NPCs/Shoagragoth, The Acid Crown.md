@@ -10,8 +10,8 @@ location:
 tags:
   - npc
   - needs-work
-  - world/Exandria
-  - region/xorhas
+  - world/exandria
+  - region/xhorhas
 ---
 
 ## Quick Reference

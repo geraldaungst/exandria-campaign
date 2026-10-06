@@ -69,7 +69,7 @@ tags:
   - Potential ally against rift threats
 - **Celdric Ambril**
   - Laucian has a letter to deliver to them
-  - Searching for Shard 6 of the Lorestone in Marquet, which recently arrived in Port Damali and then was promptly stolen by [[Dreyara Drimvar]].
+  - Searching for Shard 6 of the Lorestone in Marquet, which recently arrived in Port Damali and then was promptly stolen by [[Dreyara Drimvar - DM Notes]].
 - **Elowyn** (Seraphina's unicorn patron)
   - Seraphina seeks to understand what new purpose Elowen has for her
 
@@ -100,7 +100,7 @@ tags:
 
 - **Shards 1-4:** Lyren Willowwhisper (Obsidian Echoforge)
 - **Shard 5:** Archivist Ovedo at Rexxentrum Archive (Cobalt Soul)
-- **Shard 6:** Currently held by [[Dreyara Drimvar]] or one of her minions
+- **Shard 6:** Currently held by [[Dreyara Drimvar - DM Notes]] or one of her minions
 - **Shard 7**: In the hoard of [[Shoagragoth, The Acid Crown]] (not yet known by the party). This is the shard that [[Keldar Stonefoot - DM Notes]] will point the party towards if they get that far.
 - **Shard 8**: Unknown
 

@@ -6,4 +6,4 @@ tags:
 
 ## Thok-Kynn Dalca
 
-[[Vaud Qalix]]'s treasurer and accountant
+[[Vaud Qalix - DM Notes]]'s treasurer and accountant

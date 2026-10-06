@@ -10,7 +10,7 @@ tags:
 > - Current Status: Active
 > - Key Feature: Tailor shop with hidden basement; new rift to the Plane of Earth
 > - Atmosphere:
-> - Recent Events: [[Aelorin Nightshade]] [[Dreyara Drimvar]]
+> - Recent Events: [[Aelorin Nightshade]] [[Dreyara Drimvar - DM Notes]]
 
 ## Overview
 

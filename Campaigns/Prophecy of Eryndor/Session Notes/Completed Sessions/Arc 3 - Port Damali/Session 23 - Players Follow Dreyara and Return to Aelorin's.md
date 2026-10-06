@@ -13,7 +13,7 @@ tags:
 > [!info] Essential Details
 > - Location(s): [[Port Damali - DM Notes]]
 > - Active Plots: [[Restore Draconia]], [[Assembling the Lorestone]]
-> - Key NPCs: [[Dreyara Drimvar|Dreyara]]
+> - Key NPCs: [[Dreyara Drimvar - DM Notes|Dreyara]]
 > - Previous Session: [[Session 22 - Raid on Aelorin's Headquarters]]
 > - Next Session: [[Session 24 - Gorillafish Attack]]
 
@@ -54,7 +54,7 @@ tags:
 
 ### Strong Start
 
-- Opening scene: Players are following [[Dreyara Drimvar|Dreyara]] through the streets of Port Damali.
+- Opening scene: Players are following [[Dreyara Drimvar - DM Notes|Dreyara]] through the streets of Port Damali.
 - Purpose: Party wants to find out what she is up to.
 - Connected plots:
 - Required prep: Encounter with the Slaadi
@@ -64,7 +64,7 @@ tags:
 #### Potential Scenes
 
 1. Dreyara's contact is found murdered by Slaadi
-  - Connected plots/NPCs: [[Dreyara Drimvar|Dreyara]], Slaadi
+  - Connected plots/NPCs: [[Dreyara Drimvar - DM Notes|Dreyara]], Slaadi
   - Potential outcomes: Party learns of some new information about Dreyara and Rexxentrum
 
 Immediate Reaction by Dreyara:

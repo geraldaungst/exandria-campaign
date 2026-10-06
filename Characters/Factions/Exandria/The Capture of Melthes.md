@@ -23,7 +23,7 @@ tags:
 
 **Timeline:** Approximately 833 PD (about a year after [[Hesterian Shyr (Dot)|Hesterian]] was sold)
 
-**Location of Recruitment:** [[Xarzith Kitril]]
+**Location of Recruitment:** [[Xarzith Kitril - DM Notes]]
 
 **Location of Processing:** [[Cerberus Assembly]] research facility in [[Rexxentrum - DM Notes]]
 
@@ -76,7 +76,7 @@ When this event is discovered by [[Hesterian Shyr (Dot)|Hesterian]], there will 
 
 ### Potential Consequences
 
-- Diplomatic incident between [[Xarzith Kitril]] and [[Dwendalian Empire - DM Notes]]
+- Diplomatic incident between [[Xarzith Kitril - DM Notes]] and [[Dwendalian Empire - DM Notes]]
 - Exposure of Assembly's coercive recruitment practices
 - Rescue mission possibilities
 - [[Cree Deeproots]] as potential information source or ally

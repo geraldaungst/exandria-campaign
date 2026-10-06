@@ -41,7 +41,10 @@ One row per published Exandria note. Claude reads this before every run and does
 | Tyodan River                       | Location | T06–T08 | 2026-10-06 | None                                          |
 | Othemoor                           | Location | T06–T08 | 2026-10-06 | None                                          |
 | Shrine of Melora                   | Location | T06–T08 | 2026-10-06 | Shrine of Melora - DM Notes                   |
-| Cyrios Mountains                   | Location | T06–T08 | 2026-10-06 | None                                          |
+| Cyrios Mountains                   | Hub | T06–T08 | 2026-10-06 | None                                          |
+| Cloudfang Keep                     | Location | T09     | 2026-10-06 | Cloudfang Keep - DM Notes (already renamed)   |
+| Lady Emer                          | NPC      | T09     | 2026-10-06 | Lady Emer - DM Notes                          |
+| Vaud Qalix                         | NPC      | T09     | 2026-10-06 | Vaud Qalix - DM Notes                         |
 
 ## Standing Decisions
 

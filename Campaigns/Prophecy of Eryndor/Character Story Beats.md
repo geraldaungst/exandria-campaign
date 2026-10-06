@@ -51,7 +51,7 @@ Anyone - [[danoths-visor-egw|Danoth's Visor]], [[jewel-of-three-prayers-crcotn|J
 
 ### Short Term
 
-- [ ] [[Drawg Stormbrew (Brew)|Drawg]] needs to acquire his [[Blade of Maroth Fenn|dagger]]…currently held by [[Dreyara Drimvar]]
+- [ ] [[Drawg Stormbrew (Brew)|Drawg]] needs to acquire his [[Blade of Maroth Fenn|dagger]]…currently held by [[Dreyara Drimvar - DM Notes]]
 - [x] …and [[Drawg Stormbrew (Brew)|Drawg]] also wants a trident
 - [x] [[Drawg Stormbrew (Brew)|Drawg]] has promised to help with the [[New Temple of Moradin - DM Notes]]
 - [ ] [[Hesterian Shyr (Dot)|Hesterian]] will infiltrate the Myriad, but doing so will compel her to commit evil acts.

@@ -117,7 +117,7 @@ Hesterian believes Melthes is "studying magic" somewhere and has no knowledge of
 - [ ] Potential intelligence gathering from Assembly sources
 - [ ] Recruitment of allies for rescue attempt
 - [ ] Planning phase for infiltration/rescue
-- [ ] Possible diplomatic approach through [[Xarzith Kitril]] authorities
+- [ ] Possible diplomatic approach through [[Xarzith Kitril - DM Notes]] authorities
 
 #### Timing Constraints
 
@@ -160,7 +160,7 @@ Hesterian believes Melthes is "studying magic" somewhere and has no knowledge of
 
 **Branch 2: Diplomatic Pressure**
 
-- Use evidence to pressure Assembly through [[Xarzith Kitril]] or Crown
+- Use evidence to pressure Assembly through [[Xarzith Kitril - DM Notes]] or Crown
 - Lower risk but slower
 - May result in Melthes's release but not justice
 - Political consequences for Assembly
@@ -197,7 +197,7 @@ Hesterian believes Melthes is "studying magic" somewhere and has no knowledge of
 - **Cree's Loyalty:** Professional vs. personal ethics conflict
 - **Information Gaps:** Even allies may not know current status
 - **Melthes's Condition:** Unknown if he's been corrupted, broken, or remains himself
-- **Political Ramifications:** [[Xarzith Kitril]] vs. Empire tensions
+- **Political Ramifications:** [[Xarzith Kitril - DM Notes]] vs. Empire tensions
 - **Party Resources:** Level-appropriate challenge considerations
 - **Other Captives:** Moral obligation to help others in same situation
 - **Volstrucker Connection:** Link to Hesterian's [[stone-of-memory]] and past

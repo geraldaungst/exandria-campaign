@@ -37,3 +37,19 @@ The Cyrios Mountains rise north and east of the [[Menagerie Coast]], between the
 - [[Cloudfang Keep]]: a keep in the high peaks
 - [[Gnurlsotten's Nosh & Nip]]: a tavern and cheesery at the edge of the range, on the road toward Deastok
 - [[Monastery of Dimensional Harmony]]: an ancient monastery carved into a mountain
+
+## In the Cyrios Mountains
+
+### Locations
+
+- [[Cloudfang Keep]]: crumbling castle on Frigid Summit, home of Lady Emer
+- [[Gnurlsotten's Nosh & Nip]]: a roadside tavern and cheesery on the road toward Deastok
+
+### People
+
+- [[Grent Gnurlsotten]]: proprietor of Gnurlsotten's Nosh & Nip
+- [[Lady Emer]]: medusa scholar of planar rifts who lives at Cloudfang Keep
+
+### Items
+
+- [[Cave-Aged Truscan]]: a goat's-milk cheese made at Gnurlsotten's Nosh & Nip

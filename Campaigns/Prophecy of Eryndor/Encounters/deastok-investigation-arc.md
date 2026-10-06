@@ -80,7 +80,7 @@ type: session-prep
 > - Deastok sits atop one such point: an old pre-Empire structure under farmland, recently uncovered by a survey crew, with a genuine but faint planar/Luxon-adjacent resonance. Dormant for centuries.
 > - **The dreams are not local in origin.** The thinning leaks Savalirwood imagery along the Astral. Deastok townspeople who have never left the Truscan Vale are dreaming a forest three hundred years and a continent away—*as it was*, not as it is now.
 > - The corruption has built for 250+ years, mostly sub-threshold. It is **only recently** crossing over—consistent with [[Erma Schnieb]]'s discovery that rifts are growing larger and lasting longer. Nobody caused the acceleration. The wound is simply getting big enough to show.
-> - [[Vaud Qalix]] is exploiting the trend, not causing it. [[Ceratos]] feeds on the growing chaos and wants to accelerate it, but lacks the leverage to do so directly—the party's interference has been working.
+> - [[Vaud Qalix - DM Notes]] is exploiting the trend, not causing it. [[Ceratos]] feeds on the growing chaos and wants to accelerate it, but lacks the leverage to do so directly—the party's interference has been working.
 > - **The party does not need to learn any of this explicitly.** They should leave with: (1) the dreams and the site are the same phenomenon, (2) it's old and larger than local legend, (3) the shards react to things that are not rifts, (4) Seraphina privately recognizes something personal in it. Full mechanism stays sealed.
 
 > [!secret]- What the dig site actually is (never stated to the party)

@@ -412,13 +412,13 @@ Then after result, turn to room: "Lady Emer lies beneath the immovable shield, h
 - [[Lady Emer Conversation Progression]] - Full interrogation framework with all triggers and dialogue
 - [[Cloudfang Keep - DM Notes]] - Location details, chest puzzle mechanics, room descriptions
 - [[Varnes Dwell]] - Full NPC profile, what he knows, his urgent message
-- [[Lady Emer]] - NPC profile and stat block
+- [[Lady Emer - DM Notes]] - NPC profile and stat block
 - [[luxon-beacon-egw|Luxon Beacon]] - What it actually is (if players identify it)
 
 **Supporting Documents:**
 
-- [[Vaud Qalix]] - The mysterious employer (what Emer knows vs. reality)
-- [[Dreyara Drimvar]] - The terrifying operative
+- [[Vaud Qalix - DM Notes]] - The mysterious employer (what Emer knows vs. reality)
+- [[Dreyara Drimvar - DM Notes]] - The terrifying operative
 - [[Lorestone of Eryndor - DM Notes]] - What they're all after
 - [[Session 32 - Confronting Lady Emer]] - Previous session notes
 

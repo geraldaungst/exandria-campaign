@@ -24,10 +24,10 @@ tags:
 [[Malachite Cord - DM Notes]]
 - Trying to stop the [[Obsidian Echoforge]] from assembling the Lorestone, which they think will cause further catastrophe. (They are partly correct--the Lorestone alone will indeed cause catastrophe.)
 - Trying to find and cure the corruption in the Savalirwood and think it is spreading across Exandria via the rifts. (They are correct.)
-- Is not yet aware of the [[Emissaries of the Sunfall|Emissaries]] or [[Vaud Qalix]].
+- Is not yet aware of the [[Emissaries of the Sunfall|Emissaries]] or [[Vaud Qalix - DM Notes]].
 [[Emissaries of the Sunfall]]
 - Want to find a way to harness the power of the rifts for their own use. Originally directly opposed to the [[Obsidian Echoforge]], in recent years they have begun trying to work together.
-- A splinter cell within the group, led by [[Valen Elderguard]] and financed by [[Vaud Qalix|Vaud Qalix]] is opposed to this partnership and is secretly working to undermine the work.
+- A splinter cell within the group, led by [[Valen Elderguard]] and financed by [[Vaud Qalix - DM Notes|Vaud Qalix]] is opposed to this partnership and is secretly working to undermine the work.
 [[Ashari Riftguard]]
 [[Cobalt Soul - DM Notes]]
 [[Cerberus Assembly]]

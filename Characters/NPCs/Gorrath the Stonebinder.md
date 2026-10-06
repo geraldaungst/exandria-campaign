@@ -9,7 +9,7 @@ tags:
   - npc
   - hook
   - world/exandria
-  - region/xorhas
+  - region/xhorhas
 ---
 
 ## Gorrath the Stonebinder

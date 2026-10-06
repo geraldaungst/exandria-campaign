@@ -3,10 +3,11 @@ aliases:
   - Yara
   - Dreyara
   - Vessa Blackthorn
-location: Port Damali
+location: N/A
 tags:
   - npc
   - needs-work
+  - deceased
 ---
 
 ![[dreyara-token.png|right|300]]
@@ -67,7 +68,7 @@ Operating in Port Damali, working to secure Myriad support for a planned heist o
 > [!note]- Background
 > Born near Rexxentrum. Recruited young into the Volstrucker (Cerberus Assembly's secret police); became one of their top agents specializing in espionage and assassination. Growing disillusionment set in as she discovered missions served political vendettas rather than Empire security—the final straw was learning one of her successful assassinations was orchestrated to cover Assembly corruption.
 >
-> Tasked with assassinating [[Vaud Qalix]]. Spent months infiltrating his organization, but was captured during the attempt. Qalix offered her a position instead of execution. During her surveillance she'd observed how he treated followers—with respect, clear purpose, and genuine recognition. She saw the offer as an opportunity for the autonomy the Volstrucker never provided. Her loyalty is genuine but pragmatic: based on respect and opportunity, not true belief in his cause.
+> Tasked with assassinating [[Vaud Qalix - DM Notes]]. Spent months infiltrating his organization, but was captured during the attempt. Qalix offered her a position instead of execution. During her surveillance she'd observed how he treated followers—with respect, clear purpose, and genuine recognition. She saw the offer as an opportunity for the autonomy the Volstrucker never provided. Her loyalty is genuine but pragmatic: based on respect and opportunity, not true belief in his cause.
 >
 > ![[dreyara.jpeg|right|300]]
 

@@ -14,7 +14,7 @@ Pronunciation: ker-AH-tose
 
 See also: [[exandria-ceratos|Exandria Ceratos]]
 
-Ceratos is the true Nemesis of this campaign. He won't be revealed until [[Vaud Qalix]] is eliminated or defeated.
+Ceratos is the true Nemesis of this campaign. He won't be revealed until [[Vaud Qalix - DM Notes]] is eliminated or defeated.
 
 ## OGAS
 

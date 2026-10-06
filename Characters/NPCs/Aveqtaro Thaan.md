@@ -7,7 +7,7 @@ disposition: indifferent
 tags:
   - npc
   - world/exandria
-  - region/xorhas
+  - region/xhorhas
 ---
 
 ## Quick Reference

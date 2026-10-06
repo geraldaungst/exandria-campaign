@@ -109,7 +109,7 @@ When roleplaying **Rinneth Starsong**, a balance between cautious openness and p
 
 ### New NPCs Introduced
 
-- [[Dreyara Drimvar]] was mentioned
+- [[Dreyara Drimvar - DM Notes]] was mentioned
 
 ### Player Choices & Consequences
 

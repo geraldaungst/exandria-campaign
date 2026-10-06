@@ -30,7 +30,7 @@ None yet
 
 #### Vaud Qalix overall plan
 
-![[Vaud Qalix#Plan Outline]]
+![[Vaud Qalix - DM Notes#Plan Outline]]
 
 ### Background Events
 

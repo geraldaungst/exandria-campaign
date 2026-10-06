@@ -41,7 +41,7 @@ tags:
 
 - [[Sumad-Dekon Harrowgate]] - Human Wizard
 - [[Valen Elderguard]] - Leader, orchestrator of current operations
-- [[Vaud Qalix]] - Secret financier of recent operations
+- [[Vaud Qalix - DM Notes]] - Secret financier of recent operations
 
 ### Size/Scale
 
@@ -169,7 +169,7 @@ The Massacre had profound internal consequences:
 
 ### Medium-term Goals
 
-- Help [[Vaud Qalix]] gather [[Lorestone of Eryndor - DM Notes]] shards
+- Help [[Vaud Qalix - DM Notes]] gather [[Lorestone of Eryndor - DM Notes]] shards
 
 ### Long-term Goals
 

@@ -2,7 +2,7 @@
 affiliations:
   - "[[Emissaries of the Sunfall]]"
   - "[[Draconia]]"
-  - "[[Xarzith Kitril]]"
+  - "[[Xarzith Kitril - DM Notes]]"
 aliases:
   - Vaud Qalix
   - Qalix
@@ -41,7 +41,7 @@ Stakes: Nothing else matters. All in.
 - 5 other Villains heading up specific parts of his operation:
 	- [[Sirion Del'thane]] - Envoy coordinating negotiations with the Empire and the Dynasty (though each side does not know the other is beeing wooed)
 	- [[Ru'Shan Halrune]] - Head researcher and explorer locating the missing shards
-	- Spymaster [[Dreyara Drimvar]]
+	- Spymaster [[Dreyara Drimvar - DM Notes]]
 	- [[Thok-Kynn Dalca]] - Treasurer
 	- [[Gorrath the Stonebinder]] - Experienced architect and stonemason who is in charge of rebuilding Draconia.
 

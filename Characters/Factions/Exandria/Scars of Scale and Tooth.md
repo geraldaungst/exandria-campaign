@@ -1,12 +1,12 @@
 ---
 affiliations:
   - "[[Emissaries of the Sunfall]]"
-current_location: "[[Xarzith Kitril]]"
+current_location: "[[Xarzith Kitril - DM Notes]]"
 disposition: indifferent
 tags:
   - faction
   - world/exandria
-  - region/xorhas
+  - region/xhorhas
   - offscreen
 ---
 
@@ -32,6 +32,6 @@ Korvarr Liatianok: an advocate for aggressive economic expansion, prioritizing t
 
 Sarxina Viavazoth: argues for a focus on environmental conservation and maintaining a harmonious relationship with nature. She frequently finds herself in disagreement with members who prioritize urban expansion and industrial development over ecological concerns.
 
-[[Vaud Qalix|Vaud Qalix]], Eye of the Scars, Protector of the Council, Head of the Wardens of the Ravine. Finds himself most often in alignment with the views of Zalthara and Hirrathak, but believes neither has the vision to make Draconia the world power he knows it can be. He does not voice that opinion openly, however.
+[[Vaud Qalix - DM Notes|Vaud Qalix]], Eye of the Scars, Protector of the Council, Head of the Wardens of the Ravine. Finds himself most often in alignment with the views of Zalthara and Hirrathak, but believes neither has the vision to make Draconia the world power he knows it can be. He does not voice that opinion openly, however.
 
 ![[scars-logo.png|right|300]]

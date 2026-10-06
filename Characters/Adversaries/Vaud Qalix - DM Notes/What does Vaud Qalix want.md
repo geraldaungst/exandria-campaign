@@ -14,14 +14,14 @@ Vaud sees potential in siphoning the energies from the rifts across Exandria. He
 
 ## Source Context
 
-- Key for [[Vaud Qalix]]'s plan to [[Restore Draconia]].
-- Related to activities in [[Xarzith Kitril]], [[Port Damali - DM Notes]], and [[Rexxentrum - DM Notes]] currently.
+- Key for [[Vaud Qalix - DM Notes]]'s plan to [[Restore Draconia]].
+- Related to activities in [[Xarzith Kitril - DM Notes]], [[Port Damali - DM Notes]], and [[Rexxentrum - DM Notes]] currently.
 
 ## Connections
 
 ### Source Note
 
-[[Vaud Qalix]]
+[[Vaud Qalix - DM Notes]]
 
 ### Related Atomic Notes
 

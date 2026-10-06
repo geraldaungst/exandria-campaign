@@ -50,7 +50,7 @@ How this relationship affects the campaign
 
 ### Source Note
 
-[[Xarzith Kitril]]
+[[Xarzith Kitril - DM Notes]]
 
 ### Related Atomic Notes
 

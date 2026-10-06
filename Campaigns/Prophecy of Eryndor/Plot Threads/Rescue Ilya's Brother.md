@@ -21,7 +21,7 @@ tags:
 
 ### Recent Events
 
-- Party learns that [[Cloudfang Keep - DM Notes]] is where both Ilya's brother ([[Varnes Dwell]]) is and where [[Dreyara Drimvar|Dreyara]] is likely heading.
+- Party learns that [[Cloudfang Keep - DM Notes]] is where both Ilya's brother ([[Varnes Dwell]]) is and where [[Dreyara Drimvar - DM Notes|Dreyara]] is likely heading.
 - Cloudfang Keep is in the high elevations of the Cyrios Mountains (cold climate).
 
 ### Active Elements
@@ -35,13 +35,13 @@ tags:
 ## Player Knowledge
 
 - What they know:
-	- [[Cloudfang Keep - DM Notes]] is where both Ilya's brother ([[Varnes Dwell]]) is and where [[Dreyara Drimvar|Dreyara]] is likely heading.
+	- [[Cloudfang Keep - DM Notes]] is where both Ilya's brother ([[Varnes Dwell]]) is and where [[Dreyara Drimvar - DM Notes|Dreyara]] is likely heading.
 	- Be prepared for basilisks and other ways people are turned to stone.
 - What they think they know:
-	- [[Dreyara Drimvar|Dreyara]] is going to be there when they arrive.
+	- [[Dreyara Drimvar - DM Notes|Dreyara]] is going to be there when they arrive.
 	- Lady Emer may have a Pearl of Power in her collection
 - What they don't know:
-	- [[Lady Emer]] has transformed herself into a medusa.
+	- [[Lady Emer - DM Notes]] has transformed herself into a medusa.
 	- The pearl of power she carries is actually the [[Lawbearer's Tear]]. Lady Emer doesn't even realize it is an artifact.
 
 ## Plot Hierarchy

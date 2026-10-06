@@ -14,9 +14,9 @@ tags:
 
 ### The Situation
 
-The party holds a [[luxon-beacon-egw|Luxon Beacon]] recovered from [[Lady Emer]] at
+The party holds a [[luxon-beacon-egw|Luxon Beacon]] recovered from [[Lady Emer - DM Notes]] at
 
-[[Cloudfang Keep - DM Notes]]. It was provided to Emer by [[Vaud Qalix]] for planar
+[[Cloudfang Keep - DM Notes]]. It was provided to Emer by [[Vaud Qalix - DM Notes]] for planar
 
 research, with no indication he understood its true nature or sacred status.
 
@@ -93,5 +93,5 @@ not just a narrative one.
 - [[Luxon Beacon Integration with Lorestone]]
 - [[Lorestone Shard Status Tracker]]
 - [[Aveqtaro Thaan]]
-- [[Vaud Qalix]]
-- [[Lady Emer]]
+- [[Vaud Qalix - DM Notes]]
+- [[Lady Emer - DM Notes]]

@@ -27,11 +27,11 @@ tags:
     - **Neutralizing Obstacles:** Using their network to neutralize threats.
 - **Mutual Gain:** The Myriad supports Qalix's ambitions as long as they align with their own interests, creating a delicate balance of power.
 
-**[[Dreyara Drimvar]]'s Role in the Alliance:**
+**[[Dreyara Drimvar - DM Notes]]'s Role in the Alliance:**
 
-- **Establishing Alliances:** [[Dreyara Drimvar|Dreyara]], as Qalix's spymaster, is instrumental in establishing and maintaining the alliance with the Myriad.
+- **Establishing Alliances:** [[Dreyara Drimvar - DM Notes|Dreyara]], as Qalix's spymaster, is instrumental in establishing and maintaining the alliance with the Myriad.
 - **Approaching Key Figures:** She would approach key figures like [[Father Dwondaff Pierce]] to secure their support.
-- **Negotiation Tactics:** [[Dreyara Drimvar|Dreyara]] uses a combination of leverage, promises, and strategic offers to gain their cooperation.
+- **Negotiation Tactics:** [[Dreyara Drimvar - DM Notes|Dreyara]] uses a combination of leverage, promises, and strategic offers to gain their cooperation.
 - **Incentives:**
     - For [[Father Dwondaff Pierce]]: Offering rare artifacts for the Pearl Shrine and intelligence on potential threats.
     - For [[Lord Gabriel Rymmer]]: Access to financial resources and rare artifacts through the auction house.
@@ -49,19 +49,19 @@ tags:
 
 **Potential Conflicts with the Clasp:**
 
-- **Competition:** The alliance between Rymmer and [[Dreyara Drimvar|Dreyara]] can lead to conflict with the Clasp due to competition for resources and control over the black market.
+- **Competition:** The alliance between Rymmer and [[Dreyara Drimvar - DM Notes|Dreyara]] can lead to conflict with the Clasp due to competition for resources and control over the black market.
 - **Economic Warfare:** Rymmer's influence can disrupt the Clasp's smuggling routes.
 - **Intelligence Warfare:** Both factions may engage in espionage and counter-espionage, leading to retaliatory actions.
 
-**[[Dreyara Drimvar]]'s Current Activities:**
+**[[Dreyara Drimvar - DM Notes]]'s Current Activities:**
 
-- **Spymaster:** [[Dreyara Drimvar|Dreyara]] is currently operating in [[Port Damali - DM Notes]], monitoring the party and seeking Myriad support for a planned heist of the Rexxentrum Archive.
+- **Spymaster:** [[Dreyara Drimvar - DM Notes|Dreyara]] is currently operating in [[Port Damali - DM Notes]], monitoring the party and seeking Myriad support for a planned heist of the Rexxentrum Archive.
 - **Possession of Artifact:** She possesses Drawg's Blade of Maroth Fenn.
-- **Alliance Building:** [[Dreyara Drimvar|Dreyara]] is focused on building connections and resources for the Archive operation, which includes securing the alliance with the Myriad.
+- **Alliance Building:** [[Dreyara Drimvar - DM Notes|Dreyara]] is focused on building connections and resources for the Archive operation, which includes securing the alliance with the Myriad.
 
 **Overall:**
 
-Qalix's alliance with the Myriad is a crucial element of his plan, providing him with resources, intelligence, and influence within [[Port Damali - DM Notes]]. [[Dreyara Drimvar]] is the key figure in managing this alliance, using her skills and experience to navigate the complex relationships within the Myriad and ensure their support for
+Qalix's alliance with the Myriad is a crucial element of his plan, providing him with resources, intelligence, and influence within [[Port Damali - DM Notes]]. [[Dreyara Drimvar - DM Notes]] is the key figure in managing this alliance, using her skills and experience to navigate the complex relationships within the Myriad and ensure their support for
 
 [Timestamp: 2025/04/27 19:06:21]
 
@@ -69,7 +69,7 @@ Qalix's alliance with the Myriad is a crucial element of his plan, providing him
 
 [Timestamp: 2025/04/27 19:07:40]
 
-**ai**: Okay, here are eight possible scenarios for someone in Vaud Qalix's inner circle awaiting a shipment of rare herbs in Zadash, considering the existing information about Qalix, the Myriad, the Clasp, and key figures like [[Dreyara Drimvar]]:
+**ai**: Okay, here are eight possible scenarios for someone in Vaud Qalix's inner circle awaiting a shipment of rare herbs in Zadash, considering the existing information about Qalix, the Myriad, the Clasp, and key figures like [[Dreyara Drimvar - DM Notes]]:
 
 **Assumptions:**
 
@@ -79,8 +79,8 @@ Qalix's alliance with the Myriad is a crucial element of his plan, providing him
 
 **Possible Scenarios:**
 
-1. **[[Dreyara Drimvar]] - Enhancing Divination:** [[Dreyara Drimvar|Dreyara]] is awaiting herbs to enhance her divination rituals. She seeks to gain insight into the party's plans or to locate the remaining shards of the [[Lorestone of Eryndor - DM Notes]]. The herbs could be components for a potent scrying incense or potion.
-2. **[[Dreyara Drimvar]] - Poison for Political Maneuvering:** [[Dreyara Drimvar|Dreyara]] requires the herbs to create a subtle poison. She intends to use it against a political rival in Zadash, someone who could threaten Qalix's influence or the Myriad's operations in the region.
+1. **[[Dreyara Drimvar - DM Notes]] - Enhancing Divination:** [[Dreyara Drimvar - DM Notes|Dreyara]] is awaiting herbs to enhance her divination rituals. She seeks to gain insight into the party's plans or to locate the remaining shards of the [[Lorestone of Eryndor - DM Notes]]. The herbs could be components for a potent scrying incense or potion.
+2. **[[Dreyara Drimvar - DM Notes]] - Poison for Political Maneuvering:** [[Dreyara Drimvar - DM Notes|Dreyara]] requires the herbs to create a subtle poison. She intends to use it against a political rival in Zadash, someone who could threaten Qalix's influence or the Myriad's operations in the region.
 3. **Unknown Alchemist - Potion for Qalix's Health:** An unknown alchemist, secretly in Qalix's service, is awaiting the herbs to brew a potion for Qalix's health or longevity. Qalix might be suffering from a condition that requires rare ingredients, or he seeks to extend his lifespan to complete his grand plan.
 4. **Myriad Contact - Healing Wounds:** A Myriad contact in Zadash, perhaps injured during a recent operation or conflict with the Clasp, requires the herbs for a potent healing remedy. This contact is vital to the Myriad's operations in Zadash, and Qalix is ensuring their well-being.
 5. **Clasp Liaison - Counterfeit Medicine:** A Clasp liaison is acquiring the herbs to create counterfeit medicine. They plan to flood the market with fake remedies, undermining legitimate apothecaries and strengthening the Clasp's control over the local economy. This benefits Qalix by destabilizing the region and creating opportunities for exploitation.
@@ -96,13 +96,13 @@ These scenarios are based on the information available and are designed to provi
 
 [Timestamp: 2025/04/27 19:08:25]
 
-**ai**: Okay, based on the note [[Vaud Qalix]] and the previous information, here's a revised list of Vaud Qalix's known associates:
+**ai**: Okay, based on the note [[Vaud Qalix - DM Notes]] and the previous information, here's a revised list of Vaud Qalix's known associates:
 
 **Direct Associates & Subordinates:**
 
 - **[[Sirion Del'thane]]:** Envoy coordinating negotiations with the Empire and the Dynasty.
 - **[[Ru'Shan Halrune]]:** Head researcher and explorer locating the missing shards of the [[Lorestone of Eryndor - DM Notes]].
-- **[[Dreyara Drimvar]]:** Spymaster.
+- **[[Dreyara Drimvar - DM Notes]]:** Spymaster.
 - **[[Thok-Kynn Dalca]]:** Treasurer.
 - **[[Gorrath the Stonebinder]]:** Experienced architect and stonemason in charge of rebuilding Draconia.
 - **[[Iliara Firth]]:** (Potential) Chronurgy Wizard to stabilize the rifts with the [[Lorestone of Eryndor - DM Notes]]. Qalix has not yet recruited her, but intends to.
@@ -111,7 +111,7 @@ These scenarios are based on the information available and are designed to provi
 
 - **[[Emissaries of the Sunfall]]:** Factional affiliation.
 - **[[Draconia]]:** Factional affiliation (goal is to restore it).
-- **[[Xarzith Kitril]]:** Council from which Qalix embezzled funds.
+- **[[Xarzith Kitril - DM Notes]]:** Council from which Qalix embezzled funds.
 - **The Myriad:** Alliance for resources, intelligence, and influence.
 - **The Clasp:** Alliance (likely for similar reasons as the Myriad).
 
@@ -134,13 +134,13 @@ This revised list provides a clearer picture of Qalix's network, distinguishing 
 
 **ai**: Okay, here are eight new scenarios about the rare herbs in Zadash, incorporating Vaud Qalix's known associates from the revised list:
 
-**1. [[Dreyara Drimvar]] - Enhancing Divination (Revised):**
+**1. [[Dreyara Drimvar - DM Notes]] - Enhancing Divination (Revised):**
 
-- [[Dreyara Drimvar]] is using the herbs to create a potent incense that enhances her scrying abilities. She's specifically trying to locate [[Iliara Firth]] to expedite her recruitment into Qalix's inner circle. The herbs are a rare component needed to pierce [[Iliara Firth]]'s chronal defenses.
+- [[Dreyara Drimvar - DM Notes]] is using the herbs to create a potent incense that enhances her scrying abilities. She's specifically trying to locate [[Iliara Firth]] to expedite her recruitment into Qalix's inner circle. The herbs are a rare component needed to pierce [[Iliara Firth]]'s chronal defenses.
 
 **2. [[Thok-Kynn Dalca]] - Black Market Transaction:**
 
-- [[Thok-Kynn Dalca]], Qalix's treasurer, is using the herb shipment as a cover for a larger black market transaction. The herbs themselves are a rare and valuable commodity, and the deal is meant to generate funds for Qalix's operations. The true purpose is to launder money embezzled from [[Xarzith Kitril]].
+- [[Thok-Kynn Dalca]], Qalix's treasurer, is using the herb shipment as a cover for a larger black market transaction. The herbs themselves are a rare and valuable commodity, and the deal is meant to generate funds for Qalix's operations. The true purpose is to launder money embezzled from [[Xarzith Kitril - DM Notes]].
 
 **3. [[Sirion Del'thane]] - Bribery:**
 
@@ -154,9 +154,9 @@ This revised list provides a clearer picture of Qalix's network, distinguishing 
 
 - [[Gorrath the Stonebinder]] is experimenting with the herbs as a binding agent for the reconstruction of Draconia. He believes they possess unique properties that can strengthen the ancient stonework and make it resistant to magical attacks.
 
-**6. Myriad Contact (Facilitated by [[Dreyara Drimvar]]) - Healing & Information:**
+**6. Myriad Contact (Facilitated by [[Dreyara Drimvar - DM Notes]]) - Healing & Information:**
 
-- A Myriad contact in Zadash is injured, and [[Dreyara Drimvar]] is providing the herbs for their healing. In exchange, the contact is providing [[Dreyara Drimvar]] with information about the local political landscape and potential threats to Qalix's operations.
+- A Myriad contact in Zadash is injured, and [[Dreyara Drimvar - DM Notes]] is providing the herbs for their healing. In exchange, the contact is providing [[Dreyara Drimvar - DM Notes]] with information about the local political landscape and potential threats to Qalix's operations.
 
 **7. Clasp Contact (Secretly Working for [[Ceratos]]) - Corrupting Influence:**
 
@@ -200,27 +200,27 @@ This revised list provides a clearer picture of Qalix's network, distinguishing 
 
 [Timestamp: 2025/04/27 19:12:47]
 
-**ai**: Okay, here are five options for how Vaud Qalix, through [[Dreyara Drimvar]], might attempt to recruit [[Iliara Firth]], knowing that she's interested in the herbs as precognitive catalysts:
+**ai**: Okay, here are five options for how Vaud Qalix, through [[Dreyara Drimvar - DM Notes]], might attempt to recruit [[Iliara Firth]], knowing that she's interested in the herbs as precognitive catalysts:
 
 **1. The "Accidental" Encounter:**
 
-- [[Dreyara Drimvar]], disguised or using an alias, engineers a seemingly accidental encounter with [[Iliara Firth]] in Zadash. She subtly steers the conversation towards the herbs and their potential for precognition, expressing a similar interest. She then offers [[Iliara Firth]] a sample of the herbs, claiming to have acquired them through a rare contact, and hints at a larger, more reliable source (Qalix) who could provide her with a steady supply in exchange for her expertise.
+- [[Dreyara Drimvar - DM Notes]], disguised or using an alias, engineers a seemingly accidental encounter with [[Iliara Firth]] in Zadash. She subtly steers the conversation towards the herbs and their potential for precognition, expressing a similar interest. She then offers [[Iliara Firth]] a sample of the herbs, claiming to have acquired them through a rare contact, and hints at a larger, more reliable source (Qalix) who could provide her with a steady supply in exchange for her expertise.
 
 **2. The Scholarly Proposition:**
 
-- [[Dreyara Drimvar]] approaches [[Iliara Firth]] under the guise of a representative from a wealthy patron interested in funding chronurgy research. She presents a compelling proposal: Qalix (unnamed, of course) is willing to provide [[Iliara Firth]] with access to rare resources, including the precognitive herbs, and a state-of-the-art laboratory in exchange for her expertise in stabilizing temporal rifts using the [[Lorestone of Eryndor - DM Notes]]. The proposal emphasizes the potential benefits to her research and the advancement of chronurgy as a whole.
+- [[Dreyara Drimvar - DM Notes]] approaches [[Iliara Firth]] under the guise of a representative from a wealthy patron interested in funding chronurgy research. She presents a compelling proposal: Qalix (unnamed, of course) is willing to provide [[Iliara Firth]] with access to rare resources, including the precognitive herbs, and a state-of-the-art laboratory in exchange for her expertise in stabilizing temporal rifts using the [[Lorestone of Eryndor - DM Notes]]. The proposal emphasizes the potential benefits to her research and the advancement of chronurgy as a whole.
 
 **3. The Desperate Plea:**
 
-- [[Dreyara Drimvar]] stages a scenario where she appears to be a desperate researcher seeking [[Iliara Firth]]'s help. She claims to have accidentally stumbled upon a dangerous temporal anomaly while experimenting with the herbs and needs [[Iliara Firth]]'s expertise to contain it. This approach appeals to [[Iliara Firth]]'s sense of responsibility and provides an opportunity for Qalix to showcase his resources and offer a long-term partnership to study and control such anomalies.
+- [[Dreyara Drimvar - DM Notes]] stages a scenario where she appears to be a desperate researcher seeking [[Iliara Firth]]'s help. She claims to have accidentally stumbled upon a dangerous temporal anomaly while experimenting with the herbs and needs [[Iliara Firth]]'s expertise to contain it. This approach appeals to [[Iliara Firth]]'s sense of responsibility and provides an opportunity for Qalix to showcase his resources and offer a long-term partnership to study and control such anomalies.
 
 **4. The Prophetic Warning:**
 
-- [[Dreyara Drimvar]], using her skills in illusion and deception, creates a convincing illusion of a future timeline where [[Iliara Firth]]'s research has led to a catastrophic temporal event. She then reveals that Qalix possesses the knowledge and resources to prevent this future, but he needs [[Iliara Firth]]'s help to fully understand and implement the necessary safeguards. This approach plays on [[Iliara Firth]]'s fears and positions Qalix as the only one who can avert disaster.
+- [[Dreyara Drimvar - DM Notes]], using her skills in illusion and deception, creates a convincing illusion of a future timeline where [[Iliara Firth]]'s research has led to a catastrophic temporal event. She then reveals that Qalix possesses the knowledge and resources to prevent this future, but he needs [[Iliara Firth]]'s help to fully understand and implement the necessary safeguards. This approach plays on [[Iliara Firth]]'s fears and positions Qalix as the only one who can avert disaster.
 
 **5. The Competitive Offer:**
 
-- [[Dreyara Drimvar]] informs [[Iliara Firth]] that another organization (perhaps a rival faction within the Cerberus Assembly or even the Obsidian Echoforge) is also interested in her expertise and has offered her a similar deal. She then presents Qalix's offer as a superior alternative, highlighting the unique benefits of working with him, such as access to the [[Lorestone of Eryndor - DM Notes]] shards and the opportunity to shape the future of Draconia. This approach creates a sense of urgency and encourages [[Iliara Firth]] to make a decision quickly.
+- [[Dreyara Drimvar - DM Notes]] informs [[Iliara Firth]] that another organization (perhaps a rival faction within the Cerberus Assembly or even the Obsidian Echoforge) is also interested in her expertise and has offered her a similar deal. She then presents Qalix's offer as a superior alternative, highlighting the unique benefits of working with him, such as access to the [[Lorestone of Eryndor - DM Notes]] shards and the opportunity to shape the future of Draconia. This approach creates a sense of urgency and encourages [[Iliara Firth]] to make a decision quickly.
 
 [Timestamp: 2025/04/27 19:12:53]
 
@@ -228,7 +228,7 @@ This revised list provides a clearer picture of Qalix's network, distinguishing 
 
 [Timestamp: 2025/04/27 19:14:06]
 
-**ai**: Okay, considering that [[Dreyara Drimvar]] is currently occupied elsewhere, here are five revised scenarios for recruiting [[Iliara Firth]], using a different contact in place of [[Dreyara Drimvar]]. Given Qalix's network, the most logical choices would be [[Sirion Del'thane]] (for a diplomatic approach) or a trusted Myriad operative (for a more subtle, information-based approach). Let's assume it's a Myriad operative named "Lysandra" for these scenarios:
+**ai**: Okay, considering that [[Dreyara Drimvar - DM Notes]] is currently occupied elsewhere, here are five revised scenarios for recruiting [[Iliara Firth]], using a different contact in place of [[Dreyara Drimvar - DM Notes]]. Given Qalix's network, the most logical choices would be [[Sirion Del'thane]] (for a diplomatic approach) or a trusted Myriad operative (for a more subtle, information-based approach). Let's assume it's a Myriad operative named "Lysandra" for these scenarios:
 
 **Revised Scenarios (Lysandra, Myriad Operative):**
 

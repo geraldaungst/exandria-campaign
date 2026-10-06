@@ -5,7 +5,7 @@ tags:
   - artifact
 ---
 
-The phenomenon that the [[Emissaries of the Sunfall]] and [[Vaud Qalix]] are attempting to construct with the [[Lorestone of Eryndor - DM Notes]].
+The phenomenon that the [[Emissaries of the Sunfall]] and [[Vaud Qalix - DM Notes]] are attempting to construct with the [[Lorestone of Eryndor - DM Notes]].
 
 Components required:
 

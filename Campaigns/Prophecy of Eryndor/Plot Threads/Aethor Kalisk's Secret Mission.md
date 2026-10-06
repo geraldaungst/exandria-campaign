@@ -10,7 +10,7 @@ tags:
 > - Stage: Active
 > - Priority: High
 > - Timeline: 10 days (until 3 Thunsheer 835)
-> - Key Players: [[Vaud Qalix]], [[Valen Elderguard]]
+> - Key Players: [[Vaud Qalix - DM Notes]], [[Valen Elderguard]]
 > - Last Session: [[Session 20 - Bandit Ambush in Swamp]]
 > - Next Steps:
 > 	- Return to PD

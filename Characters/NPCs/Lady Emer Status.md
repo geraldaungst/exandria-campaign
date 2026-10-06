@@ -18,7 +18,7 @@ tags:
 
 ## Immediate Plans
 
-- Finalize temporal resonance analysis before [[Dreyara Drimvar|Dreyara's]] expected arrival
+- Finalize temporal resonance analysis before [[Dreyara Drimvar - DM Notes|Dreyara's]] expected arrival
 - Prepare secure workspace for "specimens requiring immediate attention" that Dreyara will bring
 - Continue documenting how the [[luxon-beacon-egw|Luxon Beacon]] (her "Temporal Resonance Crystal") interacts with planar rift energy
 - Map the connections between beacon properties and Lorestone fragment resonance patterns
@@ -28,14 +28,14 @@ tags:
 - Master planar magic through comprehensive understanding of rift energy mechanics
 - Unlock the secrets of the Lorestone shards and their relationship to planar rifts
 - Prove her theories about controlled planar energy manipulation
-- Deliver results that satisfy [[Vaud Qalix]]'s escalating demands for progress
+- Deliver results that satisfy [[Vaud Qalix - DM Notes]]'s escalating demands for progress
 - Maintain her position as Qalix's primary planar research specialist
 
 ## Relationships
 
-**[[Vaud Qalix]]** (Employer, Never Met): Her patron and funding source. All communication occurs through letters and [[Dreyara Drimvar|Dreyara's]] visits. She views him as a powerful figure who recognizes her brilliance and provides resources she couldn't acquire independently. Recently he's been applying more pressure for results on the Lorestone research. She has no knowledge of his true nature or connection to [[Ceratos]].
+**[[Vaud Qalix - DM Notes]]** (Employer, Never Met): Her patron and funding source. All communication occurs through letters and [[Dreyara Drimvar - DM Notes|Dreyara's]] visits. She views him as a powerful figure who recognizes her brilliance and provides resources she couldn't acquire independently. Recently he's been applying more pressure for results on the Lorestone research. She has no knowledge of his true nature or connection to [[Ceratos]].
 
-**[[Dreyara Drimvar]]** (Qalix's Agent): Regular visitor who delivers specimens, inspects research progress, and serves as intermediary with Qalix. Emer treats her professionally but views these inspections as necessary inconveniences. Expected to arrive soon for examination of the beacon research findings.
+**[[Dreyara Drimvar - DM Notes]]** (Qalix's Agent): Regular visitor who delivers specimens, inspects research progress, and serves as intermediary with Qalix. Emer treats her professionally but views these inspections as necessary inconveniences. Expected to arrive soon for examination of the beacon research findings.
 
 **[[Varnes Dwell]]** (Prisoner): Petrified captive stored in the stone garden. Delivered by Dreyara for interrogation regarding his knowledge, but proved unable or unwilling to provide useful information. Emer considers him simply inventory—an object awaiting Qalix's personal attention, nothing more. No emotional investment whatsoever.
 

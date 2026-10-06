@@ -7,7 +7,7 @@ tags:
   - faction
   - offscreen
   - world/exandria
-  - region/xorhas
+  - region/xhorhas
 ---
 
 ## Goals

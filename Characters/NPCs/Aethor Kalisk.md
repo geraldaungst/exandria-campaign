@@ -37,7 +37,7 @@ Headquartered in [[Port Damali - DM Notes]] while researching Lorestone assembly
 **Key relationships:**
 
 - [[Lyren Willowwhisper]]—trusted ally who recruited him
-- [[Calderax Dunhall]]—potential informant (actually working for [[Dreyara Drimvar]])
+- [[Calderax Dunhall]]—potential informant (actually working for [[Dreyara Drimvar - DM Notes]])
 - [[Valen Elderguard]]—unknown enemy who targeted him during the skyship journey
 
 > [!secret]- Hidden Information

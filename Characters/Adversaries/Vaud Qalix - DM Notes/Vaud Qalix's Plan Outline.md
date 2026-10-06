@@ -9,7 +9,7 @@ created: 2025-01-10
 ### Plan Outline
 
 1. [ ] Acquire the 2 known shards of the [[Lorestone of Eryndor - DM Notes]] not held by the [[Obsidian Echoforge]]
-	- [ ] Steal the shard from the Rexxentrum Archive (assigned to [[Dreyara Drimvar]])
+	- [ ] Steal the shard from the Rexxentrum Archive (assigned to [[Dreyara Drimvar - DM Notes]])
 	- [ ] Buy the shard from [[Celdric Ambril]]
 2. [ ] Seek and recover the missing shards.
 3. [ ] Trick [[Lyren Willowwhisper]] into handing over her four shards - or kill her and take them if absolutely necessary
@@ -24,7 +24,7 @@ created: 2025-01-10
 6. [ ] Siphon the energy from a rift to feed his patron and increase Qalix's power
 7. [ ] Begin restoring the Ruins of Draconia
 8. [ ] Leverage existing alliances by demonstrating the new power of Draconia
-9. [ ] Declare himself [[Vaud Qalix|Dawnbringer of the New Draconian Dominion]].
+9. [ ] Declare himself [[Vaud Qalix - DM Notes|Dawnbringer of the New Draconian Dominion]].
 
 ### Obstacles
 
@@ -56,7 +56,7 @@ While Vaud believes his plan is methodical and well-researched, his understandin
 
 ### Source Note
 
-[[Vaud Qalix]]
+[[Vaud Qalix - DM Notes]]
 
 ### Related Atomic Notes
 

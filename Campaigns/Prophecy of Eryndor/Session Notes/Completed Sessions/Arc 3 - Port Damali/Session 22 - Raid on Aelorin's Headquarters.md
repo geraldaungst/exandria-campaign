@@ -15,7 +15,7 @@ tags:
 > [!info] Essential Details
 > - Location(s): [[Aelorin's Headquarters - DM Notes]]
 > - Active Plots: [[Restore Draconia]], [[Assembling the Lorestone]]
-> - Key NPCs: [[Dreyara Drimvar]], [[Aelorin Nightshade]]
+> - Key NPCs: [[Dreyara Drimvar - DM Notes]], [[Aelorin Nightshade]]
 > - Previous Session: [[Session 21 - Return to Port Damali]]
 > - Next Session: [[Session 23 - Players Follow Dreyara and Return to Aelorin's]]
 
@@ -36,7 +36,7 @@ tags:
 - Plot name: [[Restore Draconia]], [[Assembling the Lorestone]]
  - Current state: Active
  - Next developments:
- - Involved NPCs: [[Dreyara Drimvar]], [[Aelorin Nightshade]]
+ - Involved NPCs: [[Dreyara Drimvar - DM Notes]], [[Aelorin Nightshade]]
 
 ## Session Notes
 
@@ -46,14 +46,14 @@ tags:
 - They walk the grounds to get the lay of the land, then hide nearby to watch.
 - They see lights inside several times.
 - [[Seraphina Amaris (Vicki)|Seraphina]] sent her rat familiar into the building and explored around.
-- Eventually, they saw three people leave one at a time: Ra'ak (dragonborn Spy), Brunhilda (dwarf Thug), and [[Dreyara Drimvar|Dreyara]] (though they do not know who this is yet).
+- Eventually, they saw three people leave one at a time: Ra'ak (dragonborn Spy), Brunhilda (dwarf Thug), and [[Dreyara Drimvar - DM Notes|Dreyara]] (though they do not know who this is yet).
 - None of the NPCs became aware of the PCs watching them.
 - Ra'ak went East, Brunhilda went west and entered a Tavern, and Dreyara went east.
 
 ### Significant Changes
 
 - [x] NPC status/location changes:
-	- [ ] [[Dreyara Drimvar|Dreyara]] is being followed by at least one of the party members (Drawg and Qilynn, perhaps?)
+	- [ ] [[Dreyara Drimvar - DM Notes|Dreyara]] is being followed by at least one of the party members (Drawg and Qilynn, perhaps?)
 	- [ ] Hesterian is heading towards the tavern where Brunhilda entered
 - [x] Plot developments:
 	- [ ] Party did not learn any of the information from the basement

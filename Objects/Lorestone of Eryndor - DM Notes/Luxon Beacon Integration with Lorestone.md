@@ -84,7 +84,7 @@ The dual-requirement is revealed in three stages across the campaign:
    failed and why any attempt to manipulate planar boundaries without a
    stabilizing counterweight amplifies chaos rather than containing it.
 
-2. **[[Lady Emer]]'s research notes (Cloudfang Keep)**—demonstrate the
+2. **[[Lady Emer - DM Notes]]'s research notes (Cloudfang Keep)**—demonstrate the
    principle experimentally. Her 14 months of documented analysis show the
    Beacon's temporal stabilization effects near rift energy and its resonance
    with Lorestone shards. She didn't have a unified theory, but the data is

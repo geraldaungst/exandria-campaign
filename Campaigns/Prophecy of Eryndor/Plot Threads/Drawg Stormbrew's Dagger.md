@@ -10,7 +10,7 @@ tags:
 > [!info] Essential Details
 > - Stage: Ongoing
 > - Priority: Medium
-> - Key Players: [[Drawg Stormbrew (Brew)|Drawg]], [[Dreyara Drimvar|Dreyara]]
+> - Key Players: [[Drawg Stormbrew (Brew)|Drawg]], [[Dreyara Drimvar - DM Notes|Dreyara]]
 > - Last Session: [[Session 28 - Back at Harmony Hall]]
 > - Next Steps: Drawg confronts Dreyara
 
@@ -32,7 +32,7 @@ Dreyara has possession of the dagger and is unlikely to let it go.
 
 ## Player Knowledge
 
-- What they know: [[Dreyara Drimvar|Dreyara]] has a dagger strapped to her arm that appears to be the one [[Drawg Stormbrew (Brew)|Drawg]] is searching for.
+- What they know: [[Dreyara Drimvar - DM Notes|Dreyara]] has a dagger strapped to her arm that appears to be the one [[Drawg Stormbrew (Brew)|Drawg]] is searching for.
 - What they think they know:
 - What they don't know: The dagger is in fact the [[Blade of Maroth Fenn]], one of the [[vestiges-of-divergence-by-advancement-tdcsr|Vestiges of Divergence]].
 

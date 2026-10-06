@@ -49,7 +49,7 @@ Current whereabouts unknown. Last confirmed location was [[Cerberus Assembly]] r
 ### Family
 
 - Sister: [[Hesterian Shyr (Dot)|Hesterian Shyr]]
-- Parents: Living in [[Xarzith Kitril]] at time of capture (current status unknown)
+- Parents: Living in [[Xarzith Kitril - DM Notes]] at time of capture (current status unknown)
 - Relationship: Close-knit family; Melthes asked repeatedly about them during intake
 
 ### Abilities
@@ -63,7 +63,7 @@ Current whereabouts unknown. Last confirmed location was [[Cerberus Assembly]] r
 
 Full details in [[The Capture of Melthes]].
 
-**Summary:** In approximately 833 PD (about a year after his sister was sold into patronage), Melthes was taken from [[Xarzith Kitril]] by two Volstrucker agents. The Assembly used persuasion and payment to convince his parents that he needed "special care" and training, while secretly intending to exploit his abilities for their research into planar connections.
+**Summary:** In approximately 833 PD (about a year after his sister was sold into patronage), Melthes was taken from [[Xarzith Kitril - DM Notes]] by two Volstrucker agents. The Assembly used persuasion and payment to convince his parents that he needed "special care" and training, while secretly intending to exploit his abilities for their research into planar connections.
 
 **His Response:** During intake and assessment by [[Cree Deeproots]], Melthes was:
 
@@ -103,11 +103,11 @@ He was recommended for advanced study under [[Isolene Fenzana]]'s research divis
 - [[Cerberus Assembly]] - Holding organization
 - [[Isolene Fenzana]] - Oversees research division he was assigned to
 - [[Cree Deeproots]] - Conducted initial magical assessment
-- Two Volstrucker agents (names unknown) - Brought him from [[Xarzith Kitril]]
+- Two Volstrucker agents (names unknown) - Brought him from [[Xarzith Kitril - DM Notes]]
 
 ### Related Locations
 
-- [[Xarzith Kitril]] - Home city
+- [[Xarzith Kitril - DM Notes]] - Home city
 - [[Rexxentrum - DM Notes]] - Last known location (Assembly facility)
 - [[Feywild]]/[[Feydark]] - Source of his abilities
 

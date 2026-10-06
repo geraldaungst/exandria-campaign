@@ -11,7 +11,7 @@ tags:
 > - Stage: Active
 > - Priority: High
 > - Timeline: Unknown
-> - Key Players: [[Vaud Qalix]], [[Obsidian Echoforge]], [[Malachite Cord - DM Notes]], [[Emissaries of the Sunfall]]
+> - Key Players: [[Vaud Qalix - DM Notes]], [[Obsidian Echoforge]], [[Malachite Cord - DM Notes]], [[Emissaries of the Sunfall]]
 > - Parent Plot: [[01 The Prophecy]]
 > - Last Session:
 > - Next Steps: Locate and track movement of Lorestone shards
@@ -54,7 +54,7 @@ A three-way conflict over the [[Lorestone of Eryndor - DM Notes]], with competin
 
 > [!todo]- Next Steps
 > - [ ] Track current locations of Lorestone shards
-> - [ ] ![[Vaud Qalix#Plan Outline]]
+> - [ ] ![[Vaud Qalix - DM Notes#Plan Outline]]
 > - [ ] ![[Lorestone of Eryndor - DM Notes#Assembling the Lorestone]]
 
 ### Long-term Plans

@@ -1,8 +1,7 @@
 ---
 faction:
   - Emissaries of the Sunfall
-location:
-  - Cloudfang Keep
+location: "[[Cloudfang Keep - DM Notes]]"
 tags:
   - npc
   - region/cyrios-mountains
@@ -16,7 +15,7 @@ tags:
 > - **Key Motivation**: Master planar magic through study of rift energy and Lorestone resonance
 > - **Attitude toward party**: Initially curious if approached diplomatically; immediately hostile if threatened
 > - **Critical Knowledge**: Possesses detailed research on planar rifts, Lorestone shard properties, and temporal resonance effects. Carries the [[Lawbearer's Tear]] (disguised as a mundane pearl of power) without realizing its true nature
-> - **Status**: Actively researching the [[Luxon Beacon]] provided by [[Vaud Qalix]]
+> - **Status**: Actively researching the [[Luxon Beacon]] provided by [[Vaud Qalix - DM Notes]]
 
 ## Description
 
@@ -50,7 +49,7 @@ When Lady Emer was human, she excelled as a scout in the mercenary [[Emissaries 
 
 Her transformation into a medusa occurred during one of these early experiments with rift energy—though the exact circumstances remain unclear even to her, the memories fragmented and distorted by the very forces she was studying. Rather than reject what she became, she embraced the transformation as proof of her theories and a unique opportunity to understand how rift energy affects living beings from direct experience.
 
-Now she seeks to master planar magic, driven by equal parts thirst for knowledge and hunger for power. She believes the Lorestone shards are keys to unlocking the secrets of the planes and controlling the rifts that scar Exandria. Her work for [[Vaud Qalix]] provides funding, resources, and access to artifacts she could never acquire independently—though she remains unaware of the deeper machinations involving [[Ceratos]] and the true nature of Qalix's goals.
+Now she seeks to master planar magic, driven by equal parts thirst for knowledge and hunger for power. She believes the Lorestone shards are keys to unlocking the secrets of the planes and controlling the rifts that scar Exandria. Her work for [[Vaud Qalix - DM Notes]] provides funding, resources, and access to artifacts she could never acquire independently—though she remains unaware of the deeper machinations involving [[Ceratos]] and the true nature of Qalix's goals.
 
 **Key History Points:**
 
@@ -73,7 +72,7 @@ Now she seeks to master planar magic, driven by equal parts thirst for knowledge
 > **Unknown Connections:**
 > - Has no knowledge of [[Ceratos]] or the Far Realm manipulation
 > - Doesn't realize the Lorestone shards' true purpose in Qalix's plan
-> - Unaware that [[Dreyara Drimvar|Dreyara]] views her as a useful but ultimately disposable resource
+> - Unaware that [[Dreyara Drimvar - DM Notes|Dreyara]] views her as a useful but ultimately disposable resource
 > - Has never met Qalix in person—all communication through letters and Dreyara's visits
 > 
 > **Future Plans (if she survives):**

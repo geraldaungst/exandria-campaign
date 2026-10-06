@@ -50,7 +50,7 @@ Recently returned from the Whitestone festival via the [[Sessions 1 to 3 - The S
 > - [x] Has made multiple trips to the Cobalt Soul library
 > - [x] Seems to be searching for something specific in Port Damali separate from Calderax
 > - [x] Has been asking subtle questions about planar disturbances
-> - [x] Calderax also met with a woman named [[Dreyara Drimvar]] who was also asking about the shard
+> - [x] Calderax also met with a woman named [[Dreyara Drimvar - DM Notes]] who was also asking about the shard
 > - [x] Dreyara mentioned [[Valen Elderguard]], leader of the [[Emissaries of the Sunfall]]
 > - [x] Dreyara mentioned someone called "The Eye"
 > - [x] (via [[Rinneth Starsong]]) The Emissaries were once enemies of the Echoforge but are now working together
