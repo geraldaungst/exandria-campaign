@@ -62,7 +62,7 @@ An "Owns" list names the subjects a run is responsible for deciding about. It do
   - Owns: the Tyodan River and its bridge as a landmark; the swamp as a region; the Shrine of Melora as a place and what it is; the Cyrios Mountains as a region, with their main routes and passes (including the Wuyun Gates, confirm) and any landmarks not owned by S01, T09, or T10.
   - Leaves to: E01–E06 (the Malachite Cord), T15–E07 (rifts), T09, T10. The goblin band and individual encounters are out of scope.
   - Note: the vault calls the swamp both "Othemoor" and "Odessloe," and Odessloe is also a town near Rexxentrum. Confirm that the swamp and the town are consistent throughout the vault and resolve any inconsistencies before this run.
-- [ ] **T09 Cloudfang Keep and Frigid Summit**
+- [X] **T09 Cloudfang Keep and Frigid Summit**
   - Owns: the keep, the peak, and anyone notable tied to the keep (confirm). Secret-heavy.
   - Leaves to: E01–E06 (factions, the Lorestone), E04–E05 (items found there).
 - [ ] **T10 The Monastery of Dimensional Harmony**
