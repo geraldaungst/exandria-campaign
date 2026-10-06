@@ -54,6 +54,16 @@ One row per published Exandria note. Claude reads this before every run and does
 | Temple of Bahamut in Deastok       | Location | T11–T12 | 2026-10-06 | None                                          |
 | Kamordah                           | Location | T11–T12 | 2026-10-06 | None                                          |
 | Truscan Family                     | Faction  | T11–T12 | 2026-10-06 | None                                          |
+| Dwendalian Empire                  | Hub      | T13–T14 | 2026-10-06 | Dwendalian Empire - DM Notes (already renamed) |
+| Rexxentrum                         | Location | T13–T14 | 2026-10-06 | Rexxentrum - DM Notes (already renamed)       |
+| Zadash                             | Location | T13–T14 | 2026-10-06 | Zadash - DM Notes (already renamed)           |
+| Bertrand Dwendal                   | NPC      | T13–T14 | 2026-10-06 | None                                          |
+| The Gentleman                      | NPC      | T13–T14 | 2026-10-06 | None                                          |
+| Xhorhas                            | Hub      | T13–T14 | 2026-10-06 | None                                          |
+| Rosohna                            | Location | T13–T14 | 2026-10-06 | None                                          |
+| Xarzith Kitril                     | Location | T13–T14 | 2026-10-06 | Xarzith Kitril - DM Notes (already renamed)   |
+| Kryn Dynasty                       | Faction  | T13–T14 | 2026-10-06 | Kryn Dynasty - DM Notes                       |
+| Leylas Kryn                        | NPC      | T13–T14 | 2026-10-06 | None                                          |
 
 ## Standing Decisions
 
@@ -79,7 +89,12 @@ Decisions from earlier runs that apply to every future run. Source and run in br
 - Completed session notes, including the Arc 1 prologues, confirm what happened in play but never expand what the party knows. [Conventions, applied T01]
 - The party's personal ties to public figures, and player characters' birthplaces and backstory places, stay off the wiki. [Claude, T01]
 - Careless wording in a vault note (such as "the mayor" for Whitestone) doesn't override canon structure. Ask when it matters. [Gerald, T01]
-- The Gentleman's lore differs from canon. Never silently import canon details about the Gentleman or Babenon Dosal, including his ties to Marion Lavorre. Confirm with Gerald first. [Gerald, T05]
+- The Gentleman is a persona. No separate Babenon Dosal ever existed, which departs from canon. Never reveal or hint that the Gentleman is Korfel Withrethin. Any tie between Korfel and Marion Lavorre is DM-only, and he is not Jester's father in this timeline. [Gerald, T13–T14]
+- Ongoing conflicts are stated as facts ("turned into open war"), with no dates or time-relative wording. [Gerald, T13–T14]
+- Luxon Beacon lore is not world knowledge. Leave it out of every note until revealed. [Gerald, T13–T14]
+- In-world tales may be published as hedged hearsay ("some say," "it is said") even when they are false. [Gerald, T13–T14]
+- Capital cities and their rulers get notes as world knowledge. A foreign ruler's note holds only what outsiders would know. [Gerald, T13–T14]
+- A nation's customs of travel go in the nation's note, not a separate lore note. [Gerald, T13–T14]
 
 ### Scope and note shape
 

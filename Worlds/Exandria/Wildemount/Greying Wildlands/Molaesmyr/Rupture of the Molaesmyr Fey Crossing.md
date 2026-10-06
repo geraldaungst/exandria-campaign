@@ -24,4 +24,4 @@ The spread of the otherworldly magic in each plane has also resulted in the appe
 
 Recently, [[Erma Schnieb]], a halfling mage from Uthodurn, believes she has found evidence of a portal in the Savalirwood that leads to the Lower Planes. (She is only partly correct, of course, since there are many that in fact lead to locations on several planes.) She does not know it yet, but she is the first to learn of this development that is the start of a shift in the harmonic rifts. They are appearing consistently larger and lasting longer and in time this will lead to catastrophe.
 
-Ludinus Da'leth of the [[Cerberus Assembly]]has been approached by the [[Ring of Three]] seeking information about this cataclysm.
+Ludinus Da'leth of the [[Cerberus Assembly - DM Notes]]has been approached by the [[Ring of Three]] seeking information about this cataclysm.

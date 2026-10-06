@@ -203,7 +203,7 @@ The vision is actually an echo of a memory contained in a trinket Hesterian carr
 
 > [!info]- Memory of Ludinus Da'leth
 > You are standing in a spacious, well-organized study, you are overwhelmed by the scent of old tomes and alchemical concoctions. Somehow you know this is the workshop of [[Isolene Fenzana]], one of Ludinus Da'leth's top researchers. Isolene is holding a battered and rusted artifact.
-> She murmurs, "This… this could be a link to the [[Rupture of the Molaesmyr Fey Crossing|Molaesmyr cataclysm]], but its revelation… too dangerous." A female half-elf with an elegant stature, Isolene has sharp, angular features and long, straight silver hair that cascades over her shoulders. Her eyes, a piercing blue, flicker with a keen intellect. She wears robes of deep blue adorned with silver thread, signifying her high rank within the [[Cerberus Assembly]].
+> She murmurs, "This… this could be a link to the [[Rupture of the Molaesmyr Fey Crossing|Molaesmyr cataclysm]], but its revelation… too dangerous." A female half-elf with an elegant stature, Isolene has sharp, angular features and long, straight silver hair that cascades over her shoulders. Her eyes, a piercing blue, flicker with a keen intellect. She wears robes of deep blue adorned with silver thread, signifying her high rank within the [[Cerberus Assembly - DM Notes]].
 > Peering over from the other side of the worktable, Isolene's assistant Gorak whispers in awe, "Is that fomorian?" Gorak is a male half-orc with a towering, muscular build, slightly greenish skin tone and prominent tusks. His dark hair is cut short, and his deep-set eyes are keen and observant. He wears heavy, dark, very practical robes, and he moves with a surprising grace for his size.
 > "Yes, but we must tread carefully," Isolene responds, her tone serious.
 > You feel yourself fidgeting nervously, and then you say, "Shouldn't the Assembly be informed?"
@@ -212,6 +212,6 @@ The vision is actually an echo of a memory contained in a trinket Hesterian carr
 
 The stone also contains an echo of a previous memory, which is the source of the vision. The holder of the stone was a Volstrucker agent, and the echo is recalling a moment when the agent was recognized by an associate. The flames in the vision are the mind's interpretation of the fragmented memory of the fear and panic the agent felt at the time of the event.
 
-### [[Melthes]] And the [[Cerberus Assembly]]
+### [[Melthes]] And the [[Cerberus Assembly - DM Notes]]
 
 Unknown to Hesterian, about a year after she was sold, two Volstrucker agents (one of whom happens to be the former client) arrived in Xarzith Kitril on a tip from a local informant. After about a week's investigation, [[The Capture of Melthes|they left with Melthes]]. No one in the city knows much more than that.

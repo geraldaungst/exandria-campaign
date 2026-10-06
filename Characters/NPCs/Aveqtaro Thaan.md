@@ -1,6 +1,6 @@
 ---
 affiliations:
-  - "[[Kryn Dynasty]]"
+  - "[[Kryn Dynasty - DM Notes]]"
 aliases:
   - aveqtaro
 disposition: indifferent

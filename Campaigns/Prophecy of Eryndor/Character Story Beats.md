@@ -66,7 +66,7 @@ Anyone - [[danoths-visor-egw|Danoth's Visor]], [[jewel-of-three-prayers-crcotn|J
 
 - [ ] [[Drawg Stormbrew (Brew)|Drawg]] will go back to Bahamut and epically leave [[Elby Cinderdash (Brew)|Elby]] in the hands of the party (somewhere around Level 7).
 - [ ] [[Elby Cinderdash (Brew)|Elby]] will find/earn a [[sun-blade|Sun Blade]].
-- [ ] [[Hesterian Shyr (Dot)|Hesterian]] will discover who [[The Capture of Melthes|took her sibling away]] (the [[Cerberus Assembly]]) which will set political events beyond her control into motion. As part of this, she will discover the meaning of the [[Hesterian Shyr (Dot)#Mysterious Secret|vision she is having]].
+- [ ] [[Hesterian Shyr (Dot)|Hesterian]] will discover who [[The Capture of Melthes|took her sibling away]] (the [[Cerberus Assembly - DM Notes]]) which will set political events beyond her control into motion. As part of this, she will discover the meaning of the [[Hesterian Shyr (Dot)#Mysterious Secret|vision she is having]].
 - [ ] [[Qilynn Duskwhisper (Nicole)|Qilynn]] wants to prove that she's actually a damn good thief. She's had a run of bad luck getting caught on some big jobs, so she's looking for the next big gig - maybe bigger than it needs to be to prove herself. She specifically want to prove herself to [[Aelorin Nightshade|Aelorin]] - both to show him up and to be accepted by him. Once she does this, [[Aelorin Nightshade|Aelorin]] will reconsider and could potentially become an ally for the party.
 - [ ] [[Seraphina Amaris (Vicki)|Seraphina]] wants to find out [[Rupture of the Molaesmyr Fey Crossing|what cursed the woods]], and is there any way for her to fix/save my homeland. Discovering this will reveal a darker plot than she is expecting.
 - [ ] [[Popcorn Zikelfikel (Viv)|Popcorn]] -

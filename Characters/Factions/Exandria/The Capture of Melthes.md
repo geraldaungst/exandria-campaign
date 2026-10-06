@@ -1,7 +1,7 @@
 ---
 affiliations:
   - "[[Dwendalian Empire - DM Notes]]"
-  - "[[Cerberus Assembly]]"
+  - "[[Cerberus Assembly - DM Notes]]"
 aliases:
   - The Melthes Kidnapping
   - Melthes Recruitment
@@ -25,7 +25,7 @@ tags:
 
 **Location of Recruitment:** [[Xarzith Kitril - DM Notes]]
 
-**Location of Processing:** [[Cerberus Assembly]] research facility in [[Rexxentrum - DM Notes]]
+**Location of Processing:** [[Cerberus Assembly - DM Notes]] research facility in [[Rexxentrum - DM Notes]]
 
 **Agents Involved:** Two Volstrucker agents (one was a former client of Hesterian's)
 

@@ -26,7 +26,7 @@ This Beacon was previously unknown—uncovered during Qalix's excavation and
 
 research operations, almost certainly in the ruins of Draconia or surrounding
 
-Xhorhas region. Because it was never catalogued by the [[Kryn Dynasty]], they
+Xhorhas region. Because it was never catalogued by the [[Kryn Dynasty - DM Notes]], they
 
 are not currently searching for it. The Dynasty's claim, when they eventually
 

@@ -95,7 +95,7 @@ Leader: [[Rinneth Starsong]]
 
 - [[Obsidian Echoforge]] - Similar goals, strong differences of opinion on methods
 - [[Emissaries of the Sunfall]] - Not yet aware of this group, but will likely oppose them when aware
-- [[Cerberus Assembly]] - clash over magical research methods and artifact handling
+- [[Cerberus Assembly - DM Notes]] - clash over magical research methods and artifact handling
 
 ### Neutral Parties
 

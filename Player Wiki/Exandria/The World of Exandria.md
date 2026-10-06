@@ -41,13 +41,13 @@ This contains information specific to the Lorestone of Eryndor campaign.
 
 ### Locations
 
-- [[Truscan Vale]]: region at the Empire's southwestern edge, home to Deastok and Kamordah; its page lists the vale's cities, landmarks, and factions
+- [[Dwendalian Empire]]: nation ruling western Wynandir from Rexxentrum; its page lists the Empire's regions, cities, and people
 
 ## Xhorhas
 
-### People
+### Locations
 
-- [[Vaud Qalix]]: Eye of the Scars, Protector of the Council of Xarzith Kitril
+- [[Xhorhas]]: eastern Wynandir beyond the Ashkeeper Peaks, home of the Kryn Dynasty; its page lists the region's cities, people, and factions
 
 ## Across Regions
 

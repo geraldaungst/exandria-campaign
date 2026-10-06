@@ -35,7 +35,7 @@ region: Dwendalian Empire
 
 #### **Background And Recruitment**
 
-**Previous Affiliation:** Blood magic researcher/test subject for the [[Cerberus Assembly]]
+**Previous Affiliation:** Blood magic researcher/test subject for the [[Cerberus Assembly - DM Notes]]
 
 **Recruitment Method:** Approached by The Gentleman during his rise to power in Zadash.
 
@@ -223,7 +223,7 @@ Based on Critical Role Campaign 2 information about Cree's employment with The G
 ### Related Characters
 
 - [[Korfel Withrethin]] (The Gentleman) - Current employer and primary loyalty
-- [[Cerberus Assembly]] researchers and personnel - Former colleagues/captors
+- [[Cerberus Assembly - DM Notes]] researchers and personnel - Former colleagues/captors
 - [[Isolene Fenzana]] - Assembly researcher she worked under
 - [[Melthes]] - Young half-elf she processed during Assembly employment
 - [[Hesterian Shyr (Dot)]] - Will likely encounter during infiltration attempts (unknown connection to Melthes)

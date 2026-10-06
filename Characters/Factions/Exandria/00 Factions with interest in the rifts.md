@@ -30,9 +30,9 @@ tags:
 - A splinter cell within the group, led by [[Valen Elderguard]] and financed by [[Vaud Qalix - DM Notes|Vaud Qalix]] is opposed to this partnership and is secretly working to undermine the work.
 [[Ashari Riftguard]]
 [[Cobalt Soul - DM Notes]]
-[[Cerberus Assembly]]
+[[Cerberus Assembly - DM Notes]]
 [[Dwendalian Empire - DM Notes]]
-[[Kryn Dynasty]]
+[[Kryn Dynasty - DM Notes]]
 [[Ring of Three]]
 [[Obsidian Echoforge]]
 [[Other Factions with Interest in the Rifts]]

@@ -1,15 +1,15 @@
 ---
-tags:
-  - location
-  - player-facing
-  - world/exandria
-  - region/dwendalian-empire
 aliases:
   - Deastock
   - Diastock
 cssclasses:
   - world-exandria
 publish: true
+tags:
+  - location
+  - player-facing
+  - world/exandria
+  - region/dwendalian-empire
 ---
 
 > [!info] Quick Reference
@@ -49,7 +49,7 @@ The plaza inside the Jeweled Gates checkpoint holds a customs house, a carters' 
 
 ### The Statue of Bahamut and the Emperor
 
-At the center of the checkpoint plaza stands a weathered stone statue, gilded rather than painted. [[Bahamut]], the Platinum Dragon, appears as an armored warrior with wings folded, twice the height of a crowned Emperor Dwendal beside him, one gauntleted hand resting on the Emperor's shoulder. Gold leaf picks out the Emperor's crown and regalia, and platinum covers Bahamut's armor and draconic details. Small gilded birds circle the pair, and one rests on the dragon's pauldron.
+At the center of the checkpoint plaza stands a weathered stone statue, gilded rather than painted. [[Bahamut]], the Platinum Dragon, appears as an armored warrior with wings folded, twice the height of a crowned King Dwendal beside him, one gauntleted hand resting on the King's shoulder. Gold leaf picks out the King's crown and regalia, and platinum covers Bahamut's armor and draconic details. Small gilded birds circle the pair, and one rests on the dragon's pauldron.
 
 ### Truscan Estate
 

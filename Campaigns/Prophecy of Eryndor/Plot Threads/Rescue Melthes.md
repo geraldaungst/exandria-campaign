@@ -10,14 +10,14 @@ tags:
 > - Stage: Dormant (player unaware)
 > - Priority: High (once discovered)
 > - Timeline: No immediate time pressure, but Melthes has been captive since 833 PD
-> - Key Players: [[Hesterian Shyr (Dot)|Hesterian]], [[Melthes]], [[Cree Deeproots]], [[Isolene Fenzana]], [[Cerberus Assembly]]
+> - Key Players: [[Hesterian Shyr (Dot)|Hesterian]], [[Melthes]], [[Cree Deeproots]], [[Isolene Fenzana]], [[Cerberus Assembly - DM Notes]]
 > - Parent Plot: [[Hesterian Shyr's Infiltration]]
 > - Last Session: Not yet begun
 > - Next Steps: Hesterian must first learn the truth about what happened to her brother
 
 ## Overview
 
-[[Hesterian Shyr (Dot)|Hesterian]]'s brother [[Melthes]] was taken by the [[Cerberus Assembly]] in 833 PD under the guise of providing "special training" for his unique Feywild/Feydark abilities. The full details of his capture are documented in [[The Capture of Melthes]].
+[[Hesterian Shyr (Dot)|Hesterian]]'s brother [[Melthes]] was taken by the [[Cerberus Assembly - DM Notes]] in 833 PD under the guise of providing "special training" for his unique Feywild/Feydark abilities. The full details of his capture are documented in [[The Capture of Melthes]].
 
 Hesterian believes Melthes is "studying magic" somewhere and has no knowledge of the Assembly's involvement or the coercive nature of his recruitment. This quest will likely activate when she encounters [[Cree Deeproots]] during her infiltration of [[Korfel Withrethin]]'s organization, as Cree was directly involved in Melthes's initial assessment.
 
@@ -52,7 +52,7 @@ Hesterian believes Melthes is "studying magic" somewhere and has no knowledge of
   - Melthes is safe and pursuing legitimate magical education
   - The separation is normal for magical apprenticeships
 - **What they don't know:**
-  - Melthes was taken by the [[Cerberus Assembly]] against his will (coerced consent from parents)
+  - Melthes was taken by the [[Cerberus Assembly - DM Notes]] against his will (coerced consent from parents)
   - He was terrified and asking for his family during intake
   - [[Cree Deeproots]] - who they may soon meet - was involved in his capture
   - The Assembly views him as an exploitable asset, not a student
@@ -67,7 +67,7 @@ Hesterian believes Melthes is "studying magic" somewhere and has no knowledge of
   - Justice for [[Rylan Estevez]] (parallel personal quest)
 - **Potential Subplots:**
   - Turning [[Cree Deeproots]] into an ally
-  - Broader conflict with [[Cerberus Assembly]]
+  - Broader conflict with [[Cerberus Assembly - DM Notes]]
   - Discovering connection between Volstrucker agent and [[stone-of-memory]]
 
 ## Development Stages

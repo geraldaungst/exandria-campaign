@@ -14,7 +14,7 @@ tags:
 ## Quick Reference
 
 > [!info] Essential Details
-> - Current Location: Unknown (somewhere in [[Cerberus Assembly]] custody)
+> - Current Location: Unknown (somewhere in [[Cerberus Assembly - DM Notes]] custody)
 > - Key Motivation: Unknown (likely wants to return home)
 > - Attitude toward party: Unknown
 > - Critical Knowledge: Has unique Feywild/Feydark connection abilities
@@ -22,7 +22,7 @@ tags:
 
 ## Description
 
-Melthes is a half-elf with distinctive Feywild magical resonance and abilities related to planar connections, particularly to the Feydark. He was taken by the [[Cerberus Assembly]] at age 16 for exploitation of these abilities.
+Melthes is a half-elf with distinctive Feywild magical resonance and abilities related to planar connections, particularly to the Feydark. He was taken by the [[Cerberus Assembly - DM Notes]] at age 16 for exploitation of these abilities.
 
 ### Appearance
 
@@ -40,7 +40,7 @@ Melthes is a half-elf with distinctive Feywild magical resonance and abilities r
 
 ## Current Situation
 
-Current whereabouts unknown. Last confirmed location was [[Cerberus Assembly]] research facility in [[Rexxentrum - DM Notes]] where he was assigned to [[Isolene Fenzana]]'s research division.
+Current whereabouts unknown. Last confirmed location was [[Cerberus Assembly - DM Notes]] research facility in [[Rexxentrum - DM Notes]] where he was assigned to [[Isolene Fenzana]]'s research division.
 
 **Status:** Has been in Assembly custody since approximately 833 PD. Current condition, exact location, and whether he remains in their custody are all unknown.
 
@@ -74,7 +74,7 @@ Full details in [[The Capture of Melthes]].
 
 ### Assembly's Interest
 
-The [[Cerberus Assembly]] considers Melthes valuable for:
+The [[Cerberus Assembly - DM Notes]] considers Melthes valuable for:
 
 - Navigating and manipulating the Feywild and its energies
 - Expanding their magical prowess and understanding of different planes
@@ -100,7 +100,7 @@ He was recommended for advanced study under [[Isolene Fenzana]]'s research divis
 
 ### Captors/Handlers
 
-- [[Cerberus Assembly]] - Holding organization
+- [[Cerberus Assembly - DM Notes]] - Holding organization
 - [[Isolene Fenzana]] - Oversees research division he was assigned to
 - [[Cree Deeproots]] - Conducted initial magical assessment
 - Two Volstrucker agents (names unknown) - Brought him from [[Xarzith Kitril - DM Notes]]

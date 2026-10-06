@@ -11,4 +11,4 @@ tags:
 
 ## Dwendalian Empire
 
-[[Cerberus Assembly]] is researching the origin of the [[Rupture of the Molaesmyr Fey Crossing]].
+[[Cerberus Assembly - DM Notes]] is researching the origin of the [[Rupture of the Molaesmyr Fey Crossing]].

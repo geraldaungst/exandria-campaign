@@ -1,7 +1,7 @@
 ---
 tags:
   - needs-work
-  - npc
+  - location
 ---
 
 ![[History of Xarzith Kitril and Draconia#Core Information]]

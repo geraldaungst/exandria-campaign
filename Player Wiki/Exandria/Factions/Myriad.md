@@ -1,13 +1,13 @@
 ---
-tags:
-  - faction
-  - player-facing
-  - world/exandria
 aliases:
   - The Myriad
 cssclasses:
   - world-exandria
 publish: true
+tags:
+  - faction
+  - player-facing
+  - world/exandria
 ---
 
 The Myriad is the largest criminal syndicate in Wildemount, with a presence in its major cities. Its members favor bribery, blackmail, and debts of favor over open violence.
@@ -24,7 +24,7 @@ The Myriad is the largest criminal syndicate in Wildemount, with a presence in i
 
 ## In Zadash
 
-- A Myriad boss known as the Gentleman runs its operations in [[Zadash]].
+- A Myriad boss known as [[The Gentleman|the Gentleman]] runs its operations in [[Zadash]].
 - According to tales of the city's underworld, the Myriad moves through old sewers and tunnels beneath Zadash, and a Crownsguard crackdown captured many of its members after a plot against a Starosta.
 
 ## Rivals
