@@ -21,4 +21,4 @@ tags:
 
 ## Family
 
-- His ancestor Brom Stonefoot crafted the [[Stonefoot Compass - DM Notes]], a Stonefoot family heirloom.
+- His ancestor Brom Stonefoot crafted the [[Stonefoot Compass]], a Stonefoot family heirloom.

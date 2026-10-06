@@ -21,7 +21,7 @@ An "Owns" list names the subjects a run is responsible for deciding about. It do
    - **Species and customs:** E09.
 3. **The ledger decides.** Before each run, Claude reads [[Player Wiki Ledger]] and does not draft any subject on it. New facts for a listed subject go under "Additions for existing notes", and you merge them by hand.
 4. **Nothing gets dropped.** Each run ends with "Unassigned subjects" (anything no scope owns) and "Left out (minor or group-specific)". Assign the first list to a scope, and review the second.
-5. **Size.** About 3 to 8 notes per run. If a scope is bigger, split it here before drafting. If it yields fewer than 3, merge it with a neighbor.
+5. **Size.** About 5 to 10 notes per run. If a scope is bigger, split it here before drafting. If it yields fewer than 3, merge it with a neighbor.
 
 ### Before every run
 
@@ -58,46 +58,51 @@ An "Owns" list names the subjects a run is responsible for deciding about. It do
   - Owns: groups that operate in the city, such as the Zhelezo and Primework Station, and the Myriad and the Clasp as far as they are publicly known (confirm).
 - [X] **T05 The Menagerie Coast**
   - Owns: the region overview and other coastal destinations the characters would know of, such as Nicodranas (confirm).
-- [ ] **T06 The Tyodan River and Odessloe swamp**
-  - Owns: the river, the bridge as a landmark, and the swamp as a region. The goblin band and individual encounters are out of scope.
-- [ ] **T07 The Shrine of Melora** (small; merge with T06 if it yields under 3 notes)
-  - Owns: the shrine as a place and what it is.
-  - Leaves to: E01 (the Malachite Cord), E07 (rifts).
-- [ ] **T08 The Cyrios Mountains**
-  - Owns: the range as a region, its main routes and passes (including the Wuyun Gates, confirm), and landmarks not owned by S01, T09, or T10.
+- [ ] **T06–T08 The road east: the Tyodan River, the swamp, the Shrine of Melora, and the Cyrios Mountains**
+  - Owns: the Tyodan River and its bridge as a landmark; the swamp as a region; the Shrine of Melora as a place and what it is; the Cyrios Mountains as a region, with their main routes and passes (including the Wuyun Gates, confirm) and any landmarks not owned by S01, T09, or T10.
+  - Leaves to: E01–E06 (the Malachite Cord), T15–E07 (rifts), T09, T10. The goblin band and individual encounters are out of scope.
+  - Note: the vault calls the swamp both "Othemoor" and "Odessloe," and Odessloe is also a town near Rexxentrum. Settle the name before this run.
 - [ ] **T09 Cloudfang Keep and Frigid Summit**
   - Owns: the keep, the peak, and anyone notable tied to the keep (confirm). Secret-heavy.
+  - Leaves to: E01–E06 (factions, the Lorestone), E04–E05 (items found there).
 - [ ] **T10 The Monastery of Dimensional Harmony**
-  - Owns: the monastery, the Order of Dimensional Harmony, anyone notable tied to it (confirm). Secret-heavy.
-  - Leaves to: E05 (Solvei's Vigilance).
-- [ ] **T11 Deastok**
-  - Owns: the town, its districts (Bursar Plaza, Garden Grounds, Jeweled Gates), notable places (the Shaded Bough, the White Peak Inn, the Bahamut Temple), and notable officials (confirm).
+  - Owns: the monastery, the Order of Dimensional Harmony, and anyone notable tied to it (confirm). Secret-heavy.
+  - Leaves to: E04–E05 (Solvei's Vigilance), T15–E07 (planar phenomena).
+- [ ] **T11–T12 Deastok and the Truscan Vale**
+  - Owns: the town of Deastok, its districts (Bursar Plaza, Garden Grounds, Jeweled Gates), notable places (the Shaded Bough, the White Peak Inn, the Bahamut Temple), and notable officials; the Truscan Vale, Kamordah, the Truscan family as a public power, and the Truscan dig site as a place (confirm).
+  - Leaves to: E01–E06 (the Lorestone shard), T15–E07 (the dreams and planar phenomena), E02–E03 (Bahamut as a deity).
   - Note: an active arc. Expect most recent developments to be left out.
-- [ ] **T12 The Truscan Vale**
-  - Owns: the vale, Kamordah, and the Truscan family as a public power (confirm).
-- [ ] **T13 The Dwendalian Empire**
-  - Owns: the Empire's overview and government, Rexxentrum, Zadash, and general customs of travel, such as the checkpoint papers routine.
-- [ ] **T14 Xhorhas and the Kryn Dynasty**
-  - Owns: the region, the Dynasty, Ank'Harel, Xhorhas Landing.
-- [ ] **T15 The Savalirwood and the Ruins of Molaesmyr**
-  - Owns: the forest, the ruins as a place, the Fey crossing as a place.
-  - Leaves to: E07 for the destruction as an event.
+- [ ] **T13–T14 The Dwendalian Empire and the Kryn Dynasty**
+  - Owns: the Empire's overview and government, Rexxentrum, Zadash, and general customs of travel, such as the checkpoint papers routine; Xhorhas, the Kryn Dynasty, Ank'Harel, and Xhorhas Landing.
+  - Leaves to: E02–E03 (the Cobalt Soul, the Cerberus Assembly), E08–E09 (the Kryn as a people, Marquet).
+  - Note: canon places Ank'Harel in Marquet. Confirm whether it belongs here or with Marquet in E08–E09.
 
-### Phase 3: Encyclopedia of Exandria
+## Phase 3: Encyclopedia of Exandria
 
-- [ ] **E01 Rift factions:** the Obsidian Echoforge, the Malachite Cord, and the Emissaries of the Sunfall, as publicly known (confirm).
-- [ ] **E02 Institutions:** the Cobalt Soul, the Cerberus Assembly, and similar bodies that span regions.
-- [ ] **E03 Religion:** the deities as the characters know them, such as Bahamut and Melora, and their temples in general.
-- [ ] **E04 Notable people not owned elsewhere:** rulers, scholars, and public figures with no home-place scope, such as Aethor Kalisk if notable (confirm).
-- [ ] **E05 Items and artifacts:** the Stonefoot Compass, the Luxon Beacon, Solvei's Vigilance, and other notable items.
-- [ ] **E06 The Lorestone of Eryndor and the Prophecy.**
-- [ ] **E07 The rifts, the planes, and the destruction of Molaesmyr** (as an event).
-- [ ] **E08 History:** the Calamity and other major events not owned above.
-- [ ] **E09 Species and customs** that appear in the campaign, such as Ravenite and Draconblood dragonborn, pallid elves, and the Kryn (confirm).
+- [ ] **T15–E07 The Savalirwood, Molaesmyr, and the rifts**
+  - Owns: the Savalirwood, the Ruins of Molaesmyr as a place, and the Fey crossing as a place; the rifts and the planes; the destruction of Molaesmyr as an event.
+  - Leaves to: E01–E06 (factions, the Lorestone, the Prophecy), E04–E05 (Riftcages and other items, confirm).
+  - Note: secret-heavy. The standing decision on player characters' backstory places applies.
+- [ ] **E01–E06 The rift factions, the Lorestone of Eryndor, and the Prophecy**
+  - Owns: the Obsidian Echoforge, the Malachite Cord, and the Emissaries of the Sunfall, as publicly known (confirm); the Lorestone of Eryndor, its shards, and the Prophecy.
+  - Leaves to: E04–E05 (the Luxon Beacon, the Stonefoot Compass), T15–E07 (rifts).
+  - Note: the campaign's central secrets. Expect a large held-back list.
+- [ ] **E02–E03 Institutions and religion**
+  - Owns: the Cobalt Soul, the Cerberus Assembly, and similar bodies that span regions; the deities as the characters know them, such as Bahamut, Melora, Avandra, and Moradin, along with Uk'otoa and temples in general.
+  - Leaves to: place scopes for specific temples and archives, which are already published or owned.
+- [ ] **E04–E05 Notable people and items**
+  - Owns: rulers, scholars, and public figures with no home-place scope, such as Aethor Kalisk if notable (confirm); the Stonefoot Compass, the Luxon Beacon, Solvei's Vigilance, and other notable items.
+  - Leaves to: none.
+  - Note: leftovers from earlier runs. Re-size after E01–E06. Split it if it would exceed 10 notes.
+- [ ] **E08–E09 History, species, and customs**
+  - Owns: the Calamity, the fall of Draconia, and other major events not owned above; Marquet as the characters know it; species and customs that appear in the campaign, such as Ravenite and Draconblood dragonborn, pallid elves, the Kryn, and the Ki'Nau (confirm); the calendar and festivals, such as Merryfrond's Day (confirm).
+  - Leaves to: none.
 
-### Phase 4: Finish
+## Phase 4: Finish
 
-- [ ] **F01 Final pass.** No new subjects. Rebuild The World of Exandria, audit unresolved links and duplicates, and consolidate any leftover rename and merge lists.
+- [ ] **F01 Coverage audit.** No drafting. Attach the players' notes and a vault inventory (every note in `Worlds/`, `Characters/`, and `Objects/` with its tags). Compare both against the ledger and every run's "Left out" and "Unassigned subjects" lists. Report subjects that no run owned or decided on, and "Left out" subjects whose significance has grown since. Assign anything worth a note to a follow-up scope (F01b, F01c).
+- [ ] **F02 Leak audit.** No drafting. For each published note, search the vault for its subject's secrets (`[!secret]` callouts, Hidden Information sections, plot threads, and status documents) and check the note against them, including secrets created after the note was published. Report each conflict with the note, the line, and the secret it touches. Work region by region if the wiki is too large for one pass (F02a, F02b).
+- [ ] **F03 Final pass.** No new subjects. Rebuild The World of Exandria, audit unresolved links and duplicates, and consolidate any leftover rename and merge lists.
 
 ---
 
