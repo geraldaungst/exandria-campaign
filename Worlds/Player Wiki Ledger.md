@@ -73,6 +73,14 @@ One row per published Exandria note. Claude reads this before every run and does
 | Emissaries of the Sunfall          | Faction  | E01–E06 | 2026-10-06 | Emissaries of the Sunfall - DM Notes                          |
 | Lorestone of Eryndor               | Item     | E01–E06 | 2026-10-06 | Lorestone of Eryndor - DM Notes (already renamed)             |
 | Prophecy of Eryndor                | Lore     | E01–E06 | 2026-10-06 | None                                                          |
+| Cobalt Soul                        | Faction  | E02–E03 | 2026-10-06 | Cobalt Soul - DM Notes (already renamed)                      |
+| Cerberus Assembly                  | Faction  | E02–E03 | 2026-10-06 | Cerberus Assembly - DM Notes (already renamed)                |
+| Gods of Exandria                   | Lore     | E02–E03 | 2026-10-06 | None                                                          |
+| Bahamut                            | Lore     | E02–E03 | 2026-10-06 | None                                                          |
+| Melora                             | Lore     | E02–E03 | 2026-10-06 | None                                                          |
+| Avandra                            | Lore     | E02–E03 | 2026-10-06 | None                                                          |
+| Moradin                            | Lore     | E02–E03 | 2026-10-06 | None                                                          |
+| Uk'otoa                            | Lore     | E02–E03 | 2026-10-06 | None                                                          |
 
 ## Standing Decisions
 

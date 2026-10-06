@@ -16,7 +16,7 @@ publish: true
 
 ## Description
 
-The Truscan Vale lies at the southwestern edge of the [[Dwendalian Empire]], below the eastern foothills of the [[Cyrios Mountains]]. Its two cities, [[Deastok]] and [[Kamordah]], are sister cities.
+The Truscan Vale lies at the southwestern edge of the [[Dwendalian Empire]], below the eastern foothills of the [[Cyrios Mountains]]. Its two cities, [[Deastok]] and [[Worlds/Exandria/Wildemount/Dwendalian Empire/Truscan Vale/Kamordah]], are sister cities.
 
 ## Geography
 
@@ -33,7 +33,7 @@ The [[Truscan Family]], based in Deastok, holds sway across the vale. Deastok's 
 ### Locations
 
 - [[Deastok]]: affluent hilltop city at the edge of the Cyrengreen Forest, seat of the Truscan family
-- [[Kamordah]]: wine-producing city of pale stone in the Bromkiln Hills, sister city to Deastok
+- [[Worlds/Exandria/Wildemount/Dwendalian Empire/Truscan Vale/Kamordah]]: wine-producing city of pale stone in the Bromkiln Hills, sister city to Deastok
 - [[Shaded Bough]]: three-story inn near Deastok's Bursar Plaza, popular with visitors
 - [[Temple of Bahamut in Deastok]]: Deastok's only official temple, under a platinum dome
 - [[White Peak Inn]]: small, quiet inn in Deastok's Garden Grounds
