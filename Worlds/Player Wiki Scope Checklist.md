@@ -86,7 +86,7 @@ An "Owns" list names the subjects a run is responsible for deciding about. It do
   - Owns: the Obsidian Echoforge, the Malachite Cord, and the Emissaries of the Sunfall, as publicly known (confirm); the Lorestone of Eryndor, its shards, and the Prophecy.
   - Leaves to: E04–E05 (the Luxon Beacon, the Stonefoot Compass), T15–E07 (rifts).
   - Note: the campaign's central secrets. Expect a large held-back list.
-- [ ] **E02–E03 Institutions and religion**
+- [X] **E02–E03 Institutions and religion**
   - Owns: the Cobalt Soul, the Cerberus Assembly, and similar bodies that span regions; the deities as the characters know them, such as Bahamut, Melora, Avandra, and Moradin, along with Uk'otoa and temples in general.
   - Leaves to: place scopes for specific temples and archives, which are already published or owned.
 - [ ] **E04–E05 Notable people and items**
