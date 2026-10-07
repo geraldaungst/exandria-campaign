@@ -20,7 +20,7 @@ Dreyara Drimvar was a woman in her early thirties, with fair skin, dark brown ha
 ## Role
 
 - She was the primary operative and enforcer for Vaud Qalix.
-- She was Qalix's go-between with [[Lady Emer]]. She delivered specimens and prisoners to Lady Emer at [[Cloudfang Keep]] and collected her reports. Lady Emer feared her.
+- She was Qalix's go-between with [[Lady Emer]]. She delivered research specimens, and once a prisoner, to Lady Emer at [[Cloudfang Keep]] and collected her reports. Lady Emer feared her.
 
 ## Reputation
 

@@ -1,8 +1,4 @@
 ---
-tags:
-  - atomic
-  - player-facing
-  - world/exandria
 aliases:
   - Calamity
   - Age of Arcanum
@@ -11,6 +7,10 @@ aliases:
 cssclasses:
   - world-exandria
 publish: true
+tags:
+  - atomic
+  - player-facing
+  - world/exandria
 ---
 
 The Calamity was the war between the Prime Deities and the Betrayer Gods, fought on Exandria with mortals on both sides. It devastated whole civilizations and reshaped the world. For the gods involved and the pantheons they belong to, see [[Gods of Exandria]].

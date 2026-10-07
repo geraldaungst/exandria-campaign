@@ -19,4 +19,4 @@ The Emissaries are led by Valen Elderguard.
 ## Relations with the Obsidian Echoforge
 
 - The Emissaries were once open enemies of the [[Obsidian Echoforge]], at times violently so.
-- They have since sought cooperation with the Echoforge publicly.
+- The two groups have since begun working together.

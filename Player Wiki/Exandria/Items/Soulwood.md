@@ -31,4 +31,4 @@ According to legend, long ago a group of druids, desperate to save the world, in
 
 - A Riftcage is a palm-sized, egg-shaped device of dark soulwood with runes carved around it.
 - It siphons energy from a [[Planar Rifts|rift]] and shrinks it. It must be held in place long enough to draw the energy away, and it cannot close a rift entirely.
-- Few Riftcages exist, too few to contain the rifts spreading across Exandria.
+- According to the [[Malachite Cord]], few Riftcages exist, too few to contain the rifts spreading across Exandria.

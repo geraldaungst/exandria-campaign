@@ -12,7 +12,7 @@ tags:
   - world/exandria
 ---
 
-The Lorestone of Eryndor is an ancient obsidian disc, made before the [[Calamity]], that bears the [[Prophecy of Eryndor]]. It was shattered, and its shards lie scattered across Exandria.
+The Lorestone of Eryndor is an ancient obsidian disc, made before [[the Calamity]], that bears the [[Prophecy of Eryndor]]. It was shattered, and its shards lie scattered across Exandria.
 
 ## Description
 

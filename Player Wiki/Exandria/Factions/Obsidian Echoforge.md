@@ -30,5 +30,5 @@ The society was originally called the Seekers of Eryndor's Echo.
 
 ## Rivals
 
-- The [[Emissaries of the Sunfall]] were once open enemies of the Echoforge, at times violently so. The Emissaries have since sought cooperation with it publicly.
+- The [[Emissaries of the Sunfall]] were once open enemies of the Echoforge, at times violently so. The two groups have since begun working together.
 - The [[Malachite Cord]] opposes reassembling the Lorestone. According to the Cord, the two groups once stood on common ground and have since divided over how to deal with the rifts. They still confer when the rifts require it.

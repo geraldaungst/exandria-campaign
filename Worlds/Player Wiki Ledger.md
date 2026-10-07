@@ -151,6 +151,7 @@ Decisions from earlier runs that apply to every future run. Source and run in br
 - A continent hub whose regions are themselves hubs is listed in The World of Exandria together with its region hubs, under the continent's heading, so readers reach the content in fewer clicks. [Gerald, F01b]
 - Vox Machina's defeat of Vecna (812 PD) is world knowledge. It gets a mention, with no further detail and no Vecna note. [Gerald, F01b]
 - The Shattered Teeth may be named as a place. They get no note. [Gerald, F01b]
+- A detail the party hasn't explicitly learned may stay on the wiki if they could reasonably deduce it and it has no bearing on future reveals, such as a shard's findspot, an NPC's surname, or a leader's full title. Remove it only when it confirms, or points toward, something the vault keeps secret. [Gerald, F02a]
 
 ### Scope and note shape
 

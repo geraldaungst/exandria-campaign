@@ -66,7 +66,7 @@ This contains information specific to the Lorestone of Eryndor campaign.
 
 ### Items
 
-- [[Blade of Maroth Fenn]]: kukri-style dagger carried by Dreyara Drimvar
+- [[Blade of Maroth Fenn]]: kukri-style magic dagger carried by Drawg Stormbrew
 - [[Lorestone of Eryndor]]: ancient obsidian disc bearing the Prophecy of Eryndor, shattered and scattered across Exandria
 - [[Soulwood]]: rare, sacred wood that insulates against magic, used to make Riftcages
 
