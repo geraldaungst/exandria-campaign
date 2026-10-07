@@ -63,3 +63,16 @@ Some powerful beings outside both pantheons are worshipped as gods, such as the 
 - Every temple in the [[Dwendalian Empire]] is owned and run by the government.
 - Only the approved deities may be worshipped: [[Bahamut]], Erathis, Ioun, [[Moradin]], Pelor, and the Raven Queen. Worship of any other deity is prosecuted.
 - Each shrine is kept by a herald, a government official who gives sermons and counsel.
+
+## In Gods of Exandria
+
+### Prime Deities
+
+- [[Avandra]]: the Changebringer, goddess of change, freedom, trade, and travel
+- [[Bahamut]]: the Platinum Dragon, god of the metallic dragons and creator of the dragonborn
+- [[Melora]]: the Wildmother, goddess of the wilderness and the sea
+- [[Moradin]]: the All-Hammer, god of craft, creation, family, and legacy
+
+### Lesser Powers
+
+- [[Uk'otoa]]: leviathan of the Lucidian Ocean, worshipped as a god by some sea-dwellers

@@ -21,6 +21,7 @@ This contains information specific to the Lorestone of Eryndor campaign.
 ### Menagerie Coast
 
 - [[Menagerie Coast]]: Wildemount's southwestern coast, governed by the Clovis Concord; its page lists the region's cities, landmarks, people, and factions
+- [[Port Damali]]: largest city on Wildemount's western coast, where the Tyodan River meets the Lucidian Ocean; its page lists the city's notable places and people
 
 ### Cyrios Mountains
 
@@ -29,6 +30,7 @@ This contains information specific to the Lorestone of Eryndor campaign.
 ### Dwendalian Empire
 
 - [[Dwendalian Empire]]: nation ruling the western half of Wynandir from its capital, Rexxentrum; its page lists the Empire's cities, regions, people, and factions
+- [[Truscan Vale]]: region at the Empire's southwestern edge, home to Deastok and Kamordah; its page lists the vale's cities, landmarks, and factions
 
 ### Xhorhas
 
@@ -36,9 +38,7 @@ This contains information specific to the Lorestone of Eryndor campaign.
 
 ### Greying Wildlands
 
-- [[Greying Wildlands]]: Wildemount's northernmost region of forests, mountains, and tundra
-- [[Ruins of Molaesmyr]]: ruins of an elven city destroyed in 585 PD, at the heart of the Savalirwood
-- [[Savalirwood]]: cursed forest, formerly the Veluthil Forest, surrounding the ruins of Molaesmyr
+- [[Greying Wildlands]]: Wildemount's northernmost region of forests, mountains, and tundra; its page lists the Savalirwood and the Ruins of Molaesmyr
 
 ## Marquet
 
@@ -66,22 +66,17 @@ This contains information specific to the Lorestone of Eryndor campaign.
 
 ### Items
 
-- [[Blade of Maroth Fenn]]: kukri-style magic dagger carried by Drawg Stormbrew
+- [[Blade of Maroth Fenn]]: kukri-style magic dagger once carried by Dreyara Drimvar
 - [[Lorestone of Eryndor]]: ancient obsidian disc bearing the Prophecy of Eryndor, shattered and scattered across Exandria
 - [[Soulwood]]: rare, sacred wood that insulates against magic, used to make Riftcages
 
 ### Lore
 
-- [[Avandra]]: the Changebringer, goddess of change, freedom, trade, and travel
-- [[Bahamut]]: the Platinum Dragon, god of the metallic dragons and creator of the dragonborn
 - [[Calendar of Exandria]]: months, weekdays, seasons, and the holidays of Wildemount
 - [[Dragonborn]]: people created by Bahamut, divided into the Draconblood and Ravenite lineages
-- [[Gods of Exandria]]: the Prime Deities, the Betrayer Gods, and the Divine Gate
+- [[Gods of Exandria]]: the Prime Deities, the Betrayer Gods, and the Divine Gate; its page lists the gods that have their own pages
 - [[Ki'Nau]]: indigenous people of the Menagerie Coast and the Swavain Islands
-- [[Melora]]: the Wildmother, goddess of the wilderness and the sea
-- [[Moradin]]: the All-Hammer, god of craft, creation, family, and legacy
 - [[Pallid Elves]]: moon-pale elves devoted to Sehanine, from the Pallid Grove
 - [[Planar Rifts]]: openings between Exandria and other planes of existence
 - [[Prophecy of Eryndor]]: prophecy inscribed on the Lorestone of Eryndor
 - [[The Calamity]]: the war between the Prime Deities and the Betrayer Gods that ended the Age of Arcanum
-- [[Uk'otoa]]: leviathan of the Lucidian Ocean, worshipped as a god by some sea-dwellers
