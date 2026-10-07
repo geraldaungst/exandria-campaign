@@ -24,5 +24,5 @@ Harmony Hall is a dinner theater in Port Damali. Guests dine while watching live
 ## History
 
 - The building once housed the Coriander & Mallow Exchange Company, a brothel.
-- After a raid on the brothel, its madam converted the building into a dinner theater.
+- Its madam later converted the building into a dinner theater.
 - The [[Pearl Shrine]], Port Damali's temple to [[Avandra]], supported the conversion with funds, volunteers, and guidance.

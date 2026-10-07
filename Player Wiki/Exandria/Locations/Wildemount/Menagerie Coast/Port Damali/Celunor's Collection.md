@@ -28,4 +28,4 @@ Celunor's Collection is a shop near the Port Damali docks that sells rare books,
 
 ## The Drowned Library
 
-The shop says its stock comes from the Drowned Library, a legendary repository of arcane knowledge that sank long ago. From time to time the shop announces new "discoveries" from the collection.
+The shop says its stock comes from the Drowned Library, a legendary repository of arcane knowledge that sank long ago. From time to time the shop announces new discoveries from the collection.
