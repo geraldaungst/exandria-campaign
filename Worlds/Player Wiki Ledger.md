@@ -9,7 +9,7 @@ One row per published Exandria note. Claude reads this before every run and does
 
 | Note title                         | Type     | Scope   | Date       | Renamed DM note                                               |
 | ---------------------------------- | -------- | ------- | ---------- | ------------------------------------------------------------- |
-| Tal'Dorei                          | Location | T01     | 2026-10-04 | None                                                          |
+| Tal'Dorei                          | Hub | T01     | 2026-10-04 | None                                                          |
 | Emon                               | Location | T01     | 2026-10-04 | None                                                          |
 | Whitestone                         | Location | T01     | 2026-10-04 | None                                                          |
 | Shrine of Bahamut                  | Location | T01     | 2026-10-04 | Shrine of Bahamut - DM Notes                                  |
@@ -95,6 +95,9 @@ One row per published Exandria note. Claude reads this before every run and does
 | Ki'Nau                             | Lore     | E08–E09 | 2026-10-06 | None                                                          |
 | Pallid Elves                       | Lore     | E08–E09 | 2026-10-06 | None                                                          |
 | Marquet                            | Location | E08–E09 | 2026-10-06 | None                                                          |
+| Wildemount                         | Hub      | F01b    | 2026-10-06 | None                                                          |
+| Lucidian Ocean                     | Location | F01b    | 2026-10-06 | None                                                          |
+| Vox Machina                        | Faction  | F01b    | 2026-10-06 | None                                                          |
 
 ## Standing Decisions
 
@@ -144,6 +147,10 @@ Decisions from earlier runs that apply to every future run. Source and run in br
 - In-world tales may be published as told, but where they contradict the facts, the note states the facts and says the false version persists (as with dragonborn wings). [Gerald, E08–E09]
 - Widely known Calamity lore, including the Vestiges of Divergence and the Arms of the Betrayers, is world knowledge even when the party unknowingly holds such an item. Never identify a specific item as one until it is revealed. [Gerald, E08–E09]
 - Ank'Harel and J'mon Sa Ord stay as sections in the Marquet note unless they become relevant to the campaign. [Gerald, E08–E09]
+- The Ashari may be mentioned as a known people of Exandria, and Keyleth may be named as one of them. Never tie them to the rifts or other mysteries the party is involved in. This replaces "Don't mention the Ashari until Gerald says otherwise." [Gerald, F01b]
+- A continent hub whose regions are themselves hubs is listed in The World of Exandria together with its region hubs, under the continent's heading, so readers reach the content in fewer clicks. [Gerald, F01b]
+- Vox Machina's defeat of Vecna (812 PD) is world knowledge. It gets a mention, with no further detail and no Vecna note. [Gerald, F01b]
+- The Shattered Teeth may be named as a place. They get no note. [Gerald, F01b]
 
 ### Scope and note shape
 

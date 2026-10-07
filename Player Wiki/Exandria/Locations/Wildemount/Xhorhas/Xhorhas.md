@@ -12,11 +12,11 @@ tags:
 
 > [!info] Quick Reference
 > **Type:** Region
-> **Part of:** Wildemount
+> **Part of:** [[Wildemount]]
 
 ## Description
 
-Xhorhas covers the eastern half of Wynandir, beyond the Ashkeeper Peaks from the [[Dwendalian Empire]]. Much of it is harsh, wild land often called the wastes. Drow, goblinoids, orcs, and many other peoples live there, some in independent tribes.
+Xhorhas covers the eastern half of [[Wynandir]], beyond the Ashkeeper Peaks from the [[Dwendalian Empire]]. Much of it is harsh, wild land often called the wastes. Drow, goblinoids, orcs, and many other peoples live there, some in independent tribes.
 
 ## Geography
 

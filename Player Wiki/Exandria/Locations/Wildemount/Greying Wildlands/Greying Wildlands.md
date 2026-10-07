@@ -1,23 +1,23 @@
 ---
-tags:
-  - location
-  - player-facing
-  - world/exandria
-  - region/greying-wildlands
 aliases:
   - The Greying Wildlands
 cssclasses:
   - world-exandria
 publish: true
+tags:
+  - location
+  - player-facing
+  - world/exandria
+  - region/greying-wildlands
 ---
 
 > [!info] Quick Reference
 > **Type:** Region
-> **Part of:** Wildemount
+> **Part of:** [[Wildemount]]
 
 ## Description
 
-The Greying Wildlands are the northernmost region of Wildemount, a land of dense, desiccated forests, rolling mountains, and icy tundra. The harsh conditions keep the region sparsely populated.
+The Greying Wildlands are the northernmost region of [[Wildemount]], a land of dense, desiccated forests, rolling mountains, and icy tundra. The harsh conditions keep the region sparsely populated.
 
 ## Geography
 

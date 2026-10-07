@@ -13,7 +13,7 @@ Half-elf Rogue
 
 [Complete backstory here](https://docs.google.com/document/d/1eHMFKylWK_U6Hap1qfR5OlVD2ntpUrXB-TRP7qt6gN8/edit)
 
-Born in the bustling city of [[Port Damali - DM Notes]], Qilynn spent her early years in the shadowy alleys and cobbled streets, where the salty breeze off the Lucidian Ocean mixed with the scent of fish and adventure. Her mother, a tavern wench in the heart of the port, filled their small home with songs and laughter.
+Born in the bustling city of [[Port Damali - DM Notes]], Qilynn spent her early years in the shadowy alleys and cobbled streets, where the salty breeze off the [[Lucidian Ocean]] mixed with the scent of fish and adventure. Her mother, a tavern wench in the heart of the port, filled their small home with songs and laughter.
 
 Tragedy struck when Qilynn's mother was killed by an unknown assailant, leaving her orphaned at a tender age. With no father to speak of and no siblings to lean on, she was forced to fend for herself. The tavern's generous patrons, enchanted by her innocent spirit, would often sneak her sweets and small trinkets.
 

@@ -12,46 +12,29 @@ This contains information specific to the Lorestone of Eryndor campaign.
 
 ## Tal'Dorei
 
-### Locations
+- [[Tal'Dorei]]: continent across the Lucidian Ocean from Wildemount, home to the Republic of Tal'Dorei; its page lists the continent's cities, people, and factions
 
-- [[Tal'Dorei]]: continent across the Lucidian Ocean from Wildemount, home to the Republic of Tal'Dorei
-- [[Emon]]: capital of the Republic of Tal'Dorei and seat of the Tal'Dorei Council
-- [[Whitestone]]: city-state in the Alabaster Sierras, ruled by the de Rolo family
-- [[Shrine of Bahamut]]: small shrine in Whitestone with tapestries of [[Bahamut]]'s lore
-- [[Tipsy Quorum]]: tavern in Whitestone
+## Wildemount
 
-### People
+- [[Wildemount]]: continent across the Lucidian Ocean from Tal'Dorei, with Wynandir at its center; its page lists its regions
 
-- [[Percival de Rolo]]: Lord of Whitestone and member of Vox Machina
-- [[Vex'ahlia de Rolo]]: Lady of Whitestone, ranger, and member of Vox Machina
-
-## Menagerie Coast
-
-### Locations
+### Menagerie Coast
 
 - [[Menagerie Coast]]: Wildemount's southwestern coast, governed by the Clovis Concord; its page lists the region's cities, landmarks, people, and factions
 
-## Cyrios Mountains
-
-### Locations
+### Cyrios Mountains
 
 - [[Cyrios Mountains]]: mountain range between the Menagerie Coast and the Dwendalian Empire; its page lists the range's landmarks, people, and items
 
-## Dwendalian Empire
-
-### Locations
+### Dwendalian Empire
 
 - [[Dwendalian Empire]]: nation ruling the western half of Wynandir from its capital, Rexxentrum; its page lists the Empire's cities, regions, people, and factions
 
-## Xhorhas
-
-### Locations
+### Xhorhas
 
 - [[Xhorhas]]: the eastern half of Wynandir, beyond the Ashkeeper Peaks; its page lists the region's cities, ruins, people, and factions
 
-## Greying Wildlands
-
-### Locations
+### Greying Wildlands
 
 - [[Greying Wildlands]]: Wildemount's northernmost region of forests, mountains, and tundra
 - [[Ruins of Molaesmyr]]: ruins of an elven city destroyed in 585 PD, at the heart of the Savalirwood
@@ -59,11 +42,13 @@ This contains information specific to the Lorestone of Eryndor campaign.
 
 ## Marquet
 
-### Locations
-
 - [[Marquet]]: continent far southwest of Wildemount, centered on the city of Ank'Harel
 
 ## Across Regions
+
+### Locations
+
+- [[Lucidian Ocean]]: ocean south of Wildemount and southeast of Tal'Dorei, home to the Swavain Islands and the Shattered Teeth
 
 ### People
 

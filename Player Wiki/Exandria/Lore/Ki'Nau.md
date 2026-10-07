@@ -1,13 +1,13 @@
 ---
-tags:
-  - atomic
-  - player-facing
-  - world/exandria
 aliases:
   - Kinau
 cssclasses:
   - world-exandria
 publish: true
+tags:
+  - atomic
+  - player-facing
+  - world/exandria
 ---
 
 The Ki'Nau are the indigenous people of the [[Menagerie Coast]] and the Swavain Islands. They lived there long before colonists from [[Marquet]] arrived.
@@ -19,7 +19,7 @@ The Ki'Nau are the indigenous people of the [[Menagerie Coast]] and the Swavain 
 
 ## Legend
 
-According to legend, the Ki'Nau of the Swavain Islands once held the blessing of the leviathan [[Uk'otoa]] and prospered under it, until followers of Zehir sealed it beneath the Lucidian Ocean. See the Uk'otoa entry.
+According to legend, the Ki'Nau of the Swavain Islands once held the blessing of the leviathan [[Uk'otoa]] and prospered under it, until followers of Zehir sealed it beneath the [[Lucidian Ocean]]. See the Uk'otoa entry.
 
 ## Burial and Justice
 

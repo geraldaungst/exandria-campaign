@@ -14,11 +14,11 @@ tags:
 
 > [!info] Quick Reference
 > **Type:** Region and nation
-> **Part of:** Wildemount
+> **Part of:** [[Wildemount]]
 
 ## Description
 
-The Menagerie Coast runs the length of Wildemount's southwestern shore along the Lucidian Ocean. It is a lush, rain-swept, tropical land of scattered forests and jungles, rocky sea cliffs, beaches, and overgrown islands, crossed by busy trade routes on land and sea. The coast is famous for trade, art, performance, and food, and also for vice, piracy, and illicit business.
+The Menagerie Coast runs the length of [[Wildemount]]'s southwestern shore along the [[Lucidian Ocean]]. It is a lush, rain-swept, tropical land of scattered forests and jungles, rocky sea cliffs, beaches, and overgrown islands, crossed by busy trade routes on land and sea. The coast is famous for trade, art, performance, and food, and also for vice, piracy, and illicit business.
 
 ## Geography
 
@@ -48,7 +48,7 @@ The Menagerie Coast runs the length of Wildemount's southwestern shore along the
 ## Getting There
 
 - **By air:** Port Damali has the only skyport in Wildemount.
-- **By sea:** Ships from across the Lucidian Ocean call at the coast's open ports.
+- **By sea:** Ships from across the [[Lucidian Ocean]] call at the coast's open ports.
 - **By land:** From the Dwendalian Empire, the route through the Wuyun Gates in the Cyrios Mountains leads down to the coast.
 
 ## In the Menagerie Coast
@@ -57,7 +57,7 @@ The Menagerie Coast runs the length of Wildemount's southwestern shore along the
 
 - [[Nicodranas]]: easternmost city on the coast, where most diplomacy between the Concord and the Empire takes place
 - [[Othemoor]]: perilous marsh inland on the coast
-- [[Port Damali]]: largest city on Wildemount's western coast, where the Tyodan River meets the Lucidian Ocean; its page lists the city's notable places and people
+- [[Port Damali]]: largest city on Wildemount's western coast, where the Tyodan River meets the [[Lucidian Ocean]]; its page lists the city's notable places and people
 - [[Port Zoon]]: industrial city known for its powerful crafting guilds
 - [[Shrine of Melora]]: ancient hilltop shrine to the [[Melora|Wildmother]] east of Port Damali
 - [[Tyodan River]]: river that meets the ocean at Port Damali, crossed by a stone bridge at a waterfall

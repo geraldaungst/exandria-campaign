@@ -31,7 +31,7 @@ The [[Lorestone of Eryndor - DM Notes]] was shattered into 8 pieces. This tracke
 
 ---
 
-### Shard 1
+### Shard 1 - Nightshade Shard (also known as "Shard of Willow's Legacy")
 
 ^shard1
 
@@ -60,7 +60,7 @@ The [[Lorestone of Eryndor - DM Notes]] was shattered into 8 pieces. This tracke
 
 ---
 
-### Shard 2
+### Shard 2 - Ruukva Shard
 
 ^shard2
 
@@ -89,7 +89,7 @@ The [[Lorestone of Eryndor - DM Notes]] was shattered into 8 pieces. This tracke
 
 ---
 
-### Shard 3
+### Shard 3 - Kalutha Shard
 
 ^shard3
 
@@ -118,7 +118,7 @@ The [[Lorestone of Eryndor - DM Notes]] was shattered into 8 pieces. This tracke
 
 ---
 
-### Shard 4
+### Shard 4 - Ninth Meridian Shard
 
 ^shard4
 
@@ -147,7 +147,7 @@ The [[Lorestone of Eryndor - DM Notes]] was shattered into 8 pieces. This tracke
 
 ---
 
-### Shard 5
+### Shard 5 - [Name tbd] Shard
 
 ^shard5
 
@@ -178,7 +178,7 @@ The [[Lorestone of Eryndor - DM Notes]] was shattered into 8 pieces. This tracke
 
 ---
 
-### Shard 6
+### Shard 6 - Marquet Shard
 
 ^shard6
 
@@ -214,7 +214,7 @@ The [[Lorestone of Eryndor - DM Notes]] was shattered into 8 pieces. This tracke
 
 ---
 
-### Shard 7
+### Shard 7 - Ebonglass Shard
 
 ^shard7
 
@@ -262,7 +262,7 @@ The [[Lorestone of Eryndor - DM Notes]] was shattered into 8 pieces. This tracke
 
 ---
 
-### Shard 8
+### Shard 8 - Astral(?) Shard
 
 ^shard8
 

@@ -16,7 +16,7 @@ publish: true
 
 ## Description
 
-Tal'Dorei is a continent across the Lucidian Ocean from Wildemount. Most of it belongs to the Republic of Tal'Dorei, governed from [[Emon]].
+Tal'Dorei is a continent across the [[Lucidian Ocean]] from [[Wildemount]]. Most of it belongs to the Republic of Tal'Dorei, governed from [[Emon]].
 
 ## Government
 
@@ -32,9 +32,27 @@ Tal'Dorei is a continent across the Lucidian Ocean from Wildemount. Most of it b
 ## History
 
 - In 811 PD the Chroma Conclave, an alliance of chromatic dragons led by Thordak the Cinder King, attacked Tal'Dorei and devastated Emon.
-- The adventuring company Vox Machina slew the dragons of the Conclave.
+- The adventuring company [[Vox Machina]] slew the dragons of the Conclave.
 - Emon was rebuilt after the attack.
 
 ## Getting There
 
-Skyships connect Emon and Whitestone with other cities, including Port Damali in Wildemount.
+Skyships connect Emon and Whitestone with other cities, including [[Port Damali]] in Wildemount.
+
+## In Tal'Dorei
+
+### Locations
+
+- [[Emon]]: capital of the Republic of Tal'Dorei and seat of the Tal'Dorei Council
+- [[Shrine of Bahamut]]: small shrine in Whitestone with tapestries of [[Bahamut]]'s lore
+- [[Tipsy Quorum]]: tavern in Whitestone
+- [[Whitestone]]: city-state in the Alabaster Sierras, ruled by the de Rolo family
+
+### People
+
+- [[Percival de Rolo]]: Lord of Whitestone and member of Vox Machina
+- [[Vex'ahlia de Rolo]]: Lady of Whitestone, ranger, and member of Vox Machina
+
+### Factions
+
+- [[Vox Machina]]: adventuring company that retook Whitestone and slew the dragons of the Chroma Conclave

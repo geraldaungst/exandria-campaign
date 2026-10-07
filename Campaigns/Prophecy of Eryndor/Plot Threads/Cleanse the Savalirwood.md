@@ -29,8 +29,8 @@ tags:
 
 ### Current state of the Forest
 
-- Covers much of Northern Wynandir
-- Surrounds the ruins of Molaesmyr, making them nearly inaccessible
+- Covers much of the Greying Wildlands, north of [[Wynandir]]
+- Surrounds the [[ruins of Molaesmyr]], making them nearly inaccessible
 - Creates a natural barrier between Uthodurn and the rest of Wildemount
 - Home to dangerous mutated creatures and cursed fey
 

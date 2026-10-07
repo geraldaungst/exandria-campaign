@@ -1,13 +1,13 @@
 ---
+aliases: []
+cssclasses:
+  - world-exandria
+publish: true
 tags:
   - location
   - player-facing
   - world/exandria
   - region/taldorei
-aliases: []
-cssclasses:
-  - world-exandria
-publish: true
 ---
 
 > [!info] Quick Reference
@@ -20,5 +20,5 @@ A tavern in Whitestone.
 
 ## Known For
 
-- Members of Vox Machina drink here from time to time.
+- Members of [[Vox Machina]] drink here from time to time.
 - Scanlan Shorthalt of Vox Machina used to sing here.

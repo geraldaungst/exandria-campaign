@@ -1,13 +1,13 @@
 ---
+aliases: []
+cssclasses:
+  - world-exandria
+publish: true
 tags:
   - location
   - player-facing
   - world/exandria
   - region/menagerie-coast
-aliases: []
-cssclasses:
-  - world-exandria
-publish: true
 ---
 
 > [!info] Quick Reference
@@ -16,7 +16,7 @@ publish: true
 
 ## Description
 
-The Tyodan River runs through the Menagerie Coast and meets the Lucidian Ocean at [[Port Damali]].
+The Tyodan River runs through the [[Menagerie Coast]] and meets the [[Lucidian Ocean]] at [[Port Damali]].
 
 ## The Bridge at the Falls
 

@@ -40,7 +40,7 @@ Rules "kingdom" of corrupted thralls in Xagonstar with elaborate court structure
 
 ## Background
 
-- Born ~485 PD in Eastern Wynandir
+- Born ~485 PD in the Blightshore
 - Witnessed aftermath of Molaesmyr's fall (~585 PD)
 - At age 100 (~535 PD), defeated corrupted copper dragon Malastryx through exploiting her madness with paradoxical riddles
 - Acquired Lorestone shard from Malastryx's hoard (originally from sunken ship Consecution's Hope)

@@ -1,15 +1,15 @@
 ---
-tags:
-  - location
-  - player-facing
-  - world/exandria
-  - region/marquet
 aliases:
   - Marquette
   - Marquesian
 cssclasses:
   - world-exandria
 publish: true
+tags:
+  - location
+  - player-facing
+  - world/exandria
+  - region/marquet
 ---
 
 > [!info] Quick Reference
@@ -17,7 +17,7 @@ publish: true
 
 ## Description
 
-Marquet is a continent far to the southwest of Wildemount, across the Lucidian Ocean. Much of it is desert and mountain, including the Aggrad Mountains. Its people speak Marquesian, and Marquesian goods and travelers are common in the ports of Wildemount.
+Marquet is a continent far to the southwest of Wildemount, across the [[Lucidian Ocean]]. Much of it is desert and mountain, including the Aggrad Mountains. Its people speak Marquesian, and Marquesian goods and travelers are common in the ports of Wildemount.
 
 ## Ank'Harel
 

@@ -1,15 +1,15 @@
 ---
+aliases:
+  - "Lady Vex'ahlia"
+  - Vex
+cssclasses:
+  - world-exandria
+publish: true
 tags:
   - npc
   - player-facing
   - world/exandria
   - region/taldorei
-aliases:
-  - Lady Vex'ahlia
-  - Vex
-cssclasses:
-  - world-exandria
-publish: true
 ---
 
 > [!info] Quick Reference
@@ -24,4 +24,4 @@ A tall half-elf with long brown hair and hazel eyes, and an accomplished ranger.
 
 - Lady of Whitestone, married to Lord [[Percival de Rolo]].
 - Sits on the Tal'Dorei Council.
-- A member of the adventuring company Vox Machina.
+- A member of the adventuring company [[Vox Machina]].

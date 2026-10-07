@@ -1,15 +1,15 @@
 ---
-tags:
-  - npc
-  - player-facing
-  - world/exandria
-  - region/taldorei
 aliases:
   - Percy
   - Lord Percival
 cssclasses:
   - world-exandria
 publish: true
+tags:
+  - npc
+  - player-facing
+  - world/exandria
+  - region/taldorei
 ---
 
 > [!info] Quick Reference
@@ -24,7 +24,7 @@ A tall human with a shock of pure white hair and wire-rimmed glasses.
 
 - Lord of Whitestone, of the de Rolo family that rules the city.
 - Married to Lady [[Vex'ahlia de Rolo]].
-- A member of the adventuring company Vox Machina.
+- A member of the adventuring company [[Vox Machina]].
 
 ## Reputation
 

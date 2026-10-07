@@ -1,13 +1,13 @@
 ---
+aliases: []
+cssclasses:
+  - world-exandria
+publish: true
 tags:
   - location
   - player-facing
   - world/exandria
   - region/taldorei
-aliases: []
-cssclasses:
-  - world-exandria
-publish: true
 ---
 
 > [!info] Quick Reference
@@ -27,7 +27,7 @@ The de Rolo family rules Whitestone through the Chamber of Whitestone. Lord [[Pe
 - **The Sun Tree:** A glowing tree on a small hill in Dawnfather Square, visible from across the city. It is sacred to the Dawnfather.
 - **Castle Whitestone:** The seat of the de Rolo family, on a hill above the city.
 - **[[Shrine of Bahamut]]:** A small shrine of whitewashed stone.
-- **[[Tipsy Quorum]]:** A tavern where members of Vox Machina are sometimes seen.
+- **[[Tipsy Quorum]]:** A tavern where members of [[Vox Machina]] are sometimes seen.
 
 ## Known For
 

@@ -34,10 +34,10 @@ The Willowwhisper lineage has led the organization through multiple generations:
 
 | Leader                   | Era                | Notable Achievements                 | Legacy                                          |
 | ------------------------ | ------------------ | ------------------------------------ | ----------------------------------------------- |
-| [[Lys Willowwhisper]]    | Founding           | Discovered first fragment            | Established group's mission and foundation      |
-| Elana Willowwhisper      | Early Age          | Discovered two fragments             | Expanded search to the Shattered Teeth          |
+| [[Lys Willowwhisper]]    | Founding           | Discovered Nightshade Shard, also known as the "Shard of Willow's Legacy"           | Established group's mission and foundation      |
+| Elana Willowwhisper      | Early Age          | Discovered Ruukva and Kalutha Shards             | Expanded search to the Shattered Teeth          |
 | Bryn Willowwhisper       | Scholar's Age      | Created documentation systems        | Established scholarly traditions still in use   |
-| Talyn Willowwhisper      | Age of Exploration | Found fragment in uncharted waters   | Mapped many new territories                     |
+| Talyn Willowwhisper      | Age of Exploration | Found fragment in uncharted waters near the Ninth Meridian   | Mapped many new territories                     |
 | Liora Willowwhisper      | Diplomatic Era     | Formed key faction alliances         | Built diplomatic network still maintained today |
 | Caelan Willowwhisper     | Guardian Era       | Rebranded as "Windwhisper Guardians" | Established protection protocols                |
 | Naela Willowwhisper      | Time of Strife     | Preserved group unity                | Diplomatic conflict resolution methods          |

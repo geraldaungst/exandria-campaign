@@ -1,15 +1,15 @@
 ---
-tags:
-  - location
-  - player-facing
-  - world/exandria
-  - region/xhorhas
 aliases:
   - Fall of Draconia
   - Ruins of Draconia
 cssclasses:
   - world-exandria
 publish: true
+tags:
+  - location
+  - player-facing
+  - world/exandria
+  - region/xhorhas
 ---
 
 > [!info] Quick Reference
@@ -31,7 +31,7 @@ Draconia was a nation of [[Dragonborn]] whose cities floated above the Dreemoth 
 
 - In 811 PD the Chroma Conclave, an alliance of chromatic dragons, attacked across Exandria. While the rest of the Conclave struck [[Tal'Dorei]], the white dragon Vorugal, called the Frigid Doom, attacked Draconia.
 - Draconia's defenses failed. Its floating cities fell into the ravine, and thousands died.
-- The adventuring company Vox Machina later slew the dragons of the Conclave.
+- The adventuring company [[Vox Machina]] later slew the dragons of the Conclave.
 
 ## Aftermath
 

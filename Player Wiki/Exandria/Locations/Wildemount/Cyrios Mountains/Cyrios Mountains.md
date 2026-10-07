@@ -13,7 +13,7 @@ tags:
 
 > [!info] Quick Reference
 > **Type:** Mountain range
-> **Part of:** Wildemount
+> **Part of:** [[Wildemount]]
 
 ## Description
 
@@ -24,7 +24,7 @@ The Cyrios Mountains rise north and east of the [[Menagerie Coast]], between the
 - From the coast, the most-traveled way into the range follows a creek up a narrow crevasse.
 - Higher up, the routes divide. A longer, gentler route bends north and can be managed with a cart. Shorter, more direct routes cross the high peaks and are rugged and treacherous.
 - Some passes run along narrow ledges between a rock wall and a sheer drop.
-- The road through the Wuyun Gates crosses the range, linking the Dwendalian Empire with the coast.
+- The road through the Wuyun Gates crosses the range, linking the [[Dwendalian Empire]] with the coast.
 - Toward the east, a road descends out of the mountains through the foothills toward [[Deastok]] and [[Zadash]].
 
 ## Climate
