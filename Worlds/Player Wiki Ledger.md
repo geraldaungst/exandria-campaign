@@ -88,6 +88,13 @@ One row per published Exandria note. Claude reads this before every run and does
 | Solvei's Vigilance                 | Item     | E04–E05 | 2026-10-06 | None                                                          |
 | Blade of Maroth Fenn               | Item     | E04–E05 | 2026-10-06 | Blade of Maroth Fenn - DM Notes                               |
 | Soulwood                           | Item     | E04–E05 | 2026-10-06 | Soulwood - DM Notes                                           |
+| The Calamity                       | Lore     | E08–E09 | 2026-10-06 | None                                                          |
+| Calendar of Exandria               | Lore     | E08–E09 | 2026-10-06 | None                                                          |
+| Draconia                           | Location | E08–E09 | 2026-10-06 | None                                                          |
+| Dragonborn                         | Lore     | E08–E09 | 2026-10-06 | None                                                          |
+| Ki'Nau                             | Lore     | E08–E09 | 2026-10-06 | None                                                          |
+| Pallid Elves                       | Lore     | E08–E09 | 2026-10-06 | None                                                          |
+| Marquet                            | Location | E08–E09 | 2026-10-06 | None                                                          |
 
 ## Standing Decisions
 
@@ -134,6 +141,9 @@ Decisions from earlier runs that apply to every future run. Source and run in br
 - The temporal resonance crystal gets no mention on the wiki until the party identifies it as a Luxon Beacon. [Gerald, E04–E05]
 - Item legends the party is meant to discover in play (such as the Blade of Maroth Fenn's) stay off the wiki until learned at the table. An item can get a stub with its appearance only. [Gerald, E04–E05]
 - Items get no region tag. An item with a clear home place is listed in that place's hub; otherwise under Across Regions. [Claude, E04–E05]
+- In-world tales may be published as told, but where they contradict the facts, the note states the facts and says the false version persists (as with dragonborn wings). [Gerald, E08–E09]
+- Widely known Calamity lore, including the Vestiges of Divergence and the Arms of the Betrayers, is world knowledge even when the party unknowingly holds such an item. Never identify a specific item as one until it is revealed. [Gerald, E08–E09]
+- Ank'Harel and J'mon Sa Ord stay as sections in the Marquet note unless they become relevant to the campaign. [Gerald, E08–E09]
 
 ### Scope and note shape
 

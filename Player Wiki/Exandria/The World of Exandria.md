@@ -47,7 +47,7 @@ This contains information specific to the Lorestone of Eryndor campaign.
 
 ### Locations
 
-- [[Xhorhas]]: the eastern half of Wynandir, beyond the Ashkeeper Peaks; its page lists the region's cities, people, and factions
+- [[Xhorhas]]: the eastern half of Wynandir, beyond the Ashkeeper Peaks; its page lists the region's cities, ruins, people, and factions
 
 ## Greying Wildlands
 
@@ -56,6 +56,12 @@ This contains information specific to the Lorestone of Eryndor campaign.
 - [[Greying Wildlands]]: Wildemount's northernmost region of forests, mountains, and tundra
 - [[Ruins of Molaesmyr]]: ruins of an elven city destroyed in 585 PD, at the heart of the Savalirwood
 - [[Savalirwood]]: cursed forest, formerly the Veluthil Forest, surrounding the ruins of Molaesmyr
+
+## Marquet
+
+### Locations
+
+- [[Marquet]]: continent far southwest of Wildemount, centered on the city of Ank'Harel
 
 ## Across Regions
 
@@ -83,9 +89,14 @@ This contains information specific to the Lorestone of Eryndor campaign.
 
 - [[Avandra]]: the Changebringer, goddess of change, freedom, trade, and travel
 - [[Bahamut]]: the Platinum Dragon, god of the metallic dragons and creator of the dragonborn
+- [[Calendar of Exandria]]: months, weekdays, seasons, and the holidays of Wildemount
+- [[Dragonborn]]: people created by Bahamut, divided into the Draconblood and Ravenite lineages
 - [[Gods of Exandria]]: the Prime Deities, the Betrayer Gods, and the Divine Gate
+- [[Ki'Nau]]: indigenous people of the Menagerie Coast and the Swavain Islands
 - [[Melora]]: the Wildmother, goddess of the wilderness and the sea
 - [[Moradin]]: the All-Hammer, god of craft, creation, family, and legacy
+- [[Pallid Elves]]: moon-pale elves devoted to Sehanine, from the Pallid Grove
 - [[Planar Rifts]]: openings between Exandria and other planes of existence
 - [[Prophecy of Eryndor]]: prophecy inscribed on the Lorestone of Eryndor
+- [[The Calamity]]: the war between the Prime Deities and the Betrayer Gods that ended the Age of Arcanum
 - [[Uk'otoa]]: leviathan of the Lucidian Ocean, worshipped as a god by some sea-dwellers

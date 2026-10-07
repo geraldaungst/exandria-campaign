@@ -1,13 +1,13 @@
 ---
+aliases: []
+cssclasses:
+  - world-exandria
+publish: true
 tags:
   - location
   - player-facing
   - world/exandria
   - region/xhorhas
-aliases: []
-cssclasses:
-  - world-exandria
-publish: true
 ---
 
 > [!info] Quick Reference
@@ -23,7 +23,7 @@ Xhorhas covers the eastern half of Wynandir, beyond the Ashkeeper Peaks from the
 - The Ashkeeper Peaks form the border with the Empire.
 - The north is ruled by the [[Kryn Dynasty]] from its capital, [[Rosohna]].
 - [[Xarzith Kitril]], a dragonborn city, lies in southern Xhorhas.
-- The ruins of Draconia, the fallen dragonborn nation, lie at the Dreemoth Ravine.
+- The ruins of [[Draconia]], the fallen dragonborn nation, lie at the Dreemoth Ravine.
 
 ## Reputation in the Empire
 
@@ -38,6 +38,7 @@ Southern Xhorhasian cooking uses black salt and Xhorhasian fire root, a spicy re
 
 ### Locations
 
+- [[Draconia]]: fallen dragonborn nation whose floating cities stood above the Dreemoth Ravine
 - [[Rosohna]]: capital of the Kryn Dynasty
 - [[Xarzith Kitril]]: dragonborn city in southern Xhorhas, founded after the fall of Draconia
 

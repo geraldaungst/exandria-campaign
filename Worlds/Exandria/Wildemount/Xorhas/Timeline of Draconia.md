@@ -12,13 +12,13 @@ created: 2025-01-10
 
 - **Founding of Draconia:** The Dragonborn establish Draconia on the floating islands above the Dreemoth Ravine. Draconia quickly becomes known for its architectural marvels and advanced magical prowess, thriving as a powerful and affluent nation.
 
-**400 PD - 812 PD**
+**400 PD - 811 PD**
 
 - **Golden Age of Draconia:** Draconia experiences a period of significant growth and cultural development. The nation is a hub of draconic culture and civilization, with its spires reaching towards the heavens and its people mastering the arts of magic and warfare.
 
 **811 PD**
 
-- **Attack of the Chroma Conclave:** The Chroma Conclave, a group of powerful chromatic dragons led by Thordak the Cinder King, launches a devastating assault on Draconia. The cities are destroyed, many Dragonborn are killed, and the surviving Dragonborn are scattered across Exandria. The attack marks the end of Draconia's golden age and its transformation into a series of ruins.
+- **Attack of the Chroma Conclave:** The Chroma Conclave, a group of powerful chromatic dragons led by Thordak the Cinder King, launches a devastating assault on Draconia. The assault is led by Vorugal, the Frigid Doom. The cities are destroyed, many Dragonborn are killed, and the surviving Dragonborn are scattered across Exandria. The attack marks the end of Draconia's golden age and its transformation into a series of ruins.
 
 **811 PD - 836 PD**
 

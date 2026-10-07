@@ -18,7 +18,7 @@ tags:
 
 ## Description
 
-Port Damali is the largest city on the western coast of Wildemount, a seaside metropolis where the [[Tyodan River]] meets the Lucidian Ocean. Called the jewel of the Menagerie Coast, it began as a colony of Marquet and is regarded as the unofficial capital of free trade outside the Dwendalian Empire. Music, color, and commerce fill its streets, and ships from across the world bring a mix of cultures and trades.
+Port Damali is the largest city on the western coast of Wildemount, a seaside metropolis where the [[Tyodan River]] meets the Lucidian Ocean. Called the jewel of the Menagerie Coast, it began as a colony of [[Marquet]] and is regarded as the unofficial capital of free trade outside the Dwendalian Empire. Music, color, and commerce fill its streets, and ships from across the world bring a mix of cultures and trades.
 
 About 82,000 people live in the city. Roughly half are human, with large numbers of halflings and elves.
 

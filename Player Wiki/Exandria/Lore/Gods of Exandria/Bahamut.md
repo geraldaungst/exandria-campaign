@@ -1,8 +1,4 @@
 ---
-tags:
-  - atomic
-  - player-facing
-  - world/exandria
 aliases:
   - The Platinum Dragon
   - Platinum Dragon
@@ -10,9 +6,13 @@ aliases:
 cssclasses:
   - world-exandria
 publish: true
+tags:
+  - atomic
+  - player-facing
+  - world/exandria
 ---
 
-Bahamut, the Platinum Dragon, is one of the Prime Deities of Exandria (see [[Gods of Exandria]]). He is the god of the metallic dragons and the creator of the dragonborn. He is the brother and sworn enemy of Tiamat, the Scaled Tyrant, queen of the chromatic dragons.
+Bahamut, the Platinum Dragon, is one of the Prime Deities of Exandria (see [[Gods of Exandria]]). He is the god of the metallic dragons and the creator of the [[dragonborn]]. He is the brother and sworn enemy of Tiamat, the Scaled Tyrant, queen of the chromatic dragons.
 
 ## Teachings
 

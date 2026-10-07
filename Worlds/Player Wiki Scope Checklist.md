@@ -96,7 +96,7 @@ An "Owns" list names the subjects a run is responsible for deciding about. It do
     - leftovers from earlier runs. Re-size after E01–E06.
     - Check previous conversations related to this wiki. Look for notable people and items that were found but deferred or had no designated home.
     - Split it if it would exceed 10 notes.
-- [ ] **E08–E09 History, species, and customs**
+- [X] **E08–E09 History, species, and customs**
   - Owns: the Calamity, the fall of Draconia, and other major events not owned above; Marquet as the characters know it; species and customs that appear in the campaign, such as Ravenite and Draconblood dragonborn, pallid elves, the Kryn, and the Ki'Nau (confirm); the calendar and festivals, such as Merryfrond's Day (confirm).
   - Leaves to: none.
 

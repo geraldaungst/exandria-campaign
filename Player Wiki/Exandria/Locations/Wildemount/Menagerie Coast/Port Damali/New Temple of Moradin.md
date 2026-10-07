@@ -21,5 +21,5 @@ The New Temple of Moradin is a temple to [[Moradin]], the All-Hammer, in the nor
 
 ## History
 
-- Excavation for the foundation uncovered ancient Ki'Nau burial crypts beneath the site.
+- Excavation for the foundation uncovered ancient [[Ki'Nau]] burial crypts beneath the site.
 - Work stopped during a dispute with local Ki'Nau elders over the burial site, then resumed by agreement.

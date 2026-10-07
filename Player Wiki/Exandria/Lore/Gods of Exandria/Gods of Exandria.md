@@ -20,7 +20,7 @@ Exandria's gods are divided into two groups: the Prime Deities and the Betrayer 
 - The gods who brought life to Exandria are called the Creators.
 - When the Primordials, elemental titans, rose to reclaim the world, the Creators disagreed. The Prime Deities stayed to defend their creations and taught mortals arcane magic so they could defend themselves. The Betrayer Gods abandoned the world.
 - Mortals destroyed the Primordials and banished the Betrayer Gods to planar prisons.
-- The Betrayer Gods were later freed, and the war between the two pantheons, known as the Calamity, left the world permanently scarred.
+- The Betrayer Gods were later freed, and the war between the two pantheons, known as the [[Calamity]], left the world permanently scarred.
 
 ## The Divine Gate
 
