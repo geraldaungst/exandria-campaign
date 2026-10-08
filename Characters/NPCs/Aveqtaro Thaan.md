@@ -60,7 +60,7 @@ Her default is cheerful and optimistic. When things go wrong, her anxiety surfac
 >
 > **What she doesn't know:** She has no knowledge of Cadariel, Eryndor, the Lorestone, or why she has the experiences she does. Her professional skill with magical measurement instruments is unconsciously guided by Cadariel's expertise with ley lines and planar geography.
 >
-> **The book dealer:** She has a relationship with a black market dealer in Rosohna who supplies Empire texts and music. This person knows her habits and could be leveraged by anyone looking for her.
+> **The book dealer:** She has a relationship with a black market dealer in Rosohna who supplies Empire texts and music. This person, a goblin named Tazriin Velko, knows her habits and could be leveraged by anyone looking for her.
 >
 > **The Echoforge connection (future):** The [[Obsidian Echoforge - DM Notes]] does not currently know about her. When they learn of her, they will incorrectly believe she is the reincarnation of [[Eryndor]], not Cadariel. How they learn of her is undecided—possibilities include rumors about a Kryn artisan with unusual knowledge, her black market contacts being traced, or her work products attracting scholarly attention.
 >
