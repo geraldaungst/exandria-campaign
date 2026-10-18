@@ -105,6 +105,10 @@ Newest at the bottom. Format: `YYYY-MM-DD | phase | what changed | result`.
 
 Decisions: delete QuickAdd now. Disable MetaEdit, Kanban, Sort and Permute Lines, Mononote, Contextual Typography, Janitor; delete after a week if nothing breaks. Replace Note Refactor with Advanced Note Composer (hotkey + test first). Janitor replacement options A/B/C pending (Bases no-backlinks view / Graph orphans / Python auditor). Buttons pending audit. Next: rerun inventory (scripts updated), then test an embedded Base with a `this`-based link filter before choosing Bases vs Datacore for the related-notes query.
 
+2026-10-18 | D1 close | Dispositions settled. KEEP: Janitor (tested a Bases orphan view; backlinks work only as a formula property `file.backlinks.length`, the filter picker doesn't offer them, and Janitor suits better), Mononote (needs "Always focus new tabs"), Admonition (1,587 ad-statblock blocks). DISABLE then delete after a week: MetaEdit, Kanban (0 boards), Sort and Permute, Buttons (0 blocks), Contextual Typography (purpose unknown). DELETE now: QuickAdd (unused). REPLACE: Note Refactor with Advanced Note Composer (bind the extract-selection hotkey and test it before disabling). Publish folder (Player Wiki) has no plugin syntax. Obsidian 1.14.4. Custom callouts are not Admonition types, so no action.
+
+2026-10-18 | D0, D2 | Git checkpoint committed. QuickAdd deleted. Contextual Typography deleted (skipped the disable trial). MetaEdit, Kanban, Sort and Permute, Buttons disabled. Delete these four on or after 2026-10-25 if nothing breaks.
+
 ### Resume prompt
 
 Paste into a new conversation along with this note and the personal vault note:
