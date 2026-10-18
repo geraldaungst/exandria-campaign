@@ -1,17 +1,17 @@
 ---
-name: plugin-migration-status
-description: Working record for the Obsidian plugin cleanup of the D&D DM vault. Findings, settled decisions, phase checklist. Read first when resuming.
-type: system-doc
-status: active
 created: 2026-10-18
+description: Working record for the Obsidian plugin cleanup of the D&D DM vault. Findings, settled decisions, phase checklist. Read first when resuming.
+name: plugin-migration-status
+status: active
+type: system-doc
 updated: 2026-10-18
 ---
 
-# Plugin Migration Status: DM Vault
+## Plugin Migration Status: DM Vault
 
 Location: the DM Screen folder (decided 2026-10-18). The Reference folder was ruled out because it is excluded from the git sync, so the Claude project could not see the note here. The note must never sit inside the folder published to Obsidian Publish. A companion note exists in the personal vault. Decisions in the "Shared decisions" section apply to both.
 
-## How Claude should use this note
+### How Claude should use this note
 
 - Read all of it before proposing anything. Treat "Shared decisions" as settled; do not re-open them or recommend anything listed as rejected.
 - A blank Finding blocks every step that depends on it. Ask Gerald to run that check; do not assume the answer.
@@ -20,14 +20,14 @@ Location: the DM Screen folder (decided 2026-10-18). The Reference folder was ru
 - At the end of each phase, give Gerald an "Append to status note" block he can paste into the Phase log. He does not edit this note by hand, so keep each block short and complete.
 - Default model is Sonnet. Step-level Opus recommendations are in the phase table.
 
-## Working rules for the migration
+### Working rules for the migration
 
-1. Commit a clean git state before each phase and before each batch of conversions. Use `git checkout .` to revert a failed test.
+1. Commit a clean git state before each phase and before each batch of conversions. Use `git checkout.` to revert a failed test.
 2. Disable a plugin first. Delete it after a week of normal use with no errors or missing behavior.
 3. One change at a time. Record it in the Phase log before the next.
 4. Any change to a note in the published folder is checked against what Publish can render.
 
-## Shared decisions (2026-10-18)
+### Shared decisions (2026-10-18)
 
 | Decision | Reason |
 |---|---|
@@ -41,15 +41,15 @@ Location: the DM Screen folder (decided 2026-10-18). The Reference folder was ru
 | Simple queries go to Bases, complex ones to Datacore, remaining Dataview stays until converted | Consistent with the existing "Bases for trivial queries" policy |
 | Calendar Plus is the preferred replacement for Calendar plus Periodic Notes (personal vault only). Calendarium is unaffected | Calendar and Periodic Notes are unmaintained |
 
-### Candidate retirements (pending findings)
+#### Candidate retirements (pending findings)
 
 MetaEdit (both vaults), Note Refactor (after Advanced Note Composer is in), Admonition (only if F3 and F4 clear), Dataview (last, when zero queries remain).
 
-### Candidate additions (pending findings or preference)
+#### Candidate additions (pending findings or preference)
 
 Advanced Note Composer, Tag Wrangler (likely), Omnisearch (optional). Optional trials: Iconic, Notebook Navigator, Strong Start, The DM Compendium, Advanced Multi Column.
 
-## Phase plan (DM vault)
+### Phase plan (DM vault)
 
 | # | Phase | Depends on | Model | Status |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ Advanced Note Composer, Tag Wrangler (likely), Omnisearch (optional). Optional t
 | D7 | Install Tag Wrangler and any chosen additions | D6 | Sonnet | not started |
 | D8 | Retire Dataview when no queries remain; final audit of the plugin list against this note | D6, D7 | Sonnet | not started |
 
-## Findings to collect (D1)
+### Findings to collect (D1)
 
 Record each answer under its heading. Leave blank until checked.
 
@@ -84,13 +84,14 @@ Record each answer under its heading. Leave blank until checked.
 - **F8. Plugins with unknown or low use.** One line each: Mononote (confirm what it is used for), Janitor, Recent Files, Force note view mode, Kanban (count of boards).
   - Answer:
 
-## Phase log
+### Phase log
 
 Newest at the bottom. Format: `YYYY-MM-DD | phase | what changed | result`.
 
 2026-10-18 | planning | status note created, decisions recorded | no vault changes yet
 
 2026-10-18 | D1 inventory | Ran inventory + config audit | Findings:
+
 - F1: Obsidian >= 1.13.0 (Linter/Templater/QuickAdd min app). Sufficient.
 - F2: 486 Dataview items in 114 files (472 blocks, 12 dataviewjs, 2 inline). 433 are ONE related-notes LIST query (tags npc/location/artifact/plot/atomic) stamped from 5 templates into 106 notes. ~35 items sit in two stale reorg docs (use retired `processed`). Real remaining work: 002 Incomplete To-Dos (8 identical dataviewjs), Plot Dashboard (8), ~7 oddballs.
 - F3: 1,587 ad-statblock blocks, all in z_Reference. 10 custom Admonition types. DECISION: keep Admonition.
@@ -101,11 +102,10 @@ Newest at the bottom. Format: `YYYY-MM-DD | phase | what changed | result`.
 - F8: Kanban 0 boards (removal candidate). Tag Wrangler already installed (drop from additions). QuickAdd installed but OFF. Pending usage answers: Mononote, Janitor, Buttons, QuickAdd, Contextual Typography, Sort and Permute Lines.
 
 2026-10-18 | D1 follow-up | Published folder is "Player Wiki": no Dataview, adblocks, statblocks or Calendarium in it (F4 closed for those; callouts/Buttons pending rerun).
+
 Decisions: delete QuickAdd now. Disable MetaEdit, Kanban, Sort and Permute Lines, Mononote, Contextual Typography, Janitor; delete after a week if nothing breaks. Replace Note Refactor with Advanced Note Composer (hotkey + test first). Janitor replacement options A/B/C pending (Bases no-backlinks view / Graph orphans / Python auditor). Buttons pending audit. Next: rerun inventory (scripts updated), then test an embedded Base with a `this`-based link filter before choosing Bases vs Datacore for the related-notes query.
 
-
-
-## Resume prompt
+### Resume prompt
 
 Paste into a new conversation along with this note and the personal vault note:
 
