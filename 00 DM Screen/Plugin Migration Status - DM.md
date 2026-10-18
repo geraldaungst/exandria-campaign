@@ -68,7 +68,7 @@ Advanced Note Composer, Tag Wrangler (likely), Omnisearch (optional). Optional t
 Record each answer under its heading. Leave blank until checked.
 
 - **F1. Obsidian version.** Settings → About. The current Admonition listing requires 1.13.0 or later.
-  - Answer:
+  - Answer: 1.14.4
 - **F2. Dataview inventory.** Count `dataview` and `dataviewjs` code blocks and inline queries, per file. For each: table or list from frontmatter only, or something complex (GROUP BY, FLATTEN, task queries, dataviewjs). A short read-only Python script that outputs a CSV is one option; Gerald decides whether to use it.
   - Answer:
 - **F3. Admonition use.** Count notes using `ad-` code blocks, list the distinct types, and check the plugin's custom types in `.obsidian/plugins/obsidian-admonition/data.json`. Native callouts (`> [!note]`) do not count.
@@ -88,7 +88,22 @@ Record each answer under its heading. Leave blank until checked.
 
 Newest at the bottom. Format: `YYYY-MM-DD | phase | what changed | result`.
 
-- 2026-10-18 | planning | status note created, decisions recorded | no vault changes yet
+2026-10-18 | planning | status note created, decisions recorded | no vault changes yet
+
+2026-10-18 | D1 inventory | Ran inventory + config audit | Findings:
+- F1: Obsidian >= 1.13.0 (Linter/Templater/QuickAdd min app). Sufficient.
+- F2: 486 Dataview items in 114 files (472 blocks, 12 dataviewjs, 2 inline). 433 are ONE related-notes LIST query (tags npc/location/artifact/plot/atomic) stamped from 5 templates into 106 notes. ~35 items sit in two stale reorg docs (use retired `processed`). Real remaining work: 002 Incomplete To-Dos (8 identical dataviewjs), Plot Dashboard (8), ~7 oddballs.
+- F3: 1,587 ad-statblock blocks, all in z_Reference. 10 custom Admonition types. DECISION: keep Admonition.
+- F4: pending. Run was missing --published. 116 notes carry a `publish` property.
+- F5: MetaEdit has 0 refs, 0 hotkeys. DECISION: disable, delete after a week.
+- F6: Note Refactor has 0 refs, 0 hotkeys. Core Note Composer on. Pending: what it is used for.
+- F7: Linter 1.33.0, 51 rules, yaml-timestamp OFF, foldersToIgnore has an empty-string entry.
+- F8: Kanban 0 boards (removal candidate). Tag Wrangler already installed (drop from additions). QuickAdd installed but OFF. Pending usage answers: Mononote, Janitor, Buttons, QuickAdd, Contextual Typography, Sort and Permute Lines.
+
+2026-10-18 | D1 follow-up | Published folder is "Player Wiki": no Dataview, adblocks, statblocks or Calendarium in it (F4 closed for those; callouts/Buttons pending rerun).
+Decisions: delete QuickAdd now. Disable MetaEdit, Kanban, Sort and Permute Lines, Mononote, Contextual Typography, Janitor; delete after a week if nothing breaks. Replace Note Refactor with Advanced Note Composer (hotkey + test first). Janitor replacement options A/B/C pending (Bases no-backlinks view / Graph orphans / Python auditor). Buttons pending audit. Next: rerun inventory (scripts updated), then test an embedded Base with a `this`-based link filter before choosing Bases vs Datacore for the related-notes query.
+
+
 
 ## Resume prompt
 
