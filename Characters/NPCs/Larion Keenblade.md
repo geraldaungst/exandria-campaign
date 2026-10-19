@@ -1,7 +1,9 @@
 ---
 tags:
+  - npc
+  - world/toril
+  - region/sword-coast
   - campaign/tyranny
-  - world/faerun
 ---
 
 Last Edited: November 5, 2021 6:37 PM

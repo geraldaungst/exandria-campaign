@@ -1,7 +1,9 @@
 ---
 tags:
+  - npc
+  - world/toril
+  - region/sword-coast
   - campaign/tyranny
-  - world/faerun
 ---
 
 ## Marika Velo
