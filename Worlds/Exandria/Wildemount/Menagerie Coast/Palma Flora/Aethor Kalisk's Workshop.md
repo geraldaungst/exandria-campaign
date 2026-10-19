@@ -44,10 +44,6 @@ Notable Features:
 
 [[Aethor Kalisk - DM Notes]]
 
-### Related Atomic Notes
+## Connected Elements
 
-```dataview
-LIST
-FROM #atomic
-WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
-```
+![[Related Notes.base]]

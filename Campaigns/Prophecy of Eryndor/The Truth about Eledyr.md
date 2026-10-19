@@ -24,10 +24,6 @@ Yrene never felt guilty. Her actions were actually a result of her romantic feel
 
 [[21 Qilynn's Failed Heist]]
 
-### Related Atomic Notes
+## Connected Elements
 
-```dataview
-LIST
-FROM #atomic
-WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
-```
+![[Related Notes.base]]

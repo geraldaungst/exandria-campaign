@@ -18,10 +18,6 @@ Following the failure, [[Aelorin Nightshade|Aelorin]]'s response was a bit unsur
 
 [[21 Qilynn's Failed Heist]]
 
-### Related Atomic Notes
+## Connected Elements
 
-```dataview
-LIST
-FROM #atomic
-WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
-```
+![[Related Notes.base]]

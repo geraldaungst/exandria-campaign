@@ -26,10 +26,6 @@ There were unaccounted-for changes in the artifact's location or the guards' shi
 
 [[21 Qilynn's Failed Heist]]
 
-### Related Atomic Notes
+## Connected Elements
 
-```dataview
-LIST
-FROM #atomic
-WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
-```
+![[Related Notes.base]]

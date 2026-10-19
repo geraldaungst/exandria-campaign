@@ -141,36 +141,6 @@ For more information see [[The Massacre]].
 
 ![[Lorestone of Eryndor - DM Notes#Faction Knowledge Evolution]]
 
-## Related Elements
+## Connected Elements
 
-### Notable Members
-
-```dataview
-LIST
-FROM #npc
-WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
-```
-
-### Controlled/Occupied Locations
-
-```dataview
-LIST
-FROM #location
-WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
-```
-
-### Important Items
-
-```dataview
-LIST
-FROM #artifact 
-WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
-```
-
-### Connected Plot Threads
-
-```dataview
-LIST
-FROM #plot 
-WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
-```
+![[Related Notes.base]]

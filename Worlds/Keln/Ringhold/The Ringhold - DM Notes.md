@@ -28,34 +28,4 @@ Yselda Torb, Bess Marawen, Hob Halloway, Corwin Somes, Poru Adderick. Ordinary s
 
 ## Connected Elements
 
-### NPCs
-
-```dataview
-LIST
-FROM #npc
-WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
-```
-
-### Places
-
-```dataview
-LIST
-FROM #location
-WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
-```
-
-### Items
-
-```dataview
-LIST
-FROM #artifact
-WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
-```
-
-### Related Plot Threads
-
-```dataview
-LIST
-FROM #plot
-WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
-```
+![[Related Notes.base]]

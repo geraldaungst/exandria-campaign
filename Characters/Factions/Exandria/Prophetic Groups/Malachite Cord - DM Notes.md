@@ -163,36 +163,6 @@ Group 2 on the [[Sessions 1 to 3 - The Skyship|Skyship]].
 - **[[Rinneth Starsong - DM Notes|Rinneth]]'s Leadership**: With the ascension of [[Rinneth Starsong - DM Notes]], a new era began. Her prophetic abilities and connection to the celestial forces were seen as a sign of the Aurora's Ascendant's continuing guidance.
 - **Focused Activities**: The Cord, now a small but highly effective group, conducts research, covert operations, and strategic alliances, all while maintaining a deep spiritual connection to [[Seraphina Amaris (Vicki)|Seraphina]]'s spirit. They view their mission as a sacred trust, passed down through generations, never straying from the purpose and goals set by their founders.
 
-## Related Elements
+## Connected Elements
 
-### Related People and Factions
-
-```dataview
-LIST
-FROM #npc
-WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
-```
-
-### Related Locations
-
-```dataview
-LIST
-FROM #location
-WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
-```
-
-### Important Items
-
-```dataview
-LIST
-FROM #artifact 
-WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
-```
-
-### Connected Plot Threads
-
-```dataview
-LIST
-FROM #plot 
-WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
-```
+![[Related Notes.base]]

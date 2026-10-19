@@ -109,44 +109,6 @@ This event is the central trauma in [[Hesterian Shyr (Dot)]]'s backstory and the
 - Rylan's leather bracelet from Xanaphia (evidence of innocent connection)
 - [[stone-of-memory]] - Contains echoes that may relate to the trauma
 
-## Connections
+## Connected Elements
 
-### Related Atomic Notes
-
-```dataview
-LIST
-FROM #atomic
-WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
-```
-
-### Related NPCs
-
-```dataview
-LIST
-FROM #npc 
-WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
-```
-
-### Related Plot Threads
-
-```dataview
-LIST
-FROM #plot  
-WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
-```
-
-### Related Locations
-
-```dataview
-LIST
-FROM #location 
-WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
-```
-
-### Related Items/Artifacts
-
-```dataview
-LIST
-FROM #artifact 
-WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
-```
+![[Related Notes.base]]

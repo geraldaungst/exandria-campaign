@@ -17,12 +17,6 @@ The prism was created from a unique type of crystal found only in a now-lost min
 
 In actuality, the Prism is a myth. The object is a forgery created by [[Celdric Ambril]]. It was recently sold to someone heading to [[Zadash - DM Notes]]. It is currently in the possession of [[Korfel Withrethin|The Gentleman]].
 
-## Connections
+## Connected Elements
 
-### Related Atomic Notes
-
-```dataview
-LIST
-FROM #atomic
-WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
-```
+![[Related Notes.base]]

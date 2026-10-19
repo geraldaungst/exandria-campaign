@@ -116,36 +116,6 @@ The blade retains all Exalted properties, with the following changes and additio
 >
 > **Shared Sacrifice.** When one or more allies within 30 feet of you are hit by an attack or targeted by an effect that deals damage, you can use your reaction and expend 2 or more charges. Choose a number of those allies up to the number of charges expended. When damage is rolled, each chosen ally takes half the damage they would otherwise take (rounded down), and you take necrotic damage equal to half the damage roll (rounded up).
 
-### Related Plot Elements
+## Connected Elements
 
-#### NPCs
-
-```dataview
-LIST
-FROM #npc
-WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
-```
-
-#### Places
-
-```dataview
-LIST
-FROM #location
-WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
-```
-
-#### Items
-
-```dataview
-LIST
-FROM #artifact 
-WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
-```
-
-#### Plot Threads
-
-```dataview
-LIST
-FROM #plot 
-WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
-```
+![[Related Notes.base]]
