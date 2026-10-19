@@ -18,7 +18,7 @@ tags:
 > - Current Location: Deceased
 > - Alias: Vessa Blackthorn
 > - Key Motivation: Serve Qalix's interests and maintain her position of power and freedom
-> - Attitude toward party: Neutral (has not encountered them)
+> - Attitude toward party: Hostile (prior to her death)
 > - Critical Knowledge: Former Volstrucker agent turned spymaster for Qalix; tasked with stealing shard from Rexxentrum Archive
 > - Status: Deceased
 
@@ -42,7 +42,7 @@ A woman in her early thirties with fair skin, her dark brown hair pulled back in
 
 ## Current Situation
 
-Operating in Port Damali, working to secure Myriad support for a planned heist of the Rexxentrum Archive. Maintains her role as Qalix's spymaster while pursuing this specific objective. Current focus is on building the necessary connections and resources for the Archive operation.
+Deceased. Killed by Third Act in the Cyrios Mountains. Was operating in Port Damali, working to secure Myriad support for a planned heist of the Rexxentrum Archive. Maintained her role as Qalix's spymaster while pursuing this specific objective. Current focus was on building the necessary connections and resources for the Archive operation.
 
 ### Key Contributions and Impact
 
@@ -54,7 +54,7 @@ Operating in Port Damali, working to secure Myriad support for a planned heist o
 > Dreyara is cultivating alliances with the [[Myriad]] in [[Port Damali - DM Notes]] on Qalix's behalf. Key targets:
 > - **[[Father Dwondaff Pierce]]**—head of the Pearl Shrine, contact for [[Korfel Withrethin|the Gentleman]]. Can provide safe havens, moral/social influence, and access to religious community resources.
 > - **Lord Gabriel Rymmer**—manager of the Exalted Collection Auction House, Rymmer family. Can provide financial resources and black market access for rare artifacts.
-> 
+>
 > Approach: offers tangible proof of Qalix's resources (enchanted items, gold), demonstrates commitment by orchestrating operations against rival factions.
 
 > [!note]- The Gentleman and the Rexxentrum Job

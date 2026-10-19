@@ -4,11 +4,11 @@ tags:
   - plot/active
 ---
 
-# What's Happening
+## What's Happening
 
 Rifts keep opening across Wildemount. Every faction has a theory about what they are, and none of them is right. The party has fought at a rift, studied Emer's research, and is about to have its own way to detect rifts: Hesterian's shard attunement.
 
-# What Players Know vs Don't Know
+## What Players Know vs Don't Know
 
 **They know:**
 
@@ -27,34 +27,34 @@ Rifts keep opening across Wildemount. Every faction has a theory about what they
 > - **Emer is an unreliable source:** [[Lady Emer's Research Notes]] rest on a handful of sites, and she presents assumptions as findings. Some of her claims happen to be true; none should be treated as reliable.
 > - **Closing a rift** requires the assembled Lorestone and an active Luxon Beacon together, plus ritual knowledge held by [[Aveqtaro Thaan]]. See [[Lorestone - Rift Closing Mechanics]].
 > - **Ceratos can't touch the rifts.** It works only through its warlock thralls, Qalix among them. Qalix has a Great Old One patron but doesn't know its identity and has no direct contact with it. To Qalix, the patron is simply where his power comes from.
+> - **Rifts have been spreading since the original rupture.** For hundreds of years, the spread was not big enough or consistent enough or in enough populated areas to be noticed as anything more than random occurrences. They are starting to get noticed now only because the spread is accelerating enough to be recognizable. (The frog in the pot finally notices that the water's getting hot.)
 
-# Open Questions
+## Open Questions
 
 <!-- Deliberately undecided. Let play, and player theories, settle these. -->
 
 - How the rupture spreads to distant sites. (The Deastok arc's "The Truth" assumes an Astral route; keep it or loosen it when that arc closes.)
-- Why the rifts are spreading now, when Molaesmyr fell about 250 years ago
 - How the party traces the rifts back to Molaesmyr
 - Whether the rifts can be healed at the source, or only closed one at a time
 - What "moon's red wrath" in the verse refers to
 
-# Player Theories
+## Player Theories
 
 <!-- Log what players speculate, with the session. Candidates to adopt as truth. -->
 
-# Next Move
+## Next Move
 
 - Hesterian's attunement gives her Planar Awareness: direction, plane, size, and stability for any rift within 1,000 feet. The first rift she senses is the party's first real measurement.
 - Zadash, their next destination, is on Emer's map.
 - Routes already in play that could lead toward Molaesmyr (no single one has to work): Kelmen's "Molaesmyr echo," Seraphina's Savalirwood dreams, the Cord's "warning ripple," and the Savalirwood signature in Emer's notes.
 
-## Reference Notes
+### Reference Notes
 
 - [[00 Factions with interest in the rifts]]
 - [[Lady Emer's Research Notes]]
 - [[Soulwood Riftcage]]
 - [[Prophecy General Info]]
 
-## Connected Elements
+### Connected Elements
 
 ![[Related Notes.base]]
