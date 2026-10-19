@@ -1,4 +1,5 @@
 ---
+hide_from_related: true
 tags:
   - campaign/eryndor
   - exclude

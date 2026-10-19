@@ -1,7 +1,7 @@
 ---
 cssclasses: wide
-tags:
-  - plot
+hide_from_related: true
+tags: []
 ---
 
 > [!info] Active Plot Threads
