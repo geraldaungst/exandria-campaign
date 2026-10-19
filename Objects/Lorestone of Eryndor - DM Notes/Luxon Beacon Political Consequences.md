@@ -15,17 +15,11 @@ tags:
 
 The party holds a [[luxon-beacon-egw|Luxon Beacon]] recovered from [[Lady Emer - DM Notes]] at
 
-[[Cloudfang Keep - DM Notes]]. It was provided to Emer by [[Vaud Qalix - DM Notes]] for planar
-
-research, with no indication he understood its true nature or sacred status.
+[[Cloudfang Keep - DM Notes]]. Emer found it herself at the Savalirwood rift before [[Vaud Qalix - DM Notes]] began funding her. Once he learned of it from her reports, he made it the priority of her research, with no indication he understood its true nature or sacred status.
 
 ### Provenance
 
-This Beacon was previously unknown—uncovered during Qalix's excavation and
-
-research operations, almost certainly in the ruins of Draconia or surrounding
-
-Xhorhas region. Because it was never catalogued by the [[Kryn Dynasty - DM Notes]], they
+This Beacon was previously unknown. Emer found it partially exposed in collapsed earth about twenty feet from the Savalirwood rift, after the rift's expansion disturbed the ground ([[Lady Emer's Research Notes]], Day 61; the players have this). How it came to be buried there is open. Because it was never catalogued by the [[Kryn Dynasty - DM Notes]], they
 
 are not currently searching for it. The Dynasty's claim, when they eventually
 
@@ -41,9 +35,9 @@ Beacon is simply theirs to keep.
 
 ### Three Active Problems
 
-**Qalix escalates.** He sent Emer a research artifact of significant value and
+**Qalix escalates.** He made an artifact of significant value the priority of
 
-she lost it. He doesn't yet know the Beacon is essential to safely using the
+Emer's research, and she lost it. He doesn't yet know the Beacon is essential to safely using the
 
 Lorestone—no one living does—but he knows his operation
 

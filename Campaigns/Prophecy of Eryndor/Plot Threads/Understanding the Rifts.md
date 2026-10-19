@@ -37,6 +37,8 @@ Rifts keep opening across Wildemount. Every faction has a theory about what they
 - How the party traces the rifts back to Molaesmyr
 - Whether the rifts can be healed at the source, or only closed one at a time
 - What "moon's red wrath" in the verse refers to
+- How a Luxon Beacon, already fitted with a crude metal frame and handles, came to be buried beside the Savalirwood rift
+- Who wrote to Emer offering "temporal stabilization" (the smeared letter in her research notes)
 
 ## Player Theories
 
@@ -44,9 +46,9 @@ Rifts keep opening across Wildemount. Every faction has a theory about what they
 
 ## Next Move
 
-- Hesterian's attunement gives her Planar Awareness: direction, plane, size, and stability for any rift within 1,000 feet. The first rift she senses is the party's first real measurement.
+- Hesterian's attunement gives her Planar Awareness (see [[Table Rulings#Planar Detection Range]] for what it actually conveys). The first rift she senses is the party's first real measurement.
 - Zadash, their next destination, is on Emer's map.
-- Routes already in play that could lead toward Molaesmyr (no single one has to work): Kelmen's "Molaesmyr echo," Seraphina's Savalirwood dreams, the Cord's "warning ripple," and the Savalirwood signature in Emer's notes.
+- Routes already in play that could lead toward Molaesmyr (no single one has to work): Kelmen's "Molaesmyr echo," Seraphina's Savalirwood dreams, the Cord's "warning ripple," the Savalirwood signature in Emer's notes (also found at her transformation site in the Marrow Valley), and her smeared letter ("I've seen what happened to Molaesmyr").
 
 ### Reference Notes
 

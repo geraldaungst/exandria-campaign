@@ -15,7 +15,7 @@ tags:
 > - **Key Motivation**: Master planar magic through study of rift energy and Lorestone resonance
 > - **Attitude toward party**: Initially curious if approached diplomatically; immediately hostile if threatened
 > - **Critical Knowledge**: Possesses detailed research on planar rifts, Lorestone shard properties, and temporal resonance effects. Carries the [[Lawbearer's Tear]] (disguised as a mundane pearl of power) without realizing its true nature
-> - **Status**: Actively researching the [[Luxon Beacon]] provided by [[Vaud Qalix - DM Notes]]
+> - **Status**: Actively researching the [[Luxon Beacon]] she found at the Savalirwood rift, funded by [[Vaud Qalix - DM Notes]]
 
 ## Description
 

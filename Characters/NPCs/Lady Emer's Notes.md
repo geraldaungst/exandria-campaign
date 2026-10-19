@@ -7,7 +7,7 @@ tags:
 
 ### Initial Discovery - Day 1
 
-Found the artifact among the planar debris recovered from the rift near Ashkeeper Peaks. The merchant claimed it came from "somewhere in the eastern wastes" but was vague about specifics. Dodecahedral in shape, approximately 8 inches across, made of some gray crystalline material that defies easy classification. When I first touched it, I experienced what I can only describe as temporal displacement - for a moment, I was simultaneously aware of myself performing this same examination yesterday, tomorrow, and in several alternate versions of now.
+Found the artifact partially exposed in collapsed earth about twenty feet from the Savalirwood rift's edge. Dodecahedral in shape, approximately 8 inches across, made of some gray crystalline material that defies easy classification. When I first touched it, I experienced what I can only describe as temporal displacement - for a moment, I was simultaneously aware of myself performing this same examination yesterday, tomorrow, and in several alternate versions of now.
 
 **Physical Properties:**
 
@@ -17,7 +17,7 @@ Found the artifact among the planar debris recovered from the rift near Ashkeepe
 - Temperature: Cool to touch, maintains constant temperature regardless of environment
 - Luminescence: Faint gray glow that pulses irregularly
 
-The metal handles and golden trim were clearly added later by someone else - crude work compared to the artifact itself. I've removed them for proper study.
+The metal handles and golden trim were clearly added later by someone else - crude work compared to the artifact itself.
 
 ---
 

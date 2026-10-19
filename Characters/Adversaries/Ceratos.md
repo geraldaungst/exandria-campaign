@@ -40,6 +40,7 @@ A permanent passage from the Far Realm into Exandria. Chaos is its nature, not i
 - Who its other warlock thralls are
 - What its passage into Exandria would look like, and what it does once through
 - Whether it has been in Exandria before (an older note said a passage would let it "return")
+- Who was experimenting at the Savalirwood rift Emer calls Site Delta ([[Lady Emer's Research Notes]], Day 162; the players have this)
 
 ## Psychology of the Nemesis
 

@@ -41,6 +41,8 @@ While Vaud believes his plan is methodical and well-researched, his understandin
 
 **Flawed Rift Theory**: Central to Vaud's strategy is his belief that rifts follow predictable patterns he can decode and exploit. His research notes are filled with charts mapping "rift signatures" and "planar resonance frequencies." In reality, these readings represent random chaotic fluctuations.
 
+**The Arcanist's Prism**: His theory also concluded that the Conduit needs an [[Arcanist's Prism]] for "final stabilization." It's a legend; no such artifact exists, and his agents have never found one.
+
 **Underestimated Opposition**: While Vaud acknowledges that the Obsidian Echoforge, Ashari Riftguard, and Malachite Cord will oppose him, he believes their resistance stems from ignorance or fear rather than legitimate understanding. He assumes that demonstrating the Conduit's power will convert them to his cause, not realizing that they oppose him because they correctly understand the catastrophic risks involved.
 
 **Patron Blindness**: Vaud thinks of his patron, "the voice beyond the veil," as a power source and nothing more. He has never spoken with it and doesn't know what it is. The pull he feels toward the rifts, and the insights that drive his research, he takes for his own genius. He has no idea he is one of many thralls, or that his patron needs him to open a way into Exandria and doesn't care whether his plan succeeds or fails.

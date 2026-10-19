@@ -72,3 +72,15 @@ locating a source requires moving around and comparing.
 **Why this matters:** Keeps shards from functioning as universal planar
 
 detectors. Most planar oddity in the world sits below the floor.
+
+### Spells on Rifts
+
+**Principle:** *Dispel Magic* can temporarily stabilize a small rift, and *Banishment* aimed at rift energy backfires, as [[Lady Emer's Research Notes|Lady Emer]] observed. Rifts are chaotic, so the size of the effect varies from rift to rift: how long a dispel holds, how much larger the rift reopens, how violent the backlash.
+
+**Why this matters:** The players have Emer's notes and may try this. Her observations hold; they just aren't a reliable formula.
+
+### Handling the Luxon Beacon
+
+**Principle:** Extended study or handling of the [[luxon-beacon-egw|Luxon Beacon]] produces the effects Lady Emer recorded: whispers, a sense of slipping in time, and dreams of other lives. The effects build with extended contact and linger for hours. Brief handling does nothing, and while stowed in an extradimensional space it has no effect (see Extradimensional Spaces).
+
+**Why this matters:** The players have read her account and will expect it.
