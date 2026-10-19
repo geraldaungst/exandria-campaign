@@ -117,6 +117,8 @@ Decisions: delete QuickAdd now. Disable MetaEdit, Kanban, Sort and Permute Lines
 
 2026-10-18 | Dataview triage: related notes | Created "Related Notes.base" (00 DM Screen): shows every note linking to or from the current note, grouped by type (NPC, Location, Artifact, Plot thread, Atomic note, Other), with list/table/cards/Kanban views. Excludes z_Templates, non-markdown files, the current note itself, and any note with the checkbox property hide_from_related. Replaced 433 old queries: 92 notes by script (one git commit), 3 by hand (second commit), 6 templates plus Atomic Note template, 3 Rendspawn notes and Arghyak Bow in ignored folders. Turned off Backlink in document. | Done. Remaining by design: custom NPC table in Lorestone Shard Status Tracker (convert later); Reorganization Plan documents the old pattern (archive decision pending).
 
+2026-10-19 | D5/D6 resume | Datacore not yet installed in DM vault (install just before the Plot Dashboard conversion, after a git commit). The vault reorganization plan (DM_Vault_Reorganization_Plan.md, Revised Phase 8.md, Exandria Vault Reorganization.md, npc-folder-audit.md) is still in progress: retain all of it, archive nothing. Open item 1 (archive stale reorg docs) is replaced by: review the reorg plan and decide whether its remaining phases change the Dataview conversion order. The "24 items" count did not match the folder listing (20 files). Dataview counts per file in 00 DM Screen still to collect.
+
 ## Open items (as of 2026-10-18)
 
 Next up (Suggest the best next step of these, but Gerald will have final say):
@@ -148,4 +150,4 @@ Gerald's working style: one step at a time, never assume a step was done, ask be
 
 Paste into a new conversation along with this note and the personal vault note:
 
-> Resume the Obsidian plugin migration. Read the attached status notes first. Check them against the Findings. Continue from the first unfinished phase, asking one or two questions at a time.
+> Resume the Obsidian plugin migration. Read the attached status notes first. Check them against the Findings. Review prior conversations about this migration plan for additional context. Continue from the first unfinished phase, asking one or two questions at a time.
