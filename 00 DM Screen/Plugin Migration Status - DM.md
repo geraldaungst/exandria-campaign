@@ -115,6 +115,35 @@ Decisions: delete QuickAdd now. Disable MetaEdit, Kanban, Sort and Permute Lines
 
 2026-10-18 | Linter (DM vault) | Linter configured deliberately; final audit confirms 45 enabled rules (51 before). OFF: proper-ellipsis, proper-ellipsis-on-paste, remove-hyphenated-line-breaks, remove-hyphens-on-paste, paragraph-blank-lines, move-tags-to-yaml. Decisions: YAML keys sorted alphabetically, tags as block lists with duplicates removed, empty lists written as [], blank line after frontmatter; header-increment with start-at-H2 (shifts H1->H2 and keeps nesting); straight quotes in body only (frontmatter and fenced blocks untouched); ordered lists renumbered ascending, keeping the starting number; spaces removed around em/en dashes (hyphens untouched); trailing spaces removed (Strict line breaks is off); 6 paste rules kept. yaml-timestamp stays off. Linter ignores z_Templates, z_compendium, z_Archive, z_Reference (the empty-string ignore entry is harmless). No inline #tags in this vault (regex search found only the reorg plan and two #FFFFFF hex colors). Also: original Note Refactor is fully uninstalled; Tag Wrangler installed and on; Buttons disabled (delete on or after 2026-10-25).
 
+2026-10-18 | Dataview triage: related notes | Created "Related Notes.base" (00 DM Screen): shows every note linking to or from the current note, grouped by type (NPC, Location, Artifact, Plot thread, Atomic note, Other), with list/table/cards/Kanban views. Excludes z_Templates, non-markdown files, the current note itself, and any note with the checkbox property hide_from_related. Replaced 433 old queries: 92 notes by script (one git commit), 3 by hand (second commit), 6 templates plus Atomic Note template, 3 Rendspawn notes and Arghyak Bow in ignored folders. Turned off Backlink in document. | Done. Remaining by design: custom NPC table in Lorestone Shard Status Tracker (convert later); Reorganization Plan documents the old pattern (archive decision pending).
+
+## Open items (as of 2026-10-18)
+
+Next up (Suggest the best next step of these, but Gerald will have final say):
+1. Archive decision on stale reorg docs in 00 DM Screen (24 items). Reorganization Plan still holds the old related-notes query as documentation.
+2. Plot Dashboard and 002 Incomplete To-Dos: Dataview to Datacore (use Opus).
+3. About 14 small one-off Dataview queries, case by case. Includes the custom NPC table in Lorestone Shard Status Tracker (affiliations and status columns), kept on purpose.
+4. Retire Dataview once 1-3 are done.
+
+Related Notes.base reference:
+- Lives in 00 DM Screen. Embed with ![[Related Notes.base]] under "## Connected Elements" at the end of a note.
+- To hide a note from every related list, add the checkbox property hide_from_related (type Checkbox, value true, no quotes). Folder z_Templates is excluded in the base filter.
+- Kanban view uses columnWidth: 200 and overflows the note width. List is the default view.
+- New notes from the entity templates and the Atomic Note template already carry the embed.
+
+Repo facts:
+- .gitignore excludes z_*/ (templates, reference, archive) by design, so edits there never show in git.
+- Scripts used for the conversion: connected_elements_audit.py, connected_elements_audit2.py, replace_related_blocks.py (supports --templates, --folder, --apply; dry run by default). Gerald holds copies; they are untracked. Move them out of the vault root, and delete the report.txt files there.
+
+Housekeeping on or after 2026-10-25:
+- DM vault: delete disabled plugins MetaEdit, Kanban, Sort and Permute, Buttons.
+- Personal vault: delete disabled MetaEdit.
+- Delete the Desktop copy of obsidian-folder-notes and folder-notes/data.json.bak.
+
+Still open in the personal vault: P6 final audit (update plugin lists in "8 - System Infrastructure/Obsidian System Context.md", line 114 mentions MetaEdit, and plugins.txt). The Related Notes pattern is DM-vault only; the personal vault has no equivalent yet.
+
+Gerald's working style: one step at a time, never assume a step was done, ask before moving on.
+
 ### Resume prompt
 
 Paste into a new conversation along with this note and the personal vault note:
