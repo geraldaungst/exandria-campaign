@@ -358,17 +358,9 @@ All of these will eventually pursue it when they learn of its existence
 
 ---
 
-### Connected Elements
+## Connected Elements
 
-#### Related Plot Threads
-
-```dataview
-LIST
-FROM #plot 
-WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
-```
-
-#### NPCs with Shard Knowledge
+### NPCs with Shard Knowledge
 
 ```dataview
 TABLE affiliations, status
@@ -377,16 +369,12 @@ WHERE contains(file.outlinks, [[Lorestone of Eryndor]]) OR contains(file.outlink
 SORT file.name ASC
 ```
 
-#### Relevant Locations
-
-```dataview
-LIST
-FROM #location 
-WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
-```
-
-#### Related Artifacts
+### Related Artifacts
 
 - [[Lorestone of Eryndor - DM Notes]] (parent artifact)
 - [[Stonefoot Compass - DM Notes]] (related to Shard 7 quest)
 - [[Consecution's Hope]] (transported Shard 7)
+
+### All Related Notes
+
+![[Related Notes.base]]

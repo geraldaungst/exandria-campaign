@@ -33,40 +33,6 @@ Atop a hill east of Port Damali, the shrine is a mix of ancient reverence and re
 
 > [!secret]- DM Only
 
-### Connected Elements
-
-#### NPCs
-
-```dataview
-LIST
-FROM #npc
-WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
-```
-
-#### Places
-
-```dataview
-LIST
-FROM #location
-WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
-```
-
-#### Items
-
-```dataview
-LIST
-FROM #artifact 
-WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
-```
-
-#### Related Plot Threads
-
-```dataview
-LIST
-FROM #plot 
-WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
-```
-
 [[Radelia's Leather Satchel]]
 
 ## Simplified Description
@@ -191,3 +157,7 @@ The Cord's ritual **succeeds temporarily**, and the rift's light dims. However, 
 - **If the Party Aids the Cord**: They help stabilize the rift or protect the shrine, potentially forging a temporary alliance. However, their unease remains, and Radelia's connection to the group raises questions.
 - **If the Party Opposes or Distrusts the Cord**: They could disrupt the ritual or confront Radelia, leading to a fight or heated argument. The Cord might retreat, leaving the rift unstable.
 - **If the Rift Destabilizes**: A larger **rift event** occurs, leading to chaos as more creatures pour through or the shrine begins to collapse. The party must decide whether to save the shrine or leave the Cord to their fate.
+
+## Connected Elements
+
+![[Related Notes.base]]

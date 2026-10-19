@@ -142,48 +142,12 @@ This theory underlies the fundamental requirements for safe operation of powerfu
 - Guides safe magical research and development
 - Crucial for preventing future catastrophes
 
-## Connections
+## Connected Elements
 
 ### Source Note
 
 [[Luxon Beacon Integration with Lorestone]]
 
-### Related Atomic Notes
+### Linked Notes
 
-```dataview
-LIST
-FROM #atomic
-WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
-```
-
-### Related NPCs
-
-```dataview
-LIST
-FROM #npc 
-WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
-```
-
-### Related Plot Threads
-
-```dataview
-LIST
-FROM #plot  
-WHERE contains(file.outlinks, this.link) OR contains(file.inlinks, this.file.link)
-```
-
-### Related Locations
-
-```dataview
-LIST
-FROM #location 
-WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
-```
-
-### Related Items/Artifacts
-
-```dataview
-LIST
-FROM #artifact 
-WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
-```
+![[Related Notes.base]]
