@@ -16,7 +16,7 @@ A one-room tavern and cheesery at the edge of the Cyrios Mountains. Not in a tow
 
 **Proprietor:** [[Grent Gnurlsotten - DM Notes]]
 
-**First visited:** [[the-herdsman-of-gnurlsottens-nosh-and-nip]]
+**First visited:** [[Gnurlsotten's Nosh and Nip Arc]]
 
 ---
 
@@ -67,7 +67,7 @@ Ten goats. Grent's hobby, not his business—in his own mind, anyway, despite th
 | 9 | **Wobblestomp** | Pure nonsense. A patron's joke that stuck. |
 | 10 | **Vellithane** | A patron once insisted it was "ancient and noble." It isn't anything. Grent liked how fancy it sounded. |
 
-> [!note] Biscuit, Popcorn, and Pretzel are the three who escaped in [[the-herdsman-of-gnurlsottens-nosh-and-nip]].
+> [!note] Biscuit, Popcorn, and Pretzel are the three who escaped in [[Gnurlsotten's Nosh and Nip Arc]].
 
 ---
 

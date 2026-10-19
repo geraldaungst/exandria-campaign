@@ -1,6 +1,6 @@
 ---
 disposition: friendly
-first-appearance: "[[the-herdsman-of-gnurlsottens-nosh-and-nip]]"
+first-appearance: "[[Gnurlsotten's Nosh and Nip Arc]]"
 location: "[[Gnurlsotten's Nosh & Nip - DM Notes]]"
 region: Cyrios Mountains
 species: goliath
@@ -87,4 +87,4 @@ Tavern brawls with newcomers are a tradition here, always nonlethal, always with
 
 ### Appearances
 
-- [[the-herdsman-of-gnurlsottens-nosh-and-nip]]—the party's first meeting. Wrongly accuses Popcorn of stealing three goats; the trial that follows is his standard newcomer ritual.
+- [[Gnurlsotten's Nosh and Nip Arc]]—the party's first meeting. Wrongly accuses Popcorn of stealing three goats; the trial that follows is his standard newcomer ritual.

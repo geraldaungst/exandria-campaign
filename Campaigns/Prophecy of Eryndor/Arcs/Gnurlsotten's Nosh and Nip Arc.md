@@ -4,11 +4,11 @@ location: "[[Gnurlsotten's Nosh & Nip - DM Notes]]"
 npcs:
   - "[[Grent Gnurlsotten - DM Notes]]"
 session: ""
-status: ready
+status: complete
 tags:
-  - session
   - campaign/eryndor
   - filler
+  - arc
 tier: filler
 type: session-prep
 ---
@@ -361,7 +361,7 @@ She frames it as **tradition**: Grent's long-standing way of testing strangers a
 > **Only if** Popcorn is getting flattened, the player is visibly not enjoying it, or the fight has gone flat. Grent grins and waves the rest in:
 >
 > > "All of you, then! Fine!"
->
+> >
 > This is a repair tool, not the default. Opening it up costs Popcorn the spotlight, so use it late and only if you need it.
 
 **Drink carryover:** with a duel, use **Option B** from Beat 3—Grent calls a break. *"Eat something first. I'm not fighting a drunk."* Popcorn goes in clean. *(Option A only makes sense if Popcorn was the drinking contestant and you want him fighting impaired for laughs.)*
