@@ -8,15 +8,15 @@ tags:
 If players attempt to eavesdrop, they may hear:
 
 1. **Ambiguous Statements:**
-	- "We need to make sure no one else finds out about this [[01 The Prophecy|prophecy]]. It could shift the power balance drastically."
+	- "We need to make sure no one else finds out about this [[The Prophecy|prophecy]]. It could shift the power balance drastically."
 	- "It's vital that we act quickly and decisively. We can't afford any more failures."
 	- "The information I've gathered must not fall into the wrong hands."
 	- "Our position within the Clasp depends on how we handle this situation."
 	- "Anyone who stands in our way must be dealt with, no matter the cost."
 	- "I heard there was a passenger on that skyship that just arrived who might know something."
 2. **Clues Suggesting Yrene's True Intentions:**
-	- "Eledyr has been asking too many questions about the [[01 The Prophecy|prophecy]]. We need to watch him closely."
-	- "He's dangerous and unpredictable. If he learns the full extent of the [[01 The Prophecy|prophecy]], he could use it to undermine us."
+	- "Eledyr has been asking too many questions about the [[The Prophecy|prophecy]]. We need to watch him closely."
+	- "He's dangerous and unpredictable. If he learns the full extent of the [[The Prophecy|prophecy]], he could use it to undermine us."
 	- "I suspect Eledyr was behind Qilynn's setup. His actions have been too coincidental."
 	- "We need evidence to expose Eledyr's betrayal and clear Qilynn's name."
 	- "[[Aelorin Nightshade|Aelorin]] has a another new mentee and Eledyr's not very happy about it."

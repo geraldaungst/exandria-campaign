@@ -6,7 +6,7 @@ possession:
   - "[[Lyren Willowwhisper]]"
   - "[[Celdric Ambril]]"
   - "[[Aethor Kalisk - DM Notes]]"
-  - "[[01 The Prophecy]]"
+  - "[[The Prophecy]]"
 tags:
   - campaign/eryndor
   - artifact
@@ -19,7 +19,7 @@ tags:
 > [!info] Essential Details
 >
 > - Current Location/Owner: Scattered - Major pieces held by [[Lyren Willowwhisper]] of the [[Obsidian Echoforge - DM Notes]]
-> - Power/Significance: Contains [[01 The Prophecy|prophecy]] of [[Eryndor]]; serves as an energy channeling device for closing planar rifts when properly stabilized
+> - Power/Significance: Contains [[The Prophecy|prophecy]] of [[Eryndor]]; serves as an energy channeling device for closing planar rifts when properly stabilized
 > - Known by: [[Obsidian Echoforge - DM Notes]], [[Cobalt Soul - DM Notes]], [[Celdric Ambril]] (partially)
 > - **CRITICAL**: Requires a Luxon Beacon for safe operation
 

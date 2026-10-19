@@ -1,65 +1,59 @@
 ---
 tags:
   - campaign/eryndor
-  - needs-work
   - plot/active
 ---
 
-## Quick Reference
+# What's Happening
 
-> [!info] Essential Details
-> - Stage: Active
-> - Priority: High
-> - Timeline: Before the rifts destroy Exandria
-> - Key Players:
-> - Last Session:
-> - Next Steps:
+Rifts keep opening across Wildemount. Every faction has a theory about what they are, and none of them is right. The party has fought at a rift, studied Emer's research, and is about to have its own way to detect rifts: Hesterian's shard attunement.
 
-## Overview
+# What Players Know vs Don't Know
 
-## Current State
+**They know:**
 
-### Recent Events
+- The rifts are wounds between realms. They bleed raw magic, warp plants and beasts, pull creatures through, and leave fragments of foreign terrain behind. Some flicker out; others last.
+- Riftcages made of soulwood siphon a rift's energy and shrink it, but they can't close it, and only a few exist. They saw this with Rinneth's crew at the Plane of Fire rift.
+- Emer's notes claim the rifts aren't natural, will widen if left alone, and may all come from "a single wound." Her map marks the Savalirwood, Zadash, Ashkeeper Peaks, Cyrios, and Ebonglass.
+- The Echoforge believes an assembled Lorestone will close the rifts. Qalix wants the stone to stabilize them.
+- The Malachite Cord calls the Savalirwood corruption a warning ripple from larger disturbances. Seraphina recognizes the blight from her home.
+- Shard verse: "sees rifts' converging stream"; "to a future with rifts torn."
 
-(last major development)
+**They don't know:**
 
-### Active Elements
+> [!note]- DM Only: Fixed truths
+> - **Origin:** the [[Rupture of the Molaesmyr Fey Crossing]] is the origin of every rift. Only the DM knows this; no NPC or faction does, and neither does [[Ceratos]].
+> - **Origin isn't pattern:** size, plane, duration, and local effects are chaotic. Studying individual rifts reveals little, so every faction looking for a pattern ([[Vaud Qalix - DM Notes|Qalix]]'s signatures, Emer's pulse) is chasing noise.
+> - **Emer is an unreliable source:** [[Lady Emer's Research Notes]] rest on a handful of sites, and she presents assumptions as findings. Some of her claims happen to be true; none should be treated as reliable.
+> - **Closing a rift** requires the assembled Lorestone and an active Luxon Beacon together, plus ritual knowledge held by [[Aveqtaro Thaan]]. See [[Lorestone - Rift Closing Mechanics]].
+> - **Ceratos can't touch the rifts.** It works only through Qalix, who has a Great Old One patron but doesn't know its identity and has no direct contact with it. To Qalix, the patron is simply where his power comes from.
 
-(what's currently in motion)
+# Open Questions
 
-### Blocking Issues
+<!-- Deliberately undecided. Let play, and player theories, settle these. -->
 
-(what's preventing progress)
+- How the rupture spreads to distant sites. (The Deastok arc's "The Truth" assumes an Astral route; keep it or loosen it when that arc closes.)
+- Why the rifts are spreading now, when Molaesmyr fell about 250 years ago
+- How the party traces the rifts back to Molaesmyr
+- Whether the rifts can be healed at the source, or only closed one at a time
+- What "moon's red wrath" in the verse refers to
 
-## Player Knowledge
+# Player Theories
 
-- What they know:
-- What they think they know:
-- What they don't know:
+<!-- Log what players speculate, with the session. Candidates to adopt as truth. -->
 
-## Plot Hierarchy
+# Next Move
 
-- Parent Plot:
-- Subplots:
+- Hesterian's attunement gives her Planar Awareness: direction, plane, size, and stability for any rift within 1,000 feet. The first rift she senses is the party's first real measurement.
+- Zadash, their next destination, is on Emer's map.
+- Routes already in play that could lead toward Molaesmyr (no single one has to work): Kelmen's "Molaesmyr echo," Seraphina's Savalirwood dreams, the Cord's "warning ripple," and the Savalirwood signature in Emer's notes.
 
-## Development Stages
+## Reference Notes
 
-### Seeds
-
-- [ ] Seed description
-- [ ] Expected trigger: (event/condition/timing)
-- [ ] Potential implications
-
-### Planned Developments
-
-- [ ] Immediate actions
-- [ ] Timing constraints
-- [ ] Required preparation
-
-### Long-term Plans
-
-- Major plot points
-- Possible branches
+- [[00 Factions with interest in the rifts]]
+- [[Lady Emer's Research Notes]]
+- [[Soulwood Riftcage]]
+- [[Prophecy General Info]]
 
 ## Connected Elements
 

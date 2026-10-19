@@ -60,7 +60,7 @@ Players will learn the prophecy is not accurate and will have to ajust their cho
 
 ### Source Note
 
-[[01 The Prophecy]]
+[[The Prophecy]]
 
 ## Connected Elements
 

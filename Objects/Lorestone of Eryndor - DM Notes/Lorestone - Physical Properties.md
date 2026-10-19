@@ -10,7 +10,7 @@ tags:
 
 ## Core Information
 
-A 2-foot diameter obsidian disc engraved with the [[01 The Prophecy|Prophecy]] of [[Eryndor]] in an ancient dialect of Elvish. To read the prophecy requires both:
+A 2-foot diameter obsidian disc engraved with the [[The Prophecy|Prophecy]] of [[Eryndor]] in an ancient dialect of Elvish. To read the prophecy requires both:
 
 - DC 20 Intelligence (History) check (disadvantage if not proficient)
 - Fluency in Elvish

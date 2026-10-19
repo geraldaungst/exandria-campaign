@@ -35,6 +35,7 @@ const GROUPS = [
   { tag: "artifact", label: "Items", main: true },
   { tag: "location", label: "Locations", main: true },
   { tag: "faction", label: "Factions", main: true },
+  { tag: "lore", label: "Lore", main: true },
   { tag: "plot", label: "Related plots", main: true },
   { tag: "session", label: "Sessions", main: false },
   { tag: null, label: "Other notes", main: false },

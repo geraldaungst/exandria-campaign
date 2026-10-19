@@ -12,7 +12,7 @@ tags:
 > - Priority: High
 > - Timeline: Unknown
 > - Key Players: [[Vaud Qalix - DM Notes]], [[Obsidian Echoforge - DM Notes]], [[Malachite Cord - DM Notes]], [[Emissaries of the Sunfall - DM Notes]]
-> - Parent Plot: [[01 The Prophecy]]
+> - Background: [[The Prophecy]]
 > - Last Session:
 > - Next Steps: Locate and track movement of Lorestone shards
 
@@ -38,7 +38,7 @@ A three-way conflict over the [[Lorestone of Eryndor - DM Notes]], with competin
 
 ## Plot Hierarchy
 
-- Parent Plot: [[01 The Prophecy]]
+- Parent Plot:
 - Subplots: [TBD]
 
 ## Development Stages
@@ -63,6 +63,12 @@ A three-way conflict over the [[Lorestone of Eryndor - DM Notes]], with competin
 > - Potential assembly of the Lorestone
 > - Possible catastrophic event similar to Molaesmyr
 > - Creation of a permanent gate by the Emissaries
+
+## Reference Notes
+
+- [[The Prophecy]] - the prophecy, and what each side believes it means
+- [[Luxon Beacon Political Consequences]] - fallout from holding the Beacon
+- [[Kelmen and Popcorn Connections]] - Shard 8 lead
 
 ## Connected Elements
 

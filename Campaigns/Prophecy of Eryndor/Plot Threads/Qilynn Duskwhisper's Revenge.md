@@ -1,7 +1,7 @@
 ---
 tags:
   - campaign/eryndor
-  - plot/active
+  - plot/upcoming
 ---
 
 ## Quick Reference

@@ -1,7 +1,7 @@
 ---
 tags:
   - campaign/eryndor
-  - plot/seed
+  - plot/upcoming
 ---
 
 ## Quick Reference
@@ -217,7 +217,7 @@ Multiple potential endings based on player choices:
 ### Plot Threads
 
 - [[The Capture of Melthes]] - Brother's fate intersects through Assembly connection
-- [[Delivering the Herbs]] - Potential shared destination in [[Zadash - DM Notes]]
+- [[Eidechse (Amanda Jeane)#Goals|Dechs's herb delivery]] - Potential shared destination in [[Zadash - DM Notes]]
 - Justice subplot for [[Rylan Estevez]]
 - Broader Myriad/criminal organization conflicts
 

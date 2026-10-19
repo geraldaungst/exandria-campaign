@@ -1,7 +1,12 @@
 ---
+location:
+status: complete
 tags:
   - campaign/eryndor
-  - plot/active
+  - arc
+threads:
+  - "[[Assembling the Lorestone]]"
+tier: standard
 ---
 
 ## Quick Reference

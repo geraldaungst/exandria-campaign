@@ -1,15 +1,15 @@
 ---
-tags:
-  - npc
-  - player-facing
-  - world/exandria
-  - region/cyrios-mountains
 aliases:
   - Kelmen
   - Kelman
 cssclasses:
   - world-exandria
 publish: true
+tags:
+  - npc
+  - player-facing
+  - world/exandria
+  - region/cyrios-mountains
 ---
 
 > [!info] Quick Reference

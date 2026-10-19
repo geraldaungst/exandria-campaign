@@ -18,7 +18,7 @@ tags:
 > - **Location:** [[Port Damali - DM Notes]]
 > - **Goal:** Locate and assemble [[Lorestone of Eryndor - DM Notes]] fragments using arcane refraction
 > - **Attitude toward party:** Cautiously friendly
-> - **Key knowledge:** [[Lorestone of Eryndor - DM Notes]], [[01 The Prophecy|The Prophecy]], arcane refraction theory
+> - **Key knowledge:** [[Lorestone of Eryndor - DM Notes]], [[The Prophecy|The Prophecy]], arcane refraction theory
 
 ## Description & Roleplay
 

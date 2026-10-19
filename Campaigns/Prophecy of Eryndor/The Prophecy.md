@@ -3,21 +3,12 @@ aliases:
   - prophecy
 tags:
   - campaign/eryndor
-  - plot/active
+  - lore
 ---
-
-## Quick Reference
-
-> [!info] Essential Details
-> - Current Status: Active
-> - Key Players:
-> - Next Expected Development:
 
 ## Overview
 
 Associated with the [[Lorestone of Eryndor - DM Notes]].
-
-## Current State
 
 ## Player Knowledge
 

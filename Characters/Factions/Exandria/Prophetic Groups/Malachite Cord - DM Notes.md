@@ -115,7 +115,7 @@ Group 2 on the [[Sessions 1 to 3 - The Skyship|Skyship]].
 
 ### Ongoing Conflicts
 
-- They know of the [[Obsidian Echoforge - DM Notes]] and the [[01 The Prophecy|Prophecy]].
+- They know of the [[Obsidian Echoforge - DM Notes]] and the [[The Prophecy|Prophecy]].
 - The Malachite Cord are terrified of the consequences of the OE activities because they believe that the attempts to seal the rifts will instead rip them larger causing a widespread [[Rupture of the Molaesmyr Fey Crossing|catastrophe not unlike what happened]] in [[Ruins of Molaesmyr - DM Notes|Molaesmyr]] hundreds of years ago.
 
 ## Future Developments

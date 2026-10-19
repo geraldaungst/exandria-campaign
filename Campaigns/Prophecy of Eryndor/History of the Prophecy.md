@@ -28,7 +28,7 @@ tags:
 
 ### Source Note
 
-[[01 The Prophecy]]
+[[The Prophecy]]
 
 ## Connected Elements
 

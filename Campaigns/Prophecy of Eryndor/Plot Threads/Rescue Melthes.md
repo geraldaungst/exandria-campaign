@@ -1,7 +1,7 @@
 ---
 tags:
   - campaign/eryndor
-  - plot
+  - plot/seed
 ---
 
 ## Quick Reference

@@ -3,8 +3,7 @@ started:
 tags:
   - campaign/eryndor
   - needs-work
-  - plot
-  - plot/upcoming
+  - plot/active
 ---
 
 ## Quick Reference
@@ -53,6 +52,10 @@ tags:
 ## Future Developments
 
 > [!secret]- DM Only
+
+## Reference Notes
+
+- [[Kelmen and Popcorn Connections]] - Kelmen's revelations, Shard 8, Popcorn's Feywild tie
 
 ## Connected Elements
 

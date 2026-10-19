@@ -56,7 +56,7 @@ Players will locate the missing shards and shake up modern interpretations of th
 
 ### Source Note
 
-[[01 The Prophecy]]
+[[The Prophecy]]
 
 ## Connected Elements
 

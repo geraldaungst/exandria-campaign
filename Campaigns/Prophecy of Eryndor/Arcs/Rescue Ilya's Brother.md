@@ -1,8 +1,14 @@
 ---
+location: "[[Cloudfang Keep - DM Notes]]"
+status: complete
 tags:
   - campaign/eryndor
   - needs-work
-  - plot
+  - arc
+threads:
+  - "[[Assembling the Lorestone]]"
+  - "[[Understanding the Rifts]]"
+tier: standard
 ---
 
 ## Quick Reference

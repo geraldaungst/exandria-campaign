@@ -6,8 +6,8 @@ created: 2026-02-22
 tags:
   - campaign/eryndor
   - dm-only
-  - plot
   - atomic
+  - lore
 ---
 
 ## Kelmen, Shard 8, and Popcorn—DM Reference
@@ -95,7 +95,6 @@ Use these sparingly—one at a time, never explained, never repeated too close t
 - **[[Seraphina Amaris (Vicki)|Seraphina's storyline]]**—The Savalirwood and Molaesmyr are already her destination. The party goes there for her story, and Popcorn's thread activates on arrival. Neither thread needs to wait for the other.
 - **[[Rupture of the Molaesmyr Fey Crossing]]**—Kelmen's "Molaesmyr echo" foreshadows what the party will find when they get there.
 - **[[Lorestone Shard Status Tracker]]**—Shard 8 entry should eventually be updated with Feywild location once details are developed.
-- **[[Kelmen Ritual Resolution]]**—The two-way information exchange with Kelmen is the delivery mechanism for points 1–3 above.
 
 ---
 

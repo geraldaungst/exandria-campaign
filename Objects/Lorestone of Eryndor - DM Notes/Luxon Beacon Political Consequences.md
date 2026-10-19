@@ -4,7 +4,6 @@ tags:
   - atomic
   - campaign/eryndor
   - dm-only
-  - plot
   - artifact
 ---
 

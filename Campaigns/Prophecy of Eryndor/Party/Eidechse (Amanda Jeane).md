@@ -13,6 +13,10 @@ tags:
 
 [Complete backstory here](https://docs.google.com/document/d/1mEzdpvxn8StQ0V4GUxuFK0QZqfSdH6zubfJIKty2WEs/edit?tab=t.0)
 
+## Goals
+
+- Return the herbs he gathered in the Othemoor to Zadash. Hook for the Zadash arc.
+
 I grew up in Kamordah in the Bromkiln Hills, known for their rugged terrain, dense forests, and rich mineral deposits, my family were miners and tradespeople.
 
 My father, Kazgor, and mother, Elfrida, of the Stonebreaker Clan.  While most of the clan navigated the depths of the hills to find mineral deposits, my parents would bring our goods across the lands to popular merchant posts and to nobles who requested Adamantite for their knights' weapons and armor.

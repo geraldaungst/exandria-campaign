@@ -1,9 +1,14 @@
 ---
+location: "[[Port Zoon - DM Notes]]"
 started:
+status: idea
 tags:
   - campaign/eryndor
   - needs-work
-  - plot/active
+  - arc
+threads:
+  - "[[Assembling the Lorestone]]"
+tier: standard
 ---
 
 ## Quick Reference
