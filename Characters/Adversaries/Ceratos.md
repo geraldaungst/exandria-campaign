@@ -21,17 +21,25 @@ Ceratos is the true Nemesis of this campaign. He won't be revealed until [[Vaud 
 |            |                               |
 | ---------- | ----------------------------- |
 | Occupation | Great Old One                 |
-| Goal       | Increase chaos to gain power  |
+| Goal       | Open a permanent passage into Exandria |
 | Attitude   | Superiority                   |
 | Stake      | Nothing else matters. All in. |
 
 ## What does the Nemesis want?
 
-To gain power through Chaos.
+A permanent passage from the Far Realm into Exandria. Chaos is its nature, not its fuel.
 
 ## The Sentence
 
-*Ceratos wants a permanent, unstable rift to the Far Realm before anyone discovers the true nature of the rifts on Exandria, and is having difficulty getting their warlock thralls to connect and destablize the existing rifts because the PCs keep either closing or stabilizing them.*
+*Ceratos wants a permanent passage from the Far Realm into Exandria, and is having difficulty because it cannot touch the rifts itself, its warlock thralls don't yet understand them well enough to connect them, and the PCs keep closing the rifts they find.*
+
+## Open Questions
+
+<!-- Deliberately undecided. Let play settle these. -->
+
+- Who its other warlock thralls are
+- What its passage into Exandria would look like, and what it does once through
+- Whether it has been in Exandria before (an older note said a passage would let it "return")
 
 ## Psychology of the Nemesis
 

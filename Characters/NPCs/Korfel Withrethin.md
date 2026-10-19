@@ -51,10 +51,10 @@ Currently operates as a major [[Myriad]] crime boss in [[Zadash - DM Notes]] und
 
 **Current Resources:**
 
-- Forged [[Arcanist's Prism]] (significant magical artifact)
 - [[Cree Deeproots]] (Blood Domain cleric for surveillance)
 - Criminal network including Sorah (goliath enforcer) and Kutha (11-foot ogre)
 - Substantial financial resources and corrupt official connections
+- Qalix's down payment for an unfinished job, the Rexxentrum Archive heist (see [[The Gentleman's Criminal Empire]])
 - [[Blood Sample Collection Protocol]] for controlling associates
 
 ## Background

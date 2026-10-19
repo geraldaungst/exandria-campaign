@@ -115,7 +115,7 @@ Dunamantic magic, particularly as channeled through Luxon Beacons, provides temp
 - **Obsidian Echoforge:** Focused on energy channeling, ignores temporal effects
 - **Malachite Cord:** Fears the symptoms but doesn't understand the underlying cause
 - **Emissaries of the Sunfall:** Seeks power without comprehending safety requirements
-- **Vaud Qalix:** Ceratos deliberately withholds this knowledge to encourage failure
+- **Vaud Qalix:** Lists a Luxon Beacon as a Conduit component but doesn't know it is the stabilizer; no one living does
 
 #### Research Implications
 

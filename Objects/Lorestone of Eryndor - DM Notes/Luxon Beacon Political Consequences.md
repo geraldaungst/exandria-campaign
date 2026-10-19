@@ -45,7 +45,7 @@ Beacon is simply theirs to keep.
 
 she lost it. He doesn't yet know the Beacon is essential to safely using the
 
-Lorestone—[[Ceratos]] has kept him ignorant of that—but he knows his operation
+Lorestone—no one living does—but he knows his operation
 
 was compromised and that the party is responsible. They have moved from
 

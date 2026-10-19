@@ -230,7 +230,6 @@ Multiple potential endings based on player choices:
 ### Items & Evidence
 
 - [[stone-of-memory]] - Source of mysterious visions
-- [[Arcanist's Prism]] (forged) - Currently held by The Gentleman
 - Evidence of [[Rylan Estevez Frame Job]]
 
 ## Connected Elements

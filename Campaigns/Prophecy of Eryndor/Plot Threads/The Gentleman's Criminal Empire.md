@@ -54,7 +54,6 @@ After fleeing [[Port Damali - DM Notes]] following [[The Port Damali Murders]], 
 
 **Equipment:**
 
-- Forged [[Arcanist's Prism]] (significant magical artifact)
 - Blood sample collection for tracking enemies/assets
 - Hidden weapon caches and safe houses
 - Sophisticated communication network
@@ -128,6 +127,13 @@ After fleeing [[Port Damali - DM Notes]] following [[The Port Damali Murders]], 
 - Coordination on inter-regional operations
 - Shared intelligence and resource networks
 - Mutual protection agreements
+
+#### **The Rexxentrum Job**
+
+- [[Dreyara Drimvar - DM Notes|Dreyara]] recruited the Gentleman for [[Vaud Qalix - DM Notes|Qalix]]'s planned heist of the [[Cobalt Soul Archive in Rexxentrum - DM Notes|Rexxentrum Archive]] (Shard 5). His tunnels and smuggling routes were to move a crew into Rexxentrum and carry the shard out through [[Zadash - DM Notes|Zadash]].
+- The contact ran through [[Father Dwondaff Pierce]] in Port Damali.
+- Since Dreyara's death he holds Qalix's down payment and a half-planned job. Whether Qalix sends someone to finish it, and who, is open.
+- If asked at the table: "She was hiring for a job up north."
 
 #### **Future Expansion Plans**
 

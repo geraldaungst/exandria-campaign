@@ -56,7 +56,7 @@ Stakes: Nothing else matters. All in.
 
 ## What Vaud Qalix doesn't know
 
-[[Ceratos|Ceratos]] is not merely the source of his power. [[Ceratos|Ceratos]] is using him to create chaos and increase their power. [[Ceratos|Ceratos]] knows Qalix will eventually be defeated, but that defeat will unleash a very desirable wave of chaos that will finally give [[Ceratos|Ceratos]] enough power and coherence to act directly in Exandria instead of manipulating mortals.
+[[Ceratos|Ceratos]] is not merely the source of his power. Qalix is one of Ceratos's warlock thralls, and Ceratos steers him toward the rifts because it cannot touch them itself. Ceratos doesn't care whether Qalix's plan succeeds or fails, only that the attempt opens a way from the Far Realm into Exandria.
 
 Not only this, but the rifts Qalix believes are part of a larger pattern are in fact random and chaotic. What Qalix thinks is a "signature" for each rift is merely the specific random variation of arcane noise that happens to exist at that spot at that moment. Over time, the noise shifts and changes, and there is no way to actually associate a specific pattern with a specific rift.
 

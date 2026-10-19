@@ -104,8 +104,6 @@ Vaud Qalix has made an interesting proposition. He requires a secure, isolated r
 
 His theories about "harmonic resonance" are intriguing but flawed. He believes each rift has a unique "signature" that can be catalogued and predicted. I've tried to explain that the energy patterns I observe are chaotic fluctuations, not meaningful signatures, but he insists his calculations are correct.
 
-**Important**: Vaud mentioned he's seeking something called an "Arcanist's Prism" for his portal project. Claims it's essential for "final stabilization." I should investigate whether this artifact could be useful for my own research.
-
 **Trading opportunity**: He wants access to my Phase Spider specimens. In exchange, he's offered to share his "rift signature database." Might be worth it despite my doubts about his methods.
 
 **Decision**: Accepted his offer. The gold will fund my research for years, and his network might provide access to sites and materials I couldn't reach alone.

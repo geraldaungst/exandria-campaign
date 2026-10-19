@@ -45,12 +45,10 @@ Headquartered in [[Port Damali - DM Notes]] while researching Lorestone assembly
 > - Was the target of [[Valen Elderguard]]'s plot to skyjack the ship
 > - Calderax is actually working with [[Aelorin Nightshade]]
 > - The shard trail leads to [[Keldar Stonefoot - DM Notes]]
-> - Believes the [[Arcanist's Prism]] can help his research—the one he's seeking is actually a forgery
 
 > [!note]- Arcane Refraction Device
 > His primary research: a device that aligns chaotic planar rift energies with the order inherent in Lorestone fragments, using prismatic and temporal elements to locate and assemble scattered pieces.
 >
-> **Core component:** [[Arcanist's Prism]] (Age of Arcanum artifact for harnessing ley line powers)
 > **Key rare materials:** Ethereum Core, enchanted electrum filament, star iron
 > **Status:** Functional but requires regular maintenance; electrum filament degrades with use
 >

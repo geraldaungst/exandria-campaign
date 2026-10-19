@@ -26,7 +26,7 @@ Rifts keep opening across Wildemount. Every faction has a theory about what they
 > - **Origin isn't pattern:** size, plane, duration, and local effects are chaotic. Studying individual rifts reveals little, so every faction looking for a pattern ([[Vaud Qalix - DM Notes|Qalix]]'s signatures, Emer's pulse) is chasing noise.
 > - **Emer is an unreliable source:** [[Lady Emer's Research Notes]] rest on a handful of sites, and she presents assumptions as findings. Some of her claims happen to be true; none should be treated as reliable.
 > - **Closing a rift** requires the assembled Lorestone and an active Luxon Beacon together, plus ritual knowledge held by [[Aveqtaro Thaan]]. See [[Lorestone - Rift Closing Mechanics]].
-> - **Ceratos can't touch the rifts.** It works only through Qalix, who has a Great Old One patron but doesn't know its identity and has no direct contact with it. To Qalix, the patron is simply where his power comes from.
+> - **Ceratos can't touch the rifts.** It works only through its warlock thralls, Qalix among them. Qalix has a Great Old One patron but doesn't know its identity and has no direct contact with it. To Qalix, the patron is simply where his power comes from.
 
 # Open Questions
 

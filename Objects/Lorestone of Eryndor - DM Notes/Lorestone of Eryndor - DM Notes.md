@@ -69,7 +69,7 @@ tags:
 
 **[[Emissaries of the Sunfall - DM Notes]]**: Believes the Lorestone can create permanent controlled gateways. Fundamentally wrong about its purpose, but their desire to control rather than close rifts makes them especially dangerous.
 
-**[[Vaud Qalix - DM Notes]]**: Believes he can use it to create stable energy siphons for Draconia. Completely wrong about its capabilities and unaware of Ceratos's manipulation. His patron deliberately withholds knowledge of stabilization requirements.
+**[[Vaud Qalix - DM Notes]]**: Believes he can use it to create stable energy siphons for Draconia. Completely wrong about its capabilities and unaware of Ceratos's manipulation. Doesn't know a Luxon Beacon is what stabilizes it; no one living does.
 
 ## Notes
 

@@ -57,6 +57,9 @@ Operating in Port Damali, working to secure Myriad support for a planned heist o
 > 
 > Approach: offers tangible proof of Qalix's resources (enchanted items, gold), demonstrates commitment by orchestrating operations against rival factions.
 
+> [!note]- The Gentleman and the Rexxentrum Job
+> Her Myriad partner for the Rexxentrum Archive heist was [[Korfel Withrethin|the Gentleman]], reached through [[Father Dwondaff Pierce]]. Details and current state: [[The Gentleman's Criminal Empire]].
+
 ## Hidden Information
 
 > [!secret]- DM Only
