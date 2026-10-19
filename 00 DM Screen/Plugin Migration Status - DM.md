@@ -109,6 +109,10 @@ Decisions: delete QuickAdd now. Disable MetaEdit, Kanban, Sort and Permute Lines
 
 2026-10-18 | D0, D2 | Git checkpoint committed. QuickAdd deleted. Contextual Typography deleted (skipped the disable trial). MetaEdit, Kanban, Sort and Permute, Buttons disabled. Delete these four on or after 2026-10-25 if nothing breaks.
 
+2026-10-18 | D3 | Replaced Note Refactor with Note Refactor Plus instead of Advanced Note Composer (ANC's template and variable docs could not be verified; NRP has a Note Refactor importer and a note link template). Template saved as a.md file in z_Templates (Linter ignores it). Edits: {{new_note_content}} -> {{content}}; Source Note link -> {{source_link}} (brackets come with it); `created` value rewritten so Obsidian no longer converts it to a nested mapping. Test extraction passed: frontmatter, Core Information heading, embed, and all five dataview blocks survive. ANC is NOT being installed. Note Refactor disabled; delete on or after 2026-10-25 if nothing breaks. When the related-notes queries are converted (D6), update the template's five dataview blocks too.
+
+2026-10-18 | D0-D3 summary | Git checkpoint committed. DELETED: QuickAdd, Contextual Typography. DISABLED (delete on or after 2026-10-25 if nothing breaks): MetaEdit, Kanban, Sort and Permute, Buttons, original Note Refactor. KEPT: Mononote, Janitor (Bases orphan view tested, backlinks only work as a formula property), Admonition. Note Refactor Plus installed in place of Advanced Note Composer, with the extraction template saved as a .md file in z_Templates; old hotkey works with it; test extraction passed. Janitor test folder and Orphan Check base deleted. Next for this vault: Linter setup, then the Dataview migration (D5/D6).
+
 ### Resume prompt
 
 Paste into a new conversation along with this note and the personal vault note:
