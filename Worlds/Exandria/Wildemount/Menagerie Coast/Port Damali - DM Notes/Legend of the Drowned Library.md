@@ -43,7 +43,7 @@ How this relationship affects the campaign
 
 ### Source Note
 
-[[Celunor’s Collection - DM Notes]]
+[[Celunor's Collection - DM Notes]]
 
 ### Related Atomic Notes
 
