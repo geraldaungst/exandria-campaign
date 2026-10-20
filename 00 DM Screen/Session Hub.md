@@ -46,6 +46,13 @@ return function ImprovReferences() {
 };
 ```
 
+### Item finder
+
+```datacorejsx
+const { ItemFinder } = await dc.require(dc.headerLink("00 DM Screen/Code/Item Finder.md", "Code"));
+return ItemFinder;
+```
+
 ### References
 
 The table references are build step 6. Until then: [[NPC Stat Block Reference Table]] · [[Table Rulings]] · [[Party Combat Profile]] · [[Random Tavern]] · [[Fast NPC + Picture]] · [[Sources of Maps]]

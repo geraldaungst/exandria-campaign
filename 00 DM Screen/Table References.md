@@ -20,4 +20,3 @@ Each bullet is a button on the hub. `{q}` in the address becomes the item name y
 
 - [D&D Beyond magic items](https://www.dndbeyond.com/magic-items?filter-search={q}) · search by name
 - [D&D Beyond equipment](https://www.dndbeyond.com/equipment?filter-search={q}) · mundane gear
-- [5e.tools items](https://5e.tools/items.html) · no search link, so the name is copied

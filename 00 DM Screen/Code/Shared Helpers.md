@@ -8,7 +8,7 @@ hide_from_related: true
 
 **Depends on:** none
 
-**Used by:** [[Campaign State]] · [[Calendar and Timeline]] · [[Note Types]] · [[Arc and Session Views]] · [[DM Screen Views]] · [[Session Hub Views]] · [[Quick Capture]] · [[Diagnostics]]
+**Used by:** [[Campaign State]] · [[Calendar and Timeline]] · [[Note Types]] · [[Arc and Session Views]] · [[DM Screen Views]] · [[Session Hub Views]] · [[Session Hub Table]] · [[Quick Capture]] · [[Item Data]] · [[Diagnostics]]
 
 The block below is plain `jsx`, so it does not run on this page. Notes load it with `dc.require(dc.headerLink("00 DM Screen/Code/Shared Helpers.md", "Code"))`. After editing, reopen any note that uses it. Design: [[DM Hubs Design]].
 
@@ -63,6 +63,7 @@ const CONFIG_DEFAULTS = {
   status_running: "running",
   statuses_paused: ["paused", "abandoned"],
   calendar_category_sessions: "Sessions",
+  data_url_5etools: "https://raw.githubusercontent.com/5etools-mirror-3/5etools-src/main/data",
 };
 
 /** The current settings: Hub Config's properties over the built-in values. Read live, so edits apply on reopen. */

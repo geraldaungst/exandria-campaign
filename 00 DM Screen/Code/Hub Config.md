@@ -1,6 +1,7 @@
 ---
 calendar_category_sessions: Sessions
 campaign_tag_prefix: campaign/
+data_url_5etools: https://raw.githubusercontent.com/5etools-mirror-3/5etools-src/main/data
 excluded_folder_prefix: z_
 folder_campaigns: Campaigns
 folder_characters: Characters
@@ -64,6 +65,7 @@ template_session: Session Template
 - **Quick-capture stubs**: `folder_npcs`, `folder_factions` (stubs go in a subfolder named for the campaign's `world`), and `folder_objects` hold NPC, faction, and item stubs. `folder_stubs` is the name of a folder inside each campaign's folder that holds location and shop stubs. `tag_improvised` marks every stub.
 - **Player characters**: `tag_pc` marks active PCs. A PC who is on hold or gone is tagged `<tag_pc>/inactive` (always that form, like the plot stages) and is left out of the Session Hub's Spotlight.
 - **`status_running` and `statuses_paused`**: arc `status` values for the arc being played and for arcs set aside.
+- **`data_url_5etools`**: the folder address of a 5e.tools data mirror, without a trailing slash. [[Item Data]] downloads `items.json`, `items-base.json`, and `magicvariants.json` from it for the item search.
 - **`calendar_category_sessions`**: the Calendarium category for session notes (left out of Close Session's event categories).
 
 ## What this note can't change
