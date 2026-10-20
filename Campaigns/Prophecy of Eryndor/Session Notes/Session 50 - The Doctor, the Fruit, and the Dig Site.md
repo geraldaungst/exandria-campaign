@@ -6,6 +6,12 @@ session_number: 50
 tags:
   - campaign/eryndor
   - session
+fc-calendar: Exandrian Calendar
+fc-date: "835-04-27"
+fc-end: "835-04-27"
+ingame_time: Morning
+fc-display-name: "Session 50"
+fc-category: Sessions
 ---
 
 ## Session 50 - The Doctor, the Fruit, and the Dig Site

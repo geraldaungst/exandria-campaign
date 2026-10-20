@@ -13,6 +13,9 @@ const sessions = notes
   .sort((a, b) => Number(b.fm.session_number) - Number(a.fm.session_number));
 const prev = sessions[0];
 const prevArc = prev ? baseOf(prev.fm.arc) : "";
+// In-world start = where the previous session ended (set by Close Session).
+const quote = (v) => (v ? `"${String(v).replace(/"/g, "")}"` : "");
+const prevEnd = prev ? prev.fm["fc-end"] ?? prev.fm["fc-date"] ?? "" : "";
 
 const num = await tp.system.prompt("Session number", String(prev ? Number(prev.fm.session_number) + 1 : 1));
 const title = await tp.system.prompt("Session title (optional, can add later)", "");
@@ -39,6 +42,12 @@ tR += `date: ${date}\n`;
 tR += `previous_session: ${prev ? `"[[${prev.f.basename}]]"` : ""}\n`;
 tR += `session_number: ${num}\n`;
 tR += "tags:\n  - campaign/eryndor\n  - session\n";
+tR += "fc-calendar: Exandrian Calendar\n";
+tR += `fc-date: ${quote(prevEnd)}\n`;
+tR += "fc-end:\n";
+tR += "ingame_time:\n";
+tR += `fc-display-name: "Session ${num}"\n`;
+tR += "fc-category: Sessions\n";
 tR += "---\n\n";
 tR += `## ${name}\n\n`;
 tR += "### Last Time\n\n";
@@ -116,7 +125,7 @@ return SessionArc;
 <!-- Fill in right after the game. The hub, the next session's "Last Time", and the arc's Play History all show this section. -->
 
 - **Party location:**
-- **What happened:**
+- **What happened:** <!-- link each PC who drives a bullet ([[Seraphina…), so the spotlight tracker sees them -->
   -
 - **Decisions and consequences:**
   -
@@ -128,6 +137,7 @@ return SessionArc;
 
 <!-- About 10 minutes. -->
 
+- [ ] Run the **Close Session** template (Templater: insert template): in-world end date and time, then key events for [[Eryndor Timeline]]
 - [ ] Fill in "Where we left off"
 - [ ] Tick revealed clues in the arc's Fact Map
 - [ ] Open each plot note in "Threads moved" and update it

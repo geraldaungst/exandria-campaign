@@ -4,7 +4,7 @@ aliases:
 modifier: 3
 tags:
   - campaign/eryndor
-  - player
+  - player/inactive
 ---
 
 ![[elby.png|right|300]]

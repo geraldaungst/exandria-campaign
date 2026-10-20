@@ -6,6 +6,12 @@ session_number: 51
 tags:
   - campaign/eryndor
   - session
+fc-calendar: Exandrian Calendar
+fc-date: "835-04-27"
+fc-end: "835-04-27"
+ingame_time: Afternoon
+fc-display-name: "Session 51"
+fc-category: Sessions
 ---
 
 ## Session 51 - Between a Rock and an Old Place

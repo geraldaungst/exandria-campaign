@@ -6,6 +6,12 @@ session_number: 54
 tags:
   - campaign/eryndor
   - session
+fc-calendar: Exandrian Calendar
+fc-date: "835-04-27"
+fc-end:
+ingame_time:
+fc-display-name: "Session 54"
+fc-category: Sessions
 ---
 
 ## Session 54 - Deastok Conclusion

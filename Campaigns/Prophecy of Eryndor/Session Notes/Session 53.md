@@ -6,6 +6,12 @@ session_number: 53
 tags:
   - campaign/eryndor
   - session
+fc-calendar: Exandrian Calendar
+fc-date: "835-04-27"
+fc-end: "835-04-27"
+ingame_time: Evening
+fc-display-name: "Session 53"
+fc-category: Sessions
 ---
 
 ## Session 53

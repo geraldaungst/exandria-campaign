@@ -2,14 +2,23 @@
 hide_from_related: true
 ---
 
-Shared Datacore views for arc documents and the hub. Arc notes load them with `dc.require`; edit here and every arc updates (reopen the arc note to refresh). The block below is plain `jsx`, so it does not render on this page.
+Shared Datacore views and logic for arc documents, session notes, and the hubs ([[00 DM Screen]], [[Session Hub]]). Notes load them with `dc.require`; edit here and every note updates (reopen the note to refresh). The block below is plain `jsx`, so it does not render on this page. Design: [[DM Hubs Design]].
 
 Conventions these views rely on:
 
-- Arc notes carry the `arc` tag and a `status` property: idea, designing, ready, running, paused, abandoned, complete.
+- Arc notes carry the `arc` tag and a `status` property: idea, designing, ready, running, paused, abandoned, complete. Only one arc is `running` at a time.
 - Arc notes list the plot threads they advance in `threads` (links).
 - Session notes carry the `session` tag, `session_number`, `date`, and an `arc` property linking to their arc.
 - Session notes have a `## Where we left off` heading, filled in after play.
+- Last played session: the highest-numbered session dated before today. Next session: the earliest dated today or later (on game day it is tonight's session, not the last played one). Notes in `z_` folders and session notes without a number or date are ignored.
+- Today in-world: the last played session's `fc-end` (else `fc-date`) and `ingame_time`. These are set by the session template (`fc-date` = previous session's `fc-end`) and the [[Close Session]] template. In-world dates are year-month-day with the month as a number from 1 (`835-04-19` is 19 Thunsheer 835); Calendarium reads them as events on the Exandrian Calendar.
+- Note types for the hubs come from `noteType` below: tag rules first, then folder fallbacks for untagged notes (Session Notes, Objects, Characters, Worlds, Campaigns). Bases views use this formula, which must be kept in step with `TYPE_RULES`:
+
+```
+if(file.inFolder("Player Wiki"), "Player wiki", if(file.hasTag("session"), "Session", if(file.hasTag("arc"), "Arc", if(file.hasTag("plot", "plot/active", "plot/upcoming", "plot/seed", "plot/paused"), "Plot thread", if(file.hasTag("lore"), "Lore", if(file.hasTag("world/keln"), "Keln", if(file.hasTag("player", "player/inactive"), "PC", if(file.hasTag("npc"), "NPC", if(file.inFolder("Characters/Creatures"), "Creature", if(file.hasTag("location"), "Location", if(file.hasTag("faction"), "Faction", if(file.hasTag("artifact"), "Item", if(file.inFolder("00 DM Screen") || file.hasTag("dm-tool", "dm-tools"), "DM tools", if(file.path.contains("Session Notes/"), "Session", if(file.inFolder("Objects"), "Item", if(file.inFolder("Characters"), "NPC", if(file.inFolder("Worlds"), "World", if(file.inFolder("Campaigns"), "Campaign", "Other"))))))))))))))))))
+```
+
+To check the logic, open [[Hub Logic Check]].
 
 ## Views
 
@@ -182,5 +191,229 @@ function SessionArc() {
   );
 }
 
-return { ArcHistory, RelatedArcs, ArcClues, SessionArc, useArcSessions, linkPath, statusOf };
+// ── Shared hub logic ─────────────────────────────────────────────
+
+const pad = (n) => String(n).padStart(2, "0");
+/** Today's real-world date as yyyy-MM-dd, local time. */
+const todayDay = () => {
+  const d = new Date();
+  return `${d.getFullYear()}-${pad(d.getMonth() + 1)}-${pad(d.getDate())}`;
+};
+/** A date property as yyyy-MM-dd, or null. */
+const dayOf = (v) => {
+  if (!v) return null;
+  if (v.toFormat) return v.toFormat("yyyy-MM-dd");
+  const m = String(v).match(/\d{4}-\d{2}-\d{2}/);
+  return m ? m[0] : null;
+};
+/** A property value as plain text (in-world dates are shown as stored). */
+const rawText = (v) => {
+  if (v === null || v === undefined || v === "") return null;
+  if (v.toFormat) return v.toFormat("yyyy-MM-dd");
+  return String(v);
+};
+const inZFolder = (p) => p.$path.split("/").some((part) => part.startsWith("z_"));
+const tagsOf = (p) => (p.$tags ?? []).map((t) => String(t).replace(/^#/, "").toLowerCase());
+const hasTag = (p, tag) => tagsOf(p).some((t) => t === tag || t.startsWith(tag + "/"));
+const inFolder = (p, folder) => p.$path.startsWith(folder + "/");
+
+/** Numbered, dated session notes outside z_ folders, lowest number first. */
+function useDatedSessions() {
+  const sessions = dc.useQuery("@page and #session");
+  return dc.useMemo(
+    () =>
+      sessions
+        .filter((s) => !inZFolder(s) && num(s.value("session_number")) > -Infinity && dayOf(s.value("date")))
+        .sort((a, b) => num(a.value("session_number")) - num(b.value("session_number"))),
+    [sessions]
+  );
+}
+
+/**
+ * Where the campaign stands in real time.
+ * lastPlayed: highest-numbered session dated before today.
+ * next: earliest session dated today or later; isTonight when that date is today.
+ */
+function useSessionState() {
+  const sessions = useDatedSessions();
+  const today = todayDay();
+  const played = sessions.filter((s) => dayOf(s.value("date")) < today);
+  const upcoming = sessions
+    .filter((s) => dayOf(s.value("date")) >= today)
+    .sort(
+      (a, b) =>
+        dayOf(a.value("date")).localeCompare(dayOf(b.value("date"))) ||
+        num(a.value("session_number")) - num(b.value("session_number"))
+    );
+  const next = upcoming[0] ?? null;
+  return {
+    played,
+    lastPlayed: played.length ? played[played.length - 1] : null,
+    next,
+    isTonight: !!next && dayOf(next.value("date")) === today,
+  };
+}
+
+/** In-world date and time at the end of a session: fc-end (else fc-date) and ingame_time. */
+function inGameNow(session, months = []) {
+  if (!session) return null;
+  const date = rawText(session.value("fc-end")) ?? rawText(session.value("fc-date"));
+  if (!date) return null;
+  const time = rawText(session.value("ingame_time"));
+  const day = inWorldText(date, months);
+  return { date, day, text: time ? `${day}, ${time}` : day, time, session };
+}
+
+/** Month names for a Calendarium calendar, read once from Calendarium's settings file. */
+function useCalendarMonths(calendarName = "Exandrian Calendar") {
+  const [months, setMonths] = dc.useState([]);
+  dc.useEffect(() => {
+    let live = true;
+    (async () => {
+      try {
+        const raw = await app.vault.adapter.read(`${app.vault.configDir}/plugins/calendarium/data.json`);
+        const cal = JSON.parse(raw).calendars.find((c) => c.name === calendarName);
+        if (live) setMonths((cal?.static?.months ?? []).map((m) => m.name));
+      } catch (e) {}
+    })();
+    return () => {
+      live = false;
+    };
+  }, [calendarName]);
+  return months;
+}
+
+/** "835-04-19" → "19 Thunsheer 835" when month names are known; otherwise as stored. */
+function inWorldText(date, months = []) {
+  const m = String(date).match(/^(\d+)-(\d+)-(\d+)$/);
+  if (!m) return String(date);
+  const month = months[Number(m[2]) - 1];
+  return month ? `${Number(m[3])} ${month} ${Number(m[1])}` : String(date);
+}
+
+/** The running arc; `others` lists any extra arcs wrongly marked running. */
+function useRunningArc() {
+  const arcs = dc.useQuery("@page and #arc");
+  const running = arcs
+    .filter((a) => !inZFolder(a) && statusOf(a) === "running")
+    .sort((a, b) => a.$name.localeCompare(b.$name));
+  return { arc: running[0] ?? null, others: running.slice(1) };
+}
+
+/** First matching rule names the type. Keep in step with the Bases formula above. */
+const TYPE_RULES = [
+  ["Player wiki", (p) => inFolder(p, "Player Wiki")],
+  ["Session", (p) => hasTag(p, "session")],
+  ["Arc", (p) => hasTag(p, "arc")],
+  ["Plot thread", (p) => hasTag(p, "plot")],
+  ["Lore", (p) => hasTag(p, "lore")],
+  ["Keln", (p) => tagsOf(p).includes("world/keln")],
+  ["PC", (p) => hasTag(p, "player")],
+  ["NPC", (p) => hasTag(p, "npc")],
+  ["Creature", (p) => inFolder(p, "Characters/Creatures")],
+  ["Location", (p) => hasTag(p, "location")],
+  ["Faction", (p) => hasTag(p, "faction")],
+  ["Item", (p) => hasTag(p, "artifact")],
+  ["DM tools", (p) => inFolder(p, "00 DM Screen") || tagsOf(p).includes("dm-tool") || tagsOf(p).includes("dm-tools")],
+  // Folder fallbacks for notes with no type tag
+  ["Session", (p) => p.$path.includes("Session Notes/")],
+  ["Item", (p) => inFolder(p, "Objects")],
+  ["NPC", (p) => inFolder(p, "Characters")],
+  ["World", (p) => inFolder(p, "Worlds")],
+  ["Campaign", (p) => inFolder(p, "Campaigns")],
+];
+const NOTE_TYPES = [...new Set([...TYPE_RULES.map(([name]) => name), "Other"])];
+function noteType(p) {
+  const rule = TYPE_RULES.find(([, test]) => test(p));
+  return rule ? rule[0] : "Other";
+}
+
+/** Test view for the shared logic, shown on Hub Logic Check. */
+function HubLogicCheck() {
+  const { played, lastPlayed, next, isTonight } = useSessionState();
+  const { arc, others } = useRunningArc();
+  const months = useCalendarMonths();
+  const now = inGameNow(lastPlayed, months);
+  const all = dc.useQuery("@page");
+  const byType = dc.useMemo(() => {
+    const groups = new Map(NOTE_TYPES.map((t) => [t, []]));
+    for (const p of all) if (!inZFolder(p)) groups.get(noteType(p)).push(p);
+    return [...groups.entries()]
+      .filter(([, list]) => list.length)
+      .map(([type, list]) => [type, list.sort((a, b) => a.$name.localeCompare(b.$name))]);
+  }, [all]);
+  return (
+    <div>
+      <div style={S.row}>
+        <strong>Today:</strong> {todayDay()}
+      </div>
+      <div style={S.row}>
+        <strong>Last played:</strong> {lastPlayed ? <dc.Link link={lastPlayed.$link} /> : "none"}
+        <span style={S.muted}>
+          {" "}
+          {lastPlayed ? dayOf(lastPlayed.value("date")) : ""} ({played.length} dated sessions played)
+        </span>
+      </div>
+      <div style={S.row}>
+        <strong>Next session:</strong> {next ? <dc.Link link={next.$link} /> : "none"}
+        <span style={S.muted}> {next ? dayOf(next.value("date")) : ""}</span>
+        {isTonight ? <span style={S.pill}>tonight</span> : null}
+      </div>
+      <div style={S.row}>
+        <strong>Today in-world:</strong>{" "}
+        {now ? (
+          <span>
+            {now.text} <span style={S.muted}>(from {shortName(now.session)})</span>
+          </span>
+        ) : (
+          <span style={S.muted}>no date yet (needs fc-end on the last played session)</span>
+        )}
+      </div>
+      <div style={S.row}>
+        <strong>Running arc:</strong> {arc ? <dc.Link link={arc.$link} /> : "none"}
+        {others.length ? <span style={S.shared}>also marked running: {others.map(shortName).join(", ")}</span> : null}
+      </div>
+      <div style={{ ...S.row, marginTop: "12px" }}>
+        <strong>Note types</strong> <span style={S.muted}>(outside z_ folders; open a group to spot misfiled notes)</span>
+      </div>
+      {byType.map(([type, list]) => (
+        <details key={type}>
+          <summary style={S.sessionHead}>
+            {type} <span style={S.muted}>{list.length}</span>
+          </summary>
+          <div style={S.embed}>
+            {list.map((p) => (
+              <div key={p.$path}>
+                <dc.Link link={p.$link} /> <span style={S.muted}>{p.$path.split("/").slice(0, -1).join("/")}</span>
+              </div>
+            ))}
+          </div>
+        </details>
+      ))}
+    </div>
+  );
+}
+
+return {
+  ArcHistory,
+  RelatedArcs,
+  ArcClues,
+  SessionArc,
+  useArcSessions,
+  linkPath,
+  statusOf,
+  shortName,
+  useSessionState,
+  useRunningArc,
+  inGameNow,
+  useCalendarMonths,
+  inWorldText,
+  noteType,
+  NOTE_TYPES,
+  hasTag,
+  inZFolder,
+  dayOf,
+  todayDay,
+  HubLogicCheck,
+};
 ```

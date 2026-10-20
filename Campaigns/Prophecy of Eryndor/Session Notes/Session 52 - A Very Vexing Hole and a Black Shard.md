@@ -6,6 +6,12 @@ session_number: 52
 tags:
   - campaign/eryndor
   - session
+fc-calendar: Exandrian Calendar
+fc-date: "835-04-27"
+fc-end: "835-04-27"
+ingame_time: Afternoon
+fc-display-name: "Session 52"
+fc-category: Sessions
 ---
 
 ## Session 52 - A Very Vexing Hole and a Black Shard

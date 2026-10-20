@@ -4,13 +4,7 @@ aliases:
 modifier: 2
 tags:
   - campaign/eryndor
-  - player
-  - 1
-  - 2
-  - 3
-  - 4
-  - 5
-  - 6
+  - player/inactive
 ---
 
 ![[laucian.png|right|300]]
