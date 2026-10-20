@@ -37,6 +37,15 @@ const { QuickCapture } = await dc.require(dc.headerLink("00 DM Screen/Code/Quick
 return QuickCapture;
 ```
 
+### Improv references
+
+```datacorejsx
+const { ReferenceList } = await dc.require(dc.headerLink("00 DM Screen/Code/Reference Lists.md", "Code"));
+return function ImprovReferences() {
+  return <ReferenceList source="00 DM Screen/Table References.md" group="Improv references" />;
+};
+```
+
 ### References
 
-The table references are build step 6. Until then: [[Quick NPCs]] · [[NPC Stat Block Reference Table]] · [[Table Rulings]] · [[Party Combat Profile]] · [[Random Tavern]] · [[Fast NPC + Picture]] · [[Sources of Maps]]
+The table references are build step 6. Until then: [[NPC Stat Block Reference Table]] · [[Table Rulings]] · [[Party Combat Profile]] · [[Random Tavern]] · [[Fast NPC + Picture]] · [[Sources of Maps]]
