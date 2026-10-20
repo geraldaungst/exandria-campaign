@@ -1,17 +1,17 @@
 ---
 arc: "[[Deastok Investigation]]"
 date: 2026-11-01
+fc-calendar: Exandrian Calendar
+fc-category: Sessions
+fc-date: 835-04-27
+fc-display-name: Session 54
+fc-end:
+ingame_time:
 previous_session: "[[Session 53]]"
 session_number: 54
 tags:
   - campaign/eryndor
   - session
-fc-calendar: Exandrian Calendar
-fc-date: "835-04-27"
-fc-end:
-ingame_time:
-fc-display-name: "Session 54"
-fc-category: Sessions
 ---
 
 ## Session 54 - Deastok Conclusion
@@ -23,7 +23,7 @@ fc-category: Sessions
 ### Arc and Open Clues
 
 ```datacorejsx
-const { SessionArc } = await dc.require(dc.headerLink("00 DM Screen/Arc Views.md", "Views"));
+const { SessionArc } = await dc.require(dc.headerLink("00 DM Screen/Code/Arc and Session Views.md", "Code"));
 return SessionArc;
 ```
 

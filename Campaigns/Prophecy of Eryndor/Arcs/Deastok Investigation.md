@@ -611,14 +611,14 @@ The large walled estate in the southwest near the forest edge—the actual seat 
 ### Play History
 
 ```datacorejsx
-const { ArcHistory } = await dc.require(dc.headerLink("00 DM Screen/Arc Views.md", "Views"));
+const { ArcHistory } = await dc.require(dc.headerLink("00 DM Screen/Code/Arc and Session Views.md", "Code"));
 return ArcHistory;
 ```
 
 ### Paused and Abandoned Arcs
 
 ```datacorejsx
-const { RelatedArcs } = await dc.require(dc.headerLink("00 DM Screen/Arc Views.md", "Views"));
+const { RelatedArcs } = await dc.require(dc.headerLink("00 DM Screen/Code/Arc and Session Views.md", "Code"));
 return RelatedArcs;
 ```
 

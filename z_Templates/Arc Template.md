@@ -1,9 +1,48 @@
+<%*
+// Settings from Hub Config (same names and defaults as the hub code in 00 DM Screen/Code).
+const HUB_CONFIG = (() => {
+  const f = app.vault.getAbstractFileByPath("00 DM Screen/Code/Hub Config.md");
+  return (f && app.metadataCache.getFileCache(f)?.frontmatter) ?? {};
+})();
+const C = (key, fallback) => {
+  const v = HUB_CONFIG[key];
+  if (v === undefined || v === null || v === "") return fallback;
+  return key.startsWith("tag") || key === "campaign_tag_prefix" ? String(v).replace(/^#/, "").toLowerCase() : v;
+};
+const tagsOf = (fm) => [].concat(fm?.tags ?? []).map((t) => String(t).replace(/^#/, ""));
+const notes = app.vault
+  .getMarkdownFiles()
+  .filter((f) => !f.path.split("/").some((p) => p.startsWith(C("excluded_folder_prefix", "z_"))))
+  .map((f) => ({ f, fm: app.metadataCache.getFileCache(f)?.frontmatter ?? {} }));
+// Campaigns: campaign notes (tag campaign-hub), each with one campaign/… tag; the active one is listed first.
+const campaignTagsOf = (fm) => tagsOf(fm).filter((t) => t.startsWith(C("campaign_tag_prefix", "campaign/")));
+const campaigns = notes
+  .filter((n) => tagsOf(n.fm).includes(C("tag_campaign_note", "campaign-hub")) && campaignTagsOf(n.fm).length)
+  .sort(
+    (a, b) =>
+      (String(b.fm.status).toLowerCase() === "active") - (String(a.fm.status).toLowerCase() === "active") ||
+      a.f.basename.localeCompare(b.f.basename)
+  );
+const campaign =
+  campaigns.length > 1
+    ? await tp.system.suggester(
+        campaigns.map((c) => c.f.basename + (c.fm.status ? `  (${c.fm.status})` : "")),
+        campaigns,
+        false,
+        "Campaign"
+      )
+    : campaigns[0];
+const campaignTag = campaign ? campaignTagsOf(campaign.fm)[0] : null;
+if (campaign && campaignTagsOf(campaign.fm).length > 1)
+  new Notice(`${campaign.f.basename} has more than one campaign/… tag; using ${campaignTag}.`);
+if (!campaign) new Notice("No campaign note found (tag campaign-hub); the new note gets no campaign tag or calendar.");
+const campaignLine = campaignTag ? `\n  - ${campaignTag}` : "";
+-%>
 ---
 location:
 status: idea
 tags:
-  - arc
-  - campaign/eryndor
+  - <% C("tag_arc", "arc") %><% campaignLine %>
 threads: []
 tier: <% await tp.system.suggester(["Standard (several sessions)", "Filler (one session)"], ["standard", "filler"]) %>
 ---
@@ -65,14 +104,14 @@ For each: who is there, what they want, what the party can find, what changes if
 ### Play History
 
 ```datacorejsx
-const { ArcHistory } = await dc.require(dc.headerLink("00 DM Screen/Arc Views.md", "Views"));
+const { ArcHistory } = await dc.require(dc.headerLink("00 DM Screen/Code/Arc and Session Views.md", "Code"));
 return ArcHistory;
 ```
 
 ### Paused and Abandoned Arcs
 
 ```datacorejsx
-const { RelatedArcs } = await dc.require(dc.headerLink("00 DM Screen/Arc Views.md", "Views"));
+const { RelatedArcs } = await dc.require(dc.headerLink("00 DM Screen/Code/Arc and Session Views.md", "Code"));
 return RelatedArcs;
 ```
 

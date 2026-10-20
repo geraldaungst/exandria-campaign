@@ -8,16 +8,16 @@ tags: []
 [[Session Hub]] · [[Plot Dashboard]] · [[Eryndor Timeline]] · [[DM Hubs Design]]
 
 ```datacorejsx
-const { DMScreenTop } = await dc.require(dc.headerLink("00 DM Screen/Arc Views.md", "Views"));
+const { DMScreenTop } = await dc.require(dc.headerLink("00 DM Screen/Code/DM Screen Views.md", "Code"));
 return DMScreenTop;
 ```
 
 ## Active plot threads
 
 ```datacorejsx
-const { PlotDashboard } = await dc.require(dc.headerLink("00 DM Screen/Plot Dashboard.md", "Views"));
+const { PlotDashboard } = await dc.require(dc.headerLink("00 DM Screen/Code/Plot Dashboard Views.md", "Code"));
 return function ActivePlots() {
-  return <PlotDashboard only={["plot/active"]} showBar={false} />;
+  return <PlotDashboard only={["active"]} showBar={false} />;
 };
 ```
 
