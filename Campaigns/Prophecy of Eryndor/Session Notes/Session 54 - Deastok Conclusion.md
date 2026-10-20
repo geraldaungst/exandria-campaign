@@ -41,6 +41,8 @@ return SessionArc;
 
 <!-- [[Character Story Beats]]: whose goals or backstory can this session touch? -->
 
+[[Dreyara Drimvar|Dreyara]]
+
 ### 2. Strong start
 
 <!-- Where are they, what happens in the first two minutes, what grabs them? -->

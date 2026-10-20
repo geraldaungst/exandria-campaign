@@ -16,6 +16,20 @@ return SessionHubPrep;
 
 ## At the table
 
+### Where are we
+
+```datacorejsx
+const { WhereAreWe } = await dc.require(dc.headerLink("00 DM Screen/Code/Session Hub Table.md", "Code"));
+return WhereAreWe;
+```
+
+### Tonight's cast
+
+```datacorejsx
+const { TableCast } = await dc.require(dc.headerLink("00 DM Screen/Code/Session Hub Table.md", "Code"));
+return TableCast;
+```
+
 ### Quick capture
 
 ```datacorejsx

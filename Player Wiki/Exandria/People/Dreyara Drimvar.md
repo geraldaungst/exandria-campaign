@@ -1,13 +1,13 @@
 ---
-tags:
-  - npc
-  - player-facing
-  - world/exandria
 aliases:
   - Dreyara
 cssclasses:
   - world-exandria
 publish: true
+tags:
+  - npc
+  - player-facing
+  - world/exandria
 ---
 
 > [!info] Quick Reference

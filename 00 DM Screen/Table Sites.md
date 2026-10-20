@@ -40,3 +40,23 @@ Format: `- [Name](https://address) · what it's for`
 
 - [Tabletop Audio](https://tabletopaudio.com) · ambient tracks
 - [Syrinscape](https://syrinscape.com) · sound sets
+
+## Book rules (D&D Beyond, needs your login)
+
+Links go to the exact section. They open in Obsidian's web viewer or your browser.
+
+- 2024 DMG, Running the Game: [Improvising Damage](https://www.dndbeyond.com/sources/dnd/dmg-2024/running-the-game#ImprovisingDamage) · [Damage Severity and Level](https://www.dndbeyond.com/sources/dnd/dmg-2024/running-the-game#DamageSeverityandLevel)
+- 2024 DMG, Creating Adventures: [Monster Behavior](https://www.dndbeyond.com/sources/dnd/dmg-2024/creating-adventures#MonsterBehavior)
+- 2024 DMG, DM's Toolbox: [Chases](https://www.dndbeyond.com/sources/dnd/dmg-2024/dms-toolbox#Chases) · [Mobs](https://www.dndbeyond.com/sources/dnd/dmg-2024/dms-toolbox#Mobs)
+- 2024 DMG, Treasure: [Magic Item Values by Rarity](https://www.dndbeyond.com/sources/dnd/dmg-2024/treasure#MagicItemValuesbyRarity) · [Crafting Magic Items](https://www.dndbeyond.com/sources/dnd/dmg-2024/treasure#CraftingMagicItems) · [Trade Goods](https://www.dndbeyond.com/sources/dnd/dmg-2024/treasure#TradeGoods) · [Art Objects](https://www.dndbeyond.com/sources/dnd/dmg-2024/treasure#ArtObjects) · [Random Magic Items](https://www.dndbeyond.com/sources/dnd/dmg-2024/random-magic-items)
+- 2024 DMG, Bastions: [Bastion Turns](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#BastionTurns)
+- 2024 PHB, Equipment: [Lifestyle Expenses](https://www.dndbeyond.com/sources/dnd/phb-2024/equipment#LifestyleExpenses) · [Food, Drink, and Lodging](https://www.dndbeyond.com/sources/dnd/phb-2024/equipment#FoodDrinkandLodging)
+- Xanathar's Guide, Downtime: [Downtime Activities](https://www.dndbeyond.com/sources/dnd/xgte/downtime-revisited#DowntimeActivities) · [Buying a Magic Item](https://www.dndbeyond.com/sources/dnd/xgte/downtime-revisited#BuyingaMagicItem) · [Selling a Magic Item](https://www.dndbeyond.com/sources/dnd/xgte/downtime-revisited#SellingaMagicItem)
+
+## Free 2024 Basic Rules pages
+
+- [Playing the Game](https://www.dndbeyond.com/sources/dnd/br-2024/playing-the-game) · DC table, actions, social interaction
+- [Rules Glossary](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary) · [Influence](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#InfluenceAction) · [Attitude](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#Attitude) · objects, conditions, improvised weapons
+- [DM's Toolbox](https://www.dndbeyond.com/sources/dnd/br-2024/dms-toolbox) · encounter budget, traps, poison, fear, travel pace, environmental effects
+- [Magic Items](https://www.dndbeyond.com/sources/dnd/br-2024/magic-items) · rarity values
+- [Equipment](https://www.dndbeyond.com/sources/dnd/br-2024/equipment) · gear and weapon costs
