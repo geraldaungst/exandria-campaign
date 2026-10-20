@@ -121,9 +121,14 @@ function PausedArc({ arc, sharedThreads }) {
   );
 }
 
-/** Every paused or abandoned arc; ones sharing a plot thread with the current arc come first. */
-function RelatedArcs() {
-  const self = dc.useCurrentFile();
+/**
+ * Every paused or abandoned arc; ones sharing a plot thread with the arc come first.
+ * The arc is the current note, or `arcPath` when given (as on the hub).
+ */
+function RelatedArcs({ arcPath } = {}) {
+  const current = dc.useCurrentFile();
+  const given = dc.useFile(arcPath ?? "");
+  const self = arcPath ? given : current;
   const arcs = dc.useQuery("@page and #arc");
   const myThreads = asList(self?.value("threads")).map(linkPath).filter(Boolean);
   const rows = arcs
@@ -264,23 +269,64 @@ function inGameNow(session, months = []) {
   return { date, day, text: time ? `${day}, ${time}` : day, time, session };
 }
 
-/** Month names for a Calendarium calendar, read once from Calendarium's settings file. */
-function useCalendarMonths(calendarName = "Exandrian Calendar") {
-  const [months, setMonths] = dc.useState([]);
+/** Month names and category colors for a Calendarium calendar, read from Calendarium's settings file. */
+function useCalendar(calendarName = "Exandrian Calendar") {
+  const [cal, setCal] = dc.useState({ months: [], colors: {} });
   dc.useEffect(() => {
     let live = true;
     (async () => {
       try {
         const raw = await app.vault.adapter.read(`${app.vault.configDir}/plugins/calendarium/data.json`);
-        const cal = JSON.parse(raw).calendars.find((c) => c.name === calendarName);
-        if (live) setMonths((cal?.static?.months ?? []).map((m) => m.name));
+        const c = JSON.parse(raw).calendars.find((x) => x.name === calendarName);
+        const colors = Object.fromEntries((c?.categories ?? []).map((k) => [k.name, k.color]));
+        if (live) setCal({ months: (c?.static?.months ?? []).map((m) => m.name), colors });
       } catch (e) {}
     })();
     return () => {
       live = false;
     };
   }, [calendarName]);
-  return months;
+  return cal;
+}
+const useCalendarMonths = (calendarName) => useCalendar(calendarName).months;
+
+const TIMELINE_PATH = "Campaigns/Prophecy of Eryndor/Eryndor Timeline.md";
+/** "835-04-27" → [835, 4, 27] for comparing in-world dates. */
+const dateKey = (s) => String(s ?? "").split("-").map(Number);
+const compareDates = (a, b) => {
+  const x = dateKey(a);
+  const y = dateKey(b);
+  return x[0] - y[0] || x[1] - y[1] || x[2] - y[2];
+};
+
+/** Inline events in the campaign timeline note, oldest first; re-read whenever the note changes. */
+function useTimeline(path = TIMELINE_PATH) {
+  const page = dc.useFile(path);
+  const stamp = page?.$mtime?.toMillis ? page.$mtime.toMillis() : String(page?.$mtime ?? "");
+  const [events, setEvents] = dc.useState([]);
+  dc.useEffect(() => {
+    let live = true;
+    (async () => {
+      const file = app.vault.getAbstractFileByPath(path);
+      if (!file) return live && setEvents([]);
+      const text = await app.vault.cachedRead(file);
+      const attr = (tag, name) => (tag.match(new RegExp(`data-${name}="([^"]*)"`)) ?? [])[1] ?? null;
+      const found = [...text.matchAll(/<span\b([^>]*)>([\s\S]*?)<\/span>/g)]
+        .map(([, tag, body]) => ({
+          date: attr(tag, "date"),
+          category: attr(tag, "category"),
+          name: attr(tag, "name"),
+          text: body.trim(),
+        }))
+        .filter((e) => e.date && /^\d+-\d+-\d+$/.test(e.date))
+        .sort((a, b) => compareDates(a.date, b.date));
+      if (live) setEvents(found);
+    })();
+    return () => {
+      live = false;
+    };
+  }, [path, stamp]);
+  return events;
 }
 
 /** "835-04-19" → "19 Thunsheer 835" when month names are known; otherwise as stored. */
@@ -326,6 +372,120 @@ const NOTE_TYPES = [...new Set([...TYPE_RULES.map(([name]) => name), "Other"])];
 function noteType(p) {
   const rule = TYPE_RULES.find(([, test]) => test(p));
   return rule ? rule[0] : "Other";
+}
+
+// ── DM Screen top screen ─────────────────────────────────────────
+
+const daysBetween = (a, b) => Math.round((Date.parse(`${b}T00:00:00`) - Date.parse(`${a}T00:00:00`)) / 86400000);
+
+const HUB_CSS = `
+.dm-top a.internal-link { text-decoration: none; }
+.dm-top a.internal-link:hover { text-decoration: underline; }
+`;
+const H = {
+  strip: { display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(220px, 1fr))", gap: "10px", margin: "4px 0 16px" },
+  card: {
+    border: "1px solid var(--background-modifier-border)",
+    borderRadius: "8px",
+    padding: "8px 12px",
+    background: "var(--background-secondary)",
+  },
+  label: {
+    fontSize: "var(--font-ui-smaller)",
+    textTransform: "uppercase",
+    letterSpacing: "0.05em",
+    color: "var(--text-muted)",
+    marginBottom: "2px",
+  },
+  big: { fontSize: "1.1em", fontWeight: 600, margin: "2px 0" },
+  cols: { display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(340px, 1fr))", gap: "18px", alignItems: "start" },
+  heading: { fontSize: "1.15em", fontWeight: 600, margin: "4px 0 6px" },
+  warn: { color: "var(--color-orange)", fontSize: "var(--font-ui-smaller)" },
+};
+const dot = (color) => ({
+  display: "inline-block",
+  width: "8px",
+  height: "8px",
+  borderRadius: "50%",
+  background: color ?? "var(--text-faint)",
+  marginRight: "6px",
+});
+
+/** Timeline events after today in-world, soonest first. */
+function UpcomingEvents({ now, cal, limit = 4 }) {
+  const events = useTimeline();
+  if (!now) return <div style={S.muted}>No in-world date yet.</div>;
+  const upcoming = events.filter((e) => compareDates(e.date, now.date) > 0).slice(0, limit);
+  if (!upcoming.length) return <div style={S.muted}>Nothing logged after {now.day}.</div>;
+  return (
+    <div>
+      {upcoming.map((e) => (
+        <div key={e.date + e.name} style={S.row} title={e.text}>
+          <span style={dot(cal.colors[e.category])} />
+          <strong>{inWorldText(e.date, cal.months).replace(/ \d+$/, "")}</strong> {e.name}
+        </div>
+      ))}
+    </div>
+  );
+}
+
+/** Top of the DM Screen: session status, in-world date, running arc, coming events, left-off, clues. */
+function DMScreenTop() {
+  const { lastPlayed, next, isTonight } = useSessionState();
+  const { arc, others } = useRunningArc();
+  const cal = useCalendar();
+  const now = inGameNow(lastPlayed, cal.months);
+  const nextDay = next ? dayOf(next.value("date")) : null;
+  const until = nextDay ? daysBetween(todayDay(), nextDay) : null;
+  return (
+    <div class="dm-top">
+      <style>{HUB_CSS}</style>
+      <div style={H.strip}>
+        <div style={H.card}>
+          <div style={H.label}>Last played</div>
+          <div style={H.big}>{lastPlayed ? <dc.Link link={lastPlayed.$link} /> : "None yet"}</div>
+          <div style={S.muted}>{lastPlayed ? dayOf(lastPlayed.value("date")) : ""}</div>
+        </div>
+        <div style={H.card}>
+          <div style={H.label}>Next session</div>
+          <div style={H.big}>{next ? <dc.Link link={next.$link} /> : "None scheduled"}</div>
+          <div style={S.muted}>
+            {next ? `${nextDay} · ${isTonight ? "tonight" : until === 1 ? "tomorrow" : `in ${until} days`}` : "Create it from the Session Template"}
+          </div>
+        </div>
+        <div style={H.card}>
+          <div style={H.label}>Today in-world</div>
+          <div style={H.big}>{now ? now.day : "No date yet"}</div>
+          <div style={S.muted}>{now ? `${now.time ?? ""}${now.time ? " · " : ""}end of ${shortName(now.session)}` : "Run Close Session after the game"}</div>
+        </div>
+        <div style={H.card}>
+          <div style={H.label}>Running arc</div>
+          <div style={H.big}>{arc ? <dc.Link link={arc.$link} /> : "None running"}</div>
+          {others.length ? <div style={H.warn}>Also marked running: {others.map(shortName).join(", ")}</div> : null}
+        </div>
+        <div style={H.card}>
+          <div style={H.label}>Coming up in-world</div>
+          <UpcomingEvents now={now} cal={cal} />
+        </div>
+      </div>
+      <div style={H.cols}>
+        <div>
+          <div style={H.heading}>Where we left off</div>
+          {lastPlayed ? (
+            <dc.LinkEmbed link={dc.headerLink(lastPlayed.$path, LEFT_OFF)} />
+          ) : (
+            <div style={S.muted}>No session played yet.</div>
+          )}
+        </div>
+        <div>
+          <div style={H.heading}>Open clues</div>
+          {arc ? <ArcClues arcPath={arc.$path} /> : <div style={S.muted}>No running arc.</div>}
+          <div style={{ ...H.heading, marginTop: "14px" }}>Paused and abandoned arcs</div>
+          <RelatedArcs arcPath={arc?.$path} />
+        </div>
+      </div>
+    </div>
+  );
 }
 
 /** Test view for the shared logic, shown on Hub Logic Check. */
@@ -406,8 +566,12 @@ return {
   useSessionState,
   useRunningArc,
   inGameNow,
+  useCalendar,
   useCalendarMonths,
+  useTimeline,
+  compareDates,
   inWorldText,
+  DMScreenTop,
   noteType,
   NOTE_TYPES,
   hasTag,

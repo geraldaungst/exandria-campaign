@@ -1,52 +1,30 @@
 ---
-cssclasses: wide
+cssclasses:
+  - wide-page
 hide_from_related: true
 tags: []
 ---
 
-> [!info] Active Plot Threads
-> Click here for entire [[Plot Dashboard]]
-> ```dataview
+[[Session Hub]] · [[Plot Dashboard]] · [[Eryndor Timeline]] · [[DM Hubs Design]]
 
-TABLE WITHOUT ID
+```datacorejsx
+const { DMScreenTop } = await dc.require(dc.headerLink("00 DM Screen/Arc Views.md", "Views"));
+return DMScreenTop;
+```
 
-file.link as "Plot",
+## Active plot threads
 
-filter(file.outlinks, (l) => contains(l.file.tags, "npc")) as "Connected NPCs",
+```datacorejsx
+const { PlotDashboard } = await dc.require(dc.headerLink("00 DM Screen/Plot Dashboard.md", "Views"));
+return function ActivePlots() {
+  return <PlotDashboard only={["plot/active"]} showBar={false} />;
+};
+```
 
-filter(file.outlinks, (l) => contains(l.file.tags, "artifact")) as "Connected Items",
+## Recent work
 
-dateformat(file.mtime, "MM/dd/yyyy") as "Last Updated"
+![[Recent Work.base]]
 
-FROM plot
+## Table tools
 
-WHERE plot_stage = "active"
-
-SORT file.mtime DESC
-
-> ```
-
-> [!warning] Urgent Campaign Elements
->
-> ```dataview
-> LIST FROM #urgent
-> ```
-
-> [!note] Recent NPCs
->
->```dataview
-> TABLE location, lastSeen
-> FROM #npc
-> SORT lastSeen desc
-> LIMIT 5
-
-> [!attention] Needs Review
->
-> ```dataview
-> LIST FROM #to-process 
-> LIMIT 10
-> ```
-
-- [ ] [[Fast NPC + Picture]]
-- [ ] [[Random Tavern]]
-- [ ] [[Sources of Maps]]
+Until the [[Session Hub]] is built: [[Quick NPCs]] · [[NPC Stat Block Reference Table]] · [[Table Rulings]] · [[Party Combat Profile]] · [[Random Tavern]] · [[Fast NPC + Picture]] · [[Sources of Maps]]

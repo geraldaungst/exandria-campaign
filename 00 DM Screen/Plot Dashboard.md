@@ -6,6 +6,15 @@ cssclasses:
 ## Plot Manager
 
 ```datacorejsx
+const { PlotDashboard } = await dc.require(dc.headerLink("00 DM Screen/Plot Dashboard.md", "Views"));
+return PlotDashboard;
+```
+
+## Views
+
+Shared code for this page and the [[00 DM Screen]], which shows only the Active stage (`only` and `showBar` props). The block is plain `jsx`, so it does not render here; edit it and both pages update.
+
+```jsx
 // Plot Dashboard (Datacore 0.1.29)
 // One card per plot thread, grouped by stage. Every note connected to a plot
 // (linked from it, or linking to it) is listed on that plot's card, so a note
@@ -227,7 +236,7 @@ function PlotCard({ plot, query }) {
   );
 }
 
-return function PlotDashboard() {
+function PlotDashboard({ only = null, showBar = true } = {}) {
   const all = dc.useQuery("@page");
   const [rawQuery, setQuery] = dc.useState("");
   const query = rawQuery.trim().toLowerCase();
@@ -289,6 +298,7 @@ return function PlotDashboard() {
   return (
     <div class="plot-dash">
       <style>{CSS}</style>
+      {showBar ? (
       <div style={S.bar}>
         <input
           type="search"
@@ -304,14 +314,15 @@ return function PlotDashboard() {
           {staleActive} active {staleActive === 1 ? "plot" : "plots"} untouched {STALE_DAYS}+ days
         </span>
       </div>
+      ) : null}
 
-      {STAGES.map((s) => {
+      {STAGES.filter((s) => !only || only.includes(s.tag)).map((s) => {
         const list = plots
           .filter((p) => p.stage === s && matches(p))
           .sort((a, b) => b.age - a.age || shortName(a.page).localeCompare(shortName(b.page)));
         if (list.length === 0) return null;
         return (
-          <details key={s.label} open={s.open || query ? true : undefined}>
+          <details key={s.label} open={s.open || query || only ? true : undefined}>
             <summary style={S.stageSummary}>
               {s.label} ({list.length})
             </summary>
@@ -325,5 +336,7 @@ return function PlotDashboard() {
       })}
     </div>
   );
-};
+}
+
+return { PlotDashboard };
 ```

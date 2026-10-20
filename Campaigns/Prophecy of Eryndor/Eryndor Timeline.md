@@ -4,7 +4,7 @@ tags:
   - inline-events
 ---
 
-In-world events of the Prophecy of Eryndor campaign, oldest first. Each line is an inline event that Calendarium shows on the Exandrian Calendar. Add new events with the [[Close Session]] template (after the game) or quick capture (during play); to add one by hand, copy a line and change the date (`year-month-day`, month as a number from 1), `data-category` (an exact Calendarium category name), `data-name`, and the text. Links stay outside the `<span>`.
+In-world events of the Prophecy of Eryndor campaign, oldest first. Each line is an inline event that Calendarium shows on the Exandrian Calendar. Add new events with the [[Close Session]] template (after the game) or quick capture (during play); to add one by hand, copy a line and change the date (`year-month-day`, month as a number from 1), `data-category` (an exact Calendarium category name), `data-name`, and the text. Links go after the event's closing tag, never inside it.
 
 Earlier events (before 19 Thunsheer 835) are in Calendarium itself.
 
@@ -22,5 +22,11 @@ Earlier events (before 19 Thunsheer 835) are in Calendarium itself.
 - **26 Thunsheer** · <span data-date="835-04-26" data-category="Party Encounters" data-name="Road to Deastok">Road to Deastok: a long day of travel; camp past midnight in sight of the watchtower fire.</span> · [[Session 49 - The Wheel, the Comb, and the Watchtower|Session 49]]
 - **27 Thunsheer** · <span data-date="835-04-27" data-category="Party Encounters" data-name="Arrival in Deastok">Arrival in Deastok: morning entry under travel papers; Torvald at the White Peak Inn; shared dreams of an old forest.</span> · [[Deastok]], [[Session 49 - The Wheel, the Comb, and the Watchtower|Session 49]], [[Session 50 - The Doctor, the Fruit, and the Dig Site|Session 50]]
 - **27 Thunsheer** · <span data-date="835-04-27" data-category="Party Encounters" data-name="The Truscan dig site">The Truscan dig site: in the afternoon, rock creatures and the five-walled hole; the black shard identified as a Lorestone fragment.</span> · [[Lorestone of Eryndor - DM Notes|Lorestone of Eryndor]], [[Session 51 - Between a Rock and an Old Place|Session 51]], [[Session 52 - A Very Vexing Hole and a Black Shard|Session 52]]
+- **27 Thunsheer** · <span data-date="835-04-27" data-category="Rift Activity" data-name="Planar disturbance at the Truscan dig site">Planar disturbance at the Truscan dig site: the shard warms at the pre-Calamity site; workers near it share dreams of an old forest.</span> · [[Session 51 - Between a Rock and an Old Place|Session 51]]
 - **27 Thunsheer** · <span data-date="835-04-27" data-category="Party Encounters" data-name="Report to the Truscans">Report to the Truscans: in the evening, the find reported as beneficial; 50 pp in thanks; long rest.</span> · [[Session 53]]
 - **28 Thunsheer** · <span data-date="835-04-28" data-category="Deadlines" data-name="Aldous Penwrye decides on the site">Aldous Penwrye decides on the site: in the morning, the Truscans settle what to do about the dig site.</span> · [[Session 53]]
+- **30 Thunsheer** · <span data-date="835-04-30" data-category="Deadlines" data-name="Shaded Bough stay ends">Shaded Bough stay ends: the three nights booked under Imra Shyr run out; checkout in the morning.</span> · [[Session 50 - The Doctor, the Fruit, and the Dig Site|Session 50]]
+
+## Unndilar 835
+
+- **4 Unndilar** · <span data-date="835-05-04" data-category="Deadlines" data-name="Dreyara overdue in Zadash">Dreyara overdue in Zadash: her planned arrival date; she was to meet her contact there, the Gentleman.</span> · [[Dreyara Drimvar - DM Notes|Dreyara Drimvar]], [[Korfel Withrethin|the Gentleman]]
