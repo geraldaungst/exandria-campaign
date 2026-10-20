@@ -53,11 +53,11 @@ Dunamantic magic, particularly as channeled through Luxon Beacons, provides temp
 
 **Age of Arcanum Research:** Ancient mages understood these principles intuitively, though they lacked modern terminology. Aeoran researchers called it "temporal anchoring" and developed early stabilization techniques. Their T-Dock project demonstrated both the potential and dangers of temporal manipulation.
 
-**The Molaesmyr Catastrophe (585 PD):** The elven attempt to stabilize the Fey Crossing rupture without temporal stabilization created a textbook example of temporal cascade failure:
+**The Molaesmyr Catastrophe (585 PD):** Ilixidor Alo's use of a Lorestone shard to hold the Fey Crossing open, without temporal stabilization, created a textbook example of temporal cascade failure:
 
 1. **Initial Instability:** Lorestone shard channeled massive planar energy without anchoring
 2. **Temporal Pressure Buildup:** Local time began flowing at conflicting rates
-3. **Cascade Failure:** Temporal distortions amplified the original magical rupture
+3. **Cascade Failure:** When the fomorians' curse struck the crossing in 585 PD, the temporal distortions tore it open
 4. **Reality Breakdown:** Conflicting timeflows created permanent magical corruption
 5. **Regional Spread:** Unstabilized temporal energy continued expanding outward for centuries
 

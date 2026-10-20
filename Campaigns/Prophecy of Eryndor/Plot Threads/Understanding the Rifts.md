@@ -46,7 +46,7 @@ Rifts keep opening across Wildemount. Every faction has a theory about what they
 
 ## Next Move
 
-- Hesterian's attunement gives her Planar Awareness (see [[Table Rulings#Planar Detection Range]] for what it actually conveys). The first rift she senses is the party's first real measurement.
+- Hesterian's attunement gives her Planar Awareness: direction, plane, and approximate size and stability for any rift within 1,000 feet, at shorter range for weaker rifts (see [[Table Rulings#Planar Detection Range]]). The first rift she senses is the party's first real measurement.
 - Zadash, their next destination, is on Emer's map.
 - Routes already in play that could lead toward Molaesmyr (no single one has to work): Kelmen's "Molaesmyr echo," Seraphina's Savalirwood dreams, the Cord's "warning ripple," the Savalirwood signature in Emer's notes (also found at her transformation site in the Marrow Valley), and her smeared letter ("I've seen what happened to Molaesmyr").
 

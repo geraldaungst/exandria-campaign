@@ -10,7 +10,7 @@ tags:
 
 ## Core Information
 
-*Research suggests that during the [[Rupture of the Molaesmyr Fey Crossing|Molaesmyr catastrophe]] in 585 PD, elven scholars attempted to use a Lorestone shard to stabilize the ruptured Fey Crossing. Without knowledge of the proper stabilization requirements, their attempt created massive temporal chaos that amplified the disaster, turning a localized magical rupture into the widespread corruption that consumed the entire city and created the cursed Savalirwood.*
+*Almost 300 years ago, [[Ilixidor Alo]] used a Lorestone shard, with no Luxon Beacon, to hold the Fey Crossing beneath Molaesmyr open permanently. In 585 PD, when fomorians from Mag Tureah tried to cross, their curse reacted with the unstabilized shard and ruptured the Crossing: the Cataclysm that destroyed the city and created the cursed Savalirwood. This rupture is the origin of every rift (see [[Understanding the Rifts]]). What became of the shard is open.*
 
 ## Source Context
 

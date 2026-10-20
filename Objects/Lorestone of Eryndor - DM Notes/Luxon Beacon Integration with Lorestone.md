@@ -43,7 +43,7 @@ When a Luxon Beacon is within 100 feet of a Lorestone shard:
 
 #### Historical Precedents
 
-**[[Rupture of the Molaesmyr Fey Crossing|The Molaesmyr Disaster]] (585 PD):** Elven scholars attempted to use a Lorestone shard to stabilize the ruptured Fey Crossing without understanding the need for temporal stabilization. The resulting temporal chaos amplified the disaster from a localized rupture to city-wide destruction and regional corruption.
+**[[Rupture of the Molaesmyr Fey Crossing|The Molaesmyr Disaster]] (585 PD):** [[Ilixidor Alo]] used a Lorestone shard to hold the Fey Crossing open without understanding the need for temporal stabilization. When the fomorians' curse struck the unstabilized crossing, it ruptured, turning a research site into city-wide destruction and regional corruption.
 
 **Aeorian Research:** Ancient mages of Aeor discovered similar principles when experimenting with their "Relic" (likely a Luxon Beacon). Their research into "temporal transmutation" and "anchoring echoes" suggests they understood the stabilization requirements, though their work was lost in the city's destruction.
 

@@ -60,14 +60,10 @@ with proximity within that range.
 | --- | --- |
 | Active, open rift | Full listed radius |
 | Recently closed or collapsed rift | A few hundred feet |
-| Dormant thinning (e.g. [[Deastok]]) | Tens of feet |
+| Dormant thinning (e.g. [[Deastok]]) | Not detected; it isn't a rift |
 | Fainter than that | No detection |
 
-Detection conveys **presence and intensity, not direction.** The bearer knows
-
-something is here and whether it is stronger or weaker than a moment ago—
-
-locating a source requires moving around and comparing.
+Within range, detection conveys what the shard's item block describes: direction, which plane the rift connects to (if any), and its approximate size and stability. Intensity rises as the bearer closes in.
 
 **Why this matters:** Keeps shards from functioning as universal planar
 
