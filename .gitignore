@@ -9,6 +9,7 @@
 
 # Exclude non-campaign content
 z_*/
+!z_Templates/
 Templates/
 DM Screen/
 
