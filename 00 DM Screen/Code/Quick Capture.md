@@ -13,7 +13,7 @@ hide_from_related: true
 Conventions this module relies on:
 
 - **Stubs** are built from the body of your own templates ([[NPC Template]], [[Location Template]], [[Faction Template]], [[Artifact-Item Template]]; names in [[Hub Config]] as `template_…`). The templates ask questions and move the file, so the module reads each template's text, drops its Templater header and frontmatter, and keeps the headings. If a template can't be found or read, the stub gets a "rebuild with the … template" note instead.
-- **Frontmatter** on every stub: the kind's tag, `needs-work`, `improvised`, the campaign's tag, `first_session` (a link to the current session), and `created`. NPC stubs also get `aliases`, `disposition: indifferent`, `current_location`, and `affiliations`; faction stubs get `aliases`. Remove `needs-work` when the note is developed.
+- **Frontmatter** on every stub: the kind's tag, `needs-work`, `improvised`, the campaign's tag, `first_session` (a link to the current session), and `created`. NPC stubs also get `aliases` and `disposition: indifferent`; faction stubs get `aliases`. Place and faction are tags (`place/…`, `faction/…`), added when the note is developed. Remove `needs-work` when the note is developed.
 - **Where stubs go:** NPCs to `folder_npcs`; factions to `folder_factions/<World>` (the world's name from the campaign note's `world` property); items to `folder_objects`; locations and shops to a `Stubs` folder inside the campaign's folder (`folder_stubs`; it sits there, not under Worlds, because the NPC, faction, item, and location templates read every folder directly under Worlds as a world).
 - **World tag:** the campaign note's `world` property (for example `Exandria`) becomes `world/exandria` on the stub. Without it the stub has no world tag and says so.
 - **Current session:** the session dated today (the next session on game night); with none dated today, the next session; with none at all, the last one played. The form shows which.
@@ -60,7 +60,7 @@ const dirOf = (p) => p.split("/").slice(0, -1).join("/");
 function kinds() {
   const c = cfg();
   return {
-    npc: { label: "NPC", template: c.template_npc, tags: [c.tag_npc], extra: ["aliases: []", "disposition: indifferent", "current_location:", "affiliations: []"] },
+    npc: { label: "NPC", template: c.template_npc, tags: [c.tag_npc], extra: ["aliases: []", "disposition: indifferent"] },
     location: { label: "Location", template: c.template_location, tags: [c.tag_location], extra: [], inStubs: true },
     shop: { label: "Shop", template: c.template_location, tags: [c.tag_location, "shop"], extra: [], inStubs: true },
     faction: { label: "Faction", template: c.template_faction, tags: [c.tag_faction], extra: ["aliases: []"], byWorld: true },
