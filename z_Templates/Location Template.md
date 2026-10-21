@@ -78,22 +78,32 @@ const worldRegionEntries = (worldsRoot) => {
 };
 // Keep only the deepest tag when a note would get both a parent and its child.
 const dropParents = (tags) => [...new Set(tags)].filter((t) => !tags.some((o) => o.startsWith(t + "/")));
-// A note created without a name has no title to build a tag from.
-const ensureTitle = async (label) => {
+// Name of the note being created. A note still called "Untitled…" gets a prompt; a blank answer returns null (cancel).
+const askTitle = async (label) => {
   if (!/^Untitled/i.test(tp.file.title)) return tp.file.title;
-  const name = await tp.system.prompt(`${label} name`, "");
-  if (name && name.trim()) { await tp.file.rename(name.trim()); return name.trim(); }
-  return tp.file.title;
+  const name = await tp.system.prompt(`${label} name (leave blank to cancel)`, "");
+  const clean = String(name ?? "").replace(/[\\/:*?"<>|#^\[\]]+/g, "-").trim();
+  return clean || null;
+};
+// Cancelling: the template just returns. Templater deletes the half-made note itself when a template returns nothing
+// (deleting it here too made the second delete fail with ENOENT).
+const discard = async () => {};
+// Moves the new note to folder/title. Skips the move when it is already there; adds a number if the name is taken.
+const safeMove = async (folder, title) => {
+  const want = `${folder}/${title}.md`;
+  if (want === tp.file.path(true)) return;
+  let path = want, n = 2;
+  while (app.vault.getAbstractFileByPath(path)) path = `${folder}/${title} ${n++}.md`;
+  if (path !== want) new Notice(`"${title}" already exists in that folder, so this note is named "${title} ${n - 1}".`);
+  await tp.file.move(path.replace(/\.md$/, ""));
 };
 
 const ADD_FOLDER = "＋ Add new folder...";
 const ABORT = "✕ Cancel (don't create file)";
-async function abort() {
-  const f = app.vault.getAbstractFileByPath(tp.file.path(true));
-  if (f) await app.vault.delete(f, true);
-}
+async function abort() { await discard(); }
 
-const title = await ensureTitle("Location");
+const title = await askTitle("Location");
+if (!title) { await abort(); return; }
 
 // Folders under the worlds folder, below the world level
 const worldsRoot = app.vault.getAbstractFileByPath(C("folder_worlds", "Worlds"));
@@ -141,37 +151,41 @@ const parts = targetVaultPath.split("/");
 const worldTag = `world/${slug(parts[1])}`;
 const regionTag = parts.length >= 4 ? `region/${slug(parts[3])}` : null;
 
-// 3. Place tag. Folders below the region give a default; you can nest under an existing place or type one.
+// 3. Place tag: pick an existing place (applied as-is), skip it, or generate a new one
 const ownSlug = slug(title);
-const below = parts.slice(4).map(slug).filter(Boolean);
-if (below[below.length - 1] !== ownSlug) below.push(ownSlug);
-const folderTag = ownSlug ? ["place", ...below].join("/") : null;
-const FOLDER = `Folder-based: ${folderTag ? levels(folderTag, "place") : "(none)"}`;
-const NEST = "Nest under an existing place…";
-const TYPE = "Type a place tag…";
-const NONE = "No place tag";
-const mode = await tp.system.suggester(
-  [...(folderTag ? [FOLDER] : []), NEST, TYPE, NONE],
-  [...(folderTag ? ["folder"] : []), "nest", "type", "none"],
+const inWorld = liveNotes().filter(inWorldFilter(parts[1]));
+const existingPlaces = vocabulary("place", inWorld);
+const NONE = "— No place tag (adds needs-work)";
+const NEW = "＋ Generate new place tag…";
+const placeChoice = await tp.system.suggester(
+  [NONE, NEW, ...existingPlaces.map((t) => levels(t, "place"))],
+  [null, NEW, ...existingPlaces],
   false,
-  "How should this location be tagged by place?"
+  "Which place is this location? (place tag)"
 );
 let placeTag = null;
-if (mode === "folder") placeTag = folderTag;
-if (mode === "nest") {
-  const inWorld = liveNotes().filter(inWorldFilter(parts[1]));
-  const parent = await pickTag("place", "parent place", vocabulary("place", inWorld), "— cancel (no place tag)", false, "Which existing place is this location inside?");
-  placeTag = parent && ownSlug ? `${parent}/${ownSlug}` : null;
-}
-if (mode === "type") {
-  const typed = await tp.system.prompt("Place tag under place/ (use / for levels)", "");
-  placeTag = typed ? tagPath(typed, "place") : null;
-  if (typed && !placeTag) new Notice(`"${typed}" is not a usable tag, so it was skipped.`);
+if (placeChoice === NEW) {
+  const typed = await tp.system.prompt("New place name (use / for levels). Default is this note's name", ownSlug);
+  const own = typed ? tagPath(typed, "place") : null;
+  if (typed && !own) new Notice(`"${typed}" is not a usable tag, so it was skipped.`);
+  if (own) {
+    const name = own.slice("place/".length);
+    const where = await tp.system.suggester(
+      [`Top level: place/${name}`, ...existingPlaces.map((t) => `Inside ${levels(t, "place")}: ${levels(t, "place")} / ${name.split("/").join(" / ")}`)],
+      [null, ...existingPlaces],
+      false,
+      "Where does the new place tag go?"
+    );
+    placeTag = where ? `${where}/${name}` : own;
+    new Notice(`Added ${placeTag}`);
+  }
+} else if (placeChoice) {
+  placeTag = placeChoice;
 }
 
 const tags = [C("tag_location", "location"), worldTag, regionTag, placeTag, ...(placeTag ? [] : [C("tag_needs_work", "needs-work")])].filter(Boolean);
 const tagLines = tags.map((t) => `  - ${t}`).join("\n");
-await tp.file.move(`${targetVaultPath}/${title}`);
+await safeMove(targetVaultPath, title);
 _%>
 ---
 tags:

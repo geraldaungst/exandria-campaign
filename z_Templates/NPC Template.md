@@ -78,19 +78,32 @@ const worldRegionEntries = (worldsRoot) => {
 };
 // Keep only the deepest tag when a note would get both a parent and its child.
 const dropParents = (tags) => [...new Set(tags)].filter((t) => !tags.some((o) => o.startsWith(t + "/")));
-// A note created without a name has no title to build a tag from.
-const ensureTitle = async (label) => {
+// Name of the note being created. A note still called "Untitled…" gets a prompt; a blank answer returns null (cancel).
+const askTitle = async (label) => {
   if (!/^Untitled/i.test(tp.file.title)) return tp.file.title;
-  const name = await tp.system.prompt(`${label} name`, "");
-  if (name && name.trim()) { await tp.file.rename(name.trim()); return name.trim(); }
-  return tp.file.title;
+  const name = await tp.system.prompt(`${label} name (leave blank to cancel)`, "");
+  const clean = String(name ?? "").replace(/[\\/:*?"<>|#^\[\]]+/g, "-").trim();
+  return clean || null;
+};
+// Cancelling: the template just returns. Templater deletes the half-made note itself when a template returns nothing
+// (deleting it here too made the second delete fail with ENOENT).
+const discard = async () => {};
+// Moves the new note to folder/title. Skips the move when it is already there; adds a number if the name is taken.
+const safeMove = async (folder, title) => {
+  const want = `${folder}/${title}.md`;
+  if (want === tp.file.path(true)) return;
+  let path = want, n = 2;
+  while (app.vault.getAbstractFileByPath(path)) path = `${folder}/${title} ${n++}.md`;
+  if (path !== want) new Notice(`"${title}" already exists in that folder, so this note is named "${title} ${n - 1}".`);
+  await tp.file.move(path.replace(/\.md$/, ""));
 };
 
 const ABORT = "✕ Cancel (don't create file)";
-async function abort() {
-  const f = app.vault.getAbstractFileByPath(tp.file.path(true));
-  if (f) await app.vault.delete(f, true);
-}
+async function abort() { await discard(); }
+
+// 0. Name first
+const title = await askTitle("NPC");
+if (!title) { await abort(); return; }
 
 // 1. World and region, from the folders under the worlds folder
 const worldsRoot = app.vault.getAbstractFileByPath(C("folder_worlds", "Worlds"));
@@ -153,7 +166,7 @@ const tags = [
   ...(placeTag ? [] : [C("tag_needs_work", "needs-work")]),
 ].filter(Boolean);
 const tagLines = tags.map((t) => `  - ${t}`).join("\n");
-await tp.file.move(`${C("folder_npcs", "Characters/NPCs")}/${tp.file.title}`);
+await safeMove(C("folder_npcs", "Characters/NPCs"), title);
 _%>
 ---
 aliases: []
