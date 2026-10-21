@@ -14,9 +14,16 @@ world: Exandria
 
 ### Key notes
 
-- [[Campaign Overview]] · [[Eryndor Timeline]] · [[Character Story Beats]] · [[Party Notes]]
+- [[Eryndor Timeline]] · [[Character Story Beats]] · [[Party Notes]]
 - [[The Prophecy]] · [[Adaptable Modules]] · [[Seeds Planted]]
 - [[Plot Dashboard]] · [[00 DM Screen|DM Screen]]
+
+### NPCs
+
+```datacorejsx
+const { NpcBrowser } = await dc.require(dc.headerLink("00 DM Screen/Code/NPC Browser.md", "Code"));
+return NpcBrowser;
+```
 
 ### Arcs
 
