@@ -172,14 +172,16 @@ function Val({ v }) {
 
 function NpcDetail({ page }) {
   const disp = prop(page, "disposition");
-  const loc = prop(page, "current_location");
+  const placeTags = tagsOf(page).filter((t) => t.startsWith("place/"));
+  const deepest = placeTags.filter((t) => !placeTags.some((o) => o.startsWith(t + "/")));
+  const loc = deepest.map((t) => t.split("/").slice(1).join(" / ")).join(", ");
   if (!disp && !loc) return null;
   return (
     <span style={S.detail}>
       {" · "}
       {disp ? <span>{String(disp)}</span> : null}
       {disp && loc ? ", " : null}
-      {loc ? <Val v={loc} /> : null}
+      {loc ? <span>{loc}</span> : null}
     </span>
   );
 }

@@ -7,7 +7,7 @@ tags:
   - npc
   - region/taldorei
   - world/exandria
-  - needs-work
+  - place/whitestone
 ---
 
 ![[laugu-nalakekali.png|right|300]]

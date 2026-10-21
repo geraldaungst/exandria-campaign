@@ -16,8 +16,7 @@ Conventions this module relies on:
 - **What counts as cast.** A linked note tagged `npc`, `location`, `faction`, or `artifact` (names in [[Hub Config]]). Notes in the Player Wiki folder and in excluded folders are not listed. A link that lands on a Player Wiki note shows that note's DM twin instead, the note named `<name> - DM Notes` (or the same name outside the Player Wiki), so a DM note and its player-facing twin do not both appear. A Player Wiki note with no DM twin is left out. When an entry has a Player Wiki twin, a "player wiki" link beside it opens what the players have been told.
 - **Quick Reference.** Each entry opens to the `Quick Reference` section of its note, loaded when you open the entry. A note with no such heading says so.
 - **No note yet.** A link that matches no note gets a kind picker and a Create button. It builds the same stub as [[Quick Capture]] and links it to the session. The stub takes the link's name, so the original link starts working.
-
-- **Where are we.** The place is the link in the `Party location` bullet under `Where we left off` in the last played session (names in [[Hub Config]]). A link that lands on a Player Wiki note counts for its DM twin too. Under it: NPCs whose `current_location` property points there ("here now"), then every other NPC, faction, item, plot thread, and arc whose note links to the place (body or properties), with no counts. Arcs with `status: complete` and session notes are not listed.
+- **Where are we.** The place is the link in the `Party location` bullet under `Where we left off` in the last played session (names in [[Hub Config]]). A link that lands on a Player Wiki note counts for its DM twin too. Under it: NPCs tagged with the place's own `place/…` tag or a tag nested under it ("here now"; a place note with no place tag matches on its name), then every other NPC, faction, item, plot thread, and arc whose note links to the place (body or properties), with no counts. Arcs with `status: complete` and session notes are not listed.
 - **Locations here vs. mentioned.** A location is in the place when its note sits inside the folder of the place's note (the folder named for the place, holding a note of the same name, with or without " - DM Notes"; subfolders count; the Player Wiki twin's folder works too), or when it sets `located_in: "[[Place]]"`. Those are "Locations here" whether or not they link to the place. Locations that only link to it go in a collapsed "Mentioned, not located here" group. A Party location with no link shows its text and says to link the place.
 
 The block below is plain `jsx`, so it does not run on this page. Notes load it with `dc.require(dc.headerLink("00 DM Screen/Code/Session Hub Table.md", "Code"))`. After editing, reopen any note that uses it. Design: [[DM Hubs Design]].
@@ -25,7 +24,7 @@ The block below is plain `jsx`, so it does not run on this page. Notes load it w
 ## Code
 
 ```jsx
-const { cfg, linkPath, hasTag, isExcluded, statusOf, useNoteText, stripComments, S } = await dc.require(dc.headerLink("00 DM Screen/Code/Shared Helpers.md", "Code"));
+const { cfg, linkPath, hasTag, tagsOf, isExcluded, statusOf, useNoteText, stripComments, S } = await dc.require(dc.headerLink("00 DM Screen/Code/Shared Helpers.md", "Code"));
 
 const { useActiveCampaign, useSessionState } = await dc.require(dc.headerLink("00 DM Screen/Code/Campaign State.md", "Code"));
 
@@ -229,6 +228,10 @@ const HERE_ORDER = [
 ];
 
 const noteBase = (path) => path.split("/").pop().replace(/\.md$/, "");
+// Tag-safe form of a note name: the same rule the templates use to build place/… tags.
+const placeSlug = (name) =>
+  String(name).replace(/ - DM Notes$/i, "").trim().normalize("NFKD").replace(/[\u0300-\u036f]/g, "").toLowerCase()
+    .replace(/&/g, " and ").replace(/['’`]/g, "").replace(/[^a-z0-9_]+/g, "-").replace(/^-+|-+$/g, "");
 const placeKey = (name) => name.replace(/ - DM Notes$/i, "").trim().toLowerCase();
 
 /** The folder a place's note is the folder note of ("Rexxentrum/Rexxentrum - DM Notes.md"), or null. */
@@ -302,13 +305,25 @@ function WhereAreWe() {
 
   const groups = { here: [], npc: [], inside: [], mentioned: [], faction: [], item: [], plot: [], arc: [] };
   const seen = new Set();
+  // "Here now": NPCs tagged with the place's own place/… tag, or a tag nested under it. A place note with no place tag
+  // of its own matches on its name instead (any place/… tag with that name as one of its levels).
+  const ownPlaceTags = new Set();
+  const nameSlugs = [];
+  for (const e of places) {
+    const own = [...tagsOf(e.page), ...(e.wiki ? tagsOf(e.wiki) : [])].filter((t) => t.startsWith("place/"));
+    own.forEach((t) => ownPlaceTags.add(t));
+    if (!own.length) nameSlugs.push(placeSlug(e.page.$name));
+  }
+  const isHere = (p) =>
+    tagsOf(p).some((t) => {
+      if (!t.startsWith("place/")) return false;
+      if ([...ownPlaceTags].some((h) => t === h || t.startsWith(h + "/"))) return true;
+      return t.split("/").slice(1).some((seg) => nameSlugs.includes(seg));
+    });
   for (const p of pages.values()) {
-    if (targets.has(p.$path) || !hasTag(p, c.tag_npc)) continue;
-    const at = linkPath(p.value("current_location"));
-    if (at && targets.has(at)) {
-      groups.here.push(p);
-      seen.add(p.$path);
-    }
+    if (targets.has(p.$path) || !hasTag(p, c.tag_npc) || !isHere(p)) continue;
+    groups.here.push(p);
+    seen.add(p.$path);
   }
   // Folders that hold the place, on the DM side and the Player Wiki side.
   const folders = [];

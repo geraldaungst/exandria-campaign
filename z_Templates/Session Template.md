@@ -176,7 +176,6 @@ return SessionArc;
 - [ ] Fill in "Where we left off"
 - [ ] Tick revealed clues in the arc's Fact Map
 - [ ] Open each plot note in "Threads moved" and update it
-- [ ] Update `current_location` for any NPC who moved
 - [ ] If the arc ended or was set aside, change its `status`
 - [ ] Commit
 

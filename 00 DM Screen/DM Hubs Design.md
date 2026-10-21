@@ -130,7 +130,6 @@ Gaps:
 
 - Scan the entire vault for cruft and clutter no longer in active use (stale notes, orphaned attachments, unused templates and code notes, empty folders, retired plugin data), and list candidates for review before anything is removed
 - Retire the old folder-note queries in `00 DM Screen/00 DM Screen.md` (replaced by this build)
-- Session template "After the Game" asks you to update `current_location` by hand; no hub section uses that field, and "Where are we" uses links instead
 - Calendarium: 62 existing events, some linked to old `90 Session Notes/...` paths
 - Calendarium: Dreyara's Antagonist Plans after 21 Thunsheer (arrives Zadash 4 Unndilar, leaves 7 Unndilar, arrives Rexxentrum 24 Unndilar) never happened; she died 25 Thunsheer 835
 - Two links to the removed compendium: Thunderwave (Sessions 1 to 3 - The Skyship), monuments ([[Location Idea Generator]]); point them at D&D Beyond
