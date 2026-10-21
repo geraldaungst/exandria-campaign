@@ -60,3 +60,11 @@ Links go to the exact section. They open in Obsidian's web viewer or your browse
 - [DM's Toolbox](https://www.dndbeyond.com/sources/dnd/br-2024/dms-toolbox) · encounter budget, traps, poison, fear, travel pace, environmental effects
 - [Magic Items](https://www.dndbeyond.com/sources/dnd/br-2024/magic-items) · rarity values
 - [Equipment](https://www.dndbeyond.com/sources/dnd/br-2024/equipment) · gear and weapon costs
+
+## Treasure and traps
+
+Community generators. None has an API or embed option, so they open as links. The official 2024 tables are in the DMG Treasure links above.
+
+- [Tools and Taverns loot generator](https://toolsandtaverns.com/loot-generator) · hoards by party level or CR band, with seeded share links; says it is updated for 2024
+- [DnDCrunch loot generator](https://dndcrunch.com/tools/loot-generator) · individual treasure or hoards by CR band; doesn't say which DMG edition its tables use
+- [Sly Flourish trap generator](https://slyflourish.com/trap_generator.html) · mixes a trigger, trap type, and reset into a new trap; no edition or danger tier

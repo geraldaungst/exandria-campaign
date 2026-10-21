@@ -4,15 +4,15 @@ hide_from_related: true
 
 **Purpose:** The data side of the item search: downloads the 5e.tools item files, keeps them cached in the browser's own storage (nothing is written to the vault), turns them into searchable entries, and renders an entry's text. No interface here; [[Item Finder]] is the interface.
 
-**Exports:** `loadItems`, `searchItems`, `itemMarkdown`, `cleanTags`, `normalizeAll`, `describeCost`
+**Exports:** `loadItems`, `loadRaw`, `searchItems`, `findItem`, `itemMarkdown`, `ItemResult`, `cleanTags`, `renderEntries`, `is2024`, `normalizeAll`, `describeCost`, `sourceLabel`
 
 **Depends on:** [[Shared Helpers]]
 
-**Used by:** [[Item Finder]]
+**Used by:** [[Item Finder]] · [[Treasure Roll]] · [[Trap Roll]]
 
 Conventions this module relies on:
 
-- **Where the data comes from.** `data_url_5etools` in [[Hub Config]] is the folder address of a 5e.tools data mirror (default: the `5etools-mirror-3/5etools-src` repository on raw.githubusercontent.com). Three files are used: `items.json` (magic and many other items), `items-base.json` (weapons, armor, gear, tools), and `magicvariants.json` (generic items such as "+1 Weapon", shown as templates).
+- **Where the data comes from.** `data_url_5etools` in [[Hub Config]] is the folder address of a 5e.tools data mirror (default: the `5etools-mirror-3/5etools-src` repository on raw.githubusercontent.com). Three files are used for items: `items.json` (magic and many other items), `items-base.json` (weapons, armor, gear, tools), and `magicvariants.json` (generic items such as "+1 Weapon", shown as templates). `loadRaw` serves any other file in the same folder, such as `loot.json` for [[Treasure Roll]], through the same cache.
 - **Cache.** Each file is stored once in IndexedDB (database `hub-5etools`) the first time it is needed and read from there afterward, so the search works offline. Nothing refreshes by itself. The Refresh button in the finder downloads the files again.
 - **Editions.** Entries from the 2024 books (XPHB, XDMG, XMM, and EFA) win over the same-named entry from an older book; the older sources are listed as "also in".
 - **Costs.** 5e.tools stores values in copper pieces. Magic items without a stated value show the suggested value for their rarity from the 2024 DMG ([[Prices Card]]), halved for potions; check consumables and scrolls against the card.
@@ -23,7 +23,7 @@ The block below is plain `jsx`, so it does not run on this page. Notes load it w
 ## Code
 
 ```jsx
-const { cfg } = await dc.require(dc.headerLink("00 DM Screen/Code/Shared Helpers.md", "Code"));
+const { cfg, S } = await dc.require(dc.headerLink("00 DM Screen/Code/Shared Helpers.md", "Code"));
 
 const FILES = ["items.json", "items-base.json", "magicvariants.json"];
 
@@ -297,30 +297,42 @@ function normalizeAll({ items, base, variants }) {
 let memory = null;
 
 /**
+ * One data file as parsed JSON, from the cache or the network. Returns { data, time, fromCache } or { error }.
+ * force: download again even when cached.
+ */
+async function loadRaw(file, { force = false } = {}) {
+  const base = cfg().data_url_5etools.replace(/\/+$/, "");
+  try {
+    let cached = force ? null : await cacheGet(file);
+    let fromCache = true;
+    if (!cached) {
+      const res = await fetch(`${base}/${file}`);
+      if (!res.ok) throw new Error(`${file}: HTTP ${res.status}`);
+      cached = { time: Date.now(), data: await res.json() };
+      await cachePut(file, cached);
+      fromCache = false;
+    }
+    return { data: cached.data, time: cached.time, fromCache };
+  } catch (e) {
+    return { error: `Couldn't load ${file} from ${base}: ${e.message}` };
+  }
+}
+
+/**
  * Loads (and caches) the item data. Returns { entries, fetchedAt, fromCache } or { error }.
  * force: download again even when cached.
  */
 async function loadItems({ force = false } = {}) {
   if (memory && !force) return memory;
-  const base = cfg().data_url_5etools.replace(/\/+$/, "");
   const raw = {};
   let fetchedAt = Date.now();
   let fromCache = true;
-  try {
-    for (const file of FILES) {
-      let cached = force ? null : await cacheGet(file);
-      if (!cached) {
-        const res = await fetch(`${base}/${file}`);
-        if (!res.ok) throw new Error(`${file}: HTTP ${res.status}`);
-        cached = { time: Date.now(), data: await res.json() };
-        await cachePut(file, cached);
-        fromCache = false;
-      }
-      raw[file] = cached.data;
-      fetchedAt = Math.min(fetchedAt, cached.time);
-    }
-  } catch (e) {
-    return { error: `Couldn't load the item data from ${base}: ${e.message}` };
+  for (const file of FILES) {
+    const got = await loadRaw(file, { force });
+    if (got.error) return { error: got.error };
+    raw[file] = got.data;
+    fetchedAt = Math.min(fetchedAt, got.time);
+    if (!got.fromCache) fromCache = false;
   }
   memory = {
     entries: normalizeAll({ items: raw["items.json"]?.item, base: raw["items-base.json"]?.baseitem, variants: raw["magicvariants.json"]?.magicvariant }),
@@ -371,5 +383,33 @@ function itemMarkdown(e) {
   return cleanTags(lines.join("\n"));
 }
 
-return { loadItems, searchItems, itemMarkdown, cleanTags, normalizeAll, describeCost, sourceLabel };
+/** The entry with exactly this name (case-insensitive), or null. The 2024 version wins because duplicates were merged at load. */
+function findItem(entries, name) {
+  const lower = String(name ?? "").trim().toLowerCase();
+  return entries.find((e) => e.lower === lower) ?? null;
+}
+
+/** A search result row: name and summary line, opening to the item's text. */
+function ItemResult({ entry, sourcePath }) {
+  const [open, setOpen] = dc.useState(false);
+  const shownRarity = entry.rarity !== "none" && entry.rarity !== "unknown" ? entry.rarity : "";
+  return (
+    <details style={{ margin: "6px 0" }} onToggle={(e) => setOpen(e.currentTarget.open)}>
+      <summary>
+        <strong>{entry.name}</strong>
+        <span style={S.muted}>
+          {" · "}
+          {[entry.type, shownRarity, sourceLabel(entry.source)].filter(Boolean).join(" · ")}
+        </span>
+      </summary>
+      {open ? (
+        <div style={{ margin: "6px 0 12px 14px" }}>
+          <dc.Markdown content={itemMarkdown(entry)} sourcePath={sourcePath} />
+        </div>
+      ) : null}
+    </details>
+  );
+}
+
+return { loadItems, loadRaw, searchItems, findItem, itemMarkdown, ItemResult, cleanTags, renderEntries, is2024, normalizeAll, describeCost, sourceLabel };
 ```

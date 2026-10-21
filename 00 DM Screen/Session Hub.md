@@ -37,6 +37,13 @@ const { QuickCapture } = await dc.require(dc.headerLink("00 DM Screen/Code/Quick
 return QuickCapture;
 ```
 
+### Party
+
+```datacorejsx
+const { PartyCard } = await dc.require(dc.headerLink("00 DM Screen/Code/Party Card.md", "Code"));
+return PartyCard;
+```
+
 ### Improv references
 
 ```datacorejsx
@@ -51,6 +58,20 @@ return function ImprovReferences() {
 ```datacorejsx
 const { ItemFinder } = await dc.require(dc.headerLink("00 DM Screen/Code/Item Finder.md", "Code"));
 return ItemFinder;
+```
+
+### Treasure
+
+```datacorejsx
+const { TreasureRoll } = await dc.require(dc.headerLink("00 DM Screen/Code/Treasure Roll.md", "Code"));
+return TreasureRoll;
+```
+
+### Traps and hazards
+
+```datacorejsx
+const { TrapRoll } = await dc.require(dc.headerLink("00 DM Screen/Code/Trap Roll.md", "Code"));
+return TrapRoll;
 ```
 
 ### References

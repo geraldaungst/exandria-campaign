@@ -26,7 +26,7 @@ The block below is plain `jsx`, so it does not run on this page. Notes load it w
 ```jsx
 const { useNoteText, stripComments, escapeRe, S } = await dc.require(dc.headerLink("00 DM Screen/Code/Shared Helpers.md", "Code"));
 
-const { loadItems, searchItems, itemMarkdown, sourceLabel } = await dc.require(dc.headerLink("00 DM Screen/Code/Item Data.md", "Code"));
+const { loadItems, searchItems, ItemResult } = await dc.require(dc.headerLink("00 DM Screen/Code/Item Data.md", "Code"));
 
 const F = {
   grid: { display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(320px, 1fr))", gap: "24px", alignItems: "start", margin: "8px 0" },
@@ -41,33 +41,10 @@ const F = {
   input: { width: "100%", marginBottom: "12px" },
   row: { display: "flex", alignItems: "center", gap: "10px", margin: "6px 0" },
   filters: { display: "flex", flexWrap: "wrap", alignItems: "center", gap: "8px", margin: "0 0 12px" },
-  result: { margin: "6px 0" },
-  detail: { margin: "6px 0 12px 14px" },
   sites: { borderTop: "1px solid var(--background-modifier-border)", marginTop: "14px", paddingTop: "10px" },
 };
 
 const MAX_RESULTS = 25;
-
-function ItemResult({ entry, sourcePath }) {
-  const [open, setOpen] = dc.useState(false);
-  const shownRarity = entry.rarity !== "none" && entry.rarity !== "unknown" ? entry.rarity : "";
-  return (
-    <details style={F.result} onToggle={(e) => setOpen(e.currentTarget.open)}>
-      <summary>
-        <strong>{entry.name}</strong>
-        <span style={S.muted}>
-          {" · "}
-          {[entry.type, shownRarity, sourceLabel(entry.source)].filter(Boolean).join(" · ")}
-        </span>
-      </summary>
-      {open ? (
-        <div style={F.detail}>
-          <dc.Markdown content={itemMarkdown(entry)} sourcePath={sourcePath} />
-        </div>
-      ) : null}
-    </details>
-  );
-}
 
 /** Buttons from the list under a heading: [{ label, url, desc }]. Bullets are "- [Label](https://…) · description". */
 function parseEngines(text, heading) {

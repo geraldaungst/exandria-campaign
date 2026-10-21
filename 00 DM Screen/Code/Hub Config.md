@@ -23,6 +23,7 @@ label_changed_at_table: Changed at the table
 label_party_location: Party location
 label_threads_moved: Threads moved
 label_world_next: World next
+party_card_note: 00 DM Screen/Party Card Data.md
 status_running: running
 statuses_paused:
   - paused

@@ -8,7 +8,7 @@ hide_from_related: true
 
 **Depends on:** none
 
-**Used by:** [[Campaign State]] · [[Calendar and Timeline]] · [[Note Types]] · [[Arc and Session Views]] · [[DM Screen Views]] · [[Session Hub Views]] · [[Session Hub Table]] · [[Quick Capture]] · [[Item Data]] · [[Diagnostics]]
+**Used by:** [[Campaign State]] · [[Calendar and Timeline]] · [[Note Types]] · [[Arc and Session Views]] · [[DM Screen Views]] · [[Session Hub Views]] · [[Session Hub Table]] · [[Quick Capture]] · [[Item Data]] · [[Party Card]] · [[Diagnostics]]
 
 The block below is plain `jsx`, so it does not run on this page. Notes load it with `dc.require(dc.headerLink("00 DM Screen/Code/Shared Helpers.md", "Code"))`. After editing, reopen any note that uses it. Design: [[DM Hubs Design]].
 
@@ -20,6 +20,7 @@ The block below is plain `jsx`, so it does not run on this page. Notes load it w
 // properties. These built-in values are used for any setting missing there.
 const CONFIG_PATH = "00 DM Screen/Code/Hub Config.md";
 const CONFIG_DEFAULTS = {
+  party_card_note: "00 DM Screen/Party Card Data.md",
   tag_session: "session",
   tag_arc: "arc",
   tag_plot: "plot",
