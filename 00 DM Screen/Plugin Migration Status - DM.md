@@ -145,6 +145,8 @@ Decisions: delete QuickAdd now. Disable MetaEdit, Kanban, Sort and Permute Lines
 
 2026-10-21 | D6 last small queries | Lady Emer Status: removed the inline Dataview "Last Updated" line (Recent Work.base shows modified dates). Unused Ideas: removed the Dataview orphan-list block (Janitor covers it). Vault search for remaining Dataview code finds only Campaign Overview.md (to be deleted) and Lorestone Shard Status Tracker.md. | Done. Open: Lorestone tracker design discussion; delete Campaign Overview.md; D8.
 
+2026-10-21 | D6 Lorestone stage 1 | Eight shard notes (Objects/Lorestone of Eryndor - DM Notes/Shards/) with Who knows, Pursued by, Prophecy lines, Open questions, Properties and rulings, and an append-only History of Calendarium inline events (category Lorestone), built from the tracker, session notes, the timeline and the players' notes; new code note Artifact Pieces (reads shards by piece/lorestone-of-eryndor, current holder and location, who-knows-what grid with faction and party roll-up); nine piece settings in Shared Helpers and Hub Config; repointed links in Lyren Willowwhisper, The Prophecy (Original Form), Current Status Document 2025-10-12. Tested in a mock harness on real vault tags; not run in Obsidian. | Done. Open: delete Shard of Willow's Legacy.md, create Palma Flora stub and Lorestone Calendarium category (yours); confirm Calendarium shows shard events; stage 2 (hub and shard grid, removes the last Dataview block).
+
 ## Open items (as of 2026-10-21)
 
 Next up (Suggest the best next step of these, but Gerald will have final say):
