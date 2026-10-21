@@ -12,37 +12,37 @@ tags:
 
 (Lines in bold italics will be found on later shards of the [[Lorestone of Eryndor - DM Notes]] over the course of the campaign.)
 
-Where once-grand spires whispered tales, now silent groves foretell,
+4 Where once-grand spires whispered tales, now silent groves foretell,
 
 ***[[Shard 6 - Marquet Shard|Wildmother's care and Arch Heart's grace could not corruption quell.]]***
 
-Worlds align and form a breach, in realms both stark and shrouded,
+4 Worlds align and form a breach, in realms both stark and shrouded,
 
 ***[[Shard 6 - Marquet Shard|Secrets loom, in twilight's reach, as cosmic paths are clouded.]]***
 
-Three symbols rise 'neath fate's keen eye, each drawn to rifts' grand strand,
+1 Three symbols rise 'neath fate's keen eye, each drawn to rifts' grand strand,
 
-The fiery crown, with fervent cry, seeks dominion o'er the land.
+1 The fiery crown, with fervent cry, seeks dominion o'er the land.
 
-The vigilant shield, in lore deep, guards 'gainst the gathering night,
+2 The vigilant shield, in lore deep, guards 'gainst the gathering night,
 
-The verdant tree, in wisdom's keep, absorbs Exandria's plight.
+2 The verdant tree, in wisdom's keep, absorbs Exandria's plight.
 
 ***[[Shard 7 - Ebonglass Shard|In the abyss, a beacon bright, its fate a mysterious stone,]]***
 
-Is this gleam a guiding light, or a signal of danger unknown?
+3 Is this gleam a guiding light, or a signal of danger unknown?
 
 ***[[Shard 7 - Ebonglass Shard|Order and chaos, in union move, as the rifts' song grows strong,]]***
 
-Their chorus may a new world prove, or a requiem's final song.
+3 Their chorus may a new world prove, or a requiem's final song.
 
 ***[[Shard 8 - Astral Shard|On destiny's edge, a task unfolds, to reforge wisdom's Key,]]***
 
 ***[[Shard 8 - Astral Shard|Its whispers hold a fate untold, in time's final decree.]]***
 
-In cosmic scales, where truths do sway, Exandria's fate's at play,
+5 In cosmic scales, where truths do sway, Exandria's fate's at play,
 
-Will it turn towards dawn's bright ray, or endless disarray?
+5 Will it turn towards dawn's bright ray, or endless disarray?
 
 ## Relationship Details
 

@@ -68,6 +68,7 @@ const CONFIG_DEFAULTS = {
   heading_piece_lines: "Prophecy lines",
   heading_piece_questions: "Open questions",
   heading_piece_rulings: "Properties and rulings",
+  heading_piece_notes: "Notes",
   calendar_category_pieces: "Lorestone",
   template_session: "Session Template",
   status_running: "running",

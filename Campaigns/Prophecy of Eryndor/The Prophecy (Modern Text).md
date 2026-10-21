@@ -12,29 +12,29 @@ tags:
 
 *As it exists today based on some fragments that have been found to date as well as recorded legends.*
 
-Three emblems stand 'neath destiny's watch, their fate in time's torn seam,
+1 Three emblems stand 'neath destiny's watch, their fate in time's torn seam,
 
-The crown ablaze, with watchful gaze, sees rifts' converging stream.
+1 The crown ablaze, with watchful gaze, sees rifts' converging stream.
 
-The shield of old, in legends bold, stands 'gainst the threatening blight,
+2 The shield of old, in legends bold, stands 'gainst the threatening blight,
 
-The tree's deep roots, in earth's resolute, brace for a world in twilight.
+2 The tree's deep roots, in earth's resolute, brace for a world in twilight.
 
-Stars drawn close in cosmic breach, realms merge in ominous plight,
+3 Stars drawn close in cosmic breach, realms merge in ominous plight,
 
-Secrets told in twilight's fold, forewarn a direful night.
+(6) Secrets told in twilight's fold, forewarn a direful night.
 
-From the dark, a Beacon's light! Straddling dusk and dawn,
+(7) From the dark, a Beacon's light! Straddling dusk and dawn,
 
-Does her beam herald hope's bright sight, or catastrophe anon?
+3 Does her beam herald hope's bright sight, or catastrophe anon?
 
-Echoing tales from lofty spires, now hushed the woods that mourn,
+4 Echoing tales from lofty spires, now hushed the woods that mourn,
 
-A hidden path, by moon's red wrath, to a future with rifts torn.
+4 A hidden path, by moon's red wrath, to a future with rifts torn.
 
-The cosmic scale--Exandria's fate--wavers in day's decline,
+5 The cosmic scale--Exandria's fate--wavers in day's decline,
 
-Will it lean towards dawning hope, or night where stars align?
+5 Will it lean towards dawning hope, or night where stars align?
 
 ## Source Context
 

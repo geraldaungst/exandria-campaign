@@ -21,6 +21,7 @@ heading_left_off: Where we left off
 heading_piece_history: History
 heading_piece_knows: Who knows
 heading_piece_lines: Prophecy lines
+heading_piece_notes: Notes
 heading_piece_pursuit: Pursued by
 heading_piece_questions: Open questions
 heading_piece_rulings: Properties and rulings

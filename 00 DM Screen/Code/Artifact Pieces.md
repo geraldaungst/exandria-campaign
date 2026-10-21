@@ -8,16 +8,16 @@ hide_from_related: true
 
 **Depends on:** [[Shared Helpers]] (and [[Hub Config]] through it)
 
-**Used by:** [[Artifact Hub Views]] (stage 2)
+**Used by:** [[Artifact Hub Views]]
 
 Conventions this module relies on:
 
 - **Which notes are pieces.** Notes tagged `<piece_tag_prefix>/<artifact slug>` (`piece/lorestone-of-eryndor`). The hub names the slug in its embed block, so renaming the artifact's note changes nothing. A piece's number is the first number in its note name (`Shard 6 - Marquet Shard` is 6); pieces without one sort last. Notes in excluded folders are ignored.
-- **Sections.** Each piece note has `##` headings named in [[Hub Config]]: History, Who knows, Pursued by, Prophecy lines, Open questions, Properties and rulings. A missing section counts as empty.
+- **Sections.** Each piece note has `##` headings named in [[Hub Config]]: History, Who knows, Pursued by, Prophecy lines, Open questions, Properties and rulings, Notes. A missing section counts as empty; the last two are free text, shown on the hub as they are.
 - **History** (append-only, newest last; the order in the note is the order shown):
   `- **25 Thunsheer 835** · holder · <span data-date="835-04-25" data-category="Lorestone" data-name="Shard 6: to Drawg">Taken from Dreyara's body.</span> · [[Drawg]] · at [[Some Place]] · [[Session 47]]`
   Fields are separated by ` · `: the date label in bold, the kind, the description, then any of: who (a link, or plain text such as `Party`), `at` plus a link or plain text, and a session link (any linked note tagged `session`). A dated line wraps its description in a Calendarium span, so it shows on the calendar; an undated line (`**Before the campaign**`) has plain text instead. Kinds: holder, moved, knows exists, knows where, wrong, pursuing, stopped, lines read, ruling, note. Only holder and moved lines change the current state; the others are the record.
-- **Current holder and location.** The holder is the who of the last holder line. The location is the party's location (from the last played session) when the holder is a PC or the party; otherwise the `at` of the last holder or moved line after the holder changed; otherwise the holder's own deepest `place/…` tag.
+- **Current holder and location.** The holder is the who of the last holder line. The location is the party's location (from the last played session) when the holder is a PC or the party; otherwise the `at` of the last holder or moved line after the holder changed; otherwise the holder's own deepest `place/…` tag, shown as the location note carrying that tag when there is one.
 - **Who knows** (current state): `- [[Vaud Qalix - DM Notes]] · where · note text · [[Session 25]]`. Levels: `exists` (knows it exists), `where` (knows where it is or who holds it), `wrong` (believes something false about it).
 - **Pursued by** (current state): `- [[Obsidian Echoforge - DM Notes]] · how they go about it · [[Session 28]]`.
 - **Prophecy lines**: tasks; ticked means the party has read the line. **Open questions**: tasks; unticked means open.
@@ -217,7 +217,7 @@ function parsePiece(text, isSession = () => false) {
 // ── Current state ─────────────────────────────────────────────────
 
 /**
- * ctx: { resolve(target) → { path, name, tags } | null, partyLocation: ref | null }.
+ * ctx: { resolve(target) → { path, name, tags } | null, partyLocation: ref | null, placeFor(tag) → location page | null (optional) }.
  * A ref is { target, display } (a link) or { plain }. Resolved refs gain `.page`.
  */
 const withPage = (ref, ctx) => (ref && ref.target ? { ...ref, page: ctx.resolve(ref.target) } : ref);
@@ -252,7 +252,11 @@ function currentState(piece, ctx) {
     return { holder, holderSince, location: withPage(ctx.partyLocation, ctx), locationSource: "party", last };
   if (at) return { holder, holderSince, location: withPage(at, ctx), locationSource: "line", last };
   const place = holder?.page ? deepestUnder(holder.page.tags, "place")[0] : null;
-  if (place) return { holder, holderSince, location: { plain: place.slice("place/".length).split("/").join(" / "), tag: place }, locationSource: "tag", last };
+  if (place) {
+    const note = ctx.placeFor?.(place);
+    const location = note ? { target: note.path.replace(/\.md$/, ""), display: displayName(note.name), tag: place } : { plain: place.slice("place/".length).split("/").join(" / "), tag: place };
+    return { holder, holderSince, location, locationSource: "tag", last };
+  }
   return { holder, holderSince, location: null, locationSource: null, last };
 }
 
@@ -401,6 +405,13 @@ function usePieces(artifactSlug, partyLocation = null) {
   return dc.useMemo(() => {
     const byPath = new Map(all.map((p) => [p.$path, { path: p.$path, name: p.$name, tags: tagsOf(p) }]));
     const pages = [...byPath.values()];
+    // Location notes by their own deepest place/… tag, for a holder whose location comes from their place tag.
+    const places = new Map();
+    for (const p of pages) {
+      if (!p.tags.some((t) => t === c.tag_location || t.startsWith(c.tag_location + "/")) || p.path.startsWith(c.folder_player_wiki + "/")) continue;
+      for (const t of deepestUnder(p.tags, "place")) if (!places.has(t)) places.set(t, p);
+    }
+    const placeFor = (tag) => places.get(tag) ?? null;
     const resolverFor = (source) => (target) => {
       const f = app.metadataCache.getFirstLinkpathDest?.(target, source);
       return f ? byPath.get(f.path) ?? { path: f.path, name: f.basename, tags: [] } : null;
@@ -413,7 +424,7 @@ function usePieces(artifactSlug, partyLocation = null) {
           return !!r && (r.tags.some((x) => x === c.tag_session || x.startsWith(c.tag_session + "/")) || r.path.includes(`${c.folder_session_notes}/`));
         };
         const parsed = parsePiece(texts[p.$path] ?? "", isSession);
-        const ctx = { resolve, partyLocation };
+        const ctx = { resolve, partyLocation, placeFor };
         return { page: p, path: p.$path, name: p.$name, number: pieceNumber(p.$name), parsed, state: currentState(parsed, ctx), ctx };
       })
       .sort((a, b) => a.number - b.number || a.name.localeCompare(b.name));

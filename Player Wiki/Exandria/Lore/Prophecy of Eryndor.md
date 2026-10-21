@@ -1,14 +1,14 @@
 ---
-tags:
-  - atomic
-  - player-facing
-  - world/exandria
 aliases:
   - The Prophecy
   - Prophecy
 cssclasses:
   - world-exandria
 publish: true
+tags:
+  - atomic
+  - player-facing
+  - world/exandria
 ---
 
 The Prophecy of Eryndor is inscribed on the [[Lorestone of Eryndor]]. It is attributed to Eryndor, of whom almost nothing else is known. When the Lorestone was shattered, the prophecy was divided among its shards.
