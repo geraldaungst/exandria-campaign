@@ -21,11 +21,6 @@ Shard 7 of the [[Lorestone of Eryndor - DM Notes|Lorestone of Eryndor]]. Hub: [[
 - [[Obsidian Echoforge - DM Notes|Obsidian Echoforge]] · through the map and the Stonefoot Compass; they think it leads to Shard 5
 - Party · they carry the [[Stonefoot Compass - DM Notes|Stonefoot Compass]], which points the way
 
-## Prophecy lines
-
-- [ ] "In the abyss, a beacon bright, its fate a mysterious stone,"
-- [ ] "Order and chaos, in union move, as the rifts' song grows strong,"
-
 ## Open questions
 
 - [ ] How did Shoagragoth come to hold it?

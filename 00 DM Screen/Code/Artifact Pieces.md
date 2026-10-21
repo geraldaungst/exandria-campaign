@@ -4,7 +4,7 @@ hide_from_related: true
 
 **Purpose:** Reads the pieces of a multi-part artifact (the Lorestone's shards, or any other) from their notes: each piece's history, who knows about it, who pursues it, its inscribed lines, and its open questions. Works out each piece's current holder and location and the who-knows-what grid. No views; [[Artifact Hub Views]] draws them.
 
-**Exports:** `PIECE_KINDS`, `KNOW_LEVELS`, `CODES`, `slug`, `pieceTag`, `pieceNumber`, `parsePiece`, `currentState`, `buildGrid`, `displayName`, `usePieces`
+**Exports:** `PIECE_KINDS`, `KNOW_LEVELS`, `CODES`, `slug`, `pieceTag`, `pieceNumber`, `parsePiece`, `parseInscription`, `pieceLines`, `currentState`, `partyKnowledge`, `buildGrid`, `displayName`, `usePieces`
 
 **Depends on:** [[Shared Helpers]] (and [[Hub Config]] through it)
 
@@ -20,7 +20,9 @@ Conventions this module relies on:
 - **Current holder and location.** The holder is the who of the last holder line. The location is the party's location (from the last played session) when the holder is a PC or the party; otherwise the `at` of the last holder or moved line after the holder changed; otherwise the holder's own deepest `place/…` tag, shown as the location note carrying that tag when there is one.
 - **Who knows** (current state): `- [[Vaud Qalix - DM Notes]] · where · note text · [[Session 25]]`. Levels: `exists` (knows it exists), `where` (knows where it is or who holds it), `wrong` (believes something false about it).
 - **Pursued by** (current state): `- [[Obsidian Echoforge - DM Notes]] · how they go about it · [[Session 28]]`.
-- **Prophecy lines**: tasks; ticked means the party has read the line. **Open questions**: tasks; unticked means open.
+- **Inscribed lines** come from two notes the hub names: the original text and the version known today (`original` and `modern` props). Each line starts with a label, the piece's number and the line's position on it: `4a Where once-grand spires…`. A modern line carries the label of the original line it comes from; a label in parentheses, `(6b)`, is a line that survived although its piece is lost. Markdown around the text (bold, italics, a link) is ignored. A line's state: **read** once the piece's History has a `lines read` entry; **modern** when only its modern version is known; **unknown** otherwise. With no `original` note, the piece note's own "Prophecy lines" tasks are used instead (ticked = read).
+- **Open questions**: tasks; unticked means open.
+- **Party knowledge** (for the card color): `holds` when the holder is a PC or the party; otherwise the best `Who knows` level of any line about the party or a PC (`where`, `exists`, `wrong`); otherwise none.
 - **Grid roll-up.** A line about a person also counts for each faction they belong to (`faction/…` tags, every level that has a faction note) and, for a PC, for the party. A faction's note is a note tagged `faction` or `faction/…` that is not an NPC, PC, location, or player wiki page; when several carry the same faction tag, the one whose name matches the tag wins, then one in the factions folder.
 - Lines that don't match these shapes are reported as problems, so a hand edit that breaks the format shows on the hub instead of disappearing.
 
@@ -214,6 +216,45 @@ function parsePiece(text, isSession = () => false) {
   };
 }
 
+// ── Inscribed lines ───────────────────────────────────────────────
+
+const LABEL_LINE = /^\s*(\()?(\d+)([a-z])\)?\s+(.+?)\s*$/;
+/** Visible text of a verse line: links reduced to their display text, emphasis markers dropped. */
+const verseText = (s) =>
+  String(s)
+    .replace(/\[\[[^\]|]*\|([^\]]*)\]\]/g, "$1")
+    .replace(/\[\[([^\]]*)\]\]/g, "$1")
+    .replace(/(\*\*\*|\*\*|\*|___|__)/g, "")
+    .trim();
+
+/** Labeled lines of an inscription note, in order: [{ key: "4a", number: 4, part: "a", text, lost }]. */
+function parseInscription(text) {
+  const out = [];
+  const body = stripComments(String(text ?? "")).replace(/^---\n[\s\S]*?\n---\n?/, "");
+  for (const line of body.split("\n")) {
+    const m = line.match(LABEL_LINE);
+    if (!m) continue;
+    out.push({ key: `${m[2]}${m[3]}`, number: Number(m[2]), part: m[3], text: verseText(m[4]), lost: !!m[1] });
+  }
+  return out;
+}
+
+/**
+ * A piece's lines with what the party knows of each: [{ key, text, modern, state: "read" | "modern" | "unknown" }].
+ * original / modern: parsed inscription lines, or null to fall back on the note's own "Prophecy lines" tasks.
+ */
+function pieceLines(number, parsed, original, modern) {
+  if (!original) return parsed.lines.map((l, i) => ({ key: String(i + 1), text: l.text, modern: null, state: l.read ? "read" : "unknown" }));
+  const read = parsed.history.some((e) => e.kind === "lines read");
+  const modernByKey = new Map((modern ?? []).map((l) => [l.key, l]));
+  return original
+    .filter((l) => l.number === number)
+    .map((l) => {
+      const m = modernByKey.get(l.key) ?? null;
+      return { key: l.key, text: l.text, modern: m ? m.text : null, state: read ? "read" : m ? "modern" : "unknown" };
+    });
+}
+
 // ── Current state ─────────────────────────────────────────────────
 
 /**
@@ -258,6 +299,14 @@ function currentState(piece, ctx) {
     return { holder, holderSince, location, locationSource: "tag", last };
   }
   return { holder, holderSince, location: null, locationSource: null, last };
+}
+
+/** What the party knows of a piece: "holds", "where", "exists", "wrong", or null. */
+function partyKnowledge(parsed, state, ctx) {
+  if (state.holder && isParty(state.holder)) return "holds";
+  const levels = parsed.knows.filter((k) => isParty(withPage(k.who, ctx))).map((k) => k.level);
+  for (const level of ["where", "exists", "wrong"]) if (levels.includes(level)) return level;
+  return null;
 }
 
 // ── Who knows what ────────────────────────────────────────────────
@@ -376,22 +425,27 @@ function buildGrid(pieces, ctx) {
 // ── In Obsidian ───────────────────────────────────────────────────
 
 /**
- * Every piece of an artifact, parsed, with its current state and the grid.
+ * Every piece of an artifact, parsed, with its current state, lines, and the grid.
  * artifactSlug: "lorestone-of-eryndor". partyLocation: a ref for where the party is, or null.
+ * inscription: { original, modern }, the names (or paths) of the notes holding the labeled lines; both optional.
  */
-function usePieces(artifactSlug, partyLocation = null) {
+function usePieces(artifactSlug, partyLocation = null, inscription = {}) {
   const c = cfg();
   const tag = pieceTag(artifactSlug);
   const all = dc.useQuery("@page");
+  const findNote = (name) => (name ? app.metadataCache.getFirstLinkpathDest?.(String(name).replace(/\.md$/, ""), "")?.path ?? null : null);
+  const originalPath = findNote(inscription.original);
+  const modernPath = findNote(inscription.modern);
+  const extra = [originalPath, modernPath].filter(Boolean).map((p) => all.find((x) => x.$path === p)).filter(Boolean);
   const notes = all.filter((p) => !isExcluded(p) && tagsOf(p).some((t) => t === tag || t.startsWith(tag + "/")));
   const stamp = (p) => (p.$mtime?.toMillis ? p.$mtime.toMillis() : String(p.$mtime ?? ""));
-  const key = notes.map((p) => `${p.$path}@${stamp(p)}`).join("|");
+  const key = [...notes, ...extra].map((p) => `${p.$path}@${stamp(p)}`).join("|");
   const [texts, setTexts] = dc.useState({});
   dc.useEffect(() => {
     let live = true;
     (async () => {
       const out = {};
-      for (const p of notes) {
+      for (const p of [...notes, ...extra]) {
         const file = app.vault.getAbstractFileByPath(p.$path);
         out[p.$path] = file ? await app.vault.cachedRead(file) : "";
       }
@@ -412,6 +466,8 @@ function usePieces(artifactSlug, partyLocation = null) {
       for (const t of deepestUnder(p.tags, "place")) if (!places.has(t)) places.set(t, p);
     }
     const placeFor = (tag) => places.get(tag) ?? null;
+    const original = originalPath ? parseInscription(texts[originalPath] ?? "") : null;
+    const modern = modernPath ? parseInscription(texts[modernPath] ?? "") : null;
     const resolverFor = (source) => (target) => {
       const f = app.metadataCache.getFirstLinkpathDest?.(target, source);
       return f ? byPath.get(f.path) ?? { path: f.path, name: f.basename, tags: [] } : null;
@@ -425,13 +481,15 @@ function usePieces(artifactSlug, partyLocation = null) {
         };
         const parsed = parsePiece(texts[p.$path] ?? "", isSession);
         const ctx = { resolve, partyLocation, placeFor };
-        return { page: p, path: p.$path, name: p.$name, number: pieceNumber(p.$name), parsed, state: currentState(parsed, ctx), ctx };
+        const number = pieceNumber(p.$name);
+        const state = currentState(parsed, ctx);
+        return { page: p, path: p.$path, name: p.$name, number, parsed, state, ctx, party: partyKnowledge(parsed, state, ctx), lines: pieceLines(number, parsed, original, modern) };
       })
       .sort((a, b) => a.number - b.number || a.name.localeCompare(b.name));
     const grid = buildGrid(pieces, { resolve: (t) => pieces[0]?.ctx.resolve(t) ?? null, partyLocation, pages });
-    return { tag, pieces, grid, loading: notes.some((p) => texts[p.$path] === undefined) };
-  }, [key, texts, all, partyLocation]);
+    return { tag, pieces, grid, loading: [...notes, ...extra].some((p) => texts[p.$path] === undefined) };
+  }, [key, texts, all, partyLocation, originalPath, modernPath]);
 }
 
-return { PIECE_KINDS, KNOW_LEVELS, CODES, slug, pieceTag, pieceNumber, parsePiece, currentState, buildGrid, displayName, usePieces };
+return { PIECE_KINDS, KNOW_LEVELS, CODES, slug, pieceTag, pieceNumber, parsePiece, parseInscription, pieceLines, currentState, partyKnowledge, buildGrid, displayName, usePieces };
 ```

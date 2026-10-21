@@ -12,29 +12,31 @@ tags:
 
 *As it exists today based on some fragments that have been found to date as well as recorded legends.*
 
-1 Three emblems stand 'neath destiny's watch, their fate in time's torn seam,
+(Each line carries the label of the line in [[The Prophecy (Original Form)]] it comes from. A label in parentheses is a line that survived in legend although its shard is still lost.)
 
-1 The crown ablaze, with watchful gaze, sees rifts' converging stream.
+1a Three emblems stand 'neath destiny's watch, their fate in time's torn seam,
 
-2 The shield of old, in legends bold, stands 'gainst the threatening blight,
+1b The crown ablaze, with watchful gaze, sees rifts' converging stream.
 
-2 The tree's deep roots, in earth's resolute, brace for a world in twilight.
+2a The shield of old, in legends bold, stands 'gainst the threatening blight,
 
-3 Stars drawn close in cosmic breach, realms merge in ominous plight,
+2b The tree's deep roots, in earth's resolute, brace for a world in twilight.
 
-(6) Secrets told in twilight's fold, forewarn a direful night.
+4b Stars drawn close in cosmic breach, realms merge in ominous plight,
 
-(7) From the dark, a Beacon's light! Straddling dusk and dawn,
+(6b) Secrets told in twilight's fold, forewarn a direful night.
 
-3 Does her beam herald hope's bright sight, or catastrophe anon?
+(7a) From the dark, a Beacon's light! Straddling dusk and dawn,
 
-4 Echoing tales from lofty spires, now hushed the woods that mourn,
+3a Does her beam herald hope's bright sight, or catastrophe anon?
 
-4 A hidden path, by moon's red wrath, to a future with rifts torn.
+4a Echoing tales from lofty spires, now hushed the woods that mourn,
 
-5 The cosmic scale--Exandria's fate--wavers in day's decline,
+3b A hidden path, by moon's red wrath, to a future with rifts torn.
 
-5 Will it lean towards dawning hope, or night where stars align?
+5a The cosmic scale--Exandria's fate--wavers in day's decline,
+
+5b Will it lean towards dawning hope, or night where stars align?
 
 ## Source Context
 

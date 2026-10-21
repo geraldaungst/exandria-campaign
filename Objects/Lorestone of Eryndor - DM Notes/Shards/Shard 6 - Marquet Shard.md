@@ -22,11 +22,6 @@ Shard 6 of the [[Lorestone of Eryndor - DM Notes|Lorestone of Eryndor]]. Hub: [[
 
 - [[Obsidian Echoforge - DM Notes|Obsidian Echoforge]] · through Aethor, who told the party it must be recovered · [[Session 28 - Back at Harmony Hall|Session 28]]
 
-## Prophecy lines
-
-- [x] "Wildmother's care and Arch Heart's grace could not corruption quell." [[Session 52 - A Very Vexing Hole and a Black Shard|Session 52]]
-- [x] "Secrets loom, in twilight's reach, as cosmic paths are clouded." [[Session 52 - A Very Vexing Hole and a Black Shard|Session 52]]
-
 ## Open questions
 
 - [ ] Does Qalix know Dreyara is dead and the party has the shard?

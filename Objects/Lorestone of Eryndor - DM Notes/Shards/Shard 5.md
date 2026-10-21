@@ -22,13 +22,10 @@ Shard 5 of the [[Lorestone of Eryndor - DM Notes|Lorestone of Eryndor]]. Hub: [[
 - [[Vaud Qalix - DM Notes|Vaud Qalix]] · Dreyara was to steal it with the Gentleman's help; she died before reaching Rexxentrum
 - [[Obsidian Echoforge - DM Notes|Obsidian Echoforge]] · following the compass lead, which actually points to Shard 7
 
-## Prophecy lines
-
 ## Open questions
 
 - [ ] When does Ovedo reveal the shard to the Echoforge or the party?
 - [ ] What is this shard's name?
-- [ ] Which prophecy lines does it carry?
 
 ## Properties and rulings
 

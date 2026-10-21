@@ -20,8 +20,6 @@ Shard 3 of the [[Lorestone of Eryndor - DM Notes|Lorestone of Eryndor]]. Hub: [[
 - [[Emissaries of the Sunfall - DM Notes|Emissaries of the Sunfall]] · theft, infiltration, violence
 - [[Vaud Qalix - DM Notes|Vaud Qalix]] · through his spy network
 
-## Prophecy lines
-
 ## Open questions
 
 ## Properties and rulings

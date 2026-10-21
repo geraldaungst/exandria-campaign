@@ -12,7 +12,9 @@ hide_from_related: true
 
 Conventions this module relies on:
 
-- **Props.** Both components take `piece`, the artifact's slug (`piece="lorestone-of-eryndor"`); pieces are the notes tagged `<piece_tag_prefix>/<slug>` ([[Artifact Pieces]] has the note format).
+- **Props.** Both components take `piece`, the artifact's slug (`piece="lorestone-of-eryndor"`); pieces are the notes tagged `<piece_tag_prefix>/<slug>` ([[Artifact Pieces]] has the note format). `PieceCards` also takes `original` and `modern`, the names of the notes holding the labeled inscription lines.
+- **Card colors** (left border): green when the party or a PC holds the piece; gray when no one holds it; the accent color when the party knows where it is or who holds it; red when only you know. A key under the cards repeats this.
+- **Line dots.** One per original line: ● the party has read it, ◐ they know only its modern version, ○ they know neither. Hover for the text.
 - **Party location.** The link in the `Party location` bullet under `Where we left off` in the last played session, the same rule as the Session Hub's "Where are we". A piece held by a PC or by the party shows that place.
 - **Overview.** One line: each holder followed by the numbers of the pieces they hold; each number opens its note. Made to be embedded elsewhere (the artifact's DM note, the plot thread).
 - **Cards.** One per piece in number order. "More" opens the detail panel under the cards, one piece at a time. A card with lines the reader could not parse shows a warning; the panel lists them.
@@ -89,9 +91,16 @@ const H = {
   strip: { fontSize: "var(--font-ui-small)", lineHeight: 1.9, margin: "4px 0 8px" },
 };
 
-// Left-border color: held by the party, held by someone, or no holder.
-const borderFor = (state) =>
-  !state.holder ? "var(--background-modifier-border)" : state.locationSource === "party" ? "var(--color-green)" : "var(--interactive-accent)";
+// Left-border color, from what the party knows (Artifact Pieces' partyKnowledge).
+const COLORS = {
+  holds: { color: "var(--color-green)", label: "the party holds it" },
+  known: { color: "var(--interactive-accent)", label: "the party knows where it is" },
+  secret: { color: "var(--color-red)", label: "only you know where it is" },
+  none: { color: "var(--background-modifier-border)", label: "no one holds it" },
+};
+const colorKey = (p) => (p.party === "holds" ? "holds" : !p.state.holder ? "none" : p.party === "where" ? "known" : "secret");
+const DOT = { read: "●", modern: "◐", unknown: "○" };
+const DOT_TEXT = { read: "read", modern: "modern version only", unknown: "not known" };
 
 // ── Small pieces ──────────────────────────────────────────────────
 
@@ -177,9 +186,23 @@ function PieceOverview({ piece }) {
 function Lines({ lines }) {
   if (!lines.length) return <span style={BASE.muted}>none recorded</span>;
   return (
-    <span style={H.dots} title={lines.map((l) => `${l.read ? "Read" : "Unread"}: ${l.text}`).join("\n")}>
-      {lines.map((l) => (l.read ? "●" : "○")).join("")}
+    <span style={H.dots} title={lines.map((l) => `${l.key} (${DOT_TEXT[l.state]}): ${l.text}`).join("\n")}>
+      {lines.map((l) => DOT[l.state]).join("")}
     </span>
+  );
+}
+
+function Legend() {
+  return (
+    <div style={{ ...BASE.muted, margin: "4px 0 8px", display: "flex", flexWrap: "wrap", gap: "4px 14px" }}>
+      {Object.values(COLORS).map((k) => (
+        <span key={k.label}>
+          <span style={{ display: "inline-block", width: "10px", height: "10px", borderRadius: "2px", background: k.color, marginRight: "5px", verticalAlign: "middle" }} />
+          {k.label}
+        </span>
+      ))}
+      <span>● read · ◐ modern version only · ○ not known</span>
+    </div>
   );
 }
 
@@ -189,10 +212,10 @@ function PieceCard({ p, open, onToggle }) {
   const pursuers = p.parsed.pursuit.map((q) => q.who);
   const loc = locationText(s);
   return (
-    <div style={{ ...H.card, borderLeftColor: borderFor(s), ...(open ? H.cardOpen : {}) }}>
+    <div style={{ ...H.card, borderLeftColor: COLORS[colorKey(p)].color, ...(open ? H.cardOpen : {}) }} title={COLORS[colorKey(p)].label}>
       <div style={H.head}>
         <span className="ph-title">{noteLink(p, `${p.number === Infinity ? "?" : p.number} · ${pieceLabel(p)}`)}</span>
-        {s.locationSource === "party" ? <span style={H.badge}>{cfg().label_party}</span> : null}
+        {p.party === "holds" ? <span style={H.badge}>{cfg().label_party}</span> : null}
       </div>
       <div style={H.row}>
         <span style={H.label}>Holder</span>
@@ -212,7 +235,7 @@ function PieceCard({ p, open, onToggle }) {
       </div>
       <div style={H.row}>
         <span style={H.label}>Lines</span>
-        <Lines lines={p.parsed.lines} />
+        <Lines lines={p.lines} />
       </div>
       <div style={H.foot}>
         {p.parsed.problems.length ? <span style={H.warn} title={p.parsed.problems.map((x) => x.line).join("\n")}>⚠ unreadable lines</span> : <span />}
@@ -299,6 +322,22 @@ function TaskList({ items, source, empty, mark }) {
   );
 }
 
+function LineList({ lines }) {
+  if (!lines.length) return <div style={BASE.muted}>None recorded.</div>;
+  return (
+    <ul style={H.list}>
+      {lines.map((l) => (
+        <li key={l.key} style={H.item} title={DOT_TEXT[l.state]}>
+          <span style={{ marginRight: "6px" }}>{DOT[l.state]}</span>
+          <span style={H.kind}>{l.key}</span>
+          {l.text}
+          {l.modern ? <div style={{ ...BASE.muted, marginLeft: "22px", fontStyle: "italic" }}>Known today as: {l.modern}</div> : null}
+        </li>
+      ))}
+    </ul>
+  );
+}
+
 /** Session notes the piece's lines cite, plus session notes linking to the piece; newest first. */
 function useSessionsFor(p) {
   const c = cfg();
@@ -312,7 +351,6 @@ function useSessionsFor(p) {
       ...p.parsed.history.map((e) => e.session),
       ...p.parsed.knows.map((k) => k.session),
       ...p.parsed.pursuit.map((q) => q.session),
-      ...p.parsed.lines.map((l) => l.session),
     ].filter(Boolean);
     for (const r of cited) add(p.ctx.resolve(r.target)?.path);
     const links = app.metadataCache.resolvedLinks ?? {};
@@ -378,7 +416,7 @@ function PieceDetail({ p, onClose }) {
         </Cell>
         <Cell grow={2} min={260}>
           <Section title={c.heading_piece_lines}>
-            <TaskList items={p.parsed.lines} source={p.path} empty="None recorded." mark={(t) => (t.read ? "●" : "○")} />
+            <LineList lines={p.lines} />
           </Section>
           <Section title={c.heading_piece_questions}>
             <TaskList items={p.parsed.questions.filter((q) => q.open)} source={p.path} empty="None open." mark={() => "?"} />
@@ -405,9 +443,9 @@ function PieceDetail({ p, onClose }) {
 }
 
 /** A card per piece; "More" opens one piece's detail panel under the cards. */
-function PieceCards({ piece }) {
+function PieceCards({ piece, original, modern }) {
   const party = usePartyLocation();
-  const { pieces, tag, loading } = usePieces(piece, party);
+  const { pieces, tag, loading } = usePieces(piece, party, { original, modern });
   const [open, setOpen] = dc.useState(null);
   if (!pieces.length) return <NoPieces tag={tag} />;
   if (loading) return <div style={BASE.muted}>Reading pieces…</div>;
@@ -415,6 +453,7 @@ function PieceCards({ piece }) {
   return (
     <div className="piece-hub">
       <style>{CSS}</style>
+      <Legend />
       <div style={H.grid}>
         {pieces.map((p) => (
           <PieceCard key={p.path} p={p} open={open === p.path} onToggle={() => setOpen(open === p.path ? null : p.path)} />

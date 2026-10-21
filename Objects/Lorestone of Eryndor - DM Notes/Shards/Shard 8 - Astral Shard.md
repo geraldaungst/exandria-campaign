@@ -13,11 +13,6 @@ Shard 8 of the [[Lorestone of Eryndor - DM Notes|Lorestone of Eryndor]]. Hub: [[
 
 ## Pursued by
 
-## Prophecy lines
-
-- [ ] "On destiny's edge, a task unfolds, to reforge wisdom's Key,"
-- [ ] "Its whispers hold a fate untold, in time's final decree."
-
 ## Open questions
 
 - [ ] Where is it, and who or what guards it? An ancient ruin, a powerful guardian, hidden in plain sight?

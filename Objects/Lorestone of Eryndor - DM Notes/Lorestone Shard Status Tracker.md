@@ -26,7 +26,7 @@ return function Overview() {
 ```datacorejsx
 const { PieceCards } = await dc.require(dc.headerLink("00 DM Screen/Code/Artifact Hub Views.md", "Code"));
 return function Shards() {
-  return <PieceCards piece="lorestone-of-eryndor" />;
+  return <PieceCards piece="lorestone-of-eryndor" original="The Prophecy (Original Form)" modern="The Prophecy (Modern Text)" />;
 };
 ```
 
