@@ -4,18 +4,20 @@ tags:
   - dm-tool
 ---
 
-**Purpose:** External sites and generators for use at the table. The [[Session Hub]] embeds this note under "At the table". Edit it like any note: add a bullet, delete a bullet, move a bullet between headings, or add a heading. Nothing reads it except your eyes.
+**Purpose:** External sites and generators for use at the table. The [[Session Hub]] shows this note under "Sites and maps". Edit it like any note: add a bullet, delete a bullet, move a bullet between headings, or add a heading. Nothing reads it except your eyes.
 
 Format: `- [Name](https://address) · what it's for`
 
 ## Maps
 
+- [Cze and Peku Maps](https://www.czepeku.com/maps)
+- [Tehox Maps](https://www.patreon.com/tehox/posts)
+- [The Mad Cartographer](https://marketplace.roll20.net/browse/search?author=The%20MAD%20Cartographer)
 - [Dyson's maps](https://dysonlogos.blog/maps) · free maps by Dyson Logos
 - [Watabou's Procgen Arcana](https://watabou.github.io) · city, village, dungeon, and cave generators
 - [Azgaar's Fantasy Map Generator](https://azgaar.github.io/Fantasy-Map-Generator) · world and region maps
 - [Dungeon Scrawl](https://app.dungeonscrawl.com) · draw a dungeon map in the browser
 - [Dungeon Map Doodler](https://dungeonmapdoodler.com) · quick sketch maps
-- More map sources, with downloads and Patreons: [[Sources of Maps]]
 
 ## NPCs and names
 
@@ -41,7 +43,7 @@ Format: `- [Name](https://address) · what it's for`
 - [Tabletop Audio](https://tabletopaudio.com) · ambient tracks
 - [Syrinscape](https://syrinscape.com) · sound sets
 
-## Book rules (D&D Beyond, needs your login)
+## D&D Beyond Library
 
 Links go to the exact section. They open in Obsidian's web viewer or your browser.
 
@@ -53,7 +55,7 @@ Links go to the exact section. They open in Obsidian's web viewer or your browse
 - 2024 PHB, Equipment: [Lifestyle Expenses](https://www.dndbeyond.com/sources/dnd/phb-2024/equipment#LifestyleExpenses) · [Food, Drink, and Lodging](https://www.dndbeyond.com/sources/dnd/phb-2024/equipment#FoodDrinkandLodging)
 - Xanathar's Guide, Downtime: [Downtime Activities](https://www.dndbeyond.com/sources/dnd/xgte/downtime-revisited#DowntimeActivities) · [Buying a Magic Item](https://www.dndbeyond.com/sources/dnd/xgte/downtime-revisited#BuyingaMagicItem) · [Selling a Magic Item](https://www.dndbeyond.com/sources/dnd/xgte/downtime-revisited#SellingaMagicItem)
 
-## Free 2024 Basic Rules pages
+## 2024 Basic Rules
 
 - [Playing the Game](https://www.dndbeyond.com/sources/dnd/br-2024/playing-the-game) · DC table, actions, social interaction
 - [Rules Glossary](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary) · [Influence](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#InfluenceAction) · [Attitude](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#Attitude) · objects, conditions, improvised weapons

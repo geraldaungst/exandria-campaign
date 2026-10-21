@@ -22,7 +22,7 @@ Design spec for the two hubs. Review once, then build in the order at the bottom
 - Bases first. Datacore 0.1.29 only where Bases can't do the job; each row below says why.
 - No section depends on fields updated by hand. Allowed: tags, links, mtime, properties set once at creation, and the one-time after-game entries in the session note.
 - Connected notes are listed under every item they relate to, never shown as counts.
-- Shared code lives in code notes in `00 DM Screen/Code/` (one module per responsibility: [[Shared Helpers]], [[Campaign State]], [[Calendar and Timeline]], [[Note Types]], [[Arc and Session Views]], [[DM Screen Views]], [[Plot Dashboard Views]], [[Session Hub Views]], [[Quick Capture]], [[Diagnostics]]) and loads with `dc.require`, so both hubs use the same logic. Every tag, folder, heading, and status name comes from [[Hub Config]] (properties only), which the code notes and templates read.
+- Shared code lives in code notes in `00 DM Screen/Code/` (one module per responsibility: [[Shared Helpers]], [[Campaign State]], [[Calendar and Timeline]], [[Note Types]], [[Arc and Session Views]], [[DM Screen Views]], [[Plot Dashboard Views]], [[Session Hub Views]], [[Session Hub Table]], [[Quick Capture]], [[Reference Lists]], [[Section Picker]], [[Hub Layout]], [[Item Data]], [[Item Finder]], [[Treasure Roll]], [[Trap Roll]], [[Party Card]], [[Diagnostics]]) and loads with `dc.require`, so both hubs use the same logic. Every tag, folder, heading, and status name comes from [[Hub Config]] (properties only), which the code notes and templates read.
 
 ### Shared logic
 
@@ -69,7 +69,7 @@ Design spec for the two hubs. Review once, then build in the order at the bottom
 |---|---|---|
 | Campaign planning | Arcs grouped by status (idea, designing, ready, paused, abandoned); full [[Plot Dashboard]]; [[Seeds Planted]]; open hooks (`hook`, `offscreen` tags); unrevealed clues across all arcs | Bases (arcs, hooks); Datacore (clues across arcs) |
 | Characters | Party sheets; recently seen NPCs (linked from the last 3 played sessions); NPCs tagged `needs-work`; improvised backlog grouped by `first_session` | Bases, except recently seen (Datacore: needs links from a computed set of notes) |
-| Encounters | [[Encounter Design Guide]], Encounter Template, [[Party Combat Profile]], [[NPC Stat Block Reference Table]], `Characters/Creatures` | Links and Bases |
+| Encounters | [[Encounter Design Guide]], Encounter Template, [[Party Card Data]], [[NPC Stat Block Reference Table]], `Characters/Creatures` | Links and Bases |
 | Lore and Keln | `lore` notes; `world/keln` notes by last edit; [[Kanka_Master_Build_List]] | Bases |
 | Player wiki | [[Player Wiki/Index\|Player Wiki Index]], [[The World of Exandria]], ledger and scope checklist; wiki drift (DM note edited after its player twin) | Bases; drift in Datacore unless Bases can compare two files |
 | Vault maintenance | `needs-work` notes, maintenance backlog (below), [[DM_Vault_Reorganization_Plan]], [[Plugin Migration Status - DM]] | Bases and links |
@@ -90,30 +90,45 @@ Design spec for the two hubs. Review once, then build in the order at the bottom
 
 #### At the table
 
-| Section | Shows | Data | Engine |
-|---|---|---|---|
-| Quick capture | Form: kind (NPC, location, shop, item, faction, event), name, one line; creates a stub in the kind's folder (NPCs `Characters/NPCs`, factions `Characters/Factions/<World>`, items `Objects`, locations and shops `Stubs` inside the campaign folder) with the kind's tag, `needs-work`, `improvised`, and `first_session` linking the current session; the body comes from the matching template. Events instead append a line to [[Eryndor Timeline]] with the in-world date and a Calendarium category | Template text read directly (the templates prompt and move files, so they can't run mid-game) | Datacore form ([[Quick Capture]]) |
-| Tonight's cast | Every NPC and location the next session note links to; each expands to its "Quick Reference" section; unresolved links show "no note yet" with a capture button | Links, section embeds | Datacore |
-| Where are we | Notes linking to the party's current location (from the last "Party location" bullet): NPCs, shops, authorities | Links | Datacore |
-| Improv references | [[Quick NPCs]], name bank, reaction card, improv rules card, prices card | Notes | Links/embeds |
-| Item finder | Search box that opens the query on D&D Beyond and on 5e.tools; magic item price-by-rarity table beside it | URLs (formats to verify) | Datacore |
-| Party card | AC, passives, languages, notable items | [[Party Combat Profile]] embed | Embed |
-| Rules | [[Table Rulings]], Conditions, Table Rules hub | Notes | Links |
-| Generators and sites | [[Random Tavern]], [[Fast NPC + Picture]], [[Sources of Maps]], external sites (list to collect) | Notes, URLs | Links |
+Built 2026-10-20. The table side is a set of cards grouped by what you are doing, under `##` headings that fold with Obsidian's ordinary fold arrows. [[Hub Layout]] places cards in rows that sit side by side on a wide pane and stack on a narrow one; each card keeps its own height.
+
+| Group | Card (layout) | Shows | Data | Engine |
+|---|---|---|---|---|
+| At a glance | Party (full width) | One row per PC: level, AC, max HP, speed, passive Perception, Insight and Investigation, spell save DC, defenses, languages, dated "From Roll20" | [[Party Card Data]], written by the card | Datacore ([[Party Card]]) |
+| At a glance | Where are we (three across) | Notes tied to the party's current location (from the last "Party location" bullet): NPCs here now, NPCs, locations physically inside it (folder, `located_in`, or wiki twin folder), factions, items, plot threads, arcs not complete; a collapsed group for places that only mention it | Links, folders | Datacore ([[Session Hub Table]]) |
+| At a glance | Tonight's cast (three across) | Every NPC and location the next session note links to (or the last played one's), each expanding to its "Quick Reference" section; a link to the player wiki page; unresolved links get a kind picker and Create | Links, section embeds | Datacore ([[Session Hub Table]]) |
+| At a glance | Quick capture (three across) | Form: kind (NPC, location, shop, item, faction, event), name, one line; creates a stub in the kind's folder (NPCs `Characters/NPCs`, factions `Characters/Factions/<World>`, items `Objects`, locations and shops `Stubs` inside the campaign folder) with the kind's tag, `needs-work`, `improvised`, and `first_session` linking the current session; the body comes from the matching template. Events instead append a line to [[Eryndor Timeline]] with the in-world date and a Calendarium category | Template text read directly (the templates prompt and move files, so they can't run mid-game) | Datacore form ([[Quick Capture]]) |
+| Rules | Conditions (about 60%) | One button per condition; sections open one or several at a time | The Conditions note (2024 rules, rewritten 2026-10-20 from SRD 5.2.1, CC BY 4.0) | Datacore ([[Section Picker]]) |
+| Rules | Rulings (about 40%) | [[Table Rulings]], [[Table Rules]], [[Reaction Card]], [[Improv Rules Card]], [[Prices Card]], each opening in place | The "Rulings" group in [[Table References]] | Datacore ([[Reference Lists]]) |
+| Improvise | People and places (full width) | [[Quick NPCs]], [[Name Bank]], [[NPC Stat Block Reference Table]], [[Fast NPC + Picture]], [[Random Tavern]] (the last two embed a site) | The "People and places" group in [[Table References]] | Datacore ([[Reference Lists]]) |
+| Loot and hazards | Treasure roll (two across) | Individual, hoard, gems, or art objects by challenge band; hoards roll the magic items for the party level, each opening to its full text | 5e.tools `loot.json`, 2024 DMG tables | Datacore ([[Treasure Roll]]) |
+| Loot and hazards | Trap roll (two across) | Random trap or hazard filtered by kind, tier, threat, "2024 books only", plus a name search | 5e.tools `trapshazards.json` | Datacore ([[Trap Roll]]) |
+| Loot and hazards | Item finder (full width) | Name search over magic and mundane items with full text; buttons that open the same search on D&D Beyond; magic item price-by-rarity table beside it | 5e.tools item files; the "Item finder" group in [[Table References]] | Datacore ([[Item Finder]]) |
+| Sites and maps | Sites (full width) | One button per heading of [[Table Sites]] (maps, names, generators, rules, audio, D&D Beyond book pages, treasure and trap generators), each opening its links | [[Table Sites]] | Datacore ([[Section Picker]]) |
+
+How the table-side cards get their data:
+
+- **Party card.** Roll20 keeps the sheets, so the card reads a snapshot. A Roll20 API script ([[Roll20 Party Script]], Pro, Mod Script Sandbox 1.5 or newer) reads each PC and whispers `PARTY|` lines; you paste them into the card, which merges them by character name into [[Party Card Data]] (a plain Markdown table with an `as_of` date, path set by `party_card_note` in [[Hub Config]]). The script reads both sheet types: 2014 sheets as attributes, 2024 (Beacon) sheets through `getComputed`. Facts that shaped the design: Roll20 has no public API and scripts can't send data out, so the paste is the transfer; Beacon sheets expose only a fixed list of computed values (316 names), which does not include languages, proficiencies, items, or current class levels, so Beacon characters' languages are typed into the data note once and survive later pastes. HP is max HP only, because current HP would be stale. The script's `DEFAULT_PARTY` list is edited when the party changes.
+- **5e.tools data.** Items, loot tables, and traps load from the 5e.tools mirror named by `data_url_5etools` in [[Hub Config]], through [[Item Data]]: the first use downloads a file, which is cached in the browser (IndexedDB database `hub-5etools`). The cache carries over between Obsidian sessions; "Refresh data" downloads again. Entries from the 2024 books (XPHB, XDMG, XMM, EFA) win over same-named older ones. The treasure roller uses the 2024 DMG tables only (individual, hoard coins and item count, gems, art objects, "By Level" rarity, then the Arcana, Armaments, Implements, or Relics table). The data does not say how the book picks among those four, so each item picks one at random unless you pin one.
+- **Lists in notes.** [[Table References]] holds the bullet lists behind the reference cards; [[Table Sites]] holds the site links. Both are plain notes, so adding, removing, or reordering an entry is an edit to a bullet. Long reference notes (Conditions, Table Sites) become button rows through [[Section Picker]], which reads the note's own `##` headings.
+- **Retired.** Party Combat Profile (its damage estimates and analysis were not kept up; the Party card replaces its purpose), Sources of Maps (merged into Table Sites), and the single "Improv references" list (split into "Rulings" and "People and places").
 
 ### Content to create
 
 All 2024 rules, checked against the books before writing.
 
-- Reaction card: 2024 Influence action, attitudes (Friendly, Indifferent, Hostile) and how each responds to requests
-- Improv rules card: DC ladder, improvised damage by severity, object AC and HP, creatures in an area, horde rules
-- Prices card: lodging, meals, services, common gear; magic items by rarity (2024 DMG)
-- Name bank: spare names by Exandria culture and region, varied per the project's naming principles
-- Quick capture template and "Close session" script
-- External reference list (from you)
+Done (2026-10-20): reaction card, improv rules card, prices card, name bank, quick capture, external reference list ([[Table Sites]]), Conditions rewritten to 2024.
+
+Gaps:
+
+- Services prices: no 2024 book gives them. The Prices Card says to set them by comparison; add a third-party source only if you want one.
+- Improvised damage by severity (DMG): linked from [[Table Sites]], not copied.
+- Lodging and meal prices: linked, not copied.
+- "Close session" script (done earlier as the Close Session template; confirm nothing else is pending).
 
 ### Maintenance backlog found during design
 
+- Scan the entire vault for cruft and clutter no longer in active use (stale notes, orphaned attachments, unused templates and code notes, empty folders, retired plugin data), and list candidates for review before anything is removed
 - Retire the old folder-note queries in `00 DM Screen/00 DM Screen.md` (replaced by this build)
 - Session template "After the Game" asks you to update `current_location` by hand; no hub section uses that field, and "Where are we" uses links instead
 - Calendarium: 62 existing events, some linked to old `90 Session Notes/...` paths
@@ -121,12 +136,15 @@ All 2024 rules, checked against the books before writing.
 - Two links to the removed compendium: Thunderwave (Sessions 1 to 3 - The Skyship), monuments ([[Location Idea Generator]]); point them at D&D Beyond
 - Four restored items in `Objects/` carry only `compendium`; retag `artifact`
 - Rendspawn notes and Two-Headed Etcheda Monkey now in `Characters/Creatures`
-- `z-Mechanics` reference tables are 2014 SRD
+- `z-Mechanics` reference tables are 2014 SRD (Conditions was rewritten to the 2024 rules on 2026-10-20; the others are not)
 - About 90 notes use the old `world-exandria` tag instead of `world/exandria`; retag them (Recent Work's World column reads both forms meanwhile)
 - "Keln" is no longer a note type (2026-10-20): Recent Work views are by type only, with Campaign and World columns for scope
 - Dataview is still enabled; the old screen is one of its last users
 - [[Artifact-Item Template]] is stale (found 2026-10-20): it tags notes `item` (retired; the tag is `artifact`) and moves them to `Items/` (the folder is `Objects/`). Fix it, and check it against the other templates' world-tag step
 - Add `world: <name>` to any other campaign note; the Campaign Template now asks for it
+- Roll20: [[Roll20 Attribute Dump]] was a one-time diagnostic. Delete it once you no longer need it, and remove the old `Attribute dump` script from the game's API Scripts page (the same script slot now runs `!party`)
+- [[Encounter Design Guide]] now embeds [[Party Card Data]] where it used to embed the Party Combat Profile
+- Table side: the embeds in Fast NPC + Picture and Random Tavern render inside the hub (confirmed 2026-10-20)
 - The NPC, Faction, Item, and Location templates treat every folder directly under `Worlds/` as a world, so nothing that isn't a world (such as a stubs folder) can live there
 
 ### Settled during review
@@ -134,6 +152,9 @@ All 2024 rules, checked against the books before writing.
 - Spotlight covers PCs tagged `player`; PCs not currently in the party (former or on hold) are tagged `player/inactive` and left out. Applied to Elby (on hold) and Laucian (former) on 2026-10-19.
 - Session Hub file: `00 DM Screen/Session Hub.md`.
 - A "Changed at the table" line is reconciled once it is ticked (`- [x]`) or struck through; plain bullets count as open.
+- Table-side layout (2026-10-20): cards are clustered by use (at a glance, rules, improvise, loot and hazards, sites and maps) with side-by-side rows where cards are small and full width where content is wide or expands; no hidden or folded cards (the sites picker was folded at first and shown by default on request), since headings already fold.
+- Searches worth having on the hub: items, treasure, and traps and hazards. Monsters, spells, and vehicles are not (decided 2026-10-20).
+- The party card reads Roll20; nothing in the vault is typed by hand except Beacon characters' languages.
 - Quick-capture stubs carry `needs-work` (remove it when developed) and `improvised`; location and shop stubs live in `Stubs` inside the campaign folder, not under `Worlds/`.
 
 ### Build order
@@ -143,7 +164,8 @@ All 2024 rules, checked against the books before writing.
 3. DM Screen top screen, then its workbenches
 4. Session Hub prep side (built 2026-10-20)
 5. Quick capture (built 2026-10-20)
-6. Session Hub table side, then the content cards
+6. Session Hub table side and content cards (built 2026-10-20): where are we, tonight's cast, reference lists, item finder, treasure and trap rolls, party card, rules, sites
+7. Table-side layout by use (built 2026-10-20): [[Hub Layout]] rows and headings, per the table above
 
 ## Parked ideas
 

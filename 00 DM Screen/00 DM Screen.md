@@ -24,7 +24,3 @@ return function ActivePlots() {
 ## Recent work
 
 ![[Recent Work.base]]
-
-## Table tools
-
-Until the [[Session Hub]] is built: [[Quick NPCs]] · [[NPC Stat Block Reference Table]] · [[Table Rulings]] · [[Party Combat Profile]] · [[Random Tavern]] · [[Fast NPC + Picture]] · [[Sources of Maps]]

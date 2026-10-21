@@ -12,7 +12,7 @@ This is a personal design reference, not a checklist. Use it to build encounters
 Every combat falls into one of three tiers. Figure out which tier you're building, then use the questions for that tier. Higher tiers include everything from the tiers below them.
 
 > [!info] Party Profile
-> ![[Party Combat Profile]]
+> ![[Party Card Data]]
 
 ---
 
