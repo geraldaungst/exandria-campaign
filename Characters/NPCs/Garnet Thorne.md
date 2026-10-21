@@ -7,6 +7,7 @@ tags:
   - npc
   - world/exandria
   - region/taldorei
+  - place/whitestone
 ---
 
 ![[garnet-thorne.jpeg|right|300]]

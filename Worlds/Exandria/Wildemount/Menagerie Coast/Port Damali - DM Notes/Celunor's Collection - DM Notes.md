@@ -4,6 +4,7 @@ aliases:
 tags:
   - location
   - region/menagerie-coast
+  - place/port-damali
 ---
 
 ![[celunors-collection.png|right|300]]

@@ -12,6 +12,7 @@ tags:
   - needs-work
   - world/exandria
   - region/xhorhas
+  - place/ebonglass-massif
 ---
 
 ## Quick Reference

@@ -9,6 +9,9 @@ tags:
   - npc
   - campaign/eryndor
   - wildemount
+  - world/exandria
+  - region/cyrios-mountains
+  - place/gnurlsottens
 type: npc
 ---
 

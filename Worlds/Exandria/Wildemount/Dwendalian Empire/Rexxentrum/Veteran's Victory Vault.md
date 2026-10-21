@@ -5,6 +5,7 @@ tags:
   - location
   - world/exandria
   - region/dwendalian-empire
+  - place/rexxentrum
 ---
 
 ## Quick Reference

@@ -4,6 +4,7 @@ aliases:
 tags:
   - location
   - needs-work
+  - place/molaesmyr
 ---
 
 (Pronounced "mo-LAY-əs-meer")

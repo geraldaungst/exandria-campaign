@@ -9,6 +9,8 @@ tags:
   - npc
   - world/exandria
   - region/menagerie-coast
+  - place/palma-flora
+  - faction/obsidian-echoforge
 ---
 
 ## Appearance & Personality

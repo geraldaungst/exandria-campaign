@@ -4,6 +4,7 @@ tags:
   - world/toril
   - region/sword-coast
   - campaign/tyranny
+  - needs-work
 ---
 
 ## Tawar Kenley

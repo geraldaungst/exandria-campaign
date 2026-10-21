@@ -7,6 +7,7 @@ tags:
   - npc
   - world/exandria
   - region/menagerie-coast
+  - place/port-damali
 ---
 
 ![[durnvolk-durmir.jpeg|right|300]]

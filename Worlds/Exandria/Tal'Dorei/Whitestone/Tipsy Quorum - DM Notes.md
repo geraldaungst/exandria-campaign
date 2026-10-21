@@ -1,6 +1,7 @@
 ---
 tags:
   - location
+  - place/whitestone
 ---
 
 Tavern in Whitestone

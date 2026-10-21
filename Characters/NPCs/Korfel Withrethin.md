@@ -11,6 +11,9 @@ location: Zadash
 tags:
   - npc
   - region/dwendalian-empire
+  - world/exandria
+  - place/zadash
+  - faction/myriad/gentlemans-organization
 ---
 
 home_city: Zadash

@@ -4,6 +4,7 @@ tags:
   - world/toril
   - region/sword-coast
   - campaign/tyranny
+  - needs-work
 ---
 
 Last Edited: November 5, 2021 6:37 PM

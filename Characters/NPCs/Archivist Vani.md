@@ -9,6 +9,8 @@ tags:
   - npc
   - world/exandria
   - region/menagerie-coast
+  - place/port-damali
+  - faction/cobalt-soul
 ---
 
 Halfling archivist in the [[Port Damali - DM Notes]] [[Cobalt Soul Archive in Port Damali - DM Notes|Cobalt Soul Archive]]. Helped the players learn about the [[The Prophecy|prophecy]] and the [[Lorestone of Eryndor - DM Notes]].

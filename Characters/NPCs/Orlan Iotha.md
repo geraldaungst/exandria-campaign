@@ -5,6 +5,9 @@ home_city: Zadash
 tags:
   - needs-work
   - npc
+  - world/exandria
+  - region/dwendalian-empire
+  - place/zadash
 ---
 
 ![[orlan-iotha.png|right|300]]

@@ -8,6 +8,10 @@ faction: None
 location: [[Cloudfang Keep]]
 tags:
   - npc
+  - world/exandria
+  - region/cyrios-mountains
+  - place/cloudfang-keep
+  - faction/dwendalian-empire
 ---
 
 ![[varnes-dwell.png|right|300]]

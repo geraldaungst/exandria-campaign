@@ -7,6 +7,7 @@ tags:
   - faction
   - world/exandria
   - region/taldorei
+  - faction/ashari
 ---
 
 ![[riftguard.png|right|400]]

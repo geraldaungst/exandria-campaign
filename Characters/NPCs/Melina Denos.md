@@ -7,6 +7,8 @@ aliases:
 tags:
   - needs-work
   - npc
+  - world/exandria
+  - faction/ashari/vesrah
 ---
 
 ![[melina.png|right|300]]

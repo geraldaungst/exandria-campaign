@@ -8,6 +8,8 @@ tags:
   - npc
   - world/exandria
   - region/taldorei
+  - place/zadash
+  - needs-work
 ---
 
 ![[grendar-goss.jpeg|right|300]]

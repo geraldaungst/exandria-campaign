@@ -6,6 +6,7 @@ tags:
   - npc
   - region/dwendalian-empire
   - world/exandria
+  - needs-work
 ---
 
 home_city: Zadash

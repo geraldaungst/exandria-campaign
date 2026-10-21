@@ -8,6 +8,8 @@ tags:
   - deceased
   - world/exandria
   - region/taldorei
+  - faction/emissaries-of-the-sunfall
+  - needs-work
 ---
 
 home_city: Zadash

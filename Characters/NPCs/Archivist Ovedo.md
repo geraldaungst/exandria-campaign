@@ -10,6 +10,8 @@ tags:
   - hook
   - world/exandria
   - region/dwendalian-empire
+  - place/rexxentrum
+  - faction/cobalt-soul
 ---
 
 ![[ovedo.webp|right|300]]

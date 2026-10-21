@@ -1,6 +1,7 @@
 ---
 tags:
   - location
+  - place/single-swig-saloon
 ---
 
 ## Introduction

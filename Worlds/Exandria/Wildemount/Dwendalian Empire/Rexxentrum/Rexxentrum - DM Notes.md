@@ -3,6 +3,7 @@ tags:
   - location
   - region/dwendalian-empire
   - pending
+  - place/rexxentrum
 ---
 
 ## Quick Reference

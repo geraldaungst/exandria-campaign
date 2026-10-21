@@ -8,6 +8,8 @@ tags:
   - npc
   - world/exandria
   - region/xhorhas
+  - faction/kryn-dynasty
+  - needs-work
 ---
 
 ## Quick Reference

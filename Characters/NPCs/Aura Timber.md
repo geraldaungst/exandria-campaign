@@ -4,6 +4,7 @@ tags:
   - npc
   - world/toril
   - region/sword-coast
+  - needs-work
 ---
 
 ## Aura Timber

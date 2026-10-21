@@ -1,6 +1,7 @@
 ---
 tags:
   - location
+  - place/port-damali
 ---
 
 ## Quick Reference

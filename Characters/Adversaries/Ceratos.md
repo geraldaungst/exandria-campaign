@@ -4,6 +4,7 @@ aliases:
 tags:
   - needs-work
   - npc
+  - world/exandria
 xcssclasses:
   - wide-table
 ---

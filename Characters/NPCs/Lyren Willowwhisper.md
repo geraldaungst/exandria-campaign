@@ -10,6 +10,8 @@ tags:
   - needs-work
   - world/exandria
   - region/menagerie-coast
+  - place/palma-flora
+  - faction/obsidian-echoforge
 ---
 
 ## Quick Reference

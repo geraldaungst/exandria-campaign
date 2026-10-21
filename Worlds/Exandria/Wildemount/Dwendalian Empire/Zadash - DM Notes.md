@@ -1,6 +1,7 @@
 ---
 tags:
   - location
+  - place/zadash
 ---
 
 ## Quick Reference

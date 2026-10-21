@@ -4,6 +4,9 @@ region: "Tal'Dorei"
 tags:
   - needs-work
   - npc
+  - world/exandria
+  - region/dwendalian-empire
+  - place/zadash
 ---
 
 - Dwarf

@@ -10,6 +10,8 @@ tags:
   - npc
   - world/exandria
   - region/menagerie-coast
+  - place/port-damali
+  - faction/obsidian-echoforge
 ---
 
 ## Quick Reference

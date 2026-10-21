@@ -5,6 +5,7 @@ tags:
   - faction
   - world/exandria
   - region/menagerie-coast
+  - faction/malachite-cord
 ---
 
 ## Quick Reference

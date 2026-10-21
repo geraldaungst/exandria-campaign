@@ -4,6 +4,7 @@ tags:
   - location
   - world/keln
   - region/ringhold
+  - place/ringhold
 ---
 
 ![[The Ringhold]]

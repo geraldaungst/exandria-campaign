@@ -12,6 +12,9 @@ aliases:
 tags:
   - needs-work
   - npc
+  - world/exandria
+  - faction/emissaries-of-the-sunfall
+  - faction/draconia
 ---
 
 ![[vaud-qalix.png|right|300]]

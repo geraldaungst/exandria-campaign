@@ -8,6 +8,11 @@ location: Rexxentrum
 tags:
   - antagonist
   - npc
+  - world/exandria
+  - region/dwendalian-empire
+  - place/rexxentrum
+  - faction/emissaries-of-the-sunfall
+  - needs-work
 ---
 
 ## Quick Reference

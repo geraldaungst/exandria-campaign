@@ -11,6 +11,8 @@ tags:
   - deceased
   - world/exandria
   - region/dwendalian-empire
+  - faction/emissaries-of-the-sunfall
+  - needs-work
 ---
 
 ![[georgina.png|right|200]]

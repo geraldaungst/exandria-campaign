@@ -3,6 +3,7 @@ tags:
   - needs-work
   - npc
   - region/menagerie-coast
+  - world/exandria
 ---
 
 ![[rylan.jpeg|right|300]]

@@ -2,6 +2,7 @@
 tags:
   - needs-work
   - npc
+  - world/exandria
 ---
 
 ## Sirion Del'thane

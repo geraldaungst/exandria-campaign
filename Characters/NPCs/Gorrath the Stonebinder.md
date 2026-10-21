@@ -10,6 +10,8 @@ tags:
   - hook
   - world/exandria
   - region/xhorhas
+  - faction/scars-of-scale-and-tooth
+  - needs-work
 ---
 
 ## Gorrath the Stonebinder

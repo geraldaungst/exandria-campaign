@@ -7,6 +7,7 @@ tags:
   - npc
   - world/exandria
   - region/dwendalian-empire
+  - needs-work
 ---
 
 ## Appearance & Personality

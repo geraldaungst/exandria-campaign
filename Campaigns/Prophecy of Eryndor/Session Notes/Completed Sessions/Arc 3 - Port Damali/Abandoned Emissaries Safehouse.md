@@ -2,6 +2,7 @@
 tags:
   - campaign/eryndor
   - location
+  - place/port-damali
 ---
 
 ## Exterior

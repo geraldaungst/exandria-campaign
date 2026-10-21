@@ -7,6 +7,8 @@ tags:
   - npc
   - world/exandria
   - region/menagerie-coast
+  - place/port-damali
+  - faction/clasp
 ---
 
 [[Qilynn Duskwhisper (Nicole)|Qilynn]]'s mentor and trainer.

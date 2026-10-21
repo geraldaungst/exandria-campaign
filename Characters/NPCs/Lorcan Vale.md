@@ -7,6 +7,8 @@ aliases:
 tags:
   - needs-work
   - npc
+  - world/exandria
+  - faction/ashari/pyrah
 ---
 
 ![[lorcan.png|right|300]]

@@ -8,6 +8,7 @@ tags:
   - needs-work
   - world/exandria
   - region/taldorei
+  - place/whitestone
 ---
 
 ![[brin-shadowfoot.png|right|300]]

@@ -8,6 +8,7 @@ tags:
   - world/exandria
   - region/xhorhas
   - offscreen
+  - faction/scars-of-scale-and-tooth
 ---
 
 ![[xarzith-kitril-council.png|right|300]]

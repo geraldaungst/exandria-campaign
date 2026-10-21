@@ -8,6 +8,8 @@ tags:
   - npc
   - world/exandria
   - region/menagerie-coast
+  - place/port-damali
+  - faction/myriad/gentlemans-organization
 ---
 
 ![[dwondaff-pierce.jpeg|right|300]]

@@ -5,6 +5,7 @@ tags:
   - npc
   - world/toril
   - region/sword-coast
+  - needs-work
 ---
 
 ## Edhelri Lewel

@@ -7,6 +7,7 @@ tags:
   - faction
   - world/exandria
   - region/dwendalian-empire
+  - faction/dwendalian-empire
 ---
 
 ## Dwendalian Empire

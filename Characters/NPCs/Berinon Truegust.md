@@ -9,6 +9,8 @@ tags:
   - npc
   - world/exandria
   - region/menagerie-coast
+  - place/port-damali
+  - faction/emissaries-of-the-sunfall
 ---
 
 ![[berinon-truegust.png|right|200]]

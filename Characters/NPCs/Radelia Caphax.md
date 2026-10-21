@@ -9,6 +9,9 @@ home_city: Odessloe
 tags:
   - npc
   - needs-work
+  - world/exandria
+  - place/odessloe
+  - faction/malachite-cord
 ---
 
 ## Quick Reference

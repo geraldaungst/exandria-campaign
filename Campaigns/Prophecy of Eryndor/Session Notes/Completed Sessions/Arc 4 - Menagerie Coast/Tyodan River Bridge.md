@@ -3,6 +3,7 @@ tags:
   - campaign/eryndor
   - location
   - region/menagerie-coast
+  - place/tyodan-river
 ---
 
 ## Quick Reference

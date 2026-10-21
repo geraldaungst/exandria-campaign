@@ -4,6 +4,7 @@ tags:
   - npc
   - world/toril
   - region/sword-coast
+  - needs-work
 ---
 
 Last Edited: May 1, 2021 8:33 PM

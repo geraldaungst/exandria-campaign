@@ -5,6 +5,7 @@ aliases:
 tags:
   - needs-work
   - npc
+  - world/exandria
 ---
 
 home_city: Zadash

@@ -7,6 +7,7 @@ tags:
   - faction
   - world/exandria
   - region/dwendalian-empire
+  - faction/ring-of-three
 ---
 
 Leaders of the city of Bysaes Tyl

@@ -5,6 +5,8 @@ tags:
   - needs-work
   - npc
   - region/dwendalian-empire
+  - world/exandria
+  - faction/cerberus-assembly
 ---
 
 ![[isolene.png|right|300]]

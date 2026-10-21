@@ -9,6 +9,9 @@ knows:
 location:
 tags:
   - npc
+  - world/exandria
+  - faction/malachite-cord
+  - needs-work
 ---
 
 *Half-Elf Druid/Bard*

@@ -5,6 +5,7 @@ tags:
   - npc
   - world/toril
   - region/sword-coast
+  - place/baldurs-gate
 ---
 
 Last Edited: May 1, 2021 8:35 PM

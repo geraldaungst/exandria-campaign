@@ -10,6 +10,8 @@ tags:
   - hook
   - world/exandria
   - region/menagerie-coast
+  - place/rexxentrum
+  - faction/emissaries-of-the-sunfall
 ---
 
 ## Quick Reference

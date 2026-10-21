@@ -10,6 +10,8 @@ tags:
   - npc
   - world/exandria
   - region/menagerie-coast
+  - place/palma-flora
+  - faction/obsidian-echoforge
 ---
 
 Former leader of the [[Obsidian Echoforge - DM Notes]], now serving as advisor to her niece [[Lyren Willowwhisper]]. A firbolg mage of considerable skill, her tenure is best remembered for integrating arcane methods into the group's search—an approach that led to the discovery of the penultimate fragment.

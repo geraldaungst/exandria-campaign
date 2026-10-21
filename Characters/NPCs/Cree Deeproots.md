@@ -11,6 +11,8 @@ tags:
   - npc
   - world/exandria
   - region/dwendalian-empire
+  - place/zadash
+  - faction/myriad
 ---
 
 home_city: Zadash

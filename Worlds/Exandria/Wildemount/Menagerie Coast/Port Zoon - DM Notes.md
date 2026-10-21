@@ -2,6 +2,7 @@
 tags:
   - location
   - region/menagerie-coast
+  - place/port-zoon
 ---
 
 ## Quick Reference

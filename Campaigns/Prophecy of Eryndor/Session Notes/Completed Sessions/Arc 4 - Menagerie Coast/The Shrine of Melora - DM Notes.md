@@ -5,6 +5,7 @@ notable_npcs:
 tags:
   - campaign/eryndor
   - location
+  - place/the-shrine-of-melora
 ---
 
 ## Location Name

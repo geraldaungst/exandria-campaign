@@ -7,6 +7,7 @@ tags:
   - location
   - campaign/eryndor
   - wildemount
+  - place/gnurlsottens
 type: location
 ---
 

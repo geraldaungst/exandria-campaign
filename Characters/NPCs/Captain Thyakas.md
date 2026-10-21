@@ -9,6 +9,8 @@ tags:
   - npc
   - world/exandria
   - region/menagerie-coast
+  - place/port-damali
+  - needs-work
 ---
 
 ![[thyakas.png|right|300]]

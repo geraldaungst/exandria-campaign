@@ -8,6 +8,7 @@ tags:
   - npc
   - needs-work
   - deceased
+  - world/exandria
 ---
 
 ![[dreyara-token.png|right|300]]

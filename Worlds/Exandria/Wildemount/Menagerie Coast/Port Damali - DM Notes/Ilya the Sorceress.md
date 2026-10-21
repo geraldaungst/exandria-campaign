@@ -3,6 +3,8 @@ faction:
 location:
 tags:
   - npc
+  - world/exandria
+  - needs-work
 ---
 
 ## Quick Reference

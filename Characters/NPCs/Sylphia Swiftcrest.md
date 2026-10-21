@@ -7,6 +7,8 @@ aliases:
 tags:
   - needs-work
   - npc
+  - world/exandria
+  - faction/ashari/zephrah
 ---
 
 ![[sylphia.png|right|300]]

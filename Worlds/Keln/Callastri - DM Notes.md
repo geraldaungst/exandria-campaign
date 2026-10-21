@@ -3,6 +3,7 @@ aliases: []
 tags:
   - location
   - world/keln
+  - place/callastri
 ---
 
 ![[Callastri]]

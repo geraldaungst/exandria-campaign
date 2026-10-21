@@ -5,6 +5,7 @@ tags:
   - needs-work
   - npc
   - region/menagerie-coast
+  - world/exandria
 ---
 
 ![[yrene-token.png|left|100]] **Species:** Elf

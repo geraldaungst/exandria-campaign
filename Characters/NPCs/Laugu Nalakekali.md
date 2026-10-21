@@ -6,6 +6,8 @@ aliases:
 tags:
   - npc
   - region/taldorei
+  - world/exandria
+  - needs-work
 ---
 
 ![[laugu-nalakekali.png|right|300]]

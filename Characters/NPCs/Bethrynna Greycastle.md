@@ -5,6 +5,7 @@ tags:
   - npc
   - world/exandria
   - region/menagerie-coast
+  - place/port-damali
 ---
 
 ![[bethrynna.png|right|300]]

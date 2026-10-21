@@ -8,6 +8,7 @@ tags:
   - offscreen
   - world/exandria
   - region/xhorhas
+  - faction/kryn-dynasty
 ---
 
 ## Goals

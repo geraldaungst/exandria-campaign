@@ -12,6 +12,8 @@ tags:
   - hook
   - world/exandria
   - region/menagerie-coast
+  - place/port-damali
+  - needs-work
 ---
 
 ![[celdric.png|right|300]]

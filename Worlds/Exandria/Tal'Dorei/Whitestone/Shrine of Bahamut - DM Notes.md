@@ -1,6 +1,7 @@
 ---
 tags:
   - location
+  - place/whitestone
 ---
 
 ## Exterior of the Shrine

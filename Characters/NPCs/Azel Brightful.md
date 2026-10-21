@@ -8,6 +8,7 @@ tags:
   - hook
   - world/exandria
   - region/taldorei
+  - place/rexxentrum
 ---
 
 ## Quick Reference
