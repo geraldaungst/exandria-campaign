@@ -9,7 +9,6 @@ tags:
 > [!info]- Essential Details
 > - Location: [[Cloudfang Keep - DM Notes]] Library (Area E6)
 > - Current Goal: Complete analysis of Luxon Beacon's temporal resonance properties and their connection to Lorestone shard patterns
-> - Last Updated: `$= moment(dv.current().file.mtime.toString()).format("MMM D, YYYY") + " (" + moment(dv.current().file.mtime.toString()).fromNow() + ")"`
 
 ## Other Important Locations Seen
 

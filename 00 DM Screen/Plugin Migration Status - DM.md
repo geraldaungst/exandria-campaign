@@ -143,6 +143,8 @@ Decisions: delete QuickAdd now. Disable MetaEdit, Kanban, Sort and Permute Lines
 
 2026-10-21 | D6 NPC browser | New Datacore note 00 DM Screen/Code/NPC Browser.md, embedded in Prophecy of Eryndor.md under "NPCs". Scopes by the campaign note's world property; filters for name, place, region, faction (nested tags include children), disposition, plus No place / No faction / Needs work toggles; rows show name, disposition, factions, place. Removed [[Campaign Overview]] from Key notes. Logic tested in a Datacore mock on real vault tags; not rendered in Obsidian. | Done pending a check in Obsidian. Open: delete Campaign Overview.md (yours); remove the npc tag from the five non-NPC notes; Lorestone tracker; Unused Ideas and Lady Emer items; Calendarium NaN session; non-NPC notes still carrying old properties; delete disabled plugins on or after 2026-10-25.
 
+2026-10-21 | D6 last small queries | Lady Emer Status: removed the inline Dataview "Last Updated" line (Recent Work.base shows modified dates). Unused Ideas: removed the Dataview orphan-list block (Janitor covers it). Vault search for remaining Dataview code finds only Campaign Overview.md (to be deleted) and Lorestone Shard Status Tracker.md. | Done. Open: Lorestone tracker design discussion; delete Campaign Overview.md; D8.
+
 ## Open items (as of 2026-10-21)
 
 Next up (Suggest the best next step of these, but Gerald will have final say):
