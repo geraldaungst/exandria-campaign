@@ -20,8 +20,6 @@ where (status = "Active")
 
 ## NPCs
 
-[[00 NPC Map.canvas|Click Here for graphic NPC Map]]
-
 ```dataview
 LIST rows.Summary
 FROM #npc
