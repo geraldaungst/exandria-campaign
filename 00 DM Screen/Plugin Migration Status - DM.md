@@ -4,7 +4,7 @@ description: Working record for the Obsidian plugin cleanup of the D&D DM vault.
 name: plugin-migration-status
 status: active
 type: system-doc
-updated: 2026-10-18
+updated: 2026-10-20
 ---
 
 ## Plugin Migration Status: DM Vault
@@ -53,15 +53,15 @@ Advanced Note Composer, Tag Wrangler (likely), Omnisearch (optional). Optional t
 
 | # | Phase | Depends on | Model | Status |
 |---|---|---|---|---|
-| D0 | Checkpoint: commit a clean git state | none | Sonnet | not started |
-| D1 | Inventory (Findings below) | D0 | Sonnet for counts. Opus for classifying the full Dataview inventory (F2) | not started |
-| D2 | Disable then delete confirmed-unused plugins (MetaEdit if F5 clear) | D1 | Sonnet | not started |
-| D3 | Install Advanced Note Composer, move any Note Refactor hotkeys, retire Note Refactor | F6 | Sonnet | not started |
-| D4 | Admonition decision | F3, F4, F7 | Sonnet | not started |
-| D5 | Dataview triage: label each query Bases, Datacore, or keep for now | F2, F4 | Opus (holistic pass over the whole inventory, one folder at a time) | not started |
-| D6 | Convert in batches, one commit per batch. Simple queries to Bases | D5 | Sonnet for simple Bases conversions. Opus for dataviewjs and complex queries to Datacore JSX | not started |
-| D7 | Install Tag Wrangler and any chosen additions | D6 | Sonnet | not started |
-| D8 | Retire Dataview when no queries remain; final audit of the plugin list against this note | D6, D7 | Sonnet | not started |
+| D0 | Checkpoint: commit a clean git state | none | Sonnet | done 2026-10-18 |
+| D1 | Inventory (Findings below) | D0 | Sonnet for counts. Opus for classifying the full Dataview inventory (F2) | done 2026-10-18 |
+| D2 | Disable then delete confirmed-unused plugins (MetaEdit if F5 clear) | D1 | Sonnet | done; deletion of disabled plugins due on or after 2026-10-25 |
+| D3 | Install Advanced Note Composer, move any Note Refactor hotkeys, retire Note Refactor | F6 | Sonnet | done; Note Refactor Plus used instead of Advanced Note Composer |
+| D4 | Admonition decision | F3, F4, F7 | Sonnet | done; keep Admonition |
+| D5 | Dataview triage: label each query Bases, Datacore, or keep for now | F2, F4 | Opus (holistic pass over the whole inventory, one folder at a time) | mostly done; remaining queries listed in the 2026-10-20 log entry |
+| D6 | Convert in batches, one commit per batch. Simple queries to Bases | D5 | Sonnet for simple Bases conversions. Opus for dataviewjs and complex queries to Datacore JSX | in progress; related notes to Bases, Plot Dashboard to Datacore, 4 queries left |
+| D7 | Install Tag Wrangler and any chosen additions | D6 | Sonnet | Tag Wrangler installed; no other additions chosen |
+| D8 | Retire Dataview when no queries remain; final audit of the plugin list against this note | D6, D7 | Sonnet | not started; waits on D6 |
 
 ### Findings to collect (D1)
 
@@ -70,19 +70,19 @@ Record each answer under its heading. Leave blank until checked.
 - **F1. Obsidian version.** Settings → About. The current Admonition listing requires 1.13.0 or later.
   - Answer: 1.14.4
 - **F2. Dataview inventory.** Count `dataview` and `dataviewjs` code blocks and inline queries, per file. For each: table or list from frontmatter only, or something complex (GROUP BY, FLATTEN, task queries, dataviewjs). A short read-only Python script that outputs a CSV is one option; Gerald decides whether to use it.
-  - Answer:
+  - Answer: Done 2026-10-18: 486 items in 114 files; 433 were the one related-notes query. Fresh count 2026-10-20 is in the Phase log.
 - **F3. Admonition use.** Count notes using `ad-` code blocks, list the distinct types, and check the plugin's custom types in `.obsidian/plugins/obsidian-admonition/data.json`. Native callouts (`> [!note]`) do not count.
-  - Answer:
+  - Answer: 1,587 ad-statblock blocks, all in z_Reference; 10 custom types. Keep Admonition.
 - **F4. Published folder.** List which notes in the published folder contain `ad-` blocks, Dataview queries, statblock blocks, or Calendarium syntax.
-  - Answer: Confirmed 2026-10-18: the Publish folder is one folder inside the DM vault, and Publish publishes only that folder's contents. Folder name and the list of affected notes still to collect.
+  - Answer: Confirmed 2026-10-18: the Publish folder is one folder inside the DM vault, and Publish publishes only that folder's contents. The folder is Player Wiki; it contains no Dataview, ad- blocks, statblocks, or Calendarium syntax (checked 2026-10-18).
 - **F5. MetaEdit use.** Check `.obsidian/hotkeys.json`, Templater scripts, and the DM Vault Inspector for `metaedit`. List matches, or write "none".
-  - Answer:
+  - Answer: None. MetaEdit disabled; delete on or after 2026-10-25.
 - **F6. Note Refactor use.** Which commands and hotkeys are in use. Is the core Note Composer enabled.
-  - Answer:
+  - Answer: No references or hotkeys. Replaced by Note Refactor Plus.
 - **F7. Linter configuration.** Which rules are on, any excluded folders, and whether a YAML timestamp rule is enabled. Confirm Linter does not rewrite published notes in ways that break them.
-  - Answer:
+  - Answer: Linter 1.33.0 configured 2026-10-18 (45 rules on, yaml-timestamp off); ignores z_ folders.
 - **F8. Plugins with unknown or low use.** One line each: Mononote (confirm what it is used for), Janitor, Recent Files, Force note view mode, Kanban (count of boards).
-  - Answer:
+  - Answer: Resolved 2026-10-18: keep Janitor and Mononote; Kanban, Buttons, Sort and Permute disabled; Contextual Typography and QuickAdd deleted.
 
 ### Phase log
 
@@ -120,6 +120,8 @@ Decisions: delete QuickAdd now. Disable MetaEdit, Kanban, Sort and Permute Lines
 2026-10-19 | D5/D6 resume | Datacore not yet installed in DM vault (install just before the Plot Dashboard conversion, after a git commit). The vault reorganization plan (DM_Vault_Reorganization_Plan.md, Revised Phase 8.md, Exandria Vault Reorganization.md, npc-folder-audit.md) is still in progress: retain all of it, archive nothing. Open item 1 (archive stale reorg docs) is replaced by: review the reorg plan and decide whether its remaining phases change the Dataview conversion order. The "24 items" count did not match the folder listing (20 files). Dataview counts per file in 00 DM Screen still to collect.
 
 2026-10-19 | D6 Plot Dashboard + reorg cleanup | Deleted 002 Notes to Process and 002 Incomplete To-Dos (dead: retired `processed` property and old numbered folders). Retagged Tyranny/Faerun NPCs: world/faerun -> world/toril (standard), all get npc + region/sword-coast, campaign/tyranny kept; 13 thin stubs deleted (Characters/NPCs 102 -> 89). Datacore 0.1.29 installed. Plot Dashboard.md rebuilt in Datacore after a Bases test failed (Bases cannot stack a list of links in one cell): cards grouped by stage, stage-colored headers, staleness from file mtime (amber 14 days, red 45), every connected note listed on every plot it touches (both link directions, deduplicated), filter box. Plot Dashboard.base deleted. hide_from_related added to List of Plot Threads and 00 DM Screen. | Done. Rule confirmed: Bases first; Datacore only where Bases cannot show what is needed. Folder Notes `folder-overview` blocks are valid and stay (Revised Phase 8 Part E grep flags them falsely). Remaining Dataview: 00 DM Screen.md (4, all broken), Campaign Overview (3, depend on missing properties), List of Plot Threads, Lorestone Shard Status Tracker, Unused Ideas, Lady Emer Status inline.
+
+2026-10-20 | Status sync, hubs, reorg | Review of the reorg plan against the Dataview order is settled (10-19): no change to the conversion order. The 24 Dataview blocks in the reorg docs are documentation only; both 002 notes were deleted as dead. Remaining Dataview to convert: Campaign Overview (3), Lorestone Shard Status Tracker (1), Unused Ideas (1), Lady Emer Status inline. 00 DM Screen.md has none left; List of Plot Threads moved to z_Archive. Built on Datacore 0.1.29 (Bases first, Datacore only where Bases can't): Plot Dashboard, Recent Work.base, and the two hubs (00 DM Screen, Session Hub) with shared code notes in 00 DM Screen/Code/ and settings in Hub Config. Design and build state: DM Hubs Design.md. Roll20 party data comes from the !party script into Party Card Data. Reorg still open: npc-folder-audit Phases 4-5 (Aveqtaro Thaan hub restructure, her missing subnotes, Qalix and Korfel candidates, Lady Emer satellites, non-NPC sweep), Phase 8 Parts D-F, plan docs update (world/faerun to world/toril, new folder names), final verification checklist. Maintenance backlog item added: scan the vault for cruft. Due on or after 2026-10-25: delete disabled MetaEdit, Kanban, Sort and Permute, Buttons.
 
 ## Open items (as of 2026-10-18)
 
