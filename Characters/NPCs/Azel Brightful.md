@@ -1,7 +1,4 @@
 ---
-affiliations:
-  - none
-current_location: "[[Rexxentrum - DM Notes]]"
 disposition: friendly
 tags:
   - npc

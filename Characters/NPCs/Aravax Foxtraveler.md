@@ -1,5 +1,4 @@
 ---
-current_location: "[[Baldur's Gate]]"
 disposition: indifferent
 tags:
   - npc

@@ -1,6 +1,7 @@
 ---
 tags:
   - location
+  - world/exandria
 ---
 
 ## Miles

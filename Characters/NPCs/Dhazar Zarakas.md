@@ -1,9 +1,6 @@
 ---
-affiliations:
-  - "[[Bahamut]]"
 aliases:
   - dhazar
-current_location: "[[Mount Celestia]]"
 disposition: indifferent
 tags:
   - npc

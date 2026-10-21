@@ -4,6 +4,8 @@ tags:
   - location
   - needs-work
   - place/savalirwood
+  - world/exandria
+  - region/greying-wildlands
 ---
 
 ## Quick Reference

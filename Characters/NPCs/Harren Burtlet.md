@@ -1,5 +1,4 @@
 ---
-current_location: "[[Whitestone]]"
 disposition: indifferent
 tags:
   - npc

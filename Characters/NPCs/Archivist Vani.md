@@ -1,9 +1,6 @@
 ---
-affiliations:
-  - "[[Cobalt Soul - DM Notes]]"
 aliases:
   - Vani
-current_location: "[[Cobalt Soul Archive in Port Damali - DM Notes]]"
 disposition: friendly
 tags:
   - npc

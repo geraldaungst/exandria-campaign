@@ -2,6 +2,7 @@
 tags:
   - location
   - place/single-swig-saloon
+  - world/planar
 ---
 
 ## Introduction

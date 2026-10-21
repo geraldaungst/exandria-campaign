@@ -1,8 +1,4 @@
 ---
-affiliations:
-  - "[[Emissaries of the Sunfall - DM Notes]]"
-  - "[[Draconia]]"
-  - "[[Xarzith Kitril - DM Notes]]"
 aliases:
   - Vaud Qalix
   - Qalix

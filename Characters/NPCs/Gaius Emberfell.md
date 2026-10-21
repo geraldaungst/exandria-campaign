@@ -1,9 +1,6 @@
 ---
-affiliations:
-  - "[[Obsidian Echoforge - DM Notes]]"
 aliases:
   - Gaius
-current_location: "[[Palma Flora]]"
 disposition: indifferent
 tags:
   - npc

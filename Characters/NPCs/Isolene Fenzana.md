@@ -1,6 +1,4 @@
 ---
-affiliations:
-  - Cerberus Assembly
 tags:
   - needs-work
   - npc

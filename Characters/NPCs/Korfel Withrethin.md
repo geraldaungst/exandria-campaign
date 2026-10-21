@@ -1,13 +1,8 @@
 ---
-affiliations:
-  - "[[Myriad]]"
-  - "[[The Gentleman's Criminal Empire]]"
 aliases:
   - The Gentleman
   - Korfel
   - Babenon Dosal
-faction: Myriad
-location: Zadash
 tags:
   - npc
   - region/dwendalian-empire

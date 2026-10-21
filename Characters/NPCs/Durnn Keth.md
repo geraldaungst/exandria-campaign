@@ -1,10 +1,6 @@
 ---
-affiliations:
-  - "[[Terrah Tribe]]"
-  - "[[Ashari Riftguard]]"
 aliases:
   - durnn
-current_location: unknown
 disposition: indifferent
 tags:
   - npc

@@ -1,11 +1,7 @@
 ---
-affiliations:
-  - "[[Obsidian Echoforge - DM Notes]]"
 aliases:
   - Veyda
-current_location: "[[Palma Flora]]"
 disposition: indifferent
-home_city: Palma Flora
 tags:
   - npc
   - world/exandria

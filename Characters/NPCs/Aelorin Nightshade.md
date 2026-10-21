@@ -1,7 +1,4 @@
 ---
-affiliations:
-  - "[[Clasp]]"
-current_location: "[[Aelorin's Headquarters - DM Notes]]"
 disposition: indifferent
 tags:
   - npc

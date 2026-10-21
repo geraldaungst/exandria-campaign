@@ -1,8 +1,4 @@
 ---
-affiliations:
-  - "[[The Gentleman]]"
-  - "[[Myriad]]"
-current_location: "[[Port Damali - DM Notes]]"
 disposition: indifferent
 tags:
   - npc

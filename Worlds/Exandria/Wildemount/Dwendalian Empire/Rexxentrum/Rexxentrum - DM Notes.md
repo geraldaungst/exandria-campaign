@@ -4,6 +4,7 @@ tags:
   - region/dwendalian-empire
   - pending
   - place/rexxentrum
+  - world/exandria
 ---
 
 ## Quick Reference

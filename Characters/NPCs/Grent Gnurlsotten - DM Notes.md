@@ -1,7 +1,6 @@
 ---
 disposition: friendly
 first-appearance: "[[Gnurlsotten's Nosh and Nip Arc]]"
-location: "[[Gnurlsotten's Nosh & Nip - DM Notes]]"
 region: Cyrios Mountains
 species: goliath
 status: alive

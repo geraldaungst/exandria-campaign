@@ -1,7 +1,4 @@
 ---
-affiliations:
-  - "[[Emissaries of the Sunfall - DM Notes]]"
-current_location: unknown
 disposition: hostile
 tags:
   - npc

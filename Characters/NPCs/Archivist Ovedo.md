@@ -1,9 +1,6 @@
 ---
-affiliations:
-  - "[[Cobalt Soul - DM Notes]]"
 aliases:
   - Ovedo
-current_location: "[[Cobalt Soul Archive in Rexxentrum - DM Notes]]"
 disposition: indifferent
 tags:
   - npc

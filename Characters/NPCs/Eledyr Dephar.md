@@ -1,9 +1,6 @@
 ---
-affiliations:
-  - "[[Emissaries of the Sunfall - DM Notes]]"
 aliases:
   - Eledyr
-current_location: "[[Scroll and Scribe]]"
 disposition: hostile
 tags:
   - npc

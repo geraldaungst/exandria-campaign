@@ -1,8 +1,4 @@
 ---
-affiliations:
-  - Skyship
-  - "[[Emissaries of the Sunfall - DM Notes]]"
-location: Rexxentrum
 tags:
   - npc
   - world/exandria

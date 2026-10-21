@@ -8,6 +8,8 @@ tags:
   - campaign/eryndor
   - wildemount
   - place/gnurlsottens
+  - world/exandria
+  - region/cyrios-mountains
 type: location
 ---
 

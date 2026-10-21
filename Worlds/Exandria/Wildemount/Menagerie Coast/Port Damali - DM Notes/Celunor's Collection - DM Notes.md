@@ -5,6 +5,7 @@ tags:
   - location
   - region/menagerie-coast
   - place/port-damali
+  - world/exandria
 ---
 
 ![[celunors-collection.png|right|300]]

@@ -1,10 +1,6 @@
 ---
-affiliations:
-  - "[[Emissaries of the Sunfall - DM Notes]]"
-  - "[[The Inkwell]]"
 aliases:
   - valen
-location: Rexxentrum
 tags:
   - antagonist
   - npc

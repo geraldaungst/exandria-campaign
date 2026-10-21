@@ -3,7 +3,6 @@ aliases:
   - Yara
   - Dreyara
   - Vessa Blackthorn
-location: N/A
 tags:
   - npc
   - needs-work

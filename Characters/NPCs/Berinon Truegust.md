@@ -1,9 +1,6 @@
 ---
-affiliations:
-  - "[[Emissaries of the Sunfall - DM Notes]]"
 aliases:
   - berinon
-current_location: "[[Port Damali - DM Notes]]"
 disposition: hostile
 tags:
   - npc

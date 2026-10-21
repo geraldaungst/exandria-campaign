@@ -1,11 +1,8 @@
 ---
-affiliations:
-  - "[[Celunor's Collection - DM Notes]]"
 aliases:
   - Celunor
   - Celunor the Tidebound
   - Celdric
-current_location: "[[Celunor's Collection - DM Notes]]"
 disposition: indifferent
 tags:
   - npc

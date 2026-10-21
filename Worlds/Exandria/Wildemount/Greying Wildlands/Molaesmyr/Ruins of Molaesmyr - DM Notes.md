@@ -5,6 +5,8 @@ tags:
   - location
   - needs-work
   - place/molaesmyr
+  - world/exandria
+  - region/greying-wildlands
 ---
 
 (Pronounced "mo-LAY-əs-meer")

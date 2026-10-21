@@ -3,6 +3,7 @@ tags:
   - location
   - region/menagerie-coast
   - place/port-zoon
+  - world/exandria
 ---
 
 ## Quick Reference

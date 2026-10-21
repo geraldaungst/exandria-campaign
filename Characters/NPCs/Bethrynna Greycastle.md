@@ -1,5 +1,4 @@
 ---
-current_location: "[[Port Damali - DM Notes]]"
 disposition: friendly
 tags:
   - npc

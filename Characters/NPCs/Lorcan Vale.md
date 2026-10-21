@@ -1,7 +1,4 @@
 ---
-affiliations:
-  - Pyrah Tribe
-  - "[[Ashari Riftguard]]"
 aliases:
   - lorcan
 tags:

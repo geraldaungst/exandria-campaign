@@ -1,11 +1,8 @@
 ---
-affiliations:
-  - "[[Myriad]]"
 aliases:
   - Cree
 context:
 created: 2025-09-28
-current_location: "[[Zadash - DM Notes]]"
 disposition: indifferent
 tags:
   - npc

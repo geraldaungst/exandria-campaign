@@ -1,11 +1,6 @@
 ---
-affiliations:
-  - Independent Contractor
-  - Former Dwendalian Military
 aliases:
   - Varnes
-faction: None
-location: [[Cloudfang Keep]]
 tags:
   - npc
   - world/exandria

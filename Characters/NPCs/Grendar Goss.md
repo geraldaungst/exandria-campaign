@@ -1,9 +1,5 @@
 ---
-affiliations:
-  - "[[Unshaken (Skyship)]]"
-current_location: "[[Port Damali - DM Notes]]"
 disposition: indifferent
-home_city: Zadash
 tags:
   - npc
   - world/exandria

@@ -1,7 +1,4 @@
 ---
-faction:
-  - Emissaries of the Sunfall
-location: "[[Cloudfang Keep - DM Notes]]"
 tags:
   - npc
   - region/cyrios-mountains

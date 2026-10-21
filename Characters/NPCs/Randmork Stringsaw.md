@@ -1,5 +1,4 @@
 ---
-home_city: Zadash
 region: "Tal'Dorei"
 tags:
   - needs-work

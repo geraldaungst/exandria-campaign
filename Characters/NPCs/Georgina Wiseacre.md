@@ -1,10 +1,6 @@
 ---
-affiliations:
-  - "[[Emissaries of the Sunfall - DM Notes]]"
-  - "[[Skyship]]"
 aliases:
   - georgina
-current_location: unknown
 disposition: hostile
 tags:
   - npc

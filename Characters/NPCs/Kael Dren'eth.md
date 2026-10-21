@@ -1,11 +1,6 @@
 ---
-affiliations:
-  - "[[Malachite Cord - DM Notes]]"
-  - Terrah Tribe
 aliases:
   - kael
-faction:
-location: "[[The Shrine of Melora - DM Notes]]"
 tags:
   - npc
   - world/exandria

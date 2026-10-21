@@ -1,10 +1,6 @@
 ---
-affiliations:
-  - "[[Obsidian Echoforge - DM Notes]]"
 aliases:
   - Lyren
-current_location: Palma Flora
-home_city: Palma Flora
 tags:
   - npc
   - needs-work

@@ -137,6 +137,10 @@ Decisions: delete QuickAdd now. Disable MetaEdit, Kanban, Sort and Permute Lines
 
 2026-10-21 | D6 old properties | Resolved the 14 NPCs whose faction/affiliation values had no tag: Gilxel Valthyra gets place/candlekeep, Laugu Nalakekali gets place/whitestone (needs-work removed on both); Unshaken/Skyship (8 NPCs), Celunor's Collection, The Inkwell, Bahamut, Xarzith Kitril intentionally dropped. | Done. Open: grep for readers of the old properties, then retire them (dry run first); world/region tags on 30 location notes; NPC browser; Lorestone tracker; Calendarium NaN session.
 
+2026-10-21 | D6 old properties | Retired affiliations, faction, current_location, home_city and location from the front matter of 62 NPC notes (Characters/, tagged npc). Venue-level current_location values on 11 notes were dropped by decision. Non-NPC notes and note-body text left alone. Only live reader was the Lorestone tracker (deferred). | Done. Open: world/region tags on 30 location notes; NPC browser in the campaign folder note; Lorestone tracker; Unused Ideas and Lady Emer items; Calendarium NaN session; non-NPC notes still carrying the old properties (8 factions, a few locations/items, 5 campaign notes).
+
+2026-10-21 | D6 location tags | Added world/ and/or region/ tags (from folder path) to 27 location notes under Worlds/; 3 skipped (Skyship Distances and Travel Times, Callastri, The Single Swig Saloon). Place tags and needs-work not touched. | Done. Open: NPC browser in the campaign folder note (drop the [[Campaign Overview]] link; you delete Campaign Overview.md); Lorestone tracker; Unused Ideas and Lady Emer items; Calendarium NaN session; remove npc tag from Harmonic Planar Conduit (yours); non-NPC notes still carrying old properties; delete disabled plugins on or after 2026-10-25.
+
 ## Open items (as of 2026-10-18)
 
 Next up (Suggest the best next step of these, but Gerald will have final say):

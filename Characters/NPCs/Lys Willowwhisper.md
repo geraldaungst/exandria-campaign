@@ -1,8 +1,4 @@
 ---
-affiliations:
-  - - - Obsidian Echoforge
-faction:
-location:
 tags:
   - historical
   - needs-work

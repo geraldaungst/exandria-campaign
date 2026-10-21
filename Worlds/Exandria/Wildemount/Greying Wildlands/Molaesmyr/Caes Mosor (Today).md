@@ -5,6 +5,8 @@ tags:
   - location
   - needs-work
   - place/molaesmyr/caes-mosor
+  - world/exandria
+  - region/greying-wildlands
 ---
 
 Today Caes Mosor, like the rest of [[Ruins of Molaesmyr - DM Notes|Molaesmyr]], is a ruined shell of its [[Caes Mosor (Historical)|former glory]]. The tower remains standing and is surprisingly intact considering the ravages of time. The tower has eleven levels. They are listed here according to their original purpose, though today they are mostly empty and overgrown:

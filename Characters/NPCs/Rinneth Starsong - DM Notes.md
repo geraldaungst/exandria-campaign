@@ -1,12 +1,8 @@
 ---
-affiliations:
-  - "[[Malachite Cord - DM Notes]]"
 aliases:
   - rinneth
-faction:
 important_for:
 knows:
-location:
 tags:
   - npc
   - world/exandria

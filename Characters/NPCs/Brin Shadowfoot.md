@@ -1,7 +1,6 @@
 ---
 aliases:
   - Brin
-current_location: "[[Whitestone]]"
 disposition: friendly
 tags:
   - npc

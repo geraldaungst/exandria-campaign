@@ -1,6 +1,4 @@
 ---
-faction:
-location:
 tags:
   - needs-work
   - npc

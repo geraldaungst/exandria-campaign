@@ -1,11 +1,6 @@
 ---
-affiliations:
-  - "[[Malachite Cord - DM Notes]]"
-  - Skyship
 aliases:
   - Radelia
-current_location: The Shrine of Melora
-home_city: Odessloe
 tags:
   - npc
   - needs-work

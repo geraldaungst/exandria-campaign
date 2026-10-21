@@ -1,9 +1,4 @@
 ---
-affiliations:
-  - "[[Clasp]]"
-  - "[[Emissaries of the Sunfall - DM Notes]]"
-  - "[[Obsidian Echoforge - DM Notes]]"
-current_location: "[[Port Damali - DM Notes]]"
 disposition: indifferent
 tags:
   - npc

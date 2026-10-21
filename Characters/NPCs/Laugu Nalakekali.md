@@ -1,6 +1,4 @@
 ---
-affiliations:
-  - Whitestone
 aliases:
   - Laugu
 tags:

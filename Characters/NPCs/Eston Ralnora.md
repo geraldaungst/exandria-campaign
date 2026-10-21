@@ -1,7 +1,4 @@
 ---
-affiliations:
-  - "[[Unshaken (Skyship)]]"
-current_location: "[[The Unshaken]]"
 disposition: indifferent
 tags:
   - npc

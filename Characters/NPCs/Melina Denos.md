@@ -1,7 +1,4 @@
 ---
-affiliations:
-  - Vesrah Tribe
-  - "[[Ashari Riftguard]]"
 aliases:
   - melina
 tags:

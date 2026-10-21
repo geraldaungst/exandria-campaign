@@ -1,12 +1,7 @@
 ---
-affiliations:
-  - Unaffiliated
 aliases:
   - Shoagragoth
   - Acid Crown
-current_location: "Ebonglass Massif"
-faction: 
-location:
 tags:
   - npc
   - needs-work

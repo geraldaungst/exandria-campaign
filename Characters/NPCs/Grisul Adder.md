@@ -1,5 +1,4 @@
 ---
-current_location: "[[Harmony Hall - DM Notes]]"
 disposition: friendly
 tags:
   - npc

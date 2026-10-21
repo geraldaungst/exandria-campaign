@@ -1,9 +1,6 @@
 ---
-affiliations:
-  - "[[Scars of Scale and Tooth]]"
 aliases:
   - Gorrath
-current_location: "unknown"
 disposition: hostile
 tags:
   - npc

@@ -1,7 +1,4 @@
 ---
-affiliations:
-  - "[[Candlekeep Library]]"
-current_location: "unknown"
 disposition: indifferent
 tags:
   - npc

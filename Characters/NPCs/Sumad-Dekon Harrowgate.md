@@ -1,6 +1,4 @@
 ---
-affiliations:
-  - "[[Emissaries of the Sunfall - DM Notes]]"
 aliases:
   - sumad
   - sumad-dekon

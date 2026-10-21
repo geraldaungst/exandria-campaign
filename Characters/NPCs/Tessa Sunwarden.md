@@ -1,6 +1,4 @@
 ---
-affiliations:
-  - "[[Obsidian Echoforge - DM Notes]]"
 aliases:
   - tessa
 tags:

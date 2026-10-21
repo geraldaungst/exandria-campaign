@@ -1,7 +1,4 @@
 ---
-affiliations:
-  - Unshaken (Skyship)
-home_city: Zadash
 tags:
   - needs-work
   - npc

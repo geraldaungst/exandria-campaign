@@ -1,7 +1,4 @@
 ---
-affiliations:
-  - Zephrah Tribe
-  - "[[Ashari Riftguard]]"
 aliases:
   - sylphia
 tags:

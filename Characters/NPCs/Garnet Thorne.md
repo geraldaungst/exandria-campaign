@@ -1,7 +1,6 @@
 ---
 aliases:
   - Garnet
-current_location: "[[Whitestone]]"
 disposition: hostile
 tags:
   - npc

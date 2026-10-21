@@ -5,6 +5,8 @@ aliases:
 tags:
   - location
   - place/port-damali/harmony-hall
+  - world/exandria
+  - region/menagerie-coast
 ---
 
 ## Quick Reference

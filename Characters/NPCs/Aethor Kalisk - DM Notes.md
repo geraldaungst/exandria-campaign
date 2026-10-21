@@ -1,11 +1,7 @@
 ---
-affiliations:
-  - "[[Obsidian Echoforge - DM Notes]]"
 aliases:
   - Aethor
-current_location: "[[Port Damali - DM Notes]]"
 disposition: friendly
-home_city: Port Damali
 tags:
   - npc
   - world/exandria
