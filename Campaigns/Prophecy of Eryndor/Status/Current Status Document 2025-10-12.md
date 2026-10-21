@@ -17,7 +17,7 @@ tags:
 
 ### Cyrios Mountains
 
-- **Dreyara Drimvar** is bringing [[Lorestone Shard Status Tracker#Shard 6|Shard 6]] to Lady Emer to study
+- **Dreyara Drimvar** is bringing [[Shard 6 - Marquet Shard|Shard 6]] to Lady Emer to study
   - *She possesses Drawg's Blade of Maroth Fenn (dagger)*
   - She is about a day behind the party and will reach [[Cloudfang Keep - DM Notes]] soon
 - Lady Emer has a [[luxon-beacon-egw|Luxon Beacon]] though she doesn't know its full implications.

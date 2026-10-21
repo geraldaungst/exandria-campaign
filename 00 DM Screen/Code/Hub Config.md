@@ -1,4 +1,5 @@
 ---
+calendar_category_pieces: Lorestone
 calendar_category_sessions: Sessions
 campaign_tag_prefix: campaign/
 data_url_5etools: https://raw.githubusercontent.com/5etools-mirror-3/5etools-src/main/data
@@ -17,13 +18,21 @@ folder_stubs: Stubs
 folder_worlds: Worlds
 heading_fact_map: Fact Map
 heading_left_off: Where we left off
+heading_piece_history: History
+heading_piece_knows: Who knows
+heading_piece_lines: Prophecy lines
+heading_piece_pursuit: Pursued by
+heading_piece_questions: Open questions
+heading_piece_rulings: Properties and rulings
 heading_prep: Prep
 hide_from_related: true
 label_changed_at_table: Changed at the table
+label_party: Party
 label_party_location: Party location
 label_threads_moved: Threads moved
 label_world_next: World next
 party_card_note: 00 DM Screen/Party Card Data.md
+piece_tag_prefix: piece
 status_running: running
 statuses_paused:
   - paused
@@ -68,6 +77,7 @@ template_session: Session Template
 - **`status_running` and `statuses_paused`**: arc `status` values for the arc being played and for arcs set aside.
 - **`data_url_5etools`**: the folder address of a 5e.tools data mirror, without a trailing slash. [[Item Data]] downloads `items.json`, `items-base.json`, and `magicvariants.json` from it for the item search.
 - **`calendar_category_sessions`**: the Calendarium category for session notes (left out of Close Session's event categories).
+- **Artifact pieces** ([[Artifact Pieces]]): notes tagged `<piece_tag_prefix>/<artifact slug>` are the pieces of one artifact (`piece/lorestone-of-eryndor`). The `heading_piece_…` values are the `##` headings inside each piece note. `calendar_category_pieces` is the Calendarium category the hub's change form writes. `label_party` is the plain word that stands for the whole party in a piece's lines.
 
 ## What this note can't change
 

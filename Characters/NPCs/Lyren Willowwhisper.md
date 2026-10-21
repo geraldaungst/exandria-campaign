@@ -20,7 +20,7 @@ tags:
 
 ## Description & Roleplay
 
-Youthful exuberance despite the weight she carries. Tall for her lineage, deep blue Willowwhisper eyes, wild raven-black hair with subtle emerald hints. Practical leather armor and cloaks over robes. Wears the [[Shard of Willow's Legacy]] pendant—a fragment of the original Lorestone disc in an ornate silver setting.
+Youthful exuberance despite the weight she carries. Tall for her lineage, deep blue Willowwhisper eyes, wild raven-black hair with subtle emerald hints. Practical leather armor and cloaks over robes. Wears the [[Shard 1 - Nightshade Shard|Shard of Willow's Legacy]] pendant—a fragment of the original Lorestone disc in an ornate silver setting.
 
 - **Voice:** Measured and confident, with genuine warmth when speaking one-on-one. Doesn't raise her voice—gets quieter when she's serious, not louder.
 - **Mannerisms:** Asks questions about the people she's talking to and remembers the answers. Touches the Shard pendant when thinking through a decision. Once she's decided, her body language shifts—leaning forward, eye contact, no more deliberation.

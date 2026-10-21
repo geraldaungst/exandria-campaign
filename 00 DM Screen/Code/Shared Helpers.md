@@ -8,7 +8,7 @@ hide_from_related: true
 
 **Depends on:** none
 
-**Used by:** [[Campaign State]] · [[Calendar and Timeline]] · [[Note Types]] · [[Arc and Session Views]] · [[DM Screen Views]] · [[Session Hub Views]] · [[Session Hub Table]] · [[Quick Capture]] · [[Item Data]] · [[Party Card]] · [[Diagnostics]]
+**Used by:** [[Campaign State]] · [[Calendar and Timeline]] · [[Note Types]] · [[Arc and Session Views]] · [[DM Screen Views]] · [[Session Hub Views]] · [[Session Hub Table]] · [[Quick Capture]] · [[Item Data]] · [[Party Card]] · [[Diagnostics]] · [[Artifact Pieces]]
 
 The block below is plain `jsx`, so it does not run on this page. Notes load it with `dc.require(dc.headerLink("00 DM Screen/Code/Shared Helpers.md", "Code"))`. After editing, reopen any note that uses it. Design: [[DM Hubs Design]].
 
@@ -60,6 +60,15 @@ const CONFIG_DEFAULTS = {
   label_threads_moved: "Threads moved",
   label_changed_at_table: "Changed at the table",
   label_world_next: "World next",
+  label_party: "Party",
+  piece_tag_prefix: "piece",
+  heading_piece_history: "History",
+  heading_piece_knows: "Who knows",
+  heading_piece_pursuit: "Pursued by",
+  heading_piece_lines: "Prophecy lines",
+  heading_piece_questions: "Open questions",
+  heading_piece_rulings: "Properties and rulings",
+  calendar_category_pieces: "Lorestone",
   template_session: "Session Template",
   status_running: "running",
   statuses_paused: ["paused", "abandoned"],

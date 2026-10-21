@@ -14,11 +14,11 @@ tags:
 
 Where once-grand spires whispered tales, now silent groves foretell,
 
-***[[Lorestone of Eryndor - DM Notes#^shard6|Wildmother's care and Arch Heart's grace could not corruption quell.]]***
+***[[Shard 6 - Marquet Shard|Wildmother's care and Arch Heart's grace could not corruption quell.]]***
 
 Worlds align and form a breach, in realms both stark and shrouded,
 
-***[[Lorestone of Eryndor - DM Notes#^shard6|Secrets loom, in twilight's reach, as cosmic paths are clouded.]]***
+***[[Shard 6 - Marquet Shard|Secrets loom, in twilight's reach, as cosmic paths are clouded.]]***
 
 Three symbols rise 'neath fate's keen eye, each drawn to rifts' grand strand,
 
@@ -28,17 +28,17 @@ The vigilant shield, in lore deep, guards 'gainst the gathering night,
 
 The verdant tree, in wisdom's keep, absorbs Exandria's plight.
 
-***[[Lorestone of Eryndor - DM Notes#^shard7|In the abyss, a beacon bright, its fate a mysterious stone,]]***
+***[[Shard 7 - Ebonglass Shard|In the abyss, a beacon bright, its fate a mysterious stone,]]***
 
 Is this gleam a guiding light, or a signal of danger unknown?
 
-***[[Lorestone of Eryndor - DM Notes#^shard7|Order and chaos, in union move, as the rifts' song grows strong,]]***
+***[[Shard 7 - Ebonglass Shard|Order and chaos, in union move, as the rifts' song grows strong,]]***
 
 Their chorus may a new world prove, or a requiem's final song.
 
-***[[Lorestone of Eryndor - DM Notes#^shard8|On destiny's edge, a task unfolds, to reforge wisdom's Key,]]***
+***[[Shard 8 - Astral Shard|On destiny's edge, a task unfolds, to reforge wisdom's Key,]]***
 
-***[[Lorestone of Eryndor - DM Notes#^shard8|Its whispers hold a fate untold, in time's final decree.]]***
+***[[Shard 8 - Astral Shard|Its whispers hold a fate untold, in time's final decree.]]***
 
 In cosmic scales, where truths do sway, Exandria's fate's at play,
 
