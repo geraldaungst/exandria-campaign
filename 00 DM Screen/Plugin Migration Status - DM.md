@@ -4,7 +4,7 @@ description: Working record for the Obsidian plugin cleanup of the D&D DM vault.
 name: plugin-migration-status
 status: active
 type: system-doc
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 ## Plugin Migration Status: DM Vault
@@ -49,6 +49,8 @@ MetaEdit (both vaults), Note Refactor (after Advanced Note Composer is in), Admo
 
 Advanced Note Composer, Tag Wrangler (likely), Omnisearch (optional). Optional trials: Iconic, Notebook Navigator, Strong Start, The DM Compendium, Advanced Multi Column.
 
+Outcome 2026-10-22 (DM vault): Omnisearch chosen for a trial. Declined: Iconic (cosmetic; navigation is through the hubs), Notebook Navigator (replaces the file explorer; overlaps Folder Notes, Recent Files, Tag Wrangler), Strong Start (its own session structure would duplicate Session Hub, arcs and Fact Map; not in the plugin store), The DM Compendium (puts compendium data back in the vault; Item Finder and online references cover it), Advanced Multi Column (no column use; MCL snippet covers it; doesn't render on Publish).
+
 ### Phase plan (DM vault)
 
 | #   | Phase                                                                                    | Depends on | Model                                                                                        | Status                                                                    |
@@ -60,7 +62,7 @@ Advanced Note Composer, Tag Wrangler (likely), Omnisearch (optional). Optional t
 | D4  | Admonition decision                                                                      | F3, F4, F7 | Sonnet                                                                                       | done; keep Admonition                                                     |
 | D5  | Dataview triage: label each query Bases, Datacore, or keep for now                       | F2, F4     | Opus (holistic pass over the whole inventory, one folder at a time)                          | done 2026-10-21         |
 | D6  | Convert in batches, one commit per batch. Simple queries to Bases | D5 | Sonnet for simple Bases conversions. Opus for dataviewjs and complex queries to Datacore JSX | done 2026-10-21 |
-| D7  | Install Tag Wrangler and any chosen additions                                            | D6         | Sonnet                                                                                       | Tag Wrangler installed; no other additions chosen                         |
+| D7  | Install Tag Wrangler and any chosen additions                                            | D6         | Sonnet                                                                                       | Tag Wrangler installed; Omnisearch trial chosen 2026-10-22; other trials declined |
 | D8  | Retire Dataview when no queries remain; final audit of the plugin list against this note | D6, D7 | Sonnet | done 2026-10-21; Dataview disabled, delete on or after 2026-10-28 |
 
 ### Findings to collect (D1)
@@ -191,18 +193,22 @@ Decisions: delete QuickAdd now. Disable MetaEdit, Kanban, Sort and Permute Lines
 
 2026-10-22 | Aveqtaro reorg | Removed the Aveqtaro Dynasty Bridge link from the hub's Subnotes (note never existed; content lives in Luxon Beacon Political Consequences and the tracker's Convergence card; create it when the Dynasty thread is near). aveqtaro.rtf compared with Aveqtaro Thaan: an older copy of the same note (the current note adds Tazriin Velko's name and the Related Notes embed), nothing to carry over | Aveqtaro reorg done: hub plus two subnotes (Memory Recovery Tracker, What Aveqtaro Thaan Knows). aveqtaro.rtf can be deleted.
 
+2026-10-22 | D8 tidy-up | Removed the two stale snippet entries (blank_table_headers, readable-typography-inter) from .obsidian/appearance.json. Plugin count now 17 enabled (Force note view mode deleted after the D8 audit); installed but disabled: Buttons, MetaEdit, Kanban, Sort and Permute, Dataview. Personal vault: folder-notes/data.json.bak.json deleted by Gerald. | Done. Remaining DM plugin work: the dated deletions.
+
+2026-10-22 | D7 additions review | Reviewed the optional additions (Omnisearch, Iconic, Notebook Navigator, Strong Start, The DM Compendium, Advanced Multi Column) against the DM vault, from plugin pages only; nothing tested in Obsidian. Gerald's call: trial Omnisearch (typo-tolerant search for invented names); decline the other five. | Omnisearch trial not started.
+
 ## Open items (as of 2026-10-22)
 
 Next up (Suggest the best next step of these, but Gerald will have final say):
 1. Housekeeping deletions on their dates (below).
-2. npc-folder-audit Phases 4-5, remainder (Aveqtaro Thaan done 2026-10-22): fill or retire the empty placeholder Bramwell Bellweather - DM Notes (material is in the Deastok Investigation arc's Bramwell epilogue); evaluate Vaud Qalix and Korfel Withrethin as Tier 1 hubs; the non-NPC sweep of Characters/NPCs; the Lady Emer satellites.
+2. D7: Omnisearch trial. Install, set it to respect Excluded files so the z_ folders stay out, use it for a week; keep it or remove it.
+3. npc-folder-audit Phases 4-5, remainder (Aveqtaro Thaan done 2026-10-22): fill or retire the empty placeholder Bramwell Bellweather - DM Notes (material is in the Deastok Investigation arc's Bramwell epilogue); evaluate Vaud Qalix and Korfel Withrethin as Tier 1 hubs; the non-NPC sweep of Characters/NPCs; the Lady Emer satellites.
 
 Gerald's own tasks:
 - Delete Characters/NPCs/aveqtaro.rtf (untracked; superseded by Aveqtaro Thaan, checked 2026-10-22).
 - Remove the npc tag from three notes that show in the NPC Browser: Manifesto - Brief and Manifesto - Reclaiming the Glory of Draconia (Characters/Adversaries/Vaud Qalix - DM Notes), and Keldar Stonefoot Letter to Calderax (Plot Threads). "History of Tessa and Sumad-Dekon, Eryndor" was not found by that name; check whether it was renamed or deleted. Harmonic Planar Conduit is done.
 - Vault root cleanup (the seven orphans Janitor lists): move replace_related_blocks.py out of the vault and delete the six *_dryrun.txt and *_applied.txt reports.
 - Lawbearer's Tear.md is empty and three notes link to it: fill it in or leave it.
-- Optional: .obsidian/appearance.json lists two snippets that no longer exist (blank_table_headers, readable-typography-inter). Harmless; Claude can remove them with the vault closed.
 
 Reorganization docs (update when convenient):
 - DM_Vault_Reorganization_Plan: final checklist has 7 open boxes. Reword "Dataview queries return expected results" for Bases and Datacore, and change world/faerun to world/toril.
@@ -240,7 +246,7 @@ Housekeeping on or after 2026-10-25:
 - DM vault: delete disabled plugins MetaEdit, Kanban, Sort and Permute, Buttons. The original Note Refactor is already uninstalled.
 - DM vault, on or after 2026-10-28: delete Dataview.
 - Personal vault: delete disabled MetaEdit.
-- Delete the Desktop copy of obsidian-folder-notes (folder-notes/data.json.bak is already gone).
+- Delete the Desktop copy of obsidian-folder-notes (the folder-notes/data.json.bak.json backup was deleted 2026-10-22).
 
 Still open in the personal vault: P6 final audit (update plugin lists in "8 - System Infrastructure/Obsidian System Context.md", line 114 mentions MetaEdit, and plugins.txt). The Related Notes pattern is DM-vault only; the personal vault has no equivalent yet.
 
