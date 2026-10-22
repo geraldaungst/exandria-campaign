@@ -177,6 +177,10 @@ Decisions: delete QuickAdd now. Disable MetaEdit, Kanban, Sort and Permute Lines
 
 2026-10-21 | D6 Lorestone roll-up | Aelorin's Shard 6 line changed from exists to a false belief (thinks it was a rare relic, not a shard); the Clasp shows gold on 6. Removed a stray "œ" line from the tracker note (typed in Obsidian; Option+Q on a Mac). Harness tests pass. | Done. Roll-up review complete.
 
+2026-10-21 | Calendarium NaN | data.json: 8 links repointed (+#36, #37), 1 link cleared, 7 events removed (4 duplicates/stray, 3 post-death Dreyara), 2 categories set; backup data.json.bak-2026-10-21 | verified by re-read; not yet opened in Obsidian
+
+2026-10-21 | Janitor | aveqtaro.rtf and etcheda-monkey-token.png no longer listed (handled by Gerald) | orphans 9 → 7; remaining items held for D8 and the Aveqtaro reorg
+
 ## Open items (as of 2026-10-21)
 
 Next up (Suggest the best next step of these, but Gerald will have final say):

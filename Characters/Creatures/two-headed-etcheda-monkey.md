@@ -1,13 +1,17 @@
 ---
-tags: compendium
+tags:
+  - compendium
 ---
-![[etcheda-monkey.png|right|300]]
+
+![[etcheda-monkey-token.png|300|right]]
 
 *Small monstrosity, unaligned*
 
 Armor Class: 12
 Hit Points: 22 (4d6 + 8)
 Speed: 40 ft., climb 40 ft.
+
+![[etcheda-monkey.png|right|300]]
 
 STR - 8 (-1)
 DEX - 14 (+2)
