@@ -2,9 +2,9 @@
 hide_from_related: true
 ---
 
-**Purpose:** The views on an artifact hub (the Lorestone Shard Status Tracker): a one-line "held by" overview, and a card per piece showing its holder, location, who knows, who pursues it, and its inscribed lines, with a detail panel for its full history, rulings, notes, open questions, and sessions. Read-only; editing comes in a later stage.
+**Purpose:** The views on an artifact hub (the Lorestone Shard Status Tracker): a one-line "held by" overview, a who-knows-what grid, and a card per piece showing its holder, location, who knows, who pursues it, and its inscribed lines, with a detail panel for its full history, rulings, notes, open questions, and sessions. Read-only; editing comes in a later stage.
 
-**Exports:** `PieceOverview`, `PieceCards`, `usePartyLocation`
+**Exports:** `PieceOverview`, `PieceCards`, `WhoKnowsGrid`, `usePartyLocation`
 
 **Depends on:** [[Shared Helpers]] · [[Campaign State]] · [[Session Hub Views]] · [[Hub Layout]] · [[Artifact Pieces]]
 
@@ -18,6 +18,7 @@ Conventions this module relies on:
 - **Party location.** The link in the `Party location` bullet under `Where we left off` in the last played session, the same rule as the Session Hub's "Where are we". A piece held by a PC or by the party shows that place.
 - **Overview.** One line: each holder followed by the numbers of the pieces they hold; each number opens its note. Made to be embedded elsewhere (the artifact's DM note, the plot thread).
 - **Cards.** One per piece in number order. "More" opens the detail panel under the cards, one piece at a time. A card with lines the reader could not parse shows a warning; the panel lists them.
+- **Who knows what.** One row per person, faction, or the party; one column per piece. Each cell is shaded by the highest level known: light green knows it exists, mid green knows where (or who holds it), dark green holds it; gold believes something false (whatever the false belief is); ↗ marks pursuing, on top of any of these. Factions and the party start folded: click a folded group's name to show its members. Once open, the name is a link to its note and the ▾ beside it folds the group again (a name, faction, or place filter opens the groups it matches). Rows come from the pieces' holders and their Who knows and Pursued by lines; a person's lines also count for each faction they belong to and, for a PC, for the party, and they are listed under it. Filters: name, faction, and place (the `place/…` tags on the people's own notes). Clicking a cell lists the lines behind it.
 - **Sessions in the panel.** Every session note a piece's lines cite, plus every session note that links to the piece's note, newest first.
 
 The block below is plain `jsx`, so it does not run on this page. Notes load it with `dc.require(dc.headerLink("00 DM Screen/Code/Artifact Hub Views.md", "Code"))`. After editing, reopen any note that uses it. Design: [[DM Hubs Design]].
@@ -29,7 +30,7 @@ const { cfg, num, useNoteText, S: BASE } = await dc.require(dc.headerLink("00 DM
 const { useActiveCampaign, useSessionState } = await dc.require(dc.headerLink("00 DM Screen/Code/Campaign State.md", "Code"));
 const { sectionText, labelItems } = await dc.require(dc.headerLink("00 DM Screen/Code/Session Hub Views.md", "Code"));
 const { Row, Cell } = await dc.require(dc.headerLink("00 DM Screen/Code/Hub Layout.md", "Code"));
-const { usePieces, displayName } = await dc.require(dc.headerLink("00 DM Screen/Code/Artifact Pieces.md", "Code"));
+const { usePieces, displayName, CODES } = await dc.require(dc.headerLink("00 DM Screen/Code/Artifact Pieces.md", "Code"));
 
 // Link styling, as on the Plot Dashboard: normal text color, accent and underline on hover.
 const CSS = `
@@ -464,5 +465,213 @@ function PieceCards({ piece, original, modern }) {
   );
 }
 
-return { PieceOverview, PieceCards, usePartyLocation };
+// ── Who knows what ────────────────────────────────────────────────
+
+const G = {
+  bar: { display: "flex", flexWrap: "wrap", alignItems: "end", gap: "10px 16px", margin: "4px 0 10px" },
+  field: { display: "flex", flexDirection: "column", gap: "2px" },
+  table: { borderCollapse: "collapse", fontSize: "var(--font-ui-small)" },
+  th: { padding: "4px 8px", textAlign: "center", color: "var(--text-muted)", fontWeight: 600, borderBottom: "1px solid var(--background-modifier-border)" },
+  name: { padding: "3px 12px 3px 0", textAlign: "left", whiteSpace: "nowrap" },
+  member: { padding: "3px 12px 3px 18px", textAlign: "left", whiteSpace: "nowrap", color: "var(--text-muted)" },
+  cell: { width: "30px", height: "24px", padding: 0, textAlign: "center", borderRadius: "4px", cursor: "pointer", fontSize: "13px", lineHeight: "24px" },
+  grid: { borderCollapse: "separate", borderSpacing: "3px", fontSize: "var(--font-ui-small)" },
+  fold: { cursor: "pointer", userSelect: "none", display: "inline-block", width: "20px", fontSize: "1.25em", lineHeight: 1, color: "var(--text-muted)", textAlign: "center" },
+  foldedName: { cursor: "pointer", userSelect: "none" },
+  swatch: { display: "inline-block", width: "12px", height: "12px", borderRadius: "3px", verticalAlign: "-2px", marginRight: "5px" },
+  groupRow: { borderTop: "1px solid var(--background-modifier-border-hover)" },
+  picked: { background: "var(--background-modifier-hover)", outline: "1px solid var(--interactive-accent)" },
+  sources: { margin: "10px 0", padding: "8px 12px", borderLeft: "3px solid var(--interactive-accent)", background: "var(--background-primary-alt)" },
+};
+const CODE_LABEL = Object.fromEntries(CODES.map((c) => [c.code, c.label]));
+// Shade by the highest level known; gold for a false belief; pursuing is a mark on top.
+// Greens are mixed with black, so more knowledge reads brighter; all colors are opaque in light and dark themes.
+const DARK_INK = "rgba(0, 0, 0, 0.78)";
+const LEVELS = [
+  { code: "H", label: "holds", bg: "var(--color-green)", ink: DARK_INK },
+  { code: "K", label: "knows where", bg: "color-mix(in srgb, var(--color-green) 78%, black)", ink: "#ffffff" },
+  { code: "E", label: "knows it exists", bg: "color-mix(in srgb, var(--color-green) 55%, black)", ink: "#ffffff" },
+  { code: "W", label: "believes something false", bg: "color-mix(in srgb, var(--color-yellow) 85%, var(--color-orange))", ink: DARK_INK },
+];
+const levelOf = (cell) => (cell ? LEVELS.find((l) => cell.codes.has(l.code)) ?? null : null);
+const pursuing = (cell) => !!cell && cell.codes.has("P");
+const cellLabel = (cell) => [levelOf(cell)?.label, pursuing(cell) ? "pursuing" : null].filter(Boolean).join(", ");
+
+const rowPage = (row) => row.ref?.page ?? null;
+const placeTags = (page) => (page?.tags ?? []).filter((t) => t.startsWith("place/"));
+const inTag = (tags, wanted) => tags.some((t) => t === wanted || t.startsWith(wanted + "/"));
+
+/** Grid rows people, factions, and the party; columns the pieces. Props: piece (slug). */
+function WhoKnowsGrid({ piece }) {
+  const party = usePartyLocation();
+  const { pieces, grid, tag, loading } = usePieces(piece, party);
+  const [query, setQuery] = dc.useState("");
+  const [faction, setFaction] = dc.useState("");
+  const [place, setPlace] = dc.useState("");
+  const [picked, setPicked] = dc.useState(null); // { key, number }
+  const [open, setOpen] = dc.useState([]); // keys of unfolded groups
+  const [hoverCol, setHoverCol] = dc.useState(null);
+  if (!pieces.length) return <NoPieces tag={tag} />;
+  if (loading) return <div style={BASE.muted}>Reading pieces…</div>;
+
+  const byNumber = new Map(pieces.map((p) => [p.number, p]));
+  const people = [...grid.factions.flatMap((f) => [f.row, ...f.members]), ...grid.others, ...(grid.party ? [grid.party.row, ...grid.party.members] : [])];
+  const places = [...new Set(people.flatMap((r) => placeTags(rowPage(r))))].sort();
+  const q = query.trim().toLowerCase();
+  const rowPasses = (r) => (!q || r.name.toLowerCase().includes(q)) && (!place || inTag(placeTags(rowPage(r)), place));
+
+  // Groups: each faction (or the party) with its members, then people in no faction.
+  const groups = [];
+  for (const f of grid.factions) {
+    if (faction && f.row.key !== faction) continue;
+    const members = f.members.filter(rowPasses);
+    if (members.length || rowPasses(f.row)) groups.push({ head: f.row, members: q || place ? members : f.members, forced: !!(faction || ((q || place) && members.length)) });
+  }
+  if (!faction) {
+    for (const r of grid.others) if (rowPasses(r)) groups.push({ head: r, members: [] });
+    if (grid.party) {
+      const members = grid.party.members.filter(rowPasses);
+      if (members.length || rowPasses(grid.party.row)) groups.push({ head: grid.party.row, members: q || place ? members : grid.party.members, forced: !!((q || place) && members.length) });
+    }
+  }
+
+  const pickedRow = picked ? people.find((r) => r.key === picked.key) : null;
+  const pickedCell = pickedRow?.cells[picked.number] ?? null;
+  const pickedPiece = picked ? byNumber.get(picked.number) : null;
+  const dirty = query || faction || place;
+
+  const cellsFor = (row) =>
+    grid.numbers.map((n) => {
+      const cell = row.cells[n];
+      const level = levelOf(cell);
+      const label = cellLabel(cell);
+      const on = picked && picked.key === row.key && picked.number === n;
+      const col = hoverCol === n ? { boxShadow: "inset 0 0 0 1px var(--text-faint)" } : {};
+      return (
+        <td
+          key={n}
+          data-level={level?.code ?? ""}
+          data-pursuing={pursuing(cell) ? "1" : ""}
+          aria-label={label || "nothing known"}
+          title={label}
+          style={{ ...G.cell, background: level ? level.bg : "var(--background-secondary)", color: level ? level.ink : "var(--text-normal)", ...col, ...(on ? G.picked : {}) }}
+          onMouseEnter={() => setHoverCol(n)}
+          onClick={() => (label ? setPicked(on ? null : { key: row.key, number: n }) : null)}
+        >
+          {pursuing(cell) ? "↗" : ""}
+        </td>
+      );
+    });
+  const isOpen = (g) => g.forced || open.includes(g.head.key);
+  const toggle = (key) => setOpen(open.includes(key) ? open.filter((k) => k !== key) : [...open, key]);
+
+  return (
+    <div className="piece-hub">
+      <style>{CSS}</style>
+      <div style={G.bar}>
+        <label style={G.field}>
+          <span style={H.section}>Name</span>
+          <input type="text" placeholder="Search names" value={query} onInput={(e) => setQuery(e.currentTarget.value)} />
+        </label>
+        <label style={G.field}>
+          <span style={H.section}>Faction</span>
+          <select value={faction} onChange={(e) => setFaction(e.currentTarget.value)}>
+            <option value="">Any faction</option>
+            {grid.factions.map((f) => (
+              <option key={f.row.key} value={f.row.key}>{f.row.name}</option>
+            ))}
+          </select>
+        </label>
+        <label style={G.field}>
+          <span style={H.section}>Place</span>
+          <select value={place} onChange={(e) => setPlace(e.currentTarget.value)}>
+            <option value="">Any place</option>
+            {places.map((t) => (
+              <option key={t} value={t}>{t.slice("place/".length).split("/").join(" / ")}</option>
+            ))}
+          </select>
+        </label>
+        {dirty ? (
+          <button onClick={() => { setQuery(""); setFaction(""); setPlace(""); }}>Clear filters</button>
+        ) : null}
+      </div>
+      {!groups.length ? (
+        <div style={BASE.muted}>No one matches these filters.</div>
+      ) : (
+        <table style={G.grid} onMouseLeave={() => setHoverCol(null)}>
+          <thead>
+            <tr>
+              <th style={{ ...G.th, textAlign: "left" }} />
+              {grid.numbers.map((n) => (
+                <th key={n} style={{ ...G.th, ...(hoverCol === n ? { color: "var(--text-normal)" } : {}) }} className="ph-held">
+                  {byNumber.get(n) ? noteLink(byNumber.get(n), String(n)) : n}
+                </th>
+              ))}
+            </tr>
+          </thead>
+          <tbody>
+            {groups.map((g) => [
+              <tr key={g.head.key} style={G.groupRow}>
+                {g.members.length && !isOpen(g) ? (
+                  <td style={{ ...G.name, ...G.foldedName }} data-fold={g.head.key} title="Show members" onClick={() => toggle(g.head.key)}>
+                    <span style={G.fold}>▸</span>
+                    {g.head.name}
+                  </td>
+                ) : (
+                  <td style={G.name}>
+                    {g.members.length ? (
+                      <span style={G.fold} data-fold={g.head.key} title="Hide members" onClick={() => toggle(g.head.key)}>
+                        ▾
+                      </span>
+                    ) : (
+                      <span style={{ display: "inline-block", width: "20px" }} />
+                    )}
+                    <Md text={g.head.ref?.page ? `[[${g.head.ref.page.path.replace(/\.md$/, "")}|${g.head.name}]]` : g.head.name} source={pieces[0].path} />
+                  </td>
+                )}
+                {cellsFor(g.head)}
+              </tr>,
+              ...(isOpen(g) ? g.members : []).map((m) => (
+                <tr key={`${g.head.key}>${m.key}`}>
+                  <td style={G.member}>
+                    <Md text={m.ref?.page ? `[[${m.ref.page.path.replace(/\.md$/, "")}|${m.name}]]` : m.name} source={pieces[0].path} />
+                  </td>
+                  {cellsFor(m)}
+                </tr>
+              )),
+            ])}
+          </tbody>
+        </table>
+      )}
+      <div style={{ ...BASE.muted, margin: "6px 0", display: "flex", flexWrap: "wrap", gap: "4px 14px" }}>
+        {[...LEVELS.slice(0, 3).reverse(), LEVELS[3]].map((l) => (
+          <span key={l.code}>
+            <span style={{ ...G.swatch, background: l.bg }} />
+            {l.label}
+          </span>
+        ))}
+        <span>↗ pursuing</span>
+        <span>Click a cell for the lines behind it; click a folded name to show its members.</span>
+      </div>
+      {pickedCell && pickedPiece ? (
+        <div style={G.sources}>
+          <div style={{ marginBottom: "4px" }}>
+            <strong>{pickedRow.name}</strong> on {noteLink(pickedPiece, `${pickedPiece.number} · ${pieceLabel(pickedPiece)}`)}
+          </div>
+          <ul style={H.list}>
+            {pickedCell.sources.map((s, i) => (
+              <li key={i} style={H.item}>
+                <span style={H.kind}>{CODE_LABEL[s.code]}</span>
+                {s.via ? <span style={BASE.muted}>via {s.via} · </span> : null}
+                <Md text={[s.text, s.session ? refMd(s.session) : ""].filter(Boolean).join(" · ")} source={pickedPiece.path} />
+              </li>
+            ))}
+          </ul>
+        </div>
+      ) : null}
+    </div>
+  );
+}
+
+return { PieceOverview, PieceCards, WhoKnowsGrid, usePartyLocation };
 ```

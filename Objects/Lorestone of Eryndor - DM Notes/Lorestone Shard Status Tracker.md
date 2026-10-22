@@ -30,6 +30,15 @@ return function Shards() {
 };
 ```
 
+## Who knows what
+
+```datacorejsx
+const { WhoKnowsGrid } = await dc.require(dc.headerLink("00 DM Screen/Code/Artifact Hub Views.md", "Code"));
+return function WhoKnows() {
+  return <WhoKnowsGrid piece="lorestone-of-eryndor" />;
+};
+```
+
 ## Faction knowledge evolution
 
 ![[Lorestone of Eryndor - DM Notes#Faction Knowledge Evolution]]
