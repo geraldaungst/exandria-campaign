@@ -18,7 +18,7 @@ Conventions this module relies on:
 - **Party location.** The link in the `Party location` bullet under `Where we left off` in the last played session, the same rule as the Session Hub's "Where are we". A piece held by a PC or by the party shows that place.
 - **Overview.** One line: each holder followed by the numbers of the pieces they hold; each number opens its note. Made to be embedded elsewhere (the artifact's DM note, the plot thread).
 - **Cards.** One per piece in number order. "More" opens the detail panel under the cards, one piece at a time. A card with lines the reader could not parse shows a warning; the panel lists them.
-- **Who knows what.** One row per person, faction, or the party; one column per piece. Each cell is shaded by the highest level known: light green knows it exists, mid green knows where (or who holds it), dark green holds it; gold believes something false (whatever the false belief is); ↗ marks pursuing, on top of any of these. Factions and the party start folded: click a folded group's name to show its members. Once open, the name is a link to its note and the ▾ beside it folds the group again (a name, faction, or place filter opens the groups it matches). Rows come from the pieces' holders and their Who knows and Pursued by lines; a person's lines also count for each faction they belong to and, for a PC, for the party, and they are listed under it. Filters: name, faction, and place (the `place/…` tags on the people's own notes). Clicking a cell lists the lines behind it.
+- **Who knows what.** One row per person, faction, or the party; one column per piece. Each cell is shaded by the highest level known: light green knows it exists, mid green knows where (or who holds it), dark green holds it; gold believes something false (whatever the false belief is); ↗ marks pursuing, on top of any of these. Factions and the party start folded: click a folded group's name to show its members. Once open, the name is a link to its note and the ▾ beside it folds the group again (a name, faction, or place filter opens the groups it matches). Rows come from the pieces' holders and their Who knows and Pursued by lines; a person's lines also count for each faction they belong to and, for a PC, for the party, and they are listed under it. A line marked `personal` counts only for the person, and one marked `shares with` only for the factions it names ([[Artifact Pieces]] has the format); someone whose lines are all personal is listed on their own. Filters: name, faction, and place (the `place/…` tags on the people's own notes). Clicking a cell lists the lines behind it.
 - **Sessions in the panel.** Every session note a piece's lines cite, plus every session note that links to the piece's note, newest first.
 
 The block below is plain `jsx`, so it does not run on this page. Notes load it with `dc.require(dc.headerLink("00 DM Screen/Code/Artifact Hub Views.md", "Code"))`. After editing, reopen any note that uses it. Design: [[DM Hubs Design]].
@@ -285,6 +285,8 @@ function HistoryList({ p }) {
 }
 
 const LEVEL_TEXT = { exists: "knows it exists", where: "knows where", wrong: "believes something false" };
+/** A line's sharing field as text: "" (all their factions), "keeps it to themselves", or "shares with [[A]], [[B]]". */
+const shareMd = (share) => (!share ? "" : share.personal ? "_keeps it to themselves_" : `_shares with ${share.with.map(refMd).join(", ")}_`);
 
 function KnowsList({ p }) {
   if (!p.parsed.knows.length) return <div style={BASE.muted}>No one recorded.</div>;
@@ -293,7 +295,7 @@ function KnowsList({ p }) {
       {p.parsed.knows.map((k, i) => (
         <li key={i} style={H.item}>
           <Md text={refMd(k.who)} source={p.path} /> <span style={H.kind}>{LEVEL_TEXT[k.level]}</span>
-          <Md text={[k.note, k.session ? refMd(k.session) : ""].filter(Boolean).join(" · ")} source={p.path} />
+          <Md text={[shareMd(k.share), k.note, k.session ? refMd(k.session) : ""].filter(Boolean).join(" · ")} source={p.path} />
         </li>
       ))}
     </ul>
@@ -306,7 +308,7 @@ function PursuitList({ p }) {
     <ul style={H.list}>
       {p.parsed.pursuit.map((q, i) => (
         <li key={i} style={H.item}>
-          <Md text={[refMd(q.who), q.how, q.session ? refMd(q.session) : ""].filter(Boolean).join(" · ")} source={p.path} />
+          <Md text={[refMd(q.who), shareMd(q.share), q.how, q.session ? refMd(q.session) : ""].filter(Boolean).join(" · ")} source={p.path} />
         </li>
       ))}
     </ul>
@@ -685,7 +687,7 @@ function WhoKnowsGrid({ piece }) {
               <li key={i} style={H.item}>
                 <span style={H.kind}>{CODE_LABEL[s.code]}</span>
                 {s.via ? <span style={BASE.muted}>via {s.via} · </span> : null}
-                <Md text={[s.text, s.session ? refMd(s.session) : ""].filter(Boolean).join(" · ")} source={pickedPiece.path} />
+                <Md text={[shareMd(s.share), s.text, s.session ? refMd(s.session) : ""].filter(Boolean).join(" · ")} source={pickedPiece.path} />
               </li>
             ))}
           </ul>

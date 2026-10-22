@@ -12,7 +12,7 @@ Shard 7 of the [[Lorestone of Eryndor - DM Notes|Lorestone of Eryndor]]. Hub: [[
 ## Who knows
 
 - [[Keldar Stonefoot - DM Notes|Keldar Stonefoot]] · wrong · his map shows where it once was, not where it is now
-- [[Calderax Dunhall]] · wrong · was brokering the trade for Keldar's map; thinks it leads to Shard 5
+- [[Calderax Dunhall]] · wrong · shares with [[Obsidian Echoforge - DM Notes|Obsidian Echoforge]] · was brokering the trade for Keldar's map; thinks it leads to Shard 5
 - [[Aethor Kalisk - DM Notes|Aethor Kalisk]] · wrong · investigating the map lead; thinks it points to Shard 5
 - Party · wrong · Aethor told them the compass leads to "the fifth shard" · [[Sessions 7 & 8 - Tracking Yrene|Sessions 7–8]]
 

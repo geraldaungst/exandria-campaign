@@ -15,7 +15,7 @@ world: Exandria
 ### Key notes
 
 - [[Eryndor Timeline]] · [[Character Story Beats]] · [[Party Notes]]
-- [[The Prophecy]] · [[Adaptable Modules]] · [[Seeds Planted]]
+- [[The Prophecy]] · [[Lorestone Shard Status Tracker|Shard Tracker]] · [[Adaptable Modules]] · [[Seeds Planted]]
 - [[Plot Dashboard]] · [[00 DM Screen|DM Screen]]
 
 ### NPCs

@@ -10,7 +10,6 @@ tags:
   - campaign/eryndor
 ---
 
-œ
 [[Lorestone of Eryndor - DM Notes|Lorestone of Eryndor]] · [[Assembling the Lorestone]] · [[The Prophecy]] · [[Eryndor Timeline]]
 
 ## Overview

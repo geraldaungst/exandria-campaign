@@ -12,13 +12,13 @@ Shard 2 of the [[Lorestone of Eryndor - DM Notes|Lorestone of Eryndor]]. Hub: [[
 ## Who knows
 
 - [[Malachite Cord - DM Notes|Malachite Cord]] · where · aware of the Echoforge's holdings
-- [[Vaud Qalix - DM Notes|Vaud Qalix]] · where · knows the Echoforge's holdings through his spy network
+- [[Vaud Qalix - DM Notes|Vaud Qalix]] · where · personal · knows the Echoforge's holdings through his spy network
 - Party · where · library research, confirmed by Aethor · [[Sessions 7 & 8 - Tracking Yrene|Sessions 7–8]]
 
 ## Pursued by
 
 - [[Emissaries of the Sunfall - DM Notes|Emissaries of the Sunfall]] · theft, infiltration, violence
-- [[Vaud Qalix - DM Notes|Vaud Qalix]] · through his spy network
+- [[Vaud Qalix - DM Notes|Vaud Qalix]] · personal · through his spy network
 
 ## Open questions
 

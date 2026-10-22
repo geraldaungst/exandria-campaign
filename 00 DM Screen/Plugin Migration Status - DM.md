@@ -171,17 +171,21 @@ Decisions: delete QuickAdd now. Disable MetaEdit, Kanban, Sort and Permute Lines
 
 2026-10-21 | D8 close | Force note view mode deleted (unused); Recent Files kept. Removed orphan hotkeys for Text Generator and QuickAdd. Status note: D6 and D8 marked done, Open items and housekeeping updated (Dataview delete on or after 2026-10-28). | Done.
 
+2026-10-21 | D6 NPC browser check | Checked in Obsidian: loads, dropdowns fill, table reads well. | Done. Next up item 1 closed.
+
+2026-10-21 | D6 Lorestone roll-up | Who knows and Pursued by lines take an optional sharing field: personal (person only) or "shares with [[…]]" (only the factions named); default unchanged. Grid, detail lists and cell details show it; change form adds "Shares it with" (their factions / no one / only some), defaulting to the person's current line. Qalix (knows 1–6, pursuit 1–5) and Varnes (5) marked personal; Draconia and Dwendalian Empire rows gone. Docs in the three code notes and DM Hubs Design updated. Harness tests pass; not run in Obsidian. | Done pending Calderax's lines and a check in Obsidian.
+
+2026-10-21 | D6 Lorestone roll-up | Aelorin's Shard 6 line changed from exists to a false belief (thinks it was a rare relic, not a shard); the Clasp shows gold on 6. Removed a stray "œ" line from the tracker note (typed in Obsidian; Option+Q on a Mac). Harness tests pass. | Done. Roll-up review complete.
+
 ## Open items (as of 2026-10-21)
 
 Next up (Suggest the best next step of these, but Gerald will have final say):
-1. Check the NPC Browser in Obsidian (Prophecy of Eryndor.md, "NPCs" section): it loads, the dropdowns fill, the table reads well. The logic was tested in a mock on real tags; the Datacore rendering was not.
-2. Review the tag-driven roll-ups in the Lorestone who-knows-what grid: Qalix to Draconia and Emissaries, Lady Emer to Emissaries, Varnes to Dwendalian Empire, Calderax to three factions. Fix by changing the NPC's faction tags, not the code.
-3. Housekeeping deletions on their dates (below).
+1. Housekeeping deletions on their dates (below).
 
 Gerald's own tasks:
 - Decide whether these carry the npc tag wrongly (they show up in the NPC Browser): Manifesto - Brief, Manifesto - Reclaiming the Glory of Draconia, History of Tessa and Sumad-Dekon, Eryndor, Keldar Stonefoot Letter to Calderax.
 - Vault root cleanup: move replace_related_blocks.py out of the vault and delete the six *_dryrun.txt and *_applied.txt reports.
-- Optional: .obsidian/appearance.json lists two snippets that no longer exist (blank_table_headers, readable-typography-inter). Harmless; Claude can remove them with the vault closed.
+- Optional:.obsidian/appearance.json lists two snippets that no longer exist (blank_table_headers, readable-typography-inter). Harmless; Claude can remove them with the vault closed.
 
 Separate sessions:
 - Calendarium "Must specify a valid year: NaN" errors on every Obsidian launch (a wall of the same error). Needs its own troubleshooting session. Bring the first lines of the console output. Also on file: 62 events, some linked to old 90 Session Notes paths; Dreyara's Antagonist Plans after 21 Thunsheer never happened (she died 25 Thunsheer 835).

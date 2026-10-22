@@ -11,10 +11,10 @@ Shard 6 of the [[Lorestone of Eryndor - DM Notes|Lorestone of Eryndor]]. Hub: [[
 
 ## Who knows
 
-- [[Vaud Qalix - DM Notes|Vaud Qalix]] · exists · Dreyara was carrying it to him
+- [[Vaud Qalix - DM Notes|Vaud Qalix]] · exists · personal · Dreyara was carrying it to him
 - [[Celdric Ambril]] · exists · was seeking it; knows it was found
-- [[Aelorin Nightshade]] · exists · knew of it in Port Damali
-- [[Calderax Dunhall]] · exists · collected it at the docks; it was stolen from his room
+- [[Aelorin Nightshade]] · wrong · thinks it was a rare relic, not a Lorestone shard
+- [[Calderax Dunhall]] · exists · shares with [[Obsidian Echoforge - DM Notes|Obsidian Echoforge]], [[Emissaries of the Sunfall - DM Notes|Emissaries of the Sunfall]] · collected it at the docks; it was stolen from his room
 - [[Lady Emer - DM Notes|Lady Emer]] · exists · expected Dreyara to bring her a fragment to study
 - Rahak · where · with Dreyara when she died; saw the party take it
 

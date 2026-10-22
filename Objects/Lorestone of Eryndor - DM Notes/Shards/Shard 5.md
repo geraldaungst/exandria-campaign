@@ -11,15 +11,15 @@ Shard 5 of the [[Lorestone of Eryndor - DM Notes|Lorestone of Eryndor]]. Hub: [[
 
 ## Who knows
 
-- [[Varnes Dwell]] · where · found the vault during a security assessment; Ovedo paid him to keep quiet
+- [[Varnes Dwell]] · where · personal · found the vault during a security assessment; Ovedo paid him to keep quiet
 - Party · where · Varnes told them at Cloudfang · [[Session 33 - What to Do with Lady Emer?|Session 33]]
-- [[Vaud Qalix - DM Notes|Vaud Qalix]] · where · sent Dreyara to steal it from the Archive
+- [[Vaud Qalix - DM Notes|Vaud Qalix]] · where · personal · sent Dreyara to steal it from the Archive
 - [[Korfel Withrethin]] · where · Dreyara's Myriad partner for the Archive heist
 - [[Obsidian Echoforge - DM Notes|Obsidian Echoforge]] · wrong · know it exists, but think the Stonefoot Compass lead points to it; unaware Ovedo holds it
 
 ## Pursued by
 
-- [[Vaud Qalix - DM Notes|Vaud Qalix]] · Dreyara was to steal it with the Gentleman's help; she died before reaching Rexxentrum
+- [[Vaud Qalix - DM Notes|Vaud Qalix]] · personal · Dreyara was to steal it with the Gentleman's help; she died before reaching Rexxentrum
 - [[Obsidian Echoforge - DM Notes|Obsidian Echoforge]] · following the compass lead, which actually points to Shard 7
 
 ## Open questions

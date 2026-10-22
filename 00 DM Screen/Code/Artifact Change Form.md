@@ -4,7 +4,7 @@ hide_from_related: true
 
 **Purpose:** The "Record a change" form on the artifact hub. It writes one dated line to a piece's History (a Calendarium inline event) and, when the change calls for it, updates the piece's current-state sections: Who knows, Pursued by, or Properties and rulings.
 
-**Exports:** `CHANGE_KINDS`, `historyLine`, `applyChange`, `refFromName`, `PieceChangeForm`
+**Exports:** `CHANGE_KINDS`, `historyLine`, `applyChange`, `refFromName`, `shareText`, `PieceChangeForm`
 
 **Depends on:** [[Shared Helpers]] · [[Campaign State]] · [[Calendar and Timeline]] · [[Artifact Pieces]]
 
@@ -19,6 +19,7 @@ Conventions this module relies on:
   - pursuing: the person's line in Pursued by is replaced or added. stopped: it is removed.
   - ruling: the description is also added as a bullet under Properties and rulings.
   A replaced or removed line survives in History, which is the full record.
+- **Who they share it with.** For the knows and pursuing kinds, when the person belongs to a faction: their factions (the default; no field written), no one (writes `personal`), or only some of them (writes `shares with [[…]], [[…]]`). The choice starts at what the person's current line says, so a personal line stays personal unless you change it. [[Artifact Pieces]] has the format.
 - **Matching a person.** Two lines are about the same person when their links point to the same note, or their plain text is the same (ignoring case).
 - **Defaults.** Date: today in-world (the last played session's end date). Session: the last played session. Calendarium category: `calendar_category_pieces` in [[Hub Config]]; the list offers every category of the campaign's calendar. Event name: built from the kind and the person ("Shard 6: to Hesterian"), editable.
 - **Names.** The Who and At fields suggest note names (NPCs, factions, PCs, and locations) and accept anything; a name that matches a note is written as a link (by full path when another note shares its file name, such as a Player Wiki twin), anything else as plain text. `Party` (the `label_party` value) always stays plain text and stands for the whole party.
@@ -32,7 +33,7 @@ The block below is plain `jsx`, so it does not run on this page. Notes load it w
 const { cfg, tagsOf, hasTag, isExcluded, num, escapeRe, S: BASE } = await dc.require(dc.headerLink("00 DM Screen/Code/Shared Helpers.md", "Code"));
 const { useActiveCampaign, useSessionState } = await dc.require(dc.headerLink("00 DM Screen/Code/Campaign State.md", "Code"));
 const { useCalendar, inGameNow, inWorldText } = await dc.require(dc.headerLink("00 DM Screen/Code/Calendar and Timeline.md", "Code"));
-const { displayName } = await dc.require(dc.headerLink("00 DM Screen/Code/Artifact Pieces.md", "Code"));
+const { displayName, factionNotesByTag, factionsOf, SHARE_PERSONAL } = await dc.require(dc.headerLink("00 DM Screen/Code/Artifact Pieces.md", "Code"));
 
 const SEP = " · ";
 
@@ -86,6 +87,9 @@ function whoKey(field, resolve) {
   return path ? `path:${path}` : `link:${m[1].trim().toLowerCase()}`;
 }
 
+/** The sharing field for a Who knows or Pursued by line: "" (all their factions), "personal", or "shares with [[A]], [[B]]". */
+const shareText = (share) => (!share ? "" : share.personal ? SHARE_PERSONAL : share.with?.length ? `shares with ${share.with.map(refMd).join(", ")}` : "");
+
 /** The History line for a change. */
 function historyLine(ch) {
   const info = kindInfo(ch.kind);
@@ -131,7 +135,7 @@ function editSection(text, heading, edit) {
 
 /**
  * The piece note's text with the change applied. ch: { kind, label, date, category, eventName, description,
- * who, at, session } (refs as from refFromName). headings: Hub Config's heading_piece_… values.
+ * who, at, session, share } (refs as from refFromName; share: null, { personal: true }, or { with: [refs] }). headings: Hub Config's heading_piece_… values.
  * resolve(target) → note path, for matching people across differently written links.
  */
 function applyChange(text, ch, headings, resolve) {
@@ -143,8 +147,8 @@ function applyChange(text, ch, headings, resolve) {
     const key = whoKey(refMd(ch.who), resolve);
     const note = plain(ch.description).replace(/[.]$/, "");
     const line = info.section === "knows"
-      ? ["- " + refMd(ch.who), info.level, note, ch.session ? refMd(ch.session) : ""].filter(Boolean).join(SEP)
-      : ["- " + refMd(ch.who), note, ch.session ? refMd(ch.session) : ""].filter(Boolean).join(SEP);
+      ? ["- " + refMd(ch.who), info.level, shareText(ch.share), note, ch.session ? refMd(ch.session) : ""].filter(Boolean).join(SEP)
+      : ["- " + refMd(ch.who), shareText(ch.share), note, ch.session ? refMd(ch.session) : ""].filter(Boolean).join(SEP);
     out = editSection(out, heading, (bullets) => {
       const i = bullets.findIndex((b) => whoKey(b[0].replace(/^-\s+/, "").split(SEP)[0], resolve) === key);
       if (info.remove) return i < 0 ? bullets : bullets.filter((_, j) => j !== i);
@@ -185,7 +189,11 @@ function useNameLists() {
       const entry = { path: p.$path, name: p.$name, unique: baseCount.get(p.$name.toLowerCase()) === 1 };
       for (const k of [p.$name.toLowerCase(), displayName(p.$name).toLowerCase()]) if (!byName.has(k)) byName.set(k, entry);
     }
-    return { people: [c.label_party, ...people], places, find: (name) => byName.get(String(name).trim().toLowerCase()) ?? null };
+    const pages = all.map((p) => ({ path: p.$path, name: p.$name, tags: tagsOf(p) }));
+    const pageByPath = new Map(pages.map((p) => [p.path, p]));
+    const factionByTag = factionNotesByTag(pages);
+    const factionsFor = (path) => factionsOf(pageByPath.get(path), factionByTag);
+    return { people: [c.label_party, ...people], places, find: (name) => byName.get(String(name).trim().toLowerCase()) ?? null, factionsFor };
   }, [all]);
 }
 
@@ -199,7 +207,7 @@ function PieceChangeForm({ piece, onDone }) {
   const lists = useNameLists();
   const categories = Object.keys(cal.colors ?? {});
   const recent = [...played].reverse().slice(0, 8);
-  const [f, setF] = dc.useState({ kind: "holder", who: "", at: "", description: "", undated: false, label: "Before the campaign", date: null, session: null, category: null, eventName: null });
+  const [f, setF] = dc.useState({ kind: "holder", who: "", at: "", description: "", undated: false, label: "Before the campaign", date: null, session: null, category: null, eventName: null, share: null, shareWith: null });
   const [status, setStatus] = dc.useState(null);
   const set = (patch) => setF({ ...f, ...patch });
   const info = kindInfo(f.kind);
@@ -212,11 +220,24 @@ function PieceChangeForm({ piece, onDone }) {
   const eventName = f.eventName ?? autoName;
   const listId = `piece-names-${piece.number}`;
 
+  // Who they share it with: offered for knows and pursuing when the person belongs to a faction.
+  // Until changed, it follows the person's current line in that section.
+  const factions = who?.path ? lists.factionsFor(who.path) : [];
+  const sameWho = (r) => (r.plain ? !!who?.plain && r.plain.toLowerCase() === who.plain.toLowerCase() : !!who?.path && piece.ctx.resolve(r.target)?.path === who.path);
+  const current = info.section === "knows" ? piece.parsed.knows.find((k) => sameWho(k.who)) : info.section === "pursuit" ? piece.parsed.pursuit.find((q) => sameWho(q.who)) : null;
+  const currentShare = current?.share ?? null;
+  const askShare = (info.section === "knows" || (info.section === "pursuit" && !info.remove)) && (factions.length > 0 || !!currentShare);
+  const shareMode = f.share ?? (currentShare?.personal ? "personal" : currentShare?.with ? "some" : "factions");
+  const sharePaths = f.shareWith ?? (currentShare?.with ?? []).map((r) => (r.target ? piece.ctx.resolve(r.target)?.path : null) ?? factions.find((x) => displayName(x.name).toLowerCase() === refName(r).toLowerCase())?.path).filter(Boolean);
+  const toggleShare = (path, on) => set({ share: "some", shareWith: on ? [...new Set([...sharePaths, path])] : sharePaths.filter((x) => x !== path) });
+
   async function save() {
     if (info.who === "required" && !who) return setStatus({ warn: true, text: "Who is this about? Pick or type a name." });
     if (info.at === "required" && !at) return setStatus({ warn: true, text: "Where did it go? Fill in At." });
     if (!plain(f.description)) return setStatus({ warn: true, text: "Add a line describing what happened." });
     if (!f.undated && !/^\d+-\d+-\d+$/.test(date)) return setStatus({ warn: true, text: "The in-world date must be year-month-day, like 835-04-27." });
+    if (askShare && shareMode === "some" && !sharePaths.length) return setStatus({ warn: true, text: "Pick at least one faction they share it with, or choose No one." });
+    const share = !askShare || shareMode === "factions" ? null : shareMode === "personal" ? { personal: true } : { with: sharePaths.map((p) => refFromName(displayName(p.split("/").pop().replace(/\.md$/, "")), lists.find) ?? { plain: p }) };
     const sPage = sessionPath ? played.find((s) => s.$path === sessionPath) : null;
     const session = sPage
       ? { target: sPage.$name, display: sPage.value("session_number") && `Session ${sPage.value("session_number")}` !== sPage.$name ? `Session ${sPage.value("session_number")}` : null }
@@ -231,6 +252,7 @@ function PieceChangeForm({ piece, onDone }) {
       who: info.who ? who : null,
       at: info.at ? at : null,
       session,
+      share,
     };
     const headings = { history: c.heading_piece_history, knows: c.heading_piece_knows, pursuit: c.heading_piece_pursuit, rulings: c.heading_piece_rulings };
     const resolve = (t) => app.metadataCache.getFirstLinkpathDest?.(t, piece.path)?.path ?? null;
@@ -238,7 +260,7 @@ function PieceChangeForm({ piece, onDone }) {
       const file = app.vault.getAbstractFileByPath(piece.path);
       await app.vault.process(file, (text) => applyChange(text, ch, headings, resolve));
       setStatus({ text: `Added to ${piece.name}: ${historyLine(ch).replace(/<[^>]+>/g, "").replace(/^- /, "")}` });
-      setF({ ...f, who: "", at: "", description: "", eventName: null });
+      setF({ ...f, who: "", at: "", description: "", eventName: null, share: null, shareWith: null });
       onDone?.();
     } catch (e) {
       console.error(e);
@@ -253,14 +275,14 @@ function PieceChangeForm({ piece, onDone }) {
       <div style={F.row}>
         <label style={F.field}>
           <span style={F.label}>What happened</span>
-          <select value={f.kind} onChange={(e) => set({ kind: e.currentTarget.value, eventName: null })}>
+          <select value={f.kind} onChange={(e) => set({ kind: e.currentTarget.value, eventName: null, share: null, shareWith: null })}>
             {CHANGE_KINDS.map((k) => <option key={k.kind} value={k.kind}>{k.label}</option>)}
           </select>
         </label>
         {info.who ? (
           <label style={F.field}>
             <span style={F.label}>Who{info.who === "required" ? "" : " (optional)"}</span>
-            <input type="text" list={`${listId}-who`} placeholder="Name or Party" value={f.who} onInput={(e) => set({ who: e.currentTarget.value, eventName: null })} />
+            <input type="text" list={`${listId}-who`} placeholder="Name or Party" value={f.who} onInput={(e) => set({ who: e.currentTarget.value, eventName: null, share: null, shareWith: null })} />
           </label>
         ) : null}
         {info.at ? (
@@ -270,6 +292,26 @@ function PieceChangeForm({ piece, onDone }) {
           </label>
         ) : null}
       </div>
+      {askShare ? (
+        <div style={F.row}>
+          <label style={F.field}>
+            <span style={F.label}>Shares it with</span>
+            <select value={shareMode} onChange={(e) => set({ share: e.currentTarget.value, shareWith: e.currentTarget.value === "some" ? sharePaths : null })}>
+              <option value="factions">Their factions{factions.length ? ` (${factions.map((x) => displayName(x.name)).join(", ")})` : ""}</option>
+              <option value="personal">No one: keeps it to themselves</option>
+              {factions.length > 1 ? <option value="some">Only some of their factions</option> : null}
+            </select>
+          </label>
+          {shareMode === "some"
+            ? factions.map((x) => (
+                <label key={x.path} style={{ ...F.field, flexDirection: "row", alignItems: "center", gap: "6px" }}>
+                  <input type="checkbox" checked={sharePaths.includes(x.path)} onChange={(e) => toggleShare(x.path, e.currentTarget.checked)} />
+                  <span style={F.label}>{displayName(x.name)}</span>
+                </label>
+              ))
+            : null}
+        </div>
+      ) : null}
       <div style={F.row}>
         <label style={{ ...F.field, ...F.wide }}>
           <span style={F.label}>{info.section === "knows" ? "What they know or believe" : info.section === "pursuit" ? "How they go about it" : "Description"}</span>
@@ -325,5 +367,5 @@ function PieceChangeForm({ piece, onDone }) {
   );
 }
 
-return { CHANGE_KINDS, historyLine, applyChange, refFromName, PieceChangeForm };
+return { CHANGE_KINDS, historyLine, applyChange, refFromName, shareText, PieceChangeForm };
 ```
