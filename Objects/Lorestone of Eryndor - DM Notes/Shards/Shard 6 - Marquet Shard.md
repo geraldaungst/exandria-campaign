@@ -11,20 +11,21 @@ Shard 6 of the [[Lorestone of Eryndor - DM Notes|Lorestone of Eryndor]]. Hub: [[
 
 ## Who knows
 
-- [[Vaud Qalix - DM Notes|Vaud Qalix]] · exists · personal · Dreyara was carrying it to him
+- [[Vaud Qalix - DM Notes|Vaud Qalix]] · where · personal · knows the party took it from Dreyara's body (the handler's Sending, 26–27 Thunsheer); names follow by courier
 - [[Celdric Ambril]] · exists · was seeking it; knows it was found
 - [[Aelorin Nightshade]] · wrong · thinks it was a rare relic, not a Lorestone shard
 - [[Calderax Dunhall]] · exists · shares with [[Obsidian Echoforge - DM Notes|Obsidian Echoforge]], [[Emissaries of the Sunfall - DM Notes|Emissaries of the Sunfall]] · collected it at the docks; it was stolen from his room
-- [[Lady Emer - DM Notes|Lady Emer]] · exists · expected Dreyara to bring her a fragment to study
-- Rahak · where · with Dreyara when she died; saw the party take it
+- [[Lady Emer - DM Notes|Lady Emer]] · where · personal · Ra'ak told her the party took it from Dreyara's body
+- Ra'ak · where · with Dreyara when she died; saw the party take it; released
 
 ## Pursued by
 
 - [[Obsidian Echoforge - DM Notes|Obsidian Echoforge]] · through Aethor, who told the party it must be recovered · [[Session 28 - Back at Harmony Hall|Session 28]]
+- [[Vaud Qalix - DM Notes|Vaud Qalix]] · personal · lost it with Dreyara's death; his response is undecided ([[Qalix's Network]])
 
 ## Open questions
 
-- [ ] Does Qalix know Dreyara is dead and the party has the shard?
+- [x] Does Qalix know Dreyara is dead and the party has the shard? Yes, from 26–27 Thunsheer 835; see [[Qalix's Network]]
 - [ ] Does the Echoforge know the party has it?
 
 ## Properties and rulings
@@ -48,6 +49,8 @@ Shard 6 of the [[Lorestone of Eryndor - DM Notes|Lorestone of Eryndor]]. Hub: [[
 - **6 Thunsheer 835** · pursuing · <span data-date="835-04-06" data-category="Lorestone" data-name="Shard 6: Aethor wants it back">Aethor tells the party the missing shard must be recovered.</span> · [[Aethor Kalisk - DM Notes|Aethor Kalisk]] · [[Session 28 - Back at Harmony Hall|Session 28]]
 - **25 Thunsheer 835** · holder · <span data-date="835-04-25" data-category="Lorestone" data-name="Shard 6: looted by Qilynn">Qilynn loots it from Dreyara's body outside the monastery's rear entrance, wrapped in cloth in a pouch.</span> · [[Qilynn Duskwhisper (Nicole)|Qilynn]] · at [[Monastery of Dimensional Harmony - DM Notes|Monastery of Dimensional Harmony]]
 - **25 Thunsheer 835** · holder · <span data-date="835-04-25" data-category="Lorestone" data-name="Shard 6: to Drawg">Qilynn hands it to Drawg, who keeps it in the Bag of Holding.</span> · [[Drawg Stormbrew (Brew)|Drawg]]
+- **26 Thunsheer 835** · knows where · Ra'ak tells Lady Emer at Cloudfang that the party took the shard from Dreyara's body. · [[Lady Emer - DM Notes|Lady Emer]]
+- **27 Thunsheer 835** · knows where · Emer's report reaches her handler in Zadash; Qalix gets the essentials by Sending. · [[Vaud Qalix - DM Notes|Vaud Qalix]]
 - **27 Thunsheer 835** · note · <span data-date="835-04-27" data-category="Lorestone" data-name="Shard 6: warms at the dig site">Warms at the Truscan dig site in Deastok, which is not a rift.</span> · [[Session 51 - Between a Rock and an Old Place|Session 51]]
 - **27 Thunsheer 835** · lines read · <span data-date="835-04-27" data-category="Lorestone" data-name="Shard 6: Seraphina reads its verse">Seraphina identifies it as a fragment of the Lorestone of Eryndor and reads its verse.</span> · [[Seraphina Amaris (Vicki)|Seraphina]] · [[Session 52 - A Very Vexing Hole and a Black Shard|Session 52]]
 - **27 Thunsheer 835** · holder · <span data-date="835-04-27" data-category="Lorestone" data-name="Shard 6: to Hesterian">Hesterian begins attuning to it; it brightens near the Luxon Beacon.</span> · [[Hesterian Shyr (Dot)|Hesterian]] · [[Session 53]]

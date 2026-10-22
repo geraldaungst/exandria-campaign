@@ -132,7 +132,7 @@ After fleeing [[Port Damali - DM Notes]] following [[The Port Damali Murders]], 
 
 - [[Dreyara Drimvar - DM Notes|Dreyara]] recruited the Gentleman for [[Vaud Qalix - DM Notes|Qalix]]'s planned heist of the [[Cobalt Soul Archive in Rexxentrum - DM Notes|Rexxentrum Archive]] (Shard 5). His tunnels and smuggling routes were to move a crew into Rexxentrum and carry the shard out through [[Zadash - DM Notes|Zadash]].
 - The contact ran through [[Father Dwondaff Pierce]] in Port Damali.
-- Since Dreyara's death he holds Qalix's down payment and a half-planned job. Whether Qalix sends someone to finish it, and who, is open.
+- Since Dreyara's death he holds Qalix's down payment and a half-planned job. His network told him of her death on 27–28 Thunsheer 835, with descriptions of three of the people who killed her; his people are watching for them. Whether Qalix sends someone to finish the job, and who, is open. See [[Qalix's Network]].
 - If asked at the table: "She was hiring for a job up north."
 
 #### **Future Expansion Plans**

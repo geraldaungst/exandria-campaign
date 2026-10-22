@@ -42,7 +42,7 @@ A woman in her early thirties with fair skin, her dark brown hair pulled back in
 
 ## Current Situation
 
-Deceased. Killed by Third Act in the Cyrios Mountains. Was operating in Port Damali, working to secure Myriad support for a planned heist of the Rexxentrum Archive. Maintained her role as Qalix's spymaster while pursuing this specific objective. Current focus was on building the necessary connections and resources for the Archive operation.
+Deceased. Killed by the Third Act outside the rear entrance of the [[Monastery of Dimensional Harmony - DM Notes|Monastery of Dimensional Harmony]] on 25 Thunsheer 835. Her companion Ra'ak survived and was released. What her death set in motion: [[Qalix's Network]].
 
 ### Key Contributions and Impact
 

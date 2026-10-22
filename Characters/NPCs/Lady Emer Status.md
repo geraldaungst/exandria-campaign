@@ -8,19 +8,18 @@ tags:
 
 > [!info]- Essential Details
 > - Location: [[Cloudfang Keep - DM Notes]] Library (Area E6)
-> - Current Goal: Complete analysis of Luxon Beacon's temporal resonance properties and their connection to Lorestone shard patterns
+> - Current Goal: Revenge on the party, and keeping her standing with Qalix after losing the crystal
 
 ## Other Important Locations Seen
 
 - Various planar rift sites across Wildemount (Molaesmyr, Savalirwood, Barbed Fields)
 - Previous Emissaries of the Sunfall operational areas (as a scout)
 
-## Immediate Plans
+## Since the Raid (835)
 
-- Finalize temporal resonance analysis before [[Dreyara Drimvar - DM Notes|Dreyara's]] expected arrival
-- Prepare secure workspace for "specimens requiring immediate attention" that Dreyara will bring
-- Continue documenting how the [[luxon-beacon-egw|Luxon Beacon]] (her "Temporal Resonance Crystal") interacts with planar rift energy
-- Map the connections between beacon properties and Lorestone fragment resonance patterns
+- 19 Thunsheer: the party bound and questioned her, freed [[Varnes Dwell]], and stole the [[luxon-beacon-egw|Luxon Beacon]] (her "Temporal Resonance Crystal"). She vowed revenge.
+- 25–26 Thunsheer: Ra'ak told her that [[Dreyara Drimvar - DM Notes|Dreyara]] was dead and the party had taken the shard. She sent a self-serving report to her handler by bird. See [[Qalix's Network]].
+- Her next move is undecided.
 
 ## Goals
 
@@ -34,9 +33,9 @@ tags:
 
 **[[Vaud Qalix - DM Notes]]** (Employer, Never Met): Her patron and funding source. All communication occurs through letters and [[Dreyara Drimvar - DM Notes|Dreyara's]] visits. She views him as a powerful figure who recognizes her brilliance and provides resources she couldn't acquire independently. Recently he's been applying more pressure for results on the Lorestone research. She has no knowledge of his true nature or connection to [[Ceratos]].
 
-**[[Dreyara Drimvar - DM Notes]]** (Qalix's Agent): Regular visitor who delivers specimens, inspects research progress, and serves as intermediary with Qalix. Emer treats her professionally but views these inspections as necessary inconveniences. Expected to arrive soon for examination of the beacon research findings.
+**[[Dreyara Drimvar - DM Notes]]** (Qalix's Agent): Regular visitor who delivers specimens, inspects research progress, and serves as intermediary with Qalix. Emer treats her professionally but views these inspections as necessary inconveniences. Killed by the party on 25 Thunsheer 835.
 
-**[[Varnes Dwell]]** (Prisoner): Petrified captive stored in the stone garden. Delivered by Dreyara for interrogation regarding his knowledge, but proved unable or unwilling to provide useful information. Emer considers him simply inventory—an object awaiting Qalix's personal attention, nothing more. No emotional investment whatsoever.
+**[[Varnes Dwell]]** (Prisoner): Petrified captive stored in the stone garden. Delivered by Dreyara for interrogation regarding his knowledge, but proved unable or unwilling to provide useful information. Emer considers him simply inventory—an object awaiting Qalix's personal attention, nothing more. No emotional investment whatsoever. Freed by the party on 19 Thunsheer 835.
 
 **Stone Garden "Collection"**: Various petrified individuals who failed her standards—incompetent assistants, thieves, trespassers. She views them as both security system fuel (for her Stone Sacrifice ability) and examples of proper consequences for failure.
 

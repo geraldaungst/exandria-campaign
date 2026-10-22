@@ -4,11 +4,11 @@ hide_from_related: true
 
 **Purpose:** Reads the pieces of a multi-part artifact (the Lorestone's shards, or any other) from their notes: each piece's history, who knows about it, who pursues it, its inscribed lines, and its open questions. Works out each piece's current holder and location and the who-knows-what grid. No views; [[Artifact Hub Views]] draws them.
 
-**Exports:** `PIECE_KINDS`, `KNOW_LEVELS`, `CODES`, `SHARE_PERSONAL`, `slug`, `pieceTag`, `pieceNumber`, `parsePiece`, `parseInscription`, `pieceLines`, `currentState`, `partyKnowledge`, `buildGrid`, `factionNotesByTag`, `factionsOf`, `displayName`, `usePieces`
+**Exports:** `PIECE_KINDS`, `KNOW_LEVELS`, `CODES`, `SHARE_PERSONAL`, `slug`, `pieceTag`, `pieceNumber`, `parsePiece`, `parseInscription`, `pieceLines`, `currentState`, `partyKnowledge`, `buildGrid`, `factionNotesByTag`, `factionsOf`, `displayName`, `usePieces`, `sectionLines`, `bullets`, `fields`
 
 **Depends on:** [[Shared Helpers]] (and [[Hub Config]] through it)
 
-**Used by:** [[Artifact Hub Views]]
+**Used by:** [[Artifact Hub Views]] · [[Progress Tracks]] (its line readers: `sectionLines`, `bullets`, `fields`)
 
 Conventions this module relies on:
 
@@ -523,5 +523,5 @@ function usePieces(artifactSlug, partyLocation = null, inscription = {}) {
   }, [key, texts, all, partyLocation, originalPath, modernPath]);
 }
 
-return { PIECE_KINDS, KNOW_LEVELS, CODES, SHARE_PERSONAL, slug, pieceTag, pieceNumber, parsePiece, parseInscription, pieceLines, currentState, partyKnowledge, buildGrid, factionNotesByTag, factionsOf, displayName, usePieces };
+return { PIECE_KINDS, KNOW_LEVELS, CODES, SHARE_PERSONAL, slug, pieceTag, pieceNumber, parsePiece, parseInscription, pieceLines, currentState, partyKnowledge, buildGrid, factionNotesByTag, factionsOf, displayName, usePieces, sectionLines, bullets, fields };
 ```

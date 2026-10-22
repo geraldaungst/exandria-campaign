@@ -26,6 +26,8 @@ heading_piece_pursuit: Pursued by
 heading_piece_questions: Open questions
 heading_piece_rulings: Properties and rulings
 heading_prep: Prep
+heading_track_history: History
+heading_track_questions: Open questions
 hide_from_related: true
 label_changed_at_table: Changed at the table
 label_party: Party
@@ -79,6 +81,7 @@ template_session: Session Template
 - **`data_url_5etools`**: the folder address of a 5e.tools data mirror, without a trailing slash. [[Item Data]] downloads `items.json`, `items-base.json`, and `magicvariants.json` from it for the item search.
 - **`calendar_category_sessions`**: the Calendarium category for session notes (left out of Close Session's event categories).
 - **Artifact pieces** ([[Artifact Pieces]]): notes tagged `<piece_tag_prefix>/<artifact slug>` are the pieces of one artifact (`piece/lorestone-of-eryndor`). The `heading_piece_…` values are the `##` headings inside each piece note. `calendar_category_pieces` is the Calendarium category the hub's change form writes. `label_party` is the plain word that stands for the whole party in a piece's lines.
+- **Progress trackers** ([[Progress Tracks]]): `heading_track_history` and `heading_track_questions` are the `##` headings of a tracker's History and Open questions sections.
 
 ## What this note can't change
 
