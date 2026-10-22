@@ -155,6 +155,8 @@ Decisions: delete QuickAdd now. Disable MetaEdit, Kanban, Sort and Permute Lines
 
 2026-10-21 | D6 Lorestone stage 3 revision | Grid folding: a folded group's whole name cell opens its members (name shown as plain text); once open, the name links to its note and a larger ▾ folds it again; triangle enlarged; key updated. Render-tested; not run in Obsidian. | Done pending a check in Obsidian. Open: review tag-driven roll-ups; replace the =this.location inline field in Encounter Template before D8; stage 4 (record-a-change form).
 
+2026-10-21 | D6 Lorestone stage 3 revision | Grid colors finalized: opaque brightness ramp (knows it exists = green 45% with black, knows where = 70% with black, holds = full green), believes something false = opaque gold (yellow with 15% orange); arrows white on darker greens, dark on full green and gold. Version 4 (55% / 78%) looked right in the preview but too close together in the vault, so the hub uses version 3. Render-tested; checked in Obsidian. | Done. Open: review tag-driven roll-ups; replace the =this.location inline field in Encounter Template before D8; stage 4 (record-a-change form).
+
 ## Open items (as of 2026-10-21)
 
 Next up (Suggest the best next step of these, but Gerald will have final say):

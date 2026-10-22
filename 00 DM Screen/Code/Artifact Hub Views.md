@@ -489,8 +489,8 @@ const CODE_LABEL = Object.fromEntries(CODES.map((c) => [c.code, c.label]));
 const DARK_INK = "rgba(0, 0, 0, 0.78)";
 const LEVELS = [
   { code: "H", label: "holds", bg: "var(--color-green)", ink: DARK_INK },
-  { code: "K", label: "knows where", bg: "color-mix(in srgb, var(--color-green) 78%, black)", ink: "#ffffff" },
-  { code: "E", label: "knows it exists", bg: "color-mix(in srgb, var(--color-green) 55%, black)", ink: "#ffffff" },
+  { code: "K", label: "knows where", bg: "color-mix(in srgb, var(--color-green) 70%, black)", ink: "#ffffff" },
+  { code: "E", label: "knows it exists", bg: "color-mix(in srgb, var(--color-green) 45%, black)", ink: "#ffffff" },
   { code: "W", label: "believes something false", bg: "color-mix(in srgb, var(--color-yellow) 85%, var(--color-orange))", ink: DARK_INK },
 ];
 const levelOf = (cell) => (cell ? LEVELS.find((l) => cell.codes.has(l.code)) ?? null : null);
