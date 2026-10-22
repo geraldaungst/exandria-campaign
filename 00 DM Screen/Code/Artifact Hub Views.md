@@ -2,11 +2,11 @@
 hide_from_related: true
 ---
 
-**Purpose:** The views on an artifact hub (the Lorestone Shard Status Tracker): a one-line "held by" overview, a who-knows-what grid, and a card per piece showing its holder, location, who knows, who pursues it, and its inscribed lines, with a detail panel for its full history, rulings, notes, open questions, and sessions. Read-only; editing comes in a later stage.
+**Purpose:** The views on an artifact hub (the Lorestone Shard Status Tracker): a one-line "held by" overview, a who-knows-what grid, and a card per piece showing its holder, location, who knows, who pursues it, and its inscribed lines, with a detail panel for its full history, rulings, notes, open questions, and sessions. "Record change" on a card opens the change form ([[Artifact Change Form]]) in that piece's panel.
 
 **Exports:** `PieceOverview`, `PieceCards`, `WhoKnowsGrid`, `usePartyLocation`
 
-**Depends on:** [[Shared Helpers]] · [[Campaign State]] · [[Session Hub Views]] · [[Hub Layout]] · [[Artifact Pieces]]
+**Depends on:** [[Shared Helpers]] · [[Campaign State]] · [[Session Hub Views]] · [[Hub Layout]] · [[Artifact Pieces]] · [[Artifact Change Form]]
 
 **Used by:** [[Lorestone Shard Status Tracker]]
 
@@ -31,6 +31,7 @@ const { useActiveCampaign, useSessionState } = await dc.require(dc.headerLink("0
 const { sectionText, labelItems } = await dc.require(dc.headerLink("00 DM Screen/Code/Session Hub Views.md", "Code"));
 const { Row, Cell } = await dc.require(dc.headerLink("00 DM Screen/Code/Hub Layout.md", "Code"));
 const { usePieces, displayName, CODES } = await dc.require(dc.headerLink("00 DM Screen/Code/Artifact Pieces.md", "Code"));
+const { PieceChangeForm } = await dc.require(dc.headerLink("00 DM Screen/Code/Artifact Change Form.md", "Code"));
 
 // Link styling, as on the Plot Dashboard: normal text color, accent and underline on hover.
 const CSS = `
@@ -207,7 +208,7 @@ function Legend() {
   );
 }
 
-function PieceCard({ p, open, onToggle }) {
+function PieceCard({ p, open, onToggle, onRecord }) {
   const s = p.state;
   const knows = p.parsed.knows.map((k) => ({ ...k.who, suffix: k.level === "wrong" ? "(wrong)" : "" }));
   const pursuers = p.parsed.pursuit.map((q) => q.who);
@@ -240,7 +241,10 @@ function PieceCard({ p, open, onToggle }) {
       </div>
       <div style={H.foot}>
         {p.parsed.problems.length ? <span style={H.warn} title={p.parsed.problems.map((x) => x.line).join("\n")}>⚠ unreadable lines</span> : <span />}
-        <button onClick={onToggle}>{open ? "Less" : "More"}</button>
+        <span style={{ display: "flex", gap: "6px" }}>
+          <button onClick={onRecord}>Record change</button>
+          <button onClick={onToggle}>{open ? "Less" : "More"}</button>
+        </span>
       </div>
     </div>
   );
@@ -382,14 +386,18 @@ function SectionEmbed({ p, heading }) {
   return <dc.LinkEmbed link={dc.headerLink(p.path, heading)} />;
 }
 
-function PieceDetail({ p, onClose }) {
+function PieceDetail({ p, onClose, showForm, setShowForm }) {
   const c = cfg();
   return (
     <div style={H.panel}>
       <div style={H.panelHead}>
         <span className="ph-title">{noteLink(p, `${p.number === Infinity ? "?" : p.number} · ${pieceLabel(p)}`)}</span>
-        <button onClick={onClose}>Close</button>
+        <span style={{ display: "flex", gap: "6px" }}>
+          <button onClick={() => setShowForm(!showForm)}>{showForm ? "Hide change form" : "Record change"}</button>
+          <button onClick={onClose}>Close</button>
+        </span>
       </div>
+      {showForm ? <PieceChangeForm piece={p} /> : null}
       {p.parsed.problems.length ? (
         <Section title="Lines the hub could not read">
           <ul style={H.list}>
@@ -448,6 +456,7 @@ function PieceCards({ piece, original, modern }) {
   const party = usePartyLocation();
   const { pieces, tag, loading } = usePieces(piece, party, { original, modern });
   const [open, setOpen] = dc.useState(null);
+  const [showForm, setShowForm] = dc.useState(false);
   if (!pieces.length) return <NoPieces tag={tag} />;
   if (loading) return <div style={BASE.muted}>Reading pieces…</div>;
   const shown = pieces.find((p) => p.path === open) ?? null;
@@ -457,10 +466,22 @@ function PieceCards({ piece, original, modern }) {
       <Legend />
       <div style={H.grid}>
         {pieces.map((p) => (
-          <PieceCard key={p.path} p={p} open={open === p.path} onToggle={() => setOpen(open === p.path ? null : p.path)} />
+          <PieceCard
+            key={p.path}
+            p={p}
+            open={open === p.path}
+            onToggle={() => {
+              setOpen(open === p.path ? null : p.path);
+              setShowForm(false);
+            }}
+            onRecord={() => {
+              setOpen(p.path);
+              setShowForm(true);
+            }}
+          />
         ))}
       </div>
-      {shown ? <PieceDetail p={shown} onClose={() => setOpen(null)} /> : null}
+      {shown ? <PieceDetail p={shown} onClose={() => setOpen(null)} showForm={showForm} setShowForm={setShowForm} /> : null}
     </div>
   );
 }
@@ -601,7 +622,8 @@ function WhoKnowsGrid({ piece }) {
         <table style={G.grid} onMouseLeave={() => setHoverCol(null)}>
           <thead>
             <tr>
-              <th style={{ ...G.th, textAlign: "left" }} />
+              {/* Never empty: some themes and snippets hide blank header cells, which shifts every column left. */}
+              <th style={{ ...G.th, textAlign: "left" }}>Factions and individuals</th>
               {grid.numbers.map((n) => (
                 <th key={n} style={{ ...G.th, ...(hoverCol === n ? { color: "var(--text-normal)" } : {}) }} className="ph-held">
                   {byNumber.get(n) ? noteLink(byNumber.get(n), String(n)) : n}

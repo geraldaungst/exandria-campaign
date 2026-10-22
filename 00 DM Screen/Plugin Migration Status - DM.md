@@ -157,6 +157,10 @@ Decisions: delete QuickAdd now. Disable MetaEdit, Kanban, Sort and Permute Lines
 
 2026-10-21 | D6 Lorestone stage 3 revision | Grid colors finalized: opaque brightness ramp (knows it exists = green 45% with black, knows where = 70% with black, holds = full green), believes something false = opaque gold (yellow with 15% orange); arrows white on darker greens, dark on full green and gold. Version 4 (55% / 78%) looked right in the preview but too close together in the vault, so the hub uses version 3. Render-tested; checked in Obsidian. | Done. Open: review tag-driven roll-ups; replace the =this.location inline field in Encounter Template before D8; stage 4 (record-a-change form).
 
+2026-10-21 | D6 Lorestone stage 4 | Record-a-change form (new code note Artifact Change Form; Record change button on each card and in the panel): kind, Who/At with name suggestions, description, in-world date (defaults to today in-world; No in-world date gives a label instead), session (defaults to last played), Calendarium category (Lorestone) and event name. Writes one History line (Calendarium inline event); knows/wrong kinds replace the person's Who knows line, pursuing/stopped replace or remove their Pursued by line, ruling adds to Properties and rulings. Mock-tested against real shard notes; not run in Obsidian. | Done pending a test save in Obsidian. Open: review tag-driven roll-ups; replace the =this.location inline field in Encounter Template before D8; record the hub in DM Hubs Design.
+
+2026-10-21 | D6 Lorestone stage 3 fix | Who knows what grid: shard numbers sat one column left because the empty top-left header cell was hidden by the Blank Table Headers.css snippet; that cell now reads "Factions and individuals". Tests check the header and per-row cell counts. | Done pending check in Obsidian.
+
 ## Open items (as of 2026-10-21)
 
 Next up (Suggest the best next step of these, but Gerald will have final say):

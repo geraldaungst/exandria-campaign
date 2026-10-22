@@ -31,6 +31,7 @@ Shard 8 of the [[Lorestone of Eryndor - DM Notes|Lorestone of Eryndor]]. Hub: [[
 ## History
 
 - **Before the campaign** · moved · No longer on Exandria; perhaps on the Astral Plane. · at the Astral Plane (?)
+- **27 Thunsheer 835** · pursuing · <span data-date="835-04-27" data-category="Lorestone" data-name="Shard 8: Party pursues it">Learned of its existence from Elowyn.</span> · Party · [[Session 53]]
 
 ## Connected Elements
 
