@@ -22,7 +22,7 @@ Design spec for the two hubs. Review once, then build in the order at the bottom
 - Bases first. Datacore 0.1.29 only where Bases can't do the job; each row below says why.
 - No section depends on fields updated by hand. Allowed: tags, links, mtime, properties set once at creation, and the one-time after-game entries in the session note.
 - Connected notes are listed under every item they relate to, never shown as counts.
-- Shared code lives in code notes in `00 DM Screen/Code/` (one module per responsibility: [[Shared Helpers]], [[Campaign State]], [[Calendar and Timeline]], [[Note Types]], [[Arc and Session Views]], [[DM Screen Views]], [[Plot Dashboard Views]], [[Session Hub Views]], [[Session Hub Table]], [[Quick Capture]], [[Reference Lists]], [[Section Picker]], [[Hub Layout]], [[Item Data]], [[Item Finder]], [[Treasure Roll]], [[Trap Roll]], [[Party Card]], [[Diagnostics]]) and loads with `dc.require`, so both hubs use the same logic. Every tag, folder, heading, and status name comes from [[Hub Config]] (properties only), which the code notes and templates read.
+- Shared code lives in code notes in `00 DM Screen/Code/` (one module per responsibility: [[Shared Helpers]], [[Campaign State]], [[Calendar and Timeline]], [[Note Types]], [[Arc and Session Views]], [[DM Screen Views]], [[Plot Dashboard Views]], [[Session Hub Views]], [[Session Hub Table]], [[Quick Capture]], [[Reference Lists]], [[Section Picker]], [[Hub Layout]], [[Item Data]], [[Item Finder]], [[Treasure Roll]], [[Trap Roll]], [[Party Card]], [[Diagnostics]], [[NPC Browser]], [[Artifact Pieces]], [[Artifact Hub Views]], [[Artifact Change Form]]) and loads with `dc.require`, so the hubs use the same logic. Every tag, folder, heading, and status name comes from [[Hub Config]] (properties only), which the code notes and templates read.
 
 ### Shared logic
 
@@ -112,6 +112,21 @@ How the table-side cards get their data:
 - **5e.tools data.** Items, loot tables, and traps load from the 5e.tools mirror named by `data_url_5etools` in [[Hub Config]], through [[Item Data]]: the first use downloads a file, which is cached in the browser (IndexedDB database `hub-5etools`). The cache carries over between Obsidian sessions; "Refresh data" downloads again. Entries from the 2024 books (XPHB, XDMG, XMM, EFA) win over same-named older ones. The treasure roller uses the 2024 DMG tables only (individual, hoard coins and item count, gems, art objects, "By Level" rarity, then the Arcana, Armaments, Implements, or Relics table). The data does not say how the book picks among those four, so each item picks one at random unless you pin one.
 - **Lists in notes.** [[Table References]] holds the bullet lists behind the reference cards; [[Table Sites]] holds the site links. Both are plain notes, so adding, removing, or reordering an entry is an edit to a bullet. Long reference notes (Conditions, Table Sites) become button rows through [[Section Picker]], which reads the note's own `##` headings.
 - **Retired.** Party Combat Profile (its damage estimates and analysis were not kept up; the Party card replaces its purpose), Sources of Maps (merged into Table Sites), and the single "Improv references" list (split into "Rulings" and "People and places").
+
+### Artifact hub (Lorestone Shard Status Tracker)
+
+Built 2026-10-21. One hub per multi-part artifact; the Lorestone's is [[Lorestone Shard Status Tracker]]. Nothing in the code names the Lorestone: the hub's embed blocks name the artifact by slug (`piece="lorestone-of-eryndor"`) and the notes holding its inscription.
+
+**Data: one note per piece.** `Objects/Lorestone of Eryndor - DM Notes/Shards/`, tagged `piece/lorestone-of-eryndor` and `inline-events` (no other properties); the number in the note name sets the order. Sections: Who knows and Pursued by (current state), Open questions (tasks), Properties and rulings, Notes, and History (append-only, one dated line per change as a Calendarium inline event in the Lorestone category). The current holder and location come from History. Format details: [[Artifact Pieces]].
+
+**Inscription.** The lines live only in [[The Prophecy (Original Form)]] and [[The Prophecy (Modern Text)]], each labeled with its shard and position (`4a`, `4b`; a lost shard's surviving modern line in parentheses). A shard's lines count as read once its History has a `lines read` entry.
+
+| Section | Shows | Engine |
+|---|---|---|
+| Overview | Each holder with the numbers of the shards they hold (embedded in the Lorestone DM note and Assembling the Lorestone) | Datacore ([[Artifact Hub Views]]) |
+| Shards | A card per shard: holder, location (the party's location when a PC holds it), who knows, pursued by, line dots (● read, ◐ modern version only, ○ not known); border color: green party holds, accent party knows where, red only the DM knows, gray no holder. More opens history, knowledge, pursuit, lines with their modern versions, open questions, sessions, rulings, notes | Datacore ([[Artifact Hub Views]]) |
+| Who knows what | Factions (members folded under them), individuals, and the Party against the shards; shading by level (green with black: 45% knows it exists, 70% knows where, full green holds), gold for a false belief, ↗ pursuing; a person's lines also count for their factions (`faction/…` tags) and, for a PC, the party; filters for name, faction, place; click a cell for the lines behind it | Datacore ([[Artifact Hub Views]]) |
+| Record change | Form on each card: one History line, plus the matching update to Who knows, Pursued by, or Properties and rulings; defaults to today in-world and the last played session | Datacore ([[Artifact Change Form]]) |
 
 ### Content to create
 

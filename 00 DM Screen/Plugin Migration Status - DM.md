@@ -161,6 +161,12 @@ Decisions: delete QuickAdd now. Disable MetaEdit, Kanban, Sort and Permute Lines
 
 2026-10-21 | D6 Lorestone stage 3 fix | Who knows what grid: shard numbers sat one column left because the empty top-left header cell was hidden by the Blank Table Headers.css snippet; that cell now reads "Factions and individuals". Tests check the header and per-row cell counts. | Done pending check in Obsidian.
 
+2026-10-21 | D6 Lorestone | DM Hubs Design: added "Artifact hub (Lorestone Shard Status Tracker)" (data model, inscription labels, sections table); code-note list now includes NPC Browser, Artifact Pieces, Artifact Hub Views, Artifact Change Form. Lorestone Shard Status Tracker redesign complete; the last Dataview block is gone. | Done. Open: replace the =this.location inline field in Encounter Template, then D8 (retire Dataview, final plugin audit).
+
+2026-10-21 | D6 Encounter Template | Rewritten to current template conventions: name prompt, campaign from campaign notes (active first; world tag from its world property), place picker (existing in that world, new nested, or none), region copied from the place's location note, faction checklist; Location line auto-links the place note. Removed the location and session properties and the =this.location Dataview field; uses the shared helper block (Hub Config, safe move, cancel without double delete); no longer reads vault_inspector_config.json. Simulated in a Templater harness against real notes; not run in Templater. | Done pending a test run. No live Dataview left (only the three reorg docs and one archived note). Open: D8.
+
+2026-10-21 | D6 Encounter Template fix | Location line linked a place inside the chosen city (first location note carrying the city's place tag); now links the place's own note, the one whose name matches the tag's last part, or stays blank when none matches. Same rule applied to the shard hub's place-tag fallback in Artifact Pieces. Simulation and hub tests pass. | Done pending a retest.
+
 ## Open items (as of 2026-10-21)
 
 Next up (Suggest the best next step of these, but Gerald will have final say):
