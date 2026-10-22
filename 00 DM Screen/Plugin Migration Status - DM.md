@@ -193,7 +193,7 @@ Decisions: delete QuickAdd now. Disable MetaEdit, Kanban, Sort and Permute Lines
 
 2026-10-22 | Aveqtaro reorg | Removed the Aveqtaro Dynasty Bridge link from the hub's Subnotes (note never existed; content lives in Luxon Beacon Political Consequences and the tracker's Convergence card; create it when the Dynasty thread is near). aveqtaro.rtf compared with Aveqtaro Thaan: an older copy of the same note (the current note adds Tazriin Velko's name and the Related Notes embed), nothing to carry over | Aveqtaro reorg done: hub plus two subnotes (Memory Recovery Tracker, What Aveqtaro Thaan Knows). aveqtaro.rtf can be deleted.
 
-2026-10-22 | D8 tidy-up | Removed the two stale snippet entries (blank_table_headers, readable-typography-inter) from .obsidian/appearance.json. Plugin count now 17 enabled (Force note view mode deleted after the D8 audit); installed but disabled: Buttons, MetaEdit, Kanban, Sort and Permute, Dataview. Personal vault: folder-notes/data.json.bak.json deleted by Gerald. | Done. Remaining DM plugin work: the dated deletions.
+2026-10-22 | D8 tidy-up | Removed the two stale snippet entries (blank_table_headers, readable-typography-inter) from.obsidian/appearance.json. Plugin count now 17 enabled (Force note view mode deleted after the D8 audit); installed but disabled: Buttons, MetaEdit, Kanban, Sort and Permute, Dataview. Personal vault: folder-notes/data.json.bak.json deleted by Gerald. | Done. Remaining DM plugin work: the dated deletions.
 
 2026-10-22 | D7 additions review | Reviewed the optional additions (Omnisearch, Iconic, Notebook Navigator, Strong Start, The DM Compendium, Advanced Multi Column) against the DM vault, from plugin pages only; nothing tested in Obsidian. Gerald's call: trial Omnisearch (typo-tolerant search for invented names); decline the other five. | Omnisearch trial not started.
 
@@ -201,14 +201,14 @@ Decisions: delete QuickAdd now. Disable MetaEdit, Kanban, Sort and Permute Lines
 
 Next up (Suggest the best next step of these, but Gerald will have final say):
 1. Housekeeping deletions on their dates (below).
-2. D7: Omnisearch trial. Install, set it to respect Excluded files so the z_ folders stay out, use it for a week; keep it or remove it.
+2. D7: Omnisearch trial. Installed. Use it for a week; keep it or remove it.
 3. npc-folder-audit Phases 4-5, remainder (Aveqtaro Thaan done 2026-10-22): fill or retire the empty placeholder Bramwell Bellweather - DM Notes (material is in the Deastok Investigation arc's Bramwell epilogue); evaluate Vaud Qalix and Korfel Withrethin as Tier 1 hubs; the non-NPC sweep of Characters/NPCs; the Lady Emer satellites.
 
 Gerald's own tasks:
-- Delete Characters/NPCs/aveqtaro.rtf (untracked; superseded by Aveqtaro Thaan, checked 2026-10-22).
-- Remove the npc tag from three notes that show in the NPC Browser: Manifesto - Brief and Manifesto - Reclaiming the Glory of Draconia (Characters/Adversaries/Vaud Qalix - DM Notes), and Keldar Stonefoot Letter to Calderax (Plot Threads). "History of Tessa and Sumad-Dekon, Eryndor" was not found by that name; check whether it was renamed or deleted. Harmonic Planar Conduit is done.
-- Vault root cleanup (the seven orphans Janitor lists): move replace_related_blocks.py out of the vault and delete the six *_dryrun.txt and *_applied.txt reports.
-- Lawbearer's Tear.md is empty and three notes link to it: fill it in or leave it.
+- [x] Delete Characters/NPCs/aveqtaro.rtf (untracked; superseded by Aveqtaro Thaan, checked 2026-10-22).
+- [x] Remove the npc tag from three notes that show in the NPC Browser: Manifesto - Brief and Manifesto - Reclaiming the Glory of Draconia (Characters/Adversaries/Vaud Qalix - DM Notes), and Keldar Stonefoot Letter to Calderax (Plot Threads). "History of Tessa and Sumad-Dekon, Eryndor" was not found by that name; check whether it was renamed or deleted. Harmonic Planar Conduit is done.
+- [x] Vault root cleanup (the seven orphans Janitor lists): move replace_related_blocks.py out of the vault and delete the six *_dryrun.txt and *_applied.txt reports.
+- [x] Lawbearer's Tear.md is empty and three notes link to it: fill it in or leave it.
 
 Reorganization docs (update when convenient):
 - DM_Vault_Reorganization_Plan: final checklist has 7 open boxes. Reword "Dataview queries return expected results" for Bases and Datacore, and change world/faerun to world/toril.

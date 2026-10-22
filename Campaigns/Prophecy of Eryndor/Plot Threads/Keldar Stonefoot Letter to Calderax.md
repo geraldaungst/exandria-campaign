@@ -1,6 +1,5 @@
 ---
 tags:
-  - npc
   - region/menagerie-coast
   - world/exandria
   - needs-work

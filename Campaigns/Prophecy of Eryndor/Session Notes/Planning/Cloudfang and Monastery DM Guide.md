@@ -47,7 +47,7 @@ tags:
 - Qalix's true goal (Draconia restoration)
 - Other shard locations
 - That "temporal resonance crystal" is Luxon Beacon
-- That her pearl is Lawbearer's Tear
+- That her pearl is [[Lawbearer's Tear]]
 - Specific Rexxentrum heist timeline
 
 ---
@@ -312,7 +312,7 @@ tags:
 > - Empty ration wrappers
 > - Bedroll, still warm
 > - Phase spider ichor and fresh sword cuts
-> 
+>
 > Investigation checks reveal: injured person, alone, been fighting spiders, systematically exploring for exit
 >
 > You follow the trail…
