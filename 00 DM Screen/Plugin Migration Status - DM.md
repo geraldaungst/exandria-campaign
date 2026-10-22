@@ -185,6 +185,10 @@ Decisions: delete QuickAdd now. Disable MetaEdit, Kanban, Sort and Permute Lines
 
 2026-10-21 | D6 verification | Gerald tested in Obsidian and the results were not logged at the time: Lorestone hub and both #Overview embeds (Lorestone DM note, Assembling the Lorestone) render; stage 4 Record change test save; Encounter Template test run and retest; NPC, Faction and Location template Esc/Cancel retest; place-tag changes to NPCs here now and the Plot Dashboard cards; Quick Capture NPC stubs; Calderax's lines. | Closed. Lorestone hub work complete.
 
+2026-10-22 | Aveqtaro reorg | Tracker rebuilt as hub (Now panel via new Progress Tracks code note; stage callouts; History; Reference); What Aveqtaro Thaan Knows seeded (21 facts); Artifact Pieces exports + 2 Hub Config headings added | Rendered correctly in mock; Obsidian render untested
+
+2026-10-22 | Aveqtaro reorg | Tracker hub redesigned (status line, track cards with stage ladder, detail panel, knowledge strip by topic); stage cards gained Gist; stage data moved to bottom | Rendered and clicked correctly in mock; Obsidian render tested
+
 ## Open items (as of 2026-10-21)
 
 Next up (Suggest the best next step of these, but Gerald will have final say):
