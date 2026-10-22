@@ -1,6 +1,5 @@
 ---
 aliases: []
-possession: "[[Drawg Stormbrew (Brew)|Drawg]]"
 tags:
   - artifact
 ---

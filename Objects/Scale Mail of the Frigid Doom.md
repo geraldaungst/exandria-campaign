@@ -1,8 +1,5 @@
 ---
-affiliations:
-  - none
 aliases: []
-possession:
 tags:
   - needs-work
   - artifact

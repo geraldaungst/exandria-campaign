@@ -1,8 +1,5 @@
 ---
-proprietor: "[[Grent Gnurlsotten - DM Notes]]"
-region: Cyrios Mountains
 settlement-type: roadside tavern
-status: active
 tags:
   - location
   - campaign/eryndor
@@ -10,7 +7,6 @@ tags:
   - place/gnurlsottens
   - world/exandria
   - region/cyrios-mountains
-type: location
 ---
 
 ## Gnurlsotten's Nosh & Nip

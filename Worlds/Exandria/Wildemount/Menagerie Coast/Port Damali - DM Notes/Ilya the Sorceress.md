@@ -1,6 +1,4 @@
 ---
-faction:
-location:
 tags:
   - npc
   - world/exandria

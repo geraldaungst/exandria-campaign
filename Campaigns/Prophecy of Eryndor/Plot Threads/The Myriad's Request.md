@@ -1,5 +1,4 @@
 ---
-epoch: 1744555878960
 tags:
   - copilot-conversation
   - campaign/eryndor

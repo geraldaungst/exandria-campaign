@@ -1,5 +1,4 @@
 ---
-location:
 status: complete
 tags:
   - campaign/eryndor

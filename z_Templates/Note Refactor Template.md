@@ -1,12 +1,6 @@
 ---
-type: note
-kind: fact/relationship
-created: <% tp.date.now("YYYY-MM-DD") %>
-context:
 tags:
   - atomic
-  - to-process
-modified: 2026-10-18
 ---
 
 # Core Information

@@ -1,10 +1,10 @@
 ---
-location: "[[Cloudfang Keep - DM Notes]]"
 status: complete
 tags:
   - campaign/eryndor
   - needs-work
   - arc
+  - place/cloudfang-keep
 threads:
   - "[[Assembling the Lorestone]]"
   - "[[Understanding the Rifts]]"

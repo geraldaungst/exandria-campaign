@@ -1,9 +1,9 @@
 ---
-location: "[[Deastok]]"
 status: running
 tags:
   - arc
   - campaign/eryndor
+  - place/deastok
 threads:
   - "[[Assembling the Lorestone]]"
   - "[[Cleanse the Savalirwood]]"

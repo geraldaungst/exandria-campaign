@@ -1,5 +1,4 @@
 ---
-current_location: "[[The Shrine of Melora - DM Notes]]"
 disposition: indifferent
 tags:
   - faction

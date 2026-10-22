@@ -1,6 +1,4 @@
 ---
-context:
-created: 2025-09-27
 tags:
   - atomic
   - campaign/eryndor

@@ -1,5 +1,4 @@
 ---
-started:
 tags:
   - campaign/eryndor
   - needs-work

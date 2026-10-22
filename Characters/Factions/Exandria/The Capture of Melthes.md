@@ -1,13 +1,7 @@
 ---
-affiliations:
-  - "[[Dwendalian Empire - DM Notes]]"
-  - "[[Cerberus Assembly - DM Notes]]"
 aliases:
   - The Melthes Kidnapping
   - Melthes Recruitment
-context:
-created: 2025-10-12
-current_location: "[[Rexxentrum - DM Notes]]"
 disposition: indifferent
 tags:
   - faction

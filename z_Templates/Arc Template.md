@@ -39,7 +39,6 @@ if (!campaign) new Notice("No campaign note found (tag campaign-hub); the new no
 const campaignLine = campaignTag ? `\n  - ${campaignTag}` : "";
 -%>
 ---
-location:
 status: idea
 tags:
   - <% C("tag_arc", "arc") %><% campaignLine %>
@@ -89,7 +88,7 @@ For each: who is there, what they want, what the party can find, what changes if
 
 ### Locations
 
-<!-- One memorable detail each; link the location note. -->
+<!-- One memorable detail each; link the location note. Add the main place's place/… tag to this arc's tags (no location property). -->
 
 ### Loss State
 

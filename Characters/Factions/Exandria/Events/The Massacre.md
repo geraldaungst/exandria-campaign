@@ -1,7 +1,4 @@
 ---
-context: Historical faction event
-created: 2025-01-12
-date: 809 PD
 disposition: indifferent
 tags:
   - faction

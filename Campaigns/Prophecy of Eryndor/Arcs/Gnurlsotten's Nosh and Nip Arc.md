@@ -1,16 +1,11 @@
 ---
-leads-to: "[[Deastok]]"
-location: "[[Gnurlsotten's Nosh & Nip - DM Notes]]"
-npcs:
-  - "[[Grent Gnurlsotten - DM Notes]]"
-session: ""
 status: complete
 tags:
   - campaign/eryndor
   - filler
   - arc
+  - place/gnurlsottens
 tier: filler
-type: session-prep
 ---
 
 ## Session: The Herdsman of Gnurlsotten's Nosh & Nip

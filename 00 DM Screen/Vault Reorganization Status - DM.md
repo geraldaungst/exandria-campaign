@@ -1,12 +1,3 @@
----
-created: 2026-10-22
-description: Current state and remaining work for the DM vault reorganization. Single working record for the DM vault reorganization: current state, rules to apply, remaining work. The four original reorganization documents are archived and no longer updated. Read first when resuming.
-name: vault-reorganization-status
-status: active
-type: system-doc
-updated: 2026-10-22
----
-
 ## Vault Reorganization Status: DM Vault
 
 Location: the DM Screen folder, next to [[Plugin Migration Status - DM]]. The plugin migration is complete and its record is closed; this note covers only the reorganization. It holds current state and remaining work, not history. History lives in the four archived documents and in the Phase log below, which starts at the reconciliation.
@@ -160,3 +151,7 @@ Newest at the bottom. Format: `YYYY-MM-DD | phase | what changed | result`.
 2026-10-22 | reference documents | Corrected the previous entry: all four documents are superseded by this note, since every open task is tracked here. Added "Rules to apply" (tiers, separate-note test, merge pattern, tagging, triage categories) so nothing depends on the archived files. Moved the remaining three to z_Archive/Vault Reorganization/ | Links by name still resolve; not opened in Obsidian.
 
 2026-10-22 | NPC audit, Lady Emer | Merged Lady Emer Status into the hub, rebuilt the hub around offscreen activity and reappearance, moved hub and three documents into `Characters/NPCs/Lady Emer - DM Notes/`, added the missing Arcanist's Prism paragraph to Research Notes, filled the Lawbearer's Tear holder (Seraphina, dormant) | All wiki-links in the changed notes resolve. Delete `Characters/NPCs/Lady Emer Status.md`. Rendering, folder-note behavior and Related Notes.base not tested in Obsidian.
+
+2026-10-22 | NPC audit, Lady Emer | Merged Status into hub; rebuilt hub for offscreen/reappearance; moved hub + 3 documents into Lady Emer - DM Notes/; added Prism paragraph to Research Notes; filled Lawbearer's Tear holder | Links in changed notes resolve. Delete Lady Emer Status.md. Rendering not tested in Obsidian.
+
+2026-10-22 | conventions | Removed frontmatter from both status notes. Audited 504 notes and wrote [[Vault Conventions - DM]] (rules, tag scheme, properties by note type, six open questions) | Read-only audit; no existing note changed. Open questions in that note feed tag cleanup (item 5).

@@ -1,7 +1,6 @@
 ---
-context:
+tags:
   - atomic
-created: 2025-01-10
 ---
 
 ## Core Information

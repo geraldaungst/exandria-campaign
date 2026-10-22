@@ -1,10 +1,7 @@
 ---
-affiliations:
-  - Obsidian Echoforge
-context:
+tags:
   - atomic
   - location
-created: 2024-12-01
 ---
 
 ## Core Information

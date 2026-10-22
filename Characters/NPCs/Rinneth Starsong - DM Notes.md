@@ -1,8 +1,6 @@
 ---
 aliases:
   - rinneth
-important_for:
-knows:
 tags:
   - npc
   - world/exandria

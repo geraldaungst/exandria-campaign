@@ -1,6 +1,4 @@
 ---
-affiliations:
-  - none
 tags:
   - location
   - world/exandria

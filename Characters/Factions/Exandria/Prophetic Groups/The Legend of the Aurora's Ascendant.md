@@ -1,6 +1,4 @@
 ---
-affiliations:
-  - "[[Malachite Cord - DM Notes]]"
 disposition: friendly
 tags:
   - faction

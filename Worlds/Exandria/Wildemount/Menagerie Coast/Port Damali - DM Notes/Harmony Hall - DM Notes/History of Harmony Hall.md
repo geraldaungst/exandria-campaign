@@ -1,6 +1,4 @@
 ---
-context:
-created: 2025-01-09
 tags:
   - atomic
 ---

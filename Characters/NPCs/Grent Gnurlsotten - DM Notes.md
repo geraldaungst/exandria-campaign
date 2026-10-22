@@ -1,9 +1,5 @@
 ---
 disposition: friendly
-first-appearance: "[[Gnurlsotten's Nosh and Nip Arc]]"
-region: Cyrios Mountains
-species: goliath
-status: alive
 tags:
   - npc
   - campaign/eryndor
@@ -11,7 +7,6 @@ tags:
   - world/exandria
   - region/cyrios-mountains
   - place/gnurlsottens
-type: npc
 ---
 
 ## Grent Gnurlsotten

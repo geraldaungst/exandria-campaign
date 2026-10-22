@@ -1,6 +1,4 @@
 ---
-context: Historical faction background
-created: 2025-01-12
 disposition: indifferent
 tags:
   - faction

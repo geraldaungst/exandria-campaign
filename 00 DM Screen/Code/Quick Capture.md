@@ -13,7 +13,7 @@ hide_from_related: true
 Conventions this module relies on:
 
 - **Stubs** are built from the body of your own templates ([[NPC Template]], [[Location Template]], [[Faction Template]], [[Artifact-Item Template]]; names in [[Hub Config]] as `template_…`). The templates ask questions and move the file, so the module reads each template's text, drops its Templater header and frontmatter, and keeps the headings. If a template can't be found or read, the stub gets a "rebuild with the … template" note instead.
-- **Frontmatter** on every stub: the kind's tag, `needs-work`, `improvised`, the campaign's tag, `first_session` (a link to the current session), and `created`. NPC stubs also get `aliases` and `disposition: indifferent`; faction stubs get `aliases`. Place and faction are tags (`place/…`, `faction/…`), added when the note is developed. Remove `needs-work` when the note is developed.
+- **Frontmatter** on every stub: the kind's tag, `needs-work`, `improvised`, the campaign's tag, and `first_session` (a link to the current session). NPC stubs also get `aliases` and `disposition: indifferent`; faction stubs get `aliases`. Place and faction are tags (`place/…`, `faction/…`), added when the note is developed. Remove `needs-work` when the note is developed.
 - **Where stubs go:** NPCs to `folder_npcs`; factions to `folder_factions/<World>` (the world's name from the campaign note's `world` property); items to `folder_objects`; locations and shops to a `Stubs` folder inside the campaign's folder (`folder_stubs`; it sits there, not under Worlds, because the NPC, faction, item, and location templates read every folder directly under Worlds as a world).
 - **World tag:** the campaign note's `world` property (for example `Exandria`) becomes `world/exandria` on the stub. Without it the stub has no world tag and says so.
 - **Current session:** the session dated today (the next session on game night); with none dated today, the next session; with none at all, the last one played. The form shows which.
@@ -24,7 +24,7 @@ The block below is plain `jsx`, so it does not run on this page. Notes load it w
 ## Code
 
 ```jsx
-const { cfg, linkPath, todayDay, rawText, S } = await dc.require(dc.headerLink("00 DM Screen/Code/Shared Helpers.md", "Code"));
+const { cfg, linkPath, rawText, S } = await dc.require(dc.headerLink("00 DM Screen/Code/Shared Helpers.md", "Code"));
 
 const { useActiveCampaign, useSessionState } = await dc.require(dc.headerLink("00 DM Screen/Code/Campaign State.md", "Code"));
 
@@ -90,7 +90,7 @@ function stubContent({ kind, line, session, campaignTag, worldTag, body, templat
   const tags = [...kind.tags, c.tag_needs_work, c.tag_improvised, campaignTag, worldTag].filter(Boolean);
   const front = ["---", "tags:", ...tags.map((t) => `  - ${t}`)];
   if (session) front.push(`first_session: "[[${session.name}]]"`);
-  front.push(`created: ${todayDay()}`, ...kind.extra, "---");
+  front.push(...kind.extra, "---");
   const note = [
     `> [!todo] Stub${session ? ` from [[${session.name}]]` : ""}`,
     ...(line ? [`> ${line}`] : []),

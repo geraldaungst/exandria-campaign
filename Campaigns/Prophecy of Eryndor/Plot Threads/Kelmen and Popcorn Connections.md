@@ -2,7 +2,6 @@
 aliases:
   - Shard 8 Connections
   - Popcorn Feywild Thread
-created: 2026-02-22
 tags:
   - campaign/eryndor
   - dm-only

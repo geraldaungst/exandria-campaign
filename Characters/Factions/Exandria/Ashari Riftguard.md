@@ -1,7 +1,6 @@
 ---
 aliases:
   - riftguard
-current_location: unknown
 disposition: indifferent
 tags:
   - faction

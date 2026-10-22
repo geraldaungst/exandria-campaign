@@ -1,12 +1,3 @@
----
-created: 2026-10-18
-description: Working record for the Obsidian plugin cleanup of the D&D DM vault. Findings, settled decisions, phase checklist. Read first when resuming.
-name: plugin-migration-status
-status: active
-type: system-doc
-updated: 2026-10-22
----
-
 ## Plugin Migration Status: DM Vault
 
 Location: the DM Screen folder (decided 2026-10-18). The Reference folder was ruled out because it is excluded from the git sync, so the Claude project could not see the note here. The note must never sit inside the folder published to Obsidian Publish. A companion note exists in the personal vault. Decisions in the "Shared decisions" section apply to both.

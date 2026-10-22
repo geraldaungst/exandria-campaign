@@ -1,7 +1,5 @@
 ---
 aliases: []
-key_items:
-notable_npcs:
 tags:
   - campaign/eryndor
   - location

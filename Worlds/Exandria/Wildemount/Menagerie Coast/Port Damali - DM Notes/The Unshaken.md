@@ -1,6 +1,4 @@
 ---
-affiliations:
-  - Unshaken (Skyship)
 tags:
   - needs-work
   - vehicle

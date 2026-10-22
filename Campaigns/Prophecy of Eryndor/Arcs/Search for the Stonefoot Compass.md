@@ -1,11 +1,10 @@
 ---
-location: "[[Port Zoon - DM Notes]]"
-started:
 status: idea
 tags:
   - campaign/eryndor
   - needs-work
   - arc
+  - place/port-zoon
 threads:
   - "[[Assembling the Lorestone]]"
 tier: standard
@@ -17,6 +16,7 @@ tier: standard
 > Status: Active
 > Last Session Mentioned: [[Session 14 to 16 - Rift to the Elemental Plane of Fire]]
 > Key Players: [[Aethor Kalisk - DM Notes]],
+> Location: [[Port Zoon - DM Notes|Port Zoon]]
 > Next Expected Development: Return the compass to Aethor
 
 ## Overview

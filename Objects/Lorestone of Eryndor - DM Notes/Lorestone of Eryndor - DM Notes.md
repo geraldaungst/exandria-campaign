@@ -1,12 +1,6 @@
 ---
 aliases:
   - Lorestone
-possession:
-  - "[[Archivist Ovedo]]"
-  - "[[Lyren Willowwhisper]]"
-  - "[[Celdric Ambril]]"
-  - "[[Aethor Kalisk - DM Notes]]"
-  - "[[The Prophecy]]"
 tags:
   - campaign/eryndor
   - artifact
