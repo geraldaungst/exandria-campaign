@@ -58,7 +58,7 @@ Advanced Note Composer, Tag Wrangler (likely), Omnisearch (optional). Optional t
 | D2  | Disable then delete confirmed-unused plugins (MetaEdit if F5 clear)                      | D1         | Sonnet                                                                                       | done; deletion of disabled plugins due on or after 2026-10-25             |
 | D3  | Install Advanced Note Composer, move any Note Refactor hotkeys, retire Note Refactor     | F6         | Sonnet                                                                                       | done; Note Refactor Plus used instead of Advanced Note Composer           |
 | D4  | Admonition decision                                                                      | F3, F4, F7 | Sonnet                                                                                       | done; keep Admonition                                                     |
-| D5  | Dataview triage: label each query Bases, Datacore, or keep for now                       | F2, F4     | Opus (holistic pass over the whole inventory, one folder at a time)                          | mostly done; remaining queries listed in the 2026-10-20 log entry         |
+| D5  | Dataview triage: label each query Bases, Datacore, or keep for now                       | F2, F4     | Opus (holistic pass over the whole inventory, one folder at a time)                          | done 2026-10-21         |
 | D6  | Convert in batches, one commit per batch. Simple queries to Bases | D5 | Sonnet for simple Bases conversions. Opus for dataviewjs and complex queries to Datacore JSX | done 2026-10-21 |
 | D7  | Install Tag Wrangler and any chosen additions                                            | D6         | Sonnet                                                                                       | Tag Wrangler installed; no other additions chosen                         |
 | D8  | Retire Dataview when no queries remain; final audit of the plugin list against this note | D6, D7 | Sonnet | done 2026-10-21; Dataview disabled, delete on or after 2026-10-28 |
@@ -179,20 +179,29 @@ Decisions: delete QuickAdd now. Disable MetaEdit, Kanban, Sort and Permute Lines
 
 2026-10-21 | Calendarium NaN | data.json: 8 links repointed (+#36, #37), 1 link cleared, 7 events removed (4 duplicates/stray, 3 post-death Dreyara), 2 categories set; backup data.json.bak-2026-10-21 | verified by re-read; not yet opened in Obsidian
 
-2026-10-21 | Janitor | aveqtaro.rtf and etcheda-monkey-token.png no longer listed (handled by Gerald) | orphans 9 → 7; remaining items held for D8 and the Aveqtaro reorg
+2026-10-21 | Janitor | Excluded-files entries are regular expressions, not globs: vault_inspector_*.json failed, ^vault_inspector_.*\.json$ works; publish.css already excluded. aveqtaro.rtf was deleted in Finder and restored (untracked in git; keep until the Aveqtaro reorg). etcheda-monkey-token.png is no longer an orphan because Gerald linked it from its note | Orphans 13 → 7; the remaining 7 are the migration scripts and reports, held for the vault-root cleanup.
+
+2026-10-21 | Calendarium NaN | Confirmed in Obsidian: no console errors, calendar and linked events correct. debug turned off, data.json backup deleted. Standing setting: "Parse note titles for event dates" stays OFF (cause of the NaN errors: every note with frontmatter and no fc-date had its title parsed as a date). Only notes with fc-date (Sessions) and notes tagged inline-events create events. | Done. Closes the Calendarium separate session.
+
+2026-10-21 | D6 verification | Gerald tested in Obsidian and the results were not logged at the time: Lorestone hub and both #Overview embeds (Lorestone DM note, Assembling the Lorestone) render; stage 4 Record change test save; Encounter Template test run and retest; NPC, Faction and Location template Esc/Cancel retest; place-tag changes to NPCs here now and the Plot Dashboard cards; Quick Capture NPC stubs; Calderax's lines. | Closed. Lorestone hub work complete.
 
 ## Open items (as of 2026-10-21)
 
 Next up (Suggest the best next step of these, but Gerald will have final say):
 1. Housekeeping deletions on their dates (below).
+2. Aveqtaro Thaan reorg (npc-folder-audit Phases 4-5): restructure her as a Tier 1 hub with subnotes; fill or retire the two empty placeholders (What Aveqtaro Thaan Knows, Bramwell Bellweather - DM Notes); use Characters/NPCs/aveqtaro.rtf as source (untracked in git, keep until this is done); then evaluate Vaud Qalix and Korfel Withrethin as Tier 1 hubs, the non-NPC sweep of Characters/NPCs, and the Lady Emer satellites.
 
 Gerald's own tasks:
-- Decide whether these carry the npc tag wrongly (they show up in the NPC Browser): Manifesto - Brief, Manifesto - Reclaiming the Glory of Draconia, History of Tessa and Sumad-Dekon, Eryndor, Keldar Stonefoot Letter to Calderax.
-- Vault root cleanup: move replace_related_blocks.py out of the vault and delete the six *_dryrun.txt and *_applied.txt reports.
-- Optional:.obsidian/appearance.json lists two snippets that no longer exist (blank_table_headers, readable-typography-inter). Harmless; Claude can remove them with the vault closed.
+- Remove the npc tag from three notes that show in the NPC Browser: Manifesto - Brief and Manifesto - Reclaiming the Glory of Draconia (Characters/Adversaries/Vaud Qalix - DM Notes), and Keldar Stonefoot Letter to Calderax (Plot Threads). "History of Tessa and Sumad-Dekon, Eryndor" was not found by that name; check whether it was renamed or deleted. Harmonic Planar Conduit is done.
+- Vault root cleanup (the seven orphans Janitor lists): move replace_related_blocks.py out of the vault and delete the six *_dryrun.txt and *_applied.txt reports.
+- Lawbearer's Tear.md is empty and three notes link to it: fill it in or leave it.
+- Optional: .obsidian/appearance.json lists two snippets that no longer exist (blank_table_headers, readable-typography-inter). Harmless; Claude can remove them with the vault closed.
 
-Separate sessions:
-- Calendarium "Must specify a valid year: NaN" errors on every Obsidian launch (a wall of the same error). Needs its own troubleshooting session. Bring the first lines of the console output. Also on file: 62 events, some linked to old 90 Session Notes paths; Dreyara's Antagonist Plans after 21 Thunsheer never happened (she died 25 Thunsheer 835).
+Reorganization docs (update when convenient):
+- DM_Vault_Reorganization_Plan: final checklist has 7 open boxes. Reword "Dataview queries return expected results" for Bases and Datacore, and change world/faerun to world/toril.
+- Exandria Vault Reorganization: the 35 open per-note tasks use the retired processed property and Dataview Connected Elements blocks. Mark them superseded, not complete.
+- Revised Phase 8: shows 3 of 3 boxes checked, but the log lists Parts D-F as open. Reconcile.
+- npc-folder-audit: the 5 open items are real work (see Next up 2).
 
 Data cleanup (not blocking D8):
 - 40 Exandria NPCs have no place tag (the NPC Browser's "No place" filter lists them); 33 of them also lack a faction.
@@ -205,6 +214,10 @@ Tag scheme (settled 2026-10-21):
 - Bases and search skip folders in Settings > Files & links > Excluded files (z_ folders, Isolated One-Shots).
 - NPC, Faction and Location templates write these tags; Quick Capture NPC stubs no longer write current_location or affiliations.
 - Scripts and reports: z_Reference holds npc_tag_cleanup.py, npc_tag_apply.py, npc_tag_rules.yaml, the Cleanup Report, the Apply Plan, and template-backups (original templates). The retire-properties and location-tag scripts were run from Claude's working folder and are not in the vault.
+
+Calendarium and Janitor rules:
+- Calendarium: "Parse note titles for event dates" stays OFF. Events come only from notes with fc-date (Sessions) and notes tagged inline-events (shard History, Eryndor Timeline). A note with frontmatter and no fc-date is ignored while the setting is off.
+- Janitor: excluded-files entries are regular expressions matched against the vault-relative path, not globs. Use ^name_.*\.json$, not name_*.json.
 
 Related Notes.base reference:
 - Lives in 00 DM Screen. Embed with ![[Related Notes.base]] under "## Connected Elements" at the end of a note.
