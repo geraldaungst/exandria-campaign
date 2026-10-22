@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - Bramwell
 disposition: friendly
 tags:
   - npc
@@ -11,37 +12,50 @@ tags:
 ## Quick Reference
 
 > [!info] Essential Details
-> - **Location:**
-> - **Goal:**
-> - **Attitude toward party:**
-> - **Key knowledge:**
+> - **Location:** [[White Peak Inn]], [[Deastok]]. A fixture there, usually near the fire
+> - **Occupation:** Collects odd reports for Erma Schnieb, a halfling mage in Uthodurn. Fieldwork out of habit, not investment
+> - **Goal:** Get through the work without grief from Erma. Not looking for a cause
+> - **Attitude toward party:** Mild, deflecting. Real interest only when they bring up the dreams, the dig, the tablet, or the five-cornered geometry
+> - **Key knowledge:** Erma's network of contacts across the continent; has visited the dig site himself; knows an old Ashari legend (Brynna relays this)
 
 ## Description & Roleplay
 
-[Appearance in 2-3 sentences. Then:]
-- **Voice:**
-- **Mannerisms:**
-- **Key traits:**
+Stout, formally dressed. Sits alone near the fire with a drink he hasn't touched in a while. Race and age are not set.
+
+- **Voice:** Weary, a little stuffy. Deflects, never lies: "I collect odd reports for someone. Tedious work. Pays reasonably."
+- **Mannerisms:** Grumbles to Torvald about correspondence: "Another letter, always wanting more, as if I've nothing better to do."
+- **Key traits:** Insight on him reads tiredness, not deceit. If pushed on who: "A researcher. Uthodurn, mostly. You wouldn't know her," said like he has said it many times.
 
 ## Current Situation
 
-[What's happening with them RIGHT NOW.
-Update this as the campaign progresses.
-This replaces the separate "Status" note.]
+- Met in [[Session 51 - Between a Rock and an Old Place]], talking with Jorun at the White Peak Inn. Dechs recognized the name.
+- [[Session 53]]: contact made, not followed up. Nothing on him in Session 54.
+- Open decision in [[Deastok Investigation]]: close the Bramwell epilogue there, or move it to a later arc.
+- If never engaged, he stays a stuffy local and Erma's network stays dormant.
 
 > [!secret]- Hidden Information
-> [DM-only secrets, future plans, what they're hiding.
-> Collapsed by default.]
+> - **The researcher is Erma Schnieb**, a halfling mage in Uthodurn. She believes she has found a portal in the Savalirwood leading to the Lower Planes ([[Rupture of the Molaesmyr Fey Crossing]]). He does not offer her name.
+> - **The other end of her research is Cairel Ulthe**, an elven druid whose parents fled Molaesmyr, hunting the origin of the curse. Neither name is offered at the inn.
+> - **What he offers if engaged:** favor-based fast travel through Erma's contacts. Price: real, high-quality information, not crumbs. He says so a little tiredly, because he catches the grief when she is unimpressed.
+> - **The pivot:** if he learns Seraphina was alive at the time of the original cataclysm, he is jolted: *maybe Erma has been right all along.* Not warmth. He might then suggest they meet her. Do not force this.
+> - **Long fuse (not this arc):** his fading investment makes him a plausible defection risk. Careless, he could leak Erma's research to Qalix's network.
+
+> [!note]- Conversation branches
+> Mix freely, in any order.
+> - **Opener:** "'Bramwell,' he offers, before anyone asks. He sets his drink down. 'You're the ones who've been asking questions all over town.'"
+> - **They know about the dreams:** "The sleeping trouble. Yes, I've heard. I collect these things, for someone else's benefit, not my own curiosity."
+> - **They know about the dig:** "Brynna mentioned the old stones past the estate, did she? I went and had a look myself. Didn't understand half of it."
+> - **They have the tablet, the sketch, or the geometry:** he leans in. "May I see that?" or "Describe it again. Slowly." First real interest he shows.
+> - **Nothing has come up:** "And what brings you through Deastok?" is as far as he goes.
 
 > [!note]- Background
-> [Condensed background—just what informs their behavior.
-> If this grows beyond ~15 lines, it probably needs its own linked note.
-> Link to extended background note if one exists.]
+> - Kamordah family, or was: a minor landed family. An inheritance dispute burned his standing.
+> - Locals' read, per Torvald: "Fixture, that one. Harmless."
+> - Dechs recognizes the Bellweather name as a vineyard family in Kamordah, known at a distance, no personal dealings. A dry aside at most (they paid tradespeople late, or she hasn't thought of them in years).
 
 > [!note]- Stats
-> [Stat block if needed. Collapsed by default.
-> Many NPCs won't need this at all.]
+> Passive Insight 14. Deception +5, Insight +4. No combat stats; not expected to fight.
 
-### Connected Elements
+## Connected Elements
 
 ![[Related Notes.base]]

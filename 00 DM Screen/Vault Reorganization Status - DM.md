@@ -1,6 +1,6 @@
 ---
 created: 2026-10-22
-description: Current state and remaining work for the DM vault reorganization. Replaces the four reorganization documents as the working record; they stay as reference. Read first when resuming.
+description: Current state and remaining work for the DM vault reorganization. Single working record for the DM vault reorganization: current state, rules to apply, remaining work. The four original reorganization documents are archived and no longer updated. Read first when resuming.
 name: vault-reorganization-status
 status: active
 type: system-doc
@@ -9,11 +9,11 @@ updated: 2026-10-22
 
 ## Vault Reorganization Status: DM Vault
 
-Location: the DM Screen folder, next to [[Plugin Migration Status - DM]]. The plugin migration is complete and its record is closed; this note covers only the reorganization. It holds current state and remaining work, not history. History lives in the four reference documents and in the Phase log below, which starts at the reconciliation.
+Location: the DM Screen folder, next to [[Plugin Migration Status - DM]]. The plugin migration is complete and its record is closed; this note covers only the reorganization. It holds current state and remaining work, not history. History lives in the four archived documents and in the Phase log below, which starts at the reconciliation.
 
 ### How Claude should use this note
 
-- Read all of it before proposing anything. The four reference documents are context only; where they disagree with this note, this note wins.
+- Read all of it before proposing anything. The four archived documents are history only and are not updated; where they disagree with this note, this note wins.
 - Verify against the vault before ticking or marking anything. Never tick on assumption.
 - The vault syncs to a Claude project through GitHub, and the project copy can lag the vault. Check the vault first.
 - Ask one or two questions at a time. Gerald decides; he tells Claude when the vault is closed and commits with Obsidian Git himself.
@@ -21,24 +21,47 @@ Location: the DM Screen folder, next to [[Plugin Migration Status - DM]]. The pl
 - Check every wiki-link resolves before writing it, so no empty placeholder notes get created.
 - After each completed item, give a log line (`YYYY-MM-DD | phase | what changed | result`). State what could not be tested in Obsidian.
 
-### Reference documents
+### Archived documents
 
-| Document | Status | Still useful for |
-|---|---|---|
-| [[DM_Vault_Reorganization_Plan]] | Phases 1-7 done. Phase 8 text replaced by [[Revised Phase 8]]. Final checklist reworded below | Target folder tree, tag taxonomy, "where does this go" table |
-| [[Revised Phase 8]] | Part A done; Parts B and C done per log; D, E, F tracked below | Triage categories, verification checks |
-| [[Exandria Vault Reorganization]] | Superseded. 38 of 73 tasks done; the 35 open tasks depend on the retired `processed` property and Dataview blocks | Nothing active |
-| [[npc-folder-audit]] | Phases 1-3 done; Phase 4 half done; Phase 5 open | Tier definitions, NPC template, "Should this be a separate note?" test |
+Archived to `z_Archive/Vault Reorganization/` on 2026-10-22. Nothing in them is maintained; every open task is tracked here. Because `z_Archive` is excluded from search and Bases, anything still needed is copied into this note.
 
-The Dataview code in these four documents is documentation only. Dataview is disabled and will be deleted on or after 2026-10-28. Do not convert it.
+| Document | Final state |
+|---|---|
+| [[DM_Vault_Reorganization_Plan]] | Phases 1-7 done. Phase 8 replaced by Revised Phase 8. Final checklist carried into "Final verification" below |
+| [[Revised Phase 8]] | Part A done; B and C done per log; D, E, F carried into "Current state" below |
+| [[Exandria Vault Reorganization]] | Superseded. 38 of 73 tasks done; the 35 open tasks depend on the retired `processed` property and Dataview blocks |
+| [[npc-folder-audit]] | Phases 1-3 done; Phase 4 half done; Phase 5 open, carried into "Remaining work" below |
+
+The Dataview code in these documents is documentation only. Dataview is disabled and will be deleted on or after 2026-10-28. Do not convert it.
+
+### Rules to apply
+
+Carried over from the audit and Phase 8 so the work does not depend on the archived files.
+
+**Where things live:** `Campaigns/<campaign>/` (sessions, arcs, party, plot threads, status), `Characters/NPCs`, `Characters/Adversaries`, `Characters/Factions`, `Characters/Creatures`, `Worlds/<world>/<region>/`, `Objects/`, `00 DM Screen/`, `Player Wiki/` (published), `z_Templates`, `z_Reference`, `z_Archive`. The tag scheme is in [[Plugin Migration Status - DM]] under "Tag scheme".
+
+**NPC tiers**
+- **Tier 1, hub plus subnotes:** multiple active storylines, complex hidden agendas, or content serving different use cases (running a scene, planning behind-the-scenes moves, tracking a network). The hub is a concise reference card; each subnote serves a distinct use case, not just a different topic.
+- **Tier 2, one comprehensive note:** the NPC Template in `z_Templates`. Quick Reference and roleplay always visible; hidden information, background and stats in default-collapsed callouts (`> [!secret]-`, `> [!note]-`).
+- **Tier 3, minimal:** a short note or a row in Quick NPCs.
+
+**Should this be a separate note?** Yes if any apply: (1) it is referenced from two or more unrelated contexts; (2) it is a different use case from the parent; (3) it is long enough (roughly 15 lines with its own headings) to make the parent feel like noise; (4) it is a location, item, event or faction filed as an NPC. Otherwise it belongs in the parent, as a collapsed callout if brief.
+
+**Merge pattern:** single-owner satellites (status, description, "what X knows" fragments) merge into the parent NPC, condensed to scannable bullets. Stat blocks are left out when the NPC is unlikely to fight; combat stats live in Roll20. If it won't help run a scene or plan the NPC's actions, it doesn't belong.
+
+**Tagging:** `npc` means the note is an individual NPC. Atomic notes about NPC topics use `atomic` or content tags, not `npc`. `needs-work` stays on refactored notes until separately reviewed.
+
+**Keep as separate notes (multi-reference):** The Massacre, The Capture of Melthes, Port Damali Murders, Rylan Estevez Frame Job, The Gentleman's Criminal Empire, Legacy of the Seekers, Luxon Beacon Integration with Lorestone.
+
+**File triage categories (Part D):** Essential (process with the simplified template), Reference (keep, no further processing), Redundant (delete or merge), Archive (move to `z_Archive`), Stub (delete if empty, flesh out if needed).
 
 ### Superseded or changed since the plans were written
 
 | In the plans | In the vault now |
 |---|---|
-| `processed` property and `#to-process` workflow | Retired. Only the three Rendspawn creature notes and the reference documents still mention them |
+| `processed` property and `#to-process` workflow | Retired. Only the three Rendspawn creature notes and the archived documents still mention them |
 | Dataview queries, Connected Elements blocks | Bases (`Related Notes.base`, `Recent Work.base`) and Datacore (hubs, Plot Dashboard, NPC Browser, Lorestone hub, Aveqtaro tracker) |
-| `world/faerun` | `world/toril`; 14 notes carry it. The tag survives only in the reference documents |
+| `world/faerun` | `world/toril`; 14 notes carry it. The tag survives only in the archived documents |
 | `campaign/exandria` | `campaign/eryndor` (138 notes) and `campaign/tyranny` (5) |
 | `Characters/Opponents`, `Items`, `Campaigns/Exandria`, `DM Screen` | `Characters/Adversaries`, `Objects`, `Campaigns/Prophecy of Eryndor`, `00 DM Screen` |
 | NPC `home_base`, `current_location`, `affiliations` properties | `place/…`, `faction/…`, `region/…`, `world/…` tags (scheme in the migration note) |
@@ -82,22 +105,22 @@ The Dataview code in these four documents is documentation only. Dataview is dis
 
 Verified against the vault on 2026-10-22.
 
-**1. Bramwell Bellweather placeholder.** [[Bramwell Bellweather - DM Notes]] is the unfilled template (tags only). It cannot be deleted: Session 51 and the Deastok Investigation arc link to it, and the party has met him. The material is in the arc's "Epilogue Thread - Bramwell" section and the two Deastok tables. Fill it from there.
+**1. Bramwell Bellweather placeholder.** Done 2026-10-22. [[Bramwell Bellweather - DM Notes]] is filled from the Deastok Investigation epilogue, Session 51 and Session 53. Race, age and voice beyond the quoted lines are not set in any source and were left blank. Open decision, yours: whether the Bramwell epilogue closes in the Deastok arc or moves to a later one (a to-do in that arc).
 
 **2. Vaud Qalix and Korfel Withrethin as Tier 1.**
 - [[Vaud Qalix - DM Notes]] already sits in a folder with three subnotes (`Qalix's Network`, `Vaud Qalix's Plan Outline`, `What does Vaud Qalix want`). The question is whether those subnotes each serve a distinct use case, not whether to create a hub.
 - [[Korfel Withrethin]] is one 148-line note with Current Operations and Hidden Information sections. Apply the audit's test: does a section serve a different use case (running a scene versus planning moves)?
 - A planning note, `Possible ideas for Korfel`, sits in Session Notes/Planning and is outside the NPC folder.
 
-**3. Non-NPC sweep of Characters/NPCs.** Six of 90 notes lack the `npc` tag: the two Aveqtaro subnotes (correct as atomic subnotes) and four Lady Emer notes.
+**3. Non-NPC sweep of Characters/NPCs.** Six of 90 notes lacked the `npc` tag: the two Aveqtaro subnotes (correct as atomic subnotes) and four Lady Emer notes. The three Emer documents are now in the Emer folder (not NPC notes); the Status note is pending deletion. Recount after the Status file is deleted.
 
-**4. Lady Emer satellites.** [[Lady Emer - DM Notes]] is the NPC note. Satellites: [[Lady Emer Status]] (50 lines, atomic; still carries `faction` and `location` properties), [[Lady Emer's Notes]] (121), [[Lady Emer's Poems]] (279), [[Lady Emer's Research Notes]] (261). Apply the audit rules to each: merge, keep as a linked note, or relocate. Poems and Research Notes are long enough to pass the "own use case" test; Status is the clear merge candidate, as Aethor's and Radelia's were.
+**4. Lady Emer satellites.** Done 2026-10-22. Hub and three documents now sit in `Characters/NPCs/Lady Emer - DM Notes/`. `Lady Emer Status` is merged into the hub; Gerald deletes the old file.
 
 **5. Tag cleanup**
 - 37 Exandria NPCs have no place tag (22 of them also lack a faction). The earlier count of 40 came from the NPC Browser and may count differently. Five are in Adversaries or Port Damali notes.
 - 14 NPC-tagged notes have no region tag.
 - Location notes: 21 of 52 notes under Worlds have no place tag. Many are lore, table or Keln notes that may not need one; only two notes tagged `location` lack it. 5 `location` notes have no region and 3 have no world.
-- Old properties (`affiliations`, `faction`, `current_location`, `location`) remain in 20 notes: 9 faction notes, 5 arc notes, 4 location or item notes, Lady Emer Status, and one NPC-tagged note.
+- Old properties (`affiliations`, `faction`, `current_location`, `location`) remain in 20 notes: 9 faction notes, 5 arc notes, 4 location or item notes, Lady Emer Status (to be deleted), and one NPC-tagged note.
 - The `processed` property or `#to-process` tag remains in three Rendspawn creature notes.
 
 **6. Part D triage and Part F decision.** Triage Essential, Reference, Redundant, Archive and Stub for what the NPC and tag work left over. Decide whether to build the Vault Health note.
@@ -120,10 +143,20 @@ The Plan's final checklist, reworded for the current stack. Gerald confirms the 
 
 ### Recommended next step
 
-Item 1, Bramwell Bellweather. Deastok is the active arc, the party has met him, and the source material already exists in the arc note. It is one note and removes the only empty placeholder with live links.
+Item 2, Vaud Qalix and Korfel Withrethin as Tier 1. Qalix already has a folder; the question is whether each subnote serves a separate use case. Korfel is one 148-line note.
 
 ### Phase log
 
 Newest at the bottom. Format: `YYYY-MM-DD | phase | what changed | result`.
 
 2026-10-22 | reconciliation | Read the four reorganization documents in full and checked each open item against the vault. Created this note. The four documents are unchanged. | Counts: Plan 7 open boxes; Revised Phase 8 0 open (3 ticked, Parts D-F open); Exandria reorganization 35 open and 38 done; npc-folder-audit 5 open. Aveqtaro Phase 4 confirmed done. Nothing tested in Obsidian.
+
+2026-10-22 | reconciliation | Created Vault Reorganization Status - DM.md; four reorganization documents unchanged | Links resolve; not opened in Obsidian
+
+2026-10-22 | NPC audit Phase 5 | Filled Bramwell Bellweather - DM Notes from the Deastok arc, Session 51 and Session 53; no new links to missing notes | Links resolve; not opened in Obsidian. Item 1 done.
+
+2026-10-22 | reference documents | Moved Exandria Vault Reorganization to z_Archive/Vault Reorganization/. The other three stay: they hold open work or reference | Links by name still resolve; not opened in Obsidian.
+
+2026-10-22 | reference documents | Corrected the previous entry: all four documents are superseded by this note, since every open task is tracked here. Added "Rules to apply" (tiers, separate-note test, merge pattern, tagging, triage categories) so nothing depends on the archived files. Moved the remaining three to z_Archive/Vault Reorganization/ | Links by name still resolve; not opened in Obsidian.
+
+2026-10-22 | NPC audit, Lady Emer | Merged Lady Emer Status into the hub, rebuilt the hub around offscreen activity and reappearance, moved hub and three documents into `Characters/NPCs/Lady Emer - DM Notes/`, added the missing Arcanist's Prism paragraph to Research Notes, filled the Lawbearer's Tear holder (Seraphina, dormant) | All wiki-links in the changed notes resolve. Delete `Characters/NPCs/Lady Emer Status.md`. Rendering, folder-note behavior and Related Notes.base not tested in Obsidian.
