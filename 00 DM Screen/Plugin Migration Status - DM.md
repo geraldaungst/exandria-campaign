@@ -4,7 +4,7 @@ description: Working record for the Obsidian plugin cleanup of the D&D DM vault.
 name: plugin-migration-status
 status: active
 type: system-doc
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 ## Plugin Migration Status: DM Vault
@@ -43,7 +43,7 @@ Location: the DM Screen folder (decided 2026-10-18). The Reference folder was ru
 
 #### Candidate retirements (pending findings)
 
-MetaEdit (both vaults), Note Refactor (after Advanced Note Composer is in), Admonition (only if F3 and F4 clear), Dataview (last, when zero queries remain).
+MetaEdit (both vaults), Note Refactor (after Advanced Note Composer is in), Admonition (only if F3 and F4 clear), Dataview (last, when zero queries remain). Outcome 2026-10-21: MetaEdit and Dataview disabled, Note Refactor replaced by Note Refactor Plus, Admonition kept.
 
 #### Candidate additions (pending findings or preference)
 
@@ -59,9 +59,9 @@ Advanced Note Composer, Tag Wrangler (likely), Omnisearch (optional). Optional t
 | D3  | Install Advanced Note Composer, move any Note Refactor hotkeys, retire Note Refactor     | F6         | Sonnet                                                                                       | done; Note Refactor Plus used instead of Advanced Note Composer           |
 | D4  | Admonition decision                                                                      | F3, F4, F7 | Sonnet                                                                                       | done; keep Admonition                                                     |
 | D5  | Dataview triage: label each query Bases, Datacore, or keep for now                       | F2, F4     | Opus (holistic pass over the whole inventory, one folder at a time)                          | mostly done; remaining queries listed in the 2026-10-20 log entry         |
-| D6  | Convert in batches, one commit per batch. Simple queries to Bases                        | D5         | Sonnet for simple Bases conversions. Opus for dataviewjs and complex queries to Datacore JSX | in progress; remaining: Unused Ideas, Lady Emer Status, Lorestone tracker |
+| D6  | Convert in batches, one commit per batch. Simple queries to Bases | D5 | Sonnet for simple Bases conversions. Opus for dataviewjs and complex queries to Datacore JSX | done 2026-10-21 |
 | D7  | Install Tag Wrangler and any chosen additions                                            | D6         | Sonnet                                                                                       | Tag Wrangler installed; no other additions chosen                         |
-| D8  | Retire Dataview when no queries remain; final audit of the plugin list against this note | D6, D7     | Sonnet                                                                                       | not started; waits on D6                                                  |
+| D8  | Retire Dataview when no queries remain; final audit of the plugin list against this note | D6, D7 | Sonnet | done 2026-10-21; Dataview disabled, delete on or after 2026-10-28 |
 
 ### Findings to collect (D1)
 
@@ -82,7 +82,7 @@ Record each answer under its heading. Leave blank until checked.
 - **F7. Linter configuration.** Which rules are on, any excluded folders, and whether a YAML timestamp rule is enabled. Confirm Linter does not rewrite published notes in ways that break them.
   - Answer: Linter 1.33.0 configured 2026-10-18 (45 rules on, yaml-timestamp off); ignores z_ folders.
 - **F8. Plugins with unknown or low use.** One line each: Mononote (confirm what it is used for), Janitor, Recent Files, Force note view mode, Kanban (count of boards).
-  - Answer: Resolved 2026-10-18: keep Janitor and Mononote; Kanban, Buttons, Sort and Permute disabled; Contextual Typography and QuickAdd deleted.
+  - Answer: Resolved 2026-10-18: keep Janitor and Mononote; Kanban, Buttons, Sort and Permute disabled; Contextual Typography and QuickAdd deleted. 2026-10-21: Recent Files kept; Force note view mode deleted (0 notes used it, no rules set).
 
 ### Phase log
 
@@ -167,17 +167,21 @@ Decisions: delete QuickAdd now. Disable MetaEdit, Kanban, Sort and Permute Lines
 
 2026-10-21 | D6 Encounter Template fix | Location line linked a place inside the chosen city (first location note carrying the city's place tag); now links the place's own note, the one whose name matches the tag's last part, or stays blank when none matches. Same rule applied to the shard hub's place-tag fallback in Artifact Pieces. Simulation and hub tests pass. | Done pending a retest.
 
+2026-10-21 | D8 | Dataview disabled (delete on or after 2026-10-28). Final plugin audit: 18 enabled, 5 disabled (Buttons, MetaEdit, Kanban, Sort and Permute, Dataview), no syntax for any disabled plugin. Live Dataview only in the three reorg docs and one archived note. Original Note Refactor already uninstalled (drop it from housekeeping); Linter now 1.34.2. Undecided: Force note view mode (unused: 0 notes, no rules), Recent Files. Leftovers: orphan hotkeys for Text Generator and QuickAdd, two stale snippet entries, conversion script and reports in the vault root. | Done pending those two decisions.
+
+2026-10-21 | D8 close | Force note view mode deleted (unused); Recent Files kept. Removed orphan hotkeys for Text Generator and QuickAdd. Status note: D6 and D8 marked done, Open items and housekeeping updated (Dataview delete on or after 2026-10-28). | Done.
+
 ## Open items (as of 2026-10-21)
 
 Next up (Suggest the best next step of these, but Gerald will have final say):
 1. Check the NPC Browser in Obsidian (Prophecy of Eryndor.md, "NPCs" section): it loads, the dropdowns fill, the table reads well. The logic was tested in a mock on real tags; the Datacore rendering was not.
-2. Two small Dataview items. Unused Ideas.md (1 block): drop it in favor of Janitor, since a Bases version needs a slow file.backlinks formula. Lady Emer Status.md: delete the "Last Updated" inline mtime line (Recent Work.base shows modified dates).
-3. Lorestone Shard Status Tracker (1 block, `TABLE affiliations, status`): deferred until the NPC tagging and template work finished, which it now has. Needs a design discussion about how Gerald uses it and what to automate. Findings: its `[[Lorestone of Eryndor]]` link resolves to the Player Wiki page; `status` is empty everywhere; `affiliations` was removed from NPCs on 2026-10-21 (non-NPC notes may still have it).
-4. D8: retire Dataview once 2 and 3 are done, then the final plugin audit.
+2. Review the tag-driven roll-ups in the Lorestone who-knows-what grid: Qalix to Draconia and Emissaries, Lady Emer to Emissaries, Varnes to Dwendalian Empire, Calderax to three factions. Fix by changing the NPC's faction tags, not the code.
+3. Housekeeping deletions on their dates (below).
 
 Gerald's own tasks:
-- Delete Campaign Overview.md (the canvas is already deleted; nothing links to it any more).
-- Remove the npc tag from Harmonic Planar Conduit, and decide whether these carry the tag wrongly (they show up in the NPC Browser): Manifesto - Brief, Manifesto - Reclaiming the Glory of Draconia, History of Tessa and Sumad-Dekon, Eryndor, Keldar Stonefoot Letter to Calderax.
+- Decide whether these carry the npc tag wrongly (they show up in the NPC Browser): Manifesto - Brief, Manifesto - Reclaiming the Glory of Draconia, History of Tessa and Sumad-Dekon, Eryndor, Keldar Stonefoot Letter to Calderax.
+- Vault root cleanup: move replace_related_blocks.py out of the vault and delete the six *_dryrun.txt and *_applied.txt reports.
+- Optional: .obsidian/appearance.json lists two snippets that no longer exist (blank_table_headers, readable-typography-inter). Harmless; Claude can remove them with the vault closed.
 
 Separate sessions:
 - Calendarium "Must specify a valid year: NaN" errors on every Obsidian launch (a wall of the same error). Needs its own troubleshooting session. Bring the first lines of the console output. Also on file: 62 events, some linked to old 90 Session Notes paths; Dreyara's Antagonist Plans after 21 Thunsheer never happened (she died 25 Thunsheer 835).
@@ -205,9 +209,10 @@ Repo facts:
 - Scripts used for the conversion: connected_elements_audit.py, connected_elements_audit2.py, replace_related_blocks.py (supports --templates, --folder, --apply; dry run by default). Gerald holds copies; they are untracked. Move them out of the vault root, and delete the report.txt files there.
 
 Housekeeping on or after 2026-10-25:
-- DM vault: delete disabled plugins MetaEdit, Kanban, Sort and Permute, Buttons, and the original Note Refactor.
+- DM vault: delete disabled plugins MetaEdit, Kanban, Sort and Permute, Buttons. The original Note Refactor is already uninstalled.
+- DM vault, on or after 2026-10-28: delete Dataview.
 - Personal vault: delete disabled MetaEdit.
-- Delete the Desktop copy of obsidian-folder-notes and folder-notes/data.json.bak.
+- Delete the Desktop copy of obsidian-folder-notes (folder-notes/data.json.bak is already gone).
 
 Still open in the personal vault: P6 final audit (update plugin lists in "8 - System Infrastructure/Obsidian System Context.md", line 114 mentions MetaEdit, and plugins.txt). The Related Notes pattern is DM-vault only; the personal vault has no equivalent yet.
 
