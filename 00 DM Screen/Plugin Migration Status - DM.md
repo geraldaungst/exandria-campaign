@@ -189,13 +189,16 @@ Decisions: delete QuickAdd now. Disable MetaEdit, Kanban, Sort and Permute Lines
 
 2026-10-22 | Aveqtaro reorg | Tracker hub redesigned (status line, track cards with stage ladder, detail panel, knowledge strip by topic); stage cards gained Gist; stage data moved to bottom | Rendered and clicked correctly in mock; Obsidian render tested
 
-## Open items (as of 2026-10-21)
+2026-10-22 | Aveqtaro reorg | Removed the Aveqtaro Dynasty Bridge link from the hub's Subnotes (note never existed; content lives in Luxon Beacon Political Consequences and the tracker's Convergence card; create it when the Dynasty thread is near). aveqtaro.rtf compared with Aveqtaro Thaan: an older copy of the same note (the current note adds Tazriin Velko's name and the Related Notes embed), nothing to carry over | Aveqtaro reorg done: hub plus two subnotes (Memory Recovery Tracker, What Aveqtaro Thaan Knows). aveqtaro.rtf can be deleted.
+
+## Open items (as of 2026-10-22)
 
 Next up (Suggest the best next step of these, but Gerald will have final say):
 1. Housekeeping deletions on their dates (below).
-2. Aveqtaro Thaan reorg (npc-folder-audit Phases 4-5): restructure her as a Tier 1 hub with subnotes; fill or retire the two empty placeholders (What Aveqtaro Thaan Knows, Bramwell Bellweather - DM Notes); use Characters/NPCs/aveqtaro.rtf as source (untracked in git, keep until this is done); then evaluate Vaud Qalix and Korfel Withrethin as Tier 1 hubs, the non-NPC sweep of Characters/NPCs, and the Lady Emer satellites.
+2. npc-folder-audit Phases 4-5, remainder (Aveqtaro Thaan done 2026-10-22): fill or retire the empty placeholder Bramwell Bellweather - DM Notes (material is in the Deastok Investigation arc's Bramwell epilogue); evaluate Vaud Qalix and Korfel Withrethin as Tier 1 hubs; the non-NPC sweep of Characters/NPCs; the Lady Emer satellites.
 
 Gerald's own tasks:
+- Delete Characters/NPCs/aveqtaro.rtf (untracked; superseded by Aveqtaro Thaan, checked 2026-10-22).
 - Remove the npc tag from three notes that show in the NPC Browser: Manifesto - Brief and Manifesto - Reclaiming the Glory of Draconia (Characters/Adversaries/Vaud Qalix - DM Notes), and Keldar Stonefoot Letter to Calderax (Plot Threads). "History of Tessa and Sumad-Dekon, Eryndor" was not found by that name; check whether it was renamed or deleted. Harmonic Planar Conduit is done.
 - Vault root cleanup (the seven orphans Janitor lists): move replace_related_blocks.py out of the vault and delete the six *_dryrun.txt and *_applied.txt reports.
 - Lawbearer's Tear.md is empty and three notes link to it: fill it in or leave it.

@@ -79,7 +79,6 @@ Her default is cheerful and optimistic. When things go wrong, her anxiety surfac
 
 - [[What Aveqtaro Thaan Knows]]—staged information by campaign progress
 - [[Aveqtaro Memory Recovery Tracker]]—triggers, pacing, what surfaces when
-- [[Aveqtaro Dynasty Bridge]]—political navigation, what she can argue and to whom
 
 ## Connected Elements
 
