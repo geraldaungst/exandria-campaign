@@ -89,7 +89,7 @@ Carried over from the audit and Phase 8 so the work does not depend on the archi
 | 3 | Link cleanup | done |
 | 4 | Aveqtaro Thaan as Tier 1 hub | done 2026-10-22: [[Aveqtaro Thaan]] plus [[Aveqtaro Memory Recovery Tracker]] and [[What Aveqtaro Thaan Knows]]. All links in the three notes resolve. The Dynasty Bridge subnote was never created and is not linked |
 | 4 | Evaluate Vaud Qalix and Korfel Withrethin as Tier 1 | Vaud Qalix done 2026-10-23: [[Vaud Qalix - DM]] plus [[Qalix's Network]] and [[Vaud Qalix's Plan Outline]]. Korfel done 2026-10-23: [[Korfel Withrethin]] plus [[Korfel's Next Moves]]; [[Characters/Factions/Exandria/Gentleman's Organization]] is now his faction note |
-| 5 | Sweep Characters/NPCs for non-NPC notes | in progress 2026-10-23: no non-NPC notes found; Shoagragoth, Valen Elderguard, Eledyr Dephar and Lady Emer (hub plus three documents) moved to Adversaries; Ilya the Sorceress moved from Worlds to Characters/NPCs and renamed [[Ilya the Sorceress - DM]]. Player pages for Ilya and Varnes Dwell created 2026-10-23. Open: list 3 and 4 naming items |
+| 5 | Sweep Characters/NPCs for non-NPC notes | in progress 2026-10-23: no non-NPC notes found; Shoagragoth, Valen Elderguard, Eledyr Dephar and Lady Emer (hub plus three documents) moved to Adversaries; Ilya the Sorceress moved from Worlds to Characters/NPCs and renamed [[Ilya the Sorceress - DM]]. Player pages for Ilya and Varnes Dwell created 2026-10-23. Open: the "list 3 and 4 naming items" are not defined anywhere in the vault and cannot be verified. A name check on 2026-10-23 found no name shared by a Player Wiki page and a DM note, and no `- DM` note without a player page except the three status notes. Drop this unless Gerald supplies the lists |
 | 5 | Apply the NPC template to remaining NPCs | open, incremental |
 
 ### Remaining work
@@ -99,10 +99,10 @@ Verified against the vault on 2026-10-22.
 **1. Bramwell Bellweather placeholder.** Done 2026-10-22. [[Bramwell Bellweather]] is filled from the Deastok Investigation epilogue, Session 51 and Session 53. Race, age and voice beyond the quoted lines are not set in any source and were left blank. Open decision, yours: whether the Bramwell epilogue closes in the Deastok arc or moves to a later one (a to-do in that arc).
 
 **2. Vaud Qalix and Korfel Withrethin as Tier 1.**
-- Vaud Qalix: done 2026-10-23. Hub rebuilt as a reference card; `What does Vaud Qalix want` merged into it (Gerald deletes the file); the Network and Plan Outline stay as subnotes; the two Manifestos are documents. Contradictions found in a vault-wide read of 77 notes were resolved with Gerald.
-- Korfel Withrethin: done 2026-10-23. Hub rebuilt as a reference card with no embeds (the old note rendered about 750 lines). New subnote [[Korfel's Next Moves]] (trigger-based moves, escalation, reasons to tolerate him). [[Characters/Factions/Exandria/Gentleman's Organization]] moved to `Characters/Factions/Exandria/` and rebuilt on the Faction Template as the organization's note; the empty stub `Gentleman's Organization` is to be deleted. `Possible ideas for Korfel` folded into the subnote and moved to z_Archive. Origin decided with Gerald: Babenon Dosal was the original Gentleman; Korfel tipped off the Crownsguard and killed him in the crackdown (winter 834–835) and appears undisguised.
+- Vaud Qalix: done 2026-10-23. Hub rebuilt as a reference card; `What does Vaud Qalix want` merged into it (file deleted, confirmed 2026-10-23); the Network and Plan Outline stay as subnotes; the two Manifestos are documents. Contradictions found in a vault-wide read of 77 notes were resolved with Gerald.
+- Korfel Withrethin: done 2026-10-23. Hub rebuilt as a reference card with no embeds (the old note rendered about 750 lines). New subnote [[Korfel's Next Moves]] (trigger-based moves, escalation, reasons to tolerate him). [[Characters/Factions/Exandria/Gentleman's Organization]] moved to `Characters/Factions/Exandria/` and rebuilt on the Faction Template as the organization's note; the empty stub is already deleted (checked 2026-10-23). The file now at that path is the real faction note; do not delete it. `Possible ideas for Korfel` folded into the subnote and moved to z_Archive. Origin decided with Gerald: Babenon Dosal was the original Gentleman; Korfel tipped off the Crownsguard and killed him in the crackdown (winter 834–835) and appears undisguised.
 
-**3. Non-NPC sweep of Characters/NPCs.** Six of 90 notes lacked the `npc` tag: the two Aveqtaro subnotes (correct as atomic subnotes) and four Lady Emer notes. The three Emer documents are now in the Emer folder (not NPC notes); the Status note is pending deletion. Recount 2026-10-23, before the antagonist moves: 91 notes in the folder, 84 tagged `npc`; the 7 without are the four atomic subnotes (two Aveqtaro, two Korfel) and the three Emer documents. No non-NPC notes found. Four antagonists then moved to Adversaries, leaving 85 files in Characters/NPCs with Ilya added.
+**3. Non-NPC sweep of Characters/NPCs.** Six of 90 notes lacked the `npc` tag: the two Aveqtaro subnotes (correct as atomic subnotes) and four Lady Emer notes. The three Emer documents are now in the Emer folder (not NPC notes); the Status note is deleted. Recount 2026-10-23, before the antagonist moves: 91 notes in the folder, 84 tagged `npc`; the 7 without are the four atomic subnotes (two Aveqtaro, two Korfel) and the three Emer documents. No non-NPC notes found. Four antagonists then moved to Adversaries, leaving 85 files in Characters/NPCs with Ilya added.
 
 **4. Lady Emer satellites.** Done 2026-10-22. Hub and three documents sit in `Characters/Adversaries/Lady Emer - DM/` (moved there from Characters/NPCs on 2026-10-23). `Lady Emer Status` is merged into the hub; the old file is deleted.
 
@@ -111,7 +111,7 @@ Verified against the vault on 2026-10-22.
 - 37 Exandria NPCs have no place tag (22 of them also lack a faction). The earlier count of 40 came from the NPC Browser and may count differently. Five are in Adversaries or Port Damali notes.
 - 19 of the 75 Exandria NPCs have no region tag. Only Radelia Caphax has a place tag, and that place has no region, so nothing can be filled automatically.
 - Location notes under Worlds: 33 carry the `location` tag. Two lack a place tag and one lacks a region (Skyship Distances and Xhorhas Landing, deliberately; see [[Vault Conventions - DM]]). All have a world tag.
-- Old properties (`affiliations`, `faction`, `current_location`, `location`): only Lady Emer Status still has any (to be deleted). Cleared 2026-10-22.
+- Old properties (`affiliations`, `faction`, `current_location`, `location`): cleared 2026-10-22, and Lady Emer Status is gone. `home_city: Zadash` (retired 2026-10-21) is still in the frontmatter of six NPCs: Lady Triotta Thessaly, Steward Korvin Grrgg, Tamsin Fieldgold, Cree Deeproots, Shauna Rual, Guzezzik. Remove it when they get their template pass. Recount 2026-10-23, all 82 `npc` notes in Characters/NPCs: 44 without a place tag, 51 without a faction, 15 without a region (the Exandria-only counts above use a narrower scope).
 - The `processed` property and `#to-process` tag no longer appear in any note.
 
 **6. Part D triage and Part F decision.** Triage Essential, Reference, Redundant, Archive and Stub for what the NPC and tag work left over. Decide whether to build the Vault Health note.
@@ -132,7 +132,7 @@ The Plan's final checklist, reworded for the current stack. Gerald confirms the 
 | Item | Status |
 |---|---|
 | Session notes accessible and linked | links done 2026-10-23: no session note has an unplanned unresolved link. Gerald's Obsidian check 2026-10-23: appears to work |
-| Bases and Datacore views return expected results | open. Logged as checked: Lorestone hub, NPC Browser, Aveqtaro tracker. No logged check: Session Hub, Recent Work.base, Related Notes.base, 00 DM Screen hub. Obsidian |
+| Bases and Datacore views return expected results | done 2026-10-23. Gerald checked in Obsidian: Session Hub, Recent Work.base, Related Notes.base and the 00 DM Screen hub load with no errors or empty blocks and show correct content. Earlier checks: Lorestone hub, NPC Browser, Aveqtaro tracker |
 | GitHub sync works | local `main` matches `origin/main` at 3e41ee8 (2026-10-22 15:23). Pushes work |
 | Claude project can see campaign content | partly: project search returns campaign notes, but its copy of Aveqtaro Thaan is an older version and does not include the newer subnotes. The project lags the vault |
 | Links between notes work | done 2026-10-23: 0 unplanned unresolved links in live notes (item 7). Gerald's Obsidian check 2026-10-23: appears to work |
@@ -141,7 +141,7 @@ The Plan's final checklist, reworded for the current stack. Gerald confirms the 
 
 ### Recommended next step
 
-Item 8 is closed (confirmed in Obsidian). Item 3's open naming items and the Part D/F decisions (item 6). Item 9 (Eledyr) waits for a conversation.
+The view checks are done (2026-10-23), so Dataview can be deleted on or after 2026-10-28. Next is the Part D triage (Claude first lists what is left, read-only) and the Part F decision (item 6). Item 9 (Eledyr) waits for a conversation. All deletions named in earlier log lines are done (checked 2026-10-23), and the empty `Encounters` and `Stubs` folders in the campaign folder are Gerald's to remove.
 
 ### Phase log
 
@@ -234,3 +234,7 @@ Newest at the bottom. Format: `YYYY-MM-DD | phase | what changed | result`.
 2026-10-23 | Calendarium duplicates | Renamed the 16 backup files to `.md.bak` (suffix rename 9, NPC placement sweep 3, link cleanup batch 1 4); manifest with old and new names and SHA-256 in z_Reference/template-backups/2026-10-23 calendarium backup copies/; status note backed up there. Rule: back up tagged or fc-date notes with a `.bak` ending | Re-scan: tagged notes and fc-date notes now exist only in live folders; 55 data, 39 inline, 6 session events, names and dates identical before and after; data.json hash unchanged. Not tested in Obsidian: that each event shows once, and whether the `--undo` scripts need the names restored first
 
 2026-10-23 | Calendarium duplicates | Gerald checked the calendar in Obsidian after the .bak rename | Duplicates gone. Item 8 closed
+
+2026-10-23 | status note, state check | Checked the note against the vault. Deletions named in earlier log lines are all done. The Korfel line of 2026-10-23 that says to delete Characters/Factions/Exandria/Gentleman's Organization.md is wrong: that path is the live faction note (the empty stub is already gone). Removed stale pending-deletion text in items 2 and 3, the undefined list 3 and 4 naming items, and the outdated old-properties line (home_city remains on six NPCs); Recommended next step now puts the Obsidian view checks before the 2026-10-28 Dataview deletion. Older log lines left as written. Backup in z_Reference/template-backups/2026-10-23 calendarium backup copies/ | Name check: 0 Player Wiki/DM name clashes. Not opened in Obsidian
+
+2026-10-23 | final verification, views | Gerald opened Session Hub, Recent Work.base, Related Notes.base (on a Tier 1 NPC note) and the 00 DM Screen hub in Obsidian. Final verification row and Recommended next step updated. Backup in z_Reference/template-backups/2026-10-23 calendarium backup copies/ | All four load with no errors or empty blocks and show correct content. Dataview deletion (on or after 2026-10-28) is no longer blocked by view checks
