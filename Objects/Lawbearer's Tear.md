@@ -6,7 +6,7 @@ tags:
 
 ## Quick Reference
 
-**Location:** Carried by [[Seraphina Amaris (Vicki)|Seraphina]]. Looted from [[Lady Emer - DM|Lady Emer]]'s display cases at [[Cloudfang Keep - DM]] as a "pearl of power"
+**Location:** Carried by [[Seraphina Amaris - Vicki|Seraphina]]. Looted from [[Lady Emer - DM|Lady Emer]]'s display cases at [[Cloudfang Keep - DM]] as a "pearl of power"
 **State:** Dormant. Not used yet
 **Significance:**
 

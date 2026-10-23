@@ -81,7 +81,7 @@ tags:
 
 - **Harmony Hall** (formerly Coriander and Mallow brothel, now partly owned by Hestarian)
   - Contains small shrine to "The Changebringer"
-  - Now [[Hesterian Shyr (Dot)|Hesterian]]'s bastion
+  - Now [[Hesterian Shyr - Dot|Hesterian]]'s bastion
 
 ### Future Important Locations
 

@@ -45,7 +45,7 @@ tags:
 - Players come to the tailor shop that serves as [[Aelorin's Headquarters - DM]].
 - They walk the grounds to get the lay of the land, then hide nearby to watch.
 - They see lights inside several times.
-- [[Seraphina Amaris (Vicki)|Seraphina]] sent her rat familiar into the building and explored around.
+- [[Seraphina Amaris - Vicki|Seraphina]] sent her rat familiar into the building and explored around.
 - Eventually, they saw three people leave one at a time: Ra'ak (dragonborn Spy), Brunhilda (dwarf Thug), and [[Dreyara Drimvar - DM|Dreyara]] (though they do not know who this is yet).
 - None of the NPCs became aware of the PCs watching them.
 - Ra'ak went East, Brunhilda went west and entered a Tavern, and Dreyara went east.

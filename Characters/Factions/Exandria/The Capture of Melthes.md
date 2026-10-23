@@ -13,7 +13,7 @@ tags:
 
 ### The Capture of Melthes
 
-**Timeline:** Approximately 833 PD (about a year after [[Hesterian Shyr (Dot)|Hesterian]] was sold)
+**Timeline:** Approximately 833 PD (about a year after [[Hesterian Shyr - Dot|Hesterian]] was sold)
 
 **Location of Recruitment:** [[Xarzith Kitril - DM]]
 
@@ -64,7 +64,7 @@ Upon arrival at the Assembly facility in [[Rexxentrum - DM]], [[Melthes]] (then 
 
 ### Discovery by Hesterian
 
-When this event is discovered by [[Hesterian Shyr (Dot)|Hesterian]], there will be widespread political ramifications (TBD).
+When this event is discovered by [[Hesterian Shyr - Dot|Hesterian]], there will be widespread political ramifications (TBD).
 
 ### Potential Consequences
 
@@ -78,7 +78,7 @@ When this event is discovered by [[Hesterian Shyr (Dot)|Hesterian]], there will 
 Event known through multiple sources:
 
 - [[Cree Deeproots]]'s direct involvement in assessment
-- [[Hesterian Shyr (Dot)|Hesterian]]'s investigation (incomplete knowledge)
+- [[Hesterian Shyr - Dot|Hesterian]]'s investigation (incomplete knowledge)
 - Assembly records (restricted access)
 
 ## Connected Elements

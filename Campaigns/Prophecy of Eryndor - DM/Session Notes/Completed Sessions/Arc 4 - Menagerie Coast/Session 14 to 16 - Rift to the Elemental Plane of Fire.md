@@ -24,7 +24,7 @@ tags:
 ### Planned Plot Points
 
 - [x] Discover that the rifts connect to different planes of existence
-- [x] [POSSIBLE?] Discover that the Aurora's Ascendant is [[Seraphina Amaris (Vicki)|Seraphina]]
+- [x] [POSSIBLE?] Discover that the Aurora's Ascendant is [[Seraphina Amaris - Vicki|Seraphina]]
 - [ ] Discover that the [[Malachite Cord - DM]] and the [[Obsidian Echoforge - DM]] have opposing goals
 	- [ ] Malachite Cord thinks the Obsidian Echoforge will cause a calamity with their efforts to close the rifts
 	- [ ] Obsidian Echoforge needs the shards to try and close the rifts

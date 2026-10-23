@@ -17,7 +17,7 @@ Associated with the [[Lorestone of Eryndor - DM]].
 1. Rifts have begun to appear across Wildemount.
 2. A prophecy exists (see text below). The [[Obsidian Echoforge - DM]] is pursuing information about this prophecy.
 
-![[The Prophecy (Modern Text)#Core Information]]
+![[The Prophecy - Modern Text#Core Information]]
 
 ### What they think they know
 
@@ -29,7 +29,7 @@ Associated with the [[Lorestone of Eryndor - DM]].
 
 ![[History of the Prophecy#Core Information]]
 
-![[The Prophecy (Original Form)#Core Information]]
+![[The Prophecy - Original Form#Core Information]]
 
 ## Connected Elements
 

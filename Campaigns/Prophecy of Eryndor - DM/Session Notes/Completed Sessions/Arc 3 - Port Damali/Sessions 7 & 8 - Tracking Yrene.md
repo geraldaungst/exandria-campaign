@@ -31,7 +31,7 @@ The big guy with Y remains unnamed.
 
 ## Second Meeting
 
-Here are some converstion points that might come up with Yrene. The [[21 Qilynn's Failed Heist|failed heist]] will be an important bit of info.
+Here are some converstion points that might come up with Yrene. The [[Qilynn Duskwhisper's Revenge|failed heist]] will be an important bit of info.
 
 - [x] **Expresses Genuine Concern**: Yrene begins by expressing genuine concern for Qilynn's well-being and regrets the fallout from the failed heist.
 - [ ] **Mentions Inconsistencies**: Yrene points out specific inconsistencies in the security measures during the heist, suggesting insider manipulation.

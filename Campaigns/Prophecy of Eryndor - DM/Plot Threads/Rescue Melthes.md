@@ -10,14 +10,14 @@ tags:
 > - Stage: Dormant (player unaware)
 > - Priority: High (once discovered)
 > - Timeline: No immediate time pressure, but Melthes has been captive since 833 PD
-> - Key Players: [[Hesterian Shyr (Dot)|Hesterian]], [[Melthes]], [[Cree Deeproots]], [[Isolene Fenzana]], [[Cerberus Assembly - DM]]
+> - Key Players: [[Hesterian Shyr - Dot|Hesterian]], [[Melthes]], [[Cree Deeproots]], [[Isolene Fenzana]], [[Cerberus Assembly - DM]]
 > - Parent Plot: [[Hesterian Shyr's Infiltration]]
 > - Last Session: Not yet begun
 > - Next Steps: Hesterian must first learn the truth about what happened to her brother
 
 ## Overview
 
-[[Hesterian Shyr (Dot)|Hesterian]]'s brother [[Melthes]] was taken by the [[Cerberus Assembly - DM]] in 833 PD under the guise of providing "special training" for his unique Feywild/Feydark abilities. The full details of his capture are documented in [[The Capture of Melthes]].
+[[Hesterian Shyr - Dot|Hesterian]]'s brother [[Melthes]] was taken by the [[Cerberus Assembly - DM]] in 833 PD under the guise of providing "special training" for his unique Feywild/Feydark abilities. The full details of his capture are documented in [[The Capture of Melthes]].
 
 Hesterian believes Melthes is "studying magic" somewhere and has no knowledge of the Assembly's involvement or the coercive nature of his recruitment. This quest will likely activate when she encounters [[Cree Deeproots]] during her infiltration of [[Korfel Withrethin]]'s organization, as Cree was directly involved in Melthes's initial assessment.
 

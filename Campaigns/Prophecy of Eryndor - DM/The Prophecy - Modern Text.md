@@ -10,7 +10,7 @@ tags:
 
 *As it exists today based on some fragments that have been found to date as well as recorded legends.*
 
-(Each line carries the label of the line in [[The Prophecy (Original Form)]] it comes from. A label in parentheses is a line that survived in legend although its shard is still lost.)
+(Each line carries the label of the line in [[The Prophecy - Original Form]] it comes from. A label in parentheses is a line that survived in legend although its shard is still lost.)
 
 1a Three emblems stand 'neath destiny's watch, their fate in time's torn seam,
 
@@ -42,7 +42,7 @@ Brief note about where this information originated (session, NPC conversation, e
 
 ## Relationship Details
 
-See also [[The Prophecy (Original Form)]].
+See also [[The Prophecy - Original Form]].
 
 ### Nature of Connection
 

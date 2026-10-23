@@ -17,6 +17,6 @@ The Senators did not lead the city full time. The city had an extensive and well
 
 ## Additional information about Caes Mosor
 
-[[Caes Mosor (Today)]]
+[[Caes Mosor - Today]]
 
 [[The Labyrinth]]

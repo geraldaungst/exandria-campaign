@@ -26,7 +26,7 @@ tags:
 
 ### History of Harmony Hall
 
-Formerly the "Coriander & Mallow Exchange Company", this used to be the brothel where [[Hesterian Shyr (Dot)|Hesterian]] used to work.
+Formerly the "Coriander & Mallow Exchange Company", this used to be the brothel where [[Hesterian Shyr - Dot|Hesterian]] used to work.
 
 After the raid on the brothel, the madam found herself at a moral crossroads. The violent events and the fear etched on the faces of her workers forced her to confront the harsh realities of her business. The legal repercussions and the sight of her workers being arrested or fleeing made her realize the profound impact of her choices. This moment of clarity was a mixture of remorse for the harm caused and pragmatism about the unsustainable nature of her current operations.
 

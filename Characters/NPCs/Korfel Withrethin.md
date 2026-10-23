@@ -43,7 +43,7 @@ As of 28 Thunsheer 835. Network detail: [[Qalix's Network]].
 ## Hidden Information
 
 > [!secret]- Who he really is
-> - **Korfel Withrethin**, a merchant known in [[Port Damali - DM|Port Damali]] for years, with criminal dealings that included the [[Clasp - DM|Clasp]]. Murdered [[Hesterian Shyr (Dot)|Hesterian]] and Xanaphia Lothliss ([[Port Damali Murders]]), framed [[Rylan Estevez]] ([[Rylan Estevez Frame Job]]), and fled north about 2–3 years ago
+> - **Korfel Withrethin**, a merchant known in [[Port Damali - DM|Port Damali]] for years, with criminal dealings that included the [[Clasp - DM|Clasp]]. Murdered [[Hesterian Shyr - Dot|Hesterian]] and Xanaphia Lothliss ([[Port Damali Murders]]), framed [[Rylan Estevez]] ([[Rylan Estevez Frame Job]]), and fled north about 2–3 years ago
 > - **How he became the Gentleman:** tipped off the Crownsguard about a lieutenant's plot against a starosta, then killed the original Gentleman, Babenon Dosal, in the tunnels during the crackdown. Detail: [[Characters/Factions/Exandria/Gentleman's Organization#History]]
 > - **Names:** arrived in Zadash under a merchant alias (unnamed), which vanished in the crackdown. Nobody in Zadash knows the name Korfel Withrethin
 > - **Nobody knows:** not Cree, not his staff, not [[Father Dwondaff Pierce]] (who knew Korfel the merchant), not the wider Myriad
@@ -63,7 +63,7 @@ As of 28 Thunsheer 835. Network detail: [[Qalix's Network]].
 > [!secret]- Vulnerabilities
 > - **His own people:** if the Myriad learns he betrayed the lieutenant and killed Babenon, he is dead. This is the bigger danger
 > - **Paper trail:** an anonymous tip to the Crownsguard in a merchant's hand. Babenon's captured lieutenants, in Crownsguard custody, knew the real Gentleman's face
-> - **His past:** [[Qilynn Duskwhisper (Nicole)|Qilynn]] knows his name from Clasp business but has never met him. Marion Lavorre may know his real name. Rylan's conviction falls apart under examination
+> - **His past:** [[Qilynn Duskwhisper - Nicole|Qilynn]] knows his name from Clasp business but has never met him. Marion Lavorre may know his real name. Rylan's conviction falls apart under examination
 > - **Cree:** the blood-sample system depends on one person, loyal for professional reasons, not personal ones
 > - **Temperament:** sees only total control or total destruction; his paranoia overreacts and makes new enemies
 

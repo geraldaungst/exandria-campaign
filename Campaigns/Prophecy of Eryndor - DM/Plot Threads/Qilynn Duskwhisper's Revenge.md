@@ -11,7 +11,7 @@ tags:
 > - Stage: Seed (ready to activate when players investigate)
 > - Priority: Medium
 > - Timeline: Player-driven, no time pressure
-> - Key Players: [[Qilynn Duskwhisper (Nicole)]], [[Eledyr Dephar]], [[Yrene Shadowthorn]], [[Aelorin Nightshade]]
+> - Key Players: [[Qilynn Duskwhisper - Nicole]], [[Eledyr Dephar]], [[Yrene Shadowthorn]], [[Aelorin Nightshade]]
 > - Parent Plot: Character Development
 > - Last Session: Not yet activated
 > - Next Steps: Wait for player investigation or provide opportunities to discover truth
@@ -50,13 +50,15 @@ Qilynn knows her final mission failure wasn't her fault and suspects sabotage, b
 
 #### About Her Failed Mission
 
-![[Qilynn's Final Mission#Core Information]]
+> [!note]- The heist and her first suspicions (before Sessions 7 & 8)
+> - She planned the artifact heist herself, to win back [[Aelorin Nightshade]]'s favor.
+> - Security she had not been briefed on or trained for was in place, as if someone had anticipated every move.
+> - The artifact's location and the guards' shifts differed from what she had researched and confirmed.
+> - She suspected a set-up by someone with inside knowledge.
+> - First suspect: [[Yrene Shadowthorn]], a full elf who trained under Aelorin alongside her and was his favorite. Qilynn read jealousy and rivalry in Yrene, suspected a romance between Yrene and Aelorin, and recalled Yrene's guilty look, her absences during earlier missions, and her access to the heist details.
+> - The suspicion adds a personal vendetta: Qilynn wants to prove her skill and expose the betrayer to clear her name.
 
 ![[Aelorin Nightshade#Reaction to the failed heist]]
-
-#### About Her Suspicions
-
-![[A Suspect for Qilynn#Core Information]]
 
 #### Direct Intelligence from Yrene (Sessions 7 & 8)
 
@@ -88,8 +90,7 @@ Qilynn knows her final mission failure wasn't her fault and suspects sabotage, b
 
 ## Plot Hierarchy
 
-- Parent Plot: [[Qilynn Duskwhisper (Nicole)#Goals]]
-- Related Plot: [[21 Qilynn's Failed Heist]]
+- Parent Plot: [[Qilynn Duskwhisper - Nicole#Goals]]
 - Subplots: None yet
 
 ## Development Stages
@@ -131,7 +132,7 @@ Qilynn knows her final mission failure wasn't her fault and suspects sabotage, b
 
 From [[Character Story Beats#Medium Term]]:
 
-> [[Qilynn Duskwhisper (Nicole)|Qilynn]] wants to prove that she's actually a damn good thief. She specifically wants to prove herself to [[Aelorin Nightshade|Aelorin]] - both to show him up and to be accepted by him. Once she does this, [[Aelorin Nightshade|Aelorin]] will reconsider and could potentially become an ally for the party.
+> [[Qilynn Duskwhisper - Nicole|Qilynn]] wants to prove that she's actually a damn good thief. She specifically wants to prove herself to [[Aelorin Nightshade|Aelorin]] - both to show him up and to be accepted by him. Once she does this, [[Aelorin Nightshade|Aelorin]] will reconsider and could potentially become an ally for the party.
 
 ### Possible Branches
 

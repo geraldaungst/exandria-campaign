@@ -44,7 +44,7 @@ tags:
 
 ## Relationship Details
 
-See also [[The Prophecy (Modern Text)]]
+See also [[The Prophecy - Modern Text]]
 
 ### Nature of Connection
 

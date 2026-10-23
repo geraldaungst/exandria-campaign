@@ -10,7 +10,7 @@ tags:
 
 #### **The Background Context**
 
-[[Korfel Withrethin]], a merchant with criminal ties, had purchased exclusive patronage of [[Hesterian Shyr (Dot)]] from [[Grisul Adder]]'s brothel for a substantial sum. Korfel was possessive and controlling, wanting sole ownership of Hesterian, which she deeply resented. The patronage system had created tension between Hesterian and her lover [[Xanaphia Lothliss]], as Xanaphia was jealous of the luxury and comfort that came with having a patron.
+[[Korfel Withrethin]], a merchant with criminal ties, had purchased exclusive patronage of [[Hesterian Shyr - Dot]] from [[Grisul Adder]]'s brothel for a substantial sum. Korfel was possessive and controlling, wanting sole ownership of Hesterian, which she deeply resented. The patronage system had created tension between Hesterian and her lover [[Xanaphia Lothliss]], as Xanaphia was jealous of the luxury and comfort that came with having a patron.
 
 #### **The Escape Plan**
 
@@ -35,7 +35,7 @@ Korfel and Xanaphia devised a plan to draw Hesterian to a neutral location where
 
 **Date:** Approximately 2-3 years ago
 
-**Victims:** [[Hesterian Shyr (Dot)]] and [[Xanaphia Lothliss]]
+**Victims:** [[Hesterian Shyr - Dot]] and [[Xanaphia Lothliss]]
 
 **What happened:**
 
@@ -76,13 +76,13 @@ Korfel and Xanaphia devised a plan to draw Hesterian to a neutral location where
 
 ## Source Context
 
-This event is the central trauma in [[Hesterian Shyr (Dot)]]'s backstory and the foundation for her current quest for justice/revenge.
+This event is the central trauma in [[Hesterian Shyr - Dot]]'s backstory and the foundation for her current quest for justice/revenge.
 
 ## Connections
 
 ### Related Characters
 
-- [[Hesterian Shyr (Dot)]] - Victim, now Hollow One seeking justice
+- [[Hesterian Shyr - Dot]] - Victim, now Hollow One seeking justice
 - [[Korfel Withrethin]] - Perpetrator, now "The Gentleman" in [[Zadash - DM]]
 - [[Xanaphia Lothliss]] - Victim, betrayed escape plan leading to both deaths
 - [[Rylan Estevez]] - Falsely imprisoned stable boy

@@ -19,7 +19,7 @@ tags:
 > - Current residents/employees:
 > 	- [[Grisul Adder]] - Former owner, deceased, former madam
 > 	- [[Annah]] - Ticket booth and performer
-> 	- [[Hesterian Shyr (Dot)|Hesterian]] - current owner, inherited from Grisul
+> 	- [[Hesterian Shyr - Dot|Hesterian]] - current owner, inherited from Grisul
 
 ## Overview
 
@@ -40,11 +40,11 @@ tags:
 > 	- Supported by Pearl Shrine (Temple of Avandra)
 > - Recent changes:
 > 	- Party met [[Annah]] at the ticket booth.
-> 	- She was surprised [[Hesterian Shyr (Dot)|Hesterian]] was alive.
+> 	- She was surprised [[Hesterian Shyr - Dot|Hesterian]] was alive.
 > 	- They saw Grisul Adder who supposedly is on the up-and-up now and seemed much happier.
 > 	- Something big went down after Hesterian's murder but Annah wouldn't talk about it.
 > 	- Party stayed for a nice dinner theater show.
-> 	- No one aside from Annah recognized [[Hesterian Shyr (Dot)|Hesterian]] as far as she knows.
+> 	- No one aside from Annah recognized [[Hesterian Shyr - Dot|Hesterian]] as far as she knows.
 > 	- Hesterian went back to terrorize [[Grisul Adder]].
 > - Immediate concerns
 

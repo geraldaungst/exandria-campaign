@@ -176,7 +176,7 @@ region: Dwendalian Empire
 
 **Current Status of Knowledge:**
 
-- Has no idea Melthes has a sister named [[Hesterian Shyr (Dot)|Hesterian]]
+- Has no idea Melthes has a sister named [[Hesterian Shyr - Dot|Hesterian]]
 - Doesn't know current status or location of Melthes
 - Unaware of any connection to party members
 - Remembers him as routine but memorable professional assignment **Information Compartmentalization:** Knows only what's necessary for her specific role
@@ -223,7 +223,7 @@ Based on Critical Role Campaign 2 information about Cree's employment with The G
 - [[Cerberus Assembly - DM]] researchers and personnel - Former colleagues/captors
 - [[Isolene Fenzana]] - Assembly researcher she worked under
 - [[Melthes]] - Young half-elf she processed during Assembly employment
-- [[Hesterian Shyr (Dot)]] - Will likely encounter during infiltration attempts (unknown connection to Melthes)
+- [[Hesterian Shyr - Dot]] - Will likely encounter during infiltration attempts (unknown connection to Melthes)
 
 ### Related Systems
 

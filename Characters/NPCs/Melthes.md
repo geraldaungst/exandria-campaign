@@ -47,7 +47,7 @@ Current whereabouts unknown. Last confirmed location was [[Cerberus Assembly - D
 
 ### Family
 
-- Sister: [[Hesterian Shyr (Dot)|Hesterian Shyr]]
+- Sister: [[Hesterian Shyr - Dot|Hesterian Shyr]]
 - Parents: Living in [[Xarzith Kitril - DM]] at time of capture (current status unknown)
 - Relationship: Close-knit family; Melthes asked repeatedly about them during intake
 
@@ -89,13 +89,13 @@ He was recommended for advanced study under [[Isolene Fenzana]]'s research divis
 > - **Current Location:** [DM to determine - still in Rexxentrum? Moved to another facility? Field assignment?]
 > - **Condition:** [DM to determine - physical/mental state after years of captivity/exploitation]
 > - **Attitude Shift:** [DM to determine - does he still want to go home? Has Assembly convinced him he's better off with them? Stockholm syndrome? Genuine conversion to their cause?]
-> - **Knowledge of Sister:** Unknown if he knows what happened to [[Hesterian Shyr (Dot)|Hesterian]] or if he thinks she's still alive
+> - **Knowledge of Sister:** Unknown if he knows what happened to [[Hesterian Shyr - Dot|Hesterian]] or if he thinks she's still alive
 > - **Rescue Difficulty:** [DM to determine appropriate challenge level when/if players attempt rescue]
 > - **Potential Role:** Could become ally, tragic victim, corrupted enemy, or complex moral dilemma depending on his current state
 
 ### Family
 
-- [[Hesterian Shyr (Dot)|Hesterian Shyr]] - Sister (unaware of his true situation)
+- [[Hesterian Shyr - Dot|Hesterian Shyr]] - Sister (unaware of his true situation)
 
 ### Captors/Handlers
 

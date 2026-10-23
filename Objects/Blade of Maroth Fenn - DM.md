@@ -9,9 +9,9 @@ tags:
 ### Quick Reference
 
 > [!info] Essential Details
-> - Current Location/Owner: [[Drawg Stormbrew (Brew)|Drawg]]
+> - Current Location/Owner: [[Drawg Stormbrew - Brew|Drawg]]
 > - Power/Significance: Vestige of Divergence (unknown)
-> - Known by: [[Drawg Stormbrew (Brew)|Drawg]]
+> - Known by: [[Drawg Stormbrew - Brew|Drawg]]
 
 ### Description
 

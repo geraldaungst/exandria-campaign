@@ -11,7 +11,7 @@ tags:
 > - Stage: Seed (player-expressed goal, needs opportunity)
 > - Priority: Medium
 > - Timeline: Player-driven, connected to journey north
-> - Key Players: [[Hesterian Shyr (Dot)]], [[Korfel Withrethin]], [[Myriad - DM|Myriad]]
+> - Key Players: [[Hesterian Shyr - Dot]], [[Korfel Withrethin]], [[Myriad - DM|Myriad]]
 > - Parent Plot: Character Development
 > - Last Session: Not yet activated
 > - Next Steps: Party travels north toward [[Zadash - DM]], Hesterian decides to pursue infiltration
@@ -35,7 +35,7 @@ Hesterian has expressed the goal of infiltrating the Myriad criminal organizatio
 - Player has expressed interest in Myriad infiltration
 - Hesterian knows [[Korfel Withrethin]] is in [[Zadash - DM]], living under another name
 - Geographic progression brings party closer to Zadash/northern regions
-- Potential connection to [[Eidechse (Amanda Jeane)|Dechs]]'s herb delivery mission
+- Potential connection to [[Eidechse - Amanda Jeane|Dechs]]'s herb delivery mission
 
 ### Blocking Issues
 
@@ -216,7 +216,7 @@ Multiple potential endings based on player choices:
 ### Plot Threads
 
 - [[The Capture of Melthes]] - Brother's fate intersects through Assembly connection
-- [[Eidechse (Amanda Jeane)#Goals|Dechs's herb delivery]] - Potential shared destination in [[Zadash - DM]]
+- [[Eidechse - Amanda Jeane#Goals|Dechs's herb delivery]] - Potential shared destination in [[Zadash - DM]]
 - Justice subplot for [[Rylan Estevez]]
 - Broader Myriad/criminal organization conflicts
 

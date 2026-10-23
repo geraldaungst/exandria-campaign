@@ -17,7 +17,7 @@ tier: standard
 > - Stage: Active
 > - Priority: Medium
 > - Timeline:
-> - Key Players: [[Drawg Stormbrew (Brew)|Drawg]]
+> - Key Players: [[Drawg Stormbrew - Brew|Drawg]]
 > - Last Session: [[Session 28 - Back at Harmony Hall]]
 > - Next Steps: Leave for [[Cloudfang Keep - DM]]
 

@@ -3,9 +3,9 @@ tags:
   - campaign/eryndor
 ---
 
-[[Popcorn Zikelfikel (Viv)]]
+[[Popcorn Zikelfikel - Viv]]
 
-[[Hesterian Shyr (Dot)]]
+[[Hesterian Shyr - Dot]]
 
 ## The Culprit
 
@@ -23,19 +23,19 @@ At some point, the rival will beg for leniency and offer the PCs a valuable map.
 
 ### Social
 
-The Festival of Renewal in Whitestone is a beloved event marking the end of winter and the promise of spring. It's a time for the community to come together, celebrate life, and let go of past sorrows. A highlight of the festival is the Lantern Release, where people write their hopes and regrets on paper lanterns and release them into the night sky. This year, the festival has attracted visitors from far and wide, including [[Hesterian Shyr (Dot)|Hesterian]] and [[Popcorn Zikelfikel (Viv)|Popcorn]], who find themselves in Whitestone, each for their own reasons.
+The Festival of Renewal in Whitestone is a beloved event marking the end of winter and the promise of spring. It's a time for the community to come together, celebrate life, and let go of past sorrows. A highlight of the festival is the Lantern Release, where people write their hopes and regrets on paper lanterns and release them into the night sky. This year, the festival has attracted visitors from far and wide, including [[Hesterian Shyr - Dot|Hesterian]] and [[Popcorn Zikelfikel - Viv|Popcorn]], who find themselves in Whitestone, each for their own reasons.
 
 As the festival begins, the town of Whitestone is alive with music, laughter, and the aroma of festive foods. Colorful lanterns and banners line the streets, and performers entertain the crowds. A light snowfall dusts the ground as winter clings to the city, not quite ready to leave.
 
 ### Combat
 
-The Lantern Release is about to start. The townsfolk gather in the main square, holding their lanterns. [[Hesterian Shyr (Dot)|Hesterian]] and [[Popcorn Zikelfikel (Viv)|Popcorn]], each holding their lanterns, find themselves standing near each other. As the mayor gives a [[Lady Vex'ahlia's Speech|speech about renewal and hope]], a series of small, mysterious explosions suddenly disrupt the ceremony. Lanterns catch fire prematurely, causing panic and confusion. A scream pierces the night as someone is injured in the chaos.
+The Lantern Release is about to start. The townsfolk gather in the main square, holding their lanterns. [[Hesterian Shyr - Dot|Hesterian]] and [[Popcorn Zikelfikel - Viv|Popcorn]], each holding their lanterns, find themselves standing near each other. As the mayor gives a [[Lady Vex'ahlia's Speech|speech about renewal and hope]], a series of small, mysterious explosions suddenly disrupt the ceremony. Lanterns catch fire prematurely, causing panic and confusion. A scream pierces the night as someone is injured in the chaos.
 
 ## Journey Into Plot
 
 ### Combat
 
-[[Hesterian Shyr (Dot)|Hesterian]] and [[Popcorn Zikelfikel (Viv)|Popcorn]] must investigate the explosions and find clues. They can use skill checks to investigate the pattern of flames. Here are clues they discover:
+[[Hesterian Shyr - Dot|Hesterian]] and [[Popcorn Zikelfikel - Viv|Popcorn]] must investigate the explosions and find clues. They can use skill checks to investigate the pattern of flames. Here are clues they discover:
 
 - [x] The lantern fires were sparked in multiple locations, but seem to center on the food court.
 - [ ] The burn pattern at the "Bee's Bounty" stall seems to indicate an accelerant was used.

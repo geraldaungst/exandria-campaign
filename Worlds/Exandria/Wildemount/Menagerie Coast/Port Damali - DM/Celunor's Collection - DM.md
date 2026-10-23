@@ -50,7 +50,7 @@ tags:
 > - Recent changes: Regular "discoveries" of new collections
 > - Immediate concerns: Maintaining mystique and authenticity
 > - Community impact: Supporting surrounding businesses through tourism
-> - Celunor is on the lookout for a blade that matches [[Drawg Stormbrew (Brew)|Drawg]]'s scabbard.
+> - Celunor is on the lookout for a blade that matches [[Drawg Stormbrew - Brew|Drawg]]'s scabbard.
 
 ## Hidden Elements
 

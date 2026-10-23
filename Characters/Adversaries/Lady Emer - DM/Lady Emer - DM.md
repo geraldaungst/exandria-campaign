@@ -18,7 +18,7 @@ tags:
 > - **Attitude toward party:** Hostile. Vowed revenge on 19 Thunsheer 835
 > - **Patron:** [[Vaud Qalix - DM]]. Never met him; letters came with Dreyara's visits. Reports now go by bird to her handler in Zadash ([[Qalix's Network]])
 > - **Key knowledge:** Rift research (see [[Lady Emer's Research Notes]], which the players hold). Knows the party took Shard 6
-> - **[[Lawbearer's Tear]]:** Not with her. The party looted it as a "pearl of power"; [[Seraphina Amaris (Vicki)|Seraphina]] carries it, dormant and unused
+> - **[[Lawbearer's Tear]]:** Not with her. The party looted it as a "pearl of power"; [[Seraphina Amaris - Vicki|Seraphina]] carries it, dormant and unused
 
 ## Description & Roleplay
 
@@ -35,7 +35,7 @@ Last seen by the party at Cloudfang Keep on 19 Thunsheer 835. Timeline entries a
 
 - **19 Thunsheer:** Party bound and questioned her, freed [[Varnes Dwell - DM|Varnes Dwell]], took the crystal, and left the same day (Drawg tamed her wyvern). She vowed revenge
 - **25-26 Thunsheer:** Ra'ak flew to the keep on its gryphon and told her [[Dreyara Drimvar - DM|Dreyara]] was dead and the party had Shard 6 ([[Shard 6 - Marquet Shard]])
-- **26-27 Thunsheer:** Her bird reached her handler in Zadash with a self-serving report: Dreyara's late arrival left the keep exposed, and the attackers are dangerous. It describes [[Drawg Stormbrew (Brew)|Drawg]] (a dragonborn with a wyvern), Seraphina (striking, blonde, angelic) and a gnome with a thing for hats. It does not mention Hesterian
+- **26-27 Thunsheer:** Her bird reached her handler in Zadash with a self-serving report: Dreyara's late arrival left the keep exposed, and the attackers are dangerous. It describes [[Drawg Stormbrew - Brew|Drawg]] (a dragonborn with a wyvern), Seraphina (striking, blonde, angelic) and a gnome with a thing for hats. It does not mention Hesterian
 - **Zadash:** The handler works inside [[Korfel Withrethin|the Gentleman]]'s network and sends Qalix the essentials by Sending. The full report goes by courier and reaches Qalix 10-24 Unndilar
 - **Now:** Next move undecided. She is still in the keep, behind her guardians and the Stone Garden
 

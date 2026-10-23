@@ -62,7 +62,7 @@ Eledyr Dephar was born to a human mother and an elven father, growing up amidst 
 
 **Key Events:**
 
-- **Training Mission Humiliation:** [[Qilynn Duskwhisper (Nicole)|Qilynn]]'s casual criticism of his stealth skills created lasting resentment
+- **Training Mission Humiliation:** [[Qilynn Duskwhisper - Nicole|Qilynn]]'s casual criticism of his stealth skills created lasting resentment
 - **Successful Sabotage:** Orchestrated Qilynn's mission failure through careful manipulation of security arrangements
 - **Emissary Recruitment:** [[Valen Elderguard]] identified and recruited him using his Clasp connections
 - **Current Assignment:** Tasked with investigating sudden interest in ancient prophecy research
@@ -90,7 +90,7 @@ Eledyr Dephar was born to a human mother and an elven father, growing up amidst 
 >     - Long-term: Use success to demand higher position in Clasp leadership
 > - **Key Relationships:**
 >     - **[[Aelorin Nightshade]]:** Respects and fears him, viewing as both mentor and obstacle to ambitions
->     - **[[Qilynn Duskwhisper (Nicole)]]:** Deep resentment, orchestrated her downfall, remains wary of revenge
+>     - **[[Qilynn Duskwhisper - Nicole]]:** Deep resentment, orchestrated her downfall, remains wary of revenge
 >     - **[[Yrene Shadowthorn]]:** Sees as rival but useful, manipulates her feelings for Qilynn to keep off balance
 > - **Abilities:**
 >     - **Stealth and Infiltration:** Master of stealth, training honed to near perfection under [[Aelorin Nightshade]]

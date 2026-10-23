@@ -35,8 +35,8 @@ tags:
 We can RP interactions with other party members, passengers, and crew as long as the party wants. There are four days of uneventful travel over the ocean.
 
 - Characters met on day 1. They headed to the lounge/bar and met Grendar, Captain Thyakas, Durnvolk, and Georgina. (Kite made a comment from the other side of the bar about "no bagpipes".)
-- [[Hesterian Shyr (Dot)|Hesterian]] got the bartender to agree to let her do a show that evening.
-- [[Hesterian Shyr (Dot)|Hesterian]] does her "second show" and gets lots of attention from the crowd.
+- [[Hesterian Shyr - Dot|Hesterian]] got the bartender to agree to let her do a show that evening.
+- [[Hesterian Shyr - Dot|Hesterian]] does her "second show" and gets lots of attention from the crowd.
 - Georgina Wiseacre told Laucian to meet her at the Staff and Scimitar tavern.
 
 ### The Hijacking Begins
@@ -63,7 +63,7 @@ We can RP interactions with other party members, passengers, and crew as long as
 		- [ ] Passengers will be restricted to quarters except for meals
 		- [ ] Everyone will be asked to watch for signs of odd behavior among the other passengers
 		- [ ] Passenger belongings will be searched for contraband
-		- [ ] When [[Qilynn Duskwhisper (Nicole)|Qilynn]]'s belongings are searched, an empty vial of poison and a coded letter will be retrieved. The letter will later be found to have instructions from the Clasp to kill Thyakas and take the ship to Ank'Harel.
+		- [ ] When [[Qilynn Duskwhisper - Nicole|Qilynn]]'s belongings are searched, an empty vial of poison and a coded letter will be retrieved. The letter will later be found to have instructions from the Clasp to kill Thyakas and take the ship to Ank'Harel.
 - Once discovered, the hijackers will kill crew and innocents without hesitation.
 
 ### Complications

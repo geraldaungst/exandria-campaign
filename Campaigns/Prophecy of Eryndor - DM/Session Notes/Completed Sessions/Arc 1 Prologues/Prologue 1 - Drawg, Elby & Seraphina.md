@@ -5,27 +5,27 @@ tags:
 
 Characters:
 
-[[Seraphina Amaris (Vicki)]]
+[[Seraphina Amaris - Vicki]]
 
-[[Drawg Stormbrew (Brew)]]
+[[Drawg Stormbrew - Brew]]
 
-[[Elby Cinderdash (Brew)]]
+[[Elby Cinderdash - Brew]]
 
 ## Arrive At Plot
 
-**Social:** [[Seraphina Amaris (Vicki)|Seraphina]] appears outside the temple of Bahamut in Whitestone. [[Elby Cinderdash (Brew)|Elby]] and [[Drawg Stormbrew (Brew)|Drawg]] are having a "discussion" with the priest of the temple.
+**Social:** [[Seraphina Amaris - Vicki|Seraphina]] appears outside the temple of Bahamut in Whitestone. [[Elby Cinderdash - Brew|Elby]] and [[Drawg Stormbrew - Brew|Drawg]] are having a "discussion" with the priest of the temple.
 
-**Combat:** [[Drawg Stormbrew (Brew)|Drawg]], [[Elby Cinderdash (Brew)|Elby]], and [[Seraphina Amaris (Vicki)|Seraphina]] are in the [[Tipsy Quorum - DM]] tavern in Whitestone. The barkeep notices [[Elby Cinderdash (Brew)|Elby]] is a musician and offers a free night's stay and one meal if he will provide the evening's entertainment.
+**Combat:** [[Drawg Stormbrew - Brew|Drawg]], [[Elby Cinderdash - Brew|Elby]], and [[Seraphina Amaris - Vicki|Seraphina]] are in the [[Tipsy Quorum - DM]] tavern in Whitestone. The barkeep notices [[Elby Cinderdash - Brew|Elby]] is a musician and offers a free night's stay and one meal if he will provide the evening's entertainment.
 
-At some point in the evening, [[Laugu Nalakekali|a local]] is highly offended by [[Elby Cinderdash (Brew)|Elby]]'s song choice. [[Elby Cinderdash (Brew)|Elby]] inadvertently chose a song that Scanlan Shorthalt used to sing in this very tavern, and [[Laugu Nalakekali|Laugu]] thinks [[Elby Cinderdash (Brew)|Elby]] is mocking Scanlan. [[Laugu Nalakekali|Laugu]] throws her mug of ale at [[Elby Cinderdash (Brew)|Elby]]. She is drunk and very angry. A brawl (potentially) begins.
+At some point in the evening, [[Laugu Nalakekali|a local]] is highly offended by [[Elby Cinderdash - Brew|Elby]]'s song choice. [[Elby Cinderdash - Brew|Elby]] inadvertently chose a song that Scanlan Shorthalt used to sing in this very tavern, and [[Laugu Nalakekali|Laugu]] thinks [[Elby Cinderdash - Brew|Elby]] is mocking Scanlan. [[Laugu Nalakekali|Laugu]] throws her mug of ale at [[Elby Cinderdash - Brew|Elby]]. She is drunk and very angry. A brawl (potentially) begins.
 
 ## Journey Into Plot
 
-**Social:** Once all is cleared up (however that happens), [[Brin Shadowfoot]] intervenes to calm [[Laugu Nalakekali|Laugu]] down. [[Brin Shadowfoot|Brin]] asks [[Laugu Nalakekali|Laugu]] to leave and get some rest since they need to investigate the forest corruption in the morning. (Hopefully that will get [[Seraphina Amaris (Vicki)|Seraphina]]'s attention…)
+**Social:** Once all is cleared up (however that happens), [[Brin Shadowfoot]] intervenes to calm [[Laugu Nalakekali|Laugu]] down. [[Brin Shadowfoot|Brin]] asks [[Laugu Nalakekali|Laugu]] to leave and get some rest since they need to investigate the forest corruption in the morning. (Hopefully that will get [[Seraphina Amaris - Vicki|Seraphina]]'s attention…)
 
 [[Laugu Nalakekali|Laugu]] and [[Brin Shadowfoot|Brin]] will offer to hire the party to investigate for them.
 
-Combat: Heading to the woods, [[Seraphina Amaris (Vicki)|Seraphina]] recognizes signs of corruption. Following them into the woods, they encounter random corrupted creatures:
+Combat: Heading to the woods, [[Seraphina Amaris - Vicki|Seraphina]] recognizes signs of corruption. Following them into the woods, they encounter random corrupted creatures:
 
 - [[Giant Weasel (Creature)|Corrupted Giant Weasel]]
 - Vine Blight

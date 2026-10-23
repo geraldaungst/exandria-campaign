@@ -22,15 +22,15 @@ tags:
 
 Leader: [[Rinneth Starsong - DM]]
 
-- **[[Rinneth Starsong - DM]]** As the leader, [[Rinneth Starsong - DM|Rinneth]] is the heart and soul of the Malachite Cord. Her gentle demeanor, iron will, and cryptic visions are believed to be an echo of the Aurora's Ascendant's celestial guidance. She leads the Cord with songs that are not only beautiful but are also said to carry fragments of [[Seraphina Amaris (Vicki)|Seraphina]]'s own wisdom and strength.
-- **Inner Circle**: This small council includes [[Kael Dren'eth]] and [[Radelia Caphax]], among others, who are not just strategists and advisors but also custodians of the group's history and the legacy of the Aurora's Ascendant. They ensure that every action and mission aligns with the spirit of what they believe [[Seraphina Amaris (Vicki)|Seraphina]] stood for.
+- **[[Rinneth Starsong - DM]]** As the leader, [[Rinneth Starsong - DM|Rinneth]] is the heart and soul of the Malachite Cord. Her gentle demeanor, iron will, and cryptic visions are believed to be an echo of the Aurora's Ascendant's celestial guidance. She leads the Cord with songs that are not only beautiful but are also said to carry fragments of [[Seraphina Amaris - Vicki|Seraphina]]'s own wisdom and strength.
+- **Inner Circle**: This small council includes [[Kael Dren'eth]] and [[Radelia Caphax]], among others, who are not just strategists and advisors but also custodians of the group's history and the legacy of the Aurora's Ascendant. They ensure that every action and mission aligns with the spirit of what they believe [[Seraphina Amaris - Vicki|Seraphina]] stood for.
 
 ### Notable Members
 
 - [[Kael Dren'eth]]
 - [[Radelia Caphax]]
-- **Theron Galevor**: A human Ranger and a disciple of the Aurora's Ascendant's teachings. He's known for carrying a pendant of The Aurora's Ascendant into every mission, believing it connects him to [[Seraphina Amaris (Vicki)|Seraphina]]'s spirit and guidance.
-- **Elyndra Sweetcheek**: A gnome Wizard fascinated by the celestial phenomena that marked [[Seraphina Amaris (Vicki)|Seraphina]]'s birth. She's dedicated to understanding the cosmic forces at play and how they relate to the rifts and corruption, believing that the answers lie in the stars.
+- **Theron Galevor**: A human Ranger and a disciple of the Aurora's Ascendant's teachings. He's known for carrying a pendant of The Aurora's Ascendant into every mission, believing it connects him to [[Seraphina Amaris - Vicki|Seraphina]]'s spirit and guidance.
+- **Elyndra Sweetcheek**: A gnome Wizard fascinated by the celestial phenomena that marked [[Seraphina Amaris - Vicki|Seraphina]]'s birth. She's dedicated to understanding the cosmic forces at play and how they relate to the rifts and corruption, believing that the answers lie in the stars.
 
 ### Size/Scale
 
@@ -125,42 +125,42 @@ Group 2 on the [[Sessions 1 to 3 - The Skyship|Skyship]].
 
 ### Long-term Aspirations
 
-- [ ] **Protection and Healing**: Emulating the Ascendant's role as a guardian, the Cord focuses on protecting affected areas and healing what corruption they can. They see this as continuing the work [[Seraphina Amaris (Vicki)|Seraphina]] once started, guided by the symbolic icon of The Aurora's Ascendant they carry into every battle.
-- [ ] **Research and Legacy**: Understanding the nature of the corruption and the rifts is paramount. Members delve into ancient texts and lore, seeking any references to [[Seraphina Amaris (Vicki)|Seraphina]]'s own battles and strategies, hoping her past victories will shine a light on their path forward.
+- [ ] **Protection and Healing**: Emulating the Ascendant's role as a guardian, the Cord focuses on protecting affected areas and healing what corruption they can. They see this as continuing the work [[Seraphina Amaris - Vicki|Seraphina]] once started, guided by the symbolic icon of The Aurora's Ascendant they carry into every battle.
+- [ ] **Research and Legacy**: Understanding the nature of the corruption and the rifts is paramount. Members delve into ancient texts and lore, seeking any references to [[Seraphina Amaris - Vicki|Seraphina]]'s own battles and strategies, hoping her past victories will shine a light on their path forward.
 
 ### Potential Plot Hooks
 
 ## History
 
-### Founding - Year 0 (Post-[[Seraphina Amaris (Vicki)|Seraphina]]'s Departure)
+### Founding - Year 0 (Post-[[Seraphina Amaris - Vicki|Seraphina]]'s Departure)
 
-- **Formation**: After [[Seraphina Amaris (Vicki)|Seraphina]] vanished into the Feywild, a small group of individuals who revered [[The Legend of the Aurora's Ascendant]], including her half-sibling, formed the Malachite Cord. Inspired by her legacy, they vowed to protect the Savalirwood from the spreading corruption.
-- **Early Actions**: They began by studying the forest, [[Seraphina Amaris (Vicki)|Seraphina]]'s known history, and the celestial events surrounding her life, seeking guidance in her past actions and the natural balance she upheld.
+- **Formation**: After [[Seraphina Amaris - Vicki|Seraphina]] vanished into the Feywild, a small group of individuals who revered [[The Legend of the Aurora's Ascendant]], including her half-sibling, formed the Malachite Cord. Inspired by her legacy, they vowed to protect the Savalirwood from the spreading corruption.
+- **Early Actions**: They began by studying the forest, [[Seraphina Amaris - Vicki|Seraphina]]'s known history, and the celestial events surrounding her life, seeking guidance in her past actions and the natural balance she upheld.
 
 ### Years 1-50: The First Generation
 
-- **Expansion of Knowledge**: The Cord expanded modestly, inviting those who showed a deep reverence for [[Seraphina Amaris (Vicki)|Seraphina]]'s legacy and a commitment to their cause. They established traditions based on her perceived teachings and the values her parents embodied.
-- **Artifacts and Relics**: Members collected artifacts and relics related to [[Seraphina Amaris (Vicki)|Seraphina]], believing them to be imbued with her spirit and guidance. These items became central to their rituals and decision-making.
+- **Expansion of Knowledge**: The Cord expanded modestly, inviting those who showed a deep reverence for [[Seraphina Amaris - Vicki|Seraphina]]'s legacy and a commitment to their cause. They established traditions based on her perceived teachings and the values her parents embodied.
+- **Artifacts and Relics**: Members collected artifacts and relics related to [[Seraphina Amaris - Vicki|Seraphina]], believing them to be imbued with her spirit and guidance. These items became central to their rituals and decision-making.
 
 ### Years 51-100: The Second Generation
 
 - **Formalization of Beliefs**: The group codified their beliefs and practices around the lore of the Aurora's Ascendant, seeing themselves as her spiritual successors. They began to carry icons of The Aurora's Ascendant as symbols of their duty.
-- **First Major Successes**: Leveraging their growing understanding of the corruption, the Cord made significant strides in protecting and healing parts of the forest, believing they were continuing [[Seraphina Amaris (Vicki)|Seraphina]]'s work.
+- **First Major Successes**: Leveraging their growing understanding of the corruption, the Cord made significant strides in protecting and healing parts of the forest, believing they were continuing [[Seraphina Amaris - Vicki|Seraphina]]'s work.
 
 ### Years 101-150: Strengthening Connections
 
-- **Alliances and Influence**: The Malachite Cord formed alliances with other groups concerned with the natural balance, such as the Ashari and certain druid circles, sharing their reverence for [[Seraphina Amaris (Vicki)|Seraphina]] and her ideals.
+- **Alliances and Influence**: The Malachite Cord formed alliances with other groups concerned with the natural balance, such as the Ashari and certain druid circles, sharing their reverence for [[Seraphina Amaris - Vicki|Seraphina]] and her ideals.
 - **Internal Reflection**: A period of introspection led the Cord to reaffirm their commitment to their founding principles, ensuring that their actions always honored the Aurora's Ascendant's legacy.
 
 ### Years 151-200: Dark Times and Resilience
 
 - **Catastrophic Events**: The Cord faced several setbacks, including losses to the corruption and internal conflicts. These challenges tested their resolve but ultimately strengthened their dedication to their founding principles.
-- **Renewed Dedication**: Emerging from these trials with a renewed sense of purpose, the Cord intensified their efforts, using their knowledge of [[Seraphina Amaris (Vicki)|Seraphina]]'s legacy to guide them through these dark times.
+- **Renewed Dedication**: Emerging from these trials with a renewed sense of purpose, the Cord intensified their efforts, using their knowledge of [[Seraphina Amaris - Vicki|Seraphina]]'s legacy to guide them through these dark times.
 
 ### Years 201-250: The Modern Cord
 
 - **[[Rinneth Starsong - DM|Rinneth]]'s Leadership**: With the ascension of [[Rinneth Starsong - DM]], a new era began. Her prophetic abilities and connection to the celestial forces were seen as a sign of the Aurora's Ascendant's continuing guidance.
-- **Focused Activities**: The Cord, now a small but highly effective group, conducts research, covert operations, and strategic alliances, all while maintaining a deep spiritual connection to [[Seraphina Amaris (Vicki)|Seraphina]]'s spirit. They view their mission as a sacred trust, passed down through generations, never straying from the purpose and goals set by their founders.
+- **Focused Activities**: The Cord, now a small but highly effective group, conducts research, covert operations, and strategic alliances, all while maintaining a deep spiritual connection to [[Seraphina Amaris - Vicki|Seraphina]]'s spirit. They view their mission as a sacred trust, passed down through generations, never straying from the purpose and goals set by their founders.
 
 ## Connected Elements
 

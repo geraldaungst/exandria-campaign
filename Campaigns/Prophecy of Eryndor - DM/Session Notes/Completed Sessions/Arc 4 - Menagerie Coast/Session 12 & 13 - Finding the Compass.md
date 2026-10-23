@@ -15,7 +15,7 @@ tags:
 > [!info] Essential Details
 > - Location(s): Othemoor swamp
 > - Active Plots: [[Aethor Kalisk's Secret Mission]]
-> - Key NPCs: [[Eidechse (Amanda Jeane)]] who will become a PC
+> - Key NPCs: [[Eidechse - Amanda Jeane]] who will become a PC
 > - Previous Session: [[Session 10 & 11 - Goblins at the Bridge]]
 > - Next Session: [[Session 14 to 16 - Rift to the Elemental Plane of Fire]]
 
@@ -25,7 +25,7 @@ tags:
 
 - Players found the location of the tree and the remains of the party
 - Tracked the "glass" trail
-- Encountered [[Eidechse (Amanda Jeane)|Dechs]] lying unconscious next to the lake and saved her
+- Encountered [[Eidechse - Amanda Jeane|Dechs]] lying unconscious next to the lake and saved her
 - Fought a corpse flower
 - Tracked the Flail Snail to where it was in combat with a Nergaliid
 - Party waited until the battle was over then finished off the creatures

@@ -1,6 +1,7 @@
 ---
 aliases:
   - Hesterian
+  - Dot
 modifier: 2
 tags:
   - campaign/eryndor

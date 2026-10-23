@@ -22,7 +22,7 @@ tags:
 
 **How it worked:**
 
-- After murdering [[Hesterian Shyr (Dot)]] and [[Xanaphia Lothliss]], Korfel needed to deflect suspicion from himself
+- After murdering [[Hesterian Shyr - Dot]] and [[Xanaphia Lothliss]], Korfel needed to deflect suspicion from himself
 - He gave authorities a "tip" pointing to Rylan as the murderer
 - The murder weapon (knife used to slash Hesterian's throat) was planted on or near Rylan
 - Korfel used Xanaphia's lie about "fleeing with the stable boy" as the foundation for the false accusation
@@ -102,7 +102,7 @@ This frame-up is central to understanding [[Korfel Withrethin]]'s character and 
 - [[Rylan Estevez]] - Innocent victim, wrongfully imprisoned
 - [[Korfel Withrethin]] - Perpetrator of frame-up
 - [[Xanaphia Lothliss]] - Deceased friend whose gift proves Rylan's innocence
-- [[Hesterian Shyr (Dot)]] - Primary murder victim, potential advocate for justice
+- [[Hesterian Shyr - Dot]] - Primary murder victim, potential advocate for justice
 - [[Grisul Adder]] - Former employer, potential witness to Rylan's character
 
 ### Related Events

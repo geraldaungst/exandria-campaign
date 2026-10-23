@@ -23,7 +23,7 @@ Firbolg monk of the Monastery of Dimensional Harmony, dead for about 300 years. 
 
 # Current Situation
 - The soulwood ritual was completed on 24 Thunsheer. Kelmen passed through the Whisper and entered Solvei's Vigilance.
-- [[Qilynn Duskwhisper (Nicole)|Qilynn]] is attuned to the bow. Kelmen has not spoken to her or anyone yet.
+- [[Qilynn Duskwhisper - Nicole|Qilynn]] is attuned to the bow. Kelmen has not spoken to her or anyone yet.
 - His first words, when he does speak: *"I understand now what we were missing."* He then describes what he experienced passing through the stabilized Whisper: the Lorestone can manipulate planar boundaries, but without something to hold time still while it works, the feedback is catastrophic. He does not elaborate unless asked.
 - Open: the Shard 8 lead and the stabilizing-counterweight revelation are released through him when the party discusses the Lorestone.
 

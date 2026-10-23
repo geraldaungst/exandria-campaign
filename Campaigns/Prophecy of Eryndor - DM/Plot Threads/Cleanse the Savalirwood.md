@@ -9,7 +9,7 @@ tags:
 
 > [!info] Essential Details
 > - Status: plot/upcoming
-> - Key Players: [[Seraphina Amaris (Vicki)|Seraphina]], [[Rinneth Starsong - DM]]
+> - Key Players: [[Seraphina Amaris - Vicki|Seraphina]], [[Rinneth Starsong - DM]]
 > - Last Session:
 > - Next Steps: Connect the rifts to the corruption in the [[Savalirwood - DM]]
 
@@ -44,7 +44,7 @@ tags:
 
 ## Player Knowledge
 
-- What they know: [[Seraphina Amaris (Vicki)|Seraphina]] knows that corruption was spreading when she left and that she has traveled 300 years into the future.
+- What they know: [[Seraphina Amaris - Vicki|Seraphina]] knows that corruption was spreading when she left and that she has traveled 300 years into the future.
 - What they think they know:
 - What they don't know:
 
