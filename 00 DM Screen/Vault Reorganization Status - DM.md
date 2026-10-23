@@ -88,7 +88,7 @@ Carried over from the audit and Phase 8 so the work does not depend on the archi
 | 2 | Relocate Aethor Kalisk's Workshop | done |
 | 3 | Link cleanup | done |
 | 4 | Aveqtaro Thaan as Tier 1 hub | done 2026-10-22: [[Aveqtaro Thaan]] plus [[Aveqtaro Memory Recovery Tracker]] and [[What Aveqtaro Thaan Knows]]. All links in the three notes resolve. The Dynasty Bridge subnote was never created and is not linked |
-| 4 | Evaluate Vaud Qalix and Korfel Withrethin as Tier 1 | open |
+| 4 | Evaluate Vaud Qalix and Korfel Withrethin as Tier 1 | Vaud Qalix done 2026-10-23: [[Vaud Qalix - DM Notes]] plus [[Qalix's Network]] and [[Vaud Qalix's Plan Outline]]. Korfel open |
 | 5 | Sweep Characters/NPCs for non-NPC notes | open |
 | 5 | Apply the NPC template to remaining NPCs | open, incremental |
 
@@ -99,7 +99,7 @@ Verified against the vault on 2026-10-22.
 **1. Bramwell Bellweather placeholder.** Done 2026-10-22. [[Bramwell Bellweather - DM Notes]] is filled from the Deastok Investigation epilogue, Session 51 and Session 53. Race, age and voice beyond the quoted lines are not set in any source and were left blank. Open decision, yours: whether the Bramwell epilogue closes in the Deastok arc or moves to a later one (a to-do in that arc).
 
 **2. Vaud Qalix and Korfel Withrethin as Tier 1.**
-- [[Vaud Qalix - DM Notes]] already sits in a folder with three subnotes (`Qalix's Network`, `Vaud Qalix's Plan Outline`, `What does Vaud Qalix want`). The question is whether those subnotes each serve a distinct use case, not whether to create a hub.
+- Vaud Qalix: done 2026-10-23. Hub rebuilt as a reference card; `What does Vaud Qalix want` merged into it (Gerald deletes the file); the Network and Plan Outline stay as subnotes; the two Manifestos are documents. Contradictions found in a vault-wide read of 77 notes were resolved with Gerald.
 - [[Korfel Withrethin]] is one 148-line note with Current Operations and Hidden Information sections. Apply the audit's test: does a section serve a different use case (running a scene versus planning moves)?
 - A planning note, `Possible ideas for Korfel`, sits in Session Notes/Planning and is outside the NPC folder.
 
@@ -110,10 +110,10 @@ Verified against the vault on 2026-10-22.
 **5. Tag cleanup**
 - **Settled 2026-10-22:** the four property and tag decisions are applied (see the rulings in [[Vault Conventions - DM]]). Remaining here: fill `place/` and `region/` on NPCs as they are touched (no bulk pass).
 - 37 Exandria NPCs have no place tag (22 of them also lack a faction). The earlier count of 40 came from the NPC Browser and may count differently. Five are in Adversaries or Port Damali notes.
-- 14 NPC-tagged notes have no region tag.
-- Location notes: 21 of 52 notes under Worlds have no place tag. Many are lore, table or Keln notes that may not need one; only two notes tagged `location` lack it. 5 `location` notes have no region and 3 have no world.
-- Old properties (`affiliations`, `faction`, `current_location`, `location`) remain in 20 notes: 9 faction notes, 5 arc notes, 4 location or item notes, Lady Emer Status (to be deleted), and one NPC-tagged note.
-- The `processed` property or `#to-process` tag remains in three Rendspawn creature notes.
+- 19 of the 75 Exandria NPCs have no region tag. Only Radelia Caphax has a place tag, and that place has no region, so nothing can be filled automatically.
+- Location notes under Worlds: 33 carry the `location` tag. Two lack a place tag and one lacks a region (Skyship Distances and Xhorhas Landing, deliberately; see [[Vault Conventions - DM]]). All have a world tag.
+- Old properties (`affiliations`, `faction`, `current_location`, `location`): only Lady Emer Status still has any (to be deleted). Cleared 2026-10-22.
+- The `processed` property and `#to-process` tag no longer appear in any note.
 
 **6. Part D triage and Part F decision.** Triage Essential, Reference, Redundant, Archive and Stub for what the NPC and tag work left over. Decide whether to build the Vault Health note.
 
@@ -135,7 +135,7 @@ The Plan's final checklist, reworded for the current stack. Gerald confirms the 
 
 ### Recommended next step
 
-Item 2, Vaud Qalix and Korfel Withrethin as Tier 1. Qalix already has a folder; the question is whether each subnote serves a separate use case. Korfel is one 148-line note.
+Item 2, Korfel Withrethin as Tier 1. Korfel is one 148-line note; `Possible ideas for Korfel` sits in Session Notes/Planning. Read the vault for every Korfel and Gentleman mention before drafting, as was done for Qalix.
 
 ### Phase log
 
@@ -166,3 +166,5 @@ Newest at the bottom. Format: `YYYY-MM-DD | phase | what changed | result`.
 2026-10-22 | property and tag pass | Applied the four decisions: 5 faction notes got `**Base:**` or `**Relationships:**` links in place of `current_location` and `affiliations`; dropped `settlement-type` and Randmork's `region`; removed `disposition` from 16 non-NPC faction-folder notes; renamed `dm-tools` to `dm-tool` (Hub Config, Shared Helpers, Note Types, Recent Work.base, Encounter Design Guide); retired 17 stray tags (3 notes lost their empty frontmatter); `compendium` became `artifact` on Laucian's Artifact; 6 location notes got world, region or place tags and Callastri became `region/callastri`. Backups in z_Reference/template-backups/2026-10-22 property-tag pass. |
 
 2026-10-22 | faction tag | Dropped the plain `faction` tag from the six non-faction notes in Characters/Factions (two overview notes, two faction-event notes, Aurora's Ascendant, Capture of Melthes); the 11 Player Wiki faction pages now carry `organization` instead of `faction`. publish.css and publish.json do not use tags | Open: Player Wiki Build Conventions (project doc) still lists `faction` as the type tag in its frontmatter template. Not run in Obsidian.
+
+2026-10-23 | NPC audit, Vaud Qalix | Hub rebuilt (Quick Reference, roleplay, Current Situation, resources, hidden information, endgame, subnotes, documents; tags region/xhorhas, place/xarzith-kitril, faction/scars-of-scale-and-tooth added). Merged What does Vaud Qalix want into the hub. Plan Outline: goal table moved in (collapsed, broken prophecy link fixed), stale Dreyara and Celdric steps updated, future steps state their trigger, duplicate patron section removed. Outside the folder: trigger line on Qalix escalates (Luxon Beacon Political Consequences), shard-count lines (Lorestone of Eryndor - DM Notes), Emissaries goal line, Assembling the Lorestone embed. npc tag removed from Manifesto - Brief. Backups in z_Reference/template-backups/2026-10-23 Qalix Tier 1 | All new wiki-links resolve. Delete `What does Vaud Qalix want.md`. disposition left for Gerald. Rendering, embeds and Related Notes.base not tested in Obsidian.

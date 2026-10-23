@@ -50,9 +50,9 @@ tags:
 ### Faction Knowledge Evolution
 
 - The [[Obsidian Echoforge - DM Notes]] originally believed only 5 shards existed based on gaps in their reconstructed prophecy.
-- The recent discovery of Shard 6—containing previously unknown prophecy lines—revealed additional shards must exist.
+- Shard 6 surfacing in Marquet raised their count to six. Whether anyone in the world suspects more than six is undecided; the party should be the ones to work it out.
 - They currently assume the Stonefoot Compass lead will take them to Shard 5, unaware it actually points to Shard 7.
-- Once they learn Shard 5 is in Rexxentrum and follow the compass to Ebonglass, they will realize a 7th shard exists.
+- The party knows Shard 5 is in Rexxentrum and carries the compass, so they are positioned to be first to realize the compass shard is a seventh.
 - When all 7 Exandrian shards are assembled and fail to fit together correctly, this will reveal the existence of a final 8th piece—which is no longer on Exandria.
 
 ### Current Interpretations (All Incomplete)

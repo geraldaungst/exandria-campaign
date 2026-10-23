@@ -33,7 +33,7 @@ Beacon is simply theirs to keep.
 
 ### Three Active Problems
 
-**Qalix escalates.** He made an artifact of significant value the priority of
+**Qalix escalates (hypothetical).** *Triggers when Qalix learns the crystal Emer lost was a Luxon Beacon. Until then his response is undecided ([[Qalix's Network]]).* He made an artifact of significant value the priority of
 
 Emer's research, and she lost it. He doesn't yet know the Beacon is essential to safely using the
 

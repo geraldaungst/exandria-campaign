@@ -193,7 +193,7 @@ Decisions: delete QuickAdd now. Disable MetaEdit, Kanban, Sort and Permute Lines
 Next up (Suggest the best next step of these, but Gerald will have final say):
 1. Housekeeping deletions on their dates (below).
 2. D7: Omnisearch trial. Installed. Use it for a week; keep it or remove it.
-3. npc-folder-audit Phases 4-5, remainder (Aveqtaro Thaan done 2026-10-22): fill or retire the empty placeholder Bramwell Bellweather - DM Notes (material is in the Deastok Investigation arc's Bramwell epilogue); evaluate Vaud Qalix and Korfel Withrethin as Tier 1 hubs; the non-NPC sweep of Characters/NPCs; the Lady Emer satellites.
+3. npc-folder-audit Phases 4-5, remainder (Aveqtaro Thaan done 2026-10-22): fill or retire the empty placeholder Bramwell Bellweather - DM Notes (material is in the Deastok Investigation arc's Bramwell epilogue); evaluate Korfel Withrethin as a Tier 1 hub (Vaud Qalix done 2026-10-23); the non-NPC sweep of Characters/NPCs; the Lady Emer satellites.
 
 Gerald's own tasks:
 - [x] Delete Characters/NPCs/aveqtaro.rtf (untracked; superseded by Aveqtaro Thaan, checked 2026-10-22).

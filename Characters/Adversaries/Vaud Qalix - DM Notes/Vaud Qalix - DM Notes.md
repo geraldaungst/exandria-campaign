@@ -6,85 +6,93 @@ aliases:
   - Dawnbringer
   - Dawnbringer of the New Draconian Dominion
 tags:
-  - needs-work
   - npc
+  - needs-work
   - world/exandria
-  - faction/emissaries-of-the-sunfall
+  - region/xhorhas
+  - place/xarzith-kitril
+  - faction/scars-of-scale-and-tooth
   - faction/draconia
+  - faction/emissaries-of-the-sunfall
 ---
 
 ![[vaud-qalix.png|right|300]]
 
-## OGAS
+## Quick Reference
 
-Occupation: Eye of the Scars, head of protection for the [[Scars of Scale and Tooth]] and de facto leader of the Wardens of the Ravine.
+> [!info] Essential Details
+> - **Where he is:** [[Xarzith Kitril - DM Notes|Xarzith Kitril]] in public. Runs his operation from a hidden structure in the Ruins of Draconia, thought destroyed
+> - **Office:** Eye of the Scars, Protector of the Council of the [[Scars of Scale and Tooth]]; head of the Wardens of the Ravine
+> - **Goal:** [[Restore Draconia]] and bring it to worldwide dominance
+> - **Attitude:** Superiority. **Stakes:** Nothing else matters. All in
+> - **Toward the party:** Knows the people who killed Dreyara raided Cloudfang and took Shard 6 and the crystal. Names reach him 10–24 Unndilar 835. Response undecided
+> - **Shards:** Knows six exist. Lyren holds four, one is in the Rexxentrum Archive, one (Shard 6) he has lost
 
-Goal: [[Restore Draconia]] and bring it to worldwide dominance
+*Vaud wants to assemble the [[Lorestone of Eryndor - DM Notes|Lorestone of Eryndor]] before war breaks out between the Kryn Dynasty and the Dwendalian Empire, but he is having difficulty acquiring the obsidian shards via his network of spies and collectors because of the interference of the player characters.*
 
-Attitude: Superiority
+## Description & Roleplay
 
-Stakes: Nothing else matters. All in.
+- Dragonborn. Fought against Vorugal at the fall of Draconia (811 PD) as a young teen. The medal engraved with his name in [[Veteran's Victory Vault]] is his
+- Has served the restoration ever since the fall. Believes Draconia was dealt an unfair fate and deserves its destined glory
+- Thinks the council is inept and directionless. Sides most often with Zalthara and Hirrathak, but keeps his contempt to himself
+- Wrote the [[Manifesto - Reclaiming the Glory of Draconia|Manifesto]]; the [[Manifesto - Brief|Brief]] is the version he gives prospective allies
+- Nemesis type: blunt-force trauma
+- **His powers, as he understands them:**
+	- Believes he has a natural affinity for Far Realm energies
+	- Credits his warlock abilities to "the voice beyond the veil"
+	- Treats his insights as personal breakthroughs in understanding reality's fabric
+	- Speaks of his power source in vague, academic terms
 
-## The Lists (p. 70)
+## Current Situation (offscreen)
 
-![[Vaud Qalix's Plan Outline#Core Information]]
+As of 27 Thunsheer 835. Detail in [[Qalix's Network]].
 
-### Resources
+- **26–27 Thunsheer:** The handler's Sending tells him Dreyara is dead, Cloudfang was raided, [[Varnes Dwell]] is free, and the attackers took Shard 6 and the crystal
+- **The crystal:** He knows it only as the "temporal crystal" he made the priority of Emer's research. He does not know it is a Luxon Beacon
+- **10–24 Unndilar:** Emer's full report arrives by courier, naming Drawg, Seraphina and a gnome
+- **Rexxentrum:** Dreyara was to steal Shard 5 with [[Korfel Withrethin|the Gentleman]]'s help. The Gentleman holds Qalix's down payment ([[The Gentleman's Criminal Empire]])
+- **Undecided:** his response, who takes over Dreyara's work, and whether the Rexxentrum job goes ahead
 
-#### Existing
+## Resources
 
-- 750 000 gp in a storehouse (in fact a previously undiscovered portion of Vorugal's hoard, supplemented with funds embezzled from the [[Scars of Scale and Tooth|Xarzith Kitril council]]) in the Ruins of Draconia.
-- 10 spies located around Exandria
-- 75 researchers seeking information on the shards
-- 12 arcane magic users investigating how to stabilize the rifts with the Lorestone (to be led by a [[Iliara Firth|Chronurgy Wizard]] not yet recruited by Qalix).
-- 5 other Villains heading up specific parts of his operation:
-	- [[Sirion Del'thane]] - Envoy coordinating negotiations with the Empire and the Dynasty (though each side does not know the other is beeing wooed)
-	- [[Ru'Shan Halrune]] - Head researcher and explorer locating the missing shards
-	- Spymaster [[Dreyara Drimvar - DM Notes]]
-	- [[Thok-Kynn Dalca]] - Treasurer
-	- [[Gorrath the Stonebinder]] - Experienced architect and stonemason who is in charge of rebuilding Draconia.
+- **Treasury:** 750,000 gp in a storehouse in the Ruins of Draconia
+- **People:** 10 spies across Exandria, 75 researchers seeking the shards, 12 arcane casters studying how to stabilize the rifts with the Lorestone
+- **Lieutenants:**
+	- [[Sirion Del'thane]]: envoy, negotiating with both the Empire and the Dynasty; neither knows about the other
+	- [[Ru'Shan Halrune]]: head researcher, searching for shards
+	- [[Thok-Kynn Dalca]]: treasurer
+	- [[Gorrath the Stonebinder]]: architect in charge of rebuilding Draconia
+	- [[Dreyara Drimvar - DM Notes|Dreyara Drimvar]]: spymaster. Dead, 25 Thunsheer 835; successor undecided
+- **Allies:** the [[Myriad]] and the [[Clasp]], plus private mercenaries and researchers. Field network (Lady Emer, the handler, [[Valen Elderguard]]'s cell, [[Kexira Suulveth]]): [[Qalix's Network]]
+- **Needs:** the shards he knows of; components from the Elemental Planes to cleanse them; a Chronurgy wizard to weave them together ([[Iliara Firth]], not yet recruited); a rift large enough to power the [[Harmonic Planar Conduit]]
 
-#### Needed
+## Hidden Information
 
-- Location of Shards 7 and 8
-- Components from the Elemental Planes to cleanse the shards
-- A Chronurgy Wizard to develop the magic needed to weave the shards together - This will be Magister [[Iliara Firth]], recruited from the Cerberus Assembly.
-- A large enough rift to supply the power he needs - This will eventually appear in the Savalirwood
+> [!secret]- What he doesn't know
+> - He is one of [[Ceratos]]'s warlock thralls. Ceratos steers him toward the rifts because it cannot touch them itself, and does not care whether his plan succeeds, only that the attempt opens a way from the Far Realm into Exandria
+> - He has never spoken with his patron and does not know what it is
+> - The rift "signatures" he catalogues are random arcane noise that shifts over time; no pattern ties a reading to a rift
+> - The crystal Emer lost is a Luxon Beacon. Beacon lore is closely held within the Kryn Dynasty
+> - Blind spots in his plan: [[Vaud Qalix's Plan Outline]]
 
-![[What does Vaud Qalix want#Core Information]]
+> [!secret]- What he hides
+> - The treasury is a previously undiscovered portion of Vorugal's hoard, plus funds embezzled from the Xarzith Kitril council
+> - He secretly finances [[Valen Elderguard]]'s splinter cell within the [[Emissaries of the Sunfall - DM Notes|Emissaries of the Sunfall]]; publicly he has no tie to them
 
-## What Vaud Qalix doesn't know
+> [!note]- Endgame
+> - Intended final confrontation at Molaesmyr, around level 18. [[Ceratos]] is revealed only after Qalix is defeated
+> - Whether the party meets him in person before then is undecided
 
-[[Ceratos|Ceratos]] is not merely the source of his power. Qalix is one of Ceratos's warlock thralls, and Ceratos steers him toward the rifts because it cannot touch them itself. Ceratos doesn't care whether Qalix's plan succeeds or fails, only that the attempt opens a way from the Far Realm into Exandria.
+## Subnotes
 
-Not only this, but the rifts Qalix believes are part of a larger pattern are in fact random and chaotic. What Qalix thinks is a "signature" for each rift is merely the specific random variation of arcane noise that happens to exist at that spot at that moment. Over time, the noise shifts and changes, and there is no way to actually associate a specific pattern with a specific rift.
+- [[Qalix's Network]]: how information reaches him, who knows what, and where things stand after Dreyara's death
+- [[Vaud Qalix's Plan Outline]]: his plan step by step, obstacles, blind spots, and the goal table
 
-## Qalix's Understanding of His Powers
+## Documents
 
-- Believes he has natural affinity for far realm energies
-- Thinks his warlock abilities come from "the voice beyond the veil"
-- Views his "insights" as personal breakthroughs in understanding reality's fabric
-- Refers to his patron power source in vague, academic terms
+- [[Manifesto - Reclaiming the Glory of Draconia]]: the full text
+- [[Manifesto - Brief]]: the condensed version he distributes
 
-## The Sentence
+## Connected Elements
 
-*Vaud wants to assemble the [[Lorestone of Eryndor - DM Notes]] before war breaks out between the Kryn Dynasty and the Dwendalian Empire, but he is having difficulty acquiring the obsidian shards via his network of spies and collectors because of the interference of the player characters.*
-
-## Psychology of the Nemesis
-
-Blunt-Force Trauma Nemesis
-
-## Goal Table
-
-|.                         | Vaud Qalix…                                                                        | …wants to to assemble the [[Lorestone of Eryndor - DM Notes]]…                                                                                                                                                                      | …before war breaks out…                                                                                                          | …having difficulty acquiring the obsidian shards…                                               | …via his network of spies and collectors…                                                                                                           | …because of the interference of the player characters…                                                   |                                                                                                  |
-| ------------------------- | ------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ |
-| Who…                    | Eye of the Scar                                                                      | [[Obsidian Echoforge - DM Notes]] are the experts, but unlikely to collaborate directly. [[Lyren Willowwhisper]] holds 4 shards. Other [[Lorestone of Eryndor - DM Notes#Known Shards\|shards]] exist, but Qalix does not yet know where they are. | Qalix thinks that war will limit his influence and power as resources are poured into the fight.                                     | The Obsidian Echoforge is seeking these items as well and has centuries of research and experience. | Qalix has allied himself with both the Myriad and the Clasp as well as building his own private network of mercenaries and researchers.                 | The Players.                                                                                                 |                                                                                                  |
-| What…                   | Protector of the Council                                                             | Vaud Qalix believes it will allow him to control the rifts and siphon their power.                                                                                                                                           | Assembling the stone early is not a problem. Too late and Qalix may miss the opportunity to bring Draconia back.                     | The [[01 The Prophecy                                                                               |prophecy]] is incomplete and has been misunderstood, so no one even knows how many more shards exist.                                                   | Qalix is diverting funds from the operation of Xarzith Kitril and selling contraband to fund his operations. | Collecting all of the shards or interfering with Qalix's plans will prevent him from succeeding. |
-| Where…                  | Xarzith Kitril / Ruins of Draconia                                                   | Four shards are with [[Lyren Willowwhisper]]. One shard is in Rexxentrum. One shard is in Marquet. Two other shards are unknown (yet).                                                                                       | The players will encounter refugees and disrupted trade routes that hint at both the time deadline and the search for the Lorestone. | At least one shard is missing and no one (yet) knows the location.                                  | His HQ is in the Ruins of Draconia in a hidden structure thought destroyed.                                                                             | PCs are everywhere.                                                                                          |                                                                                                  |
-| When…                   | When he realized the council was spinning its wheels.                                | Once all the pieces are found and collected, the stone can be reassembled.                                                                                                                                                   | If war breaks out, Qalix will continue to seek the Lorestone but will probably change tactics.                                       | This is an ongoing problem.                                                                         | Qalix will continue to build his network as long as he has not completed his goal. He gives empty promises of power to those who don't want just money. | PCs will begin accumulating information that will lead them to Qalix eventually.                             |                                                                                                  |
-| Why…                    | Draconia was dealt an unfair fate and deserves to be restored to its destined glory. | Qalix wants its power to raise himself up as a world leader to restore Draconia.                                                                                                                                             | Qalix wants Draconia to be the "hero" in preventing the war, raising his status worldwide.                                           | The information to locate the shards is cryptic and fragmented.                                     | Qalix cannot do this alone and cannot trust honest people. The sycophants are the most reliable.                                                        | The PCs will have to decide which of the factions to support.                                                |                                                                                                  |
-| How…                    | He has believed this since he was a child.                                           | Qalix is willing to do whatever is necessary: buy, steal, or kill.                                                                                                                                                           | There is a multistep process for [[Lorestone of Eryndor - DM Notes#Assembling the Lorestone\|assembling the shards]].                           | Without all of the information, Qalix is just chasing hints.                                        | The network of spies is building up his knowledge base.                                                                                                 | Finding the shards and then either assembling the stone or destroying them.                                  |                                                                                                  |
-| What do we expect?        | Zealous                                                                              | Fetch quests                                                                                                                                                                                                                 | Political intrigue                                                                                                                   |                                                                                                     |                                                                                                                                                         |                                                                                                              |                                                                                                  |
-| What can I refer to       |                                                                                      |                                                                                                                                                                                                                              |                                                                                                                                      |                                                                                                     |                                                                                                                                                         |                                                                                                              |                                                                                                  |
-| What must be established? | Qalix wants to restore Draconia at all costs.                                        | The Lorestone shards are not all found yet.                                                                                                                                                                                  | Tensions are increasing between the Empire and the Dynasty                                                                           |                                                                                                     |                                                                                                                                                         |                                                                                                              |                                                                                                  |
-| What can I subvert?       |                                                                                      | The Lorestone will not actually function as expected.                                                                                                                                                                        |                                                                                                                                      |                                                                                                     |                                                                                                                                                         |                                                                                                              |                                                                                                  |
+![[Related Notes.base]]

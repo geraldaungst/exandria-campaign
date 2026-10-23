@@ -1,7 +1,6 @@
 ---
 tags:
   - needs-work
-  - npc
   - world/exandria
 ---
 

@@ -169,7 +169,7 @@ The Massacre had profound internal consequences:
 
 ### Medium-term Goals
 
-- Help [[Vaud Qalix - DM Notes]] gather [[Lorestone of Eryndor - DM Notes]] shards
+- [[Valen Elderguard]]'s splinter cell: help [[Vaud Qalix - DM Notes]] gather [[Lorestone of Eryndor - DM Notes]] shards. The Emissaries as a whole have no public tie to him
 
 ### Long-term Goals
 
