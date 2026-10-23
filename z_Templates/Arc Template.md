@@ -1,5 +1,8 @@
 <%*
-// ── Arc note
+// ── Arc note: name, campaign, tier, main place, then writes the tags and files it in the campaign's Arcs folder ──
+// Tags: arc, campaign/…, place/… (picked, or none for travel or several places). No world or region tags: an arc
+// lives inside one campaign. Properties: status (starts at idea), threads (empty), tier. The place's location
+// note, when it has one, is linked under Locations so the Session Hub can find the arc.
 // ── Shared helpers: z_Templates/Scripts/dm_helpers.js (a Templater user script), used by the NPC, Faction,
 // Location, Encounter and Arc templates. Edit them there, once, for all five.
 const { C, slug, tagPath, tagsOfFile, liveNotes, vocabulary, levels, pickTag, inWorldFilter, worldRegionEntries, dropParents, askTitle, discard, safeMove } =
@@ -41,10 +44,19 @@ if (!tier) { await abort(); return; }
 const worldName = String(fmOf(campaign).world ?? "").replace(/^\[\[|\]\]$/g, "").replace(/\|.*$/, "").trim();
 const inWorld = worldName ? liveNotes().filter(inWorldFilter(worldName)) : liveNotes();
 const placeTag = await pickTag("place", "place", vocabulary("place", inWorld), "— no place (travel or several places)", true, "Where is this arc mainly set? (place tag)");
+// The place's own location note (not a Player Wiki page): the one tagged with placeTag whose name matches the tag's last part.
+const wiki = C("folder_player_wiki", "Player Wiki") + "/";
+const tagged = placeTag
+  ? inWorld.filter((f) => !f.path.startsWith(wiki) && tagsOfFile(f).includes(C("tag_location", "location")) && tagsOfFile(f).includes(placeTag))
+  : [];
+const placeNote = tagged.find((f) => slug(f.basename) === placeTag.split("/").pop()) ?? null;
 
 // 4. Tags and file location (the campaign folder's Arcs folder)
 const tags = [C("tag_arc", "arc"), campaignTag, placeTag].filter(Boolean);
 const tagLines = tags.map((t) => `  - ${t}`).join("\n");
+const placeShown = placeNote ? placeNote.basename.replace(/ - DM Notes$/i, "") : "";
+const placeLink = placeNote ? app.metadataCache.fileToLinktext(placeNote, "") : "";
+const locationLine = placeNote ? `- [[${placeLink}${placeShown !== placeLink ? `|${placeShown}` : ""}]]\n\n` : "";
 
 const folder = `${campaign.parent.path}/Arcs`;
 if (!app.vault.getAbstractFileByPath(folder)) await app.vault.createFolder(folder);
@@ -98,7 +110,7 @@ For each: who is there, what they want, what the party can find, what changes if
 
 ## Locations
 
-<!-- One memorable detail each; link the location note. Add the main place's place/… tag to this arc's tags (no location property). -->
+<% locationLine %><!-- One memorable detail each; link the location note. -->
 
 ## Loss State
 

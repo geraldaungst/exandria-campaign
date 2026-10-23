@@ -10,6 +10,7 @@
 # Exclude non-campaign content
 z_*/
 !z_Templates/
+!z_Templates/Scripts/*.js
 Templates/
 DM Screen/
 
