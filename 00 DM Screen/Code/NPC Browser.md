@@ -8,7 +8,7 @@ hide_from_related: true
 
 **Depends on:** [[Shared Helpers]]
 
-**Used by:** [[Prophecy of Eryndor - DM Notes|Prophecy of Eryndor]]
+**Used by:** [[Prophecy of Eryndor - DM|Prophecy of Eryndor]]
 
 Conventions this module relies on:
 
@@ -25,7 +25,7 @@ The block below is plain `jsx`, so it does not run on this page. Notes load it w
 ## Code
 
 ```jsx
-const { cfg, tagsOf, hasTag, isExcluded, S } = await dc.require(dc.headerLink("00 DM Screen/Code/Shared Helpers.md", "Code"));
+const { cfg, tagsOf, hasTag, isExcluded, S, stripDmSuffix } = await dc.require(dc.headerLink("00 DM Screen/Code/Shared Helpers.md", "Code"));
 
 const PREFIX = { world: "world", region: "region", place: "place", faction: cfg().faction_tag_prefix };
 const NONE = "__none__";
@@ -43,9 +43,9 @@ const B = {
 
 /** Tag-safe form of a name: the rule the templates use for world/… tags. */
 const slug = (name) =>
-  String(name ?? "").replace(/ - DM Notes$/i, "").trim().normalize("NFKD").replace(/[̀-ͯ]/g, "").toLowerCase()
+  stripDmSuffix(name).trim().normalize("NFKD").replace(/[̀-ͯ]/g, "").toLowerCase()
     .replace(/&/g, " and ").replace(/['’`]/g, "").replace(/[^a-z0-9_]+/g, "-").replace(/^-+|-+$/g, "");
-const plainName = (p) => String(p.$name ?? p.$path.split("/").pop().replace(/\.md$/, "")).replace(/ - DM Notes$/i, "");
+const plainName = (p) => stripDmSuffix(String(p.$name ?? p.$path.split("/").pop().replace(/\.md$/, "")));
 const underPrefix = (tags, prefix) => tags.filter((t) => t.startsWith(prefix + "/"));
 const deepest = (tags) => tags.filter((t) => !tags.some((o) => o.startsWith(t + "/")));
 const levelsOf = (tag, prefix) => tag.slice(prefix.length + 1).split("/").join(" / ");

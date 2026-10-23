@@ -49,7 +49,7 @@ How this relationship affects the campaign
 
 ### Source Note
 
-[[Xarzith Kitril - DM Notes]]
+[[Xarzith Kitril - DM]]
 
 ## Connected Elements
 

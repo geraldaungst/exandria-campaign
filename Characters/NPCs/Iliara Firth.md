@@ -6,4 +6,4 @@ tags:
   - needs-work
 ---
 
-Iliara Firth is A Chronurgy wizard of the [[Cerberus Assembly - DM Notes]] who has become disillusioned with the direction of the Empire and sees an opportunity with [[Vaud Qalix - DM Notes]] (who will eventually recruit her).
+Iliara Firth is A Chronurgy wizard of the [[Cerberus Assembly - DM]] who has become disillusioned with the direction of the Empire and sees an opportunity with [[Vaud Qalix - DM]] (who will eventually recruit her).

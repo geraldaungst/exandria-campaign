@@ -9,7 +9,7 @@ tags:
   - region/greying-wildlands
 ---
 
-Today Caes Mosor, like the rest of [[Ruins of Molaesmyr - DM Notes|Molaesmyr]], is a ruined shell of its [[Caes Mosor (Historical)|former glory]]. The tower remains standing and is surprisingly intact considering the ravages of time. The tower has eleven levels. They are listed here according to their original purpose, though today they are mostly empty and overgrown:
+Today Caes Mosor, like the rest of [[Ruins of Molaesmyr - DM|Molaesmyr]], is a ruined shell of its [[Caes Mosor (Historical)|former glory]]. The tower remains standing and is surprisingly intact considering the ravages of time. The tower has eleven levels. They are listed here according to their original purpose, though today they are mostly empty and overgrown:
 
 ## 1. Ground floor
 
@@ -43,7 +43,7 @@ This level managed communications, planning, and oversight functions of governme
 
 ## 9. Upper level government functions
 
-On this level were the city treasury (though treasure storage was elsewhere in [[Ruins of Molaesmyr - DM Notes|Molaesmyr]]), military, and diplomatic personnel
+On this level were the city treasury (though treasure storage was elsewhere in [[Ruins of Molaesmyr - DM|Molaesmyr]]), military, and diplomatic personnel
 
 ## 10. Library
 

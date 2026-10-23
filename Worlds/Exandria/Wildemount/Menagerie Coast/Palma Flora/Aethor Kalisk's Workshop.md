@@ -42,7 +42,7 @@ Notable Features:
 
 ### Source Notes
 
-[[Aethor Kalisk - DM Notes]]
+[[Aethor Kalisk - DM]]
 
 ## Connected Elements
 

@@ -4,7 +4,7 @@ hide_from_related: true
 
 **Purpose:** The configuration reader (settings from [[Hub Config]]) and general utilities every other module uses: reading links, tags, and dates from notes; reading a note's text; finding and making notes and folders with capitals ignored; base styles. Nothing here knows about campaigns, sessions, or calendars.
 
-**Exports:** `CONFIG_PATH`, `CONFIG_DEFAULTS`, `cfg`, `linkPath`, `asList`, `statusOf`, `shortName`, `num`, `dateText`, `S`, `pad`, `todayDay`, `dayOf`, `rawText`, `isExcluded`, `tagsOf`, `hasTag`, `inFolder`, `findPath`, `ensureFolder`, `availablePath`, `daysBetween`, `useNoteText`, `stripComments`, `escapeRe`, `bulletValue`, `numberRanges`
+**Exports:** `CONFIG_PATH`, `CONFIG_DEFAULTS`, `cfg`, `linkPath`, `asList`, `statusOf`, `shortName`, `dmSuffix`, `stripDmSuffix`, `num`, `dateText`, `S`, `pad`, `todayDay`, `dayOf`, `rawText`, `isExcluded`, `tagsOf`, `hasTag`, `inFolder`, `findPath`, `ensureFolder`, `availablePath`, `daysBetween`, `useNoteText`, `stripComments`, `escapeRe`, `bulletValue`, `numberRanges`
 
 **Depends on:** none
 
@@ -21,6 +21,7 @@ The block below is plain `jsx`, so it does not run on this page. Notes load it w
 const CONFIG_PATH = "00 DM Screen/Code/Hub Config.md";
 const CONFIG_DEFAULTS = {
   party_card_note: "00 DM Screen/Party Card Data.md",
+  dm_note_suffix: " - DM",
   tag_session: "session",
   tag_arc: "arc",
   tag_plot: "plot",
@@ -106,7 +107,14 @@ const linkPath = (v) => {
 };
 const asList = (v) => (v === null || v === undefined || v === "" ? [] : Array.isArray(v) ? v : [v]);
 const statusOf = (p) => String(p.value("status") ?? "").toLowerCase();
-const shortName = (p) => p.$name.replace(/ - DM Notes$/, "");
+/** The suffix of a DM note that has a Player Wiki twin ("Rexxentrum - DM"): Hub Config's dm_note_suffix. */
+const dmSuffix = () => cfg().dm_note_suffix;
+/** A note name without that suffix (capitals ignored). */
+const stripDmSuffix = (name) => {
+  const text = String(name ?? ""), suffix = dmSuffix();
+  return suffix && text.toLowerCase().endsWith(suffix.toLowerCase()) ? text.slice(0, -suffix.length) : text;
+};
+const shortName = (p) => stripDmSuffix(p.$name);
 const num = (v) => (v === null || v === undefined || v === "" ? -Infinity : Number(v));
 const dateText = (v) => {
   if (!v) return "";
@@ -227,5 +235,5 @@ function numberRanges(nums) {
   return parts.join(", ");
 }
 
-return { CONFIG_PATH, CONFIG_DEFAULTS, cfg, linkPath, asList, statusOf, shortName, num, dateText, S, pad, todayDay, dayOf, rawText, isExcluded, tagsOf, hasTag, inFolder, findPath, ensureFolder, availablePath, daysBetween, useNoteText, stripComments, escapeRe, bulletValue, numberRanges };
+return { CONFIG_PATH, CONFIG_DEFAULTS, cfg, linkPath, asList, statusOf, shortName, dmSuffix, stripDmSuffix, num, dateText, S, pad, todayDay, dayOf, rawText, isExcluded, tagsOf, hasTag, inFolder, findPath, ensureFolder, availablePath, daysBetween, useNoteText, stripComments, escapeRe, bulletValue, numberRanges };
 ```

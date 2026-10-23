@@ -37,7 +37,7 @@ Related notes: [[DM Hubs Design]] (hub rules, campaign notes, session date field
 - Quick-capture stubs carry `needs-work`. NPC, faction and item stubs go straight to their normal folders; location and shop stubs go to the `Stubs` folder inside the campaign folder (2026-10-20).
 
 **Naming and events**
-- A DM note gets the " - DM Notes" suffix only when a player-facing note on the same subject exists; the player note takes the plain name. Note titles avoid parentheses and underscores (2026-10-04).
+- A DM note gets the " - DM" suffix only when a player-facing note on the same subject exists; the player note takes the plain name. Note titles avoid parentheses and underscores (2026-10-04).
 - Calendarium events come only from notes with `fc-date` (sessions) and notes tagged `inline-events`. "Parse note titles for event dates" stays off (2026-10-21).
 
 ### Tag scheme (what the vault does)

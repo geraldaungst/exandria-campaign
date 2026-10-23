@@ -37,7 +37,7 @@ Subnote of [[Aveqtaro Thaan]]: everything she can tell the party, by topic, with
 - A3 · What improper Beacon positioning does: temporal shear, harm to the operators, Beacon overload.
 - A3 · The stabilization ritual for assembly: preparing and positioning the Beacon (step 4), and why the final assembly must run with it active (step 5). See [[Lorestone - Assembly Ritual]].
 - A3 · The prophecy's "beacon bright" is a Luxon Beacon, not the Lorestone.
-- Sources: [[Luxon Beacon Integration with Lorestone]], [[Lorestone of Eryndor - DM Notes]].
+- Sources: [[Luxon Beacon Integration with Lorestone]], [[Lorestone of Eryndor - DM]].
 
 ## Cadariel and Eryndor
 
@@ -60,7 +60,7 @@ Subnote of [[Aveqtaro Thaan]]: everything she can tell the party, by topic, with
 
 ## Source
 
-Seeded from [[Aveqtaro Thaan]] (Current Situation and Hidden Information), [[Cadariel Ordo]], [[Luxon Beacon Integration with Lorestone]], [[Luxon Beacon Political Consequences]], [[Lorestone - Assembly Ritual]], and [[Lorestone of Eryndor - DM Notes]], 22 October 2026. Stage placements follow the stage definitions in [[Aveqtaro Memory Recovery Tracker]].
+Seeded from [[Aveqtaro Thaan]] (Current Situation and Hidden Information), [[Cadariel Ordo]], [[Luxon Beacon Integration with Lorestone]], [[Luxon Beacon Political Consequences]], [[Lorestone - Assembly Ritual]], and [[Lorestone of Eryndor - DM]], 22 October 2026. Stage placements follow the stage definitions in [[Aveqtaro Memory Recovery Tracker]].
 
 ## Connected Elements
 

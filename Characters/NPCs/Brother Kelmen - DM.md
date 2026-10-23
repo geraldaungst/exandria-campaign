@@ -10,7 +10,7 @@ tags:
 
 # Quick Reference
 > [!info] Essential Details
-> - **Location:** Spirit bound in [[Solvei's Vigilance]], the longbow Qilynn carries. Formerly the memorial chamber of [[Monastery of Dimensional Harmony - DM Notes|the Monastery of Dimensional Harmony]].
+> - **Location:** Spirit bound in [[Solvei's Vigilance]], the longbow Qilynn carries. Formerly the memorial chamber of [[Monastery of Dimensional Harmony - DM|the Monastery of Dimensional Harmony]].
 > - **Goal:** Complete what the monks began. Now that the ritual is done, to understand what the party is doing with the Lorestone and to share what he knows.
 > - **Attitude toward party:** Grateful. They stood as his witnesses.
 > - **Key knowledge:** Dimensional manipulation needs a stabilizing counterweight of equal and opposite resonance (no faction knows this). The monks detected a resonant object inside the Feywild. A second failure, about 50 years after the monastery's, matches the Molaesmyr collapse. Details: [[Kelmen and Popcorn Connections]].
@@ -33,7 +33,7 @@ Firbolg monk of the Monastery of Dimensional Harmony, dead for about 300 years. 
 > - On learning of the Lorestone he recognizes that the monks tried by technique what needed an artifact. See [[Kelmen and Popcorn Connections]].
 
 > [!note]- Background
-> Monk of the Monastery of Dimensional Harmony. When the floor above the lower chamber collapsed, his ritual was left unfinished and his spirit stayed in the memorial chamber for 300 years. He could not cross to the breach until the party cleansed Area 22. Encounter and ritual: [[Monastery of Dimensional Harmony - DM Notes]]. Player version: [[Brother Kelmen]].
+> Monk of the Monastery of Dimensional Harmony. When the floor above the lower chamber collapsed, his ritual was left unfinished and his spirit stayed in the memorial chamber for 300 years. He could not cross to the breach until the party cleansed Area 22. Encounter and ritual: [[Monastery of Dimensional Harmony - DM]]. Player version: [[Brother Kelmen]].
 
 ## Connected Elements
 

@@ -12,10 +12,10 @@ tags:
 ## Quick Reference
 
 > [!info] Essential Details
-> - **Location:** [[Shrine of Melora - DM Notes|The Shrine of Melora]]
-> - **Goal:** Support [[Rinneth Starsong - DM Notes]] and oppose the [[Obsidian Echoforge - DM Notes]]
+> - **Location:** [[Shrine of Melora - DM|The Shrine of Melora]]
+> - **Goal:** Support [[Rinneth Starsong - DM]] and oppose the [[Obsidian Echoforge - DM]]
 > - **Attitude toward party:** Wary
-> - **Key role:** High-ranking [[Malachite Cord - DM Notes]] member; Cord's inner circle alongside [[Kael Dren'eth]]
+> - **Key role:** High-ranking [[Malachite Cord - DM]] member; Cord's inner circle alongside [[Kael Dren'eth]]
 
 ## Description & Roleplay
 
@@ -29,29 +29,29 @@ Attractive woman, lean and moderately muscular. Large tan jacket, well-kept copp
 
 ## Current Situation
 
-Recently returned from the Whitestone festival via the [[Sessions 1 to 3 - The Skyship|Unshaken]], where she was selling Cithrel Textiles goods as cover. Followed [[Aethor Kalisk - DM Notes]] around [[Port Damali - DM Notes]], gathering intelligence on his activities. Now stationed at [[Shrine of Melora - DM Notes|The Shrine of Melora]] reporting to [[Rinneth Starsong - DM Notes]].
+Recently returned from the Whitestone festival via the [[Sessions 1 to 3 - The Skyship|Unshaken]], where she was selling Cithrel Textiles goods as cover. Followed [[Aethor Kalisk - DM]] around [[Port Damali - DM]], gathering intelligence on his activities. Now stationed at [[Shrine of Melora - DM|The Shrine of Melora]] reporting to [[Rinneth Starsong - DM]].
 
 **Immediate plans:** Recover [[Radelia's Leather Satchel]], then return home to [[Odessloe]].
 
-**Secondary goal:** Maintain and grow her textile business as cover for [[Malachite Cord - DM Notes]] activities.
+**Secondary goal:** Maintain and grow her textile business as cover for [[Malachite Cord - DM]] activities.
 
 > [!note]- Intelligence on Aethor Kalisk (Session 19)
-> Gathered during surveillance in [[Port Damali - DM Notes]]. Revealed during [[Session 19 - Interrogating Radelia]]:
+> Gathered during surveillance in [[Port Damali - DM]]. Revealed during [[Session 19 - Interrogating Radelia]]:
 >
 > **Revealed to party:**
 > - [x] Aethor met with [[Calderax Dunhall]] at The Sunset Sail tavern in the Larboard Light
 > - [x] Carries a distinctive satchel filled with scrolls and documents
 > - [x] Often seems distracted or lost in thought while walking the streets
-> - [x] Stays at [[The Pudgy Pigeon - DM Notes]], second floor
-> - [x] Works for the [[Obsidian Echoforge - DM Notes]] as a key researcher
-> - [x] Overheard discussions about the [[Lorestone of Eryndor - DM Notes]]
+> - [x] Stays at [[The Pudgy Pigeon - DM]], second floor
+> - [x] Works for the [[Obsidian Echoforge - DM]] as a key researcher
+> - [x] Overheard discussions about the [[Lorestone of Eryndor - DM]]
 > - [x] Has made multiple trips to the Cobalt Soul library
 > - [x] Seems to be searching for something specific in Port Damali separate from Calderax
 > - [x] Has been asking subtle questions about planar disturbances
-> - [x] Calderax also met with a woman named [[Dreyara Drimvar - DM Notes]] who was also asking about the shard
-> - [x] Dreyara mentioned [[Valen Elderguard]], leader of the [[Emissaries of the Sunfall - DM Notes]]
+> - [x] Calderax also met with a woman named [[Dreyara Drimvar - DM]] who was also asking about the shard
+> - [x] Dreyara mentioned [[Valen Elderguard]], leader of the [[Emissaries of the Sunfall - DM]]
 > - [x] Dreyara mentioned someone called "The Eye"
-> - [x] (via [[Rinneth Starsong - DM Notes]]) The Emissaries were once enemies of the Echoforge but are now working together
+> - [x] (via [[Rinneth Starsong - DM]]) The Emissaries were once enemies of the Echoforge but are now working together
 > 
 > **Not yet revealed:**
 > - [ ] Overheard Aethor asking merchants about electrum filament and star iron

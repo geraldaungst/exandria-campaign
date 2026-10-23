@@ -23,7 +23,7 @@ Standing adjudications for this campaign. Once a ruling is here, it applies cons
 
 ### Planar Detection Range
 
-Applies to [[Lorestone of Eryndor - DM Notes|Lorestone]] shards and any comparable detection property.
+Applies to [[Lorestone of Eryndor - DM|Lorestone]] shards and any comparable detection property.
 
 **Principle:** Detection radius scales with the strength of the planar disturbance. A listed radius is the *maximum*, for a fully open, active rift. Weaker disturbances register proportionally closer, and intensity increases with proximity within that range.
 

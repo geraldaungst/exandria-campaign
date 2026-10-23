@@ -10,6 +10,6 @@ tags:
   - faction/cobalt-soul
 ---
 
-Halfling archivist in the [[Port Damali - DM Notes]] [[Cobalt Soul Archive in Port Damali - DM Notes|Cobalt Soul Archive]]. Helped the players learn about the [[The Prophecy|prophecy]] and the [[Lorestone of Eryndor - DM Notes]].
+Halfling archivist in the [[Port Damali - DM]] [[Cobalt Soul Archive in Port Damali - DM|Cobalt Soul Archive]]. Helped the players learn about the [[The Prophecy|prophecy]] and the [[Lorestone of Eryndor - DM]].
 
 Knows [[Archivist Ovedo]]. (Need to flesh out the relationship.)

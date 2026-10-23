@@ -13,18 +13,18 @@ hide_from_related: true
 Conventions this module relies on:
 
 - **Tonight's cast.** The session is the next one dated today or later; with none, the last one played. Its links are read from the note text, with `<!-- comments -->` and embeds (`![[...]]`) left out, so a link inside a comment does not count. The arc named in the session's `arc` property is read the same way and shown in a collapsed group.
-- **What counts as cast.** A linked note tagged `npc`, `location`, `faction`, or `artifact` (names in [[Hub Config]]). Notes in the Player Wiki folder and in excluded folders are not listed. A link that lands on a Player Wiki note shows that note's DM twin instead, the note named `<name> - DM Notes` (or the same name outside the Player Wiki), so a DM note and its player-facing twin do not both appear. A Player Wiki note with no DM twin is left out. When an entry has a Player Wiki twin, a "player wiki" link beside it opens what the players have been told.
+- **What counts as cast.** A linked note tagged `npc`, `location`, `faction`, or `artifact` (names in [[Hub Config]]). Notes in the Player Wiki folder and in excluded folders are not listed. A link that lands on a Player Wiki note shows that note's DM twin instead, the note named `<name> - DM` (or the same name outside the Player Wiki), so a DM note and its player-facing twin do not both appear. A Player Wiki note with no DM twin is left out. When an entry has a Player Wiki twin, a "player wiki" link beside it opens what the players have been told.
 - **Quick Reference.** Each entry opens to the `Quick Reference` section of its note, loaded when you open the entry. A note with no such heading says so.
 - **No note yet.** A link that matches no note gets a kind picker and a Create button. It builds the same stub as [[Quick Capture]] and links it to the session. The stub takes the link's name, so the original link starts working.
 - **Where are we.** The place is the link in the `Party location` bullet under `Where we left off` in the last played session (names in [[Hub Config]]). A link that lands on a Player Wiki note counts for its DM twin too. Under it: NPCs tagged with the place's own `place/…` tag or a tag nested under it ("here now"; a place note with no place tag matches on its name), then every other NPC, faction, item, plot thread, and arc whose note links to the place (body or properties), with no counts. Arcs with `status: complete` and session notes are not listed.
-- **Locations here vs. mentioned.** A location is in the place when its note sits inside the folder of the place's note (the folder named for the place, holding a note of the same name, with or without " - DM Notes"; subfolders count; the Player Wiki twin's folder works too), or when it sets `located_in: "[[Place]]"`. Those are "Locations here" whether or not they link to the place. Locations that only link to it go in a collapsed "Mentioned, not located here" group. A Party location with no link shows its text and says to link the place.
+- **Locations here vs. mentioned.** A location is in the place when its note sits inside the folder of the place's note (the folder named for the place, holding a note of the same name, with or without " - DM"; subfolders count; the Player Wiki twin's folder works too), or when it sets `located_in: "[[Place]]"`. Those are "Locations here" whether or not they link to the place. Locations that only link to it go in a collapsed "Mentioned, not located here" group. A Party location with no link shows its text and says to link the place.
 
 The block below is plain `jsx`, so it does not run on this page. Notes load it with `dc.require(dc.headerLink("00 DM Screen/Code/Session Hub Table.md", "Code"))`. After editing, reopen any note that uses it. Design: [[DM Hubs Design]].
 
 ## Code
 
 ```jsx
-const { cfg, linkPath, hasTag, tagsOf, isExcluded, statusOf, useNoteText, stripComments, S } = await dc.require(dc.headerLink("00 DM Screen/Code/Shared Helpers.md", "Code"));
+const { cfg, linkPath, hasTag, tagsOf, isExcluded, statusOf, useNoteText, stripComments, S, dmSuffix, stripDmSuffix } = await dc.require(dc.headerLink("00 DM Screen/Code/Shared Helpers.md", "Code"));
 
 const { useActiveCampaign, useSessionState } = await dc.require(dc.headerLink("00 DM Screen/Code/Campaign State.md", "Code"));
 
@@ -105,11 +105,11 @@ function castOf(text, sourcePath, byPath, wikiByName, skip) {
     let page = byPath.get(path);
     if (!page && path.startsWith(c.folder_player_wiki + "/")) {
       const name = path.split("/").pop().replace(/\.md$/, "").toLowerCase();
-      page = byName.get(`${name} - dm notes`) ?? byName.get(name);
+      page = byName.get(`${name}${dmSuffix().toLowerCase()}`) ?? byName.get(name);
     }
     if (!page || taken.has(page.$path) || skip.has(page.$path)) continue;
     taken.add(page.$path);
-    const wiki = wikiByName.get(page.$name.replace(/ - DM Notes$/i, "").toLowerCase()) ?? null;
+    const wiki = wikiByName.get(stripDmSuffix(page.$name).toLowerCase()) ?? null;
     groups[kindOf(page)].push({ page, wiki });
   }
   return { groups, missing, paths: taken };
@@ -230,11 +230,11 @@ const HERE_ORDER = [
 const noteBase = (path) => path.split("/").pop().replace(/\.md$/, "");
 // Tag-safe form of a note name: the same rule the templates use to build place/… tags.
 const placeSlug = (name) =>
-  String(name).replace(/ - DM Notes$/i, "").trim().normalize("NFKD").replace(/[\u0300-\u036f]/g, "").toLowerCase()
+  stripDmSuffix(String(name)).trim().normalize("NFKD").replace(/[\u0300-\u036f]/g, "").toLowerCase()
     .replace(/&/g, " and ").replace(/['’`]/g, "").replace(/[^a-z0-9_]+/g, "-").replace(/^-+|-+$/g, "");
-const placeKey = (name) => name.replace(/ - DM Notes$/i, "").trim().toLowerCase();
+const placeKey = (name) => stripDmSuffix(name).trim().toLowerCase();
 
-/** The folder a place's note is the folder note of ("Rexxentrum/Rexxentrum - DM Notes.md"), or null. */
+/** The folder a place's note is the folder note of ("Rexxentrum/Rexxentrum - DM.md"), or null. */
 function folderOfPlace(path) {
   const parts = path.split("/");
   if (parts.length < 2) return null;
@@ -279,8 +279,8 @@ function WhereAreWe() {
     targets.add(path);
     const inWiki = path.startsWith(c.folder_player_wiki + "/");
     const base = path.split("/").pop().replace(/\.md$/, "").toLowerCase();
-    const dm = inWiki ? byName.get(`${base} - dm notes`) ?? byName.get(base) : pages.get(path);
-    const wiki = inWiki ? wikiByName.get(base) : wikiByName.get(base.replace(/ - dm notes$/, ""));
+    const dm = inWiki ? byName.get(`${base}${dmSuffix().toLowerCase()}`) ?? byName.get(base) : pages.get(path);
+    const wiki = inWiki ? wikiByName.get(base) : wikiByName.get(stripDmSuffix(base));
     if (dm) {
       targets.add(dm.$path);
       places.push({ page: dm, wiki: wiki ?? null });
@@ -355,7 +355,7 @@ function WhereAreWe() {
     else if (kind) groups[kind].push(p);
   }
   const shown = HERE_ORDER.filter(([k]) => groups[k].length);
-  const wikiOf = (p) => wikiByName.get(p.$name.replace(/ - DM Notes$/i, "").toLowerCase()) ?? null;
+  const wikiOf = (p) => wikiByName.get(stripDmSuffix(p.$name).toLowerCase()) ?? null;
 
   return (
     <div style={T.wrap}>

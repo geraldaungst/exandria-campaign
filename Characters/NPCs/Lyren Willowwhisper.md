@@ -14,7 +14,7 @@ tags:
 
 > [!info] Essential Details
 > - **Location:** [[Palma Flora]] (Echoforge headquarters)
-> - **Goal:** Assemble the [[Lorestone of Eryndor - DM Notes]] and close the rifts before it's too late
+> - **Goal:** Assemble the [[Lorestone of Eryndor - DM]] and close the rifts before it's too late
 > - **Attitude toward party:** Grateful, respectful—sees them as proven allies worth investing in
 > - **Key knowledge:** Holds Shards 1-4, Willowwhisper lineage history, Echoforge operations and intelligence network
 
@@ -30,15 +30,15 @@ Youthful exuberance despite the weight she carries. Tall for her lineage, deep b
 
 ## Current Situation
 
-Based at [[Palma Flora]], leading the [[Obsidian Echoforge - DM Notes]]'s operations. Holds Shards 1-4 in a magically locked and trapped chest. Has [[Aethor Kalisk - DM Notes]] deployed to [[Port Damali - DM Notes]] pursuing leads on additional shards.
+Based at [[Palma Flora]], leading the [[Obsidian Echoforge - DM]]'s operations. Holds Shards 1-4 in a magically locked and trapped chest. Has [[Aethor Kalisk - DM]] deployed to [[Port Damali - DM]] pursuing leads on additional shards.
 
-Growing increasingly urgent about the rift situation—the rifts are worsening, Qalix is stealing shards, and the [[Malachite Cord - DM Notes]] is obstructing rather than helping. She believes delay costs lives, and she's not entirely wrong.
+Growing increasingly urgent about the rift situation—the rifts are worsening, Qalix is stealing shards, and the [[Malachite Cord - DM]] is obstructing rather than helping. She believes delay costs lives, and she's not entirely wrong.
 
 **Key relationships:**
 
 - [[Veyda Willowwhisper]]—aunt, former leader, now advisor. Genuine bond complicated by legacy and Veyda's unspoken guilt.
-- [[Aethor Kalisk - DM Notes]]—trusted researcher. She speaks of him warmly: "He speaks highly of you, and Aethor doesn't speak highly of anyone."
-- [[Malachite Cord - DM Notes]] / [[Rinneth Starsong - DM Notes]]—views them as well-meaning obstructionists whose caution is going to get people killed
+- [[Aethor Kalisk - DM]]—trusted researcher. She speaks of him warmly: "He speaks highly of you, and Aethor doesn't speak highly of anyone."
+- [[Malachite Cord - DM]] / [[Rinneth Starsong - DM]]—views them as well-meaning obstructionists whose caution is going to get people killed
 
 > [!secret]- Hidden Information
 > **What she doesn't know:**
@@ -52,7 +52,7 @@ Growing increasingly urgent about the rift situation—the rifts are worsening, 
 > - Her urgency isn't purely strategic; she feels the Willowwhisper legacy as personal debt and fears being the leader who failed after 400 years of progress
 > 
 > **Potential "oh wait" triggers—moments where the party's interests and Lyren's diverge:**
-> - **Shard 5 (Rexxentrum Archive):** If the party builds a relationship with the [[Cobalt Soul - DM Notes]] or [[Archivist Ovedo]], Lyren may push for taking the shard by whatever means necessary—including theft or political pressure—while the party may want to negotiate or respect Ovedo's caution
+> - **Shard 5 (Rexxentrum Archive):** If the party builds a relationship with the [[Cobalt Soul - DM]] or [[Archivist Ovedo]], Lyren may push for taking the shard by whatever means necessary—including theft or political pressure—while the party may want to negotiate or respect Ovedo's caution
 > - **Shard 6 (Dreyara):** If the party has an opportunity to trade the shard for something they need (Drawg's blade, information, safe passage), Lyren would view any deal that doesn't end with the shard in Echoforge hands as betrayal of their alliance
 > - **Shard 7 (Shoagragoth's hoard):** If recovering it requires a dangerous expedition, Lyren would expect the party to prioritize it even if they have personal quests pulling them elsewhere—the shards come first, always
 > - **The Luxon Beacon:** When the party learns the Lorestone alone isn't enough, Lyren's first instinct will be to acquire the Beacon immediately, including from the Kryn Dynasty by force or subterfuge if needed. The party may see diplomatic or cautious approaches she'd reject as too slow
@@ -61,9 +61,9 @@ Growing increasingly urgent about the rift situation—the rifts are worsening, 
 > **Design note:** These aren't scripted betrayals. They're pressure points where Lyren's genuine urgency and the party's broader perspective will naturally create friction. Let them emerge from play rather than forcing them.
 
 > [!note]- Background
-> Current leader of the [[Obsidian Echoforge - DM Notes]], carrying a 400-year Willowwhisper family legacy. Her mother Selene died on an expedition when Lyren was a child; her aunt [[Veyda Willowwhisper]] raised her and led the organization until disappearing during an expedition in the Shattered Teeth. Lyren was named leader in Veyda's absence—not unanimously, with a faction led by Caelum Silverstride arguing for merit over bloodline. When Veyda returned alive months later, she publicly endorsed Lyren and stepped into an advisory role, stabilizing the transition but not fully silencing the doubters.
+> Current leader of the [[Obsidian Echoforge - DM]], carrying a 400-year Willowwhisper family legacy. Her mother Selene died on an expedition when Lyren was a child; her aunt [[Veyda Willowwhisper]] raised her and led the organization until disappearing during an expedition in the Shattered Teeth. Lyren was named leader in Veyda's absence—not unanimously, with a faction led by Caelum Silverstride arguing for merit over bloodline. When Veyda returned alive months later, she publicly endorsed Lyren and stepped into an advisory role, stabilizing the transition but not fully silencing the doubters.
 >
-> Recruited [[Aethor Kalisk - DM Notes]] after he saved her life during an ambush in [[Hupperdook]]. It took years of persistence before he agreed to join—she won him over by showing him a Lorestone fragment that resonated with his research.
+> Recruited [[Aethor Kalisk - DM]] after he saved her life during an ambush in [[Hupperdook]]. It took years of persistence before he agreed to join—she won him over by showing him a Lorestone fragment that resonated with his research.
 
 ## Connected Elements
 

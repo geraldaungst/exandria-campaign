@@ -36,7 +36,7 @@ Berinon is missing the middle finger of his right hand. Any time someone asks hi
 
 ### Personality Traits
 
-He is very selfish. He is very courageous, to a fault. He always carries food in his pockets. He knows all the gossip around [[Port Damali - DM Notes]].
+He is very selfish. He is very courageous, to a fault. He always carries food in his pockets. He knows all the gossip around [[Port Damali - DM]].
 
 Catchphrases:
 

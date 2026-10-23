@@ -52,11 +52,11 @@ Comes from the Elderguard family, known for shadow magic prowess. Rose to promin
 > [!secret]- DM Only
 > - Secret motivations: Believes power and control are the only reliable means of securing peace
 > - Unknown connections:
->   - Reports directly to [[Vaud Qalix - DM Notes]]
+>   - Reports directly to [[Vaud Qalix - DM]]
 >   - Has recruited [[Eledyr Dephar]] using Clasp connections
 > - Operations:
 >   - Orchestrated failed skyjacking of the *Unshaken*
->   - Targeting [[Aethor Kalisk - DM Notes]] and [[Obsidian Echoforge - DM Notes]] operations
+>   - Targeting [[Aethor Kalisk - DM]] and [[Obsidian Echoforge - DM]] operations
 > ## Meeting Locations
 > - Public/Legitimate: Scroll and Scribe, used for Emissary business and occasional quiet recruitment
 > - Secret: Three-story townhouse in Pearls' Rest district

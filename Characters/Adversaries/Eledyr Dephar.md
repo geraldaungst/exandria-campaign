@@ -15,7 +15,7 @@ tags:
 
 > [!info] Essential Details
 >
-> - Current Location: [[Rexxentrum - DM Notes]] ([[Scroll and Scribe]], Valen's townhouse)
+> - Current Location: [[Rexxentrum - DM]] ([[Scroll and Scribe]], Valen's townhouse)
 > - Key Motivation: Climb Clasp ranks while serving Emissary goals; personal vendetta against Qilynn
 > - Attitude toward party: Unknown/Hostile (unaware of party but opposes their likely allies)
 > - Critical Knowledge: In section below [What Eledyr Knows]
@@ -54,7 +54,7 @@ tags:
 
 ## Current Situation
 
-Currently operating dual identities in Rexxentrum. As an academic researcher, he frequents the Scroll and Scribe and various libraries investigating prophecy-related inquiries. As an Emissary operative, he meets with [[Valen Elderguard]] at the secret townhouse to plan operations against rival factions. Recently arrived to begin comprehensive intelligence gathering on the sudden interest in ancient prophecies, with particular focus on tracking [[Obsidian Echoforge - DM Notes]] activities and identifying other competing factions.
+Currently operating dual identities in Rexxentrum. As an academic researcher, he frequents the Scroll and Scribe and various libraries investigating prophecy-related inquiries. As an Emissary operative, he meets with [[Valen Elderguard]] at the secret townhouse to plan operations against rival factions. Recently arrived to begin comprehensive intelligence gathering on the sudden interest in ancient prophecies, with particular focus on tracking [[Obsidian Echoforge - DM]] activities and identifying other competing factions.
 
 ## Background
 
@@ -82,8 +82,8 @@ Eledyr Dephar was born to a human mother and an elven father, growing up amidst 
 >     - Reports directly to [[Valen Elderguard]] via coded communications
 >     - Has established academic credentials that can withstand scrutiny
 >     - Maintains emergency escape routes and false identities
->     - **Secret Recruitment:** Was recruited by [[Valen Elderguard]] to use Clasp connections to help the [[Emissaries of the Sunfall - DM Notes]]
-> - **Future plans:** [[Eledyr's 3-Month Operation Checklist]]
+>     - **Secret Recruitment:** Was recruited by [[Valen Elderguard]] to use Clasp connections to help the [[Emissaries of the Sunfall - DM]]
+> - **Future plans:** see Operation Notes below
 >     - Phase 1: Map all competing factions and their capabilities
 >     - Phase 2: Identify most vulnerable operations for sabotage/infiltration
 >     - Phase 3: Deploy to field operations to directly interfere with rivals
@@ -114,9 +114,9 @@ Eledyr Dephar was born to a human mother and an elven father, growing up amidst 
 > ## What Eledyr Knows
 >
 > 1. The existence of a [[The Prophecy|prophecy]] that speaks of three symbols or factions (Crown, Shield, and Tree) and their roles in Exandria's fate.
-> 2. The [[Lorestone of Eryndor - DM Notes]] is a 2-foot diameter obsidian disc engraved with the Prophecy in an ancient dialect of Elvish.
+> 2. The [[Lorestone of Eryndor - DM]] is a 2-foot diameter obsidian disc engraved with the Prophecy in an ancient dialect of Elvish.
 > 3. The Lorestone was shattered during the Calamity, and its pieces were scattered across the Shattered Teeth and beyond.
-> 4. The [[Obsidian Echoforge - DM Notes]], founded by Lys Willowwhisper, has been searching for the Lorestone pieces for centuries.
+> 4. The [[Obsidian Echoforge - DM]], founded by Lys Willowwhisper, has been searching for the Lorestone pieces for centuries.
 > 5. The Obsidian Echoforge believes that the Lorestone is a "beacon" mentioned in the prophecy that can seal rifts appearing across Wildemount.
 > 6. Individual shards of the Lorestone have magical properties, including the ability to sense nearby planar rifts and grant phase-shifting abilities to their bearers.
 > 7. The Obsidian Echoforge is represented by the "Tree" symbol in the prophecy and is actively seeking to assemble the Lorestone.
@@ -124,6 +124,44 @@ Eledyr Dephar was born to a human mother and an elven father, growing up amidst 
 > 9. Rifts have begun to appear across Wildemount, and some believe these rifts are symbolic and have a pattern. Eledyr believes they are related to the phases of Catha and Ruidus. (This is not actually true, though Eledyr believes it very strongly.)
 > 10. The existence of a group called the Emissaries of the Sunfall, who believe the rifts are an opportunity for the gods to return to Exandria (though Eledyr might have limited or no knowledge about their specific goals or activities).
 > 11. Eledyr has uncovered evidence suggesting that the prophecy has multiple valid interpretations, each leading to a different outcome. He will not share how he knows this, but it is based on speculations by the Drow that there are additional shards with more verses.
+
+> [!secret]- Operation Notes
+>
+> Kept from the retired 3-month plan. What he may have learned depends on where he has been and for how long; nothing here is tied to a date or place.
+>
+> **Intelligence he may hold**
+>
+> - At least three groups are researching the same prophecy, and inquiries have tripled in two months.
+> - The Cerberus Assembly reads the prophecy as rifts that can be controlled or weaponized, not sealed.
+> - The Malachite Cord exists and opposes assembling the Lorestone, fearing another Molaesmyr.
+> - The Echoforge's main facility is at Palma Flora: heavily defended, with predictable supply and staffing schedules.
+> - The Assembly is planning a major expedition to the Draconian ruins for pre-Calamity artifacts and prophecy fragments.
+> - Assembling the Lorestone requires a Luxon Beacon as well as the shards.
+> - Assembly and Echoforge messages mention "new players with important acquisitions" (the party). Intercepted messages could give him their location and goals.
+> - Inquiries about Aelorin trace back to Qilynn's revenge quest, so he knows she or her allies are investigating him.
+>
+> **Moves he can make**
+>
+> - Infiltrate Assembly archives or the Draconian expedition: look for prophecy fragments, sabotage the Assembly if a chance comes.
+> - Infiltrate an Echoforge facility: steal or copy Lorestone research, plant watchers.
+> - Track the party and tally their artifacts and allies.
+>
+> **Triggers**
+>
+> - The party comes into his area: he stops watching and acts.
+> - The Echoforge makes a breakthrough: emergency intervention.
+> - His exposure risk rises: deep cover under a new identity.
+> - The Assembly deploys first: counter-operation.
+> - Valen needs an asset: he drops current work.
+>
+> **Clues the party can find**
+>
+> - Research notes in academic institutions
+> - Black market dealers describing a "well-funded buyer"
+> - Travel document applications for border regions
+> - Equipment purchases that suggest field preparation
+> - Academic gossip about a "suspicious scholar"
+> - Intercepted messages using coded Emissary terms
 
 ## Connected Elements
 

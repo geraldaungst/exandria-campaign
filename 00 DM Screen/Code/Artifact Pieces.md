@@ -18,9 +18,9 @@ Conventions this module relies on:
   `- **25 Thunsheer 835** · holder · <span data-date="835-04-25" data-category="Lorestone" data-name="Shard 6: to Drawg">Taken from Dreyara's body.</span> · [[Drawg]] · at [[Some Place]] · [[Session 47]]`
   Fields are separated by ` · `: the date label in bold, the kind, the description, then any of: who (a link, or plain text such as `Party`), `at` plus a link or plain text, and a session link (any linked note tagged `session`). A dated line wraps its description in a Calendarium span, so it shows on the calendar; an undated line (`**Before the campaign**`) has plain text instead. Kinds: holder, moved, knows exists, knows where, wrong, pursuing, stopped, lines read, ruling, note. Only holder and moved lines change the current state; the others are the record.
 - **Current holder and location.** The holder is the who of the last holder line. The location is the party's location (from the last played session) when the holder is a PC or the party; otherwise the `at` of the last holder or moved line after the holder changed; otherwise the holder's own deepest `place/…` tag, shown as that place's own note (the location note with the tag whose name matches the tag's last part) when there is one.
-- **Who knows** (current state): `- [[Vaud Qalix - DM Notes]] · where · note text · [[Session 25]]`. Levels: `exists` (knows it exists), `where` (knows where it is or who holds it), `wrong` (believes something false about it).
-- **Pursued by** (current state): `- [[Obsidian Echoforge - DM Notes]] · how they go about it · [[Session 28]]`.
-- **Who they share it with** (optional field on a Who knows or Pursued by line, anywhere after the who and level): `personal` keeps the line to the person (`- [[Varnes Dwell - DM Notes|Varnes Dwell]] · where · personal · note`); `shares with [[Clasp - DM Notes|Clasp]], [[Obsidian Echoforge - DM Notes]]` passes it only to the factions named. Without the field, the line counts for all their factions.
+- **Who knows** (current state): `- [[Vaud Qalix - DM]] · where · note text · [[Session 25]]`. Levels: `exists` (knows it exists), `where` (knows where it is or who holds it), `wrong` (believes something false about it).
+- **Pursued by** (current state): `- [[Obsidian Echoforge - DM]] · how they go about it · [[Session 28]]`.
+- **Who they share it with** (optional field on a Who knows or Pursued by line, anywhere after the who and level): `personal` keeps the line to the person (`- [[Varnes Dwell - DM|Varnes Dwell]] · where · personal · note`); `shares with [[Clasp - DM|Clasp]], [[Obsidian Echoforge - DM]]` passes it only to the factions named. Without the field, the line counts for all their factions.
 - **Inscribed lines** come from two notes the hub names: the original text and the version known today (`original` and `modern` props). Each line starts with a label, the piece's number and the line's position on it: `4a Where once-grand spires…`. A modern line carries the label of the original line it comes from; a label in parentheses, `(6b)`, is a line that survived although its piece is lost. Markdown around the text (bold, italics, a link) is ignored. A line's state: **read** once the piece's History has a `lines read` entry; **modern** when only its modern version is known; **unknown** otherwise. With no `original` note, the piece note's own "Prophecy lines" tasks are used instead (ticked = read).
 - **Open questions**: tasks; unticked means open.
 - **Party knowledge** (for the card color): `holds` when the holder is a PC or the party; otherwise the best `Who knows` level of any line about the party or a PC (`where`, `exists`, `wrong`); otherwise none.
@@ -32,7 +32,7 @@ The block below is plain `jsx`, so it does not run on this page. Notes load it w
 ## Code
 
 ```jsx
-const { cfg, tagsOf, isExcluded, stripComments, escapeRe } = await dc.require(dc.headerLink("00 DM Screen/Code/Shared Helpers.md", "Code"));
+const { cfg, tagsOf, isExcluded, stripComments, escapeRe, stripDmSuffix } = await dc.require(dc.headerLink("00 DM Screen/Code/Shared Helpers.md", "Code"));
 
 const SEP = " · ";
 const PIECE_KINDS = ["holder", "moved", "knows exists", "knows where", "wrong", "pursuing", "stopped", "lines read", "ruling", "note"];
@@ -48,7 +48,7 @@ const CODES = [
 
 /** Tag-safe form of a name: the rule the templates use for world/… and place/… tags. */
 const slug = (name) =>
-  String(name ?? "").replace(/ - DM Notes$/i, "").trim().normalize("NFKD").replace(/[̀-ͯ]/g, "").toLowerCase()
+  stripDmSuffix(name).trim().normalize("NFKD").replace(/[̀-ͯ]/g, "").toLowerCase()
     .replace(/&/g, " and ").replace(/['’`]/g, "").replace(/[^a-z0-9_]+/g, "-").replace(/^-+|-+$/g, "");
 
 const pieceTag = (artifactSlug) => `${String(cfg().piece_tag_prefix).replace(/^#/, "").toLowerCase()}/${slug(artifactSlug)}`;
@@ -59,8 +59,8 @@ function pieceNumber(name) {
   return m ? Number(m[0]) : Infinity;
 }
 
-/** "Hesterian Shyr (Dot)" → "Hesterian Shyr"; "Aethor Kalisk - DM Notes" → "Aethor Kalisk". */
-const displayName = (name) => String(name ?? "").replace(/ - DM Notes$/i, "").replace(/\s*\([^)]*\)\s*$/, "").trim();
+/** "Hesterian Shyr (Dot)" → "Hesterian Shyr"; "Aethor Kalisk - DM" → "Aethor Kalisk". */
+const displayName = (name) => stripDmSuffix(name).replace(/\s*\([^)]*\)\s*$/, "").trim();
 
 // ── Reading a piece note ──────────────────────────────────────────
 

@@ -62,7 +62,7 @@ Codes: A0–A3, B0–B3 (stage reached), phase <name>, risk <level>, note. -->
 > | **Party-driven action** | The party deliberately helps her understand | Researching her condition, consulting experts, asking the right questions |
 
 > [!info]- What happens without the party
-> **The Qalix threat:** [[Dreyara Drimvar - DM Notes|Dreyara]], who would have found her, is dead (25 Thunsheer 835). Her network runs on without her, and Qalix's response is undecided (see [[Qalix's Network]]). The danger now comes from whoever takes over her work, and from the network's people in Zadash and Rexxentrum, where both trails to Aveqtaro run. The longer she stays an anomaly (an artisan with inexplicable knowledge, buying forbidden books, pulling away from her den), the likelier she is to appear on their radar. The [[Obsidian Echoforge - DM Notes|Obsidian Echoforge]] is a second risk: when they learn of her, they will mistake her for Eryndor reborn.
+> **The Qalix threat:** [[Dreyara Drimvar - DM|Dreyara]], who would have found her, is dead (25 Thunsheer 835). Her network runs on without her, and Qalix's response is undecided (see [[Qalix's Network]]). The danger now comes from whoever takes over her work, and from the network's people in Zadash and Rexxentrum, where both trails to Aveqtaro run. The longer she stays an anomaly (an artisan with inexplicable knowledge, buying forbidden books, pulling away from her den), the likelier she is to appear on their radar. The [[Obsidian Echoforge - DM|Obsidian Echoforge]] is a second risk: when they learn of her, they will mistake her for Eryndor reborn.
 >
 > | Party investment | Likely convergence | Qalix risk |
 > |---|---|---|

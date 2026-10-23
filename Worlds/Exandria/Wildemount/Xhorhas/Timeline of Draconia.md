@@ -31,7 +31,7 @@ tags:
 
 ### Source Note
 
-[[Xarzith Kitril - DM Notes]]
+[[Xarzith Kitril - DM]]
 
 ## Connected Elements
 

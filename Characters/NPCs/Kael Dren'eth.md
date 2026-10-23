@@ -13,7 +13,7 @@ tags:
 ## Quick Reference
 
 > [!info] Essential Details
-> - Current Location: With the [[Malachite Cord - DM Notes]] at [[Shrine of Melora - DM Notes|The Shrine of Melora]]
+> - Current Location: With the [[Malachite Cord - DM]] at [[Shrine of Melora - DM|The Shrine of Melora]]
 > - Key Motivation: Prove that embracing and mastering chaos is superior to the Ashari's traditional approach
 > - Attitude toward party: Indifferent and wary
 

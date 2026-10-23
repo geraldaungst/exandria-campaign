@@ -13,7 +13,7 @@ tags:
 ## Quick Reference
 
 > [!info] Essential Details
-> - Current Location: Unknown (somewhere in [[Cerberus Assembly - DM Notes]] custody)
+> - Current Location: Unknown (somewhere in [[Cerberus Assembly - DM]] custody)
 > - Key Motivation: Unknown (likely wants to return home)
 > - Attitude toward party: Unknown
 > - Critical Knowledge: Has unique Feywild/Feydark connection abilities
@@ -21,7 +21,7 @@ tags:
 
 ## Description
 
-Melthes is a half-elf with distinctive Feywild magical resonance and abilities related to planar connections, particularly to the Feydark. He was taken by the [[Cerberus Assembly - DM Notes]] at age 16 for exploitation of these abilities.
+Melthes is a half-elf with distinctive Feywild magical resonance and abilities related to planar connections, particularly to the Feydark. He was taken by the [[Cerberus Assembly - DM]] at age 16 for exploitation of these abilities.
 
 ### Appearance
 
@@ -39,7 +39,7 @@ Melthes is a half-elf with distinctive Feywild magical resonance and abilities r
 
 ## Current Situation
 
-Current whereabouts unknown. Last confirmed location was [[Cerberus Assembly - DM Notes]] research facility in [[Rexxentrum - DM Notes]] where he was assigned to [[Isolene Fenzana]]'s research division.
+Current whereabouts unknown. Last confirmed location was [[Cerberus Assembly - DM]] research facility in [[Rexxentrum - DM]] where he was assigned to [[Isolene Fenzana]]'s research division.
 
 **Status:** Has been in Assembly custody since approximately 833 PD. Current condition, exact location, and whether he remains in their custody are all unknown.
 
@@ -48,7 +48,7 @@ Current whereabouts unknown. Last confirmed location was [[Cerberus Assembly - D
 ### Family
 
 - Sister: [[Hesterian Shyr (Dot)|Hesterian Shyr]]
-- Parents: Living in [[Xarzith Kitril - DM Notes]] at time of capture (current status unknown)
+- Parents: Living in [[Xarzith Kitril - DM]] at time of capture (current status unknown)
 - Relationship: Close-knit family; Melthes asked repeatedly about them during intake
 
 ### Abilities
@@ -62,7 +62,7 @@ Current whereabouts unknown. Last confirmed location was [[Cerberus Assembly - D
 
 Full details in [[The Capture of Melthes]].
 
-**Summary:** In approximately 833 PD (about a year after his sister was sold into patronage), Melthes was taken from [[Xarzith Kitril - DM Notes]] by two Volstrucker agents. The Assembly used persuasion and payment to convince his parents that he needed "special care" and training, while secretly intending to exploit his abilities for their research into planar connections.
+**Summary:** In approximately 833 PD (about a year after his sister was sold into patronage), Melthes was taken from [[Xarzith Kitril - DM]] by two Volstrucker agents. The Assembly used persuasion and payment to convince his parents that he needed "special care" and training, while secretly intending to exploit his abilities for their research into planar connections.
 
 **His Response:** During intake and assessment by [[Cree Deeproots]], Melthes was:
 
@@ -73,7 +73,7 @@ Full details in [[The Capture of Melthes]].
 
 ### Assembly's Interest
 
-The [[Cerberus Assembly - DM Notes]] considers Melthes valuable for:
+The [[Cerberus Assembly - DM]] considers Melthes valuable for:
 
 - Navigating and manipulating the Feywild and its energies
 - Expanding their magical prowess and understanding of different planes
@@ -99,15 +99,15 @@ He was recommended for advanced study under [[Isolene Fenzana]]'s research divis
 
 ### Captors/Handlers
 
-- [[Cerberus Assembly - DM Notes]] - Holding organization
+- [[Cerberus Assembly - DM]] - Holding organization
 - [[Isolene Fenzana]] - Oversees research division he was assigned to
 - [[Cree Deeproots]] - Conducted initial magical assessment
-- Two Volstrucker agents (names unknown) - Brought him from [[Xarzith Kitril - DM Notes]]
+- Two Volstrucker agents (names unknown) - Brought him from [[Xarzith Kitril - DM]]
 
 ### Related Locations
 
-- [[Xarzith Kitril - DM Notes]] - Home city
-- [[Rexxentrum - DM Notes]] - Last known location (Assembly facility)
+- [[Xarzith Kitril - DM]] - Home city
+- [[Rexxentrum - DM]] - Last known location (Assembly facility)
 - [[Feywild]]/[[Feydark]] - Source of his abilities
 
 ## Connected Elements

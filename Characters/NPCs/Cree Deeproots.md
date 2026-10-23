@@ -26,13 +26,13 @@ region: Dwendalian Empire
 
 **Current Employer:** [[Korfel Withrethin]] (The Gentleman)
 
-**Employment Duration:** Approximately 2-3 years (since Korfel established himself in [[Zadash - DM Notes]])
+**Employment Duration:** Approximately 2-3 years (since Korfel established himself in [[Zadash - DM]])
 
 **Official Role:** "Specialized consultant" for security and personnel management
 
 #### **Background And Recruitment**
 
-**Previous Affiliation:** Blood magic researcher/test subject for the [[Cerberus Assembly - DM Notes]]
+**Previous Affiliation:** Blood magic researcher/test subject for the [[Cerberus Assembly - DM]]
 
 **Recruitment Method:** Approached by The Gentleman during his rise to power in Zadash.
 
@@ -140,7 +140,7 @@ region: Dwendalian Empire
 - His current criminal operations and organizational structure
 - Some details about his paranoia and control methods
 - His professional capabilities and leadership style
-- **Does NOT know:** His true identity as Korfel Withrethin or his past in [[Port Damali - DM Notes]]
+- **Does NOT know:** His true identity as Korfel Withrethin or his past in [[Port Damali - DM]]
 
 **What She Knows About the Assembly:**
 
@@ -154,7 +154,7 @@ region: Dwendalian Empire
 
 **Timeline:** Approximately 833 PD (about a year after Hesterian was sold)
 
-**Location:** Cerberus Assembly research facility in [[Rexxentrum - DM Notes]]
+**Location:** Cerberus Assembly research facility in [[Rexxentrum - DM]]
 
 **Cree's Role:** Conducted magical assessment of new "acquisition"
 
@@ -220,7 +220,7 @@ Based on Critical Role Campaign 2 information about Cree's employment with The G
 ### Related Characters
 
 - [[Korfel Withrethin]] (The Gentleman) - Current employer and primary loyalty
-- [[Cerberus Assembly - DM Notes]] researchers and personnel - Former colleagues/captors
+- [[Cerberus Assembly - DM]] researchers and personnel - Former colleagues/captors
 - [[Isolene Fenzana]] - Assembly researcher she worked under
 - [[Melthes]] - Young half-elf she processed during Assembly employment
 - [[Hesterian Shyr (Dot)]] - Will likely encounter during infiltration attempts (unknown connection to Melthes)

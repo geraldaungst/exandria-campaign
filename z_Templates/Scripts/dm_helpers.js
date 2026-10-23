@@ -37,7 +37,10 @@ module.exports = function dmHelpers(tp, Notice) {
   // Root of the nested "associated with a faction" tags (faction/…). A faction's own note also carries
   // the type tag C("tag_faction", "organization").
   const FACTION = C("faction_tag_prefix", "faction");
-  const IGNORE_SUFFIXES = [" - DM Notes"]; // removed from note names before they become tags
+  // The suffix of a DM note that has a Player Wiki twin (" - DM"): Hub Config's dm_note_suffix, same as Shared Helpers.
+  const DM_SUFFIX = C("dm_note_suffix", " - DM");
+  const IGNORE_SUFFIXES = [DM_SUFFIX]; // removed from note names before they become tags
+  const stripDm = (name) => (String(name).toLowerCase().endsWith(DM_SUFFIX.toLowerCase()) ? String(name).slice(0, -DM_SUFFIX.length) : String(name));
 
   // ── Text and tags ─────────────────────────────────────────────────
   // Tag-safe segment: lowercase letters, digits, underscore, hyphen.
@@ -164,7 +167,7 @@ module.exports = function dmHelpers(tp, Notice) {
   // The campaign note's `world` property as a plain name ("" when unset).
   const campaignWorld = (f) => String(fmOf(f).world ?? "").replace(/^\[\[|\]\]$/g, "").replace(/\|.*$/, "").trim();
   // The location notes (not Player Wiki pages) among `files` carrying placeTag, and the place's own note:
-  // the one whose name matches the tag's last part ("Rexxentrum - DM Notes" for place/rexxentrum).
+  // the one whose name matches the tag's last part ("Rexxentrum - DM" for place/rexxentrum).
   const placeNoteFor = (placeTag, files) => {
     if (!placeTag) return { note: null, tagged: [] };
     const wiki = C("folder_player_wiki", "Player Wiki") + "/";
@@ -172,9 +175,9 @@ module.exports = function dmHelpers(tp, Notice) {
     const tagged = files.filter((f) => !f.path.startsWith(wiki) && tagsOfFile(f).includes(loc) && tagsOfFile(f).includes(placeTag));
     return { note: tagged.find((f) => slug(f.basename) === placeTag.split("/").pop()) ?? null, tagged };
   };
-  // A wiki-link to a note, shown without " - DM Notes".
+  // A wiki-link to a note, shown without the DM suffix.
   const linkTo = (f) => {
-    const shown = f.basename.replace(/ - DM Notes$/i, "");
+    const shown = stripDm(f.basename);
     const link = app.metadataCache.fileToLinktext(f, "");
     return `[[${link}${shown !== link ? `|${shown}` : ""}]]`;
   };

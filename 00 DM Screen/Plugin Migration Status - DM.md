@@ -214,7 +214,7 @@ Data cleanup (not blocking D8):
 
 Tag scheme (settled 2026-10-21):
 - world/<slug>, region/<slug>, place/<nested path>, faction/<nested path> (sub-factions under the parent, e.g. faction/ashari/terrah), needs-work when no place could be set. Parent tags are dropped when a child is present; file.hasTag("a") matches a/b.
-- Slug rule: strip " - DM Notes", remove diacritics, lowercase, & becomes "and", drop apostrophes, other characters become hyphens.
+- Slug rule: strip " - DM", remove diacritics, lowercase, & becomes "and", drop apostrophes, other characters become hyphens.
 - Bases and search skip folders in Settings > Files & links > Excluded files (z_ folders, Isolated One-Shots).
 - NPC, Faction and Location templates write these tags; Quick Capture NPC stubs no longer write current_location or affiliations.
 - Scripts and reports: z_Reference holds npc_tag_cleanup.py, npc_tag_apply.py, npc_tag_rules.yaml, the Cleanup Report, the Apply Plan, and template-backups (original templates). The retire-properties and location-tag scripts were run from Claude's working folder and are not in the vault.

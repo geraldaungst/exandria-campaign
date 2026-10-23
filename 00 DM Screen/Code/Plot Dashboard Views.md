@@ -15,7 +15,7 @@ The block below is plain `jsx`, so it does not run on this page. Notes load it w
 ## Code
 
 ```jsx
-const { cfg, isExcluded } = await dc.require(dc.headerLink("00 DM Screen/Code/Shared Helpers.md", "Code"));
+const { cfg, isExcluded, stripDmSuffix } = await dc.require(dc.headerLink("00 DM Screen/Code/Shared Helpers.md", "Code"));
 
 // Plot Dashboard (Datacore 0.1.29)
 // One card per plot thread, grouped by stage. Every note connected to a plot
@@ -58,7 +58,7 @@ const tagsOf = (p) => (p.$tags ?? []).map((t) => String(t).replace(/^#/, "").toL
 const hasTag = (p, tag) => tagsOf(p).some((t) => t === tag || t.startsWith(tag + "/"));
 const fileName = (path) => path.split("/").pop().replace(/\.md$/i, "");
 const nameOf = (p) => p.$name ?? fileName(p.$path);
-const shortName = (p) => nameOf(p).replace(/ - DM Notes$/, "");
+const shortName = (p) => stripDmSuffix(nameOf(p));
 
 const prop = (p, key) => {
   try {
@@ -166,7 +166,7 @@ function Val({ v }) {
     );
   }
   if (typeof v === "object" && v.path) return <dc.Link link={v} />;
-  const text = String(v).replace(/^\[\[/, "").replace(/\]\]$/, "").replace(/\|.*$/, "").replace(/ - DM Notes$/, "");
+  const text = stripDmSuffix(String(v).replace(/^\[\[/, "").replace(/\]\]$/, "").replace(/\|.*$/, ""));
   return <span>{text}</span>;
 }
 

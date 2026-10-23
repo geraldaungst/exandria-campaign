@@ -10,7 +10,7 @@ tags:
   - faction/obsidian-echoforge
 ---
 
-Former leader of the [[Obsidian Echoforge - DM Notes]], now serving as advisor to her niece [[Lyren Willowwhisper]]. A firbolg mage of considerable skill, her tenure is best remembered for integrating arcane methods into the group's search—an approach that led to the discovery of the penultimate fragment.
+Former leader of the [[Obsidian Echoforge - DM]], now serving as advisor to her niece [[Lyren Willowwhisper]]. A firbolg mage of considerable skill, her tenure is best remembered for integrating arcane methods into the group's search—an approach that led to the discovery of the penultimate fragment.
 
 *Appearance:* Medium height, lean build, deep blue eyes. Long dark hair streaked with silver. Robes bearing Echoforge symbols; carries an ornate staff passed down through generations.
 

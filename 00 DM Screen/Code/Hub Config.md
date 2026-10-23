@@ -3,6 +3,7 @@ calendar_category_pieces: Lorestone
 calendar_category_sessions: Sessions
 campaign_tag_prefix: campaign/
 data_url_5etools: https://raw.githubusercontent.com/5etools-mirror-3/5etools-src/main/data
+dm_note_suffix: " - DM"
 excluded_folder_prefix: z_
 faction_tag_prefix: faction
 folder_campaigns: Campaigns
@@ -80,6 +81,7 @@ template_session: Session Template
 - **Player characters**: `tag_pc` marks active PCs. A PC who is on hold or gone is tagged `<tag_pc>/inactive` (always that form, like the plot stages) and is left out of the Session Hub's Spotlight.
 - **`status_running` and `statuses_paused`**: arc `status` values for the arc being played and for arcs set aside.
 - **`data_url_5etools`**: the folder address of a 5e.tools data mirror, without a trailing slash. [[Item Data]] downloads `items.json`, `items-base.json`, and `magicvariants.json` from it for the item search.
+- **`dm_note_suffix`**: the suffix of a DM note that has a Player Wiki twin of the plain name (`Rexxentrum - DM` next to `Rexxentrum`), with the space, hyphen and space included. The hubs (through `stripDmSuffix` in [[Shared Helpers]]) and the templates (`dm_helpers.js`) remove it when they build display names, tags and twin lookups. Changing it does not rename any note: run `.scripts/rename_dm_suffix.py` (set OLD and NEW at the top) to rename the notes, folders and links. `Recent Work.base` has the suffix written in its formula and must be edited by hand.
 - **`calendar_category_sessions`**: the Calendarium category for session notes (left out of Close Session's event categories).
 - **Artifact pieces** ([[Artifact Pieces]]): notes tagged `<piece_tag_prefix>/<artifact slug>` are the pieces of one artifact (`piece/lorestone-of-eryndor`). The `heading_piece_…` values are the `##` headings inside each piece note. `calendar_category_pieces` is the Calendarium category the hub's change form writes. `label_party` is the plain word that stands for the whole party in a piece's lines.
 - **Progress trackers** ([[Progress Tracks]]): `heading_track_history` and `heading_track_questions` are the `##` headings of a tracker's History and Open questions sections.

@@ -117,7 +117,7 @@ How the table-side cards get their data:
 
 Built 2026-10-21. One hub per multi-part artifact; the Lorestone's is [[Lorestone Shard Status Tracker]]. Nothing in the code names the Lorestone: the hub's embed blocks name the artifact by slug (`piece="lorestone-of-eryndor"`) and the notes holding its inscription.
 
-**Data: one note per piece.** `Objects/Lorestone of Eryndor - DM Notes/Shards/`, tagged `piece/lorestone-of-eryndor` and `inline-events` (no other properties); the number in the note name sets the order. Sections: Who knows and Pursued by (current state), Open questions (tasks), Properties and rulings, Notes, and History (append-only, one dated line per change as a Calendarium inline event in the Lorestone category). The current holder and location come from History. Format details: [[Artifact Pieces]].
+**Data: one note per piece.** `Objects/Lorestone of Eryndor - DM/Shards/`, tagged `piece/lorestone-of-eryndor` and `inline-events` (no other properties); the number in the note name sets the order. Sections: Who knows and Pursued by (current state), Open questions (tasks), Properties and rulings, Notes, and History (append-only, one dated line per change as a Calendarium inline event in the Lorestone category). The current holder and location come from History. Format details: [[Artifact Pieces]].
 
 **Inscription.** The lines live only in [[The Prophecy (Original Form)]] and [[The Prophecy (Modern Text)]], each labeled with its shard and position (`4a`, `4b`; a lost shard's surviving modern line in parentheses). A shard's lines count as read once its History has a `lines read` entry.
 

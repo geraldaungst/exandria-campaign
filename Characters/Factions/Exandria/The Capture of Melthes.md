@@ -15,9 +15,9 @@ tags:
 
 **Timeline:** Approximately 833 PD (about a year after [[Hesterian Shyr (Dot)|Hesterian]] was sold)
 
-**Location of Recruitment:** [[Xarzith Kitril - DM Notes]]
+**Location of Recruitment:** [[Xarzith Kitril - DM]]
 
-**Location of Processing:** [[Cerberus Assembly - DM Notes]] research facility in [[Rexxentrum - DM Notes]]
+**Location of Processing:** [[Cerberus Assembly - DM]] research facility in [[Rexxentrum - DM]]
 
 **Agents Involved:** Two Volstrucker agents (one was a former client of Hesterian's)
 
@@ -35,7 +35,7 @@ The Assembly, realizing the potential of such a unique individual, used a blend 
 
 #### The Assessment
 
-Upon arrival at the Assembly facility in [[Rexxentrum - DM Notes]], [[Melthes]] (then 16 years old) underwent magical assessment by [[Cree Deeproots]].
+Upon arrival at the Assembly facility in [[Rexxentrum - DM]], [[Melthes]] (then 16 years old) underwent magical assessment by [[Cree Deeproots]].
 
 **Assessment Results:**
 
@@ -68,7 +68,7 @@ When this event is discovered by [[Hesterian Shyr (Dot)|Hesterian]], there will 
 
 ### Potential Consequences
 
-- Diplomatic incident between [[Xarzith Kitril - DM Notes]] and [[Dwendalian Empire - DM Notes]]
+- Diplomatic incident between [[Xarzith Kitril - DM]] and [[Dwendalian Empire - DM]]
 - Exposure of Assembly's coercive recruitment practices
 - Rescue mission possibilities
 - [[Cree Deeproots]] as potential information source or ally

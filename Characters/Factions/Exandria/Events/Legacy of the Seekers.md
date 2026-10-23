@@ -8,7 +8,7 @@ tags:
 
 ### Historical Span
 
-Over 400 years of organizational history spanning multiple generations and name changes, representing the longest continuous effort to recover and preserve the [[Lorestone of Eryndor - DM Notes]] [[Lorestone Shard Status Tracker|fragments]].
+Over 400 years of organizational history spanning multiple generations and name changes, representing the longest continuous effort to recover and preserve the [[Lorestone of Eryndor - DM]] [[Lorestone Shard Status Tracker|fragments]].
 
 ### Key Accomplishments
 
@@ -63,13 +63,13 @@ The centuries-long effort created:
 
 ## Source Context
 
-Information derived from the [[Obsidian Echoforge - DM Notes]] faction note, documenting their historical evolution and cultural traditions.
+Information derived from the [[Obsidian Echoforge - DM]] faction note, documenting their historical evolution and cultural traditions.
 
 ## Connections
 
 ### Source Notes
 
-- [[Obsidian Echoforge - DM Notes]]
+- [[Obsidian Echoforge - DM]]
 
 ## Connected Elements
 

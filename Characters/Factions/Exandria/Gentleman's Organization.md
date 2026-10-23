@@ -9,7 +9,7 @@ tags:
 
 ## Quick Reference
 
-**Base:** beneath the Evening Nip tavern in [[Zadash - DM Notes|Zadash]], with tunnels and forgotten passages under the city
+**Base:** beneath the Evening Nip tavern in [[Zadash - DM|Zadash]], with tunnels and forgotten passages under the city
 **Goal:** control of Zadash's underworld and as much of its government as can be bought
 **Status:** recovering from the crackdown of winter 834–835 under a Gentleman who rules harder than the last
 **Influence:** strong in the underworld; rebuilding in the tax offices, courts and lower Righteous Brand ranks
@@ -34,15 +34,15 @@ tags:
 
 ## Relationships
 
-**Allies:** the wider [[Myriad - DM Notes|Myriad]]. Zadash runs with wide independence and owes a share; other bosses deal with the Gentleman by letter and believe he survived the crackdown
+**Allies:** the wider [[Myriad - DM|Myriad]]. Zadash runs with wide independence and owes a share; other bosses deal with the Gentleman by letter and believe he survived the crackdown
 **Rivals:** Myriad factions that sense weakness since the crackdown; Crownsguard and Righteous Brand officers who can't be bought
-**Neutral:** [[Vaud Qalix - DM Notes|Qalix]]'s network, a paying client
+**Neutral:** [[Vaud Qalix - DM|Qalix]]'s network, a paying client
 
 ## Current Activities
 
 ### The Rexxentrum Job
 
-- After Korfel took the seat, [[Dreyara Drimvar - DM Notes|Dreyara]] recruited the Gentleman for [[Vaud Qalix - DM Notes|Qalix]]'s planned heist of the [[Cobalt Soul Archive in Rexxentrum|Rexxentrum Archive]] (Shard 5). His tunnels and smuggling routes were to move a crew into Rexxentrum and carry the shard out through Zadash. The crackdown had cost him people and money, so he took a risky job for a foreign employer
+- After Korfel took the seat, [[Dreyara Drimvar - DM|Dreyara]] recruited the Gentleman for [[Vaud Qalix - DM|Qalix]]'s planned heist of the [[Cobalt Soul Archive in Rexxentrum|Rexxentrum Archive]] (Shard 5). His tunnels and smuggling routes were to move a crew into Rexxentrum and carry the shard out through Zadash. The crackdown had cost him people and money, so he took a risky job for a foreign employer
 - The contact ran through [[Father Dwondaff Pierce]] in Port Damali
 - Since Dreyara's death he holds Qalix's down payment and a half-planned job. His network told him of her death on 27–28 Thunsheer 835, with descriptions of three of her killers; his people are watching for them. Whether Qalix sends someone to finish the job, and who, is open. See [[Qalix's Network]]
 - If asked at the table: "She was hiring for a job up north."

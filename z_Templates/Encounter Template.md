@@ -39,7 +39,7 @@ const tags = [
   ...dropParents([placeTag, ...picked].filter(Boolean)),
 ].filter(Boolean);
 const tagLines = tags.map((t) => `  - ${t}`).join("\n");
-const locationLine = placeNote ? linkTo(placeNote) : "<!-- Link the place, e.g. [[Port Damali - DM Notes|Port Damali]] -->";
+const locationLine = placeNote ? linkTo(placeNote) : "<!-- Link the place, e.g. [[Port Damali - DM|Port Damali]] -->";
 await safeMove(`${campaign.parent.path}/Encounters`, title);
 _%>
 ---
