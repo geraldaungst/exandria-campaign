@@ -179,14 +179,14 @@ Multiple potential endings based on player choices:
 > - Other party members present but not understanding full context
 > - Business pretense gives both characters reason to maintain facades initially
 > - Blood sample collection provides immediate tactical flashpoint
-> 
+>
 > **Dialogue Hooks:**
 >
 > - Korfel: "Do I… know you from somewhere?"
 > - Hesterian: "You look familiar. Didn't you used to live in Port Damali?"
 > - Korfel: "I'm afraid you're mistaken. I've always been a Zadash man."
 > - Hesterian: "Funny. I could have sworn I knew a Korfel Withrethin once."
-> 
+>
 > **Escalation Triggers:**
 >
 > - Direct use of Korfel's real name
@@ -194,7 +194,7 @@ Multiple potential endings based on player choices:
 > - Mention of [[Rylan Estevez]]
 > - Refusal to provide blood sample
 > - Threatening gestures from either side
-> 
+>
 > ## Korfel's Strategic Responses:
 >
 > **Immediate Tactics:** Reference [[Korfel Withrethin]] NPC page for detailed reactions **Long-term Plans:** Leverage [[Characters/Factions/Exandria/Gentleman's Organization]] resources **Vulnerabilities:** [[Rylan Estevez Frame Job]] exposure risk **Key Personnel:** [[Cree Deeproots]] becomes critical for surveillance

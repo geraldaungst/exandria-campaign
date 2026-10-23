@@ -2,6 +2,7 @@
 tags:
   - world/exandria
   - atomic
+  - lore
 ---
 
 ## Core Information

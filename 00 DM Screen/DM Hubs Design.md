@@ -60,7 +60,7 @@ Design spec for the two hubs. Review once, then build in the order at the bottom
 | Header strip | Last played (date, in-world date and time), next session (date, link to prep), link to Session Hub | Shared logic | Datacore |
 | Where we left off | Embedded section of the last played session | Shared logic | Datacore (Bases can't embed a heading of a computed note) |
 | Running arc | Arc, status, unrevealed Fact Map clues; paused and abandoned arcs with what they share | `ArcClues`, `RelatedArcs` in [[Arc and Session Views]] | Datacore (exists) |
-| Active plot threads | Active threads, each with its connected NPCs, items, locations, factions, lore | Plot Dashboard logic, moved to a shared component | Datacore |
+| Active plot threads | Active threads, each with its connected player characters, NPCs, items, locations, factions, lore, related plots and arcs | Plot Dashboard logic, moved to a shared component | Datacore |
 | Recent work | 15–20 notes by last edit; the view dropdown is the type filter: All · Sessions · Arcs and threads · NPCs · Lore and Keln · Player wiki · Maintenance | mtime, type formula | Bases |
 
 #### Workbenches (callouts below the top screen, folded by default)

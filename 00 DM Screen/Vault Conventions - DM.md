@@ -70,14 +70,14 @@ Counts are notes outside the Player Wiki carrying the type tag.
 | Faction (24 notes in `Characters/Factions`) | `organization`, `world/`, sometimes `region/`, and the note's own `faction/<slug>` (18 notes, retagged 2026-10-22; the other 6 are event, overview and hook notes without it) | Template: `aliases`. Older notes also carry `disposition` (16), `current_location` (3), `affiliations` (2) |
 | Location (36) | `location`, `world/`, `region/`, `place/` | `aliases` |
 | Artifact (29) | `artifact`; `campaign/` on 17, `world/` on 8 | `aliases` |
-| Lore (9 in `Campaigns/Prophecy of Eryndor - DM/Lore`) | `lore`, usually `atomic`, `campaign/` | None |
+| Lore (12: 9 in `Campaigns/Prophecy of Eryndor - DM/Lore`; The Massacre, The Capture of Melthes and The Truth about Eledyr carry the tag in place) | `lore`, usually `atomic`, `campaign/` | None |
 | Atomic (42; 31 with no other type tag) | `atomic`, usually `campaign/` | None |
 | Session (27) | `session`, `campaign/` | Session Template writes at creation: `arc`, `date`, `previous_session`, `session_number`, `fc-calendar`, `fc-date`, `fc-end`, `ingame_time`, `fc-display-name`, `fc-category`. Close Session fills `fc-end` and `ingame_time`. `next_session` on 18 old notes; nothing writes or reads it |
 | Arc (5) | `arc`, `campaign/` | `status`, `threads`, `tier`; place as a `place/…` tag |
 | Plot thread (7) | One stage tag (`plot/active` and so on) | None |
 | Campaign note (1) | `campaign-hub`, one `campaign/…` | `calendar`, `timeline`, `status`, `world` |
 | Encounter (0 so far) | As ruled above | None |
-| Player (8) | `player` or `player/inactive`, `campaign/` | `aliases`, `modifier` |
+| Player (8) | `player` or `player/inactive`, `campaign/` | `aliases` (`modifier` removed 2026-10-23: leftover from tracking stats in notes; nothing read it) |
 | DM Screen tools | `dm-tool` | `hide_from_related` (checkbox; 39 notes), `cssclasses` |
 | Player Wiki (116) | `player-facing`, `world/`, `region/`, type tag | `publish`, `aliases`, `cssclasses`. Separate system; do not touch without checking the Publish build rules |
 

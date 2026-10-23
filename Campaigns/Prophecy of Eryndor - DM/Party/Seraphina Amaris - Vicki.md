@@ -3,7 +3,6 @@ aliases:
   - Seraphina
   - Vicki
   - Victoria
-modifier: 2
 tags:
   - campaign/eryndor
   - player

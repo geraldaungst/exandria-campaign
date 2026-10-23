@@ -13,8 +13,10 @@ hide_from_related: true
 Tag rules come first, then folder fallbacks for untagged notes (Session Notes, Objects, Characters, Worlds, Campaigns). The tag and folder names come from [[Hub Config]]. Bases formulas can't read Hub Config, so if you change a name there, update this formula and the one in Recent Work too. The matching Bases formula, used by [[Recent Work.base|Recent Work]]:
 
 ```
-if(file.inFolder("Player Wiki"), "Player wiki", if(file.hasTag("session"), "Session", if(file.hasTag("arc"), "Arc", if(file.hasTag("plot", "plot/active", "plot/upcoming", "plot/seed", "plot/paused"), "Plot thread", if(file.hasTag("lore"), "Lore", if(file.hasTag("player", "player/inactive"), "PC", if(file.hasTag("npc"), "NPC", if(file.inFolder("Characters/Creatures"), "Creature", if(file.hasTag("location"), "Location", if(file.hasTag("organization"), "Faction", if(file.hasTag("artifact"), "Item", if(file.inFolder("00 DM Screen") || file.hasTag("dm-tool"), "DM tools", if(file.path.contains("Session Notes/"), "Session", if(file.inFolder("Objects"), "Item", if(file.inFolder("Characters"), "NPC", if(file.inFolder("Worlds"), "World", if(file.inFolder("Campaigns"), "Campaign", "Other")))))))))))))))))
+if(file.inFolder("Player Wiki"), "Player wiki", if(file.hasTag("session"), "Session", if(file.hasTag("arc"), "Arc", if(file.hasTag("plot", "plot/active", "plot/upcoming", "plot/seed", "plot/paused"), "Plot thread", if(file.hasTag("lore"), "Lore", if(file.hasTag("player", "player/inactive"), "Player Character", if(file.hasTag("npc"), "NPC", if(file.inFolder("Characters/Creatures"), "Creature", if(file.hasTag("location"), "Location", if(file.hasTag("organization"), "Organization", if(file.hasTag("artifact"), "Artifact", if(file.inFolder("00 DM Screen") || file.hasTag("dm-tool"), "DM tools", if(file.path.contains("Session Notes/"), "Session", if(file.inFolder("Objects"), "Artifact", if(file.inFolder("Characters"), "NPC", if(file.inFolder("Worlds"), "World", if(file.inFolder("Campaigns"), "Campaign", "Other")))))))))))))))))
 ```
+
+A third copy of the type rules is the `Type` formula in [[Related Notes.base]]. It is shorter (Session, Arc, Plot thread, Lore, Player Character, NPC, Location, Organization, Artifact, Atomic note, Other) and tests in the same order. Keep it in step when a type is added or a label changes. Labels match Recent Work and the code below (Player Character, Organization, Artifact).
 
 The block below is plain `jsx`, so it does not run on this page. Notes load it with `dc.require(dc.headerLink("00 DM Screen/Code/Note Types.md", "Code"))`. After editing, reopen any note that uses it. Design: [[DM Hubs Design]].
 
@@ -33,16 +35,16 @@ function typeRules() {
     ["Arc", tag(c.tag_arc)],
     ["Plot thread", tag(c.tag_plot)],
     ["Lore", tag(c.tag_lore)],
-    ["PC", tag(c.tag_pc)],
+    ["Player Character", tag(c.tag_pc)],
     ["NPC", tag(c.tag_npc)],
     ["Creature", (p) => inFolder(p, c.folder_creatures)],
     ["Location", tag(c.tag_location)],
-    ["Faction", tag(c.tag_faction)],
-    ["Item", tag(c.tag_item)],
+    ["Organization", tag(c.tag_faction)],
+    ["Artifact", tag(c.tag_item)],
     ["DM tools", (p) => inFolder(p, c.folder_dm_screen) || c.tags_dm_tools.some((t) => tagsOf(p).includes(t))],
     // Folder fallbacks for notes with no type tag
     ["Session", (p) => p.$path.includes(`${c.folder_session_notes}/`)],
-    ["Item", (p) => inFolder(p, c.folder_objects)],
+    ["Artifact", (p) => inFolder(p, c.folder_objects)],
     ["NPC", (p) => inFolder(p, c.folder_characters)],
     ["World", (p) => inFolder(p, c.folder_worlds)],
     ["Campaign", (p) => inFolder(p, c.folder_campaigns)],

@@ -4,7 +4,6 @@ aliases:
   - AJ
   - Amanda Jeane
   - Amanda
-modifier: 2
 tags:
   - campaign/eryndor
   - player

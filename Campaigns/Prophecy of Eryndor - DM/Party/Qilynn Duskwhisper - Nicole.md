@@ -2,7 +2,6 @@
 aliases:
   - Qilynn
   - Nicole
-modifier: 3
 tags:
   - campaign/eryndor
   - player

@@ -2,6 +2,7 @@
 tags:
   - atomic
   - campaign/eryndor
+  - lore
 ---
 
 ## Core Information

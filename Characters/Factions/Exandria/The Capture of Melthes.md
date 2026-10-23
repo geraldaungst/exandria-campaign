@@ -7,6 +7,7 @@ tags:
   - offscreen
   - world/exandria
   - region/dwendalian-empire
+  - lore
 ---
 
 ## Core Information

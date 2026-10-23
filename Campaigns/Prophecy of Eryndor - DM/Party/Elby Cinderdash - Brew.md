@@ -1,7 +1,6 @@
 ---
 aliases:
   - Elby
-modifier: 3
 tags:
   - campaign/eryndor
   - player/inactive

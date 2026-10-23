@@ -3,7 +3,6 @@ aliases:
   - Popcorn
   - Viv
   - Vivian
-modifier: 1
 tags:
   - campaign/eryndor
   - player

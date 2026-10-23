@@ -2,7 +2,6 @@
 aliases:
   - Laucian
   - Brent
-modifier: 2
 tags:
   - campaign/eryndor
   - player/inactive

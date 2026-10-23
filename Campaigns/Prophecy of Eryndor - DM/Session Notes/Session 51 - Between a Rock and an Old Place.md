@@ -1,17 +1,17 @@
 ---
 arc: "[[Deastok Investigation]]"
 date: 2026-09-27
+fc-calendar: Exandrian Calendar
+fc-category: Sessions
+fc-date: "835-04-27"
+fc-display-name: "Session 51"
+fc-end: "835-04-27"
+ingame_time: Afternoon
 previous_session: "[[Session 50 - The Doctor, the Fruit, and the Dig Site]]"
 session_number: 51
 tags:
   - campaign/eryndor
   - session
-fc-calendar: Exandrian Calendar
-fc-date: "835-04-27"
-fc-end: "835-04-27"
-ingame_time: Afternoon
-fc-display-name: "Session 51"
-fc-category: Sessions
 ---
 
 ## Session 51 - Between a Rock and an Old Place

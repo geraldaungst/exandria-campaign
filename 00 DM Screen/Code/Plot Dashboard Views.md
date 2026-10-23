@@ -43,12 +43,14 @@ const stageBg = (stage) =>
 
 // Main groups are always visible on a card; minor groups sit in a collapsed section.
 const groupsFor = (c) => [
+  { tag: c.tag_pc, label: "Player characters", main: true },
   { tag: c.tag_npc, label: "NPCs", main: true, detail: true },
   { tag: c.tag_item, label: "Items", main: true },
   { tag: c.tag_location, label: "Locations", main: true },
   { tag: c.tag_faction, label: "Factions", main: true },
   { tag: c.tag_lore, label: "Lore", main: true },
   { tag: c.tag_plot, label: "Related plots", main: true },
+  { tag: c.tag_arc, label: "Arcs", main: true },
   { tag: c.tag_session, label: "Sessions", main: false },
   { tag: null, label: "Other notes", main: false },
 ];
