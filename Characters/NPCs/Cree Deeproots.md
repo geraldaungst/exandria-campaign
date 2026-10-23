@@ -228,7 +228,7 @@ Based on Critical Role Campaign 2 information about Cree's employment with The G
 ### Related Systems
 
 - [[Blood Sample Collection Protocol]] - Her primary responsibility
-- [[The Gentleman's Criminal Empire]] - Organization she serves and protects
+- [[Characters/Factions/Exandria/Gentleman's Organization]] - Organization she serves and protects
 
 ### Related Capabilities
 

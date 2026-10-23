@@ -143,7 +143,7 @@ Based on Critical Role's Blood Domain cleric mechanics and The Gentleman's canon
 
 ### Related Operations
 
-- [[The Gentleman's Criminal Empire]] - Part of broader control system
+- [[Characters/Factions/Exandria/Gentleman's Organization]] - Part of broader control system
 - New associate recruitment and vetting processes
 - Intelligence gathering and counter-intelligence operations
 

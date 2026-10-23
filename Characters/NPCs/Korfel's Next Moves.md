@@ -8,6 +8,13 @@ tags:
 
 What [[Korfel Withrethin|Korfel]] does between scenes. Each move names what he must learn first. As of 28 Thunsheer 835. DM only.
 
+### Meeting him
+
+1. **Invitation.** Within hours of his watchers spotting the wyvern, the blonde or the gnome, an invitation reaches the party at their lodging, addressed to the room they took, whatever name they gave
+2. **Meeting 1: Cree's interview.** In a back room of the Evening Nip, Sorah standing by. Weapons stay at the door. Cree takes blood from each visitor before anything else; no blood, no second meeting. She asks who they are, what they want, and how they came to kill Dreyara. Her briefing to Korfel covers threat, wants, and anything unusual. Names go only into her vial ledger, which he doesn't read
+3. **Meeting 2: the flooded hall, the next day.** He has done his homework: whatever came up in Meeting 1 is now leverage. On the way down, a Crownsguard officer unlocks a tunnel gate for the escort. Drawg's tactical read gives him the numbers: no one reaches the dais
+4. **If they fight:** Korfel goes into the water; the party ends in a Crownsguard cell on real charges. See the trigger below
+
 ### Standing behavior
 
 - Watches for the three described to him
@@ -20,7 +27,18 @@ What [[Korfel Withrethin|Korfel]] does between scenes. Each move names what he m
 - Makes contact first, through an intermediary, to judge whether they are a threat or an asset. People who could kill Qalix's spymaster could be hired
 - Wants them in a room where Cree can take blood
 
+**He learns someone in Zadash is asking for Korfel Withrethin** (his informants report it within a day; Cree passes it on if asked)
+- Knows someone from his past has come for him, not who or why. Has Cree watch them closely
+- Has Cree ask about the name in her interview, and asks again himself before turning. Gives nothing away ([[Talking with Korfel]])
+
+**Cree's report links a party member to Port Damali, Harmony Hall or a murder**
+- Same as above: he probes for who and why, and gives nothing away. He still believes Hesterian is dead, so seeing her shakes him
+
+**Cree's report mentions the name Melthes**
+- Learns a party member has a brother the Cerberus Assembly took, and that Cree processed him. Cree's memory is now his to give or withhold
+
 **He learns Hesterian is alive** (on sight, or from a report)
+- First reach: Rylan's release, to buy time (terms below)
 - Within a day: his network digs into her companions and their recent movements, looking for leverage on each
 - Moves money and anything incriminating; readies his escape routes
 - Warns his inner circle of "a threat" without saying what
@@ -36,6 +54,9 @@ What [[Korfel Withrethin|Korfel]] does between scenes. Each move names what he m
 **He learns the party wants into the Rexxentrum Archive**
 - The natural deal: he has half a plan, the tunnels and the routes; they have skill and a reason. Asks for blood samples and a cut, and keeps them where he can watch them
 
+**The party is arrested**
+- A well-dressed visitor comes to the cells: the Gentleman can make the charges disappear. The price is blood, the job, and silence
+
 **He learns someone is asking about the crackdown or Babenon's fate**
 - The greatest threat to him. Moves fast to remove whoever is asking, and frames someone else for it
 
@@ -48,12 +69,23 @@ In order, as each fails:
 4. Threatens people the party cares about
 5. Calls on other Myriad bosses against an "outside threat". This risks exposure, so only when desperate
 
-### Why the party might tolerate him
+### What he offers
 
-- **Rexxentrum:** they want Shard 5; he holds a half-built heist and the routes in and out
+Each pulls a different party member. He offers only what he has learned is leverage.
+
+- **Shard 5:** they want into the Archive; he holds a half-built heist and the routes in and out. If he dies, Qalix's side still has a paid-for job, and the shard goes to Qalix through someone the party can't see
+- **Silence:** Qalix's handler sits inside his network. He decides whether Qalix's side hears that Dreyara's killers are in Zadash, and their names, or follows a false trail. If he dies, his people sell everything
+- **Rylan:** through [[Father Dwondaff Pierce|Dwondaff]] and bought magistrates in Port Damali, he can get [[Rylan Estevez|Rylan]] out. Freedom, not exoneration; clearing Rylan's name needs the true killer's testimony ([[Rylan Estevez Frame Job]]). Terms: proof follows by courier within a few weeks (a letter in Rylan's hand, with Xanaphia's bracelet folded inside); release comes when the Rexxentrum job is done; Hesterian keeps his secret
+- **Melthes:** only after Cree reports the name. If he dies, Cree runs, and the lead goes with her
+- **Charges dropped:** only after an arrest
 - **Information:** his network found Dreyara's killers within days; it can find other things
-- **Rylan:** freeing Rylan needs the true killer's testimony, so Korfel is worth more alive ([[Rylan Estevez Frame Job]])
-- **Rivals:** the crackdown weakened the Zadash Myriad, and rivals want his seat
+- **Rivals:** the crackdown weakened the Zadash Myriad, and rivals want his seat. A party that helps him hold it earns favors
+
+### What killing him costs them
+
+- Shard 5 goes to Qalix's side; Rylan stays in prison and the testimony is gone; Cree runs with their blood and the Melthes lead
+- Zadash's Myriad bosses fight over the seat, and the Myriad puts a price on his killers along the road to Rexxentrum
+- To the bought Crownsguard, it is the murder of a respectable merchant
 
 ### Open
 

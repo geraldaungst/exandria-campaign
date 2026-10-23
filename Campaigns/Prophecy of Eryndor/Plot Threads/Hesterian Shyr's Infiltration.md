@@ -18,7 +18,7 @@ tags:
 
 ## Overview
 
-Hesterian has expressed the goal of infiltrating the Myriad criminal organization. Unknown to her, this quest will lead her directly to the man who murdered her - [[Korfel Withrethin]], who now operates as "The Gentleman" and runs [[The Gentleman's Criminal Empire]] in [[Zadash - DM Notes]]. The central dramatic tension lies in the immediate recognition between murderer and victim, forcing complex choices about revenge, justice, and survival.
+Hesterian has expressed the goal of infiltrating the Myriad criminal organization. Unknown to her, this quest will lead her directly to the man who murdered her - [[Korfel Withrethin]], who now operates as "The Gentleman" and runs [[Characters/Factions/Exandria/Gentleman's Organization]] in [[Zadash - DM Notes]]. The central dramatic tension lies in the immediate recognition between murderer and victim, forcing complex choices about revenge, justice, and survival.
 
 **Core Dramatic Question:** When Hesterian meets her killer face-to-face in a position of power, how will she choose between immediate revenge and strategic patience?
 
@@ -197,7 +197,7 @@ Multiple potential endings based on player choices:
 > 
 > ## Korfel's Strategic Responses:
 >
-> **Immediate Tactics:** Reference [[Korfel Withrethin]] NPC page for detailed reactions **Long-term Plans:** Leverage [[The Gentleman's Criminal Empire]] resources **Vulnerabilities:** [[Rylan Estevez Frame Job]] exposure risk **Key Personnel:** [[Cree Deeproots]] becomes critical for surveillance
+> **Immediate Tactics:** Reference [[Korfel Withrethin]] NPC page for detailed reactions **Long-term Plans:** Leverage [[Characters/Factions/Exandria/Gentleman's Organization]] resources **Vulnerabilities:** [[Rylan Estevez Frame Job]] exposure risk **Key Personnel:** [[Cree Deeproots]] becomes critical for surveillance
 >
 > ## Campaign Integration Points:
 >

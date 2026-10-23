@@ -51,7 +51,7 @@ As of 27 Thunsheer 835. Detail in [[Qalix's Network]].
 - **26–27 Thunsheer:** The handler's Sending tells him Dreyara is dead, Cloudfang was raided, [[Varnes Dwell]] is free, and the attackers took Shard 6 and the crystal
 - **The crystal:** He knows it only as the "temporal crystal" he made the priority of Emer's research. He does not know it is a Luxon Beacon
 - **10–24 Unndilar:** Emer's full report arrives by courier, naming Drawg, Seraphina and a gnome
-- **Rexxentrum:** Dreyara was to steal Shard 5 with [[Korfel Withrethin|the Gentleman]]'s help. The Gentleman holds Qalix's down payment ([[The Gentleman's Criminal Empire]])
+- **Rexxentrum:** Dreyara was to steal Shard 5 with [[Korfel Withrethin|the Gentleman]]'s help. The Gentleman holds Qalix's down payment ([[Characters/Factions/Exandria/Gentleman's Organization]])
 - **Undecided:** his response, who takes over Dreyara's work, and whether the Rexxentrum job goes ahead
 
 ## Resources

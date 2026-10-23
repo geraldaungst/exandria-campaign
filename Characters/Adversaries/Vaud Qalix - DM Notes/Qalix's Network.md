@@ -42,7 +42,7 @@ How [[Vaud Qalix - DM Notes|Vaud Qalix]]'s intelligence network passes informati
 - **Lady Emer:** everything she saw at Cloudfang, plus Ra'ak's account. Has vowed revenge. Slants her reports to protect her standing.
 - **Ra'ak:** saw Dreyara die and the party take the shard. Free. Says he was just hired muscle.
 - **The handler:** Emer's full report.
-- **The Gentleman:** Dreyara is dead, killed by the three he is watching for. Still holds Qalix's down payment for the Rexxentrum job ([[The Gentleman's Criminal Empire]]).
+- **The Gentleman:** Dreyara is dead, killed by the three he is watching for. Still holds Qalix's down payment for the Rexxentrum job ([[Characters/Factions/Exandria/Gentleman's Organization]]).
   - Does not know: that the party carries the shard or the crystal, or that Hesterian is with them.
   - Wants: his identity kept buried; to come out ahead whether the job goes on, changes, or collapses; to judge whether the three are a threat or worth something.
 - **The party:** Dreyara worked for a dragonborn employer ("the Eye," Xarzith Kitril), and her Zadash contact is the Gentleman. They do not know they are known.
