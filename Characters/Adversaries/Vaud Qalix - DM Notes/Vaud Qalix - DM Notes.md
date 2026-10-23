@@ -5,6 +5,7 @@ aliases:
   - Eye of the Scars
   - Dawnbringer
   - Dawnbringer of the New Draconian Dominion
+disposition: hostile
 tags:
   - npc
   - needs-work
