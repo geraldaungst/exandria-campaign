@@ -8,7 +8,7 @@ hide_from_related: true
 
 **Depends on:** [[Shared Helpers]]
 
-**Used by:** [[Prophecy of Eryndor]]
+**Used by:** [[Prophecy of Eryndor - DM Notes|Prophecy of Eryndor]]
 
 Conventions this module relies on:
 

@@ -154,7 +154,7 @@ Then after result, turn to room: "Lady Emer lies beneath the immovable shield, h
 
 #### Varnes Dwell Restoration
 
-**Reference Document**: [[Varnes Dwell]]
+**Reference Document**: [[Varnes Dwell - DM Notes|Varnes Dwell]]
 
 **When Restored (By Emer or Greater Restoration):**
 
@@ -192,7 +192,7 @@ Then after result, turn to room: "Lady Emer lies beneath the immovable shield, h
 - Relief, can focus on delivering information
 - Still traumatized but not actively triggered
 
-**Dialogue Reference**: See [[Varnes Dwell#His Urgent Message to Party]] for his full speech about the Rexxentrum shard
+**Dialogue Reference**: See [[Varnes Dwell - DM Notes#His Urgent Message to Party|Varnes Dwell]] for his full speech about the Rexxentrum shard
 
 #### Wyvern Taming (Drawg's Side Quest)
 
@@ -272,7 +272,7 @@ Then after result, turn to room: "Lady Emer lies beneath the immovable shield, h
 |NPC Name|Current Goals|Key Information|Likely Reactions|
 |---|---|---|---|
 |**Lady Emer**|Survive, negotiate freedom|Knows Qalix network, rift locations, can restore Varnes|Calculating, will trade info for survival. See [[Lady Emer Conversation Progression REVISED]] for all dialogue|
-|**Varnes Dwell**|Warn party about Rexxentrum shard, recover|Security consultant with critical intel|Grateful, traumatized, urgent. See [[Varnes Dwell]] for full details|
+|**Varnes Dwell**|Warn party about Rexxentrum shard, recover|Security consultant with critical intel|Grateful, traumatized, urgent. See [[Varnes Dwell - DM Notes|Varnes Dwell]] for full details|
 |**Wyvern**|Protect territory, assess these strangers|Loyal to Emer, well-trained|Hostile but potentially persuadable by Drawg. See skill challenge above|
 
 ---
@@ -411,7 +411,7 @@ Then after result, turn to room: "Lady Emer lies beneath the immovable shield, h
 
 - [[Lady Emer Conversation Progression]] - Full interrogation framework with all triggers and dialogue
 - [[Cloudfang Keep - DM Notes]] - Location details, chest puzzle mechanics, room descriptions
-- [[Varnes Dwell]] - Full NPC profile, what he knows, his urgent message
+- [[Varnes Dwell - DM Notes|Varnes Dwell]] - Full NPC profile, what he knows, his urgent message
 - [[Lady Emer - DM Notes]] - NPC profile and stat block
 - [[luxon-beacon-egw|Luxon Beacon]] - What it actually is (if players identify it)
 

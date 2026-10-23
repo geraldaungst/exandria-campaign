@@ -11,7 +11,7 @@ tags:
 > - Stage: Seed (player-expressed goal, needs opportunity)
 > - Priority: Medium
 > - Timeline: Player-driven, connected to journey north
-> - Key Players: [[Hesterian Shyr (Dot)]], [[Korfel Withrethin]], [[Myriad]]
+> - Key Players: [[Hesterian Shyr (Dot)]], [[Korfel Withrethin]], [[Myriad - DM Notes|Myriad]]
 > - Parent Plot: Character Development
 > - Last Session: Not yet activated
 > - Next Steps: Party travels north toward [[Zadash - DM Notes]], Hesterian decides to pursue infiltration

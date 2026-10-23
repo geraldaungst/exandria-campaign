@@ -18,7 +18,7 @@ tags:
 
 ### Physical Description
 
-- [[Ilya the Sorceress]] was an adventurer sorceress who quested Exandria before retiring to Port Damali. She has multiple items of her time adventuring, which she sells as well as maintaining a business. The shop has the following items on sale, in addition to a reasonably full stock of common and uncommon items:
+- [[Ilya the Sorceress - DM Notes|Ilya the Sorceress]] was an adventurer sorceress who quested Exandria before retiring to Port Damali. She has multiple items of her time adventuring, which she sells as well as maintaining a business. The shop has the following items on sale, in addition to a reasonably full stock of common and uncommon items:
 - Elixirs of Health
 - Potion of Superior Healing
 - Potions of Acid Breath (handcrafted)

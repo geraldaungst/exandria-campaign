@@ -33,7 +33,7 @@ Medusa. Athletic lower body from her mercenary years, a scholar's posture above 
 
 Last seen by the party at Cloudfang Keep on 19 Thunsheer 835. Timeline entries are in [[Eryndor Timeline]]; the Qalix side is in [[Qalix's Network]].
 
-- **19 Thunsheer:** Party bound and questioned her, freed [[Varnes Dwell]], took the crystal, and left the same day (Drawg tamed her wyvern). She vowed revenge
+- **19 Thunsheer:** Party bound and questioned her, freed [[Varnes Dwell - DM Notes|Varnes Dwell]], took the crystal, and left the same day (Drawg tamed her wyvern). She vowed revenge
 - **25-26 Thunsheer:** Ra'ak flew to the keep on its gryphon and told her [[Dreyara Drimvar - DM Notes|Dreyara]] was dead and the party had Shard 6 ([[Shard 6 - Marquet Shard]])
 - **26-27 Thunsheer:** Her bird reached her handler in Zadash with a self-serving report: Dreyara's late arrival left the keep exposed, and the attackers are dangerous. It describes [[Drawg Stormbrew (Brew)|Drawg]] (a dragonborn with a wyvern), Seraphina (striking, blonde, angelic) and a gnome with a thing for hats. It does not mention Hesterian
 - **Zadash:** The handler works inside [[Korfel Withrethin|the Gentleman]]'s network and sends Qalix the essentials by Sending. The full report goes by courier and reaches Qalix 10-24 Unndilar
@@ -72,7 +72,7 @@ Last seen by the party at Cloudfang Keep on 19 Thunsheer 835. Timeline entries a
 
 - **[[Vaud Qalix - DM Notes]]:** Employer, never met. Pressure for Lorestone results was rising before the raid
 - **[[Dreyara Drimvar - DM Notes]]:** Qalix's courier and inspector. Dead (25 Thunsheer 835)
-- **[[Varnes Dwell]]:** Her prisoner; she tortured and memory-modified him. Freed, and he hates her
+- **[[Varnes Dwell - DM Notes|Varnes Dwell]]:** Her prisoner; she tortured and memory-modified him. Freed, and he hates her
 - **Stone Garden:** Petrified failures. Stone Sacrifice fuel
 - **Guardians:** Basilisks and others she maintains without affection. Her wyvern is now Drawg's
 - **Handler in Zadash:** Contact through the Gentleman's network. Carries her reports to Qalix

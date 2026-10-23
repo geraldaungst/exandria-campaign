@@ -18,7 +18,7 @@ publish: true
 
 ## Description
 
-Ilya's Realm Shop is a high-end magic shop in Port Damali. Its owner, Ilya, is a retired adventurer who settled in the city after traveling Exandria.
+Ilya's Realm Shop is a high-end magic shop in Port Damali. Its owner, [[Ilya the Sorceress|Ilya]], is a retired adventurer who settled in the city after traveling Exandria.
 
 ## Stock and Services
 

@@ -14,7 +14,7 @@ tags:
 
 > [!info] Essential Details
 > - **Where he is:** beneath the Evening Nip in [[Zadash - DM Notes|Zadash]], and the tunnels that came with the seat
-> - **Who he is to Zadash:** the Gentleman, head of the [[Myriad]] there. Nobody knows he is Korfel Withrethin, or that he is not the original Gentleman
+> - **Who he is to Zadash:** the Gentleman, head of the [[Myriad - DM Notes|Myriad]] there. Nobody knows he is Korfel Withrethin, or that he is not the original Gentleman
 > - **Goal:** hold the seat he took months ago and keep both secrets buried
 > - **Toward the party:** watching for three of Dreyara's killers (a dragonborn with a wyvern, a striking blonde, a gnome with a thing for hats). Believes Hesterian is dead
 > - **Meeting him:** Cree vets visitors first; the Gentleman receives them the next day in his flooded hall ([[Korfel's Next Moves#Meeting him]])
@@ -43,7 +43,7 @@ As of 28 Thunsheer 835. Network detail: [[Qalix's Network]].
 ## Hidden Information
 
 > [!secret]- Who he really is
-> - **Korfel Withrethin**, a merchant known in [[Port Damali - DM Notes|Port Damali]] for years, with criminal dealings that included the [[Clasp]]. Murdered [[Hesterian Shyr (Dot)|Hesterian]] and Xanaphia Lothliss ([[Port Damali Murders]]), framed [[Rylan Estevez]] ([[Rylan Estevez Frame Job]]), and fled north about 2–3 years ago
+> - **Korfel Withrethin**, a merchant known in [[Port Damali - DM Notes|Port Damali]] for years, with criminal dealings that included the [[Clasp - DM Notes|Clasp]]. Murdered [[Hesterian Shyr (Dot)|Hesterian]] and Xanaphia Lothliss ([[Port Damali Murders]]), framed [[Rylan Estevez]] ([[Rylan Estevez Frame Job]]), and fled north about 2–3 years ago
 > - **How he became the Gentleman:** tipped off the Crownsguard about a lieutenant's plot against a starosta, then killed the original Gentleman, Babenon Dosal, in the tunnels during the crackdown. Detail: [[Characters/Factions/Exandria/Gentleman's Organization#History]]
 > - **Names:** arrived in Zadash under a merchant alias (unnamed), which vanished in the crackdown. Nobody in Zadash knows the name Korfel Withrethin
 > - **Nobody knows:** not Cree, not his staff, not [[Father Dwondaff Pierce]] (who knew Korfel the merchant), not the wider Myriad

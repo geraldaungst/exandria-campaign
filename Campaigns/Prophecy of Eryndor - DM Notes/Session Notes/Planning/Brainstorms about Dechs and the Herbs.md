@@ -110,7 +110,7 @@ These scenarios are based on the information available and are designed to provi
 **Affiliations & Alliances:**
 
 - **[[Emissaries of the Sunfall - DM Notes]]:** Factional affiliation.
-- **[[Draconia]]:** Factional affiliation (goal is to restore it).
+- **[[Draconia - DM Notes|Draconia]]:** Factional affiliation (goal is to restore it).
 - **[[Xarzith Kitril - DM Notes]]:** Council from which Qalix embezzled funds.
 - **The Myriad:** Alliance for resources, intelligence, and influence.
 - **The Clasp:** Alliance (likely for similar reasons as the Myriad).

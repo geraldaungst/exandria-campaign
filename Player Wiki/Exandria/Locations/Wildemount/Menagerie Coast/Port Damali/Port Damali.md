@@ -86,4 +86,6 @@ About 82,000 people live in the city. Roughly half are human, with large numbers
 ### People
 
 - [[Aethor Kalisk]]: gnome artificer and key researcher of the Obsidian Echoforge
+- [[Ilya the Sorceress]]: retired adventurer and owner of Ilya's Realm Shop
 - [[Olesya Lapidus]]: Marquis of Port Damali
+- [[Varnes Dwell]]: security consultant

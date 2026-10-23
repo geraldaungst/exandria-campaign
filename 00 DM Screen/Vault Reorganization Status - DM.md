@@ -42,7 +42,7 @@ Carried over from the audit and Phase 8 so the work does not depend on the archi
 
 **Tagging:** `npc` means the note is an individual NPC. Atomic notes about NPC topics use `atomic` or content tags, not `npc`. `needs-work` stays on refactored notes until separately reviewed.
 
-**Keep as separate notes (multi-reference):** The Massacre, The Capture of Melthes, Port Damali Murders, Rylan Estevez Frame Job, The Gentleman's Criminal Empire (since 2026-10-23 the faction note, in `Characters/Factions/Exandria/`), Legacy of the Seekers, Luxon Beacon Integration with Lorestone.
+**Keep as separate notes (multi-reference):** The Massacre, The Capture of Melthes, Port Damali Murders, Rylan Estevez Frame Job, Gentleman's Organization (since 2026-10-23 the faction note, in `Characters/Factions/Exandria/`), Legacy of the Seekers, Luxon Beacon Integration with Lorestone.
 
 **File triage categories (Part D):** Essential (process with the simplified template), Reference (keep, no further processing), Redundant (delete or merge), Archive (move to `z_Archive`), Stub (delete if empty, flesh out if needed).
 
@@ -54,7 +54,7 @@ Carried over from the audit and Phase 8 so the work does not depend on the archi
 | Dataview queries, Connected Elements blocks | Bases (`Related Notes.base`, `Recent Work.base`) and Datacore (hubs, Plot Dashboard, NPC Browser, Lorestone hub, Aveqtaro tracker) |
 | `world/faerun` | `world/toril`; 14 notes carry it. The tag survives only in the archived documents |
 | `campaign/exandria` | `campaign/eryndor` (138 notes) and `campaign/tyranny` (5) |
-| `Characters/Opponents`, `Items`, `Campaigns/Exandria`, `DM Screen` | `Characters/Adversaries`, `Objects`, `Campaigns/Prophecy of Eryndor`, `00 DM Screen` |
+| `Characters/Opponents`, `Items`, `Campaigns/Exandria`, `DM Screen` | `Characters/Adversaries`, `Objects`, `Campaigns/Prophecy of Eryndor - DM Notes` (renamed again 2026-10-23), `00 DM Screen` |
 | NPC `home_base`, `current_location`, `affiliations` properties | `place/…`, `faction/…`, `region/…`, `world/…` tags (scheme in the migration note) |
 | Keep Dataview, Templater, Tag Wrangler | Dataview disabled; Templater and Tag Wrangler kept; Datacore and Bases added |
 | `.gitignore` excludes `DM Screen/` | The folder is named `00 DM Screen`, so the pattern does not match it and the folder syncs to the Claude project. Intended; the pattern is stale |
@@ -89,7 +89,7 @@ Carried over from the audit and Phase 8 so the work does not depend on the archi
 | 3 | Link cleanup | done |
 | 4 | Aveqtaro Thaan as Tier 1 hub | done 2026-10-22: [[Aveqtaro Thaan]] plus [[Aveqtaro Memory Recovery Tracker]] and [[What Aveqtaro Thaan Knows]]. All links in the three notes resolve. The Dynasty Bridge subnote was never created and is not linked |
 | 4 | Evaluate Vaud Qalix and Korfel Withrethin as Tier 1 | Vaud Qalix done 2026-10-23: [[Vaud Qalix - DM Notes]] plus [[Qalix's Network]] and [[Vaud Qalix's Plan Outline]]. Korfel done 2026-10-23: [[Korfel Withrethin]] plus [[Korfel's Next Moves]]; [[Characters/Factions/Exandria/Gentleman's Organization]] is now his faction note |
-| 5 | Sweep Characters/NPCs for non-NPC notes | open |
+| 5 | Sweep Characters/NPCs for non-NPC notes | in progress 2026-10-23: no non-NPC notes found; Shoagragoth, Valen Elderguard, Eledyr Dephar and Lady Emer (hub plus three documents) moved to Adversaries; Ilya the Sorceress moved from Worlds to Characters/NPCs and renamed [[Ilya the Sorceress - DM Notes]]. Player pages for Ilya and Varnes Dwell created 2026-10-23. Open: list 3 and 4 naming items |
 | 5 | Apply the NPC template to remaining NPCs | open, incremental |
 
 ### Remaining work
@@ -102,9 +102,9 @@ Verified against the vault on 2026-10-22.
 - Vaud Qalix: done 2026-10-23. Hub rebuilt as a reference card; `What does Vaud Qalix want` merged into it (Gerald deletes the file); the Network and Plan Outline stay as subnotes; the two Manifestos are documents. Contradictions found in a vault-wide read of 77 notes were resolved with Gerald.
 - Korfel Withrethin: done 2026-10-23. Hub rebuilt as a reference card with no embeds (the old note rendered about 750 lines). New subnote [[Korfel's Next Moves]] (trigger-based moves, escalation, reasons to tolerate him). [[Characters/Factions/Exandria/Gentleman's Organization]] moved to `Characters/Factions/Exandria/` and rebuilt on the Faction Template as the organization's note; the empty stub `Gentleman's Organization` is to be deleted. `Possible ideas for Korfel` folded into the subnote and moved to z_Archive. Origin decided with Gerald: Babenon Dosal was the original Gentleman; Korfel tipped off the Crownsguard and killed him in the crackdown (winter 834–835) and appears undisguised.
 
-**3. Non-NPC sweep of Characters/NPCs.** Six of 90 notes lacked the `npc` tag: the two Aveqtaro subnotes (correct as atomic subnotes) and four Lady Emer notes. The three Emer documents are now in the Emer folder (not NPC notes); the Status note is pending deletion. Recount after the Status file is deleted.
+**3. Non-NPC sweep of Characters/NPCs.** Six of 90 notes lacked the `npc` tag: the two Aveqtaro subnotes (correct as atomic subnotes) and four Lady Emer notes. The three Emer documents are now in the Emer folder (not NPC notes); the Status note is pending deletion. Recount 2026-10-23, before the antagonist moves: 91 notes in the folder, 84 tagged `npc`; the 7 without are the four atomic subnotes (two Aveqtaro, two Korfel) and the three Emer documents. No non-NPC notes found. Four antagonists then moved to Adversaries, leaving 85 files in Characters/NPCs with Ilya added.
 
-**4. Lady Emer satellites.** Done 2026-10-22. Hub and three documents now sit in `Characters/NPCs/Lady Emer - DM Notes/`. `Lady Emer Status` is merged into the hub; Gerald deletes the old file.
+**4. Lady Emer satellites.** Done 2026-10-22. Hub and three documents sit in `Characters/Adversaries/Lady Emer - DM Notes/` (moved there from Characters/NPCs on 2026-10-23). `Lady Emer Status` is merged into the hub; the old file is deleted.
 
 **5. Tag cleanup**
 - **Settled 2026-10-22:** the four property and tag decisions are applied (see the rulings in [[Vault Conventions - DM]]). Remaining here: fill `place/` and `region/` on NPCs as they are touched (no bulk pass).
@@ -115,6 +115,7 @@ Verified against the vault on 2026-10-22.
 - The `processed` property and `#to-process` tag no longer appear in any note.
 
 **6. Part D triage and Part F decision.** Triage Essential, Reference, Redundant, Archive and Stub for what the NPC and tag work left over. Decide whether to build the Vault Health note.
+- Stub to fill in later: [[Draconia - DM Notes]] (renamed from Draconia 2026-10-23). It is still the empty Faction Template (tags `organization`, `faction/draconia`, `needs-work`). Fill it in when the Restore Draconia plot thread or Qalix's plan next comes up at the table; delete it only if it never gets used. The player-wiki location page `Draconia` is separate and keeps the plain name.
 
 **7. Unresolved links.** 83 notes have wiki-links that point to no note (3,503 links checked outside z_ folders). Examples: `Xanaphia Lothliss`, `Odessloe`, `Garden Grounds`, `Hollow One`, plus compendium-style links ending in `-tdcsr`. 14 are in session notes. Not categorized yet: some may be intended future notes or compendium links.
 
@@ -181,3 +182,13 @@ Newest at the bottom. Format: `YYYY-MM-DD | phase | what changed | result`.
 2026-10-23 | NPC audit, Korfel Withrethin | Tier 1 done: hub card, Korfel's Next Moves, Talking with Korfel; The Gentleman's Criminal Empire moved to Factions as the faction note; Possible ideas archived; origin, meeting design and Rylan terms decided with Gerald; line fixes in Infiltration, Hesterian, Cree tag | Links resolve. Delete Gentleman's Organization.md. Not tested in Obsidian.
 
 2026-10-23 | NPC audit, Korfel Withrethin | Talking with Korfel: every bullet is now a checkbox, so used lines can be ticked off and kept as a record. Backup in z_Reference/template-backups/2026-10-23 Korfel Tier 1/pass 4 checkboxes | Not tested in Obsidian.
+
+2026-10-23 | NPC placement sweep | Moved Shoagragoth, Valen Elderguard, Eledyr Dephar and the Lady Emer - DM Notes folder (hub plus three documents) from Characters/NPCs to Characters/Adversaries; moved Ilya the Sorceress from Worlds/…/Port Damali - DM Notes to Characters/NPCs and renamed her Ilya the Sorceress - DM Notes; repointed the one link in Ilya's Realm Shop - DM Notes; fixed the Gentleman's Organization line under Keep as separate notes. Backups in z_Reference/template-backups/2026-10-23 NPC placement sweep | No duplicate names; moved notes link by name, so no other links changed. vault_inspector_progress.json still lists Characters/NPCs/Eledyr Dephar.md and vault_inspector_lists.json lists Ilya by the old name (left alone). Tags unchanged; Ilya's template pass still open. Not opened in Obsidian.
+
+2026-10-23 | NPC placement sweep, player pages | Created Player Wiki/Exandria/People/Ilya the Sorceress (aliases Ilya, Ilia; tags npc, player-facing, world/exandria, region/menagerie-coast). Renamed Varnes Dwell to Varnes Dwell - DM Notes and repointed 16 links in 9 notes so the player page's [[Varnes Dwell]] stays unresolved until his page is built. Backups in z_Reference/template-backups/2026-10-23 NPC placement sweep | Ilya's links resolve except [[Varnes Dwell]], which is intentional. Not edited: Port Damali People list and Ilya's Realm Shop (add her there when Gerald approves). Not opened in Obsidian; Publish build not run.
+
+2026-10-23 | NPC placement sweep, player pages | Added links to Ilya the Sorceress on the Port Damali People list and Ilya's Realm Shop (approved). Created Player Wiki/Exandria/People/Varnes Dwell (aliases Varnes, Varnus; tags npc, player-facing, world/exandria, region/menagerie-coast; appearance, capture, release by the Third Act, sister Ilya). Left out the Rexxentrum Archive job, torture and memory modification, military service, and stats. Backups of the two edited Player Wiki pages in z_Reference/template-backups/2026-10-23 NPC placement sweep | All links resolve. Port Damali People list does not yet list Varnes (needs approval). Not opened in Obsidian; Publish build not run.
+
+2026-10-23 | NPC placement sweep, naming | Renamed Clasp and Myriad in Characters/Factions/Exandria to Clasp - DM Notes and Myriad - DM Notes (the player pages keep the plain names). Repointed 9 links in 7 DM-side notes (Hesterian Shyr (Dot), Hesterian Shyr's Infiltration, Artifact Pieces example, Korfel Withrethin x2, Gentleman's Organization, Dreyara Drimvar - DM Notes, Vaud Qalix - DM Notes x2) to the DM notes with the old display text. Player Wiki links to [[Clasp]] and [[Myriad]] untouched, so they resolve to the player pages. Added Varnes Dwell to the Port Damali People list. Backups in z_Reference/template-backups/2026-10-23 NPC placement sweep | No other file named Clasp or Myriad outside z_ folders. faction/clasp and faction/myriad tags unchanged. .obsidian/copilot-index json still holds the old [[Myriad]] text (cache, left alone). Not opened in Obsidian.
+
+2026-10-23 | NPC placement sweep, naming | Renamed Draconia (empty faction stub) to Draconia - DM Notes and repointed its one DM-side link (Brainstorms about Dechs and the Herbs); Player Wiki [[Draconia]] links untouched; fill-in reminder added under item 6. Renamed the DM campaign hub and its folder to Campaigns/Prophecy of Eryndor - DM Notes/Prophecy of Eryndor - DM Notes.md so Player Wiki [[Prophecy of Eryndor]] links resolve only to Player Wiki/Exandria/Lore. Updated the one DM-side link (NPC Browser), Calendarium note paths, Recent Files, workspace.json and the vault_inspector campaign entries. Left as written: four one-off scripts in .scripts and two z_Reference reports (old paths). Not tested in Obsidian: folder-note behavior for the new name, Calendarium event links, the hub's NPC Browser and Bases embeds, Templater Campaign Template on a new campaign.

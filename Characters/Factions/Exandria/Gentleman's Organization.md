@@ -34,7 +34,7 @@ tags:
 
 ## Relationships
 
-**Allies:** the wider [[Myriad]]. Zadash runs with wide independence and owes a share; other bosses deal with the Gentleman by letter and believe he survived the crackdown
+**Allies:** the wider [[Myriad - DM Notes|Myriad]]. Zadash runs with wide independence and owes a share; other bosses deal with the Gentleman by letter and believe he survived the crackdown
 **Rivals:** Myriad factions that sense weakness since the crackdown; Crownsguard and Righteous Brand officers who can't be bought
 **Neutral:** [[Vaud Qalix - DM Notes|Qalix]]'s network, a paying client
 

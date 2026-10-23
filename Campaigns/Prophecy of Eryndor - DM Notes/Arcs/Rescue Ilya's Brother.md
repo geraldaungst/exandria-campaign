@@ -27,7 +27,7 @@ tier: standard
 
 ### Recent Events
 
-- Party learns that [[Cloudfang Keep - DM Notes]] is where both Ilya's brother ([[Varnes Dwell]]) is and where [[Dreyara Drimvar - DM Notes|Dreyara]] is likely heading.
+- Party learns that [[Cloudfang Keep - DM Notes]] is where both Ilya's brother ([[Varnes Dwell - DM Notes|Varnes Dwell]]) is and where [[Dreyara Drimvar - DM Notes|Dreyara]] is likely heading.
 - Cloudfang Keep is in the high elevations of the Cyrios Mountains (cold climate).
 
 ### Active Elements
@@ -41,7 +41,7 @@ tier: standard
 ## Player Knowledge
 
 - What they know:
-	- [[Cloudfang Keep - DM Notes]] is where both Ilya's brother ([[Varnes Dwell]]) is and where [[Dreyara Drimvar - DM Notes|Dreyara]] is likely heading.
+	- [[Cloudfang Keep - DM Notes]] is where both Ilya's brother ([[Varnes Dwell - DM Notes|Varnes Dwell]]) is and where [[Dreyara Drimvar - DM Notes|Dreyara]] is likely heading.
 	- Be prepared for basilisks and other ways people are turned to stone.
 - What they think they know:
 	- [[Dreyara Drimvar - DM Notes|Dreyara]] is going to be there when they arrive.

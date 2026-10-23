@@ -48,7 +48,7 @@ tags:
 
 As of 27 Thunsheer 835. Detail in [[Qalix's Network]].
 
-- **26–27 Thunsheer:** The handler's Sending tells him Dreyara is dead, Cloudfang was raided, [[Varnes Dwell]] is free, and the attackers took Shard 6 and the crystal
+- **26–27 Thunsheer:** The handler's Sending tells him Dreyara is dead, Cloudfang was raided, [[Varnes Dwell - DM Notes|Varnes Dwell]] is free, and the attackers took Shard 6 and the crystal
 - **The crystal:** He knows it only as the "temporal crystal" he made the priority of Emer's research. He does not know it is a Luxon Beacon
 - **10–24 Unndilar:** Emer's full report arrives by courier, naming Drawg, Seraphina and a gnome
 - **Rexxentrum:** Dreyara was to steal Shard 5 with [[Korfel Withrethin|the Gentleman]]'s help. The Gentleman holds Qalix's down payment ([[Characters/Factions/Exandria/Gentleman's Organization]])
@@ -64,7 +64,7 @@ As of 27 Thunsheer 835. Detail in [[Qalix's Network]].
 	- [[Thok-Kynn Dalca]]: treasurer
 	- [[Gorrath the Stonebinder]]: architect in charge of rebuilding Draconia
 	- [[Dreyara Drimvar - DM Notes|Dreyara Drimvar]]: spymaster. Dead, 25 Thunsheer 835; successor undecided
-- **Allies:** the [[Myriad]] and the [[Clasp]], plus private mercenaries and researchers. Field network (Lady Emer, the handler, [[Valen Elderguard]]'s cell, [[Kexira Suulveth]]): [[Qalix's Network]]
+- **Allies:** the [[Myriad - DM Notes|Myriad]] and the [[Clasp - DM Notes|Clasp]], plus private mercenaries and researchers. Field network (Lady Emer, the handler, [[Valen Elderguard]]'s cell, [[Kexira Suulveth]]): [[Qalix's Network]]
 - **Needs:** the shards he knows of; components from the Elemental Planes to cleanse them; a Chronurgy wizard to weave them together ([[Iliara Firth]], not yet recruited); a rift large enough to power the [[Harmonic Planar Conduit]]
 
 ## Hidden Information

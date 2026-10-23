@@ -209,7 +209,7 @@ The statues in the garden are petrified individuals who failed Lady Emer's exact
 - **Gorith Tork** (orc blacksmith): Came seeking work repairing the keep, wandered into the wrong room and triggered a security measure
 - **Kaxor** (lizardfolk hunter): Failed assistant who kept contaminating specimens with improper handling
 - **Septima Vinculum** (kobold decanus): Became too frightened during fieldwork at a rift site and fled, abandoning critical equipment
-- **[[Varnes Dwell]]** (human tactician): Delivered to Lady Emer by Dreyara for interrogation about his knowledge; being held for Qalix rather than displayed as a failed assistant
+- **[[Varnes Dwell - DM Notes|Varnes Dwell]]** (human tactician): Delivered to Lady Emer by Dreyara for interrogation about his knowledge; being held for Qalix rather than displayed as a failed assistant
 - **Worjo** (minotaur devastator): Broke into the keep seeking treasure, destroyed several irreplaceable artifacts in the process
 - **Orgor** (Githzerai monk): Sent by concerned parties to investigate Lady Emer's "dangerous experiments," caught attempting sabotage"
 

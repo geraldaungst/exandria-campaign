@@ -38,7 +38,7 @@ How [[Vaud Qalix - DM Notes|Vaud Qalix]]'s intelligence network passes informati
 
 ### Who knows what (as the party reaches Zadash)
 
-- **Qalix:** Dreyara is dead, Cloudfang was raided, [[Varnes Dwell]] is free, and the crystal and Shard 6 were taken by the people who did it. Names and Emer's full account follow by courier. His response is undecided.
+- **Qalix:** Dreyara is dead, Cloudfang was raided, [[Varnes Dwell - DM Notes|Varnes Dwell]] is free, and the crystal and Shard 6 were taken by the people who did it. Names and Emer's full account follow by courier. His response is undecided.
 - **Lady Emer:** everything she saw at Cloudfang, plus Ra'ak's account. Has vowed revenge. Slants her reports to protect her standing.
 - **Ra'ak:** saw Dreyara die and the party take the shard. Free. Says he was just hired muscle.
 - **The handler:** Emer's full report.
