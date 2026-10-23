@@ -1,13 +1,11 @@
 ---
-affiliations:
-  - "[[Dwendalian Empire - DM Notes]]"
-disposition: indifferent
 tags:
   - organization
   - world/exandria
   - region/dwendalian-empire
   - faction/ring-of-three
 ---
+**Relationships:** [[Dwendalian Empire - DM Notes]]
 
 Leaders of the city of Bysaes Tyl
 

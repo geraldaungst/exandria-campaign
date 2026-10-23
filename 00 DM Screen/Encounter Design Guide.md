@@ -1,8 +1,6 @@
 ---
 tags:
-  - dm-tools
-  - encounters
-  - combat
+  - dm-tool
 ---
 
 ## Encounter Design Guide

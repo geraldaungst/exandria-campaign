@@ -54,9 +54,10 @@ Related notes: [[DM Hubs Design]] (hub rules, campaign notes, session date field
 | `needs-work` | Stub or incomplete (110 notes) |
 | `improvised` | Stubs made by [[Quick Capture]] |
 | `inline-events` | Notes holding Calendarium inline events (timeline, shard notes) |
-| `dm-tool` | DM Screen tools ([[Hub Config]] also accepts `dm-tools`) |
+| `dm-tool` | DM Screen tools |
 | `player-facing`, `table-rules` | Player Wiki only |
-| In use, no ruling | `hook` (7), `deceased` (6), `offscreen` (5), `compendium` (5), `copilot-conversation` (4), `reference`, `vehicle`, `dm-only`, `dm-document`, `faction-event`, `status`, `wildemount` (2 each), `antagonist`, `historical`, `filler`, `pending`, `npc-database`, `encounters`, `combat`, `item`, `2` (1 each) |
+| Kept, ruled 2026-10-22 | `hook`, `offscreen`, `deceased` (state flags), `copilot-conversation` (marks AI chats; ignored otherwise), `artifact` (items, including Laucian's Artifact) |
+| Retired 2026-10-22 | `dm-tools` (use `dm-tool`), `compendium`, `dm-document`, `status`, `2`, `pending`, `npc-database`, `encounters`, `combat`, `historical`, `antagonist`, `filler` (the arc's `tier` property says it), `wildemount`, `vehicle`, `reference`, `dm-only`, `faction-event` |
 
 ### By note type
 
@@ -82,9 +83,9 @@ Counts are notes outside the Player Wiki carrying the type tag.
 
 Registered property types (`.obsidian/types.json`): `aliases`, `cssclasses`, `tags`, `class`, `connections`, `knowledge`, `locations`, `hide_from_related`, `Processed`.
 
-### Open (Gerald decides)
+### Rulings of 2026-10-22 (property and tag decisions)
 
-1. **Old properties held back.** Their values appear nowhere else in the note, so removing them would lose information: `affiliations` on Ring of Three (Dwendalian Empire) and Scars of Scale and Tooth (Emissaries of the Sunfall); `current_location` on Cerberus Assembly and Dwendalian Empire (Rexxentrum) and Kryn Dynasty (Rosohna); `settlement-type: roadside tavern` on Gnurlsotten's Nosh & Nip; `region: "Tal'Dorei"` on Randmork Stringsaw, which contradicts his `region/dwendalian-empire` and `place/zadash` tags. Move each value into the body or a tag, or drop it?
-2. **`disposition`.** It stays on NPCs: the NPC Browser filters and shows it, and Gerald asked for it there (2026-10-21). Fill in the 46 NPCs without it? Drop it from the 16 faction notes and 2 atomic event notes, where nothing reads it?
-3. **Tags with no ruling** (last row of the tag table). `item` is already retired. Which of the others stay?
-4. **Missing tags.** 37 Exandria NPCs lack `place/`; 19 NPC-tagged notes lack `region/`. Tracked as item 5 in the reorganization status note.
+1. **Old properties.** `current_location` became a `**Base:**` link (Cerberus Assembly, Dwendalian Empire, Kryn Dynasty); `affiliations` became a `**Relationships:**` link (Ring of Three, Scars of Scale and Tooth). No nested faction tags. `settlement-type` (Gnurlsotten's Nosh & Nip) and the `region` property on Randmork Stringsaw were dropped.
+2. **`disposition`.** Stays on NPCs and is removed from the 16 non-NPC notes in `Characters/Factions`. NPCs without a value are filled in as they are touched.
+3. **Tags.** See the Kept and Retired rows in the tag table.
+4. **Missing tags.** Continents are `region/` tags with no `place/` tag (`region/taldorei`, `region/callastri`). A `location` note gets `world/`, `region/` and, where it is a place, `place/`. Nine location notes were fixed; Xhorhas Landing (an encounter that never happened) and Skyship Distances (a world-wide table) get no place or region. NPC `region/` is not inferred: only one of the 19 Exandria NPCs without it has a place tag, and that place has no region. Fill both as NPCs are touched; no bulk pass.

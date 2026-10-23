@@ -1,6 +1,5 @@
 ---
 tags:
-  - historical
   - needs-work
   - npc
   - world/exandria

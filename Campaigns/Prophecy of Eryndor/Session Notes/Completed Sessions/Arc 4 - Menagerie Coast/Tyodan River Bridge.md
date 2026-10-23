@@ -4,6 +4,7 @@ tags:
   - location
   - region/menagerie-coast
   - place/tyodan-river
+  - world/exandria
 ---
 
 ## Quick Reference

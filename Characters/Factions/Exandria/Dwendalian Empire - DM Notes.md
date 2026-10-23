@@ -1,14 +1,13 @@
 ---
 aliases:
   - the empire
-current_location: "[[Rexxentrum - DM Notes]]"
-disposition: indifferent
 tags:
   - organization
   - world/exandria
   - region/dwendalian-empire
   - faction/dwendalian-empire
 ---
+**Base:** [[Rexxentrum - DM Notes]]
 
 ## Dwendalian Empire
 

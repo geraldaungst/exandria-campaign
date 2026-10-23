@@ -56,7 +56,6 @@ tag_session: session
 tag_timeline: inline-events
 tags_dm_tools:
   - dm-tool
-  - dm-tools
 template_faction: Faction Template
 template_item: Artifact-Item Template
 template_location: Location Template

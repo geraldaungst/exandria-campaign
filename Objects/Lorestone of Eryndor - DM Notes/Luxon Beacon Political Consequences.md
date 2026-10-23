@@ -2,7 +2,6 @@
 tags:
   - atomic
   - campaign/eryndor
-  - dm-only
   - artifact
 ---
 

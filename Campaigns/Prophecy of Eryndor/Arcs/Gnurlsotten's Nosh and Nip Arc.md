@@ -2,7 +2,6 @@
 status: complete
 tags:
   - campaign/eryndor
-  - filler
   - arc
   - place/gnurlsottens
 tier: filler

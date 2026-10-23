@@ -1,7 +1,4 @@
 ---
-affiliations:
-  - "[[Emissaries of the Sunfall - DM Notes]]"
-disposition: indifferent
 tags:
   - organization
   - world/exandria
@@ -9,6 +6,7 @@ tags:
   - offscreen
   - faction/scars-of-scale-and-tooth
 ---
+**Relationships:** [[Emissaries of the Sunfall - DM Notes]]
 
 ![[xarzith-kitril-council.png|right|300]]
 

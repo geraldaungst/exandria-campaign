@@ -1,5 +1,4 @@
 ---
-disposition: indifferent
 tags:
   - organization
   - world/exandria

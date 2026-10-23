@@ -1,8 +1,3 @@
----
-tags:
-  - compendium
----
-
 ![[etcheda-monkey-token.png|300|right]]
 
 *Small monstrosity, unaligned*

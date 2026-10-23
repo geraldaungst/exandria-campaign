@@ -1,8 +1,6 @@
 ---
 tags:
   - campaign/eryndor
-  - dm-document
-  - status
 ---
 
 ## Current Party Situation

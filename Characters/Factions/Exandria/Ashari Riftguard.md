@@ -1,7 +1,6 @@
 ---
 aliases:
   - riftguard
-disposition: indifferent
 tags:
   - organization
   - world/exandria

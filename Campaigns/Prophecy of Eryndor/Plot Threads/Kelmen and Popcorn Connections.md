@@ -4,7 +4,6 @@ aliases:
   - Popcorn Feywild Thread
 tags:
   - campaign/eryndor
-  - dm-only
   - atomic
   - lore
 ---

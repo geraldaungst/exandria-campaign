@@ -1,7 +1,6 @@
 ---
 tags:
   - campaign/eryndor
-  - 2
 ---
 
 ## Group Teambuilding

@@ -1,6 +1,6 @@
 ---
 tags:
-  - compendium
+  - artifact
 ---
 
 One of these...

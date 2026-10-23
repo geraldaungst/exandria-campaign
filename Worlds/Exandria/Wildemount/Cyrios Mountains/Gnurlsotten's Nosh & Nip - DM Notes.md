@@ -1,9 +1,7 @@
 ---
-settlement-type: roadside tavern
 tags:
   - location
   - campaign/eryndor
-  - wildemount
   - place/gnurlsottens
   - world/exandria
   - region/cyrios-mountains

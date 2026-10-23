@@ -3,6 +3,7 @@ tags:
   - location
   - place/single-swig-saloon
   - world/planar
+  - region/multiplanar
 ---
 
 ## Introduction

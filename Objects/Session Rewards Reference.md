@@ -1,8 +1,3 @@
----
-tags:
-  - reference
----
-
 ## Session Rewards Reference
 
 ### Reward Categories

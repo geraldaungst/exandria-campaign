@@ -1,5 +1,4 @@
 ---
-disposition: friendly
 tags:
   - world/exandria
   - region/greying-wildlands

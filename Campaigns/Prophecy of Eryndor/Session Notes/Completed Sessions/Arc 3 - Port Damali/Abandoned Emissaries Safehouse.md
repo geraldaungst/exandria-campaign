@@ -3,6 +3,8 @@ tags:
   - campaign/eryndor
   - location
   - place/port-damali
+  - world/exandria
+  - region/menagerie-coast
 ---
 
 ## Exterior

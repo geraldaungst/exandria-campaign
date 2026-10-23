@@ -1,7 +1,6 @@
 ---
 aliases:
   - echoforge
-disposition: friendly
 tags:
   - organization
   - offscreen

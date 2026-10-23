@@ -31,7 +31,7 @@ const CONFIG_DEFAULTS = {
   faction_tag_prefix: "faction",
   tag_item: "artifact",
   tag_lore: "lore",
-  tags_dm_tools: ["dm-tool", "dm-tools"],
+  tags_dm_tools: ["dm-tool"],
   tag_needs_work: "needs-work",
   tag_campaign_note: "campaign-hub",
   campaign_tag_prefix: "campaign/",

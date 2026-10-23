@@ -1,12 +1,10 @@
 ---
 tags:
-  - location
   - world/exandria
   - region/xhorhas
 ---
 
 Two of the passengers (not a hijacker) will be injured and ask the characters to help them get back to their family in Talonstadt.
 
-	- [[Tharivol]]
-
-	- [[Sariel]]
+- [[Tharivol]]
+- [[Sariel]]

@@ -1,7 +1,6 @@
 ---
 tags:
   - region/menagerie-coast
-  - vehicle
 ---
 
 (Captain Rizzen T'orgh).

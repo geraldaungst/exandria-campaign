@@ -1,8 +1,3 @@
----
-tags:
-  - reference
----
-
 ## Location Idea Generator
 
 ### Quick Location Creation

@@ -2,7 +2,6 @@
 aliases:
   - The Melthes Kidnapping
   - Melthes Recruitment
-disposition: indifferent
 tags:
   - hook
   - offscreen

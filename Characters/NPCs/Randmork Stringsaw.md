@@ -1,5 +1,4 @@
 ---
-region: "Tal'Dorei"
 tags:
   - needs-work
   - npc

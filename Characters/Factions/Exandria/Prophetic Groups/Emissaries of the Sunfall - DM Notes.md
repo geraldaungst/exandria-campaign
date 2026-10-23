@@ -2,7 +2,6 @@
 aliases:
   - EOTS
   - emissaries
-disposition: hostile
 tags:
   - organization
   - offscreen

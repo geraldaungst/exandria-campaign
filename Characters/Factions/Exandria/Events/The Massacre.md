@@ -1,9 +1,7 @@
 ---
-disposition: indifferent
 tags:
   - world/exandria
   - atomic
-  - faction-event
 ---
 
 ## Core Information

@@ -1,6 +1,5 @@
 ---
 cssclasses: "- wide-table"
-disposition: indifferent
 tags:
   - world/exandria
 ---

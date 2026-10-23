@@ -1,7 +1,5 @@
 ---
 cssclasses: wide-table
-tags:
-  - npc-database
 ---
 
 See also [[NPC Stat Block Reference Table]]

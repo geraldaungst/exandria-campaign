@@ -2,7 +2,6 @@
 aliases:
   - valen
 tags:
-  - antagonist
   - npc
   - world/exandria
   - region/dwendalian-empire

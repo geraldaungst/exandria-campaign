@@ -1,8 +1,6 @@
 ---
 aliases:
   - the dynasty
-current_location: "[[Rosohna]]"
-disposition: indifferent
 tags:
   - organization
   - offscreen
@@ -10,6 +8,7 @@ tags:
   - region/xhorhas
   - faction/kryn-dynasty
 ---
+**Base:** [[Rosohna]]
 
 ## Goals
 

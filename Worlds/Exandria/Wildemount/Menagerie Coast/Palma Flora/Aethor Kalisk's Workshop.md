@@ -2,6 +2,9 @@
 tags:
   - atomic
   - location
+  - world/exandria
+  - region/menagerie-coast
+  - place/palma-flora
 ---
 
 ## Core Information
