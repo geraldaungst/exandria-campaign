@@ -11,7 +11,7 @@ tags:
 ## Quick Reference
 
 > [!info] Essential Details
-> - Main Location(s): [[The Shrine of Melora - DM Notes]]
+> - Main Location(s): [[Shrine of Melora - DM Notes|The Shrine of Melora]]
 > - Active Quests: [[Understanding the Rifts]]
 > - Important NPCs: [[Malachite Cord - DM Notes]], [[Rinneth Starsong - DM Notes]]
 > - Previous Session: [[Session 12 & 13 - Finding the Compass]]
@@ -31,7 +31,7 @@ tags:
 
 ### Prepared NPCs
 
-[[The Shrine of Melora - DM Notes#NPCs Present]]
+[[Shrine of Melora - DM Notes#NPCs Present|The Shrine of Melora]]
 
 ### Potential Encounters
 

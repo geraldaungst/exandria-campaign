@@ -38,7 +38,7 @@ Shard 5 of the [[Lorestone of Eryndor - DM Notes|Lorestone of Eryndor]]. Hub: [[
 
 ## History
 
-- **Before the campaign** · holder · Kept in an unauthorized, warded vault for a secret Cobalt Soul research project. · [[Archivist Ovedo]] · at [[Cobalt Soul Archive in Rexxentrum - DM Notes|Cobalt Soul Archive]]
+- **Before the campaign** · holder · Kept in an unauthorized, warded vault for a secret Cobalt Soul research project. · [[Archivist Ovedo]] · at [[Cobalt Soul Archive in Rexxentrum|Cobalt Soul Archive]]
 - **Before the campaign** · knows where · Found the vault during a security assessment of the Archive; Ovedo paid him to keep quiet. · [[Varnes Dwell - DM Notes|Varnes Dwell]]
 - **Before the campaign** · knows exists · Learned that Varnes knew something; Dreyara delivered Varnes to Lady Emer for questioning. · [[Vaud Qalix - DM Notes|Vaud Qalix]]
 - **19 Thunsheer 835** · knows where · <span data-date="835-04-19" data-category="Lorestone" data-name="Shard 5: party learns of it">At Cloudfang Keep, Varnes Dwell tells the party the Cobalt Soul Archive in Rexxentrum hides a shard.</span> · Party · [[Session 33 - What to Do with Lady Emer?|Session 33]]

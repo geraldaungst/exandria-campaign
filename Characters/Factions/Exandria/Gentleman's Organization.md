@@ -42,7 +42,7 @@ tags:
 
 ### The Rexxentrum Job
 
-- After Korfel took the seat, [[Dreyara Drimvar - DM Notes|Dreyara]] recruited the Gentleman for [[Vaud Qalix - DM Notes|Qalix]]'s planned heist of the [[Cobalt Soul Archive in Rexxentrum - DM Notes|Rexxentrum Archive]] (Shard 5). His tunnels and smuggling routes were to move a crew into Rexxentrum and carry the shard out through Zadash. The crackdown had cost him people and money, so he took a risky job for a foreign employer
+- After Korfel took the seat, [[Dreyara Drimvar - DM Notes|Dreyara]] recruited the Gentleman for [[Vaud Qalix - DM Notes|Qalix]]'s planned heist of the [[Cobalt Soul Archive in Rexxentrum|Rexxentrum Archive]] (Shard 5). His tunnels and smuggling routes were to move a crew into Rexxentrum and carry the shard out through Zadash. The crackdown had cost him people and money, so he took a risky job for a foreign employer
 - The contact ran through [[Father Dwondaff Pierce]] in Port Damali
 - Since Dreyara's death he holds Qalix's down payment and a half-planned job. His network told him of her death on 27–28 Thunsheer 835, with descriptions of three of her killers; his people are watching for them. Whether Qalix sends someone to finish the job, and who, is open. See [[Qalix's Network]]
 - If asked at the table: "She was hiring for a job up north."

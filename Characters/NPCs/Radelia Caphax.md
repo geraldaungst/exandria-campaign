@@ -12,7 +12,7 @@ tags:
 ## Quick Reference
 
 > [!info] Essential Details
-> - **Location:** [[The Shrine of Melora - DM Notes]]
+> - **Location:** [[Shrine of Melora - DM Notes|The Shrine of Melora]]
 > - **Goal:** Support [[Rinneth Starsong - DM Notes]] and oppose the [[Obsidian Echoforge - DM Notes]]
 > - **Attitude toward party:** Wary
 > - **Key role:** High-ranking [[Malachite Cord - DM Notes]] member; Cord's inner circle alongside [[Kael Dren'eth]]
@@ -29,7 +29,7 @@ Attractive woman, lean and moderately muscular. Large tan jacket, well-kept copp
 
 ## Current Situation
 
-Recently returned from the Whitestone festival via the [[Sessions 1 to 3 - The Skyship|Unshaken]], where she was selling Cithrel Textiles goods as cover. Followed [[Aethor Kalisk - DM Notes]] around [[Port Damali - DM Notes]], gathering intelligence on his activities. Now stationed at [[The Shrine of Melora - DM Notes]] reporting to [[Rinneth Starsong - DM Notes]].
+Recently returned from the Whitestone festival via the [[Sessions 1 to 3 - The Skyship|Unshaken]], where she was selling Cithrel Textiles goods as cover. Followed [[Aethor Kalisk - DM Notes]] around [[Port Damali - DM Notes]], gathering intelligence on his activities. Now stationed at [[Shrine of Melora - DM Notes|The Shrine of Melora]] reporting to [[Rinneth Starsong - DM Notes]].
 
 **Immediate plans:** Recover [[Radelia's Leather Satchel]], then return home to [[Odessloe]].
 

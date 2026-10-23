@@ -15,7 +15,7 @@ tags:
 ## Quick Reference
 
 > [!info] Essential Details
-> - Current Location: [[The Shrine of Melora - DM Notes]]
+> - Current Location: [[Shrine of Melora - DM Notes|The Shrine of Melora]]
 > - Key Motivation: Prevent catastrophic magical events foreseen in her visions
 > - Attitude toward party: Cautiously friendly, evaluating their potential role in her visions
 

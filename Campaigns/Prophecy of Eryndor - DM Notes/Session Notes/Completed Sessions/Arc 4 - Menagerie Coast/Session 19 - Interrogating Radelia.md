@@ -34,7 +34,7 @@ tags:
 
 #### Location Details
 
-- Location name: [[The Shrine of Melora - DM Notes]]
+- Location name: [[Shrine of Melora - DM Notes|The Shrine of Melora]]
 
 ## Session Notes
 

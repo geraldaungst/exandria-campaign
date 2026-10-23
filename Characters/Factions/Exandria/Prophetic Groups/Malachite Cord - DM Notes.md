@@ -106,7 +106,7 @@ Leader: [[Rinneth Starsong - DM Notes]]
 
 - They are working short term to prevent the the location of and long term to determine the actual source of the corruption in order to heal the Savalirwood and return it ultimately to its healthy state.
 - They are also working to prevent the restoration of the [[Lorestone of Eryndor - DM Notes]] as they believe it to be a dangerous artifact.
-- Attemping to restore and rededicate [[The Shrine of Melora - DM Notes]].
+- Attemping to restore and rededicate [[Shrine of Melora - DM Notes|The Shrine of Melora]].
 
 ### Recent Events
 
@@ -121,7 +121,7 @@ Group 2 on the [[Sessions 1 to 3 - The Skyship|Skyship]].
 
 ### Short-term Goals
 
-- [ ] Restore and rededicate [[The Shrine of Melora - DM Notes]]
+- [ ] Restore and rededicate [[Shrine of Melora - DM Notes|The Shrine of Melora]]
 
 ### Long-term Aspirations
 

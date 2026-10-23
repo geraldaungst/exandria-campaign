@@ -37,7 +37,7 @@ As of 28 Thunsheer 835. Network detail: [[Qalix's Network]].
 
 - Has held the seat since the crackdown of winter 834–835. His grip is new, and he rules harder than his predecessor
 - **27–28 Thunsheer:** his connections told him [[Dreyara Drimvar - DM Notes|Dreyara]] is dead, with descriptions of three of her killers. His people are watching for them
-- Holds [[Vaud Qalix - DM Notes|Qalix]]'s down payment for a half-planned heist of the [[Cobalt Soul Archive in Rexxentrum - DM Notes|Rexxentrum Archive]] (Shard 5)
+- Holds [[Vaud Qalix - DM Notes|Qalix]]'s down payment for a half-planned heist of the [[Cobalt Soul Archive in Rexxentrum|Rexxentrum Archive]] (Shard 5)
 - **Does not know:** that the party carries Shard 6 or the crystal, or that Hesterian is alive and with them
 
 ## Hidden Information

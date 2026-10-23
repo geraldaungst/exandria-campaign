@@ -11,7 +11,7 @@ tags:
 ## Quick Reference
 
 > [!info] Essential Details
-> - Main Location(s): [[The Shrine of Melora - DM Notes]]
+> - Main Location(s): [[Shrine of Melora - DM Notes|The Shrine of Melora]]
 > - Active Quests: [[Search for the Stonefoot Compass]]
 > - Important NPCs: [[Rinneth Starsong - DM Notes]], [[Radelia Caphax]]
 > - Previous session: [[Session 14 to 16 - Rift to the Elemental Plane of Fire]]
