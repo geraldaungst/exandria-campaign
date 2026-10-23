@@ -1,17 +1,17 @@
 ---
 arc: "[[Deastok Investigation]]"
 date: 2026-09-06
+fc-calendar: Exandrian Calendar
+fc-category: Sessions
+fc-date: "835-04-26"
+fc-display-name: "Session 49"
+fc-end: "835-04-27"
+ingame_time: Morning
 previous_session:
 session_number: 49
 tags:
   - campaign/eryndor
   - session
-fc-calendar: Exandrian Calendar
-fc-date: "835-04-26"
-fc-end: "835-04-27"
-ingame_time: Morning
-fc-display-name: "Session 49"
-fc-category: Sessions
 ---
 
 ## Session 49 - The Wheel, the Comb, and the Watchtower
