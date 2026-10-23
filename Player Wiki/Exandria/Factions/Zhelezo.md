@@ -6,7 +6,7 @@ cssclasses:
   - world-exandria
 publish: true
 tags:
-  - faction
+  - organization
   - player-facing
   - world/exandria
   - region/menagerie-coast

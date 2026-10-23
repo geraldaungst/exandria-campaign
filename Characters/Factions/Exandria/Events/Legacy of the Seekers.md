@@ -1,7 +1,6 @@
 ---
 disposition: indifferent
 tags:
-  - faction
   - world/exandria
   - atomic
   - faction-event

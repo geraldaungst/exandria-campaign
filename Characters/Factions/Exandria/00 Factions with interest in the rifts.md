@@ -2,7 +2,6 @@
 cssclasses: "- wide-table"
 disposition: indifferent
 tags:
-  - faction
   - world/exandria
 ---
 

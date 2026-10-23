@@ -4,7 +4,6 @@ aliases:
   - Melthes Recruitment
 disposition: indifferent
 tags:
-  - faction
   - hook
   - offscreen
   - world/exandria

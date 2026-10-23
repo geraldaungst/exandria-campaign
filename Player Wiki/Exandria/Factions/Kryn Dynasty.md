@@ -1,6 +1,6 @@
 ---
 tags:
-  - faction
+  - organization
   - player-facing
   - world/exandria
   - region/xhorhas

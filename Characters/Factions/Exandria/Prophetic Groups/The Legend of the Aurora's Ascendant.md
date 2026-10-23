@@ -1,7 +1,6 @@
 ---
 disposition: friendly
 tags:
-  - faction
   - world/exandria
   - region/greying-wildlands
 ---
