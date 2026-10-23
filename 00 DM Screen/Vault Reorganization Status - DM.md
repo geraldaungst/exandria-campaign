@@ -77,7 +77,7 @@ Carried over from the audit and Phase 8 so the work does not depend on the archi
 | B | Tyranny NPCs | done 2026-10-19 (retagged to `world/toril`, `region/sword-coast`, `campaign/tyranny`; 13 stubs deleted) |
 | C | Template simplification | done per the document's completed list; the NPC, Faction, Location and Encounter templates were rewritten 2026-10-21. All templates with code re-audited 2026-10-22 (refactor pass in the Phase log); Plot Thread, Atomic Note and Note Refactor have no code and were not changed |
 | D | File triage | open. Only the NPC tag work has happened; no triage by category was recorded |
-| E | Verification | partly done: old folder names survive only in documentation; the three `folder-overview` hits are valid (Folder Notes); the only numbered folders are `00 DM Screen` and a session folder named `00-2 Session Zero`. Not done: the broken-link check (83 notes have unresolved links, see below) |
+| E | Verification | partly done: old folder names survive only in documentation; the three `folder-overview` hits are valid (Folder Notes); the only numbered folders are `00 DM Screen` and a session folder named `00-2 Session Zero`. Broken-link check done 2026-10-23 (item 7) |
 | F | Vault Health dashboard (optional) | not built. Bases cannot list unresolved links; Janitor covers orphans. Decide: build, or drop |
 
 #### NPC folder audit
@@ -119,7 +119,7 @@ Verified against the vault on 2026-10-22.
 - Triage of the five NPC-topic notes in the campaign folder done 2026-10-23 (see the log). Not yet triaged: the rest of what the NPC and tag work left over.
 - Stub to fill in later: [[Draconia - DM]] (renamed from Draconia 2026-10-23). It is still the empty Faction Template (tags `organization`, `faction/draconia`, `needs-work`). Fill it in when the Restore Draconia plot thread or Qalix's plan next comes up at the table; delete it only if it never gets used. The player-wiki location page `Draconia` is separate and keeps the plain name.
 
-**7. Unresolved links.** 83 notes have wiki-links that point to no note (3,503 links checked outside z_ folders). Examples: `Xanaphia Lothliss`, `Odessloe`, `Garden Grounds`, `Hollow One`, plus compendium-style links ending in `-tdcsr`. 14 are in session notes. Not categorized yet: some may be intended future notes or compendium links.
+**7. Unresolved links.** Done 2026-10-23, apart from the planned notes. Check: `.scripts/scan_unresolved_links.py` (read-only; resolves by file name; handles aliases, headings, embeds and escaped pipes; ignores links in code; `--json file` gives detail). Live notes (everything outside Player Wiki, z_Reference, z_Archive and z_Templates): 2,845 links checked, 0 unplanned unresolved links outside code. 34 links to 13 planned notes stay unresolved on purpose, listed in `.scripts/planned_link_targets.txt`: Xanaphia Lothliss, Odessloe, Ilixidor Alo, Illyndra Shadowveil, Cairel Ulthe, Hupperdook, Sunset Sail, Tur-Marethis, Kelmen Ritual Resolution, The Ring, Ruins of Marethis, Watcher's Knee, Varrin. When one of those notes is written, delete its name from the file; if the plan is dropped, strip its links first. Left alone: 33 occurrences inside code blocks (00 DM Screen/Code, DM Hubs Design, Roll20 Script Reference, Table References), and the closed Plugin Migration Status log lines (the scanner skips that file). Not touched, out of scope: Player Wiki (10 unresolved links in 8 notes: Wynandir x2, Varrinthal City x3, Skarnveil x2, Calamity, Dessarin the Ninth, kneestone), z_Archive (57 in 2 notes, including Deastok Investigation OLD) and z_Templates (placeholder text). Decisions, counts and backups are in the log lines of 2026-10-23 (link cleanup batches 1 to 4). Stripped Deastok survey-crew NPCs (Jorun, Aldous, Wenna, Torvald, Brynna, Erma) get their links back if they become notes.
 
 **8. Calendarium shows some Eryndor Timeline events twice.** Found 2026-10-23, not yet diagnosed. Checked from the files: the 21 inline events in [[Eryndor Timeline]] have no duplicate names or dates among themselves, and none repeat the 55 events stored in Calendarium's own data. The eight Lorestone shard notes also hold inline events (18 in all, such as "Shard 6: looted by Qilynn" on 835-04-25) that may mirror timeline events and could be the second copy. Next step: open the calendar and note which events double (name and date), then compare them with the timeline and the shard notes. Fix by deleting one copy or by removing the `inline-events` tag from the shard notes.
 
@@ -131,17 +131,17 @@ The Plan's final checklist, reworded for the current stack. Gerald confirms the 
 
 | Item | Status |
 |---|---|
-| Session notes accessible and linked | open; 14 session notes have unresolved links (item 7). Obsidian |
+| Session notes accessible and linked | links done 2026-10-23: no session note has an unplanned unresolved link. Gerald's Obsidian check 2026-10-23: appears to work |
 | Bases and Datacore views return expected results | open. Logged as checked: Lorestone hub, NPC Browser, Aveqtaro tracker. No logged check: Session Hub, Recent Work.base, Related Notes.base, 00 DM Screen hub. Obsidian |
 | GitHub sync works | local `main` matches `origin/main` at 3e41ee8 (2026-10-22 15:23). Pushes work |
 | Claude project can see campaign content | partly: project search returns campaign notes, but its copy of Aveqtaro Thaan is an older version and does not include the newer subnotes. The project lags the vault |
-| Links between notes work | open; see item 7 |
+| Links between notes work | done 2026-10-23: 0 unplanned unresolved links in live notes (item 7). Gerald's Obsidian check 2026-10-23: appears to work |
 | Tags appear correctly in the tag pane | open. Tag use verified in files; the pane is Obsidian |
 | Search scoped to campaign works | open. Test `tag:#campaign/eryndor`, not `campaign/exandria`. Obsidian |
 
 ### Recommended next step
 
-Item 3, the non-NPC sweep of Characters/NPCs, once `Lady Emer Status.md` is deleted (recount first).
+Item 8: open the Calendarium and note which Eryndor Timeline events show twice (name and date), then compare them with the timeline and the shard notes. Item 3's open naming items and the Part D/F decisions (item 6) follow.
 
 ### Phase log
 
@@ -226,3 +226,5 @@ Newest at the bottom. Format: `YYYY-MM-DD | phase | what changed | result`.
 2026-10-23 | link cleanup batch 4 | .scripts/fix_links_batch4.py, compendium-style slugs from the removed DM Compendium plugin: 8 retargeted by name into z_Reference/z-Mechanics (Teleport, Thunderwave, Dispel Magic, Glyph of Warding, Hypnotic Pattern, Sun Blade, Giant Badger (Creature), Giant Weasel (Creature)), 45 stripped to the display text (-tdcsr, -egw, -crcotn, -mpmm items in Character Story Beats and others, Vine Blight, the monument table, the Ceratos self-link). Backups in z_Reference/template-backups/2026-10-23 link cleanup batch 4 | Unresolved outside code 87 to 34; 0 new.
 
 2026-10-23 | item 7, unresolved links | Done. Live notes: 2,845 links checked, 0 unplanned unresolved outside code. Left on purpose: 34 links to 13 planned notes (.scripts/planned_link_targets.txt), 33 occurrences inside code, Plugin Migration Status log lines. Not touched (out of scope): Player Wiki 10 unresolved in 8 notes, z_Archive 57 in 2 notes, z_Templates placeholder text. No files to delete. Undo for any batch: python3 .scripts/fix_links_batchN.py --undo with that batch's backup folder | Checked by file name, not in Obsidian. Not tested: heading anchors without colons, the Rift Closing embed, links into z_Reference/z-Mechanics, graph and backlinks.
+
+2026-10-23 | status note, item 7 closed | Rewrote item 7 (done, planned-notes list, out-of-scope counts), the Part E row, the Session notes and Links between notes rows in Final verification, and the Recommended next step (now item 8) | Gerald checked in Obsidian: appears to work. No other part of the note changed. Backup in z_Reference/template-backups/2026-10-23 link cleanup status note
