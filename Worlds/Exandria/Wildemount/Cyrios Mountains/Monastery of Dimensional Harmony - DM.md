@@ -802,7 +802,7 @@ After the choice, Kelmen looks at the weapon for a long moment. Then:
 
 | Item                   | Value           | Notes                                                                                                |
 | ---------------------- | --------------- | ---------------------------------------------------------------------------------------------------- |
-| Masterwork weapons (3) | 500 gp total    | More as cultural artifacts; chosen weapon → sentient after ritual—see [[kelmen_ritual_resolution]] |
+| Masterwork weapons (3) | 500 gp total    | More as cultural artifacts; chosen weapon → sentient after ritual—see [[Kelmen Ritual Resolution]] |
 | Preservation vessels   | 100 gp          | Coins + gemstones; Investigation DC 14                                                               |
 | Soulwood disks (4)     | 150–200 gp each | Removable after ritual completion; valuable to artificers, druids with planar research interests     |
 

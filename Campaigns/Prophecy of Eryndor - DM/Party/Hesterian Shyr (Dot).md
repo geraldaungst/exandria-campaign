@@ -9,7 +9,7 @@ tags:
 
 ## Character Overview
 
-Hesterian Shyr is a [[Hollow One]] who was murdered and brought back to life under mysterious circumstances. She seeks justice for her death and the wrongful imprisonment of an innocent man, while grappling with her undead nature and fragmented memories.
+Hesterian Shyr is a Hollow One who was murdered and brought back to life under mysterious circumstances. She seeks justice for her death and the wrongful imprisonment of an innocent man, while grappling with her undead nature and fragmented memories.
 
 ## Background
 
@@ -23,7 +23,7 @@ The full details of Hesterian's death can be found in [[Port Damali Murders]]. I
 
 - [[Korfel Withrethin]], her patron, discovered their escape plan through Xanaphia's betrayal
 - Both women were murdered in a tavern room in [[Port Damali - DM]]
-- Hesterian was brought back to life as a [[Hollow One]] with incomplete memories
+- Hesterian was brought back to life as a Hollow One with incomplete memories
 - Korfel framed an innocent stable boy, [[Rylan Estevez]], for the crime (detailed in [[Rylan Estevez Frame Job]])
 
 ### Current Quest
@@ -42,7 +42,7 @@ Hesterian experiences recurring dreams where an old stranger looks her dead in t
 
 > [!secret]- Explanation (DM Only)
 >
-> The vision is actually an echo of a memory contained in a [[stone-of-memory|Stone of Memory]] that Hesterian carries, which she pickpocketed from a former client. The client was a Volstrucker agent, and the stone contains memories related to the Cerberus Assembly:
+> The vision is actually an echo of a memory contained in a Stone of Memory that Hesterian carries, which she pickpocketed from a former client. The client was a Volstrucker agent, and the stone contains memories related to the Cerberus Assembly:
 >
 > **Memory of Ludinus Da'leth:** You are standing in a spacious, well-organized study, overwhelmed by the scent of old tomes and alchemical concoctions. Somehow you know this is the workshop of [[Isolene Fenzana]], one of Ludinus Da'leth's top researchers. Isolene is holding a battered and rusted artifact.
 >
@@ -100,7 +100,7 @@ As a Hollow One, Hesterian:
 
 - **[[The Capture of Melthes]]:** Her brother's fate with the Cerberus Assembly
 - **Justice for [[Rylan Estevez]]:** Freeing the wrongfully imprisoned stable boy
-- **[[stone-of-memory]] Mystery:** Understanding her visions and their connection to the Volstrucker
+- **Stone of Memory Mystery:** Understanding her visions and their connection to the Volstrucker
 
 ### Future Intersections
 
@@ -110,7 +110,7 @@ As a Hollow One, Hesterian:
 
 ## Items of Significance
 
-- **[[stone-of-memory]]:** Unknown source of her mysterious visions
+- **Stone of Memory:** Unknown source of her mysterious visions
 - **Evidence of [[Rylan Estevez Frame Job]]:** Information that could free an innocent man
 - **Personal effects from her former life:** Connections to [[Harmony Hall - DM]] and [[Port Damali - DM]]
 
@@ -124,7 +124,7 @@ As a Hollow One, Hesterian:
 
 ### Identity Questions
 
-- Accepting her nature as a [[Hollow One]]
+- Accepting her nature as a Hollow One
 - Integrating fragmented memories with current goals
 - Defining justice in a morally complex world
 
@@ -199,7 +199,7 @@ I once had a dream where an old stranger looked me dead in the eye, screamed "Sc
 
 #### Explanation?
 
-The vision is actually an echo of a memory contained in a trinket Hesterian carries which she pickpocketed from a former client. The trinket is a [[stone-of-memory|Stone of Memory]], containing two memories. The client from whom she stole the item was a Volstrucker agent. The Stone has the following memory recorded:
+The vision is actually an echo of a memory contained in a trinket Hesterian carries which she pickpocketed from a former client. The trinket is a Stone of Memory, containing two memories. The client from whom she stole the item was a Volstrucker agent. The Stone has the following memory recorded:
 
 > [!info]- Memory of Ludinus Da'leth
 > You are standing in a spacious, well-organized study, you are overwhelmed by the scent of old tomes and alchemical concoctions. Somehow you know this is the workshop of [[Isolene Fenzana]], one of Ludinus Da'leth's top researchers. Isolene is holding a battered and rusted artifact.

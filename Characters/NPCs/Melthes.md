@@ -108,7 +108,7 @@ He was recommended for advanced study under [[Isolene Fenzana]]'s research divis
 
 - [[Xarzith Kitril - DM]] - Home city
 - [[Rexxentrum - DM]] - Last known location (Assembly facility)
-- [[Feywild]]/[[Feydark]] - Source of his abilities
+- Feywild/Feydark - Source of his abilities
 
 ## Connected Elements
 

@@ -30,7 +30,7 @@ tags:
 	- Left the site's fate with the Truscans
 - **Changed at the table:**
 - **Threads moved:** [[Assembling the Lorestone]], [[Cleanse the Savalirwood]]
-- **World next:** [[Aldous Penwrye]] decides in the morning what to do about the site. The party may leave it or press further into Truscan business. Bramwell contact made in Session 51 but not followed up. Jorun still isn't sleeping.
+- **World next:** Aldous Penwrye decides in the morning what to do about the site. The party may leave it or press further into Truscan business. Bramwell contact made in Session 51 but not followed up. Jorun still isn't sleeping.
 
 ## Connected Elements
 

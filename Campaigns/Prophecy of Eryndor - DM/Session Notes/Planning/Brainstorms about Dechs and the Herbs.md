@@ -34,7 +34,7 @@ tags:
 - **Negotiation Tactics:** [[Dreyara Drimvar - DM|Dreyara]] uses a combination of leverage, promises, and strategic offers to gain their cooperation.
 - **Incentives:**
     - For [[Father Dwondaff Pierce]]: Offering rare artifacts for the Pearl Shrine and intelligence on potential threats.
-    - For [[Lord Gabriel Rymmer]]: Access to financial resources and rare artifacts through the auction house.
+    - For Lord Gabriel Rymmer: Access to financial resources and rare artifacts through the auction house.
 
 **Contributions of Myriad Members to Qalix's Plans:**
 
@@ -42,7 +42,7 @@ tags:
     - Offers safe havens and cover operations through the Pearl Shrine.
     - Provides moral and social influence by aligning the shrine's teachings with Qalix's objectives.
     - Provides access to a broader network of support, including funding and manpower.
-- **[[Lord Gabriel Rymmer]]**:
+- **Lord Gabriel Rymmer**:
     - Secures funding through the Exalted Collection Auction House.
     - Provides access to powerful magical items and relics.
     - Manipulates supply chains and market conditions to favor Qalix's operations.

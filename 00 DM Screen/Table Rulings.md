@@ -46,6 +46,6 @@ Within range, detection conveys what the shard's item block describes: direction
 
 ### Handling the Luxon Beacon
 
-**Principle:** Extended study or handling of the [[luxon-beacon-egw|Luxon Beacon]] produces the effects Lady Emer recorded: whispers, a sense of slipping in time, and dreams of other lives. The effects build with extended contact and linger for hours. Brief handling does nothing, and while stowed in an extradimensional space it has no effect (see Extradimensional Spaces).
+**Principle:** Extended study or handling of the [[Luxon Beacon Integration with Lorestone|Luxon Beacon]] produces the effects Lady Emer recorded: whispers, a sense of slipping in time, and dreams of other lives. The effects build with extended contact and linger for hours. Brief handling does nothing, and while stowed in an extradimensional space it has no effect (see Extradimensional Spaces).
 
 **Why this matters:** The players have read her account and will expect it.

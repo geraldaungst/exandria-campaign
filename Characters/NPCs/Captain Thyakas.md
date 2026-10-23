@@ -12,7 +12,7 @@ tags:
 
 ![[thyakas.png|right|300]]
 
-## Captain of the [[Unshaken]]
+## Captain of the [[The Unshaken|Unshaken]]
 
 Species: Tiefling
 

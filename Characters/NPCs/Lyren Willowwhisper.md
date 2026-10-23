@@ -42,7 +42,7 @@ Growing increasingly urgent about the rift situation—the rifts are worsening, 
 
 > [!secret]- Hidden Information
 > **What she doesn't know:**
-> - The Lorestone requires a [[luxon-beacon-egw|Luxon Beacon]] as a temporal stabilizer to safely close rifts
+> - The Lorestone requires a [[Luxon Beacon Integration with Lorestone|Luxon Beacon]] as a temporal stabilizer to safely close rifts
 > - Without the Beacon, using the assembled Lorestone would amplify chaos—exactly the catastrophe the Malachite Cord fears
 > - She is right about the goal but wrong about the method
 > 

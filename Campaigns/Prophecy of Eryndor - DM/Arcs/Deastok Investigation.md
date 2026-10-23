@@ -35,12 +35,12 @@ tier: standard
 
 | NPC                                  | Passive Insight | Relevant Skills                               | Notes                                               |
 | ------------------------------------ | --------------- | --------------------------------------------- | --------------------------------------------------- |
-| [[Surveyor Brynna Colefist\|Brynna]] | 14              | History/Investigation +6 (masonry, surveying) | Reads people professionally. Sharp, not suspicious. |
+| Brynna | 14              | History/Investigation +6 (masonry, surveying) | Reads people professionally. Sharp, not suspicious. |
 | [[Bramwell Bellweather\|Bramwell]]   | 14              | Deception +5, Insight +4                      | Deflects, doesn't lie.                              |
-| [[Torvald Halsen\|Torvald]]          | 13              |—| Innkeeper's read on people. Nothing to roll.        |
-| [[Dr. Wenna Alsott\|Wenna]]          | 14              | Medicine +5                                   |—|
-| [[Aldous Penwrye\|Aldous]]           | 12              |—| Uninterested in being read.                         |
-| [[Jorun Kettlewright\|Jorun]]        | 11              | Perception at disadvantage (exhaustion)       |—|
+| Torvald          | 13              |—| Innkeeper's read on people. Nothing to roll.        |
+| Wenna          | 14              | Medicine +5                                   |—|
+| Aldous           | 12              |—| Uninterested in being read.                         |
+| Jorun        | 11              | Perception at disadvantage (exhaustion)       |—|
 | Survey crew                          | 10              |—| Commoners.                                          |
 
 **Aldous specifically:** no delay without a reason he can write down. *With* a reason he can write down, near-automatic—it costs the estate nothing.
@@ -64,7 +64,7 @@ tier: standard
 
 **Why she buries it (her reasoning, if the party gets her talking):** her credibility is her product. She cannot submit a slate showing a square with five corners—she'd be the surveyor who can't count. She cannot submit a corrected version, because the next crew would find the same thing. She cannot keep billing idle days on a fixed-price contract on Truscan land. Burying it is the only professional exit. She is not panicking and she is not wrong.
 
-**What the party can actually do about it:** anything that gets the anomaly off her paperwork buys the site. Give her a nameable authority who's interested ([[Bramwell Bellweather|Bramwell]]'s researcher in Uthodurn). Take the documentation onto themselves. Buy delay from [[Aldous Penwrye|Aldous]]. Give her an explanation she can write down. **No obviously correct option; all have costs.**
+**What the party can actually do about it:** anything that gets the anomaly off her paperwork buys the site. Give her a nameable authority who's interested ([[Bramwell Bellweather|Bramwell]]'s researcher in Uthodurn). Take the documentation onto themselves. Buy delay from Aldous. Give her an explanation she can write down. **No obviously correct option; all have costs.**
 
 **If they let it go, it is genuinely gone.** See *Loss State* at the end.
 
@@ -79,7 +79,7 @@ tier: standard
 > - The [[Rupture of the Molaesmyr Fey Crossing|Molaesmyr cataclysm]] tore a passage into the Astral Sea. The Astral touches other locations obliquely, so the corruption's reach was never strictly geographic—it can surface anywhere with its own latent planar sensitivity, however faint.
 > - Deastok sits atop one such point: an old pre-Empire structure under farmland, recently uncovered by a survey crew, with a genuine but faint planar/Luxon-adjacent resonance. Dormant for centuries.
 > - **The dreams are not local in origin.** The thinning leaks Savalirwood imagery along the Astral. Deastok townspeople who have never left the Truscan Vale are dreaming a forest three hundred years and a continent away—*as it was*, not as it is now.
-> - The corruption has built for 250+ years, mostly sub-threshold. It is **only recently** crossing over—consistent with [[Erma Schnieb]]'s discovery that rifts are growing larger and lasting longer. Nobody caused the acceleration. The wound is simply getting big enough to show.
+> - The corruption has built for 250+ years, mostly sub-threshold. It is **only recently** crossing over—consistent with Erma Schnieb's discovery that rifts are growing larger and lasting longer. Nobody caused the acceleration. The wound is simply getting big enough to show.
 > - [[Vaud Qalix - DM]] is exploiting the trend, not causing it. [[Ceratos]] wants a way through and would speed the trend if it could, but lacks the leverage to do so directly—the party's interference has been working.
 > - **The party does not need to learn any of this explicitly.** They should leave with: (1) the dreams and the site are the same phenomenon, (2) it's old and larger than local legend, (3) the shards react to things that are not rifts, (4) Seraphina privately recognizes something personal in it. Full mechanism stays sealed.
 
@@ -92,7 +92,7 @@ tier: standard
 > [!secret]- The dream timeline—get this straight before the table does
 > **Two stages, weeks apart. Don't collapse them.**
 > 1. **Weeks ago:** the crew breaks through to the stone. Town dreams begin—**vague.** Trees, being watched, a general wrongness. Nobody can describe much, and nobody makes much of it. Four or five of Wenna's patients over several weeks.
-> 2. **Two days ago:** Brynna fetches [[Jorun Kettlewright|Jorun]] out to the site. He works a few hours, goes home sick, and dreams it that night—**specific.** Bark, leaves, the shape of the presence, the same every time.
+> 2. **Two days ago:** Brynna fetches Jorun out to the site. He works a few hours, goes home sick, and dreams it that night—**specific.** Bark, leaves, the shape of the presence, the same every time.
 > 3. **Since:** crew idle, Jorun at home, Brynna waiting on him.
 >
 > **Jorun is the sharpest source because he was closest to it, not because he was first.** He's the newest dreamer and the worst-affected. That's the correlation Brynna half-notices and doesn't pursue.
@@ -100,7 +100,7 @@ tier: standard
 > Seraphina's dream is stage-2 sharp—she's been carrying the shard toward this place for two nights.
 
 > [!secret]- Jorun Kettlewright—why him
-> - [[Jorun Kettlewright|Jorun]] is Brynna's crew stonemason. He **went to the site**, worked a few hours, left sick, and has not been back. The dream started that night.
+> - Jorun is Brynna's crew stonemason. He **went to the site**, worked a few hours, left sick, and has not been back. The dream started that night.
 > - **Why he was the only one affected is deliberately unanswered.** Available reads—closest to the center, there longest, touched the stone, nothing at all—are all fine and none is true. **Do not invent an explanation at the table.**
 > - He does not recover. Not today, not later. If the party ever passes back through Deastok, he still isn't sleeping right.
 
@@ -108,9 +108,9 @@ tier: standard
 
 ### Scene 1—The Dreamers
 
-**Where:** [[Bursar Plaza]], [[Garden Grounds]], [[White Peak Inn]]
+**Where:** [[Deastok|Bursar Plaza]], [[Deastok|Garden Grounds]], [[White Peak Inn]]
 
-**Who:** [[Dr. Wenna Alsott]], [[Jorun Kettlewright]], [[Torvald Halsen]], general townsfolk
+**Who:** Dr. Wenna Alsott, Jorun Kettlewright, Torvald Halsen, general townsfolk
 
 **Goal:** Fact 1 (the dreams are shared and specific), Seraphina's recognition, and a live hook toward Scene 2.
 
@@ -155,7 +155,7 @@ The beat is not "do you recognize these trees." It's **a stranger who has never 
 - [ ] **Referral from Scene 2**—Brynna or a farmhand mentions a relative sleeping badly.
 - [ ] **Torvald**—see below. This one fires whether or not the party goes looking.
 
-#### [[Torvald Halsen]]—the Guaranteed hook
+#### Torvald Halsen—the Guaranteed hook
 
 The comb delivery is happening regardless. This is what it buys.
 
@@ -165,9 +165,9 @@ The comb delivery is happening regardless. This is what it buys.
 - [x] **The shift is triggered specifically by Marta's name or the comb**—not by anything else the party says or does.
 - [x] Once warm: he asks after Marta and Henrik by name, may sit with them.
 - [x] **Then, unprompted:** Jorun hasn't been in. That isn't like him—he's a friend, not just a regular. Torvald is worried and says so.
-- [x] If asked where to find him: a stonemason's house in [[Garden Grounds]], squared lintels, easy to spot.
+- [x] If asked where to find him: a stonemason's house in [[Deastok|Garden Grounds]], squared lintels, easy to spot.
 
-#### [[Dr. Wenna Alsott]]—clinical Angle
+#### Dr. Wenna Alsott—clinical Angle
 
 > [!quote]- Boxed text: introducing Wenna
 > "The shop sits between a cobbler and a spice stall, marked only by bundles of drying herbs hung in the window. Inside, jars line the walls in labeled rows, and a single well-worn chair faces the counter. A middle-aged human woman looks up from a mortar and sets the pestle down."
@@ -179,7 +179,7 @@ The comb delivery is happening regardless. This is what it buys.
 - [x] **Jorun is the exception.** His account is exact, and it's recent. That's why she brings him up.
 - [ ] Nobody is physically harmed—poor sleep, irritability, nothing worse. She's puzzled, not alarmed.
 - [x] No common cause she can find. Different ages, different districts, no shared meal, water, or event.
-- [x] **(Referral)** "You should talk to [[Jorun Kettlewright|Jorun]], down in the Garden Grounds. He described it more exactly than the others. And he's taken it harder."
+- [x] **(Referral)** "You should talk to Jorun, down in the Garden Grounds. He described it more exactly than the others. And he's taken it harder."
 
 **If pushed:**
 
@@ -187,7 +187,7 @@ The comb delivery is happening regardless. This is what it buys.
 - [ ] "I haven't sent anyone to the temple. Didn't seem urgent enough."
 - [ ] "Ask around yourselves. People talk more freely to strangers than to their doctor."
 
-#### [[Jorun Kettlewright]]—the Hinge
+#### Jorun Kettlewright—the Hinge
 
 > [!note] DM—what changed
 > Jorun is Torvald's friend, Brynna's crew stonemason, the richest dreamer, **and the only person who has stood on both sides of this.** Every door in the arc leads to him. He went to the site, worked a few hours, left sick, and hasn't returned. The dream started that night.
@@ -228,14 +228,14 @@ The comb delivery is happening regardless. This is what it buys.
 
 **Where:** Truscan farmland northeast of town
 
-**Who:** [[Surveyor Brynna Colefist]] and her crew
+**Who:** Surveyor Brynna Colefist and her crew
 
 **Goal:** Fact 2 (the site is old, non-local, wrong), the shard reaction, the impossible geometry, Seraphina's beat.
 
 #### Two routes, two different payoffs
 
 > [!warning] Neither route gets both. This is the trade.
-> **Official—chit from [[Aldous Penwrye|Aldous]] at the Truscan Estate.** Gets them **Brynna**: her expertise, the tablet, why work stopped, and her crew's shovels. Costs a cross-town round trip against a one-day clock.
+> **Official—chit from Aldous at the Truscan Estate.** Gets them **Brynna**: her expertise, the tablet, why work stopped, and her crew's shovels. Costs a cross-town round trip against a one-day clock.
 >
 > **Unofficial—over the fence.** Gets them **the already-exposed stone**: carvings, tool marks, the watching-figure motif. Enough for Fact 2 and a Fact 3 door. Does **not** get Brynna—the estate has warned her about entertaining sightseers, and she won't talk on the land. **If they're seen, the blame lands on her**, not on them.
 >
@@ -251,7 +251,7 @@ The comb delivery is happening regardless. This is what it buys.
 > [!quote]- Boxed text: arriving at the gate
 > "The gatehouse steward reaches for a ledger before anyone speaks. 'Access to the survey land, is it? Everyone wants a look these days.' He waves them through and walks ahead across the courtyard toward a small office built into the wall."
 
-**[[Aldous Penwrye]]—land steward.** Courteous, brisk, unbothered. Routine paperwork, not security.
+**Aldous Penwrye—land steward.** Courteous, brisk, unbothered. Routine paperwork, not security.
 
 - [x] Asks their business. A simple statement of intent is sufficient.
 - [x] Produces far more forms than the request warrants. Takes longer than it should. If asked why: a brief stare, then **"You must be new to the Empire."** No further explanation.
@@ -292,7 +292,7 @@ The comb delivery is happening regardless. This is what it buys.
 - [ ] Carvings on the exposed stone—and the same motif on the tablet—show a figure among trees. Standing at a distance. Facing out.
 - [ ] **This is the Fact 3 door that doesn't depend on Seraphina's answer.** Nobody has to interpret it. Both the dreams and the stone are about being watched by something old that never approaches.
 
-#### [[Surveyor Brynna Colefist]]
+#### Surveyor Brynna Colefist
 
 > [!quote]- Boxed text: introducing Brynna
 > "A dwarven woman, sleeves rolled to the elbow, holds a slate covered in measurements crossed out and rewritten. She straightens up when they get close and waits."
@@ -302,7 +302,7 @@ The comb delivery is happening regardless. This is what it buys.
 - [ ] Precise, geometric, deliberately built—not a natural formation or a simple foundation.
 - [ ] Masonry style and tool marks match nothing she recognizes from Deastok or the Empire.
 - [ ] Professional estimate: predates any standing structure in Deastok, possibly by centuries.
-- [ ] **Why work stopped:** she brought [[Jorun Kettlewright|Jorun]] out to look at it properly. He worked a few hours and left sick, and hasn't been back. She's held off rather than push ahead without him. **She thinks he caught something.** She does not connect it to anything.
+- [ ] **Why work stopped:** she brought Jorun out to look at it properly. He worked a few hours and left sick, and hasn't been back. She's held off rather than push ahead without him. **She thinks he caught something.** She does not connect it to anything.
 - [ ] **(Fact 3 door)** If asked about timing: "The sleeping trouble started around when we broke through—weeks back, and nobody made much of it. Jorun's the exception. He came out two days ago, went home sick, and now he's got it worse than the lot of them put together. Might be nothing."
 - [ ] **The tease, if she's refusing to talk on the land:** she mentions the tablet, catches herself, and closes the door—*"Doesn't matter anyway. Whole thing's going back under in the morning."* Gives them a specific thing to want and a specific reason to hurry, without her breaking her warning.
 - [ ] **The tablet itself:** carved stone, script none of the crew recognizes. She took it to a Bursar Plaza merchant who guessed pre-Calamity. Hand it over if they ask or show real interest.
@@ -357,7 +357,7 @@ The comb delivery is happening regardless. This is what it buys.
 > [!warning] Helping her dig makes it worse for her
 > If the party gets the crew clearing and the fifth corner comes up, **Brynna's problem is now larger, not smaller.** She has an anomaly with witnesses, on the last day of an overrun contract, with a report due at dawn.
 >
-> Don't play this as goodwill earned. Helping her dig makes her *more* determined to bury it—the only thing that changes her mind is solving the paperwork (a nameable authority, documentation the party takes on themselves, or delay bought from [[Aldous Penwrye|Aldous]]). A party that digs enthusiastically and does nothing about the report has actively made the loss more certain.
+> Don't play this as goodwill earned. Helping her dig makes her *more* determined to bury it—the only thing that changes her mind is solving the paperwork (a nameable authority, documentation the party takes on themselves, or delay bought from Aldous). A party that digs enthusiastically and does nothing about the report has actively made the loss more certain.
 
 **Other approaches, layer freely:**
 
@@ -450,7 +450,7 @@ Nobody tells them they missed anything. The world just keeps quietly pointing at
 >
 > **Compressed by the one-day clock:** ambient in the morning, contact by evening. Two beats rather than four. Survivable, since his deeper engagement is deferred past this arc anyway.
 
-- **[[Bramwell Bellweather]]**—fixture at the [[White Peak Inn]], originally from [[Kamordah - DM Notes]] (minor landed family, inheritance dispute burned his standing). Weary, transactional associate of [[Erma Schnieb]]—doing fieldwork out of habit, not investment.
+- **[[Bramwell Bellweather]]**—fixture at the [[White Peak Inn]], originally from [[Kamordah]] (minor landed family, inheritance dispute burned his standing). Weary, transactional associate of Erma Schnieb—doing fieldwork out of habit, not investment.
 - **Paths to contact:** ambient at the inn from the first visit / overheard grumbling to Torvald / at the Truscan Estate in the same paperwork line / **named directly by Brynna** once Seraphina's detail lands.
 - **What he offers, if engaged:** Erma's network—favor-based fast travel via her contacts across the continent. Price: real, high-quality information, not crumbs. He'll say so a little tiredly, because he's the one who catches grief when she's unimpressed.
 - **The pivot:** if he learns Seraphina was alive at the time of the original cataclysm, it recalibrates him—not warmth, a jolt of *maybe Erma's been right all along.* This is when he might genuinely suggest they meet her.
@@ -467,7 +467,7 @@ Nobody tells them they missed anything. The world just keeps quietly pointing at
 - [ ] **If they have the tablet, the sketch, or a description of the geometry:** he leans in—*"May I see that?"* or *"Describe it again. Slowly."* First real interest he's shown.
 - [ ] **If neither has come up:** a mild "And what brings you through Deastok?" is as far as he goes.
 - [ ] **General texture:** "I collect odd reports for someone. Tedious work. Pays reasonably."
-- [ ] **If pushed on who:** "A researcher. Uthodurn, mostly. You wouldn't know her." Said like he's said it many times. *(This is [[Erma Schnieb]]; [[Cairel Ulthe]] is the other end of that research—an elven druid whose parents fled Molaesmyr, hunting the curse's origin. Neither name is offered here.)*
+- [ ] **If pushed on who:** "A researcher. Uthodurn, mostly. You wouldn't know her." Said like he's said it many times. *(This is Erma Schnieb; [[Cairel Ulthe]] is the other end of that research—an elven druid whose parents fled Molaesmyr, hunting the curse's origin. Neither name is offered here.)*
 
 **Note:** none of this runs in order. Repeat incremental conversations are fine.
 
@@ -487,13 +487,13 @@ Nobody tells them they missed anything. The world just keeps quietly pointing at
 
 #### [[Deastok]]
 
-City in the Truscan Vale, Dwendalian Empire. Sister city to [[Kamordah - DM Notes]]. Sits on a hill bordering the Cyrengreen Forest, surrounded by fenced, segmented farmland. Population ~10,090 (60% human, 26% dwarf, 10% halfling, 4% other). Nominally led by Starosta Deter McGinneas; real power rests with the Truscan family. Single official temple, dedicated to Bahamut. Comfortable, affluent, quietly confident rather than showy.
+City in the Truscan Vale, Dwendalian Empire. Sister city to [[Kamordah]]. Sits on a hill bordering the Cyrengreen Forest, surrounded by fenced, segmented farmland. Population ~10,090 (60% human, 26% dwarf, 10% halfling, 4% other). Nominally led by Starosta Deter McGinneas; real power rests with the Truscan family. Single official temple, dedicated to Bahamut. Comfortable, affluent, quietly confident rather than showy.
 
 **Districts:**
 
-- [[Bursar Plaza]]—commerce and market stalls. The town's original core, historically a laborers' district (hence the temple's location), gentrified over generations into a "quaint countryside getaway" image aimed at tourists—marketing, not history.
-- [[Garden Grounds]]—old-money residential, parks and open space. Deastok's genuine affluent locals. [[White Peak Inn]] and [[Jorun Kettlewright|Jorun]]'s house are here.
-- [[Jeweled Gates]]—blue-roofed western area plus the checkpoint plaza near the watchtower. Working and merchant class, clean and well-kept. **No run-down parts of Deastok exist.**
+- [[Deastok|Bursar Plaza]]—commerce and market stalls. The town's original core, historically a laborers' district (hence the temple's location), gentrified over generations into a "quaint countryside getaway" image aimed at tourists—marketing, not history.
+- [[Deastok|Garden Grounds]]—old-money residential, parks and open space. Deastok's genuine affluent locals. [[White Peak Inn]] and Jorun's house are here.
+- [[Deastok|Jeweled Gates]]—blue-roofed western area plus the checkpoint plaza near the watchtower. Working and merchant class, clean and well-kept. **No run-down parts of Deastok exist.**
 - Farmland beyond the town—Truscan-owned; site of the survey.
 
 **Security:** no formal walls. Checkpoints at major roads in and out, not a fortified perimeter. A confident town that doesn't need to look embattled.
@@ -503,7 +503,7 @@ City in the Truscan Vale, Dwendalian Empire. Sister city to [[Kamordah - DM Note
 >
 > **This is the party's first exposure to an Empire-wide routine, not a Deastok quirk.** Establish it clearly here; it recurs without re-explanation.
 
-#### [[Jeweled Gates]]—arrival
+#### [[Deastok|Jeweled Gates]]—arrival
 
 > [!quote]- Boxed text: approaching the town
 > "The road climbs a last low rise, and the watchtower comes up first—a lone stone finger against the sky, a thin curl of smoke rising from a brazier at its top. Only as the road bends does the rest of the town appear below it: rooftops, smoke from a hundred chimneys, the glint of a distant fountain, and beyond the far edge of the fields, the dark line of the forest."
@@ -532,7 +532,7 @@ City in the Truscan Vale, Dwendalian Empire. Sister city to [[Kamordah - DM Note
 - [ ] Public well or fountain.
 - [ ] Short row of stalls catering to arrivals.
 - [ ] Notice board.
-- [ ] [[Crownsguard Barracks]]—present, one building among several, not the focal point.
+- [ ] [[Deastok|Crownsguard Barracks]]—present, one building among several, not the focal point.
 - [ ] **The statue**—the plaza's centerpiece.
 
 ##### The statue—Bahamut and Emperor Dwendal
@@ -549,9 +549,9 @@ The temple keeps the Empire at its threshold, not its heart. A small foyer nods 
 > [!quote]- Boxed text: entering the sanctuary
 > "A carved relief in the foyer gives thanks for the Emperor's blessing over the city. Beyond the inner archway, platinum light falls through high windows onto a wide, quiet sanctuary. Frescoes wrap the walls in unbroken procession—dragons in flight, in battle, in council, no two alike. Gold scales catch the light again and again, but not only gold: a hammered bronze form grapples something clawed and shadowed near the eastern wall; a curl of silver watches over a council of mortals from the shadow of a painted mountain; brass wings spread wide above a battlefield strewn with banners; a deep warm copper shape rests coiled around a sleeping village."
 
-#### [[Bursar Plaza]]
+#### [[Deastok|Bursar Plaza]]
 
-Central market and gathering space. The town's original core, gentrified into a countryside-getaway image for tourists and merchants. [[Dr. Wenna Alsott]]'s practice is here. [[Shaded Bough]] sits on or just off the plaza.
+Central market and gathering space. The town's original core, gentrified into a countryside-getaway image for tourists and merchants. Dr. Wenna Alsott's practice is here. [[Shaded Bough]] sits on or just off the plaza.
 
 > [!quote]- Boxed text: entering from the northwest
 > "The street opens all at once into an enormous plaza, broad enough that the buildings on the far side look small. A great fountain anchors the center. Around it, three separate clusters of tents and stalls spread across the open stone—awnings in every color, the noise of bartering carrying across the space. To the south, rising above the rooftops, a dome catches the sun—pale, faintly luminous, unmistakably platinum."
@@ -565,13 +565,13 @@ Central market and gathering space. The town's original core, gentrified into a 
 - [ ] [[Shaded Bough]] visible if useful.
 - [ ] **The fruit-stall hook lands here.** See Scene 1.
 
-#### [[Garden Grounds]]
+#### [[Deastok|Garden Grounds]]
 
-Old-money residential, parks, red-roofed on the working map. Deastok's genuine affluent locals—the quiet unperforming wealth the [[Shaded Bough]]'s tourist crowd assumes it has found. [[Jorun Kettlewright|Jorun]]'s house is here.
+Old-money residential, parks, red-roofed on the working map. Deastok's genuine affluent locals—the quiet unperforming wealth the [[Shaded Bough]]'s tourist crowd assumes it has found. Jorun's house is here.
 
 #### [[White Peak Inn]]
 
-[[Torvald Halsen|Torvald]]'s inn, in [[Garden Grounds]] among the old-money residents it actually serves. A small sign on the door, no advertising. Known by the people who already know it's there. Torvald is Henrik Halsen's brother—Henrik being Marta's husband—which is why the comb went to him directly. [[Bramwell Bellweather]] is a known fixture.
+Torvald's inn, in [[Deastok|Garden Grounds]] among the old-money residents it actually serves. A small sign on the door, no advertising. Known by the people who already know it's there. Torvald is Henrik Halsen's brother—Henrik being Marta's husband—which is why the comb went to him directly. [[Bramwell Bellweather]] is a known fixture.
 
 > [!info] DM reminder—Torvald's tone
 > Baseline: courteous but uninvested. Paying customers get good service and nothing more. **The shift to warmth is triggered specifically by Marta's name or the comb**, not by anything else the party does. Once warm, he raises Jorun himself—see Scene 1.
@@ -593,18 +593,18 @@ Old-money residential, parks, red-roofed on the working map. Deastok's genuine a
 
 #### [[Shaded Bough]]
 
-The flashy tourist-facing inn, on or just off [[Bursar Plaza]] for maximum visibility. Real Deastok gentry avoid it.
+The flashy tourist-facing inn, on or just off [[Deastok|Bursar Plaza]] for maximum visibility. Real Deastok gentry avoid it.
 
 > [!quote]- Boxed text: passing or entering
 > "A carved wooden sign in gilt lettering swings above the door: THE SHADED BOUGH—DEASTOK'S FINEST. A doorman in a crisp green coat greets everyone who approaches as 'my lord' or 'my lady' without asking. Inside, the common room is exposed beam and hanging lantern, a lute playing somewhere, every table full."
 
 #### The Dig Site
 
-Truscan-owned farmland northeast of town, a short walk or ride past the [[Jeweled Gates]] checkpoint. See Scene 2. **Unnamed—name it only if it recurs.** No second Truscan household near it; simply Truscan fields, unconnected to any manor building.
+Truscan-owned farmland northeast of town, a short walk or ride past the [[Deastok|Jeweled Gates]] checkpoint. See Scene 2. **Unnamed—name it only if it recurs.** No second Truscan household near it; simply Truscan fields, unconnected to any manor building.
 
 #### Truscan Estate (Manor)
 
-The large walled estate in the southwest near the forest edge—the actual seat of the Truscan family, separate from the northeastern dig site. See Scene 2 for [[Aldous Penwrye]] and the permission scene.
+The large walled estate in the southwest near the forest edge—the actual seat of the Truscan family, separate from the northeastern dig site. See Scene 2 for Aldous Penwrye and the permission scene.
 
 ---
 

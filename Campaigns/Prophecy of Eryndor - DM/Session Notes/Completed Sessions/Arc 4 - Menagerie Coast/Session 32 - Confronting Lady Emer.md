@@ -48,7 +48,7 @@ tags:
 - Next developments: Varnes reveals Shard 5 location (Rexxentrum Archive)
 - Involved NPCs: Varnes, Lady Emer, Dreyara, Qalix (background), Archivist Ovedo (mentioned)
 
-**[[Drawg Stormbrew's Dagger]]:**
+**Drawg Stormbrew's Dagger:**
 
 - Current state: Party knows Dreyara has Blade of Maroth Fenn
 - Next developments: Choice to wait for ambush vs. pursue to Rexxentrum
@@ -159,7 +159,7 @@ tags:
     - Greater Restoration spell or similar to de-petrify
     - 7 freed NPCs: Alia Sylf, Gorith Tork, Kaxor, Septima Vinculum, Varnes Dwell, Worjo, Orgor
     - Varnes's weakened state (multiple exhaustion levels, needs days to recover)
-    - See [[cloudfang_keep_dm_guide.md#PHASE 3: VARNES DWELL INFORMATION]]
+    - See [[Cloudfang and Monastery DM Guide#PHASE 3 VARNES DWELL INFORMATION]]
 
 **4. Varnes's Critical Information Delivery**
 
@@ -172,7 +172,7 @@ tags:
     - Varnes's speech (urgent, tactical, acknowledges Drawg's blade but frames priority)
     - Information about Shard 5: Rexxentrum Archive, Archivist Ovedo, security details
     - Torture/memory magic effects (he doesn't know what he revealed)
-    - See [[cloudfang_keep_dm_guide.md#PHASE 3: VARNES DWELL INFORMATION]]
+    - See [[Cloudfang and Monastery DM Guide#PHASE 3 VARNES DWELL INFORMATION]]
 
 **5. The Choice: Stay or Go**
 
@@ -186,7 +186,7 @@ tags:
     - Environmental pressure talking points (altitude, weather, supplies)
     - NPC reassurances (freed prisoners will be fine at Keep)
     - Let players debate and decide without thumb on scale
-    - See [[cloudfang_keep_dm_guide.md#PHASE 4: DREYARA'S ARRIVAL & DECISION]]
+    - See [[Cloudfang and Monastery DM Guide#PHASE 4 DREYARA'S ARRIVAL & DECISION]]
 
 #### Secrets & Clues
 
@@ -394,7 +394,7 @@ tags:
 - Detour to Monastery (only shelter)
 - Discover Dreyara already there (wounded, alone)
 - Phase spider encounters and forced alliance
-- See [[cloudfang_keep_dm_guide.md#PHASE 5: AVALANCHE & MONASTERY CONVERGENCE]]
+- See [[Cloudfang and Monastery DM Guide#PHASE 5 AVALANCHE & MONASTERY CONVERGENCE]]
 
 **If Party Waits at Keep:**
 
@@ -423,7 +423,7 @@ tags:
     - Her assessment of situation (wounded, outnumbered, pragmatic alliance)
     - Opening dialogue options
     - What she will/won't reveal or negotiate
-- See [[cloudfang_keep_dm_guide.md#PHASE 6: MONASTERY ENCOUNTER]]
+- See [[Cloudfang and Monastery DM Guide#PHASE 6 MONASTERY ENCOUNTER]]
 
 #### 2. Should Have
 
@@ -481,7 +481,7 @@ tags:
 
 ## References
 
-**Full DM Guide:** [[cloudfang_keep_dm_guide.md]]
+**Full DM Guide:** [[Cloudfang and Monastery DM Guide]]
 
 **Key Sections to Review Before Session:**
 

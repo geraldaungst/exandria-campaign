@@ -13,7 +13,7 @@ Tags: NPC
 
 [https://pbs.twimg.com/media/EiaNfhVU8AEqMmx?format=jpg&name=900x900](https://pbs.twimg.com/media/EiaNfhVU8AEqMmx?format=jpg&name=900x900)
 
-Dragonborn scribe from Candlekeep Library, part of [[Alianne Winterglove]]'s group. Her father died on a mission serving the Lance Defenders. When she told her story, [[Balasar Azar]] was visibly shaken. Her sister, Thava Valthyra, has joined the Cult of the Dragon and Gilxel wants to save her.
+Dragonborn scribe from Candlekeep Library, part of [[Alianne Winterglove]]'s group. Her father died on a mission serving the Lance Defenders. When she told her story, Balasar Azar was visibly shaken. Her sister, Thava Valthyra, has joined the Cult of the Dragon and Gilxel wants to save her.
 
 Gilxel is a young scribe, just learning the profession. She is Bo's apprentice. Her father died in service to the Lance Defenders. She is bitter about it because they would not tell her family the circumstances. She just knows the leader was young and inexperienced and probably shouldn't have been leading that mission. She suspects the mission leader got the job through nepotism.
 

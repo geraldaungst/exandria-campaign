@@ -50,7 +50,7 @@ Hesterian has expressed the goal of infiltrating the Myriad criminal organizatio
 - **Her Murder:** Full details in [[Port Damali Murders]]
 - **Current Lead:** Killer is in [[Zadash - DM]], living under another name
 - **Infiltration Goal:** Wants to infiltrate the Myriad (player choice)
-- **Mysterious Visions:** Strange dreams about "Scourger" and flames from [[stone-of-memory]]
+- **Mysterious Visions:** Strange dreams about "Scourger" and flames from Stone of Memory
 
 ### What Hesterian Thinks She Knows
 
@@ -61,7 +61,7 @@ Hesterian has expressed the goal of infiltrating the Myriad criminal organizatio
 
 - **Identity:** [[Korfel Withrethin]] is the Gentleman
 - **Criminal Rise:** He's become a major Myriad boss with significant power
-- **Stone of Memory:** Her visions come from a [[stone-of-memory]] she unknowingly carries
+- **Stone of Memory:** Her visions come from a Stone of Memory she unknowingly carries
 - **Family Tragedy:** [[The Capture of Melthes|Her brother Melthes was taken by the Cerberus Assembly]]
 
 ## The Recognition Scenario
@@ -112,7 +112,7 @@ When Hesterian finally encounters "The Gentleman" during Myriad business, both w
 
 **Family Connections:** Discovery of [[The Capture of Melthes|Melthes's fate]] adds stakes beyond personal revenge
 
-**Identity Integration:** Accepting her nature as a [[Hollow One]] while pursuing human goals
+**Identity Integration:** Accepting her nature as a Hollow One while pursuing human goals
 
 ## Plot Development Stages
 
@@ -228,7 +228,7 @@ Multiple potential endings based on player choices:
 
 ### Items & Evidence
 
-- [[stone-of-memory]] - Source of mysterious visions
+- Stone of Memory - Source of mysterious visions
 - Evidence of [[Rylan Estevez Frame Job]]
 
 ## Connected Elements

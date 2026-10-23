@@ -131,10 +131,10 @@ tags:
 ### Treasure
 
 - [[Bag of Holding]] contents
-- [[Arghyak Bow]]
+- Arghyak Bow
 - [[Bone Merchant's Coin]]
 - Currency: 16 gp, 92 sp, 316 cp
-- Viklorg's body: Scroll of [[hypnotic-pattern|Hypnotic Pattern]], 88 gp
+- Viklorg's body: Scroll of [[Hypnotic Pattern|Hypnotic Pattern]], 88 gp
 
 ## Post-Session Processing
 

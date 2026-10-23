@@ -75,7 +75,7 @@ The party find the cluster of trees and some bits of a backpack, but no compass.
 
 ### Final Showdown
 
-Party can track the creature easily and are able to locate a [[flail-snail-mpmm|Flail Snail]] which is currently being attacked by a [[nergaliid-egw|Nergaliid]]. If they defeat both creatures and dissect the snail, they will find the compass was ingested by the creature.
+Party can track the creature easily and are able to locate a Flail Snail which is currently being attacked by a Nergaliid. If they defeat both creatures and dissect the snail, they will find the compass was ingested by the creature.
 
 Anyone proficient in Nature would know these creatures are not native to the area. An Arcana check (DC 15) would reveal that the Flail Snail is some sort of elemental creature and the Devil Toad is a fiend that is very much out of place here.
 
@@ -89,7 +89,5 @@ If they return the compass to Calderax, he will tell them about [[Keldar Stonefo
 [[Calderax Dunhall]]
 [[Keldar Stonefoot - DM]]
 ---
-
-![[Random NPC Names#Core Information]]
 
 ## [[Seeds Planted]]

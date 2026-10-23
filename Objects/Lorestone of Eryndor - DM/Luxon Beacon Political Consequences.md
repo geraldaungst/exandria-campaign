@@ -11,7 +11,7 @@ tags:
 
 ### The Situation
 
-The party holds a [[luxon-beacon-egw|Luxon Beacon]] recovered from [[Lady Emer - DM]] at
+The party holds a [[Luxon Beacon Integration with Lorestone|Luxon Beacon]] recovered from [[Lady Emer - DM]] at
 
 [[Cloudfang Keep - DM]]. Emer found it herself at the Savalirwood rift before [[Vaud Qalix - DM]] began funding her. Once he learned of it from her reports, he made it the priority of her research, with no indication he understood its true nature or sacred status.
 

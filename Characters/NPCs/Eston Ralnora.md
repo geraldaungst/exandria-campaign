@@ -15,7 +15,7 @@ tags:
 
 ## Background
 
-Bursar of the [[Unshaken]], manages passenger lodging fees and crew payroll distribution
+Bursar of the [[The Unshaken|Unshaken]], manages passenger lodging fees and crew payroll distribution
 
 ## Goals & Relationships
 

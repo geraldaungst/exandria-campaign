@@ -13,7 +13,7 @@ xcssclasses:
 
 Pronunciation: ker-AH-tose
 
-See also: [[exandria-ceratos|Exandria Ceratos]]
+See also: Exandria Ceratos
 
 Ceratos is the true Nemesis of this campaign. He won't be revealed until [[Vaud Qalix - DM]] is eliminated or defeated.
 

@@ -13,39 +13,39 @@ tags:
 
 Drawg - [[Blade of Maroth Fenn - DM]]
 
-[[Hesterian Shyr (Dot)|Hesterian]] - [[kiss-of-the-changebringer-tdcsr|Kiss of the Changebringer]], [[deathwalkers-ward-tdcsr|Deathwalker's Ward]], [[mythcarver-tdcsr|Mythcarver]]
+[[Hesterian Shyr (Dot)|Hesterian]] - Kiss of the Changebringer, Deathwalker's Ward, Mythcarver
 
-[[Laucian Greycastle (Brent)|Laucian]] - [[plate-of-the-dawnmartyr-tdcsr|Plate of the Dawnmartyr]], [[fenthras-tdcsr|Fenthras]]
+[[Laucian Greycastle (Brent)|Laucian]] - Plate of the Dawnmartyr, Fenthras
 
-Popcorn - [[stormgirdle-egw|Stormgirdle]], [[hide-of-the-feral-guardian-egw|Hide of the Feral Guardian]], [[spire-of-conflux-tdcsr|Spire of Conflux]], [[infiltrators-key-egw|Infiltrator's Key]]
+Popcorn - Stormgirdle, Hide of the Feral Guardian, Spire of Conflux, Infiltrator's Key
 
-Qilynn - [[whisper-tdcsr|Whisper]], [[cabals-ruin-tdcsr|Cabal's Ruin]], [[circlet-of-barbed-vision-tdcsr|Circlet of Barbed Vision]], [[infiltrators-key-egw|Infiltrator's Key]]
+Qilynn - Whisper, Cabal's Ruin, Circlet of Barbed Vision, Infiltrator's Key
 
-Seraphina - [[whisper-tdcsr|Whisper]], [[spire-of-conflux-tdcsr|Spire of Conflux]]
+Seraphina - Whisper, Spire of Conflux
 
-[[Eidechse (Amanda Jeane)|Eidechse (Dechs)]] - [[armor-of-the-valiant-soul-tdcsr|Armor of the Valiant Soul]], [[cabals-ruin-tdcsr|Cabal's Ruin]], [[deathwalkers-ward-tdcsr|Deathwalker's Ward]], [[fenthras-tdcsr|Fenthras]]
+[[Eidechse (Amanda Jeane)|Eidechse (Dechs)]] - Armor of the Valiant Soul, Cabal's Ruin, Deathwalker's Ward, Fenthras
 
-Anyone - [[danoths-visor-egw|Danoth's Visor]], [[jewel-of-three-prayers-crcotn|Jewel of Three Prayers]], [[verminshroud-egw|Verminshroud]], [[kiss-of-the-changebringer-tdcsr|Kiss of the Changebringer]], [[circlet-of-barbed-vision-tdcsr|Circlet of Barbed Vision]]
+Anyone - Danoth's Visor, Jewel of Three Prayers, Verminshroud, Kiss of the Changebringer, Circlet of Barbed Vision
 
 ### Vestiges Found
 
-- [ ] [[armor-of-the-valiant-soul-tdcsr|Armor of the Valiant Soul]]
+- [ ] Armor of the Valiant Soul
 - [ ] [[Blade of Maroth Fenn - DM]]
-- [ ] [[cabals-ruin-tdcsr|Cabal's Ruin]]
-- [ ] [[circlet-of-barbed-vision-tdcsr|Circlet of Barbed Vision]]
-- [ ] [[danoths-visor-egw|Danoth's Visor]]
-- [ ] [[deathwalkers-ward-tdcsr|Deathwalker's Ward]]
-- [ ] [[fenthras-tdcsr|Fenthras]]
-- [ ] [[grimoire-infinitus-egw|Grimoire Infinitus]] - Quest goal: recover the Grimoire Infinitus for an NPC
-- [ ] [[hide-of-the-feral-guardian-egw|Hide of the Feral Guardian]]
-- [ ] [[jewel-of-three-prayers-crcotn|Jewel of Three Prayers]]
-- [ ] [[kiss-of-the-changebringer-tdcsr|Kiss of the Changebringer]]
-- [ ] [[mythcarver-tdcsr|Mythcarver]]
-- [ ] [[plate-of-the-dawnmartyr-tdcsr|Plate of the Dawnmartyr]]
-- [ ] [[spire-of-conflux-tdcsr|Spire of Conflux]]
-- [ ] [[stormgirdle-egw|Stormgirdle]]
-- [ ] [[verminshroud-egw|Verminshroud]]
-- [ ] [[whisper-tdcsr|Whisper]]
+- [ ] Cabal's Ruin
+- [ ] Circlet of Barbed Vision
+- [ ] Danoth's Visor
+- [ ] Deathwalker's Ward
+- [ ] Fenthras
+- [ ] Grimoire Infinitus - Quest goal: recover the Grimoire Infinitus for an NPC
+- [ ] Hide of the Feral Guardian
+- [ ] Jewel of Three Prayers
+- [ ] Kiss of the Changebringer
+- [ ] Mythcarver
+- [ ] Plate of the Dawnmartyr
+- [ ] Spire of Conflux
+- [ ] Stormgirdle
+- [ ] Verminshroud
+- [ ] Whisper
 
 ## Story Beats for Planning
 
@@ -65,7 +65,7 @@ Anyone - [[danoths-visor-egw|Danoth's Visor]], [[jewel-of-three-prayers-crcotn|J
 ### Medium Term
 
 - [ ] [[Drawg Stormbrew (Brew)|Drawg]] will go back to Bahamut and epically leave [[Elby Cinderdash (Brew)|Elby]] in the hands of the party (somewhere around Level 7).
-- [ ] [[Elby Cinderdash (Brew)|Elby]] will find/earn a [[sun-blade|Sun Blade]].
+- [ ] [[Elby Cinderdash (Brew)|Elby]] will find/earn a [[Sun Blade|Sun Blade]].
 - [ ] [[Hesterian Shyr (Dot)|Hesterian]] will discover who [[The Capture of Melthes|took her sibling away]] (the [[Cerberus Assembly - DM]]) which will set political events beyond her control into motion. As part of this, she will discover the meaning of the [[Hesterian Shyr (Dot)#Mysterious Secret|vision she is having]].
 - [ ] [[Qilynn Duskwhisper (Nicole)|Qilynn]] wants to prove that she's actually a damn good thief. She's had a run of bad luck getting caught on some big jobs, so she's looking for the next big gig - maybe bigger than it needs to be to prove herself. She specifically want to prove herself to [[Aelorin Nightshade|Aelorin]] - both to show him up and to be accepted by him. Once she does this, [[Aelorin Nightshade|Aelorin]] will reconsider and could potentially become an ally for the party.
 - [ ] [[Seraphina Amaris (Vicki)|Seraphina]] wants to find out [[Rupture of the Molaesmyr Fey Crossing|what cursed the woods]], and is there any way for her to fix/save my homeland. Discovering this will reveal a darker plot than she is expecting.

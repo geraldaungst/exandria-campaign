@@ -13,8 +13,6 @@ Last Edited: December 31, 2021 7:42 PM
 
 Tags: NPC
 
-![[Marika.jpeg]]
-
 Marika is a Fallen Aasimar Cleric. She is 56 years old.
 
 She has long, curled, gray hair and green eyes. She stands 164cm (5'4") tall and has a regular build. She has an oval, slightly bland face. She has a piercing on her left eyebrow.

@@ -27,15 +27,15 @@ At some point in the evening, [[Laugu Nalakekali|a local]] is highly offended by
 
 Combat: Heading to the woods, [[Seraphina Amaris (Vicki)|Seraphina]] recognizes signs of corruption. Following them into the woods, they encounter random corrupted creatures:
 
-- [[corrupted-giant-weasel|Corrupted Giant Weasel]]
-- [[vine-blight|Vine Blight]]
-- [[giant-badger|Giant Badger]]
+- [[Giant Weasel (Creature)|Corrupted Giant Weasel]]
+- Vine Blight
+- [[Giant Badger (Creature)|Giant Badger]]
 
 ## Kill Plot and Win
 
 ### Combat
 
-Party locates a clearing with a single, dead tree. Exploring around the tree reveals it may be the source of the corruption in the area. Casting any form of healing or restoration magic within 20 feet of the tree will cause [[Finestria]] to appear. At first it appears as a normal Dryad, but it is insane and will not respond logically to any negotiations. Killing it and burning the tree are the only ways to rid the area of the corruption.
+Party locates a clearing with a single, dead tree. Exploring around the tree reveals it may be the source of the corruption in the area. Casting any form of healing or restoration magic within 20 feet of the tree will cause Finestria to appear. At first it appears as a normal Dryad, but it is insane and will not respond logically to any negotiations. Killing it and burning the tree are the only ways to rid the area of the corruption.
 
 The dead Dryad absorbs back into the tree but amongst its remains is found a tiny purple-orange glass-like bead or pebble. On close examination, it seems as if the interior of the bead is liquid, slowly swirling with dark green. Astute observers (DC 20 Perception check) also notice that something about it seems out of sync, as if it is somehow slowed down and speeded up at the same time. (This object will turn out to be a [[Rift Remnant]] tied to the Feyrealm, and the corrupted dryad was a byproduct of a small Feywild rift that had appeared here briefly.)
 
@@ -53,11 +53,11 @@ The party returns to Whitestone where [[Brin Shadowfoot|Brin]] and [[Laugu Nalak
 
 [[Laugu Nalakekali]]
 
-[[Finestria]]
+Finestria
 
 [[Shauna Rual]], proprietor at the [[Tipsy Quorum - DM]]
 
-[[Finestria]] - Dryad
+Finestria - Dryad
 
 ## Random NPC Names
 

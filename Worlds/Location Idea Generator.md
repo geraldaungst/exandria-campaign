@@ -44,7 +44,7 @@
 
 #### Unusual Features
 
-- Contains a monument/statue of (roll on [[z_compendium/tables/monuments|monument table]])
+- Contains a monument/statue of (roll on monument table)
 - Ceiling is unusually high/low
 - Everything is oversized/undersized
 - Covered in specific vegetation

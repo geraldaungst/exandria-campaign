@@ -57,7 +57,7 @@ Hesterian believes Melthes is "studying magic" somewhere and has no knowledge of
   - [[Cree Deeproots]] - who they may soon meet - was involved in his capture
   - The Assembly views him as an exploitable asset, not a student
   - His current location or condition
-  - That one of the Volstrucker agents involved was Hesterian's former client (who owned the [[stone-of-memory]])
+  - That one of the Volstrucker agents involved was Hesterian's former client (who owned the Stone of Memory)
 
 ## Plot Hierarchy
 
@@ -68,7 +68,7 @@ Hesterian believes Melthes is "studying magic" somewhere and has no knowledge of
 - **Potential Subplots:**
   - Turning [[Cree Deeproots]] into an ally
   - Broader conflict with [[Cerberus Assembly - DM]]
-  - Discovering connection between Volstrucker agent and [[stone-of-memory]]
+  - Discovering connection between Volstrucker agent and Stone of Memory
 
 ## Development Stages
 
@@ -200,7 +200,7 @@ Hesterian believes Melthes is "studying magic" somewhere and has no knowledge of
 - **Political Ramifications:** [[Xarzith Kitril - DM]] vs. Empire tensions
 - **Party Resources:** Level-appropriate challenge considerations
 - **Other Captives:** Moral obligation to help others in same situation
-- **Volstrucker Connection:** Link to Hesterian's [[stone-of-memory]] and past
+- **Volstrucker Connection:** Link to Hesterian's Stone of Memory and past
 
 #### Success Conditions (Various)
 

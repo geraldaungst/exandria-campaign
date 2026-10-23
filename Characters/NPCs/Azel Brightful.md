@@ -47,7 +47,7 @@ He does not know that Kexira passes information to Qalix's network. He does not 
 
 - Career NCO (Vethkar) in the Draconian army; never sought officer rank
 - Stationed in Emon as part of Draconia's diplomatic-military presence
-- Was present when [[Tiberius Stormwind]] invoked wartime authority in Emon to raise a Draconian army; refused to march on those orders, believing Tiberius lacked the authority and that the downstream consequences would be severe
+- Was present when Tiberius Stormwind invoked wartime authority in Emon to raise a Draconian army; refused to march on those orders, believing Tiberius lacked the authority and that the downstream consequences would be severe
 - The refusal forced an extended interaction between them; Azel came to understand what was driving Tiberius and his view softened considerably
 - When Draconia fell and Tiberius died defending it, Azel organized a quiet memorial for the Draconian soldiers in Emon who had no one to mourn them—Tiberius included
 - Has a complicated, privately held view of Tiberius: saw his flaws clearly, but respects what he ultimately chose and what he died for

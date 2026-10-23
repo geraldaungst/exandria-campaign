@@ -72,7 +72,7 @@ Regional organization with multiple field agents and a permanent facility
 - Focus on unity and collective purpose
 - Each fragment discovered is documented, studied, and its contents shared within the organization
 - Strong emphasis on preservation and protection of recovered pieces
-- Believe that the assembled Lorestone can be used to prevent or close the rifts. (They are unaware that this will also require the use of a [[luxon-beacon-egw|Luxon Beacon]].)
+- Believe that the assembled Lorestone can be used to prevent or close the rifts. (They are unaware that this will also require the use of a [[Luxon Beacon Integration with Lorestone|Luxon Beacon]].)
 
 ### Historical Evolution
 

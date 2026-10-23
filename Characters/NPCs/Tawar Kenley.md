@@ -23,15 +23,13 @@ Tags: NPC
 
 **Hit Points 27**
 
-**Attacks** Melee [[+5]];) / [[2d8+2]];), Ranged [[+3]];) / [[2d8+0]];), Grapple [[+2]];)
+**Attacks** Melee +5 / 2d8+2, Ranged +3 / 2d8+0, Grapple +2
 
 **Senses** Passive Perception 11
 
-**Skills** Arcana [[+2]];), Sleight of Hand [[+3]];)
+**Skills** Arcana +2, Sleight of Hand +3
 
 **Languages** Common, Orc
-
-[[Tyranny of Dragons/Campaign Database/Untitled]]
 
 This woman is lean and not particularly muscular. She wears light armors faded through time and improper care. She has brown hair. Judging by the bloodshot nature of her eyes and the massive bags underneath them one would imagine she has not slept for days.
 

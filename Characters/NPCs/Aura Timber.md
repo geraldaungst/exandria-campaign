@@ -13,8 +13,6 @@ Last Edited: November 7, 2021 6:30 PM
 
 Tags: NPC
 
-![[Aura_Timber.jpg]]
-
 Aura Timber, Male Tabaxi Rogue 7
 
 *Medium (6'8") Tabaxi, Neutral Evil (CR 7)*

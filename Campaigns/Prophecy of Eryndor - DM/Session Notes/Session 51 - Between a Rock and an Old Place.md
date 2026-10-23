@@ -23,8 +23,8 @@ fc-category: Sessions
 - **Party location:** The Truscan dig site, outside [[Deastok]]
 - **What happened:**
   - Met [[Bramwell Bellweather|Bramwell]] talking with Jorun at the White Peak Inn; Dechs recognized him (possibly a Kamordah winery)
-  - Got sealed permission at the Truscan Estate ([[Aldous Penwrye]]); deadline: excavation report due next morning
-  - Met [[Surveyor Brynna Colefist]] at the site; Dechs judged it one of the oldest things she has seen; the shard warmed
+  - Got sealed permission at the Truscan Estate (Aldous Penwrye); deadline: excavation report due next morning
+  - Met Surveyor Brynna Colefist at the site; Dechs judged it one of the oldest things she has seen; the shard warmed
   - Attacked by rock creatures that merge into larger ones
 - **Decisions and consequences:**
   - Took on the site investigation before the deadline

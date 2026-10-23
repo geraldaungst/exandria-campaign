@@ -22,7 +22,7 @@ As the rift begins to close, either naturally or through the efforts of powerful
 
 A rift remnant can function as a focus for the Plane Shift spell, taking the caster to the plane it was originally connected to. Casters on another plane using the remnant to return to the Material Plane will appear within a half mile of the location where the remnant was formed.
 
-Any teleportation magic that is cast in the presence of a rift remnant has a chance to function incorrectly. Use the [[z_compendium/spells/teleport|Teleport]] table to determine the outcome for all spells below 7th-Level. Use the "Rift Remnant Size" table to compute a Remnant Effect Size value, then use the conversion table to determine which row of the Teleport table to use:
+Any teleportation magic that is cast in the presence of a rift remnant has a chance to function incorrectly. Use the [[Teleport|Teleport]] table to determine the outcome for all spells below 7th-Level. Use the "Rift Remnant Size" table to compute a Remnant Effect Size value, then use the conversion table to determine which row of the Teleport table to use:
 
 | Rift Remnant Size | Comparison | Effect Size |
 | ---- | ---- | ---- |

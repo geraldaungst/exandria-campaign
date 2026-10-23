@@ -51,7 +51,7 @@ tags:
 - Local wildlife avoids area due to regular traffic
 - Water level varies seasonally affecting passage below
 - Recent events:
-	- [[session 5.5]]
+	- session 5.5
 
 ### Secrets & Clues
 

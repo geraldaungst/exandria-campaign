@@ -107,7 +107,7 @@ This frame-up is central to understanding [[Korfel Withrethin]]'s character and 
 
 ### Related Events
 
-- [[The Port Damali Murders]] - Primary crime that necessitated the cover-up
+- [[Port Damali Murders|The Port Damali Murders]] - Primary crime that necessitated the cover-up
 - The rushed investigation and trial (details to be developed)
 
 ### Related Locations

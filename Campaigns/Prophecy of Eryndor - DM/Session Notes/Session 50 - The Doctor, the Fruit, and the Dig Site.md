@@ -24,7 +24,7 @@ fc-category: Sessions
 - **What happened:**
   - Found Jorun: sleepless since working the dig site; dreams of an old forest and a watching presence
   - Fruit-stall owner has the same dream; Seraphina recognizes the forest of her childhood in it
-  - [[Dr. Wenna Alsott]] confirmed several patients with the dream and pointed them back to Jorun
+  - Dr. Wenna Alsott confirmed several patients with the dream and pointed them back to Jorun
   - Booked the suite at the Shaded Bough (three nights, under Imra Shyr)
 - **Decisions and consequences:**
   - The dig site is on Truscan land; permission needed from the estate

@@ -9,8 +9,6 @@ tags:
   - faction/dwendalian-empire
 ---
 
-![[varnes-dwell.png|right|300]]
-
 ## Quick Reference
 
 > [!info] Essential Details

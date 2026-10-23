@@ -26,7 +26,7 @@ tags:
 	- [x] [[Grendar Goss]] (ship's bartender)
 	- [x] [[Durnvolk Durmir]] (passenger, heading to PD to assist with construction of a new forge temple of Moradin there)
 	- [x] [[Tharivol]] and [[Sariel]]
-- Depending on how things progress, the ship may make it to [[Xhorhas Landing|Xhorhas]], land safely in [[Port Damali - DM|Port Damali]], or crash somewhere in the [[Crash in Dwendalian Empire|Dwendalian Empire]] or in the [[Cyrios Mountains Crash|Cyrios Mountains]].
+- Depending on how things progress, the ship may make it to [[Xhorhas Landing|Xhorhas]], land safely in [[Port Damali - DM|Port Damali]], or crash somewhere in the [[Dwendalian Empire - DM|Dwendalian Empire]] or in the [[Cyrios Mountains|Cyrios Mountains]].
 
 ## Scenes
 
@@ -47,7 +47,7 @@ We can RP interactions with other party members, passengers, and crew as long as
 	- [x] If the party does nothing directly, both will later be found dead of poisoning in their quarters.
 - [x] [[Berinon Truegust|Berinon]] will take over navigation, subtly redirecting the path towards Xhorhas.
 	- [x] Players with proficiency in Nature or Surival or with navigation tools can make a skill check (DC 17) to notice that the ship is headed in the wrong direction.
-	- [x] Hijackers will lock the bridge and set up a *[[glyph-of-warding|Glyph of Warding]]* that will cast *[[z_compendium/spells/thunderwave|Thunderwave]]* if someone tries to open or unlock the door. Finding the glyph requires a DC 17 Intelligence ([[skills#Investigation|Investigation]]) check, and disarming the trap is only possible with *[[dispel-magic|Dispel Magic]]*. Unlocking the door requires a DC 18 lockpicking check.
+	- [x] Hijackers will lock the bridge and set up a *[[Glyph of Warding|Glyph of Warding]]* that will cast *[[Thunderwave|Thunderwave]]* if someone tries to open or unlock the door. Finding the glyph requires a DC 17 Intelligence (Investigation) check, and disarming the trap is only possible with *[[Dispel Magic|Dispel Magic]]*. Unlocking the door requires a DC 18 lockpicking check.
 	- [ ] They will also lock the engine room and protect it with a Glyph of Warding. If anyone steps into the room outside the engine room, a *Darkness* spell will be cast centered on the engine room door, making it much more difficult to open the lock. This lock also requires a DC 18 lockpicking check, but in darkness the check is at disadvantage.
 	- [ ] Soon after the captain falls ill, several rumors will begin to circulate among the passengers and crew:
 		- [ ] The captain caught some kind of disease that is now spreading among all the passengers.
@@ -97,8 +97,8 @@ Depending on where they land, the characters will find things to do there to get
 
 - [[Xhorhas Landing]]
 - [[Port Damali - DM]] - Characters pursue whatever reasons they had to be in [[Port Damali - DM]].
-- [[Crash in Dwendalian Empire]] -
-- [[Cyrios Mountains Crash]] -
+- Crash in Dwendalian Empire -
+- Cyrios Mountains Crash -
 
 ## Secrets and Clues
 

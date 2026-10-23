@@ -7,7 +7,7 @@ tags:
 
 - **Location:** [[Cloudfang Keep - DM]]
 - **Status:** In the library of Lady Emer
-- **Next session**: [[Session 32]]
+- **Next session**: [[Session 32 - Confronting Lady Emer|Session 32]]
 - **Key Items in Possession:**
   - Stonefoot Compass (in Drawg's possession)
 
@@ -18,7 +18,7 @@ tags:
 - **Dreyara Drimvar** is bringing [[Shard 6 - Marquet Shard|Shard 6]] to Lady Emer to study
   - *She possesses Drawg's Blade of Maroth Fenn (dagger)*
   - She is about a day behind the party and will reach [[Cloudfang Keep - DM]] soon
-- Lady Emer has a [[luxon-beacon-egw|Luxon Beacon]] though she doesn't know its full implications.
+- Lady Emer has a [[Luxon Beacon Integration with Lorestone|Luxon Beacon]] though she doesn't know its full implications.
 
 ### Imminent Events
 

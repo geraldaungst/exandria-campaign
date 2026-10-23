@@ -375,7 +375,7 @@ Any creature that can read Draconic will know this translates to: "Stone eyes se
 
 **Contents**:
 
-- The [[luxon-beacon-egw|Luxon Beacon]]
+- The [[Luxon Beacon Integration with Lorestone|Luxon Beacon]]
 - Lady Emer's [[Lady Emer's Notes|research notes]] on the "Temporal Resonance Crystal"
 - A small silk pouch containing an emerald, a sapphire, and a black pearl, each worth 100 gp. This is her "emergency fund".
 

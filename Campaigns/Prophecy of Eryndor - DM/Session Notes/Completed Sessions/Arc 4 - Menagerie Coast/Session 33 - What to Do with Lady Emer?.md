@@ -271,7 +271,7 @@ Then after result, turn to room: "Lady Emer lies beneath the immovable shield, h
 
 |NPC Name|Current Goals|Key Information|Likely Reactions|
 |---|---|---|---|
-|**Lady Emer**|Survive, negotiate freedom|Knows Qalix network, rift locations, can restore Varnes|Calculating, will trade info for survival. See [[Lady Emer Conversation Progression REVISED]] for all dialogue|
+|**Lady Emer**|Survive, negotiate freedom|Knows Qalix network, rift locations, can restore Varnes|Calculating, will trade info for survival. See [[Lady Emer Conversation Progression]] for all dialogue|
 |**Varnes Dwell**|Warn party about Rexxentrum shard, recover|Security consultant with critical intel|Grateful, traumatized, urgent. See [[Varnes Dwell - DM|Varnes Dwell]] for full details|
 |**Wyvern**|Protect territory, assess these strangers|Loyal to Emer, well-trained|Hostile but potentially persuadable by Drawg. See skill challenge above|
 
@@ -413,7 +413,7 @@ Then after result, turn to room: "Lady Emer lies beneath the immovable shield, h
 - [[Cloudfang Keep - DM]] - Location details, chest puzzle mechanics, room descriptions
 - [[Varnes Dwell - DM|Varnes Dwell]] - Full NPC profile, what he knows, his urgent message
 - [[Lady Emer - DM]] - NPC profile and stat block
-- [[luxon-beacon-egw|Luxon Beacon]] - What it actually is (if players identify it)
+- [[Luxon Beacon Integration with Lorestone|Luxon Beacon]] - What it actually is (if players identify it)
 
 **Supporting Documents:**
 

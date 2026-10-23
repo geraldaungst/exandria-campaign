@@ -66,7 +66,7 @@ Comes from the Elderguard family, known for shadow magic prowess. Rose to promin
 > 	- Location well-removed from Scroll and Scribe
 > ## Splinter Cell Code Language ("The Inkwell")
 > The cell uses terminology related to writing, inks, and magical scribing as code:
-> - "[[The Inkwell]]" - The splinter cell itself (representing the source of their power)
+> - "The Inkwell" - The splinter cell itself (representing the source of their power)
 > - "Master scribe" - Cell leader (Valen)
 > - "Prime pigment" - Primary target
 > - "Mixed ink" - Compromised situation

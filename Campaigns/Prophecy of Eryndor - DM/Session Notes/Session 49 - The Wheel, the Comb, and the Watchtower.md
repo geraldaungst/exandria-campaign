@@ -24,10 +24,10 @@ fc-category: Sessions
 - **What happened:**
   - Long road day to Deastok; camped short of the gate after seeing the watchtower fire past midnight
   - Entered at the checkpoint under travel papers (Hesterian as Imra Shyr, Qilynn as Quinn Evenfall); heavier Crownsguard presence, talk of a front elsewhere
-  - Delivered the cheese; Seraphina opened the package meant for [[Torvald Halsen]] (Marta's comb), re-wrapped it
+  - Delivered the cheese; Seraphina opened the package meant for Torvald Halsen (Marta's comb), re-wrapped it
   - Drawg commissioned a saddle; the party met Torvald at the White Peak Inn
 - **Decisions and consequences:**
-  - Torvald steered them to the [[Shaded Bough]] for rooms and to [[Jorun Kettlewright]], his friend who hasn't been in
+  - Torvald steered them to the [[Shaded Bough]] for rooms and to Jorun Kettlewright, his friend who hasn't been in
 - **Changed at the table:**
 - **Threads moved:** [[Assembling the Lorestone]]
 - **World next:** Find Jorun; rooms at the Shaded Bough
