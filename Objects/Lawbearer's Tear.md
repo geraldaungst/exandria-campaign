@@ -1,7 +1,7 @@
 ---
 tags:
-  - item
   - world/exandria
+  - artifact
 ---
 
 ## Quick Reference

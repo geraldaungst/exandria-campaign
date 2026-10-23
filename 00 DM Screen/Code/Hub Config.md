@@ -4,6 +4,7 @@ calendar_category_sessions: Sessions
 campaign_tag_prefix: campaign/
 data_url_5etools: https://raw.githubusercontent.com/5etools-mirror-3/5etools-src/main/data
 excluded_folder_prefix: z_
+faction_tag_prefix: faction
 folder_campaigns: Campaigns
 folder_characters: Characters
 folder_code: 00 DM Screen/Code
@@ -42,7 +43,7 @@ statuses_paused:
   - abandoned
 tag_arc: arc
 tag_campaign_note: campaign-hub
-tag_faction: faction
+tag_faction: organization
 tag_improvised: improvised
 tag_item: artifact
 tag_location: location
@@ -63,13 +64,14 @@ template_npc: NPC Template
 template_session: Session Template
 ---
 
-**Purpose:** Every tag, folder, heading, and status name the hubs and templates rely on. Change a value here (in the Properties panel) instead of in code. The code notes read these through [[Shared Helpers]]; the Session, Arc, Close Session, and Campaign templates read them directly. Any property left blank falls back to the built-in value in Shared Helpers.
+**Purpose:** Every tag, folder, heading, and status name the hubs and templates rely on. Change a value here (in the Properties panel) instead of in code. The code notes read these through [[Shared Helpers]]; the templates read them through `z_Templates/Scripts/dm_helpers.js`. Any property left blank falls back to the built-in value in Shared Helpers (hubs) or in each template's call (templates).
 
 **When changes apply:** the templates use the new value the next time they run. Hub views use it when you reopen the note that shows them.
 
 ## What each group means
 
 - **`tag_…`**: tags without `#`. Tags nest, so `plot` also matches `plot/active`. Plot stages are always `<tag_plot>/active`, `/upcoming`, `/seed`, `/paused`.
+- **`tag_faction` and `faction_tag_prefix`**: a faction's own note carries the type tag `tag_faction` (`organization`) plus its own `<faction_tag_prefix>/<slug>` tag (`faction/cerberus-assembly`). NPCs and encounters carry only the `faction/…` tag, so a search for `faction/cerberus-assembly` finds the faction and everyone tied to it, while `organization` finds only faction notes.
 - **`campaign_tag_prefix`**: the start of each campaign's own tag (`campaign/eryndor`). A campaign note (tagged `tag_campaign_note`) carries exactly one such tag, and so does every session and arc of that campaign.
 - **`folder_…`**: vault paths without a trailing slash. Notes with no type tag fall back to a type by folder (Session Notes → Session, Objects → Item, Characters → NPC, Worlds → World, Campaigns → Campaign).
 - **`excluded_folder_prefix`**: folders whose names start with this are ignored everywhere (archives, templates, reference).

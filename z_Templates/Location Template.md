@@ -1,21 +1,20 @@
 <%*
 // ── Location note: folder, then world, region and place tags ──
 // The place tag (place/…) nests to any depth: place/port-damali/harmony-hall also shows under place/port-damali.
-// ── Shared helpers: z_Templates/Scripts/dm_helpers.js (a Templater user script), used by the NPC, Faction,
-// Location, Encounter and Arc templates. Edit them there, once, for all five.
-const { C, slug, tagPath, tagsOfFile, liveNotes, vocabulary, levels, pickTag, inWorldFilter, worldRegionEntries, dropParents, askTitle, discard, safeMove } =
-  tp.user.dm_helpers(tp, Notice);
+// ── Shared helpers: z_Templates/Scripts/dm_helpers.js (a Templater user script), used by every template that
+// runs code. Edit them there, once, for all of them.
+const { C, ABORT, FACTION, slug, tagPath, fmOf, tagsOfFile, liveNotes, vocabulary, levels, dropParents, pickTag, pickFactions, childFolders,
+  inWorldFilter, worldRegionEntries, campaignTagOf, campaignNotes, pickCampaign, campaignWorld, placeNoteFor, linkTo,
+  findPath, ensureFolder, askTitle, discard, safeMove } = tp.user.dm_helpers(tp, Notice);
 
 const ADD_FOLDER = "＋ Add new folder...";
-const ABORT = "✕ Cancel (don't create file)";
-async function abort() { await discard(); }
 
 const title = await askTitle("Location");
-if (!title) { await abort(); return; }
+if (!title) { await discard(); return; }
 
 // Folders under the worlds folder, below the world level
 const worldsRoot = app.vault.getAbstractFileByPath(C("folder_worlds", "Worlds"));
-if (!worldsRoot) { new Notice("Could not find the worlds folder."); await abort(); return; }
+if (!worldsRoot) { new Notice("Could not find the worlds folder."); await discard(); return; }
 function collectFolders(folder, depth, results) {
   if (!folder.children) return;
   for (const child of folder.children) {
@@ -30,26 +29,18 @@ const toLabel = (folder) => folder.path.split("/").slice(2).join(" / "); // drop
 allFolders.sort((a, b) => toLabel(a).localeCompare(toLabel(b)));
 const folderLabels = allFolders.map(toLabel);
 
-async function ensureFolderPath(vaultPath) {
-  let current = "";
-  for (const part of vaultPath.split("/")) {
-    current = current ? `${current}/${part}` : part;
-    if (!app.vault.getAbstractFileByPath(current)) await app.vault.createFolder(current);
-  }
-}
-
 // 1. Destination folder
 const chosenLabel = await tp.system.suggester([...folderLabels, ADD_FOLDER, ABORT], [...folderLabels, ADD_FOLDER, ABORT], false, "Which folder should this location go in?");
-if (!chosenLabel || chosenLabel === ABORT) { await abort(); return; }
+if (!chosenLabel || chosenLabel === ABORT) { await discard(); return; }
 let targetVaultPath;
 if (chosenLabel === ADD_FOLDER) {
   const parentLabel = await tp.system.suggester([...folderLabels, ABORT], [...folderLabels, ABORT], false, "Which folder should the new folder go inside?");
-  if (!parentLabel || parentLabel === ABORT) { await abort(); return; }
+  if (!parentLabel || parentLabel === ABORT) { await discard(); return; }
   const parentFolder = allFolders[folderLabels.indexOf(parentLabel)];
   const newPath = await tp.system.prompt("New folder path (use / to create multiple levels):");
-  if (!newPath || !newPath.trim()) { await abort(); return; }
+  if (!newPath || !newPath.trim()) { await discard(); return; }
   targetVaultPath = `${parentFolder.path}/${newPath.trim()}`;
-  await ensureFolderPath(targetVaultPath);
+  targetVaultPath = await ensureFolder(targetVaultPath);
 } else {
   targetVaultPath = allFolders[folderLabels.indexOf(chosenLabel)].path;
 }

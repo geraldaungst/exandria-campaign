@@ -1,6 +1,7 @@
 ---
 aliases: []
 tags:
+  - organization
   - world/exandria
   - faction/ashari/vesrah
   - needs-work

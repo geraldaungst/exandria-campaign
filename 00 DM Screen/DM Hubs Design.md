@@ -154,7 +154,7 @@ Gaps:
 - About 90 notes use the old `world-exandria` tag instead of `world/exandria`; retag them (Recent Work's World column reads both forms meanwhile)
 - "Keln" is no longer a note type (2026-10-20): Recent Work views are by type only, with Campaign and World columns for scope
 - Dataview is still enabled; the old screen is one of its last users
-- [[Artifact-Item Template]] is stale (found 2026-10-20): it tags notes `item` (retired; the tag is `artifact`) and moves them to `Items/` (the folder is `Objects/`). Fix it, and check it against the other templates' world-tag step
+- [[Artifact-Item Template]] was stale (found 2026-10-20); rewritten 2026-10-22: tags `artifact` plus `world/…`, files into `Objects/`, uses the shared template helpers
 - Add `world: <name>` to any other campaign note; the Campaign Template now asks for it
 - Roll20: [[Roll20 Attribute Dump]] was a one-time diagnostic. Delete it once you no longer need it, and remove the old `Attribute dump` script from the game's API Scripts page (the same script slot now runs `!party`)
 - [[Encounter Design Guide]] now embeds [[Party Card Data]] where it used to embed the Party Combat Profile

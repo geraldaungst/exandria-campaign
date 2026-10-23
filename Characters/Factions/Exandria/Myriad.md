@@ -1,6 +1,7 @@
 ---
 aliases: []
 tags:
+  - organization
   - world/exandria
   - faction/myriad
   - needs-work

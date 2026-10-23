@@ -1,7 +1,7 @@
 ---
 disposition: indifferent
 tags:
-  - faction
+  - organization
   - world/exandria
   - faction/cobalt-soul
 ---

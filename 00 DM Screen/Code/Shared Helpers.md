@@ -2,13 +2,13 @@
 hide_from_related: true
 ---
 
-**Purpose:** The configuration reader (settings from [[Hub Config]]) and general utilities every other module uses: reading links, tags, and dates from notes; reading a note's text; base styles. Nothing here knows about campaigns, sessions, or calendars.
+**Purpose:** The configuration reader (settings from [[Hub Config]]) and general utilities every other module uses: reading links, tags, and dates from notes; reading a note's text; finding and making notes and folders with capitals ignored; base styles. Nothing here knows about campaigns, sessions, or calendars.
 
-**Exports:** `CONFIG_PATH`, `CONFIG_DEFAULTS`, `cfg`, `linkPath`, `asList`, `statusOf`, `shortName`, `num`, `dateText`, `S`, `pad`, `todayDay`, `dayOf`, `rawText`, `isExcluded`, `tagsOf`, `hasTag`, `inFolder`, `daysBetween`, `useNoteText`, `stripComments`, `escapeRe`, `bulletValue`, `numberRanges`
+**Exports:** `CONFIG_PATH`, `CONFIG_DEFAULTS`, `cfg`, `linkPath`, `asList`, `statusOf`, `shortName`, `num`, `dateText`, `S`, `pad`, `todayDay`, `dayOf`, `rawText`, `isExcluded`, `tagsOf`, `hasTag`, `inFolder`, `findPath`, `ensureFolder`, `availablePath`, `daysBetween`, `useNoteText`, `stripComments`, `escapeRe`, `bulletValue`, `numberRanges`
 
 **Depends on:** none
 
-**Used by:** [[Campaign State]] · [[Calendar and Timeline]] · [[Note Types]] · [[Arc and Session Views]] · [[DM Screen Views]] · [[Session Hub Views]] · [[Session Hub Table]] · [[Quick Capture]] · [[Item Data]] · [[Party Card]] · [[Diagnostics]] · [[Artifact Pieces]] · [[Progress Tracks]]
+**Used by:** [[Campaign State]] · [[Calendar and Timeline]] · [[Note Types]] · [[Arc and Session Views]] · [[DM Screen Views]] · [[Session Hub Views]] · [[Session Hub Table]] · [[Quick Capture]] · [[Item Data]] · [[Party Card]] · [[NPC Browser]] · [[Diagnostics]] · [[Artifact Pieces]] · [[Progress Tracks]]
 
 The block below is plain `jsx`, so it does not run on this page. Notes load it with `dc.require(dc.headerLink("00 DM Screen/Code/Shared Helpers.md", "Code"))`. After editing, reopen any note that uses it. Design: [[DM Hubs Design]].
 
@@ -27,7 +27,8 @@ const CONFIG_DEFAULTS = {
   tag_npc: "npc",
   tag_pc: "player",
   tag_location: "location",
-  tag_faction: "faction",
+  tag_faction: "organization",
+  faction_tag_prefix: "faction",
   tag_item: "artifact",
   tag_lore: "lore",
   tags_dm_tools: ["dm-tool", "dm-tools"],
@@ -90,7 +91,7 @@ function cfg() {
     const value = set ? v : fallback;
     out[key] = Array.isArray(fallback)
       ? [].concat(value).map((x) => String(x).replace(/^#/, "").toLowerCase())
-      : key.startsWith("tag") || key === "campaign_tag_prefix"
+      : key.startsWith("tag") || key.endsWith("_tag_prefix")
       ? String(value).replace(/^#/, "").toLowerCase()
       : String(value);
   }
@@ -153,6 +154,36 @@ const tagsOf = (p) => (p.$tags ?? []).map((t) => String(t).replace(/^#/, "").toL
 const hasTag = (p, tag) => tagsOf(p).some((t) => t === tag || t.startsWith(tag + "/"));
 const inFolder = (p, folder) => p.$path.startsWith(folder + "/");
 
+// ── Files and folders ─────────────────────────────────────────────
+// getAbstractFileByPath matches capitals exactly, but macOS treats "Place Tag" and "Place tag" as the same name.
+// These ignore capitals, so "is this name taken?" sees what the disk sees. The templates' copies are in
+// z_Templates/Scripts/dm_helpers.js (findPath, ensureFolder): change both together.
+
+/** A note or folder by path, ignoring capitals; null when there is none. */
+const findPath = (path) => {
+  const p = String(path).toLowerCase();
+  return app.vault.getAllLoadedFiles().find((f) => f.path.toLowerCase() === p) ?? null;
+};
+/** Makes each missing level of a folder path; a level that exists with other capitals is reused as it is. Returns the real path. */
+async function ensureFolder(path) {
+  let current = "";
+  for (const part of String(path).split("/").filter(Boolean)) {
+    const want = current ? `${current}/${part}` : part;
+    const found = findPath(want);
+    if (found && found.children === undefined) throw new Error(`"${found.path}" is a file, not a folder.`);
+    if (!found) await app.vault.createFolder(want);
+    current = found ? found.path : want;
+  }
+  return current;
+}
+/** folder/name.md, or "name 2", "name 3"… when that name is taken (capitals ignored). */
+function availablePath(folder, name) {
+  for (let n = 1; ; n++) {
+    const path = `${folder}/${name}${n > 1 ? ` ${n}` : ""}.md`;
+    if (!findPath(path)) return path;
+  }
+}
+
 const daysBetween = (a, b) => Math.round((Date.parse(`${b}T00:00:00`) - Date.parse(`${a}T00:00:00`)) / 86400000);
 
 /** A note's full text; re-read whenever the note changes. Empty string until loaded or if missing. */
@@ -196,5 +227,5 @@ function numberRanges(nums) {
   return parts.join(", ");
 }
 
-return { CONFIG_PATH, CONFIG_DEFAULTS, cfg, linkPath, asList, statusOf, shortName, num, dateText, S, pad, todayDay, dayOf, rawText, isExcluded, tagsOf, hasTag, inFolder, daysBetween, useNoteText, stripComments, escapeRe, bulletValue, numberRanges };
+return { CONFIG_PATH, CONFIG_DEFAULTS, cfg, linkPath, asList, statusOf, shortName, num, dateText, S, pad, todayDay, dayOf, rawText, isExcluded, tagsOf, hasTag, inFolder, findPath, ensureFolder, availablePath, daysBetween, useNoteText, stripComments, escapeRe, bulletValue, numberRanges };
 ```

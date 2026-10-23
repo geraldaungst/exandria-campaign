@@ -4,7 +4,7 @@ aliases:
 current_location: "[[Rosohna]]"
 disposition: indifferent
 tags:
-  - faction
+  - organization
   - offscreen
   - world/exandria
   - region/xhorhas

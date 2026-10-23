@@ -4,7 +4,7 @@ aliases:
   - emissaries
 disposition: hostile
 tags:
-  - faction
+  - organization
   - offscreen
   - world/exandria
   - faction/emissaries-of-the-sunfall

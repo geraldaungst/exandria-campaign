@@ -27,7 +27,7 @@ The block below is plain `jsx`, so it does not run on this page. Notes load it w
 ```jsx
 const { cfg, tagsOf, hasTag, isExcluded, S } = await dc.require(dc.headerLink("00 DM Screen/Code/Shared Helpers.md", "Code"));
 
-const PREFIX = { world: "world", region: "region", place: "place", faction: "faction" };
+const PREFIX = { world: "world", region: "region", place: "place", faction: cfg().faction_tag_prefix };
 const NONE = "__none__";
 
 const B = {

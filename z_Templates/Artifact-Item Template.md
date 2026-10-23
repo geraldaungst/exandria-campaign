@@ -1,43 +1,31 @@
 <%*
-// ── Dynamic tag derivation for Artifact/Item notes ──
+// ── Item note: name, then world; writes the type tag (artifact) and the world tag, and files the note in the
+// objects folder (Objects). Items carry no region tag.
+// Quick Capture builds item stubs from this template's body: keep the closing tag of this block directly
+// before the frontmatter, and no Templater tags below the frontmatter.
+// ── Shared helpers: z_Templates/Scripts/dm_helpers.js (a Templater user script), used by every template that
+// runs code. Edit them there, once, for all of them.
+const { C, ABORT, FACTION, slug, tagPath, fmOf, tagsOfFile, liveNotes, vocabulary, levels, dropParents, pickTag, pickFactions, childFolders,
+  inWorldFilter, worldRegionEntries, campaignTagOf, campaignNotes, pickCampaign, campaignWorld, placeNoteFor, linkTo,
+  findPath, ensureFolder, askTitle, discard, safeMove } = tp.user.dm_helpers(tp, Notice);
 
-const ABORT = "✕ Cancel (don't create file)";
+const title = await askTitle("Item");
+if (!title) { await discard(); return; }
 
-async function abort() {
-  const f = app.vault.getAbstractFileByPath(tp.file.path(true));
-  if (f) await app.vault.delete(f, true);
-}
+// World: the folders under the worlds folder
+const worldsRoot = app.vault.getAbstractFileByPath(C("folder_worlds", "Worlds"));
+if (!worldsRoot) { new Notice("Could not find the worlds folder."); await discard(); return; }
+const worlds = childFolders(worldsRoot).map((f) => f.name).sort((a, b) => a.localeCompare(b));
+const world = await tp.system.suggester([...worlds, ABORT], [...worlds, ABORT], false, "Which world does this item belong to?");
+if (!world || world === ABORT) { await discard(); return; }
 
-function toTag(str) {
-  return str.toLowerCase().replace(/\s+/g, "-");
-}
-
-function getChildFolders(folder) {
-  if (!folder || !folder.children) return [];
-  return folder.children.filter(f => f.children !== undefined);
-}
-
-// Build flat world list
-const worldsRoot = app.vault.getAbstractFileByPath("Worlds");
-if (!worldsRoot) { new Notice("Could not find Worlds/ folder."); await abort(); return; }
-
-const worldFolders = getChildFolders(worldsRoot);
-const worldNames = worldFolders.map(f => f.name).sort();
-const labels = [...worldNames, ABORT];
-
-// 1. Prompt for world
-const chosenWorld = await tp.system.suggester(labels, labels);
-if (!chosenWorld || chosenWorld === ABORT) { await abort(); return; }
-
-const worldTag = `world/${toTag(chosenWorld)}`;
-
-// 2. Move file to Items/
-await tp.file.move(`Items/${tp.file.title}`);
+const tags = [C("tag_item", "artifact"), `world/${slug(world)}`];
+const tagLines = tags.map((t) => `  - ${t}`).join("\n");
+await safeMove(C("folder_objects", "Objects"), title);
 _%>
 ---
 tags:
-  - item
-  - <% worldTag %>
+<% tagLines %>
 ---
 
 # Quick Reference

@@ -3,19 +3,14 @@
 // Asks how much in-world time passed and the time of day, then writes fc-end and
 // ingame_time to the note's frontmatter, then offers to log events to the campaign
 // timeline note (Calendarium inline events). Inserts no text into the session note.
-// Settings from Hub Config (same names and defaults as the hub code in 00 DM Screen/Code).
-const HUB_CONFIG = (() => {
-  const f = app.vault.getAbstractFileByPath("00 DM Screen/Code/Hub Config.md");
-  return (f && app.metadataCache.getFileCache(f)?.frontmatter) ?? {};
-})();
-const C = (key, fallback) => {
-  const v = HUB_CONFIG[key];
-  if (v === undefined || v === null || v === "") return fallback;
-  return key.startsWith("tag") || key === "campaign_tag_prefix" ? String(v).replace(/^#/, "").toLowerCase() : v;
-};
+// ── Shared helpers: z_Templates/Scripts/dm_helpers.js (a Templater user script), used by every template that
+// runs code. Edit them there, once, for all of them.
+const { C, ABORT, FACTION, slug, tagPath, fmOf, tagsOfFile, liveNotes, vocabulary, levels, dropParents, pickTag, pickFactions, childFolders,
+  inWorldFilter, worldRegionEntries, campaignTagOf, campaignNotes, pickCampaign, campaignWorld, placeNoteFor, linkTo,
+  findPath, ensureFolder, askTitle, discard, safeMove } = tp.user.dm_helpers(tp, Notice);
 const file = tp.config.target_file ?? app.workspace.getActiveFile();
 const fm = (file && app.metadataCache.getFileCache(file)?.frontmatter) ?? {};
-const tags = [].concat(fm.tags ?? []).map((t) => String(t).replace(/^#/, ""));
+const tags = tagsOfFile(file);
 if (!file || !tags.includes(C("tag_session", "session"))) {
   new Notice("Close Session: open a session note first.");
   return;
@@ -23,21 +18,15 @@ if (!file || !tags.includes(C("tag_session", "session"))) {
 
 // The session's campaign note (tag campaign-hub, sharing this session's campaign/… tag) supplies
 // the calendar (when the session has no fc-calendar) and the timeline note.
-const campaignNote = app.vault
-  .getMarkdownFiles()
-  .filter((f) => !f.path.split("/").some((p) => p.startsWith(C("excluded_folder_prefix", "z_"))))
-  .map((f) => ({ f, fm: app.metadataCache.getFileCache(f)?.frontmatter ?? {} }))
-  .find((c) => {
-    const ctags = [].concat(c.fm.tags ?? []).map((t) => String(t).replace(/^#/, ""));
-    return ctags.includes(C("tag_campaign_note", "campaign-hub")) && ctags.some((t) => t.startsWith(C("campaign_tag_prefix", "campaign/")) && tags.includes(t));
-  });
+const campaignNote =
+  campaignNotes().find((f) => tagsOfFile(f).some((t) => t.startsWith(C("campaign_tag_prefix", "campaign/")) && tags.includes(t))) ?? null;
 const linkTarget = (v, from) => {
   const t = String(v ?? "").replace(/^\[\[/, "").replace(/\]\]$/, "").replace(/\|.*$/, "");
   return t ? app.metadataCache.getFirstLinkpathDest(t, from) : null;
 };
 
 // Month names and lengths come from Calendarium's own settings.
-const calName = fm["fc-calendar"] || campaignNote?.fm.calendar;
+const calName = fm["fc-calendar"] || fmOf(campaignNote).calendar;
 if (!calName) {
   new Notice("Close Session: this session has no fc-calendar and no campaign note names a calendar.");
   return;
@@ -140,7 +129,9 @@ try {
 }
 
 // Timeline events: appended to the campaign timeline note as Calendarium inline events.
-const timeline = campaignNote ? linkTarget(campaignNote.fm.timeline, campaignNote.f.path) : null;
+// createEvent in 00 DM Screen/Code/Quick Capture.md writes the same line format (Datacore can't load this
+// template's helpers); change the two together.
+const timeline = campaignNote ? linkTarget(fmOf(campaignNote).timeline, campaignNote.path) : null;
 if (!timeline) new Notice("No timeline note is linked from this session's campaign note, so timeline events were skipped.");
 // The sessions category is reserved for session notes themselves.
 const categories = (cal.categories ?? []).map((c) => c.name).filter((n) => n && n !== C("calendar_category_sessions", "Sessions"));

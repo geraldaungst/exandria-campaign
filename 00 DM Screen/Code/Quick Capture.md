@@ -24,7 +24,7 @@ The block below is plain `jsx`, so it does not run on this page. Notes load it w
 ## Code
 
 ```jsx
-const { cfg, linkPath, rawText, S } = await dc.require(dc.headerLink("00 DM Screen/Code/Shared Helpers.md", "Code"));
+const { cfg, linkPath, rawText, ensureFolder, availablePath, S } = await dc.require(dc.headerLink("00 DM Screen/Code/Shared Helpers.md", "Code"));
 
 const { useActiveCampaign, useSessionState } = await dc.require(dc.headerLink("00 DM Screen/Code/Campaign State.md", "Code"));
 
@@ -103,20 +103,7 @@ function stubContent({ kind, line, session, campaignTag, worldTag, body, templat
 
 // ── Vault actions ─────────────────────────────────────────────────
 
-async function ensureFolder(path) {
-  let current = "";
-  for (const part of path.split("/")) {
-    current = current ? `${current}/${part}` : part;
-    if (!app.vault.getAbstractFileByPath(current)) await app.vault.createFolder(current);
-  }
-}
-
-function availablePath(folder, name) {
-  for (let n = 1; ; n++) {
-    const path = `${folder}/${name}${n > 1 ? ` ${n}` : ""}.md`;
-    if (!app.vault.getAbstractFileByPath(path)) return path;
-  }
-}
+// ensureFolder and availablePath come from Shared Helpers; both ignore capitals, as the disk does.
 
 /** The text of a template note, found in Templater's template folder when known, else by name. null when missing. */
 async function readTemplate(name) {
@@ -147,7 +134,7 @@ async function createStub({ kindKey, name, line, campaign, session, worldName })
     ? c.folder_npcs
     : c.folder_objects;
   try {
-    await ensureFolder(folder);
+    const dir = await ensureFolder(folder);
     const body = templateBody(await readTemplate(kind.template));
     const content = stubContent({
       kind,
@@ -158,7 +145,7 @@ async function createStub({ kindKey, name, line, campaign, session, worldName })
       body,
       templateName: kind.template,
     });
-    const file = await app.vault.create(availablePath(folder, title), content);
+    const file = await app.vault.create(availablePath(dir, title), content);
     return { file, plain: body === null };
   } catch (e) {
     console.error(e);
@@ -168,6 +155,7 @@ async function createStub({ kindKey, name, line, campaign, session, worldName })
 
 /**
  * Add an event line to the campaign timeline note, in the same format and place as Close Session does.
+ * The Close Session template (z_Templates) has its own copy of this line format: change the two together.
  * date is year-month-day with the month as a number from 1. Returns { text } or { error }.
  */
 async function createEvent({ name, line, date, category, campaign, session, months }) {

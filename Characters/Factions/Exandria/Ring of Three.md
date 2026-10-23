@@ -3,7 +3,7 @@ affiliations:
   - "[[Dwendalian Empire - DM Notes]]"
 disposition: indifferent
 tags:
-  - faction
+  - organization
   - world/exandria
   - region/dwendalian-empire
   - faction/ring-of-three

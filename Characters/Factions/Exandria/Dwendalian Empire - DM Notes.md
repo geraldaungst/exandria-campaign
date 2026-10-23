@@ -4,7 +4,7 @@ aliases:
 current_location: "[[Rexxentrum - DM Notes]]"
 disposition: indifferent
 tags:
-  - faction
+  - organization
   - world/exandria
   - region/dwendalian-empire
   - faction/dwendalian-empire

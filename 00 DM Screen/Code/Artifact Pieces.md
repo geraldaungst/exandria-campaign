@@ -329,7 +329,7 @@ function partyKnowledge(parsed, state, ctx) {
 
 const PARTY_KEY = "party:";
 
-/** A faction's own note: carries `faction` or a `faction/…` tag, and is not an NPC, PC, location, or player wiki page. */
+/** A faction's own note: carries the faction type tag (`tag_faction`, organization), and is not an NPC, PC, location, or player wiki page. */
 function isFactionNote(page) {
   const c = cfg();
   const has = (t) => page.tags.some((x) => x === t || x.startsWith(t + "/"));
@@ -343,7 +343,7 @@ function factionNotesByTag(pages) {
   const score = (p, tag) => (slug(p.name) === tag.split("/").pop() ? 2 : 0) + (p.path.startsWith(c.folder_factions + "/") ? 1 : 0);
   for (const p of pages) {
     if (!isFactionNote(p)) continue;
-    for (const t of deepestUnder(p.tags, c.tag_faction)) {
+    for (const t of deepestUnder(p.tags, c.faction_tag_prefix)) {
       const cur = best.get(t);
       if (!cur || score(p, t) > score(cur, t)) best.set(t, p);
     }
@@ -355,7 +355,7 @@ function factionNotesByTag(pages) {
 function factionsOf(page, factionByTag) {
   const out = [];
   if (!page) return out;
-  for (const t of deepestUnder(page.tags, cfg().tag_faction)) {
+  for (const t of deepestUnder(page.tags, cfg().faction_tag_prefix)) {
     const parts = t.split("/");
     for (let i = 2; i <= parts.length; i++) {
       const f = factionByTag.get(parts.slice(0, i).join("/"));

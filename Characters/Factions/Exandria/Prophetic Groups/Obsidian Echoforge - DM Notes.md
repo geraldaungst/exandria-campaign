@@ -3,7 +3,7 @@ aliases:
   - echoforge
 disposition: friendly
 tags:
-  - faction
+  - organization
   - offscreen
   - world/exandria
   - faction/obsidian-echoforge

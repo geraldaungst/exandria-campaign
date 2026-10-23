@@ -3,7 +3,7 @@ affiliations:
   - "[[Emissaries of the Sunfall - DM Notes]]"
 disposition: indifferent
 tags:
-  - faction
+  - organization
   - world/exandria
   - region/xhorhas
   - offscreen

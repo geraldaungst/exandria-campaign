@@ -23,7 +23,7 @@ The block below is plain `jsx`, so it does not run on this page. Notes load it w
 ## Code
 
 ```jsx
-const { cfg, useNoteText, S } = await dc.require(dc.headerLink("00 DM Screen/Code/Shared Helpers.md", "Code"));
+const { cfg, useNoteText, findPath, ensureFolder, S } = await dc.require(dc.headerLink("00 DM Screen/Code/Shared Helpers.md", "Code"));
 
 const COLUMNS = ["Character", "Level", "AC", "HP", "Speed", "Perception", "Insight", "Investigation", "Spell DC", "Resistances", "Immunities", "Vulnerabilities", "Conditions", "Languages"];
 const FIELD_KEYS = ["name", "level", "ac", "hp", "speed", "pp", "pi", "pinv", "dc", "resist", "immune", "vuln", "cond", "languages"];
@@ -111,14 +111,15 @@ const todayText = () => {
 
 async function saveNote(path, rows) {
   const text = buildNote(rows, todayText());
-  const file = app.vault.getAbstractFileByPath(path);
+  // Found with capitals ignored, so a Hub Config path that differs only in capitals still finds the note.
+  const file = findPath(path);
   if (file) {
     await app.vault.process(file, () => text);
     return;
   }
   const slash = path.lastIndexOf("/");
-  if (slash > 0 && !app.vault.getAbstractFileByPath(path.slice(0, slash))) await app.vault.createFolder(path.slice(0, slash));
-  await app.vault.create(path, text);
+  const dir = slash > 0 ? await ensureFolder(path.slice(0, slash)) : "";
+  await app.vault.create(dir ? `${dir}/${path.slice(slash + 1)}` : path, text);
 }
 
 const Q = {

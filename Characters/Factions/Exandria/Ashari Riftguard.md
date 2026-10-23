@@ -3,7 +3,7 @@ aliases:
   - riftguard
 disposition: indifferent
 tags:
-  - faction
+  - organization
   - world/exandria
   - region/taldorei
   - faction/ashari

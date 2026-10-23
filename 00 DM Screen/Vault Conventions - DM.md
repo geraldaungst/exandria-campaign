@@ -21,6 +21,7 @@ Related notes: [[DM Hubs Design]] (hub rules, campaign notes, session date field
 - `place/…` nests to any depth and means where an NPC is typically found. Deeper levels are added only to the NPCs that need them: `place/zadash` for everyone in Zadash, `place/zadash/evening-nip` for the regulars there. A search for the parent finds the children. `region/…` is the coarsest location tag; place and region can be the same (2026-10-21).
 - Location notes also carry their own `place/…` tag, so a place's tag lists the location and everyone found there (2026-10-21).
 - A group an NPC belongs to gets a `faction/<slug>` tag and a stub note from the Faction Template, even when it had no note before. Sub-factions nest under the parent: `faction/ashari/terrah` (2026-10-21).
+- A faction's own note carries the type tag `organization` plus its own `faction/<slug>` tag; NPCs and encounters carry only `faction/…`. The plain `faction` tag is retired as a type tag: it is the root of the nested tags, and a note never carries a parent tag with its child (2026-10-22). Applied to the 18 faction notes and the Faction Template; Hub Config's `tag_faction` is `organization`, and `faction_tag_prefix` holds the nested root.
 - `artifact` is the tag for every item note (folder `Objects/`), including mundane notable items. `item` is retired; a note, template or query that still uses it is out of date (2026-10-04).
 - PCs not in the party, former or on hold, use `player/inactive`, not `player` (2026-10-19).
 - `lore` marks reference notes that support a plot thread without being one, such as The Prophecy (2026-10-19).
@@ -28,7 +29,7 @@ Related notes: [[DM Hubs Design]] (hub rules, campaign notes, session date field
 
 **Note types**
 - Plot thread: a campaign-scale question spanning many arcs. Tagged with one stage: `plot/active`, `plot/upcoming`, `plot/seed`, `plot/paused` (2026-10-19).
-- Arc: a playable module of 1 to 6 sessions. Tagged `arc` plus the campaign tag. Property `status` (idea, designing, ready, running, paused, abandoned, complete) and `threads` (links to the plot threads it advances). Only one arc runs at a time (2026-10-19).
+- Arc: a playable module of 1 to 6 sessions. Tagged `arc` plus the campaign tag. Property `status` (idea, designing, ready, running, paused, abandoned, complete) and `threads` (links to the plot threads it advances). Only one arc runs at a time (2026-10-19). `status` stays a property: swapping an `arc/…` tag is no less hand work, and Bases groups by a property (2026-10-22).
 - Arcs carry no `location` property. The place is a `place/…` tag plus a link to the place's note in the body, as for encounters (2026-10-22; applied to all five arcs and the Arc Template).
 - Session: one game night, tagged `session` plus the campaign tag, with `session_number`, `date`, `arc`, `previous_session`. Its "Where we left off" section is the record of campaign state; there is no separate Status Document (2026-10-19).
 - Campaign note: one per campaign, the campaign folder's folder note, tagged `campaign-hub` plus exactly one `campaign/…` tag, with `calendar`, `timeline`, `status` and `world` (2026-10-20).
@@ -49,7 +50,7 @@ Related notes: [[DM Hubs Design]] (hub rules, campaign notes, session date field
 | `faction/<slug>` | Nests: `faction/myriad/gentlemans-organization`. On NPCs, encounters and the faction note itself |
 | `campaign/<slug>` | `campaign/eryndor` (139), `campaign/tyranny` (5) |
 | `piece/<artifact>` | Pieces of a multi-part artifact: `piece/lorestone-of-eryndor` on the eight shard notes (prefix in [[Hub Config]]) |
-| Type tag | `npc`, `location`, `faction`, `artifact`, `session`, `arc`, `plot/…`, `player`, `player/inactive`, `atomic`, `lore`, `encounter`, `campaign-hub` |
+| Type tag | `npc`, `location`, `organization` (faction notes), `artifact`, `session`, `arc`, `plot/…`, `player`, `player/inactive`, `atomic`, `lore`, `encounter`, `campaign-hub` |
 | `needs-work` | Stub or incomplete (110 notes) |
 | `improvised` | Stubs made by [[Quick Capture]] |
 | `inline-events` | Notes holding Calendarium inline events (timeline, shard notes) |
@@ -64,7 +65,7 @@ Counts are notes outside the Player Wiki carrying the type tag.
 | Type | Tags | Properties |
 |---|---|---|
 | NPC (89) | `npc`, `world/`, `region/`, `place/`, `faction/` | `disposition` (friendly, indifferent, hostile; the NPC template asks for it), `aliases` |
-| Faction (24 notes in `Characters/Factions`) | Two patterns: 16 older notes carry `faction`, `world/`, sometimes `region/` and their own `faction/<slug>` (10 of 16); the 8 stubs from 2026-10-21 carry only `world/`, `region/` and `faction/<slug>`, as the Faction Template writes | Template: `aliases`. Older notes also carry `disposition` (16), `current_location` (3), `affiliations` (2) |
+| Faction (24 notes in `Characters/Factions`) | `organization`, `world/`, sometimes `region/`, and the note's own `faction/<slug>` (18 notes, retagged 2026-10-22). The other 6 still carry the plain `faction` tag and are not factions themselves: see Open | Template: `aliases`. Older notes also carry `disposition` (16), `current_location` (3), `affiliations` (2) |
 | Location (36) | `location`, `world/`, `region/`, `place/` | `aliases` |
 | Artifact (29) | `artifact`; `campaign/` on 17, `world/` on 8 | `aliases` |
 | Atomic (42; 31 with no other type tag) | `atomic`, usually `campaign/` | None |
@@ -85,7 +86,6 @@ Registered property types (`.obsidian/types.json`): `aliases`, `cssclasses`, `ta
 
 1. **Old properties held back.** Their values appear nowhere else in the note, so removing them would lose information: `affiliations` on Ring of Three (Dwendalian Empire) and Scars of Scale and Tooth (Emissaries of the Sunfall); `current_location` on Cerberus Assembly and Dwendalian Empire (Rexxentrum) and Kryn Dynasty (Rosohna); `settlement-type: roadside tavern` on Gnurlsotten's Nosh & Nip; `region: "Tal'Dorei"` on Randmork Stringsaw, which contradicts his `region/dwendalian-empire` and `place/zadash` tags. Move each value into the body or a tag, or drop it?
 2. **`disposition`.** It stays on NPCs: the NPC Browser filters and shows it, and Gerald asked for it there (2026-10-21). Fill in the 46 NPCs without it? Drop it from the 16 faction notes and 2 atomic event notes, where nothing reads it?
-3. **Faction type tag.** Keep the bare `faction` tag on faction notes (older pattern) or rely on each note's own `faction/<slug>` (template pattern)?
+3. **Plain `faction` left on non-faction notes.** Six notes in `Characters/Factions` carry it and are not factions: 00 Factions with interest in the rifts, Other Factions with Interest in the Rifts, Legacy of the Seekers and The Massacre (`atomic`, `faction-event`), The Legend of the Aurora's Ascendant, The Capture of Melthes (`hook`). Drop the tag, or give any of them `organization`? The 11 Player Wiki faction pages also carry `faction`; they belong to the Publish system and were left alone.
 4. **Tags with no ruling** (last row of the tag table). `item` is already retired. Which of the others stay?
-5. **Arc `status`.** A property Gerald changes by hand, while the rules prefer tags (Gerald first proposed `arc/running`-style tags on 2026-10-19). Keep the property, or move to tags?
-6. **Missing tags.** 37 Exandria NPCs lack `place/`; 19 NPC-tagged notes lack `region/`. Tracked as item 5 in the reorganization status note.
+5. **Missing tags.** 37 Exandria NPCs lack `place/`; 19 NPC-tagged notes lack `region/`. Tracked as item 5 in the reorganization status note.

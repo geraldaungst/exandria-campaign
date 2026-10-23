@@ -3,33 +3,22 @@
 // Tags: arc, campaign/…, place/… (picked, or none for travel or several places). No world or region tags: an arc
 // lives inside one campaign. Properties: status (starts at idea), threads (empty), tier. The place's location
 // note, when it has one, is linked under Locations so the Session Hub can find the arc.
-// ── Shared helpers: z_Templates/Scripts/dm_helpers.js (a Templater user script), used by the NPC, Faction,
-// Location, Encounter and Arc templates. Edit them there, once, for all five.
-const { C, slug, tagPath, tagsOfFile, liveNotes, vocabulary, levels, pickTag, inWorldFilter, worldRegionEntries, dropParents, askTitle, discard, safeMove } =
-  tp.user.dm_helpers(tp, Notice);
+// ── Shared helpers: z_Templates/Scripts/dm_helpers.js (a Templater user script), used by every template that
+// runs code. Edit them there, once, for all of them.
+const { C, ABORT, FACTION, slug, tagPath, fmOf, tagsOfFile, liveNotes, vocabulary, levels, dropParents, pickTag, pickFactions, childFolders,
+  inWorldFilter, worldRegionEntries, campaignTagOf, campaignNotes, pickCampaign, campaignWorld, placeNoteFor, linkTo,
+  findPath, ensureFolder, askTitle, discard, safeMove } = tp.user.dm_helpers(tp, Notice);
 
-const ABORT = "✕ Cancel (don't create file)";
-async function abort() { await discard(); }
-const fmOf = (f) => app.metadataCache.getFileCache(f)?.frontmatter ?? {};
 
 // 0. Name first
 const title = await askTitle("Arc Name");
-if (!title) { await abort(); return; }
+if (!title) { await discard(); return; }
 
-// 1. Campaign: campaign notes (tag campaign-hub) with a campaign/… tag; the active one is listed first.
-const campaignPrefix = C("campaign_tag_prefix", "campaign/");
-const campaigns = liveNotes()
-  .filter((f) => tagsOfFile(f).includes(C("tag_campaign_note", "campaign-hub")) && tagsOfFile(f).some((t) => t.startsWith(campaignPrefix)))
-  .sort(
-    (a, b) =>
-      (String(fmOf(b).status).toLowerCase() === "active") - (String(fmOf(a).status).toLowerCase() === "active") ||
-      a.basename.localeCompare(b.basename)
-  );
-if (!campaigns.length) { new Notice("No campaign note found (tag campaign-hub), so the arc can't be filed."); await abort(); return; }
-const campaignLabels = [...campaigns.map((f) => f.basename + (fmOf(f).status ? `  (${fmOf(f).status})` : "")), ABORT];
-const campaign = await tp.system.suggester(campaignLabels, [...campaigns, null], false, "Which campaign is this arc for?");
-if (!campaign) { await abort(); return; }
-const campaignTag = tagsOfFile(campaign).find((t) => t.startsWith(campaignPrefix));
+// 1. Campaign: from the campaign notes (tag campaign-hub); asked only when there is more than one.
+if (!campaignNotes().length) { new Notice("No campaign note found (tag campaign-hub), so the arc can't be filed."); await discard(); return; }
+const campaign = await pickCampaign("Which campaign is this arc for?");
+if (!campaign) { await discard(); return; }
+const campaignTag = campaignTagOf(campaign);
 
 // 2. Tier
 const tier = await tp.system.suggester(
@@ -38,29 +27,21 @@ const tier = await tp.system.suggester(
   false,
   "What kind of arc is this?"
 );
-if (!tier) { await abort(); return; }
+if (!tier) { await discard(); return; }
 
 // 3. Place: the arc's main place, from places already tagged in the campaign's world, a new one, or none.
-const worldName = String(fmOf(campaign).world ?? "").replace(/^\[\[|\]\]$/g, "").replace(/\|.*$/, "").trim();
+const worldName = campaignWorld(campaign);
 const inWorld = worldName ? liveNotes().filter(inWorldFilter(worldName)) : liveNotes();
 const placeTag = await pickTag("place", "place", vocabulary("place", inWorld), "— no place (travel or several places)", true, "Where is this arc mainly set? (place tag)");
-// The place's own location note (not a Player Wiki page): the one tagged with placeTag whose name matches the tag's last part.
-const wiki = C("folder_player_wiki", "Player Wiki") + "/";
-const tagged = placeTag
-  ? inWorld.filter((f) => !f.path.startsWith(wiki) && tagsOfFile(f).includes(C("tag_location", "location")) && tagsOfFile(f).includes(placeTag))
-  : [];
-const placeNote = tagged.find((f) => slug(f.basename) === placeTag.split("/").pop()) ?? null;
+// The place's own location note (not a Player Wiki page), named like the tag's last part.
+const { note: placeNote } = placeNoteFor(placeTag, inWorld);
 
 // 4. Tags and file location (the campaign folder's Arcs folder)
 const tags = [C("tag_arc", "arc"), campaignTag, placeTag].filter(Boolean);
 const tagLines = tags.map((t) => `  - ${t}`).join("\n");
-const placeShown = placeNote ? placeNote.basename.replace(/ - DM Notes$/i, "") : "";
-const placeLink = placeNote ? app.metadataCache.fileToLinktext(placeNote, "") : "";
-const locationLine = placeNote ? `- [[${placeLink}${placeShown !== placeLink ? `|${placeShown}` : ""}]]\n\n` : "";
+const locationLine = placeNote ? `- ${linkTo(placeNote)}\n\n` : "";
 
-const folder = `${campaign.parent.path}/Arcs`;
-if (!app.vault.getAbstractFileByPath(folder)) await app.vault.createFolder(folder);
-await safeMove(folder, title);
+await safeMove(`${campaign.parent.path}/Arcs`, title);
 -%>
 ---
 status: idea
