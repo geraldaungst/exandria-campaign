@@ -8,7 +8,7 @@ tags:
 ## Quick Reference
 
 > [!info] Essential Details
-> - Stage: Active
+> - Stage: Upcoming
 > - Priority: High
 > - Timeline: N/A
 > - Key Players: [[Vaud Qalix - DM]], [[Valen Elderguard]]

@@ -12,7 +12,7 @@ hide_from_related: true
 
 Conventions this module relies on:
 
-- **One change, one History line**, appended at the end of the History section in the format [[Artifact Pieces]] reads: `- **27 Thunsheer 835** · holder · <span data-date="835-04-27" data-category="Lorestone" data-name="Shard 6: to Hesterian">Description.</span> · [[Hesterian Shyr (Dot)|Hesterian]] · [[Session 53]]`. With "No in-world date" ticked, the bold label is the text you type and there is no span, so the line stays off the calendar.
+- **One change, one History line**, appended at the end of the History section in the format [[Artifact Pieces]] reads: `- **27 Thunsheer 835** · holder · <span data-date="835-04-27" data-category="Lorestone" data-name="Shard 6: to Hesterian">Description.</span> · [[Hesterian Shyr - Dot|Hesterian]] · [[Session 53]]`. With "No in-world date" ticked, the bold label is the text you type and there is no span, so the line stays off the calendar.
 - **What each kind also changes:**
   - holder, moved, lines read, note: History only. (Holder and location are read from History; "lines read" marks the piece's lines as read.)
   - knows exists, knows where, wrong: the person's line in Who knows is replaced, or added if they had none.

@@ -34,6 +34,7 @@ Related notes: [[DM Hubs Design]] (hub rules, campaign notes, session date field
 - Session: one game night, tagged `session` plus the campaign tag, with `session_number`, `date`, `arc`, `previous_session`. Its "Where we left off" section is the record of campaign state; there is no separate Status Document (2026-10-19).
 - Campaign note: one per campaign, the campaign folder's folder note, tagged `campaign-hub` plus exactly one `campaign/…` tag, with `calendar`, `timeline`, `status` and `world` (2026-10-20).
 - Encounter: tagged `encounter`, `campaign/…`, `world/…`, and where they apply `place/…`, `region/…` and `faction/…`. No `location` or `session` property; the body's Location line links the place (2026-10-21).
+- Lore: campaign lore and reference documents (in-world facts, history and procedures a thread draws on, such as The Prophecy and its texts, Kelmen and Popcorn Connections, Port Damali Murders) live in `Campaigns/<campaign>/Lore/` and carry the `lore` tag. Dashboards read the tag; the folder is for browsing. Planning notes, table-meta notes and tools stay out; world and faction event notes stay with their owners (2026-10-23).
 - Quick-capture stubs carry `needs-work`. NPC, faction and item stubs go straight to their normal folders; location and shop stubs go to the `Stubs` folder inside the campaign folder (2026-10-20).
 
 **Naming and events**
@@ -69,6 +70,7 @@ Counts are notes outside the Player Wiki carrying the type tag.
 | Faction (24 notes in `Characters/Factions`) | `organization`, `world/`, sometimes `region/`, and the note's own `faction/<slug>` (18 notes, retagged 2026-10-22; the other 6 are event, overview and hook notes without it) | Template: `aliases`. Older notes also carry `disposition` (16), `current_location` (3), `affiliations` (2) |
 | Location (36) | `location`, `world/`, `region/`, `place/` | `aliases` |
 | Artifact (29) | `artifact`; `campaign/` on 17, `world/` on 8 | `aliases` |
+| Lore (9 in `Campaigns/Prophecy of Eryndor - DM/Lore`) | `lore`, usually `atomic`, `campaign/` | None |
 | Atomic (42; 31 with no other type tag) | `atomic`, usually `campaign/` | None |
 | Session (27) | `session`, `campaign/` | Session Template writes at creation: `arc`, `date`, `previous_session`, `session_number`, `fc-calendar`, `fc-date`, `fc-end`, `ingame_time`, `fc-display-name`, `fc-category`. Close Session fills `fc-end` and `ingame_time`. `next_session` on 18 old notes; nothing writes or reads it |
 | Arc (5) | `arc`, `campaign/` | `status`, `threads`, `tier`; place as a `place/…` tag |

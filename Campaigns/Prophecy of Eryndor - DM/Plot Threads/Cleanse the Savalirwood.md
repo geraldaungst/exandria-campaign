@@ -2,7 +2,7 @@
 tags:
   - campaign/eryndor
   - needs-work
-  - plot/active
+  - plot/upcoming
 ---
 
 ## Quick Reference
