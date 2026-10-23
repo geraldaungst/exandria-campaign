@@ -27,13 +27,13 @@ Hesterian has expressed the goal of infiltrating the Myriad criminal organizatio
 ### Recent Events
 
 - Hesterian visited [[Harmony Hall - DM Notes]] and confronted [[Grisul Adder]]
-- Learned some details about events after [[The Port Damali Murders]]
+- Learned some details about events after [[Port Damali Murders]]
 - Established that she's seeking her killer and has leads pointing north
 
 ### Active Elements
 
 - Player has expressed interest in Myriad infiltration
-- Hesterian knows [[Korfel Withrethin]] fled north, possibly to [[Zadash - DM Notes]]
+- Hesterian knows [[Korfel Withrethin]] is in [[Zadash - DM Notes]], living under another name
 - Geographic progression brings party closer to Zadash/northern regions
 - Potential connection to [[Eidechse (Amanda Jeane)|Dechs]]'s herb delivery mission
 
@@ -47,20 +47,19 @@ Hesterian has expressed the goal of infiltrating the Myriad criminal organizatio
 
 ### What Hesterian Knows
 
-- **Her Murder:** Full details in [[The Port Damali Murders]]
-- **Current Lead:** Killer fled north, possibly to [[Zadash - DM Notes]]
+- **Her Murder:** Full details in [[Port Damali Murders]]
+- **Current Lead:** Killer is in [[Zadash - DM Notes]], living under another name
 - **Infiltration Goal:** Wants to infiltrate the Myriad (player choice)
 - **Mysterious Visions:** Strange dreams about "Scourger" and flames from [[stone-of-memory]]
 
 ### What Hesterian Thinks She Knows
 
-- Korfel is probably still using his original name
 - Her infiltration of the Myriad is unrelated to her revenge quest
 - Her visions are just nightmares from trauma
 
 ### What Hesterian Doesn't Know
 
-- **Identity Change:** [[Korfel Withrethin]] now goes by "Babenon Dosal" and "The Gentleman"
+- **Identity:** [[Korfel Withrethin]] is the Gentleman
 - **Criminal Rise:** He's become a major Myriad boss with significant power
 - **Stone of Memory:** Her visions come from a [[stone-of-memory]] she unknowingly carries
 - **Family Tragedy:** [[The Capture of Melthes|Her brother Melthes was taken by the Cerberus Assembly]]

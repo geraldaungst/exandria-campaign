@@ -7,7 +7,7 @@ tags:
   - world/exandria
   - region/dwendalian-empire
   - place/zadash
-  - faction/myriad
+  - faction/myriad/gentlemans-organization
 ---
 
 home_city: Zadash

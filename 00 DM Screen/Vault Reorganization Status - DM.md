@@ -42,7 +42,7 @@ Carried over from the audit and Phase 8 so the work does not depend on the archi
 
 **Tagging:** `npc` means the note is an individual NPC. Atomic notes about NPC topics use `atomic` or content tags, not `npc`. `needs-work` stays on refactored notes until separately reviewed.
 
-**Keep as separate notes (multi-reference):** The Massacre, The Capture of Melthes, Port Damali Murders, Rylan Estevez Frame Job, The Gentleman's Criminal Empire, Legacy of the Seekers, Luxon Beacon Integration with Lorestone.
+**Keep as separate notes (multi-reference):** The Massacre, The Capture of Melthes, Port Damali Murders, Rylan Estevez Frame Job, The Gentleman's Criminal Empire (since 2026-10-23 the faction note, in `Characters/Factions/Exandria/`), Legacy of the Seekers, Luxon Beacon Integration with Lorestone.
 
 **File triage categories (Part D):** Essential (process with the simplified template), Reference (keep, no further processing), Redundant (delete or merge), Archive (move to `z_Archive`), Stub (delete if empty, flesh out if needed).
 
@@ -88,7 +88,7 @@ Carried over from the audit and Phase 8 so the work does not depend on the archi
 | 2 | Relocate Aethor Kalisk's Workshop | done |
 | 3 | Link cleanup | done |
 | 4 | Aveqtaro Thaan as Tier 1 hub | done 2026-10-22: [[Aveqtaro Thaan]] plus [[Aveqtaro Memory Recovery Tracker]] and [[What Aveqtaro Thaan Knows]]. All links in the three notes resolve. The Dynasty Bridge subnote was never created and is not linked |
-| 4 | Evaluate Vaud Qalix and Korfel Withrethin as Tier 1 | Vaud Qalix done 2026-10-23: [[Vaud Qalix - DM Notes]] plus [[Qalix's Network]] and [[Vaud Qalix's Plan Outline]]. Korfel open |
+| 4 | Evaluate Vaud Qalix and Korfel Withrethin as Tier 1 | Vaud Qalix done 2026-10-23: [[Vaud Qalix - DM Notes]] plus [[Qalix's Network]] and [[Vaud Qalix's Plan Outline]]. Korfel done 2026-10-23: [[Korfel Withrethin]] plus [[Korfel's Next Moves]]; [[The Gentleman's Criminal Empire]] is now his faction note |
 | 5 | Sweep Characters/NPCs for non-NPC notes | open |
 | 5 | Apply the NPC template to remaining NPCs | open, incremental |
 
@@ -100,8 +100,7 @@ Verified against the vault on 2026-10-22.
 
 **2. Vaud Qalix and Korfel Withrethin as Tier 1.**
 - Vaud Qalix: done 2026-10-23. Hub rebuilt as a reference card; `What does Vaud Qalix want` merged into it (Gerald deletes the file); the Network and Plan Outline stay as subnotes; the two Manifestos are documents. Contradictions found in a vault-wide read of 77 notes were resolved with Gerald.
-- [[Korfel Withrethin]] is one 148-line note with Current Operations and Hidden Information sections. Apply the audit's test: does a section serve a different use case (running a scene versus planning moves)?
-- A planning note, `Possible ideas for Korfel`, sits in Session Notes/Planning and is outside the NPC folder.
+- Korfel Withrethin: done 2026-10-23. Hub rebuilt as a reference card with no embeds (the old note rendered about 750 lines). New subnote [[Korfel's Next Moves]] (trigger-based moves, escalation, reasons to tolerate him). [[The Gentleman's Criminal Empire]] moved to `Characters/Factions/Exandria/` and rebuilt on the Faction Template as the organization's note; the empty stub `Gentleman's Organization` is to be deleted. `Possible ideas for Korfel` folded into the subnote and moved to z_Archive. Origin decided with Gerald: Babenon Dosal was the original Gentleman; Korfel tipped off the Crownsguard and killed him in the crackdown (winter 834–835) and appears undisguised.
 
 **3. Non-NPC sweep of Characters/NPCs.** Six of 90 notes lacked the `npc` tag: the two Aveqtaro subnotes (correct as atomic subnotes) and four Lady Emer notes. The three Emer documents are now in the Emer folder (not NPC notes); the Status note is pending deletion. Recount after the Status file is deleted.
 
@@ -135,7 +134,7 @@ The Plan's final checklist, reworded for the current stack. Gerald confirms the 
 
 ### Recommended next step
 
-Item 2, Korfel Withrethin as Tier 1. Korfel is one 148-line note; `Possible ideas for Korfel` sits in Session Notes/Planning. Read the vault for every Korfel and Gentleman mention before drafting, as was done for Qalix.
+Item 3, the non-NPC sweep of Characters/NPCs, once `Lady Emer Status.md` is deleted (recount first).
 
 ### Phase log
 
@@ -170,3 +169,5 @@ Newest at the bottom. Format: `YYYY-MM-DD | phase | what changed | result`.
 2026-10-23 | NPC audit, Vaud Qalix | Hub rebuilt (Quick Reference, roleplay, Current Situation, resources, hidden information, endgame, subnotes, documents; tags region/xhorhas, place/xarzith-kitril, faction/scars-of-scale-and-tooth added). Merged What does Vaud Qalix want into the hub. Plan Outline: goal table moved in (collapsed, broken prophecy link fixed), stale Dreyara and Celdric steps updated, future steps state their trigger, duplicate patron section removed. Outside the folder: trigger line on Qalix escalates (Luxon Beacon Political Consequences), shard-count lines (Lorestone of Eryndor - DM Notes), Emissaries goal line, Assembling the Lorestone embed. npc tag removed from Manifesto - Brief. Backups in z_Reference/template-backups/2026-10-23 Qalix Tier 1 | All new wiki-links resolve. Delete `What does Vaud Qalix want.md`. disposition left for Gerald. Rendering, embeds and Related Notes.base not tested in Obsidian.
 
 2026-10-23 | NPC audit, Vaud Qalix | Hub rebuilt; What does Vaud Qalix want merged; Plan Outline updated (goal table, stale steps, future triggers); trigger line in Luxon Beacon Political Consequences, shard-count lines in Lorestone hub, Emissaries goal line, Assembling the Lorestone embed; npc tag off Manifesto - Brief | Links resolve. Delete What does Vaud Qalix want.md. Not tested in Obsidian.
+
+2026-10-23 | NPC audit, Korfel Withrethin | Hub rebuilt as a reference card (embeds removed; Babenon alias dropped; disposition left for Gerald). New subnote Korfel's Next Moves. The Gentleman's Criminal Empire moved to Characters/Factions/Exandria and rebuilt on the Faction Template with tags organization and faction/myriad/gentlemans-organization (atomic and campaign tags dropped). Possible ideas for Korfel moved to z_Archive. Line fixes: Hesterian Shyr's Infiltration (Zadash and identity lines, Babenon line, two broken Port Damali Murders links), Hesterian Shyr (Dot) (Zadash line), Cree Deeproots faction tag. Backups in z_Reference/template-backups/2026-10-23 Korfel Tier 1 | All new wiki-links resolve. Delete `Characters/Factions/Exandria/Gentleman's Organization.md`. Cree's employment dates wait for her template pass. Rendering, the #History link and Related Notes.base not tested in Obsidian.

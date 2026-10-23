@@ -2,146 +2,72 @@
 aliases:
   - The Gentleman
   - Korfel
-  - Babenon Dosal
 tags:
   - npc
-  - region/dwendalian-empire
   - world/exandria
+  - region/dwendalian-empire
   - place/zadash
   - faction/myriad/gentlemans-organization
 ---
 
-home_city: Zadash
-
-region: Dwendalian Empire
-
 ## Quick Reference
 
 > [!info] Essential Details
->
-> - Current Location: [[Zadash - DM Notes]] (Evening Nip tavern headquarters)
-> - Key Motivation: Self-preservation and power expansion through control
-> - Attitude toward party: Initially welcoming but calculating; becomes hostile if identity discovered
-> - Critical Knowledge: [[Port Damali Murders]], [[Rylan Estevez Frame Job]], [[The Gentleman's Criminal Empire]]
-> - Status: Established crime boss operating under false identity
+> - **Where he is:** beneath the Evening Nip in [[Zadash - DM Notes|Zadash]], and the tunnels that came with the seat
+> - **Who he is to Zadash:** the Gentleman, head of the [[Myriad]] there. Nobody knows he is Korfel Withrethin, or that he is not the original Gentleman
+> - **Goal:** hold the seat he took months ago and keep both secrets buried
+> - **Toward the party:** watching for three of Dreyara's killers (a dragonborn with a wyvern, a striking blonde, a gnome with a thing for hats). Believes Hesterian is dead
+> - **Organization:** [[The Gentleman's Criminal Empire]]. **His plans:** [[Korfel's Next Moves]]
 
-## Description
+## Description & Roleplay
 
-A well-dressed human man in his early 40s who carries himself with the confidence of wealth and authority. As "The Gentleman," he presents an image of refined criminality - expensive clothing, careful grooming, and sophisticated mannerisms that mask his violent past. His eyes are calculating and cold, constantly assessing threats and opportunities.
+Human man in his early 40s. Expensive clothes, careful grooming: a Port Damali merchant's polish over a murderer's temper. Cold, assessing eyes.
 
-### Roleplay
-
-- **Voice:** Smooth, cultured tone with undertones of menace. Speaks deliberately and chooses words carefully
-- **Mannerisms:**
-    - Adjusts cufflinks when thinking or stressed
-    - Maintains intense eye contact during important conversations
-    - Never raises his voice - uses quiet intensity instead
-    - Frequently offers refreshments as power plays
-- **Notable Traits:**
-    - Pure self-preservation instinct - will sacrifice anyone to protect himself
-    - Obsession with control and surveillance of all operations
-    - Presents veneer of sophistication covering brutal pragmatism
-    - Paranoid about exposure of his true identity
+- **Voice:** smooth and cultured. Speaks deliberately, never raises his voice; quiet menace instead
+- **Mannerisms:** adjusts his cufflinks when thinking or under strain; holds eye contact in serious talk; offers refreshments as a power move
+- **Key traits:** self-preservation above everything; must watch and control every part of his operation; paranoid about exposure
+- **In the room:** [[Cree Deeproots]] (blood magic), Sorah (goliath enforcer), Kutha (11-foot ogre). All hired after the crackdown; none has seen another Gentleman
+- **Terms of business:** every new partner gives a blood sample ([[Blood Sample Collection Protocol]])
 
 ## Current Situation
 
-Currently operates as a major [[Myriad]] crime boss in [[Zadash - DM Notes]] under the alias "Babenon Dosal." Runs operations from the Evening Nip tavern and has built a sophisticated criminal network over 2-3 years. Unknown to his organization, he is actually Korfel Withrethin, a murderer who fled [[Port Damali - DM Notes]] after committing the [[Port Damali Murders]].
+As of 28 Thunsheer 835. Network detail: [[Qalix's Network]].
 
-**Current Resources:**
-
-- [[Cree Deeproots]] (Blood Domain cleric for surveillance)
-- Criminal network including Sorah (goliath enforcer) and Kutha (11-foot ogre)
-- Substantial financial resources and corrupt official connections
-- Qalix's down payment for an unfinished job, the Rexxentrum Archive heist (see [[The Gentleman's Criminal Empire]])
-- [[Blood Sample Collection Protocol]] for controlling associates
-
-## Background
-
-### Origins in Port Damali
-
-Korfel Withrethin was a merchant in [[Port Damali - DM Notes]] with criminal connections who had purchased exclusive patronage of [[Hesterian Shyr (Dot)]] from [[Grisul Adder]]'s brothel. When he discovered Hesterian planned to escape with her lover [[Xanaphia Lothliss]], his obsession with control led to violence.
-
-![[Port Damali Murders#Core Information]]
-
-### The Frame-Up and Escape
-
-To cover his crimes and deflect suspicion, Korfel immediately framed an innocent stable boy:
-
-![[Rylan Estevez Frame Job#Core Information]]
-
-After successfully framing Rylan, Korfel fled [[Port Damali - DM Notes]] with whatever criminal proceeds he could gather, eventually settling in [[Zadash - DM Notes]] where he reinvented himself.
-
-### Rise to Power
-
-![[The Gentleman's Criminal Empire#Core Information]]
-
-## Current Operations
-
-### Blood Magic Surveillance
-
-Korfel's paranoia about exposure has led him to implement a comprehensive surveillance system:
-
-![[Blood Sample Collection Protocol#Core Information]]
-
-### Key Personnel
-
-#### Cree Deeproots
-
-His most valuable asset for maintaining control:
-
-![[Cree Deeproots#Core Information]]
+- Has held the seat since the crackdown of winter 834–835. His grip is new, and he rules harder than his predecessor
+- **27–28 Thunsheer:** his connections told him [[Dreyara Drimvar - DM Notes|Dreyara]] is dead, with descriptions of three of her killers. His people are watching for them
+- Holds [[Vaud Qalix - DM Notes|Qalix]]'s down payment for a half-planned heist of the [[Cobalt Soul Archive in Rexxentrum - DM Notes|Rexxentrum Archive]] (Shard 5)
+- **Does not know:** that the party carries Shard 6 or the crystal, or that Hesterian is alive and with them
 
 ## Hidden Information
 
-> [!secret]- DM Only
->
-> ## Korfel's Likely Reactions to Hesterian:
->
-> ### **Immediate Response (First Encounter):**
->
-> - **Shock and Calculation:** Brief moment of genuine fear, then rapid assessment of threat level
-> - **Public Composure:** Maintains "Gentleman" persona in front of subordinates - can't show weakness
-> - **Probing Questions:** "How are you alive?" "What do you want?" "Who else knows?"
-> - **Information Gathering:** Tries to determine what she knows and who she's told
-> 
-> ### **Behind the Scenes Actions:**
->
-> - **Intelligence Gathering:** Uses criminal network to research her companions and recent activities
-> - **Contingency Planning:** Prepares multiple exit strategies and elimination options
-> - **Asset Protection:** Moves valuable resources and evidence to secure locations
-> - **Network Alerts:** Warns key lieutenants about potential security threats without revealing specifics
-> - **Leverage Assessment:** Investigates party members for potential blackmail or pressure points
-> 
-> ### **Public Offers/Manipulation:**
->
-> - **Professional Courtesy:** "Let's discuss this like civilized people"
-> - **Business Opportunity:** Offers lucrative jobs to keep party close and monitored
-> - **False Vulnerability:** Claims he's "changed" or was "forced into desperate circumstances"
-> - **Mutual Benefit:** Argues that exposing him would destabilize criminal balance, helping no one
-> - **Blood Sample Requirement:** Insists on "standard security protocols" for all business partners
-> 
-> ### **Escalation Strategies:**
->
-> - **Economic Pressure:** Uses criminal network to make life difficult for party
-> - **Misdirection:** Frames party for other crimes to discredit their accusations
-> - **Direct Threats:** Threatens people party cares about if other methods fail
-> - **False Evidence:** Plants evidence suggesting party members are criminals or spies
-> - **Alliance Building:** Seeks support from other Myriad factions against "external threats"
-> 
-> ## Vulnerabilities:
->
-> - **Identity Exposure:** True identity unknown to his own organization
-> - **Rylan Estevez:** Frame job could unravel if properly investigated
-> - **Paranoia:** Overreaction to threats can create new enemies
-> - **Cree's Loyalty:** Depends on one person for magical surveillance
-> - **Past Witnesses:** People from Port Damali could potentially identify him
-> 
-> ## Psychological Profile:
->
-> - **Core Drive:** Pure self-preservation - will sacrifice anyone to protect himself
-> - **Fatal Flaw:** Cannot conceive of any outcome except total control or total destruction
-> - **Decision Making:** Always chooses option that eliminates future threats permanently
-> - **Moral Framework:** None - views other people as resources to be managed or eliminated
+> [!secret]- Who he really is
+> - **Korfel Withrethin**, a merchant known in [[Port Damali - DM Notes|Port Damali]] for years, with criminal dealings that included the [[Clasp]]. Murdered [[Hesterian Shyr (Dot)|Hesterian]] and Xanaphia Lothliss ([[Port Damali Murders]]), framed [[Rylan Estevez]] ([[Rylan Estevez Frame Job]]), and fled north about 2–3 years ago
+> - **How he became the Gentleman:** tipped off the Crownsguard about a lieutenant's plot against a starosta, then killed the original Gentleman, Babenon Dosal, in the tunnels during the crackdown. Detail: [[The Gentleman's Criminal Empire#History]]
+> - **Nobody knows:** not Cree, not his staff, not [[Father Dwondaff Pierce]] (who knew Korfel the merchant), not the wider Myriad
+
+> [!secret]- When Hesterian walks in
+> - **First seconds:** a flicker of real fear, then calculation. He keeps the Gentleman's composure; his people must not see weakness or hear his name
+> - **Opening line:** denial. "I'm afraid you're mistaken. I've always been a Zadash man." More lines: [[Hesterian Shyr's Infiltration]]
+> - **Probes for:** how she is alive, what she wants, who else knows
+> - **Offers:** civility ("let's discuss this like civilized people"); paid work that keeps the party close and watched; a claim that he was desperate or has changed; the argument that exposing him helps no one
+> - **Demands:** blood samples from everyone at the table, as standard terms
+> - **Flashpoints:** his real name said aloud; Port Damali; Rylan; refusing the blood sample; a threat from either side
+> - **Won't** start a fight in his own hall unless cornered. He leaves through the tunnels and settles it later ([[Korfel's Next Moves]])
+
+> [!secret]- Vulnerabilities
+> - **His own people:** if the Myriad learns he betrayed the lieutenant and killed Babenon, he is dead. This is the bigger danger
+> - **Paper trail:** an anonymous tip to the Crownsguard in a merchant's hand. Babenon's captured lieutenants, in Crownsguard custody, knew the real Gentleman's face
+> - **His past:** [[Qilynn Duskwhisper (Nicole)|Qilynn]] knows his name from Clasp business but has never met him. Marion Lavorre may know his real name. Rylan's conviction falls apart under examination
+> - **Cree:** the blood-sample system depends on one person, loyal for professional reasons, not personal ones
+> - **Temperament:** sees only total control or total destruction; his paranoia overreacts and makes new enemies
+
+> [!note]- Stats
+> CR 12. Stat block not in the vault. Rarely without Sorah and Kutha
+
+## Subnotes
+
+- [[Korfel's Next Moves]]: what he does between scenes, and what he must learn first
+- [[The Gentleman's Criminal Empire]]: his organization, people, operations and history
 
 ## Connected Elements
 

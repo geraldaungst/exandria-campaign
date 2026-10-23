@@ -28,7 +28,7 @@ The full details of Hesterian's death can be found in [[Port Damali Murders]]. I
 
 ### Current Quest
 
-Hesterian knows her killer fled north, possibly to [[Zadash - DM Notes]], and she seeks justice. Her investigation has led her to express interest in infiltrating the [[Myriad]] criminal organization, though she doesn't yet know this will lead her directly to her murderer. See [[Hesterian Shyr's Infiltration]] for full plot details.
+Hesterian knows her killer is in [[Zadash - DM Notes]], living under another name, and she seeks justice. Her investigation has led her to express interest in infiltrating the [[Myriad]] criminal organization, though she doesn't yet know this will lead her directly to her murderer. See [[Hesterian Shyr's Infiltration]] for full plot details.
 
 ### Family
 
