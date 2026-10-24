@@ -6,6 +6,7 @@ tags:
   - world/exandria
   - region/taldorei
   - faction/ashari
+  - needs-work
 ---
 
 ![[riftguard.png|right|400]]
@@ -29,3 +30,7 @@ The Riftguard currently has four members, one from each of the Ashari tribes (le
 - [[Sylphia Swiftcrest]] of the Air Ashari
 
 These four Ashari represent a microcosm of the world's elements and reflect the Ashari's holistic approach to maintaining the balance between the planes. They each bring unique perspectives and abilities to the group, making them a formidable force against the chaotic energies threatening to upset the natural order.
+
+## Open Issues
+
+- [ ] [[Lorcan Vale]], [[Melina Denos]], [[Durnn Keth]] and [[Sylphia Swiftcrest]] are one-paragraph notes. Flesh them out before the Riftguard comes into play.

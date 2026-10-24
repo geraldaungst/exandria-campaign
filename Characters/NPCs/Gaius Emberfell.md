@@ -8,6 +8,7 @@ tags:
   - region/menagerie-coast
   - place/palma-flora
   - faction/obsidian-echoforge
+  - needs-work
 ---
 
 ## Appearance & Personality

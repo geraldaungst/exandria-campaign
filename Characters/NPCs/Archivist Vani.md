@@ -8,6 +8,7 @@ tags:
   - region/menagerie-coast
   - place/port-damali
   - faction/cobalt-soul
+  - needs-work
 ---
 
 Halfling archivist in the [[Port Damali - DM]] [[Cobalt Soul Archive in Port Damali - DM|Cobalt Soul Archive]]. Helped the players learn about the [[The Prophecy|prophecy]] and the [[Lorestone of Eryndor - DM]].

@@ -14,4 +14,5 @@ Cadariel was a renowned elven cartographer and lorekeeper during the Age of Arca
 
 **Cadariel's Legacy:** Cadariel's greatest work was a master map rumored to chart the leylines and magical nexuses of the world, including sites where the barriers between planes were weakest. This map was said to contain hints to locations that were not just of physical importance but also of prophetic significance, possibly even paths to where the echoes of past and future resonated strongest. Today no trace of the map remains. It is known only through rumor and legend.
 
-**Reincarnated as [[Aveqtaro Thaan]]:*
+> [!secret]- DM Only
+> **Reincarnated as [[Aveqtaro Thaan]].** She does not know this. How the reincarnation happened is unresolved; it may or may not involve consecution. Her skill with magical measurement instruments is unconsciously guided by Cadariel's expertise with ley lines and planar geography. How his memories surface in her is tracked in [[Aveqtaro Memory Recovery Tracker]].

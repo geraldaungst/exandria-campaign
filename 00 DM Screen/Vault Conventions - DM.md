@@ -45,11 +45,11 @@ Related notes: [[DM Hubs Design]] (hub rules, campaign notes, session date field
 
 | Tag | Use |
 |---|---|
-| `world/<slug>` | Every campaign-content note. In use: `exandria` (233), `keln` (20), `toril` (13), `planar` (2) |
+| `world/<slug>` | Every campaign-content note. In use: `exandria` (233), `keln` (20), `toril` (13, all archived in `z_Archive/Campaigns/Tyranny of Dragons/NPCs`), `planar` (2) |
 | `region/<slug>` | Coarsest location tag. 14 values (menagerie-coast, dwendalian-empire, taldorei, xhorhas, cyrios-mountains, sword-coast, and others) |
 | `place/<slug>` | Nests to any depth. On NPCs, locations, encounters |
 | `faction/<slug>` | Nests: `faction/myriad/gentlemans-organization`. On NPCs, encounters and the faction note itself |
-| `campaign/<slug>` | `campaign/eryndor` (139), `campaign/tyranny` (5) |
+| `campaign/<slug>` | `campaign/eryndor` (139), `campaign/tyranny` (13 in the archive, 5 other) |
 | `piece/<artifact>` | Pieces of a multi-part artifact: `piece/lorestone-of-eryndor` on the eight shard notes (prefix in [[Hub Config]]) |
 | Type tag | `npc`, `location`, `organization` (faction notes), `artifact`, `session`, `arc`, `plot/…`, `player`, `player/inactive`, `atomic`, `lore`, `encounter`, `campaign-hub` |
 | `needs-work` | Stub or incomplete (110 notes) |
