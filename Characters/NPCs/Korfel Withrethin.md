@@ -2,13 +2,13 @@
 aliases:
   - The Gentleman
   - Korfel
+disposition: hostile
 tags:
   - npc
   - world/exandria
   - region/dwendalian-empire
   - place/zadash
   - faction/myriad/gentlemans-organization
-disposition: hostile
 ---
 
 ## Quick Reference
