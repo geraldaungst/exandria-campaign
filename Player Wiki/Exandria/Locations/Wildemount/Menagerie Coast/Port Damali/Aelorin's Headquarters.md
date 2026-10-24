@@ -1,16 +1,16 @@
 ---
+aliases:
+  - "Aelorin's Hideout"
+  - "Aelorin's Lair"
+  - "Evaldo's Elegant Attire"
+cssclasses:
+  - world-exandria
+publish: true
 tags:
   - location
   - player-facing
   - world/exandria
   - region/menagerie-coast
-aliases:
-  - Aelorin's Hideout
-  - Aelorin's Lair
-  - Evaldo's Elegant Attire
-cssclasses:
-  - world-exandria
-publish: true
 ---
 
 > [!info] Quick Reference

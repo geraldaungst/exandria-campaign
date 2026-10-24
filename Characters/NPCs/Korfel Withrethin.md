@@ -8,6 +8,7 @@ tags:
   - region/dwendalian-empire
   - place/zadash
   - faction/myriad/gentlemans-organization
+disposition: hostile
 ---
 
 ## Quick Reference
