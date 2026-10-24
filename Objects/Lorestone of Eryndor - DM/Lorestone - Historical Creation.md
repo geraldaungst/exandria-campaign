@@ -4,6 +4,7 @@ tags:
   - campaign/eryndor
   - needs-work
   - artifact
+  - world/exandria
 ---
 
 ## Core Information

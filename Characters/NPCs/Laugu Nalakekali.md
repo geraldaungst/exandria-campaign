@@ -6,6 +6,7 @@ tags:
   - region/taldorei
   - world/exandria
   - place/whitestone
+disposition: friendly
 ---
 
 ![[laugu-nalakekali.png|right|300]]

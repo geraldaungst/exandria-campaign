@@ -1,6 +1,7 @@
 ---
 tags:
   - artifact
+  - world/exandria
 ---
 
 *Wondrous item, rare (consumable), requires no attunement*

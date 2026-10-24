@@ -4,6 +4,7 @@ tags:
   - npc
   - region/menagerie-coast
   - world/exandria
+disposition: friendly
 ---
 
 ![[rylan.jpeg|right|300]]

@@ -6,6 +6,7 @@ tags:
   - npc
   - world/exandria
   - faction/obsidian-echoforge
+disposition: indifferent
 ---
 
 Tessa, an Aasimar with a celestial heritage, serves as a field agent for the [[Obsidian Echoforge - DM]]. Her task is to track anomalies that could lead them to the materials needed for the construction of [[Gaius Emberfell|Gaius]]'s device.

@@ -1,20 +1,20 @@
 ---
-tags: []
 aliases: []
+tags: []
 ---
 
-# Player Wiki Build Conventions
+## Player Wiki Build Conventions
 
 Reference for Claude when building player-facing notes for the published player wiki. Read this whole note before starting any batch. The task prompt says what to build; this note says how.
 
-## Purpose
+### Purpose
 
 - The player wiki is a reference, not a record. It is what the characters would find if they requested the "Encyclopedia of Exandria" and the "Travel Exandria" guidebooks from the Cobalt Soul.
 - It is public-facing (Obsidian Publish) and holds only what the characters could know. Everything under `Player Wiki/` is published. Nothing else in the vault is. A fact in a player note is a fact players can read, so a mistaken inclusion is a spoiler.
 - Exandria player notes form ONE set. A note such as Port Damali holds the reference information about that subject, written to be easy to understand, whether the fact is common knowledge or something the party has learned. Do not label or separate information by source.
 - The content is evergreen. It should need updating only when something important is revealed to the players.
 
-## What belongs on the wiki
+### What belongs on the wiki
 
 Include subjects a reference book or a travel guide would have an entry for:
 
@@ -38,7 +38,7 @@ Apply three tests to every candidate fact:
 
 When the party learns something important about a place, a person, or the world, state the fact in reference voice. Do not narrate how or when they learned it. When significance is borderline, decide by the tests. Leave out minor subjects by default, and list what you left out so Gerald can add it back.
 
-## Site structure
+### Site structure
 
 ```
 Player Wiki/
@@ -59,7 +59,7 @@ Player Wiki/
     - In later runs, deliver the revised `## In <Place>` section under "Additions for existing notes", with the new entries marked, so Gerald can paste it in.
     - Record the change on the ledger by setting the place's Type to Hub.
 
-## Naming
+### Naming
 
 - Titles are plain: no parentheses, underscores, slashes, or characters Obsidian disallows. If a name needs a disambiguator, write it as words ("Cobalt Soul Archive in Port Damali"). If the right wording is not obvious, ask.
 - The player note takes the clean name (`Port Damali`).
@@ -76,7 +76,7 @@ Player Wiki/
 - DM-only subjects keep their clean names and get no player note, unless a player note links to them. Player notes never link to DM-only subjects (see Note layout), so this should not arise.
 - Do not create stub notes.
 
-## Frontmatter
+### Frontmatter
 
 Include all four keys. Their order does not matter: Obsidian reorders properties when a note is edited, so existing notes legitimately differ.
 
@@ -104,7 +104,7 @@ publish: true
 - The `item` tag is retired. Treat any note, template, or query that still uses `#item` as out of date. Never copy the tag into a player note, and list the vault notes that still use it under "Vault notes to fix" in the delivery.
 - Faction notes use the type tag `organization`. The plain `faction` tag is retired as a type tag: in the vault, `faction/<slug>` tags mark membership in or involvement with a faction, and a note never carries a parent tag together with its child. Player notes get no `faction/<slug>` tag. Treat any player note, template, or query that still uses a plain `faction` tag as out of date, and list the vault notes that still use it under "Vault notes to fix" in the delivery.
 
-## Note layout
+### Note layout
 
 - No H1. The file name is the page title.
 - Locations and people open with a Quick Reference callout, then `## Description`, then topical `##` sections:
@@ -131,7 +131,7 @@ markdown
 - Place relationships (`Part of`, the region tag, "located in") come from the vault, not from the players' notes. The region tag and `Part of` must agree. Do not add geography or facts that are not in the sources.
 - No Dataview or Datacore blocks, no `[!secret]` callouts, and no DM commentary in player notes.
 
-## Classifying information
+### Classifying information
 
 Sort every candidate fact into one of three buckets.
 
@@ -141,7 +141,7 @@ Sort every candidate fact into one of three buckets.
 
 When an item does not fit cleanly, use the judgment rules below.
 
-## Judgment first, then ask
+### Judgment first, then ask
 
 Resolve ambiguity yourself before asking Gerald. Apply these tests:
 
@@ -165,7 +165,7 @@ A suspicion or guess in the players' notes is not a reason to ask. It does not g
 
 There is no limit on the number of questions. Never drop or silently decide an item because there are many of them.
 
-## Working with the players' notes
+### Working with the players' notes
 
 **Spelling.** The players wrote names by ear, so spellings often differ from the canonical names in the vault and in the published setting.
 
@@ -191,7 +191,7 @@ There is no limit on the number of questions. Never drop or silently decide an i
 
 **Conflicts within the vault.** If two vault notes give different names or facts for the same subject, ask Gerald which is correct. List the vault notes that need fixing. Do not choose one silently.
 
-## Scopes, ownership, and the ledger
+### Scopes, ownership, and the ledger
 
 The wiki is built in many runs, each with its own scope. The run's scope line comes with an "Owns" list and a "Leaves to" list, taken from [[Player Wiki Scope Checklist]].
 
@@ -201,7 +201,7 @@ The wiki is built in many runs, each with its own scope. The run's scope line co
 - If the sources contain a subject that no scope owns, do not draft it. List it under "Unassigned subjects" so Gerald can assign it.
 - Count proposed notes after classification, not candidate subjects. Up to about 12 is fine; draft them all. Above 12, present the full classification as usual, then propose a split: which notes to draft now and which to defer, grouping by shared secrets or geography. Deferred subjects stay owned by the same scope and are drafted in a follow-up run labeled with a letter (for example, T11+T12b). Never drop a subject to stay under the limit.
 
-## Writing style
+### Writing style
 
 - Reference voice, like an encyclopedia entry or a travel guide: third person, present tense, factual, and compact. For places, describe what a visitor would find and what the place is known for.
 - Descriptive and concrete. Do not tell the reader how to feel or what to conclude.
@@ -209,7 +209,7 @@ The wiki is built in many runs, each with its own scope. The run's scope line co
 - Official published material (Critical Role books, the Exandria wiki) is paraphrased in your own words, kept short, and never copied.
 - Names for new material, if any are ever needed, are Gerald's call. Never invent names, places, or lore. If a fact is not in the sources, it does not go in the note.
 
-## Process for each batch
+### Process for each batch
 
 1. **Read.** Read the ledger and the scope's "Owns" and "Leaves to" lists. Read the attached players' notes in full. Search the vault for each named subject, one proper-noun query at a time. Keep searching each subject until new queries stop turning up notes you haven't seen; there is no limit on the number of queries. For heavily mentioned subjects, add narrower queries that pair the name with a qualifier (the subject plus "secret," a related place, or a related person).
 2. **Classify.** Present these together for the batch:
@@ -223,7 +223,7 @@ The wiki is built in many runs, each with its own scope. The run's scope line co
 4. **Draft.** Produce each approved player note as a markdown file, ready to paste into the vault. Then give: the "Rename first" list in its two parts (this batch, and link targets with their search result), the replacement `The World of Exandria.md`, places that crossed the hub threshold, with their updated place notes and the revised hub, any new region tags, "Vault notes to fix" (outdated tags, or vault notes that disagree), the rows to add to the ledger, "Additions for existing notes", "Unassigned subjects", and a list of links that point to notes that do not exist. If a new ambiguity turns up while drafting, stop and ask. Do not decide it silently, and list it under "Raised during drafting".
 5. **Review.** Before delivering, re-read each draft against the secret list. State in one line per note that nothing from bucket 3 is present, or say what you removed.
 
-## Do not
+### Do not
 
 - Modify `Keln/`, `Table Rules/`, or `Index.md` (except to propose a link to The World of Exandria if it is missing).
 - Edit, rename, or delete any DM note. Only list renames.

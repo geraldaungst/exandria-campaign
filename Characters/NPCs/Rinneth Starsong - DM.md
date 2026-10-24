@@ -6,6 +6,8 @@ tags:
   - world/exandria
   - faction/malachite-cord
   - needs-work
+  - region/menagerie-coast
+disposition: friendly
 ---
 
 *Half-Elf Druid/Bard*

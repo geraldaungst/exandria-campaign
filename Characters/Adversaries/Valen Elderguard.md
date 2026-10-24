@@ -8,6 +8,7 @@ tags:
   - place/rexxentrum
   - faction/emissaries-of-the-sunfall
   - needs-work
+disposition: hostile
 ---
 
 ## Quick Reference

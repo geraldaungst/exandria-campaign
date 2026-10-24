@@ -2,6 +2,7 @@
 tags:
   - needs-work
   - artifact
+  - world/exandria
 ---
 
 The Verdant Codex was originally [[Seraphina Amaris - Vicki|Seraphina's]] childhood nature journal. At some point in the group's past, the [[Malachite Cord - DM]] found it, preserved it, and over time has come to believe it to be a sacred text worth study and meditation.

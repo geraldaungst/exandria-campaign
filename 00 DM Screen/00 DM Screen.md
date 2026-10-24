@@ -24,3 +24,7 @@ return function ActivePlots() {
 ## Recent work
 
 ![[Recent Work.base]]
+
+## Vault health
+
+![[Vault Health.base]]

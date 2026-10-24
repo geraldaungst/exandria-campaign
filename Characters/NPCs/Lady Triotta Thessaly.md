@@ -7,6 +7,7 @@ tags:
   - region/dwendalian-empire
   - world/exandria
   - needs-work
+disposition: friendly
 ---
 
 home_city: Zadash

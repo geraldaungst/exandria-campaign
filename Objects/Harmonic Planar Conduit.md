@@ -2,6 +2,7 @@
 tags:
   - needs-work
   - artifact
+  - world/exandria
 ---
 
 The phenomenon that the [[Emissaries of the Sunfall - DM]] and [[Vaud Qalix - DM]] are attempting to construct with the [[Lorestone of Eryndor - DM]].

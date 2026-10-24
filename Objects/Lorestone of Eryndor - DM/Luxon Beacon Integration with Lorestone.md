@@ -2,6 +2,7 @@
 tags:
   - atomic
   - artifact
+  - world/exandria
 ---
 
 ## Core Information

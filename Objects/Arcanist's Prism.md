@@ -3,6 +3,7 @@ tags:
   - atomic
   - needs-work
   - artifact
+  - world/exandria
 ---
 
 A rare crystal rumored to be capable of dispersing focused magical energy, reducing the risk of catastrophic feedback during planar manipulation. [[Vaud Qalix - DM|Qalix]] believes it is the "final stabilization" component of his [[Harmonic Planar Conduit]].

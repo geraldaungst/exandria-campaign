@@ -5,6 +5,7 @@ tags:
   - needs-work
   - npc
   - world/exandria
+disposition: friendly
 ---
 
 home_city: Zadash

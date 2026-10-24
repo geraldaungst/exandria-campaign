@@ -8,6 +8,7 @@ tags:
   - place/cloudfang-keep
   - faction/dwendalian-empire
   - needs-work
+disposition: friendly
 ---
 
 ## Quick Reference

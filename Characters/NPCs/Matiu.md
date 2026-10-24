@@ -4,6 +4,7 @@ tags:
   - npc
   - region/menagerie-coast
   - world/exandria
+disposition: friendly
 ---
 
 ![[matiu.jpg|right|300]]

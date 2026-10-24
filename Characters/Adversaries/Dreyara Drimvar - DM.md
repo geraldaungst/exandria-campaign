@@ -8,6 +8,8 @@ tags:
   - needs-work
   - deceased
   - world/exandria
+  - region/cyrios-mountains
+disposition: hostile
 ---
 
 ![[dreyara-token.png|right|300]]

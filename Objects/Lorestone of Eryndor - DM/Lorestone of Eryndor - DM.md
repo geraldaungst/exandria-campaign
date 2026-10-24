@@ -4,6 +4,7 @@ aliases:
 tags:
   - campaign/eryndor
   - artifact
+  - world/exandria
 ---
 
 ![[Lorestone-of-Eryndor.png|400]]

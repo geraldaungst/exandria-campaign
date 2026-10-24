@@ -2,6 +2,7 @@
 aliases: []
 tags:
   - artifact
+  - world/exandria
 ---
 
 ## Item Name

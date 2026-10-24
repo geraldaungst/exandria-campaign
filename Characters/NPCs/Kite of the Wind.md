@@ -6,6 +6,7 @@ tags:
   - place/rexxentrum
   - faction/emissaries-of-the-sunfall
   - needs-work
+disposition: hostile
 ---
 
 ![[kite.png|right|200]]

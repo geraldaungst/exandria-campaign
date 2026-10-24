@@ -8,6 +8,7 @@ tags:
   - world/exandria
   - region/xhorhas
   - place/ebonglass-massif
+disposition: indifferent
 ---
 
 ## Quick Reference

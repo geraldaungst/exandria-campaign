@@ -5,6 +5,7 @@ tags:
   - deceased
   - hook
   - world/exandria
+  - region/age-of-arcanum
 ---
 
 The Prophet

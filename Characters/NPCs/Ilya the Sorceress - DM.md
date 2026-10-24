@@ -3,6 +3,8 @@ tags:
   - npc
   - world/exandria
   - needs-work
+  - region/menagerie-coast
+disposition: friendly
 ---
 
 ## Quick Reference

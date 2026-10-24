@@ -8,6 +8,7 @@ tags:
   - world/exandria
   - place/cloudfang-keep
   - faction/emissaries-of-the-sunfall
+disposition: hostile
 ---
 
 ## Quick Reference

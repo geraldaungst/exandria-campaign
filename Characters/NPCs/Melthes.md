@@ -4,6 +4,7 @@ tags:
   - npc
   - region/dwendalian-empire
   - world/exandria
+disposition: friendly
 ---
 
 ![[young-melthes.png|right|300]]

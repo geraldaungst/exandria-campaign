@@ -1,6 +1,7 @@
 ---
 tags:
   - artifact
+  - world/exandria
 ---
 
 ## **Day 12 Of Blossoming**

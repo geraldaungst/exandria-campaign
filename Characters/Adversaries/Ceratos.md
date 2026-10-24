@@ -5,8 +5,10 @@ tags:
   - needs-work
   - npc
   - world/exandria
+  - region/far-realm
 xcssclasses:
   - wide-table
+disposition: indifferent
 ---
 
 ![[Ceratos.png|right|400]]

@@ -8,6 +8,7 @@ hide_from_related: true
 tags:
   - artifact
   - campaign/eryndor
+  - world/exandria
 ---
 
 [[Lorestone of Eryndor - DM|Lorestone of Eryndor]] · [[Assembling the Lorestone]] · [[The Prophecy]] · [[Eryndor Timeline]]

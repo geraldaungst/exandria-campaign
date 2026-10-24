@@ -3,6 +3,7 @@ tags:
   - atomic
   - campaign/eryndor
   - artifact
+  - world/exandria
 ---
 
 ## Luxon Beacon Political Consequences

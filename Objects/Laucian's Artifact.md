@@ -1,6 +1,7 @@
 ---
 tags:
   - artifact
+  - world/exandria
 ---
 
 One of these...

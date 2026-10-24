@@ -3,6 +3,7 @@ tags:
   - needs-work
   - region/menagerie-coast
   - artifact
+  - world/exandria
 ---
 
 ![[Stonefoot Compass.jpeg]]
