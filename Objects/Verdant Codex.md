@@ -1,11 +1,20 @@
 ---
 tags:
-  - needs-work
   - artifact
   - world/exandria
 ---
 
+# Quick Reference
+**Location:** With the [[Malachite Cord - DM]].
+**Significance:** Originally [[Seraphina Amaris - Vicki|Seraphina]]'s childhood nature journal. The Cord treats it as a sacred text.
+
+# Description & Properties
 The Verdant Codex was originally [[Seraphina Amaris - Vicki|Seraphina's]] childhood nature journal. At some point in the group's past, the [[Malachite Cord - DM]] found it, preserved it, and over time has come to believe it to be a sacred text worth study and meditation.
+
+# Lore
+
+> [!warning] Undecided brainstorm
+> The two sections below are speculation ("would likely", "might be"), kept verbatim. They are not settled canon.
 
 ## Preserved Original
 
@@ -16,3 +25,11 @@ The Verdant Codex was originally [[Seraphina Amaris - Vicki|Seraphina's]] childh
 
 - **Widespread Use**: Recognizing the importance of the wisdom within the pages and the risk of losing it, the [[Malachite Cord - DM]] would likely have made detailed copies and transcriptions of the journal. These copies allow members to study and utilize [[Seraphina Amaris - Vicki|Seraphina]]'s observations without risking the original artifact.
 - **Evolving Interpretations**: Over the centuries, as the journal has been copied, members might have added annotations, interpretations, and cross-references to other works or their own findings. These evolving documents serve not only as a preservation of [[Seraphina Amaris - Vicki|Seraphina]]'s insights but also as a living record of the Cord's ongoing work and understanding of the forest's magic and the corruption they combat.
+
+## Open Issues
+
+- [ ] Decide whether the original is preserved in a Cord shrine and whether copies and annotations exist. Settle it with the Malachite Cord rewrite (Opus faction pass).
+
+## Connected Elements
+
+![[Related Notes.base]]

@@ -1,5 +1,14 @@
-[[The Origin of Soulwood - A Folktale]]
+---
+tags:
+  - artifact
+  - world/exandria
+---
 
+# Quick Reference
+**Location:** Grows wherever a magic user died near a tree: old battlefields, abandoned mage towers, traditional meditation spots.
+**Significance:** Dense, magically insulating wood. The material of the [[Soulwood Riftcage]]. The in-world story of its origin is [[The Origin of Soulwood - A Folktale]].
+
+# Description & Properties
 When a magic user dies, their innate magical essence typically disperses into the Weave. However, if their death occurs near a tree's root system, something extraordinary can happen. The tree's natural processes of absorbing nutrients from the soil intersect with this release of magical energy, and over time, the tree undergoes a profound transformation into soulwood. This process is more likely when the death involves significant magical trauma (such as a battle) or peaceful acceptance (such as a mage choosing their final resting place), but can occur with any magic user's death.
 
 The transformation takes several years:
@@ -36,11 +45,20 @@ Additional properties:
 - Soulwood trees are exceptionally resistant to disease and parasites
 - They never produce fruit or seeds, even if the original species typically would
 
-This explanation would allow for soulwood trees to:
+# Lore
+
+[[The Origin of Soulwood - A Folktale]]
+
+## Table uses
+
+Soulwood trees can:
+
 
 - Appear anywhere in the world where magic users have died near trees
 - Be more common near old battlefields, abandoned mage towers, or traditional meditation spots
 - Create interesting adventure hooks (following historical records of magical battles or seeking out known burial sites of powerful spellcasters)
 - Generate compelling narrative moments (a party finding a soulwood tree might lead to discovering the story of who died there)
 
-Would you like me to also provide some specific examples of locations in Exandria where these trees might be found based on known historical events?
+## Connected Elements
+
+![[Related Notes.base]]

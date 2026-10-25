@@ -1,6 +1,9 @@
 ---
 tags:
   - atomic
+  - lore
+  - campaign/eryndor
+  - world/exandria
 ---
 
 ## Core Information
@@ -141,12 +144,10 @@ This theory underlies the fundamental requirements for safe operation of powerfu
 - Guides safe magical research and development
 - Crucial for preventing future catastrophes
 
-## Connected Elements
-
-### Source Note
+## Source
 
 [[Luxon Beacon Integration with Lorestone]]
 
-### Linked Notes
+## Connected Elements
 
 ![[Related Notes.base]]

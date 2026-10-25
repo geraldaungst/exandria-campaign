@@ -1,3 +1,9 @@
+---
+hide_from_related: true
+tags:
+  - dm-tool
+---
+
 ## Session Rewards Reference
 
 ### Reward Categories

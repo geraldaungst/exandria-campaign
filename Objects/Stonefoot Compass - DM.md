@@ -1,11 +1,15 @@
 ---
 tags:
-  - needs-work
-  - region/menagerie-coast
   - artifact
+  - region/menagerie-coast
   - world/exandria
 ---
 
+# Quick Reference
+**Location:** With the party. They found it inside a snail in the Othemoor Swamp ([[Search for the Stonefoot Compass]]).
+**Significance:** Aethor Kalisk of the [[Obsidian Echoforge - DM|Obsidian Echoforge]] told the party it leads to "the fifth shard". The Echoforge thinks that is Shard 5; it points to [[Shard 7 - Ebonglass Shard|Shard 7]].
+
+# Description & Properties
 ![[Stonefoot Compass.jpeg]]
 
 As you unearth the object from the muck, you reveal a beautifully crafted compass made from dark, weathered ironwood. The surface is engraved with intricate carvings of winding vines and ancient dwarven runes, some still faintly gilded with gold leaf. Beneath a clear, domed glass cover, a black steel needle shaped like a leaf points steadily north, set against an ivory face marked with runes instead of letters. A small moss agate glimmers at the needle's center.
@@ -25,3 +29,7 @@ When casting *Find the Path* or *Locate Object* using the compass, you gain thes
 - You automatically succeed on Constitution saving throws to maintain concentration on that spell as long as you are physically holding the compass in one hand.
 - If you stow the compass, drop it, or hand it to another creature, the spell immediately ends
 - You cannot maintain concentration on any other spells while *Find the Path* or *Locate Object* is active through the compass
+
+## Connected Elements
+
+![[Related Notes.base]]
