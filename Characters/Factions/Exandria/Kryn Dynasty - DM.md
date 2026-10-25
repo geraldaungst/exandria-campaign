@@ -15,4 +15,7 @@ tags:
 - Long-Term:
 - Medium-Term:
 - Short-Term:
-- [ ] Establish goals for the Kryn Dynasty
+
+## Open Issues
+
+- [ ] Set the Kryn Dynasty's goals (long, medium and short term) before it comes into play.

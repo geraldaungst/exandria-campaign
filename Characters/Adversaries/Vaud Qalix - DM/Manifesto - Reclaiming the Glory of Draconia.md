@@ -150,10 +150,6 @@ In our grand design to usher in the New Draconian Dominion, strategic alliances 
 
 The Myriad, with its tendrils wrapped in the shadows of every major city, offers an unmatched network of information and influence. Our alliance with them is built on mutual benefit: we provide them with arcane insights and protection, while they offer their expertise in subterfuge and smuggling. This symbiosis ensures our endeavors, especially those requiring discretion and the acquisition of rare artifacts, are met with success.
 
-#### The Clasp
-
-Similar to the Myriad in its reach and resources, The Clasp offers a unique advantage in its mastery of espionage and assassination. An alliance with The Clasp strengthens our hand against those who would oppose us openly. Their agents, skilled in the arts of stealth and silence, serve as our hidden sword, ready to cut down threats before they can fester.
-
 #### The Cobalt Soul
 
 Though their dedication to knowledge and the preservation of history might seem at odds with our ambitions, the Cobalt Soul's extensive libraries and their monks' investigative prowess are resources too valuable to ignore. By fostering a relationship of shared scholarly pursuit, we can access ancient lore crucial to our understanding of the rifts and the Lorestone shards. In return, we offer them insights into the arcane mysteries they so crave to unravel.
@@ -168,7 +164,7 @@ This clandestine group, shrouded in mystery, holds secrets that can sway the bal
 
 ### Conclusion: The Web of Alliances
 
-These alliances are the cornerstone of our strategy, each serving a critical role in our ascent. The Myriad and The Clasp extend our reach into the shadows, the Cobalt Soul and the Cerberus Assembly amplify our knowledge and magical prowess, and the Ring of Three connects us to the arcane currents that flow beneath the surface of Exandria. Together, they form a web of power, influence, and knowledge that propels Draconia toward its rightful destiny as the herald of a new order, rising from the chaos of a fractured world.
+These alliances are the cornerstone of our strategy, each serving a critical role in our ascent. The Myriad extends our reach into the shadows, the Cobalt Soul and the Cerberus Assembly amplify our knowledge and magical prowess, and the Ring of Three connects us to the arcane currents that flow beneath the surface of Exandria. Together, they form a web of power, influence, and knowledge that propels Draconia toward its rightful destiny as the herald of a new order, rising from the chaos of a fractured world.
 
 The resurgence of Draconia, under the banner of the New Draconian Dominion, will be a testament to the power of unity and the strategic mastery of its Dawnbringer. As we navigate the labyrinth of political intrigue, forge alliances across Exandria, and reclaim the shards of our destiny, we do so with the unwavering conviction that our cause is just and our victory, inevitable.
 
@@ -280,7 +276,7 @@ In the bold journey towards the realization of the New Draconian Dominion, it is
 
 #### Criticism: The Reliance on Alliances with Questionable Factions
 
-**Rebuttal**: Aligning with factions such as The Myriad or The Clasp is criticized by some as morally ambiguous. However, in the chess game of destiny, every piece has its role. The morality of an alliance is not determined by the character of the allies but by the nobility of our cause. Thus, all alliances are sanctified by our ultimate aim: the resurgence of Draconia.
+**Rebuttal**: Aligning with a faction such as The Myriad is criticized by some as morally ambiguous. However, in the chess game of destiny, every piece has its role. The morality of an alliance is not determined by the character of the allies but by the nobility of our cause. Thus, all alliances are sanctified by our ultimate aim: the resurgence of Draconia.
 
 #### Concern: The Viability of a Draconian-Led New World Order
 
