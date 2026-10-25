@@ -1,11 +1,17 @@
 ---
 tags:
-  - needs-work
   - artifact
   - world/exandria
 ---
 
+# Quick Reference
+**Location:** Does not exist yet. [[Vaud Qalix - DM|Qalix]] and the [[Emissaries of the Sunfall - DM]] intend to build it around an existing rift.
+**Significance:** The center of Qalix's plan. It cannot work as he believes, and the attempt is likely to fail catastrophically. Ceratos benefits whichever way it fails.
+
+# Description & Properties
 The phenomenon that the [[Emissaries of the Sunfall - DM]] and [[Vaud Qalix - DM]] are attempting to construct with the [[Lorestone of Eryndor - DM]].
+
+Qalix also believes the Conduit needs the [[Arcanist's Prism]] for "final stabilization" (it does not exist) and a Chronurgy wizard to weave the pieces together ([[Iliara Firth]], not yet recruited).
 
 Components required:
 
@@ -47,7 +53,9 @@ This process creates a Harmonic Planar Conduit that harnesses the Phase Spider's
 
 In reality, the Lorestone cannot form such a conduit, and the attempt will fail. In the best possible circumstance, the rift will simply close, but at worst it could [[Lorestone of Eryndor - DM#Lorestone Ritual of Closing|result in catastrophe]].
 
-## **Vaud's Misunderstanding of the Requirements**
+# Lore
+
+## Vaud's Misunderstanding of the Requirements
 
 Vaud believes the Harmonic Planar Conduit requires six specific components working in perfect harmony. However, his understanding is fundamentally flawed in several critical ways:
 
@@ -57,7 +65,7 @@ Vaud believes the Harmonic Planar Conduit requires six specific components worki
 
 **Component Synergy Illusion**: Vaud is certain all six components will work together in a cascade of energy. The certainty is his own; his patron feeds the obsession, not the design. Ceratos doesn't know whether the Conduit can work, and doesn't care.
 
-## **True Failure Conditions**
+## True Failure Conditions
 
 When Vaud attempts to construct the Harmonic Planar Conduit, several catastrophic outcomes are possible:
 
@@ -68,3 +76,7 @@ When Vaud attempts to construct the Harmonic Planar Conduit, several catastrophi
 **Planar Inversion**: In the worst-case scenario, the failed ritual could invert the rift's polarity, turning it from a small breach into a permanent gateway that actively pulls material from the Material Plane into whatever plane lies beyond. This would create an ever-expanding zone of annihilation.
 
 **What Ceratos Gets**: Ceratos doesn't care which way the attempt goes. A stable portal, a Planar Inversion, or a rift expanding out of control all give it a way into Exandria; only a clean closure denies it. Without the Luxon Beacon (the party holds the only one known), the attempt fails catastrophically by default.
+
+## Connected Elements
+
+![[Related Notes.base]]

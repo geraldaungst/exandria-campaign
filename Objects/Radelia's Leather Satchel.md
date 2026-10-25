@@ -4,8 +4,11 @@ tags:
   - world/exandria
 ---
 
-## Radelia's Leather Satchel
+# Quick Reference
+**Location:** Found torn on the road with fresh bloodstains. It belongs to [[Radelia Caphax]] (initials RC), who plans to recover it.
+**Significance:** Holds a letter from [[Rinneth Starsong - DM|Rinneth Starsong]].
 
+# Description & Properties
 On the road, the party discovers a torn leather pouch at the side of the road with some fresh bloodstains. The pouch is finely made and has the initials RC embossed on the flap. Inside the pouch they find:
 
 - A small coin purse with 2 gp, 17 sp, and 31 cp
@@ -15,3 +18,7 @@ On the road, the party discovers a torn leather pouch at the side of the road wi
 - a set of thieves' tools
 - a letter from Rinneth Starsong:
   ![[radelia-letter.png]]
+
+## Connected Elements
+
+![[Related Notes.base]]

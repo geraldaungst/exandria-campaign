@@ -5,26 +5,15 @@ tags:
   - world/exandria
 ---
 
-## Item Name
+# Quick Reference
+**Location:** Carried by [[Drawg Stormbrew - Brew|Drawg]].
+**Significance:** A Vestige of Divergence whose powers grow with its attuned wielder (unknown to the party). Known by: Drawg.
 
-### Quick Reference
-
-> [!info] Essential Details
-> - Current Location/Owner: [[Drawg Stormbrew - Brew|Drawg]]
-> - Power/Significance: Vestige of Divergence (unknown)
-> - Known by: [[Drawg Stormbrew - Brew|Drawg]]
-
-### Description
+# Description & Properties
 
 ![[blade-of-maroth-fenn.jpeg|right|300]]
 
 This kukri-style blade is about 15 inches from pommel to tip. The cutting edge is on the inner curve, and the spine has a series of jagged serrations. The blade is nearly black with a silver spiral Damascus pattern throughout. The grip is yellowed bone, very smooth, and well-worn. The guard and pommel are silver and wood. It appears as though it was once covered with intricate and delicate carvings, but most of those have worn down from age, which is unexpected for a magic item.
-
-### History
-
-Legend says this blade was forged through a collaboration between the elves of Syngorn and the dwarves of Kraghammer for Maroth Fenn, cleric of Avandra, for use in the conflict against Errevon the Rimelord during the Icelost Years. Some sources believe Maroth Fenn and the Blade were one reason the alliance was able to turn the tide and allow the Ashari to close the rift. Soon after the end of the conflict, the blade was lost.
-
-### Powers/Effects
 
 *Weapon (simple, dagger), legendary (requires Attunement by a character who also holds its matching scabbard)*
 
@@ -46,7 +35,7 @@ Range: 20/60
 
 Weight: 1
 
-#### Properties
+### Properties
 
 You gain a +1 bonus to attack and damage rolls made with this magic weapon. If thrown, the weapon returns to its scabbard at the start of your next turn.
 
@@ -63,10 +52,17 @@ You gain a +1 bonus to attack and damage rolls made with this magic weapon. If t
 
 You can use Life Infusion only once per turn.
 
-### Secrets
+# Lore
 
-> [!secret]- DM Only
-> ### Progression
+## History
+
+Legend says this blade was forged through a collaboration between the elves of Syngorn and the dwarves of Kraghammer for Maroth Fenn, cleric of Avandra, for use in the conflict against Errevon the Rimelord during the Icelost Years. Some sources believe Maroth Fenn and the Blade were one reason the alliance was able to turn the tide and allow the Ashari to close the rift. Soon after the end of the conflict, the blade was lost.
+
+## Secrets
+
+> [!secret]- DM only: progression
+> **Progression**
+>
 > This is a Vestige of Divergence. The magic properties of this blade grow over time. If the same person remains attuned to it and keeps the blade in its matching scabbard when not being used, additional properties will be awakened.
 >
 > An *Identify* spell will only reveal the current magic properties and none of what may develop in the future. However, if the caster succeeds on a DC 20 Arcana check while identifying, they will know that there is something else unique about the blade that is magically hidden from them and cannot be revealed by the spell.
@@ -77,18 +73,18 @@ You can use Life Infusion only once per turn.
 >
 > **Attunement Loss:** Losing attunement will revert it immediately to an ordinary dagger. If a character re-attunes after this, progression starts over, and any lost levels must be regained through additional increases in proficiency. Any character attuned to the blade when it is Awakened or higher will be aware of this risk.
 >
-> ## Awakened (Level 2)
-
-The blade retains all Dormant properties, with the following changes and additions:
-
+> **Awakened (Level 2)**
+>
+> The blade retains all Dormant properties, with the following changes and additions:
+>
 > **Increased Capacity.** The blade now stores up to 3 charges.
 >
 > **Necrotic Strike.** When you hit a creature with an attack using this blade, you can expend 2 charges to infuse the strike with necrotic energy. The attack deals an additional 1d10 necrotic damage, and the target can't regain hit points until the start of your next turn.
 >
-> ## Exalted (Level 3)
-
-The blade retains all Awakened properties, with the following changes and additions:
-
+> **Exalted (Level 3)**
+>
+> The blade retains all Awakened properties, with the following changes and additions:
+>
 > **Enhanced Weapon.** The bonus to attack and damage rolls increases to +2.
 >
 > **Increased Capacity.** The blade now stores up to 4 charges.
@@ -99,11 +95,11 @@ The blade retains all Awakened properties, with the following changes and additi
 >
 > - **Fortune's Reversal:** If you missed with the attack, the miss becomes a hit, and you can immediately move up to 15 feet without provoking opportunity attacks. If this movement brings another enemy within your reach, you can make one additional weapon attack against that creature as part of the same action.
 > - **Fortune's Strike:** If you hit with the attack, the hit becomes a critical hit.
-> 
-> ## Legendary (Level 4)
-
-The blade retains all Exalted properties, with the following changes and additions:
-
+>
+> **Legendary (Level 4)**
+>
+> The blade retains all Exalted properties, with the following changes and additions:
+>
 > **Enhanced Weapon.** The bonus to attack and damage rolls increases to +3.
 >
 > **Increased Capacity.** The blade now stores up to 5 charges.

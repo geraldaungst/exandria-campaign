@@ -9,7 +9,7 @@ tags:
 
 [[Qilynn Duskwhisper - Nicole|Qilynn]] and the artificer first crossed paths during a chaotic night in [[Port Damali - DM]] when a street brawl erupted. [[Qilynn Duskwhisper - Nicole|Qilynn]], skilled in stealth and quick reflexes, helped [[Laucian Greycastle - Brent|Laucian]] escape a tricky situation. Grateful for the assistance, [[Laucian Greycastle - Brent|Laucian]] proposed a partnership, realizing their combined abilities could be advantageous in navigating the city's underworld. Since then, their bond has grown through shared adventures and a mutual understanding of each other's strengths.
 
-The street brawl was ignited when a notorious gang attempted to extort the artificer who had inadvertently acquired a rare and sought-after [[Laucian's Artifact|artifact]]. Unwilling to comply, he resisted, leading to a confrontation. [[Qilynn Duskwhisper - Nicole|Qilynn]], passing by, noticed the artificer in trouble and intervened not initiating the conflict but joining to help a fellow resident of [[Port Damali - DM]]. This shared encounter became the foundation for their alliance and subsequent adventures.
+The street brawl was ignited when a notorious gang attempted to extort the artificer who had inadvertently acquired a rare and sought-after artifact. Unwilling to comply, he resisted, leading to a confrontation. [[Qilynn Duskwhisper - Nicole|Qilynn]], passing by, noticed the artificer in trouble and intervened not initiating the conflict but joining to help a fellow resident of [[Port Damali - DM]]. This shared encounter became the foundation for their alliance and subsequent adventures.
 
 ## Arrive at Plot
 

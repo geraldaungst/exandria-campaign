@@ -8,6 +8,6 @@ tags:
 
 [[The Single Swig Saloon]], a tavern that travels throughout the multiverse.
 
-[[Bandit Loot]]
+[[Session 20 - Bandit Ambush in Swamp|Bandit Loot]]
 
 [[Karaoke Tavern Encounter]]

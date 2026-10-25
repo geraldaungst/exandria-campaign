@@ -4,30 +4,41 @@ tags:
   - world/exandria
 ---
 
-## **Day 12 Of Blossoming**
+# Quick Reference
+**Location:** Found with an obsidian warhammer in a tunnel in [[Session 6 - Cleansing the Temple of Moradin]] (see [[New Temple of Moradin - DM]]). Current holder not recorded.
+**Significance:** Key evidence that the executed clan members were innocent. Solan Taku buried it with them.
+
+# Description & Properties
+Entries from the journal of Solan Taku:
+
+### Day 12 Of Blossoming
 
 "…investigation into the thefts continues. Elders insist on swift justice. Pressure mounts, but I have my doubts. Accusations point to certain members, but no real proof…"
 
-## **Day 18 Of Blossoming**
+### Day 18 Of Blossoming
 
 "…crime committed during the storm. Witnesses claim to have seen shadows, but no clear descriptions."
 
-## **Day 23 Of Blossoming**
+### Day 23 Of Blossoming
 
 "…discovered a connection to a powerful family within the clan. Hushed whispers about an obsidian warhammer used for the thefts. Those accused have no access to such magic. Need to investigate further, but the elders are eager to close the case…"
 
-## **Day 30 Of Blossoming**
+### Day 30 Of Blossoming
 
 "…the weapon, a warhammer crafted out of a single piece of obsidian. Spoke with a local enchanter; he confirms it's an extremely rare artifact. The accused wouldn't have such a weapon. This is clear evidence of their innocence…"
 
-## **Day 5 Of Sowing**
+### Day 5 Of Sowing
 
 "…pressure from the elders intensifies. Threats against my family if I don't conclude the investigation soon. The real culprits must be someone with power and influence within the clan. The accused are scapegoats…"
 
-## **Day 11 Of Sowing**
+### Day 11 Of Sowing
 
 "…found the ledger hidden in the clan's archives. It details the transactions and movements of the stolen goods, implicating high-ranking members. The accused have no such connections. The journal and weapon must be hidden to preserve the truth…"
 
-## **Day 14 Of Sowing**
+### Day 14 Of Sowing
 
 "…shall bury the journal and the weapon with the condemned. Guilt weighs heavily on me. If found, this journal and the warhammer will exonerate them. My hope is that one day, someone will uncover the truth and bring justice…"
+
+## Connected Elements
+
+![[Related Notes.base]]

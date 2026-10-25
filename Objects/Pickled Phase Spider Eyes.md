@@ -4,6 +4,11 @@ tags:
   - world/exandria
 ---
 
+# Quick Reference
+**Location:** A dozen in a wax-sealed stone cylinder at the [[Monastery of Dimensional Harmony - DM]].
+**Significance:** Consumable. Grants a random phase-spider effect, with a poison risk.
+
+# Description & Properties
 *Wondrous item, rare (consumable), requires no attunement*
 
 These cloudy, brined spider eyes are stored in small stone jars filled with a sharply pungent, milky liquid. Once harvested from phase spiders, the eyes were pickled in an alchemical brine developed by firbolg monks who studied planar creatures. They used the eyes both as a research tool and as fuel for good-natured pranks. When consumed, the eye briefly imparts some of the phase spider's strange abilities—along with some unsettling side effects.
@@ -29,3 +34,7 @@ Then roll a d4 to determine the effect:
 ---
 
 **Taste and Side Effects.** The eyes are rubbery and vinegary, with a faint metallic tang. A successful swallow is followed by tingling skin or sudden weightlessness. A failed swallow usually involves gagging, coughing, or impressive retching noises. The monks used to keep score.
+
+## Connected Elements
+
+![[Related Notes.base]]
