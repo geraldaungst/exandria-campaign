@@ -35,9 +35,9 @@ tags:
 
 3b Their chorus may a new world prove, or a requiem's final song.
 
-8a ***[[Shard 8 - Astral Shard|On destiny's edge, a task unfolds, to reforge wisdom's Key,]]***
+8a ***[[Shard 8 - Feywild Shard|On destiny's edge, a task unfolds, to reforge wisdom's Key,]]***
 
-8b ***[[Shard 8 - Astral Shard|Its whispers hold a fate untold, in time's final decree.]]***
+8b ***[[Shard 8 - Feywild Shard|Its whispers hold a fate untold, in time's final decree.]]***
 
 5a In cosmic scales, where truths do sway, Exandria's fate's at play,
 

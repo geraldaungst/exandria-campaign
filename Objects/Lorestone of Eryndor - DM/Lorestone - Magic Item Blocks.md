@@ -64,9 +64,9 @@ A perfectly circular obsidian disc, 2 feet in diameter, inscribed with the compl
 
 The Lorestone regains all expended spell uses at dawn.
 
-**Destroying the Lorestone.** The assembled Lorestone can only be destroyed by using it to seal a rift of Gargantuan size or larger without proper temporal stabilization. This causes a catastrophic temporal explosion that destroys the Lorestone, creates a permanent planar instability, and deals 20d10 force damage to all creatures within 1 mile (no save). The explosion also tears open multiple random rifts in a 10-mile radius.
+**Destroying the Lorestone.** The assembled Lorestone can only be destroyed by using it to seal a Mega-Rift without an active Luxon Beacon. This is the Critical failure in [[Lorestone - Rift Closing Mechanics#Failed Attempts]]: the Lorestone is destroyed, every creature within 1 mile takes 20d10 force damage (no save), and multiple rifts tear open within 10 miles.
 
-**CRITICAL WARNING:** Attempting to use the Lorestone for rift sealing without an active Luxon Beacon providing temporal stabilization will trigger the destruction sequence described above.
+**CRITICAL WARNING:** Attempting to use the Lorestone for rift sealing without an active Luxon Beacon always fails. How badly depends on the rift's size (see [[Lorestone - Rift Closing Mechanics#Failed Attempts]]); on a Mega-Rift it destroys the Lorestone.
 
 ---
 

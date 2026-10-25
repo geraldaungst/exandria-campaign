@@ -55,7 +55,7 @@ A three-way conflict over the [[Lorestone of Eryndor - DM]], with competing fact
 > [!todo]- Next Steps
 > - [ ] Track current locations of Lorestone shards
 > - [ ] ![[Vaud Qalix's Plan Outline#Plan Outline]]
-> - [ ] ![[Lorestone of Eryndor - DM#Assembling the Lorestone]]
+> - [ ] ![[Lorestone - Assembly Ritual#Core Information]]
 
 ### Long-term Plans
 

@@ -51,7 +51,7 @@ Steps for construction:
 
 This process creates a Harmonic Planar Conduit that harnesses the Phase Spider's planar shifting abilities, the Luxon Beacon's dunamantic energy, and the stabilizing properties Vaud attributes to the Lorestone to create a stable portal between planes.
 
-In reality, the Lorestone cannot form such a conduit, and the attempt will fail. In the best possible circumstance, the rift will simply close, but at worst it could [[Lorestone of Eryndor - DM#Lorestone Ritual of Closing|result in catastrophe]].
+In reality, the Lorestone cannot form such a conduit, and the attempt will fail. In the best possible circumstance, the rift will simply close, but at worst it could [[Lorestone - Rift Closing Mechanics#Failed Attempts|result in catastrophe]].
 
 # Lore
 

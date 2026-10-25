@@ -1,6 +1,7 @@
 ---
 tags:
   - atomic
+  - campaign/eryndor
   - artifact
   - world/exandria
 ---
@@ -49,7 +50,7 @@ When a Luxon Beacon is within 100 feet of a Lorestone shard:
 
 #### Risks of Improper Integration
 
-**Without Luxon Beacon:**
+**Without Luxon Beacon:** (the rules for each rift size are in [[Lorestone - Rift Closing Mechanics#Failed Attempts]])
 
 - Temporal flux creates expanding zone of magical instability
 - Planar boundaries become permanently weakened
@@ -72,32 +73,19 @@ Most current factions are unaware of this dual-requirement:
 - **Emissaries of the Sunfall:** Seeks to exploit power without understanding safety requirements
 - **Kryn Dynasty:** Possesses Beacons but unaware of integration possibilities
 
-Only [[Aveqtaro Thaan]], through recovered memories of her past life as [[Cadariel Ordo]], possesses complete knowledge of the proper integration ritual.
+Only [[Aveqtaro Thaan]], once her memories of her past life as [[Cadariel Ordo]] are recovered, can have complete knowledge of the proper integration ritual.
 
 ### How Players Learn This (DM Pacing Note)
 
 The dual-requirement is revealed in three stages across the campaign:
 
-1. **[[Brother Kelmen]] (Monastery ritual)**—plants the foundational principle:
-   dimensional energy requires temporal anchoring. He doesn't know about the
-   Lorestone or Beacons specifically, but articulates why the monks' ritual
-   failed and why any attempt to manipulate planar boundaries without a
-   stabilizing counterweight amplifies chaos rather than containing it.
+1. **[[Brother Kelmen - DM|Brother Kelmen]] (Monastery ritual)**—plants the foundational principle: dimensional energy requires temporal anchoring. He doesn't know about the Lorestone or Beacons specifically, but articulates why the monks' ritual failed and why any attempt to manipulate planar boundaries without a stabilizing counterweight amplifies chaos rather than containing it.
 
-2. **[[Lady Emer - DM]]'s research notes (Cloudfang Keep)**—demonstrate the
-   principle experimentally. Her 14 months of documented analysis show the
-   Beacon's temporal stabilization effects near rift energy and its resonance
-   with Lorestone shards. She didn't have a unified theory, but the data is
-   there for players who read carefully.
+2. **[[Lady Emer - DM]]'s research notes (Cloudfang Keep)**—demonstrate the principle experimentally. Her documented analysis ([[Lady Emer's Research Notes]], running to Day 162) shows the Beacon's temporal stabilization effects near rift energy and its resonance with Lorestone shards. She didn't have a unified theory, but the data is there for players who read carefully.
 
-3. **[[Aveqtaro Thaan]] (later campaign)**—confirms the complete theory through
-   recovered memories of [[Cadariel Ordo]]. She is the only living person with
-   full knowledge of the proper integration ritual and the geometric/temporal
-   alignments required for safe operation.
+3. **[[Aveqtaro Thaan]] (later campaign)**—confirms the complete theory through recovered memories of [[Cadariel Ordo]]. Once those memories return, she is the only living person with full knowledge of the proper integration ritual and the geometric/temporal alignments required for safe operation.
 
-No single source gives the complete picture. Players who synthesize all three
-
-understand what no faction currently does.
+No single source gives the complete picture. Players who synthesize all three understand what no faction currently does.
 
 ## Relationship Details
 
@@ -114,9 +102,7 @@ Understanding this integration is crucial for:
 - Properly interpreting the prophecy's references to "beacon bright"
 - Achieving lasting solutions to the rift crisis
 
-## Connections
-
-### Source Note
+## Source
 
 [[Lorestone of Eryndor - DM]]
 

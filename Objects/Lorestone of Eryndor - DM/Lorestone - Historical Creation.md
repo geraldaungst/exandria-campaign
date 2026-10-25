@@ -2,7 +2,6 @@
 tags:
   - atomic
   - campaign/eryndor
-  - needs-work
   - artifact
   - world/exandria
 ---
@@ -23,25 +22,7 @@ Centuries later, a Firbolg scholar named [[Lys Willowwhisper]], driven by dreams
 
 This expedition would begin what became known as the [[Legacy of the Seekers]], a 400+ year quest spanning multiple generations. Over the next four hundred years, The Seekers of Eryndor's Echo (later known as the [[Obsidian Echoforge - DM]]) grew in number and dedication. Lys' descendants, along with followers inspired by the tale, dedicated their lives to the search. They braved stormy seas, battled lurking sea creatures, and deciphered ancient clues. With each passing generation, they pieced together more of the prophecy.
 
-## Source Context
-
-Brief note about where this information originated (session, NPC conversation, etc.)
-
-## Relationship Details
-
-[Delete section if not a relationship note]
-
-### Nature of Connection
-
-Brief description of how these elements relate
-
-### Impact/Implications
-
-How this relationship affects the campaign
-
-## Connections
-
-### Source Note
+## Source
 
 [[Lorestone of Eryndor - DM]]
 

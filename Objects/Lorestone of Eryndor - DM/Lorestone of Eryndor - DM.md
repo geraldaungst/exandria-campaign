@@ -9,32 +9,19 @@ tags:
 
 ![[Lorestone-of-Eryndor.png|400]]
 
-## Quick Reference
+# Quick Reference
 
-> [!info] Essential Details
->
-> - Current Location/Owner: Scattered - Major pieces held by [[Lyren Willowwhisper]] of the [[Obsidian Echoforge - DM]]
-> - Power/Significance: Contains [[The Prophecy|prophecy]] of [[Eryndor]]; serves as an energy channeling device for closing planar rifts when properly stabilized
-> - Known by: [[Obsidian Echoforge - DM]], [[Cobalt Soul - DM]], [[Celdric Ambril]] (partially)
-> - **CRITICAL**: Requires a Luxon Beacon for safe operation
+**Location:** Scattered in eight pieces. [[Lorestone Shard Status Tracker]] lists each holder and who knows what. [[Lyren Willowwhisper]] of the [[Obsidian Echoforge - DM]] holds Shards 1 to 4.
+**Significance:** Contains the [[The Prophecy|prophecy]] of [[Eryndor]]. Assembled and used with a Luxon Beacon, it closes planar rifts; used without one, it fails catastrophically.
+**Known by:** the [[Obsidian Echoforge - DM]] and, partially, [[Celdric Ambril]].
 
-## Description
+# Description & Properties
 
-![[Lorestone - Physical Properties#Core Information]]
+A 2-foot diameter obsidian disc engraved with the [[The Prophecy|Prophecy]] of [[Eryndor]] in an ancient dialect of Elvish. Reading it takes fluency in Elvish and a DC 20 Intelligence (History) check (disadvantage without proficiency).
 
-## History
+Individual shards register as magic items. A holder within 1,000 feet of a planar rift senses its direction and the plane it connects to, and within 30 feet of a rift can see both planes at once. The item blocks below give the full rules.
 
-![[Lorestone - Historical Creation#Core Information]]
-
-### The Molaesmyr Connection
-
-![[Molaesmyr Lorestone Experiment#Core Information]]
-
-### Known Locations
-
-![[Lorestone Shard Status Tracker#Overview]]
-
-## Powers/Effects And Mechanics
+## Powers and Mechanics
 
 ![[Lorestone - Magic Item Blocks]]
 
@@ -45,6 +32,20 @@ tags:
 ![[Lorestone - Rift Closing Mechanics#Core Information]]
 
 ![[Temporal Stabilization Theory#Core Information]]
+
+# Lore
+
+## History
+
+![[Lorestone - Historical Creation#Core Information]]
+
+### The Molaesmyr Connection
+
+Almost 300 years ago, [[Ilixidor Alo]] used a Lorestone shard, with no Luxon Beacon, to hold the Fey Crossing beneath Molaesmyr open permanently. In 585 PD, when fomorians from Mag Tureah tried to cross, their curse reacted with the unstabilized shard and ruptured the Crossing: the Cataclysm that destroyed the city and created the cursed Savalirwood. This rupture is the origin of every rift (see [[Understanding the Rifts]]). What became of the shard is open.
+
+## Known Locations
+
+![[Lorestone Shard Status Tracker#Overview]]
 
 ## Faction Understanding
 
@@ -71,7 +72,7 @@ tags:
 - [[Archivist Ovedo]] knows of the [[Obsidian Echoforge - DM]] but hasn't revealed possession of Shard 5
 - [[Celdric Ambril]] doesn't know Shard 6's significance or true owner
 - **The prophecy's "beacon bright" refers to the Luxon Beacon, not the Lorestone**
-- **Only [[Aveqtaro Thaan]] possesses complete knowledge of the dual-artifact requirement**
+- **Only [[Aveqtaro Thaan]], once her memories as [[Cadariel Ordo]] are recovered, can have complete knowledge of the dual-artifact requirement**
 
 ## Connected Elements
 
