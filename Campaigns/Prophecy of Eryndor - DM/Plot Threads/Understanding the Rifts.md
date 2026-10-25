@@ -52,7 +52,7 @@ Rifts keep opening across Wildemount. Every faction has a theory about what they
 
 ### Reference Notes
 
-- [[00 Factions with interest in the rifts]]
+- [[Factions with interest in the rifts]]
 - [[Lady Emer's Research Notes]]
 - [[Soulwood Riftcage]]
 - [[Prophecy General Info]]

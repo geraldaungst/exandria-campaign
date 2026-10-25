@@ -8,14 +8,36 @@ tags:
   - region/xhorhas
   - faction/kryn-dynasty
 ---
+
+# Quick Reference
 **Base:** [[Rosohna]]
+**Goal:** not set (see Open Issues)
+**Status:** at open war with the [[Dwendalian Empire - DM|Dwendalian Empire]] along the frontier. Possesses Luxon Beacons but is unaware they can work with the Lorestone ([[Luxon Beacon Integration with Lorestone]])
+**Influence:** rules northern Xhorhas
 
-## Goals
+# Leadership
+**Current Leader:** [[Leylas Kryn]], the Bright Queen
 
-- Long-Term:
-- Medium-Term:
-- Short-Term:
+**Notable Members:**
+
+# Culture & Methods
+<!-- Philosophy, traditions, how they operate -->
+
+# Relationships
+**Allies:**
+**Rivals:** the [[Dwendalian Empire - DM|Dwendalian Empire]]
+**Neutral:** [[Vaud Qalix - DM|Qalix]] negotiates with the Dynasty through [[Sirion Del'thane]], who also negotiates with the Empire; neither knows about the other
+
+# Current Activities
+- When word reaches the Dynasty that a Luxon Beacon is in the hands of Wildemount adventurers, they will make contact ([[Luxon Beacon Political Consequences]])
+
+# History
+<!-- Origins, major events, evolution -->
 
 ## Open Issues
 
 - [ ] Set the Kryn Dynasty's goals (long, medium and short term) before it comes into play.
+
+## Connected Elements
+
+![[Related Notes.base]]

@@ -1,5 +1,6 @@
 ---
-cssclasses: "- wide-table"
+cssclasses:
+  - wide-table
 tags:
   - world/exandria
 ---
@@ -14,7 +15,7 @@ tags:
 | Emissaries of the Sunfall (Secret)                | Harness rift power                | Conflict over Lorestone control; potential ally against Malachite Cord                                                               | Conflict over rift manipulation and Lorestone use                                                                                     | -                                                                             | Aligned in desire to harness rift power; potential conflict over control |
 | Vaud Qalix                                        | Restore Draconia                  | Conflict over Lorestone possession; potential ally against Malachite Cord                                                            | Conflict over rift manipulation and Lorestone use                                                                                     | Aligned in harnessing rift power; potential conflict over control             | -                                                                        |
 | Ashari Riftguard                                  | Protect rifts                     | Potential ally in studying rifts; conflict over Lorestone use                                                                        | Aligned in protecting rifts; conflict over methods                                                                                    | Conflict over rift control and exploitation                                   | Conflict over rift exploitation                                          |
-| Scars of Scale and Tooth (Xarzith Kitril Council) | Govern Draconia                   | Unaware of conflict                                                                                                                  | Unaware of conflict                                                                                                                   | Unaware of conflict                                                           | Qalix uses position for personal goals                                   |
+| Scars of Scale and Tooth (Xarzith Kitril Council) | Govern Xarzith Kitril                   | Unaware of conflict                                                                                                                  | Unaware of conflict                                                                                                                   | Unaware of conflict                                                           | Qalix uses position for personal goals                                   |
 
 [[Obsidian Echoforge - DM]]
 
@@ -26,11 +27,17 @@ tags:
 [[Emissaries of the Sunfall - DM]]
 - Want to find a way to harness the power of the rifts for their own use. Originally directly opposed to the [[Obsidian Echoforge - DM]], in recent years they have begun trying to work together.
 - A splinter cell within the group, led by [[Valen Elderguard]] and financed by [[Vaud Qalix - DM|Vaud Qalix]] is opposed to this partnership and is secretly working to undermine the work.
-[[Ashari Riftguard]]
-[[Cobalt Soul - DM]]
-[[Cerberus Assembly - DM]]
-[[Dwendalian Empire - DM]]
-[[Kryn Dynasty - DM]]
-[[Ring of Three]]
-[[Obsidian Echoforge - DM]]
-[[Other Factions with Interest in the Rifts]]
+
+### Other factions
+
+- [[Ashari Riftguard]]
+- [[Cobalt Soul - DM|Cobalt Soul]]
+- [[Cerberus Assembly - DM|Cerberus Assembly]]
+- [[Dwendalian Empire - DM|Dwendalian Empire]]
+- [[Kryn Dynasty - DM|Kryn Dynasty]]
+- [[Ring of Three]]
+- [[Scars of Scale and Tooth]]
+
+## Open Issues
+
+- [ ] Review the other factions in the Explorer's Guide to Wildemount (EGtW) to see whether any are relevant and will have a stake in the rifts.
