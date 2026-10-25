@@ -1,16 +1,120 @@
 ## Vault Reorganization Status: DM Vault
 
-Location: the DM Screen folder, next to [[Plugin Migration Status - DM]]. The plugin migration is complete and its record is closed; this note covers only the reorganization. It holds current state and remaining work, not history. History lives in the four archived documents and in the Phase log below, which starts at the reconciliation.
+Location: the DM Screen folder, next to [[Plugin Migration Status - DM]]. The plugin migration is complete apart from the housekeeping deletions under Parked work; this note covers the reorganization. It holds current state and remaining work, not history. History lives in the four archived documents and in the Phase log below, which starts at the reconciliation.
 
 ### How Claude should use this note
 
 - Read all of it before proposing anything. The four archived documents are history only and are not updated; where they disagree with this note, this note wins.
-- Verify against the vault before ticking or marking anything. Never tick on assumption.
-- The vault syncs to a Claude project through GitHub, and the project copy can lag the vault. Check the vault first.
-- Ask one or two questions at a time. Gerald decides; he tells Claude when the vault is closed and commits with Obsidian Git himself.
-- Claude cannot delete files. Name the files for Gerald to delete.
-- Check every wiki-link resolves before writing it, so no empty placeholder notes get created.
-- After each completed item, give a log line (`YYYY-MM-DD | phase | what changed | result`). State what could not be tested in Obsidian.
+- Start every conversation with the "You are here" marker from the Project map, then follow the Working rules.
+
+### Project map
+
+**Vault reorganization. You are here: note triage, dropped-work sweep and first checkpoint**
+
+**Done**
+1. Structure
+2. Tags, properties and templates
+3. Plugin migration (four housekeeping deletions left; see Parked work)
+4. NPC audit
+5. Links and naming
+6. Vault Health dashboard
+
+**In progress: note triage by folder**
+- Campaign folder, Plot Threads, Party, Arcs: done
+- NPCs (73): done
+- Factions: done, except the three core factions (parked for an Opus pass)
+- **Dropped-work sweep and first checkpoint: now**
+- Objects: next (batch 1 of 4 read; two questions open)
+- Four Adversaries
+- Second look at the campaign and NPC folders (important notes only)
+- Checkpoint: rerun the checks, review the parked work list
+
+**Still to come**
+- **Review of the remaining areas**
+  - Worlds, Creatures, Sessions, One-Shots
+  - DM Screen tools and code
+  - Player Wiki
+  - templates
+- **Duplicates and misfiled-notes pass** over the whole vault
+- **Design topics, each in its own conversation**
+  - Eledyr: whether he still matters, and where he is
+  - Open Issues collector: format, templates, rescan, collector code
+- **Final verification:** only "every area reviewed" remains
+
+**Running alongside:** NPC template pass; parked work list.
+
+Claude updates this map whenever a line changes state, in the same edit as the log line.
+
+### Working rules
+
+Decided with Gerald 2026-10-25. They apply to every conversation on this project. Handoff prompts point here instead of repeating them. Rules about working together in general (questions, one best next step, concrete scenarios, creative calls are Gerald's) live in the project instructions. Rules about note content (tags, properties) live in [[Vault Conventions - DM]].
+
+#### Keeping Gerald oriented
+- Start every conversation with the "You are here" marker from the Project map.
+- On every now-or-later question, add one line saying where "later" lands.
+- Refer to work only by names that appear in the Project map. New work gets a line in the map before it is mentioned.
+- Ask one or two questions at a time, and keep asking in later turns until every needed decision is in. Say where you are in the set ("questions 1 and 2 of 5"), and don't act on a decision Gerald hasn't given yet.
+- Batch reports: one or two bullets of findings, then the decisions needed. More context only where a decision needs it.
+- Claude decides mechanical questions (fix now or park) and reports them at the end of the batch. Claude asks about creative calls and anything that changes how Gerald uses the vault.
+
+#### Fixing a note
+- **Fix once.** When a pass works on a note, it does the complete update in that pass: template structure, content, tags and links. A part may be split off only because it waits on a recorded decision, needs Opus, must change together with notes outside the pass, or Gerald chooses to split it. Anything split off goes in the note's Open Issues or the Parked work table.
+- **Complete includes current.** Check an important note against every session and planning note that links to it and the latest session summaries; check other notes against the notes that link to them. What can't be settled goes in the note's Open Issues.
+- **Open Issues.** A campaign question Gerald can't answer yet goes in the note's `## Open Issues` section. The note then counts as complete.
+- **Templates.** A note that doesn't match its template is rewritten to match, unless that creates a worse problem (then raise it). No information is deleted outright: detail that doesn't belong on the note goes into an atomic `lore` note linked from it.
+- **Important and minor notes.** Important notes get the full template treatment: anything linked from an active or upcoming plot thread, an arc that isn't complete, or a recent session; the three core factions; Tier 1 and Tier 2 NPCs; anything used at the table; and key places and people for future arcs (for example Molaesmyr, the Ebonglass Massif, Shoagragoth). Minor notes get a light fix to anything broken plus `needs-work`, so Gerald brings them onto the template the next time he uses them. Claude proposes which is which in the batch summary; Gerald confirms. Ask when unclear.
+- **Small fixes elsewhere.** A fix to a note outside the current pass stays small and is logged. Before making it, Claude checks the backups and the Phase log. If this would be the second small fix to that note, or the fix shows the note is out of date beyond the line being fixed, Claude says so and recommends the full update now. Gerald decides.
+
+#### Unplanned issues
+- A problem in a note in the current pass: fixed in the pass.
+- A campaign question: the note's Open Issues.
+- A maintenance fix to a note outside the pass, or work spanning several notes: the Parked work table below.
+- Every Parked work row names the pass that picks it up. If no planned pass covers it, it gets a line in the Project map then and there.
+- Each area pass starts by taking every Parked work row for that area. Each batch report ends with one or two lines on what was parked and where it goes.
+
+#### Keeping earlier work clean
+- **After every ruling**, Claude searches the vault the same day for every note it affects. Each hit is fixed as a small fix or parked.
+- **Checkpoint at the end of each stage:** rerun the link scan; check tags and properties against Vault Conventions; check that backups of `inline-events` and `fc-date` notes end in `.bak`; look for leftover scripts, temporary notes and empty folders; review the Parked work table for rows without a pass; confirm this note matches the vault. No decisions from Gerald unless something turns up.
+
+#### Facts and canon
+- Verify against the vault before marking anything done. The Claude project copy can lag; check the vault first.
+- Past conversations are the record of decisions; the vault is the implementation. Search both before creating anything. When it's unclear whether something is deliberate or a leftover, check past conversations before deciding.
+- Notes are mostly brainstorms. An idea repeated across notes doesn't win by default; decide on merit.
+- Resolve conflicts toward what has happened at the table and the campaign's goals. Only what the party knows is fixed; DM-only material can change. Player-facing material wins over DM notes.
+- Check several similar notes for the pattern before treating something as a rule; ask when it's ambiguous.
+
+#### Editing
+- Draft before writing; write only after Gerald approves.
+- Back up every changed note to a new dated folder under `z_Reference/template-backups/`. A backup of a note with the `inline-events` tag or an `fc-date` property ends in `.bak`, because Calendarium reads the whole vault.
+- Check every wiki-link resolves before writing it. After any change, run `.scripts/scan_unresolved_links.py` and confirm 0 new unresolved links.
+- Before moving or renaming a note, check for duplicate file names, because links resolve by name.
+- Bulk or destructive changes go through a dry-run script, tested on a copy, after Gerald has committed.
+- Test code with a mock harness. Say what couldn't be tested in Obsidian.
+- Never write a plugin's settings file unless the plugin documents it.
+- Obsidian is closed during edits unless Gerald says otherwise. Say when he should close it and when he can reopen it.
+- Claude can't delete files; name them for Gerald.
+- Each batch ends with a Phase log line: `YYYY-MM-DD | phase | what changed | result`.
+
+#### Models and conversations
+- Opus for design with lasting effects and for merges that decide which version of a fact is canonical. Sonnet for applying decisions already made.
+- When a note or pass needs Opus, say **SWITCH TO OPUS** in bold, name the note and why, and wait. Say when to switch back.
+- Start a new conversation when the current one is mostly unrelated tool output or the topic changes. Gerald commits first.
+- Handoff prompts point to this note and name the task. They separate what Gerald decided from what Claude proposed.
+
+### Parked work
+
+Every row names the pass that picks it up. Rows are removed when done; the Phase log keeps the record.
+
+| What | Where | Why parked | Picked up by | Found |
+|---|---|---|---|---|
+| Rebuild Emissaries, Echoforge and Malachite Cord on the Faction Template with everything in the vault; bring Legacy of the Seekers, The Massacre, The Capture of Melthes and The Legend of the Aurora's Ascendant onto the Atomic Note template; new lore notes in `Events/` | Characters/Factions/Exandria | Needs Opus | Opus faction pass (own conversation, prompt drafted 2026-10-25) | 2026-10-25 |
+| Varnes Dwell - DM rewrite: reconcile the pre-play plan (petrified at the Keep, rescue, recovery, travel west) with Sessions 32-35, Cloudfang Keep - DM, Ilya's notes and Rescue Ilya's Brother. Tagged `needs-work` | Characters/NPCs | Needs Opus | NPC template pass | 2026-10-23 |
+| NPC template pass: Aelorin Nightshade, Sumad-Dekon Harrowgate, Tessa Sunwarden, Ilya the Sorceress - DM (placeholders in Quick Reference, Current Situation, Background), Celdric Ambril (about 1,500 words of flavor; condense), Archivist Ovedo (doubled description, no DM-only Shard 5 section), Dhazar Zarakas (pasted first-person player text), Lys Willowwhisper (placeholder DM-only bullets) | Characters/NPCs | Incremental by Gerald's choice | Second look at the campaign and NPC folders | 2026-10-23 |
+| Stray `home_city` and `region` lines in the body: Garnet Thorne, Guzezzik, Cree Deeproots, Lady Triotta Thessaly, Steward Korvin Grrgg, Tamsin Fieldgold, Shauna Rual. Korvin and Tamsin also lack place and region tags | Characters/NPCs | Maintenance | Second look at the campaign and NPC folders | 2026-10-23 |
+| Move campaign questions into their notes' Open Issues: Calderax Dunhall (still written as Dreyara's active spy; she died 25 Thunsheer 835), Melthes (about seven `DM to determine` blanks), Draconia - DM (fill in when Restore Draconia or Qalix's plan next comes up; delete only if never used) | Characters/NPCs, Characters/Factions | Maintenance | Second look at the campaign and NPC folders | 2026-10-23 |
+| Character Story Beats says Drawg's Blade of Maroth Fenn is "currently held by Dreyara"; the party has it | Campaign folder | Maintenance | Second look at the campaign and NPC folders | 2026-10-25 |
+| Plugin housekeeping: delete MetaEdit, Kanban, Sort and Permute, Buttons (on or after 2026-10-25); delete Dataview (on or after 2026-10-28); Omnisearch trial (keep or remove); Desktop copy of obsidian-folder-notes; personal vault: MetaEdit and plugin audit | Gerald's Obsidian | Gerald's task, by date | Gerald; Claude reminds at each checkpoint | 2026-10-22 |
+| Revise the Opus faction pass prompt to point to these Working rules (the 2026-10-25 version lacks the canon rule) | Prompt | Waits on this section | Before the Opus faction pass starts | 2026-10-25 |
 
 ### Archived documents
 
@@ -112,22 +216,13 @@ Verified against the vault on 2026-10-22.
 - 19 of the 75 Exandria NPCs have no region tag. Only Radelia Caphax has a place tag, and that place has no region, so nothing can be filled automatically.
 - Location notes under Worlds: 33 carry the `location` tag. Two lack a place tag and one lacks a region (Skyship Distances and Xhorhas Landing, deliberately; see [[Vault Conventions - DM]]). All have a world tag.
 - Old properties (`affiliations`, `faction`, `current_location`, `location`): cleared 2026-10-22, and Lady Emer Status is gone. `home_city: Zadash` (retired 2026-10-21) is still in the frontmatter of six NPCs: Lady Triotta Thessaly, Steward Korvin Grrgg, Tamsin Fieldgold, Cree Deeproots, Shauna Rual, Guzezzik. Remove it when they get their template pass. Recount 2026-10-23, all 82 `npc` notes in Characters/NPCs: 44 without a place tag, 51 without a faction, 15 without a region (the Exandria-only counts above use a narrower scope).
-- **NPC template pass: notes that need it** (collected during the Part D triage, 2026-10-23). Do these incrementally, not as a bulk pass:
-  - Aelorin Nightshade, Sumad-Dekon Harrowgate, Tessa Sunwarden: still need the pass.
-  - **Varnes Dwell - DM: rewrite on Opus.** The note is the pre-play plan (petrified at the Keep, rescue scene, 3-4 day recovery, group travel west) and the Quick Reference is stale. In play he was freed 19 Thunsheer, Laucian took him toward Port Damali 21 Thunsheer, and in Session 33 he told the party about the Archive shard. The rewrite reconciles the plan with Sessions 32-35, Cloudfang Keep - DM, Ilya's notes and Rescue Ilya's Brother, and decides which facts are canonical, so stop and say SWITCH TO OPUS before starting. Tagged `needs-work` 2026-10-23.
-  - Ilya the Sorceress - DM: Quick Reference, Current Situation and Background still hold template placeholders.
-  - Celdric Ambril: about 1,500 words, mostly flavor (sayings, three yarns, long description); condense.
-  - Archivist Ovedo: doubled description; no DM-only section on Shard 5.
-  - Calderax Dunhall: still written as Dreyara's active spy; she died 25 Thunsheer 835. What he does now is undecided (Open Issues candidate).
-  - Melthes: DM-only section has about seven `DM to determine` blanks (Open Issues candidates).
-  - Dhazar Zarakas: pasted first-person player text. Lys Willowwhisper: placeholder DM-only bullets.
-  - Stray `home_city` / `region` lines in the body: Garnet Thorne, Guzezzik, Cree Deeproots, Lady Triotta Thessaly, Steward Korvin Grrgg, Tamsin Fieldgold, Shauna Rual. Korvin and Tamsin also lack place and region tags.
+- **NPC template pass:** the list of notes moved to Parked work on 2026-10-25.
 - The `processed` property and `#to-process` tag no longer appear in any note.
 
 **6. Part D triage and Part F decision.** Triage Essential, Reference, Redundant, Archive and Stub for what the NPC and tag work left over. Part F decided 2026-10-23: first dropped, then reversed the same evening. [[Vault Health.base]] is built: Needs work and NPC gaps (region or disposition missing) show a `tags` column so tags and `disposition` can be edited in the table; Artifacts without world carries it too (added later the same evening). The base is embedded at the bottom of the 00 DM Screen hub under `## Vault health`. Gerald reverts it if it proves too cumbersome.
 - Naming rule set 2026-10-23 and clarified the same evening: the ` - DM` suffix is applied only when a Player Wiki note has the same name. A DM note keeps the plain name until then (Korfel Withrethin stays plain; the player page is "The Gentleman"). Suffix rename done 2026-10-23: 46 notes and 8 folders went from ` - DM Notes` to ` - DM`, with 740 links repointed. The suffix is one setting, `dm_note_suffix` in Hub Config, read by Shared Helpers and `dm_helpers.js`. Changing it later only covers code; file names need `.scripts/rename_dm_suffix.py` (edit OLD and NEW), and `Recent Work.base` line 18 is hard-coded. Links in the Phase log below keep the old names on purpose. New DM notes with an existing player page are named ` - DM` from the start.
 - Triage of the five NPC-topic notes in the campaign folder done 2026-10-23 (see the log). Scope of the rest decided 2026-10-23: targeted triage of Characters/Factions, Objects and four Adversaries now; every other area is tracked in item 11 and must be reviewed before the project is called complete.
-- Stub to fill in later: [[Draconia - DM]] (renamed from Draconia 2026-10-23). It is still the empty Faction Template (tags `organization`, `faction/draconia`, `needs-work`). Fill it in when the Restore Draconia plot thread or Qalix's plan next comes up at the table; delete it only if it never gets used. The player-wiki location page `Draconia` is separate and keeps the plain name.
+- Draconia - DM stub: moved to Parked work on 2026-10-25.
 
 **7. Unresolved links.** Done 2026-10-23, apart from the planned notes. Check: `.scripts/scan_unresolved_links.py` (read-only; resolves by file name; handles aliases, headings, embeds and escaped pipes; ignores links in code; `--json file` gives detail). Live notes (everything outside Player Wiki, z_Reference, z_Archive and z_Templates): 2,845 links checked, 0 unplanned unresolved links outside code. 34 links to 13 planned notes stay unresolved on purpose, listed in `.scripts/planned_link_targets.txt`: Xanaphia Lothliss, Odessloe, Ilixidor Alo, Illyndra Shadowveil, Cairel Ulthe, Hupperdook, Sunset Sail, Tur-Marethis, Kelmen Ritual Resolution, The Ring, Ruins of Marethis, Watcher's Knee, Varrin. When one of those notes is written, delete its name from the file; if the plan is dropped, strip its links first. Left alone: 33 occurrences inside code blocks (00 DM Screen/Code, DM Hubs Design, Roll20 Script Reference, Table References), and the closed Plugin Migration Status log lines (the scanner skips that file). Not touched, out of scope: Player Wiki (10 unresolved links in 8 notes: Wynandir x2, Varrinthal City x3, Skarnveil x2, Calamity, Dessarin the Ninth, kneestone), z_Archive (57 in 2 notes, including Deastok Investigation OLD) and z_Templates (placeholder text). Decisions, counts and backups are in the log lines of 2026-10-23 (link cleanup batches 1 to 4). Stripped Deastok survey-crew NPCs (Jorun, Aldous, Wenna, Torvald, Brynna, Erma) get their links back if they become notes.
 
@@ -192,7 +287,7 @@ The Plan's final checklist, reworded for the current stack. Gerald confirms the 
 
 ### Recommended next step
 
-All Obsidian checks listed as untested in the 2026-10-23 log lines were confirmed by Gerald that evening (see the last Phase log line). Only "Claude project can see campaign content" remains partly open in Final verification, because the project copy lags the vault until the next GitHub sync. The view checks are done (2026-10-23), so Dataview can be deleted on or after 2026-10-28. Part D triage (item 6) is done for the campaign folder and Characters/NPCs (batches 1 (campaign folder root), 2 (Plot Threads), 3 (Party and Status), 4 (Arcs), 5 (13 Toril NPCs, archived), 6 through 10b covering 73 NPC notes; the Aelorin, Aethor, Aveqtaro, Korfel, Sumad-Dekon and Tessa clusters were labeled earlier) on 2026-10-23. Part F is built (reversed 2026-10-23: Vault Health.base, three views), so Part D is the last open piece of Phase 8. Part D continues as a targeted triage (Characters/Factions, Objects, four Adversaries); then what remains is the NPC template pass list under item 5, done incrementally, and item 11 (review coverage), which must read complete before the project is called complete. Item 9 (Eledyr) and the design questions for item 10 each wait for a separate conversation with Gerald, date not set. Item 10 (Open Issues section and collector) must be done before the project is called complete. Housekeeping done 2026-10-23: commit and push, Publish build, Player Wiki Build Conventions doc updated (`organization` replaces `faction`). Dataview is deleted by Gerald on or after 2026-10-28. All deletions named in earlier log lines are done (checked 2026-10-23), and the `Stubs` folder is gone. The empty `Encounters` folder in the campaign folder stays: Gerald will file encounter notes there.
+See the Project map at the top of this note. The step marked "now" is the next step.
 
 ### Phase log
 
@@ -327,3 +422,4 @@ Newest at the bottom. Format: `YYYY-MM-DD | phase | what changed | result`.
 2026-10-23 | item 11, z_ scope | Gerald confirmed: z_Archive is out of scope; z_Reference gets a limited check only (stray tagged copies, missing .bak endings, misplaced files). Player Wiki count is 118 because two notes were added this week | Status note only. Backup in z_Reference/template-backups/2026-10-23 Part D scope/ (saved as .bak)
 2026-10-23 | Part D triage, Factions batch 1 (12 notes in Characters/Factions/Exandria) | Labeled 2 Essential (Gentleman's Organization, already done; Ashari Riftguard, no change), 5 Stub (Myriad, Clasp, Cobalt Soul, Kryn Dynasty, Draconia), 5 Reference (Cerberus Assembly, Dwendalian Empire, 00 Factions with interest in the rifts, Legacy of the Seekers, The Massacre). Myriad, Clasp and Cobalt Soul rebuilt on the Faction Template from facts in the vault and the Player Wiki pages (AI brainstorm chats not used); each has an `## Open Issues` section, `needs-work` kept or added. Kryn Dynasty: `Establish goals` task line replaced by an Open Issues entry. Draconia left as the intentional stub. Decided with Gerald: the Clasp was an error in early drafts of the Qalix notes, and Qalix's only alliance among the criminal organizations is the Myriad; the Clasp is removed from the Qalix hub Allies line, the Plan Outline allies row, and the Manifesto (Clasp section, Conclusion, Criticism rebuttal). The Cobalt Soul is a public partner he courts nationally and would steal from (Shard 5), recorded on the Cobalt Soul note and the Qalix hub; the Cerberus Assembly and Ring of Three stay as courted powers in the Manifesto. 00 Factions note tidy (type tag, `cssclasses`) waits for batch 2 | Delete nothing. Link scan: 34 unresolved outside code, all planned, plus the 4 known; 0 new. Left alone: the Clasp mentions in the AI brainstorm Brainstorms about Dechs and the Herbs and the Artifact Pieces code example. Dreyara's note already lists the Clasp among Qalix's adversaries. Eledyr and the Clasp wait on item 9. Backups in z_Reference/template-backups/2026-10-23 Part D triage Factions batch 1. Not opened in Obsidian
 2026-10-25 | Part D triage, Factions batch 2 (12 notes), non-Opus part | Labeled 3 Essential (Emissaries of the Sunfall - DM, Obsidian Echoforge - DM, Malachite Cord - DM), 4 Reference (Legend of the Aurora's Ascendant, Ring of Three, Scars of Scale and Tooth, The Capture of Melthes), 1 Redundant (Other Factions with Interest in the Rifts), 4 Stub (Pyrah, Terrah, Vesrah, Zephrah Tribe). Gerald's rule from now on: a note that does not match its established template is rewritten to match unless that creates a worse problem; no information is deleted entirely, so detail that does not fit goes to an atomic `lore` note linked from the faction note. Rewritten on the Faction Template with all original text kept: Ashari Riftguard (new Tribes table: Pyrah Fire, Vesrah Water, Terrah Earth, Zephrah Air, from the member tags; three Open Issues), Cerberus Assembly - DM, Dwendalian Empire - DM, Ring of Three, Scars of Scale and Tooth (Open Issue on the old Relationships line to the Emissaries), Kryn Dynasty - DM. Factions with interest in the rifts (Gerald renamed it from `00 Factions with interest in the rifts`; the `00 ` prefix is for the DM Screen only): `cssclasses` fixed to a list, trailing links made an Other factions list, the EGtW review to-do moved to an Open Issues entry, and the Scars row corrected from Govern Draconia to Govern Xarzith Kitril (Draconia fell in 811 PD; the Player Wiki and Qalix's note say the council governs Xarzith Kitril). Pending, on Opus in a separate conversation: rebuild of the Emissaries, Echoforge and Malachite Cord notes on the Faction Template with everything in the vault that belongs on them, plus Legacy of the Seekers, The Massacre, The Capture of Melthes and The Legend of the Aurora's Ascendant (embedded headings), and new lore notes under Characters/Factions/Exandria/Events (confirmed by Gerald). Open conflicts found for that pass: Cord members (Theron Galevor and Elyndra Sweetcheek vs the Shrine of Melora - DM names), the Cord's Lorestone piece possession (no shard note lists it), Cord and Ashari alliance | Delete `Characters/Factions/Exandria/Other Factions with Interest in the Rifts.md`, `Pyrah Tribe.md`, `Terrah Tribe.md`, `Vesrah Tribe.md` and `Zephrah Tribe.md` (no links to any of them remain; NPC `faction/ashari/…` tags stay). Link scan: 34 unresolved outside code, all planned, plus the 4 known; 0 new. Backups in z_Reference/template-backups/2026-10-25 Part D triage Factions batch 2. Not opened in Obsidian
+2026-10-25 | working rules | Added Project map ("You are here" marker), Working rules and Parked work table at the top of this note, replacing most of "How Claude should use this note". Rules decided with Gerald 2026-10-25: fix a note once; complete includes current; unresolved campaign questions go in the note's Open Issues; important notes get the full template, minor notes get `needs-work`; small fixes elsewhere stay small with a guard against repeat fixes; maintenance and multi-note work go in Parked work, each row naming its pass; same-day search after every ruling; checkpoint at the end of each stage; refer to work only by Project map names; batch reports short. Process rules found in a scan of past conversations and memory added under Facts and canon, Editing, and Models and conversations. Item 5's NPC template pass list and item 6's Draconia line moved into Parked work; the Recommended next step now points to the Project map. Working-together rules go in the project instructions (Gerald edits those) | Status note only. Link scan below. Backup in z_Reference/template-backups/2026-10-25 working rules
