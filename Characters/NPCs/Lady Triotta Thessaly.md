@@ -10,10 +10,6 @@ tags:
 disposition: friendly
 ---
 
-home_city: Zadash
-
-region: Tal'Dorei
-
 ![[triotta.png|right|300]]
 
 Lady Thessaly is a middle-aged human woman known for her obsession with rare gemstones, which she trades and collects as a prominent merchant and socialite throughout the [[Dwendalian Empire - DM]]. She exudes poise and style, never seen without an array of bejeweled rings, bracelets and amulets in a range of violet hues (her namesake favorite).

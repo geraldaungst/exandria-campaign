@@ -5,12 +5,10 @@ tags:
   - needs-work
   - npc
   - world/exandria
+  - region/taldorei
+  - place/whitestone
 disposition: friendly
 ---
-
-home_city: Zadash
-
-region: Tal'Dorei
 
 *Small humanoid (halfling), neutral good**
 

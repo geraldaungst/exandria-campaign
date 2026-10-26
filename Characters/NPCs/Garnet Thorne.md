@@ -23,10 +23,6 @@ tags:
 
 ---
 
-home_city: Zadash
-
-region: Tal'Dorei
-
 |STR|DEX|CON|INT|WIS|CHA|
 |---|---|---|---|---|---|
 |14 (+2)|12 (+1)|13 (+1)|15 (+2)|16 (+3)|14 (+2)|

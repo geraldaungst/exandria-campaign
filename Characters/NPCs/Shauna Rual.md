@@ -5,11 +5,9 @@ tags:
   - needs-work
   - npc
   - world/exandria
+  - region/taldorei
+  - place/whitestone
 ---
-
-home_city: Zadash
-
-region: Tal'Dorei
 
 ![[shauna.png|right|300]]
 

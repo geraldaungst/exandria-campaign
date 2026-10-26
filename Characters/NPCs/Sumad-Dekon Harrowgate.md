@@ -2,6 +2,7 @@
 aliases:
   - sumad
   - sumad-dekon
+disposition: indifferent
 tags:
   - needs-work
   - npc

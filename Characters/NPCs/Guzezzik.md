@@ -9,8 +9,6 @@ tags:
   - needs-work
 ---
 
-home_city: Zadash
-
 ![[guzezzik.png|right|300]]
 
 Cook on the skyship. Poisons the captain's food (and accidentally some of the other passengers as well.)

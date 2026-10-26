@@ -16,7 +16,7 @@ tags:
 > - **Location:** [[Palma Flora]] (Echoforge headquarters)
 > - **Goal:** Assemble the [[Lorestone of Eryndor - DM]] and close the rifts before it's too late
 > - **Attitude toward party:** Grateful, respectful—sees them as proven allies worth investing in
-> - **Key knowledge:** Holds Shards 1-4, Willowwhisper lineage history, Echoforge operations and intelligence network
+> - **Key knowledge:** Holds Shards 1-4 (wears Shard 1; Shards 2-4 are in a locked chest), Willowwhisper lineage history, Echoforge operations and intelligence network
 
 ## Description & Roleplay
 
@@ -30,7 +30,7 @@ Youthful exuberance despite the weight she carries. Tall for her lineage, deep b
 
 ## Current Situation
 
-Based at [[Palma Flora]], leading the [[Obsidian Echoforge - DM]]'s operations. Holds Shards 1-4 in a magically locked and trapped chest. Has [[Aethor Kalisk - DM]] deployed to [[Port Damali - DM]] pursuing leads on additional shards.
+Based at [[Palma Flora]], leading the [[Obsidian Echoforge - DM]]'s operations. Wears Shard 1 as a pendant and keeps Shards 2-4 in a magically locked and trapped chest at Palma Flora. Has [[Aethor Kalisk - DM]] deployed to [[Port Damali - DM]] pursuing leads on additional shards.
 
 Growing increasingly urgent about the rift situation—the rifts are worsening, Qalix is stealing shards, and the [[Malachite Cord - DM]] is obstructing rather than helping. She believes delay costs lives, and she's not entirely wrong.
 

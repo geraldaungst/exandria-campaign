@@ -10,10 +10,6 @@ tags:
   - faction/myriad/gentlemans-organization
 ---
 
-home_city: Zadash
-
-region: Dwendalian Empire
-
 ## Core Information
 
 ### Cree Deeproots
