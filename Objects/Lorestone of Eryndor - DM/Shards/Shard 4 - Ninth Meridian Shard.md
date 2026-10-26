@@ -25,13 +25,15 @@ Shard 4 of the [[Lorestone of Eryndor - DM|Lorestone of Eryndor]]. Hub: [[Lorest
 ## Properties and rulings
 
 - Security: high. Protected at the Echoforge's headquarters.
+- Item block for all shards: [[Lorestone - Magic Item Blocks]].
 
 ## Notes
 
-- Part of the core collection Lyren has assembled over generations of searching.
+- Part of the Echoforge's collection, built over generations of searching. Lyren holds it at Palma Flora.
 
 ## History
 
+- **Before the campaign** · note · Found by Talyn Willowwhisper in uncharted waters near the Ninth Meridian, in the Echoforge's Age of Exploration. · Talyn Willowwhisper · at the Ninth Meridian
 - **Before the campaign** · holder · Collected by the Obsidian Echoforge over generations of searching. · [[Lyren Willowwhisper]] · at [[Palma Flora]]
 - **22 Dualahei 835** · knows where · <span data-date="835-03-22" data-category="Lorestone" data-name="Shard 4: party learns of it">Library research in Port Damali: the Obsidian Echoforge has found four shards.</span> · Party · [[Sessions 7 & 8 - Tracking Yrene|Sessions 7–8]]
 

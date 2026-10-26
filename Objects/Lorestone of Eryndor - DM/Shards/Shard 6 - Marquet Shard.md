@@ -13,7 +13,7 @@ Shard 6 of the [[Lorestone of Eryndor - DM|Lorestone of Eryndor]]. Hub: [[Lorest
 
 - [[Vaud Qalix - DM|Vaud Qalix]] · where · personal · knows the party took it from Dreyara's body (the handler's Sending, 26–27 Thunsheer); names follow by courier
 - [[Celdric Ambril]] · exists · was seeking it; knows it was found
-- [[Aelorin Nightshade]] · wrong · thinks it was a rare relic, not a Lorestone shard
+- [[Aelorin Nightshade]] · wrong · personal · thinks it was a rare relic, not a Lorestone shard
 - [[Calderax Dunhall]] · exists · shares with [[Obsidian Echoforge - DM|Obsidian Echoforge]], [[Emissaries of the Sunfall - DM|Emissaries of the Sunfall]] · collected it at the docks; it was stolen from his room
 - [[Lady Emer - DM|Lady Emer]] · where · personal · Ra'ak told her the party took it from Dreyara's body
 - Ra'ak · where · with Dreyara when she died; saw the party take it; released
@@ -40,7 +40,7 @@ Shard 6 of the [[Lorestone of Eryndor - DM|Lorestone of Eryndor]]. Hub: [[Lorest
 
 - **Before the campaign** · note · Unearthed in Marquet and shipped by the "Marquet Fine Arts Collective", a front, listed as a volcanic glass sculpture. · at Marquet
 - **Shortly before 4 Thunsheer 835** · moved · Arrived in Port Damali aboard the *Wavechaser*. · at [[Port Damali - DM|Port Damali]]
-- **Shortly before 4 Thunsheer 835** · holder · Collected at the docks for the Obsidian Echoforge. · [[Calderax Dunhall]] · at [[Port Damali - DM|Port Damali]]
+- **Shortly before 4 Thunsheer 835** · holder · Collected at the docks by Calderax for his mentor [[Aelorin Nightshade]]; Calderax then told his Echoforge contacts, who sent Aethor. · [[Calderax Dunhall]] · at [[Port Damali - DM|Port Damali]]
 - **Shortly before 4 Thunsheer 835** · holder · Stolen from Calderax's room; a rift opened at the docks an hour or two after he left with it. · [[Dreyara Drimvar - DM|Dreyara Drimvar]] · at [[Port Damali - DM|Port Damali]]
 - **4 Thunsheer 835** · knows exists · <span data-date="835-04-04" data-category="Lorestone" data-name="Shard 6: missing from Calderax's room">The party learns the shard is missing from Calderax's room; Dreyara likely framed him.</span> · Party · [[Session 25 - Interrogating Calderax|Session 25]]
 - **5 Thunsheer 835** · note · <span data-date="835-04-05" data-category="Lorestone" data-name="Shard 6: verse in the safehouse">Papers in the abandoned Emissaries safehouse quote part of its verse: "loom in twilight's reach as cosmic".</span> · Party · [[Session 26 - Investigating the Abandoned Safehouse|Session 26]]

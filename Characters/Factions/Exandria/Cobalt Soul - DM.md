@@ -9,7 +9,7 @@ tags:
 # Quick Reference
 **Base:** [[Rexxentrum - DM|Rexxentrum]]; the order coordinates its archives from there
 **Goal:** acquire, preserve and share knowledge in the service of Ioun
-**Status:** its Rexxentrum Archive holds [[Shard 5]] in an unauthorized, warded vault, for a secret research project run by [[Archivist Ovedo]]
+**Status:** its Rexxentrum Archive holds [[Shard 5 - Rexxentrum Shard|Shard 5]] in an unauthorized, warded vault, for a secret research project run by [[Archivist Ovedo]]
 **Influence:** archives in major cities: Rexxentrum, the Valley Archive in Zadash, and [[Cobalt Soul Archive in Port Damali - DM|Port Damali]]. It operates openly in the Empire
 
 # Leadership

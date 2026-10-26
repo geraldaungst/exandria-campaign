@@ -64,7 +64,7 @@ As of 27 Thunsheer 835. Detail in [[Qalix's Network]].
 	- [[Thok-Kynn Dalca]]: treasurer
 	- [[Gorrath the Stonebinder]]: architect in charge of rebuilding Draconia
 	- [[Dreyara Drimvar - DM|Dreyara Drimvar]]: spymaster. Dead, 25 Thunsheer 835; successor undecided
-- **Allies:** the [[Myriad - DM|Myriad]], plus private mercenaries and researchers. Publicly partnered with the [[Cobalt Soul - DM|Cobalt Soul]] and courting it nationally; not an ally in fact. He would steal [[Shard 5]] from its archive and expects the theft cannot be traced to him. Field network (Lady Emer, the handler, [[Valen Elderguard]]'s cell, [[Kexira Suulveth]]): [[Qalix's Network]]
+- **Allies:** the [[Myriad - DM|Myriad]], plus private mercenaries and researchers. Publicly partnered with the [[Cobalt Soul - DM|Cobalt Soul]] and courting it nationally; not an ally in fact. He would steal [[Shard 5 - Rexxentrum Shard|Shard 5]] from its archive and expects the theft cannot be traced to him. Field network (Lady Emer, the handler, [[Valen Elderguard]]'s cell, [[Kexira Suulveth]]): [[Qalix's Network]]
 - **Needs:** the shards he knows of; components from the Elemental Planes to cleanse them; a Chronurgy wizard to weave them together ([[Iliara Firth]], not yet recruited); a rift large enough to power the [[Harmonic Planar Conduit]]
 
 ## Hidden Information

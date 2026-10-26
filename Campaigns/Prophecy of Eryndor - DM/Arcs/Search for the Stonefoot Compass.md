@@ -58,7 +58,7 @@ Offstage, to decide.
 ## Future Developments
 
 > [!secret]- DM Only
-> The map and compass point to [[Shard 7 - Ebonglass Shard|Shard 7]]. Aethor, Calderax and the Echoforge all believe they point to [[Shard 5]], which [[Archivist Ovedo]] holds. Keldar's map shows where Shard 7 once was, not where it is now.
+> The map and compass point to [[Shard 7 - Ebonglass Shard|Shard 7]]. Aethor, Calderax and the Echoforge all believe they point to [[Shard 5 - Rexxentrum Shard|Shard 5]], which [[Archivist Ovedo]] holds. Keldar's map shows where Shard 7 once was, not where it is now.
 
 ## Connected Elements
 

@@ -21,6 +21,7 @@ Shard 8 of the [[Lorestone of Eryndor - DM|Lorestone of Eryndor]]. Hub: [[Lorest
 ## Properties and rulings
 
 - Challenge: 15–17. Should be the hardest shard to acquire.
+- Item block for all shards: [[Lorestone - Magic Item Blocks]].
 
 ## Notes
 

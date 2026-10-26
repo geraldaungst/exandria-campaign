@@ -24,12 +24,14 @@ Shard 5 of the [[Lorestone of Eryndor - DM|Lorestone of Eryndor]]. Hub: [[Lorest
 
 ## Open questions
 
+- [x] What is this shard's name? The Rexxentrum Shard, after where it was found.
 - [ ] When does Ovedo reveal the shard to the Echoforge or the party?
-- [ ] What is this shard's name?
+- [ ] How did Qalix learn the shard is in the Rexxentrum Archive? Open on [[Lady Emer - DM|Lady Emer]]'s note: did she get it out of Varnes?
 
 ## Properties and rulings
 
 - Security: medium-high. In the Cobalt Soul archive, but not heavily guarded, since no one knows to look for it.
+- Item block for all shards: [[Lorestone - Magic Item Blocks]].
 
 ## Notes
 
@@ -38,6 +40,7 @@ Shard 5 of the [[Lorestone of Eryndor - DM|Lorestone of Eryndor]]. Hub: [[Lorest
 
 ## History
 
+- **Before the campaign** · note · Unearthed by the Cobalt Soul in the foundations of the Archive and kept quiet. · at [[Cobalt Soul Archive in Rexxentrum|Cobalt Soul Archive]]
 - **Before the campaign** · holder · Kept in an unauthorized, warded vault for a secret Cobalt Soul research project. · [[Archivist Ovedo]] · at [[Cobalt Soul Archive in Rexxentrum|Cobalt Soul Archive]]
 - **Before the campaign** · knows where · Found the vault during a security assessment of the Archive; Ovedo paid him to keep quiet. · [[Varnes Dwell - DM|Varnes Dwell]]
 - **Before the campaign** · knows exists · Learned that Varnes knew something; Dreyara delivered Varnes to Lady Emer for questioning. · [[Vaud Qalix - DM|Vaud Qalix]]
