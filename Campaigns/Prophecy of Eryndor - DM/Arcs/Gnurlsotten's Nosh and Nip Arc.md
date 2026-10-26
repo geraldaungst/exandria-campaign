@@ -2,6 +2,7 @@
 status: complete
 tags:
   - campaign/eryndor
+  - needs-work
   - arc
   - place/gnurlsottens
 tier: filler
@@ -11,9 +12,17 @@ tier: filler
 
 **Purpose:** Decompression after the Monastery arc. Low stakes, high charm, one nonlethal brawl as the climax. Ends by handing the party a reason to go to [[Deastok]], and from there [[Zadash - DM]].
 
-**Party:** Drawg, Hesterian, Popcorn, Qilynn, Seraphina (~level 8-9)
+**Party:** Drawg, Hesterian, Popcorn, Qilynn, Seraphina (level 8)
 
 **Reference:** [[Grent Gnurlsotten - DM]] · [[Gnurlsotten's Nosh & Nip - DM]]
+
+> [!note] As played (30 August 2026)
+> - Biscuit and Pretzel were found in the blackberries on the road. The party discovered at the tavern that "Popcorn" is a goat.
+> - Yssa stepped in to stop Grent from going after Popcorn over the missing goats.
+> - Rolling cheese down the stairs came first, then Wrong Answers Only, which turned into a drinking game.
+> - Popcorn and Grent fought until one passed out, and Popcorn won. Drawg won 20 gp betting on him.
+> - Grent gave the party a wheel of cheese for [[Torvald Halsen|Torvald]] and a second package (the comb). Nobody had stolen the goats: there was a hole in the fence.
+> - The party stayed the night at the tavern.
 
 ---
 
@@ -423,14 +432,11 @@ Genuinely, mildly annoyed. Every time.
 ### DM Secrets
 
 > [!secret]- Who actually took the goats
-> Nobody stole them. A pair of young adventurers passed through days earlier, got too deep into the ale, and—convinced in their drunken state that the goats were "trapped and wanted to be free"—let them loose as a misguided act of kindness. The goats wandered until they found Popcorn.
->
-> Grent doesn't know this and may never find out unless the party investigates. **He doesn't need to** for Beat 5 to land.
+> Nobody stole them. As played, there was a hole in the fence, and the goats wandered out until they found Popcorn.
 
 ---
 
 ### Loose Threads
 
-- The real goat-thieves are never confronted here. Could resurface later for a laugh, or stay an unsolved mystery Grent never learns.
 - **Wheel-Balance Gauntlet** and **The Long Story**—unused trial ideas, banked for a return visit.
 - Grent's visibly expensive items around the tavern go unexplained. A hook if you want a reason to come back. See [[Gnurlsotten's Nosh & Nip - DM]].

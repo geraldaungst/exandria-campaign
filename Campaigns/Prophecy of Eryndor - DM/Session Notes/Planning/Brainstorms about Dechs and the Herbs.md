@@ -254,27 +254,27 @@ This revised list provides a clearer picture of Qalix's network, distinguishing 
 
 [Timestamp: 2025/04/27 19:14:14]
 
-**user**: I think Sirion would work through the Myriad at first rather than making initial contact directly. I'll us Lysandra for now. Eliminate 3 and 4 from your list. Consider the "accidental" encounter, the scholarly proposition, or the comptetitive offer. Of those, which one best aligns with the scenario described in [[The Myriad's Request]]?
+**user**: I think Sirion would work through the Myriad at first rather than making initial contact directly. I'll us Lysandra for now. Eliminate 3 and 4 from your list. Consider the "accidental" encounter, the scholarly proposition, or the comptetitive offer. Of those, which one best aligns with the scenario described in The Myriad's Request?
 
 [Timestamp: 2025/04/27 19:17:08]
 
-**ai**: Okay, considering the scenario described in [[The Myriad's Request]], the **"accidental" encounter** best aligns with the existing plot. Here's why:
+**ai**: Okay, considering the scenario described in The Myriad's Request, the **"accidental" encounter** best aligns with the existing plot. Here's why:
 
 - **Subtlety and Information Gathering:** The Myriad, as an intelligence-gathering organization, would likely prefer a subtle approach that allows them to assess [[Iliara Firth]]'s motivations and gather information about her research before making a direct offer. The "accidental" encounter allows Lysandra to gauge [[Iliara Firth]]'s interest in the herbs and her overall disposition towards potential partnerships without revealing Qalix's involvement prematurely.
-- **Alignment with Existing Plot:** The [[The Myriad's Request]] scenario involves Dechs unknowingly carrying the herbs. This suggests that the Myriad is already involved in the acquisition and distribution of these herbs. Lysandra's "accidental" encounter could be a way to monitor the herb shipment's progress and identify potential buyers or interested parties, including [[Iliara Firth]].
+- **Alignment with Existing Plot:** The The Myriad's Request scenario involves Dechs unknowingly carrying the herbs. This suggests that the Myriad is already involved in the acquisition and distribution of these herbs. Lysandra's "accidental" encounter could be a way to monitor the herb shipment's progress and identify potential buyers or interested parties, including [[Iliara Firth]].
 - **Plausible Deniability:** The "accidental" encounter provides the Myriad with plausible deniability. If [[Iliara Firth]] becomes suspicious or declines the offer, Lysandra can easily disengage without revealing Qalix's involvement or compromising the Myriad's operations.
 
 The "scholarly proposition" and "competitive offer" are less suitable because they involve a more direct and overt approach, which could raise [[Iliara Firth]]'s suspicions and potentially alert other interested parties to Qalix's interest in her. The Myriad would likely prefer to gather more information and assess the situation before making such a bold move.
 
 [Timestamp: 2025/04/27 19:17:13]
 
-**user**: Dechs actually knows she has herbs to deliver. She does not know their eventual destination, and she is innocent of the plot involving the Myriad and Vaud Qalix. Suggest revisions to [[The Myriad's Request]] and the accidental encounter scenario that would make them work more seamlessly together.
+**user**: Dechs actually knows she has herbs to deliver. She does not know their eventual destination, and she is innocent of the plot involving the Myriad and Vaud Qalix. Suggest revisions to The Myriad's Request and the accidental encounter scenario that would make them work more seamlessly together.
 
 [Timestamp: 2025/04/27 19:19:19]
 
-**ai**: Okay, here are revisions to [[The Myriad's Request]] and the "accidental encounter" scenario to better reflect Dechs's knowledge of the herbs and her innocence, making the plotlines work more seamlessly together:
+**ai**: Okay, here are revisions to The Myriad's Request and the "accidental encounter" scenario to better reflect Dechs's knowledge of the herbs and her innocence, making the plotlines work more seamlessly together:
 
-**Revisions to [[The Myriad's Request]]:**
+**Revisions to The Myriad's Request:**
 
 - **Dechs' Knowledge (Revised):** "Currently traveling with the party, Dechs is carrying a shipment of rare herbs. She was hired by an independent buyer to transport them to Zadash, where they will be delivered to a contact. Dechs believes she is simply fulfilling a legitimate contract and is unaware of the illegal operations and the conflict brewing in Zadash."
 - **The Independent Buyer (Revised):** "The independent buyer, a seemingly reputable merchant named Elias Thorne, hired Dechs to transport the herbs. Elias is primarily motivated by profit but is becoming increasingly nervous about the situation. He is aware that the Riverbend Mercantile intends to use the herbs for illicit purposes, but he underestimated the potential danger and the involvement of other factions like The Gentleman."
@@ -311,9 +311,9 @@ In my wandering travels, I was headed along a mountainous path when I happened u
 
 [Timestamp: 2025/04/27 19:25:08]
 
-**ai**: Okay, based on Dechs's account, here are further revisions to [[The Myriad's Request]] and the "accidental encounter" scenario to ensure consistency and enhance the plot:
+**ai**: Okay, based on Dechs's account, here are further revisions to The Myriad's Request and the "accidental encounter" scenario to ensure consistency and enhance the plot:
 
-**Revisions to [[The Myriad's Request]]:**
+**Revisions to The Myriad's Request:**
 
 - **The Independent Buyer (Revised):** "The independent buyer is Elias Thorne, a seemingly eccentric but harmless merchant with a penchant for pointy hats. He hired Dechs to transport the herbs, downplaying their value and potential danger. Elias is primarily motivated by profit but is now deeply regretting his involvement, as he underestimated the stakes and the ruthlessness of the factions involved."
 - **Dechs' Knowledge (Revised):** "Currently traveling with the party, Dechs is carrying a shipment of rare herbs that she collected from a swamp at the request of Elias Thorne. She knows she is to deliver them to Elias at a location in Zadash known for its 'golden birds.' Dechs believes she is simply fulfilling a legitimate contract and is unaware of the illegal operations and the conflict brewing in Zadash. She is also unaware of Elias's intended use for the herbs or their true value."

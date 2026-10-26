@@ -1,5 +1,4 @@
 ---
-created: 2026-10-19
 hide_from_related: true
 ---
 

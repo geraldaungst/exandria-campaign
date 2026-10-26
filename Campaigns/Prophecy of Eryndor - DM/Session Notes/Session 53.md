@@ -29,6 +29,9 @@ tags:
 - **Decisions and consequences:**
 	- Left the site's fate with the Truscans
 - **Changed at the table:**
+	- Hesterian gave the Truscans Celunor's name as a scholar interested in the site, and Drawg raised the Cerberus Assembly as a threat. Both names are now with the Truscans.
+	- The Truscans paid 50 pp in gratitude.
+	- The High Elven text of the shard's verse does not match the wording Seraphina remembers from childhood.
 - **Threads moved:** [[Assembling the Lorestone]], [[Cleanse the Savalirwood]]
 - **World next:** Aldous Penwrye decides in the morning what to do about the site. The party may leave it or press further into Truscan business. Bramwell contact made in Session 51 but not followed up. Jorun still isn't sleeping.
 

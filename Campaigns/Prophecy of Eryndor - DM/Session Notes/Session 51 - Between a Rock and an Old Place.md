@@ -29,6 +29,9 @@ tags:
 - **Decisions and consequences:**
   - Took on the site investigation before the deadline
 - **Changed at the table:**
+  - Brynna Colefist is a dwarf.
+  - Rock creatures that roll into one another and merge into larger ones attacked at the site (not planned).
+  - Aldous Penwrye gave sealed, signed permission for Brynna, and the report is due the next morning. Windmills stand around the site.
 - **Threads moved:** [[Assembling the Lorestone]]
 - **World next:** Brynna's crew backfills at dusk unless the party changes her report
 

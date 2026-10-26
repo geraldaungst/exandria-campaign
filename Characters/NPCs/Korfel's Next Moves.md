@@ -89,7 +89,7 @@ Each pulls a different party member. He offers only what he has learned is lever
 
 ### Open
 
-- [ ] Whether Korfel is the buyer for [[Eidechse - Amanda Jeane|Dechs]]'s herbs. Draft ideas: [[The Myriad's Request]], [[Brainstorms about Dechs and the Herbs]]
+- [ ] Whether Korfel is the buyer for [[Eidechse - Amanda Jeane|Dechs]]'s herbs. Draft ideas: [[Brainstorms about Dechs and the Herbs]]. The older draft, The Myriad's Request, is archived
 - [ ] Whether the Rexxentrum job goes ahead. Decide before Rexxentrum
 
 ## Source

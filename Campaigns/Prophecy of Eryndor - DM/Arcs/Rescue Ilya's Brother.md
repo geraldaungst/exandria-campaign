@@ -17,7 +17,7 @@ tier: standard
 > - Status: Complete
 > - Key Players: [[Drawg Stormbrew - Brew|Drawg]], [[Varnes Dwell - DM|Varnes Dwell]], [[Ilya the Sorceress - DM|Ilya]], [[Lady Emer - DM]], [[Laucian Greycastle - Brent|Laucian]]
 > - Location: [[Cloudfang Keep - DM]]
-> - Last Session: [[Session 28 - Back at Harmony Hall]]
+> - Last Session: [[Session 35 - East from Cloudfang]]
 > - Outcome: Varnes freed and sent back toward Port Damali.
 
 ## Overview
@@ -38,18 +38,24 @@ tier: standard
 - What they know:
 	- Varnes is free and on his way home with Laucian.
 	- Varnes told them about the shard in the Archive.
+	- [[Archivist Ovedo]] told Varnes about the shard and paid him to keep quiet.
+	- [[Vaud Qalix - DM|Qalix]] learned that Varnes knew, and that is why he was taken.
 	- Emer is bound and swore revenge.
 - What they think they know:
 	- Varnes was held because of his connection to the Archive.
 - What they don't know:
-	- [[Archivist Ovedo]] paid Varnes for his silence.
-	- [[Vaud Qalix - DM|Qalix]] ordered his capture.
+	- How Qalix learned that Varnes knew.
 
 ## Aftermath
 
+Planned, not yet played.
+
 - Ilya casts Sending to tell the party that Varnes arrived safely. She offers them an item at cost.
 - Varnes offers the party a security assessment of [[Harmony Hall - DM|Harmony Hall]] at no charge.
-- How Varnes was restored is left unspecified.
+
+## Open Issues
+
+- How did Lady Emer restore Varnes from stone? She agreed to bring him back ([[Session 32 - Confronting Lady Emer|Sessions 32]] and [[Session 33 - What to Do with Lady Emer?|33]]) and the party freed him on 19 Thunsheer. The method, and any cost to Emer or Varnes, are not recorded.
 
 ## Connected Elements
 

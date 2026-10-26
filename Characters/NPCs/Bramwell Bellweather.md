@@ -15,7 +15,7 @@ tags:
 > - **Location:** [[White Peak Inn]], [[Deastok]]. A fixture there, usually near the fire
 > - **Occupation:** Collects odd reports for Erma Schnieb, a halfling mage in Uthodurn. Fieldwork out of habit, not investment
 > - **Goal:** Get through the work without grief from Erma. Not looking for a cause
-> - **Attitude toward party:** Mild, deflecting. Real interest only when they bring up the dreams, the dig, the tablet, or the five-cornered geometry
+> - **Attitude toward party:** Mild, deflecting. Real interest only when they bring up the dreams, the dig, or the five-walled hole
 > - **Key knowledge:** Erma's network of contacts across the continent; has visited the dig site himself; knows an old Ashari legend (Brynna relays this)
 
 ## Description & Roleplay
@@ -23,14 +23,14 @@ tags:
 Stout, formally dressed. Sits alone near the fire with a drink he hasn't touched in a while. Race and age are not set.
 
 - **Voice:** Weary, a little stuffy. Deflects, never lies: "I collect odd reports for someone. Tedious work. Pays reasonably."
-- **Mannerisms:** Grumbles to Torvald about correspondence: "Another letter, always wanting more, as if I've nothing better to do."
+- **Mannerisms:** Grumbles to [[Torvald Halsen|Torvald]] about correspondence: "Another letter, always wanting more, as if I've nothing better to do."
 - **Key traits:** Insight on him reads tiredness, not deceit. If pushed on who: "A researcher. Uthodurn, mostly. You wouldn't know her," said like he has said it many times.
 
 ## Current Situation
 
 - Met in [[Session 51 - Between a Rock and an Old Place]], talking with Jorun at the White Peak Inn. Dechs recognized the name.
-- [[Session 53]]: contact made, not followed up. Nothing on him in Session 54.
-- Open decision in [[Deastok Investigation]]: close the Bramwell epilogue there, or move it to a later arc.
+- [[Session 53]]: contact made in Session 51, not followed up.
+- The Deastok epilogue closes with [[Deastok Investigation]]. Any later contact runs from this note.
 - If never engaged, he stays a stuffy local and Erma's network stays dormant.
 
 > [!secret]- Hidden Information
@@ -45,7 +45,7 @@ Stout, formally dressed. Sits alone near the fire with a drink he hasn't touched
 > - **Opener:** "'Bramwell,' he offers, before anyone asks. He sets his drink down. 'You're the ones who've been asking questions all over town.'"
 > - **They know about the dreams:** "The sleeping trouble. Yes, I've heard. I collect these things, for someone else's benefit, not my own curiosity."
 > - **They know about the dig:** "Brynna mentioned the old stones past the estate, did she? I went and had a look myself. Didn't understand half of it."
-> - **They have the tablet, the sketch, or the geometry:** he leans in. "May I see that?" or "Describe it again. Slowly." First real interest he shows.
+> - **They have the sketch or the geometry:** he leans in. "May I see that?" or "Describe it again. Slowly." First real interest he shows.
 > - **Nothing has come up:** "And what brings you through Deastok?" is as far as he goes.
 
 > [!note]- Background

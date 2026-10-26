@@ -39,7 +39,7 @@ The question this thread is built on: when she meets her killer in his own terri
 ## Open Issues
 
 - [ ] What did Hesterian learn about [[Rylan Estevez]] at Harmony Hall? Confirm at the table, then add it to "They know". The release terms Korfel can offer are in [[Korfel's Next Moves#What he offers]].
-- [ ] Does Dechs's herb delivery become part of the Zadash arrival? ([[Eidechse - Amanda Jeane#Goals|Dechs's herb delivery]]; an older draft is in [[The Myriad's Request]].)
+- [ ] Does Dechs's herb delivery become part of the Zadash arrival? ([[Eidechse - Amanda Jeane#Goals|Dechs's herb delivery]]; an older draft, The Myriad's Request, is archived.)
 - [ ] When and how does the Stone of Memory's memory of Isolene Fenzana's workshop connect to Cree and Melthes?
 - [ ] Hesterian's player has not yet said how she wants to approach the Myriad now that the Gentleman will probably find her first.
 

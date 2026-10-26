@@ -10,23 +10,66 @@ threads:
 tier: standard
 ---
 
-## Deastok: The Waking Wound
-
-### Quick Reference
+## Quick Reference
 
 > [!info] Essential Details
 > - **Purpose:** Give Deastok real weight beyond a waystation stop. Advance Seraphina's dormant "what happened to my homeland" thread with real momentum (not resolution). Give the party a concrete, incomplete answer about what the shards are.
 > - **Spotlight:** **Seraphina is the center.** Qilynn has material available if she reaches for it, but she does not need a spotlight this arc.
 > - **Location:** [[Deastok]], Truscan Vale
-> - **Party:** Drawg, Hesterian, Qilynn, Seraphina, Dechs (background, DM-run—see aside below); ~level 8–9. Popcorn's player absent.
-> - **Time:** **One in-world day.** Arrive in the morning—control this on the road in. May take multiple sessions to play.
+> - **Party:** Drawg, Hesterian, Popcorn, Qilynn, Seraphina, Dechs; level 8.
+> - **Time:** **One in-world day**, 27 Thunsheer 835. Played in [[Session 50 - The Doctor, the Fruit, and the Dig Site|Session 50]] to [[Session 53]]; [[Session 54 - Deastok Conclusion]] closes it.
 > - **Structure:** Two branches (either order, split-party tolerant) → synthesis → optional epilogue. A hard deadline runs underneath both.
-> - **Not required:** Combat. This runs on investigation and social play unless the party creates a fight.
+> - **Combat:** Not required. The rock creatures at the site ([[Session 51 - Between a Rock and an Old Place|Session 51]]) were the one fight; the rest runs on investigation and social play.
 > - **Running it:** Theater of the mind, no battle maps. No official street-level map of Deastok exists; canon gives district names, not geography.
 
----
+## The Truth
 
-## Social Reference—DM
+> [!secret]- What is actually going on
+> - The [[Rupture of the Molaesmyr Fey Crossing|Molaesmyr cataclysm]] tore a passage into the Astral Sea. The Astral touches other locations obliquely, so the corruption's reach was never strictly geographic—it can surface anywhere with its own latent planar sensitivity, however faint.
+> - Deastok sits atop one such point: an old pre-Empire structure under farmland, recently uncovered by a survey crew, with a genuine but faint planar/Luxon-adjacent resonance. Dormant for centuries.
+> - **The dreams are not local in origin.** The thinning leaks Savalirwood imagery along the Astral. Deastok townspeople who have never left the Truscan Vale are dreaming a forest about 250 years and a continent away—*as it was*, not as it is now.
+> - The corruption has built for 250+ years, mostly sub-threshold. It is **only recently** crossing over—consistent with Erma Schnieb's discovery that rifts are growing larger and lasting longer. Nobody caused the acceleration. The wound is simply getting big enough to show.
+> - [[Vaud Qalix - DM]] is exploiting the trend, not causing it. [[Ceratos]] wants a way through and would speed the trend if it could, but lacks the leverage to do so directly—the party's interference has been working.
+> - **The party does not need to learn any of this explicitly.** They should leave with: (1) the dreams and the site are the same phenomenon, (2) it's old and larger than local legend, (3) the shards react to things that are not rifts, (4) Seraphina privately recognizes something personal in it. Full mechanism stays sealed.
+
+> [!secret]- What the dig site actually is (never stated to the party)
+> - A minor, long-forgotten **Ashari watch-post**—not one of the four major elemental rifts, but a secondary site monitoring a non-elemental (Astral/Far Realm-adjacent) thinning. The Ashari mandate does extend to occasional non-elemental planar incidents, which is why this existed at all.
+> - **Why abandoned:** when the celestial solstice forced the split into four dedicated tribes, each consolidated around its assigned elemental rift. This post fell under no tribe's mandate, had never produced anything alarming, and was left behind in the reorganization—not attacked, just deprioritized until nobody remembered it.
+> - **Connection to the Riftguard:** the (unintroduced) Ashari Riftguard formed later to address exactly the non-elemental problems the four-tribe system was never built for. This site is an ancestor of their mission. A thread to pay off whenever the party meets them. *(See Open Issues.)*
+> - **The physical signature:** impossible geometry. The structure reads as an ordinary squared shape at a glance. It has five walls, every one at a right angle. See Scene 2.
+
+> [!secret]- The dream timeline—get this straight before the table does
+> **Two stages, weeks apart. Don't collapse them.**
+> 1. **Weeks ago:** the crew breaks through to the stone. Town dreams begin—**vague.** Trees, being watched, a general wrongness. Nobody can describe much, and nobody makes much of it. Four or five of Wenna's patients over several weeks.
+> 2. **Two days ago:** Brynna fetches Jorun out to the site. He works a few hours, goes home sick, and dreams it that night—**specific.** Bark, leaves, the shape of the presence, the same every time.
+> 3. **Since:** crew idle, Jorun at home, Brynna waiting on him.
+>
+> **Jorun is the sharpest source because he was closest to it, not because he was first.** He's the newest dreamer and the worst-affected. That's the correlation Brynna half-notices and doesn't pursue.
+>
+> Seraphina's dream is stage-2 sharp—she's been carrying the shard toward this place for two nights.
+
+> [!secret]- Jorun Kettlewright—why him
+> - Jorun is Brynna's crew stonemason. He **went to the site**, worked a few hours, left sick, and has not been back. The dream started that night.
+> - **Why he was the only one affected is deliberately unanswered.** Available reads—closest to the center, there longest, touched the stone, nothing at all—are all fine and none is true. **Do not invent an explanation at the table.**
+> - He does not recover. Not today, not later. If the party ever passes back through Deastok, he still isn't sleeping right.
+
+### The clock
+
+> [!warning] The site is available for one day
+> Brynna Colefist's survey contract is overrun. She owes the estate a report at dawn on 28 Thunsheer, and she will not put her name on an anomaly she cannot explain. Her credibility is her product, and burying it is the only professional exit she can see. She is not panicking and she is not wrong.
+
+1. **27 Thunsheer, played ([[Session 50 - The Doctor, the Fruit, and the Dig Site|Session 50]] to [[Session 53]]).** The party found Jorun and the dreamers, got Aldous Penwrye's sealed permission, worked the site with Brynna, explored the hole, and reported the find to the Truscans.
+2. **Dawn, 28 Thunsheer.** Brynna's report is due. Aldous decides what to do about the site (see Open Issues).
+3. **If the party does nothing more:** the field goes back to planting once Aldous signs off, and the Loss State applies.
+
+**What the party can still do:** anything that gets the anomaly off Brynna's paperwork buys the site. Give her a nameable authority who is interested ([[Bramwell Bellweather|Bramwell]]'s researcher in Uthodurn), take the documentation onto themselves, buy delay from Aldous, or give her an explanation she can write down. **No obviously correct option; all have costs.**
+
+**If they let it go, it is genuinely gone.** See *Loss State*.
+
+> [!note] Nothing else is seeded today
+> Deastok's ordinary life—market, temple, checkpoint, [[Shaded Bough]]—runs underneath and does not move. This is deliberate, not an omission. The town is theirs to wander; **do not invent competing plot to fill the day.** An hour spent with a fruit vendor is a legitimate choice, and the clock should be knowable without being alarming so that it stays a choice.
+
+## Social Reference
 
 > [!info] No combat, no stat blocks. **Nobody in Deastok is lying.**
 > Zone of Truth accomplishes nothing here. Insight against Bramwell reveals tiredness, not deceit—"I collect odd reports for someone" is literally true. Brynna would admit she's burying the anomaly if asked directly; she thinks it's the correct professional call, and she's right.
@@ -45,79 +88,24 @@ tier: standard
 
 **Aldous specifically:** no delay without a reason he can write down. *With* a reason he can write down, near-automatic—it costs the estate nothing.
 
-> [!warning] Spell contingencies
-> - **Detect Magic**—a level 8–9 party will cast this within a minute of arriving at the site. Faint conjuration across the whole footprint, no localization, no stronger anywhere they can point to, unchanged on a repeat casting. Consistent with the shard's null Planar Awareness result: something is there, and nothing will name it.
-> - **Speak with Animals**—the cart horse and the farm dog already refuse the footprint. A legitimate door to the watching presence: an animal can report not wanting to be there without interpreting anything.
+> [!info] Detect Magic
+> **Detect Magic**—cast on the shard in [[Session 52 - A Very Vexing Hole and a Black Shard|Session 52]]: strong Divination and Abjuration from the shard itself, and nothing tied to the hole. Consistent with the shard's null Planar Awareness result: something is there, and nothing will name it.
 
-### Today's Clock
+### Dechs and Bramwell
 
-> [!warning] The site is available for one day
-> Brynna Colefist's survey contract is overrun. She owes the estate a report. She has decided to bury the anomaly rather than put her name on it, and **she is not waiting for the party's permission or participation.**
+Dechs recognized Bramwell in [[Session 51 - Between a Rock and an Old Place|Session 51]], possibly from a Kamordah winery. The Bellweather family detail is in [[Bramwell Bellweather]]. No decision required from the table.
 
-| When | What happens without the party |
-|---|---|
-| **Morning** | Crew idle at the site. Brynna has her slate (four redrawn sketches) and the tablet in her satchel. Aldous expects the report—unbothered, unhurried. Jorun at home, not working. Torvald worried about him. |
-| **Midday** | Brynna clears what little she can with a small crew and no reason to push. The full footprint is never exposed. |
-| **Afternoon** | She makes the call. The anomaly does not go in the report. |
-| **Dusk** | The crew backfills. Covering a shin-high footprint under loose topsoil is faster than uncovering it was. |
-| **Dawn** | Report filed: *old foundation, nothing structural, cleared.* Aldous accepts it without reading closely. Field scheduled for planting. |
-
-**Why she buries it (her reasoning, if the party gets her talking):** her credibility is her product. She cannot submit a slate showing a square with five corners—she'd be the surveyor who can't count. She cannot submit a corrected version, because the next crew would find the same thing. She cannot keep billing idle days on a fixed-price contract on Truscan land. Burying it is the only professional exit. She is not panicking and she is not wrong.
-
-**What the party can actually do about it:** anything that gets the anomaly off her paperwork buys the site. Give her a nameable authority who's interested ([[Bramwell Bellweather|Bramwell]]'s researcher in Uthodurn). Take the documentation onto themselves. Buy delay from Aldous. Give her an explanation she can write down. **No obviously correct option; all have costs.**
-
-**If they let it go, it is genuinely gone.** See *Loss State* at the end.
-
-> [!note] Nothing else is seeded today
-> Deastok's ordinary life—market, temple, checkpoint, [[Shaded Bough]]—runs underneath and does not move. This is deliberate, not an omission. The town is theirs to wander; **do not invent competing plot to fill the day.** An hour spent with a fruit vendor is a legitimate choice, and the clock should be knowable without being alarming so that it stays a choice.
-
----
-
-### The Truth (DM Only)
-
-> [!secret]- What is actually going on
-> - The [[Rupture of the Molaesmyr Fey Crossing|Molaesmyr cataclysm]] tore a passage into the Astral Sea. The Astral touches other locations obliquely, so the corruption's reach was never strictly geographic—it can surface anywhere with its own latent planar sensitivity, however faint.
-> - Deastok sits atop one such point: an old pre-Empire structure under farmland, recently uncovered by a survey crew, with a genuine but faint planar/Luxon-adjacent resonance. Dormant for centuries.
-> - **The dreams are not local in origin.** The thinning leaks Savalirwood imagery along the Astral. Deastok townspeople who have never left the Truscan Vale are dreaming a forest three hundred years and a continent away—*as it was*, not as it is now.
-> - The corruption has built for 250+ years, mostly sub-threshold. It is **only recently** crossing over—consistent with Erma Schnieb's discovery that rifts are growing larger and lasting longer. Nobody caused the acceleration. The wound is simply getting big enough to show.
-> - [[Vaud Qalix - DM]] is exploiting the trend, not causing it. [[Ceratos]] wants a way through and would speed the trend if it could, but lacks the leverage to do so directly—the party's interference has been working.
-> - **The party does not need to learn any of this explicitly.** They should leave with: (1) the dreams and the site are the same phenomenon, (2) it's old and larger than local legend, (3) the shards react to things that are not rifts, (4) Seraphina privately recognizes something personal in it. Full mechanism stays sealed.
-
-> [!secret]- What the dig site actually is (never stated to the party)
-> - A minor, long-forgotten **Ashari watch-post**—not one of the four major elemental rifts, but a secondary site monitoring a non-elemental (Astral/Far Realm-adjacent) thinning. The Ashari mandate does extend to occasional non-elemental planar incidents, which is why this existed at all.
-> - **Why abandoned:** when the celestial solstice forced the split into four dedicated tribes, each consolidated around its assigned elemental rift. This post fell under no tribe's mandate, had never produced anything alarming, and was left behind in the reorganization—not attacked, just deprioritized until nobody remembered it.
-> - **Connection to the Riftguard:** the (unintroduced) Ashari Riftguard formed later to address exactly the non-elemental problems the four-tribe system was never built for. This site is an ancestor of their mission. A thread to pay off whenever the party meets them. *(Possible conflict with existing Riftguard notes—resolve later, not urgent.)*
-> - **The physical signature:** impossible geometry. The structure reads as an ordinary square footprint at a glance and does not survive being counted. See Scene 2.
-
-> [!secret]- The dream timeline—get this straight before the table does
-> **Two stages, weeks apart. Don't collapse them.**
-> 1. **Weeks ago:** the crew breaks through to the stone. Town dreams begin—**vague.** Trees, being watched, a general wrongness. Nobody can describe much, and nobody makes much of it. Four or five of Wenna's patients over several weeks.
-> 2. **Two days ago:** Brynna fetches Jorun out to the site. He works a few hours, goes home sick, and dreams it that night—**specific.** Bark, leaves, the shape of the presence, the same every time.
-> 3. **Since:** crew idle, Jorun at home, Brynna waiting on him.
->
-> **Jorun is the sharpest source because he was closest to it, not because he was first.** He's the newest dreamer and the worst-affected. That's the correlation Brynna half-notices and doesn't pursue.
->
-> Seraphina's dream is stage-2 sharp—she's been carrying the shard toward this place for two nights.
-
-> [!secret]- Jorun Kettlewright—why him
-> - Jorun is Brynna's crew stonemason. He **went to the site**, worked a few hours, left sick, and has not been back. The dream started that night.
-> - **Why he was the only one affected is deliberately unanswered.** Available reads—closest to the center, there longest, touched the stone, nothing at all—are all fine and none is true. **Do not invent an explanation at the table.**
-> - He does not recover. Not today, not later. If the party ever passes back through Deastok, he still isn't sleeping right.
-
----
+## Scenes
 
 ### Scene 1—The Dreamers
 
 **Where:** [[Deastok|Bursar Plaza]], [[Deastok|Garden Grounds]], [[White Peak Inn]]
 
-**Who:** Dr. Wenna Alsott, Jorun Kettlewright, Torvald Halsen, general townsfolk
+**Who:** Dr. Wenna Alsott, Jorun Kettlewright, [[Torvald Halsen]], general townsfolk
 
 **Goal:** Fact 1 (the dreams are shared and specific), Seraphina's recognition, and a live hook toward Scene 2.
 
 #### The dream on the road (before Deastok)
-
-> [!warning] Text Vicki before the session
-> This assigns Seraphina an experience she didn't choose. Tell her it's coming so she can decide what Seraphina does with it, rather than improvising cold in the middle of a market scene. You're not asking permission for the dream—you're giving her room to prepare.
 
 Fern undergrowth, big oak trees. Sun streaming through, babbling brook. Quiet glen away from the city, solitude, connecting with the animals. Foxes, otters. Patron would come to visit. Clean running streams. Very green. Moss on the rocks, skipping through the pathway to the glen with a waterfall, twilight with a sprinkle of fireflies.
 
@@ -148,6 +136,10 @@ The beat is not "do you recognize these trees." It's **a stranger who has never 
 - [ ] This is falsifiable, which is what makes it a real clue: the party can ask a second dreamer and check whether the details match. They do.
 - [ ] **Seraphina needs no roll and no prompt.** She already knows. What she does with that is Vicki's call—including saying nothing.
 - [ ] **The dream must not be exclusive to her.** She is dreaming *the same dream as the townspeople.* If it's hers alone it stops being a phenomenon.
+
+> [!note] As played ([[Session 50 - The Doctor, the Fruit, and the Dig Site|Session 50]])
+> - The stall owner is terrified; the dream is exactly hers. She named Bella as another dreamer in town (Bella has no other role).
+> - The owner had already been given a sedative to keep her from dreaming. Drawg sold fruit at the stall while she talked with Seraphina.
 
 #### Alternate openings (if the fruit stall doesn't land)
 
@@ -180,6 +172,9 @@ The comb delivery is happening regardless. This is what it buys.
 - [ ] Nobody is physically harmed—poor sleep, irritability, nothing worse. She's puzzled, not alarmed.
 - [x] No common cause she can find. Different ages, different districts, no shared meal, water, or event.
 - [x] **(Referral)** "You should talk to Jorun, down in the Garden Grounds. He described it more exactly than the others. And he's taken it harder."
+
+> [!note] As played ([[Session 50 - The Doctor, the Fruit, and the Dig Site|Session 50]])
+> The party visited together. Seraphina posed as Popcorn's mother and Popcorn feigned nightmares. The ruse did not fool her. Seraphina described her own woods, and Wenna sent them to Jorun. Wenna supplied the sedative.
 
 **If pushed:**
 
@@ -222,29 +217,17 @@ The comb delivery is happening regardless. This is what it buys.
 > [!info] Taking him back to the site—a real decision
 > He's the best available read on that stone, and going there is what made him sick. **If he agrees, that's him choosing something.** If he refuses, that's an honest obstacle worth working on. Either way this is the arc's first social encounter with something at stake—don't smooth it over. He does not want to go. He can be persuaded. Adjudicate on how the party actually treats him, not on a DC.
 
----
-
 ### Scene 2—The Site
 
 **Where:** Truscan farmland northeast of town
 
-**Who:** Surveyor Brynna Colefist and her crew
+**Who:** Surveyor Brynna Colefist (a dwarf) and her crew; Aldous Penwrye for permission
 
 **Goal:** Fact 2 (the site is old, non-local, wrong), the shard reaction, the impossible geometry, Seraphina's beat.
 
-#### Two routes, two different payoffs
+#### Route (as played)
 
-> [!warning] Neither route gets both. This is the trade.
-> **Official—chit from Aldous at the Truscan Estate.** Gets them **Brynna**: her expertise, the tablet, why work stopped, and her crew's shovels. Costs a cross-town round trip against a one-day clock.
->
-> **Unofficial—over the fence.** Gets them **the already-exposed stone**: carvings, tool marks, the watching-figure motif. Enough for Fact 2 and a Fact 3 door. Does **not** get Brynna—the estate has warned her about entertaining sightseers, and she won't talk on the land. **If they're seen, the blame lands on her**, not on them.
->
-> **What the fence-hop cannot reach: the corner.** Exposing the full footprint takes hours of visible digging in an open field—impossible to do covertly and impossible to do without a crew. **No clearing, no fifth corner, no geometry prompt for Seraphina.** That's the real cost of the fast route, and the party won't know they paid it.
->
-> Brynna is not obstructive and she isn't hiding anything. She's a professional under warning on a contract she's already overrun.
-
-> [!info] Where to find Brynna off the land
-> She drinks at the [[White Peak Inn]] in the evening—Jorun's local, and hers. **The inn is the convergence point:** Torvald, Bramwell, Brynna, and news of Jorun are all in the same room after dark. A party that hopped the fence at midday can still get everything she knows over a drink; what they can't get back is the daylight to clear the field.
+The party took the official route: sealed, signed permission from Aldous Penwrye at the Truscan Estate, handed to Brynna at the site.
 
 #### Required first step (official route): the Truscan Estate
 
@@ -256,8 +239,8 @@ The comb delivery is happening regardless. This is what it buys.
 - [x] Asks their business. A simple statement of intent is sufficient.
 - [x] Produces far more forms than the request warrants. Takes longer than it should. If asked why: a brief stare, then **"You must be new to the Empire."** No further explanation.
 - [x] Notes names and purpose in the ledger, already halfway to the next thought.
-- [x] Hands over a signed chit, practically an afterthought.
-- [ ] **The deadline lands here.** Mentioned in passing, not as a warning: Colefist's report is overdue, he expects it in the morning, and the field is going under the plow after that. He is entirely unbothered about it, which is exactly what makes it real.
+- [x] Hands over sealed, signed permission for Brynna, practically an afterthought.
+- [x] **The deadline lands here.** Mentioned in passing, not as a warning: Colefist's report is overdue, he expects it in the morning, and the field is going under the plow after that. He is entirely unbothered about it, which is exactly what makes it real.
 - [ ] **This is a lever.** If the party later wants the site preserved, Aldous can extend the deadline—for a reason he can write down, a name he recognizes, or something that costs the estate nothing. He does not care about the anomaly. He cares about the paperwork being clean.
 - [ ] **Optional:** "Half of Deastok's been curious about that hole in the ground."
 - [ ] **(Bramwell thread)** If they haven't met him, he can be here—another visitor in the same tedious line, having heard about the dig from Brynna. No conversation needed; a passing acknowledgment plants his face.
@@ -272,24 +255,18 @@ The comb delivery is happening regardless. This is what it buys.
 
 **Site notes:**
 
-- [ ] **Surface clearing, not excavation.** Buried under generations of topsoil and cultivation. No pit, no shoring, nothing hidden deep. This is a **footprint**, not a chamber—there is nothing to enter.
+- [x] Windmills stand around the site.
 - [ ] The crew has been idle two days. Cards, mended tools, a job on pause.
-- [ ] What's exposed is a fraction of the whole—enough to see it's deliberate and old, not enough to make out the shape.
+- [x] Below the exposed stone is a hole with a 30-foot drop. See *The hole*.
 
 #### The watching presence—at the site
 
 > [!warning] Nothing watches back
 > The presence lives in the dreams and in the stone. **It is not present in the field.** Making it present turns an investigation into a haunting and promises a confrontation this arc cannot pay off.
 
-**Behavioral (fires for everyone, no roll, either route):**
-
-- [ ] The crew has drifted to working with their backs to the outside edge rather than the center. None of them noticed doing it, and none of them can say why when asked.
-- [ ] The cart horse won't be picketed inside the cleared ground. It's been moved twice.
-- [ ] A farm dog crosses the whole field and not the footprint.
-
 **Documentary:**
 
-- [ ] Carvings on the exposed stone—and the same motif on the tablet—show a figure among trees. Standing at a distance. Facing out.
+- [ ] Carvings on the exposed stone show a figure among trees. Standing at a distance. Facing out.
 - [ ] **This is the Fact 3 door that doesn't depend on Seraphina's answer.** Nobody has to interpret it. Both the dreams and the stone are about being watched by something old that never approaches.
 
 #### Surveyor Brynna Colefist
@@ -297,15 +274,15 @@ The comb delivery is happening regardless. This is what it buys.
 > [!quote]- Boxed text: introducing Brynna
 > "A dwarven woman, sleeves rolled to the elbow, holds a slate covered in measurements crossed out and rewritten. She straightens up when they get close and waits."
 
+> [!note] As played ([[Session 51 - Between a Rock and an Old Place|Session 51]])
+> Brynna is a dwarf. She carried a slate covered in scribbled letters and numbers and asked the party what was going on. She said tourists come by all the time, and she did not mention being affected by the site.
+
 **Facts Brynna can share:**
 
 - [ ] Precise, geometric, deliberately built—not a natural formation or a simple foundation.
-- [ ] Masonry style and tool marks match nothing she recognizes from Deastok or the Empire.
 - [ ] Professional estimate: predates any standing structure in Deastok, possibly by centuries.
 - [ ] **Why work stopped:** she brought Jorun out to look at it properly. He worked a few hours and left sick, and hasn't been back. She's held off rather than push ahead without him. **She thinks he caught something.** She does not connect it to anything.
 - [ ] **(Fact 3 door)** If asked about timing: "The sleeping trouble started around when we broke through—weeks back, and nobody made much of it. Jorun's the exception. He came out two days ago, went home sick, and now he's got it worse than the lot of them put together. Might be nothing."
-- [ ] **The tease, if she's refusing to talk on the land:** she mentions the tablet, catches herself, and closes the door—*"Doesn't matter anyway. Whole thing's going back under in the morning."* Gives them a specific thing to want and a specific reason to hurry, without her breaking her warning.
-- [ ] **The tablet itself:** carved stone, script none of the crew recognizes. She took it to a Bursar Plaza merchant who guessed pre-Calamity. Hand it over if they ask or show real interest.
 - [ ] **(Payoff—after Seraphina shares her detail)** Relayed, not her own knowledge: *"We couldn't make sense of it either. [[Bramwell Bellweather|Bramwell]] was telling me about some old Ashari legend just last week…"* A clean trigger straight to him if they haven't met.
 
 **If pushed:**
@@ -326,59 +303,30 @@ The comb delivery is happening regardless. This is what it buys.
 
 **Reachable without the shard:** Qilynn working the exposed stonework, Brynna's own professional itch about an incomplete floor plan, or Jorun brought out to look. **The artifacts are the fastest door, not the only one.**
 
-#### Clearing past the exposed stone
+> [!note] As played
+> - [[Session 51 - Between a Rock and an Old Place|Session 51]]: the cloth-wrapped shard warmed at the site, and Dechs judged the site one of the oldest things she has seen.
+> - [[Session 52 - A Very Vexing Hole and a Black Shard|Session 52]]: Detect Magic on the shard read strong Divination and Abjuration. Identify named it a fragment of the Lorestone of Eryndor ([[Shard 6 - Marquet Shard|Shard 6]]), and Seraphina read its verse. The party linked it to the clay fragment's prophecy text.
 
-> [!quote]- Boxed text: after the additional clearing
-> "Shovels take the topsoil off in wide, shallow bites. Below it the field gives up more of the same stone—a second wall running out from the first at a right angle, then a third, each course laid tight enough that the seams take a fingernail to find. Dirt sits in the joints and nowhere else. By the time the crew stops, the cleared ground shows a closed shape of low walls, none of them standing higher than mid-shin, the whole of it laid out flat in the field like the print of a building pressed into the dirt."
+#### The rock creatures (as played, Session 51)
 
-**Running notes:**
+Rock creatures attacked the party at the site. They roll into one another and merge into larger creatures.
 
-- [ ] **Give them the full outline before anyone starts counting.** The discrepancy should be found, not announced.
-- [ ] Brynna works alongside them, slate in hand, sketching as the walls come up. She revises the sketch twice without comment.
-- [ ] Asking her crew to do the clearing costs the party nothing but an afternoon and gets her stalled job moving—a reason for her to say yes.
+#### The hole (as played, Session 52)
 
-#### The corner
-
-> [!quote]- Boxed text: walking the perimeter
-> "Brynna paces the outside of the shape, heel to toe, counting under her breath. At the fourth corner she stops, looks at her slate, and walks it again from the same starting point. The second time she stops at a corner she has already marked with a stone chip. There is another corner ahead of her."
-
-> [!warning] Sequencing—Brynna's pacing is the FALLBACK
-> **Let the party walk it first.** Describe each wall in turn as they move along it and let the count come out wrong on its own. Only run Brynna's beat if they don't pace it themselves—otherwise she finds it first and the party's count becomes confirmation instead of discovery.
-
-**Running notes:**
-
-- [ ] Don't correct them and don't roll for it.
-- [ ] **The shape is a square. There are five corners.** Brynna's slate shows five corners on a shape she keeps drawing as a square. She has redrawn it four times and will show anyone who asks.
-- [ ] The extra corner does not appear or disappear. It is there every time, in the same place, and pacing it produces the same result.
-- [ ] Investigation or Perception gets them there faster or explains the masonry. **It does not gate the discovery.**
-- [ ] If nobody catches it at all, that's a legitimate outcome—but a small nudge is fine if the table has stalled out. Have Brynna's slate be visible, or describe the walls one more time as someone crosses them. Don't say "that's odd."
-- [ ] **If the corner is never found, Seraphina's geometry prompt simply never fires.** That's an acceptable outcome, not a hole. Her recognition already landed at the fruit stall, and Jorun's sketch leaves town in someone's pack.
-
-> [!warning] Helping her dig makes it worse for her
-> If the party gets the crew clearing and the fifth corner comes up, **Brynna's problem is now larger, not smaller.** She has an anomaly with witnesses, on the last day of an overrun contract, with a report due at dawn.
->
-> Don't play this as goodwill earned. Helping her dig makes her *more* determined to bury it—the only thing that changes her mind is solving the paperwork (a nameable authority, documentation the party takes on themselves, or delay bought from Aldous). A party that digs enthusiastically and does nothing about the report has actively made the loss more certain.
-
-**Other approaches, layer freely:**
-
-- [ ] **Tool marks and construction style:** non-local, pre-Empire, unlike Empire or elven work. Genuinely unfamiliar craftsmanship.
-- [ ] **The tablet:** script resembles nothing modern; the carvings on the stone share stylistic elements with it.
-- [ ] **Failure state:** a poor roll doesn't dead-end anything. Reveal something true but incomplete—confirms age, not origin—and let them press.
+- A hole with a 30-foot drop lies past the exposed stone.
+- It has five walls, and every wall meets the next at a right angle. The party judged it likely pre-Calamity.
+- This is the impossible geometry: a five-sided shape with nothing but right angles. Nobody explained it, and nobody needs to.
+- The party kept investigating after the shard reading.
 
 #### Seraphina's beat
 
-> [!quote] The prompt (once the count fails)
+> [!quote] The prompt (once the five walls are found)
 > *"You've seen a space like this before. Tell us where it was and how you came across it."*
 
 - [x] Let her define the location and circumstance. It doesn't need to match this footprint's configuration—**the impossible geometry is the throughline, not a floor plan.** The room behind the waterfall in the grotto where she used to meet with Elowyn.
 - [ ] Whatever she supplies becomes real, reusable canon. The same signature can recur anywhere Far Realm/Astral corruption touches physical construction.
-- [ ] **If her answer lands near the Savalirwood,** the chain closes on its own: dreams → Savalirwood → site. Don't close it for her.
+- [x] **If her answer lands near the Savalirwood,** the chain closes on its own: dreams → Savalirwood → site. Don't close it for her.
 - [ ] **If it lands somewhere unrelated,** that's fine—Fact 3 still has the watching presence. Don't steer her.
-
-> [!info] Fallback if Vicki blanks
-> Don't wait her out and don't supply an answer. Drop it, move on, and offer it again later in a quieter moment—the inn that evening, or on the road out. The prompt keeps indefinitely. If it never lands, the arc still works: she has the dream, the fruit stall, and Jorun's sketch, and none of those require her to produce anything on demand.
-
----
 
 ### Scene 3—Synthesis
 
@@ -386,8 +334,7 @@ The comb delivery is happening regardless. This is what it buys.
 
 **Goal:** let them connect what they have, without you stating it.
 
-> [!quote]- Boxed text: framing (adapt to what they actually have)
-> "A dreamer's account, and a sketch of trees. A surveyor's slate with a square drawn four times, five corners each. A tablet none of them can read."
+> "A dreamer's account of trees no one here has seen. A hole thirty feet deep, five walls, every corner a right angle. A black shard that warms beside it, and a verse that matches the clay fragment."
 
 **Facilitation:**
 
@@ -401,47 +348,10 @@ The comb delivery is happening regardless. This is what it buys.
 > [!info] Optional closing beat
 > If a PC has stood inside the footprint, they can dream it that night. Same wrong trees, same watching thing. It doesn't need to be actionable—it's a closing image, not a hook.
 
----
-
-### Loss State
-
-If the party never engages, or engages and does nothing about the deadline:
-
-- The stones are buried. **The resonance is not.** Backfilling hides masonry; it doesn't touch a planar thinning.
-- **A shard carried past that field still goes warm**—over planted wheat, on land the party has no standing to dig, with a filed report that says nothing was there.
-- Brynna leaves for her next contract. The crew disperses.
-- **Jorun never gets better.**
-
-Nobody tells them they missed anything. The world just keeps quietly pointing at it.
-
----
-
-### Fact Map
-
-> [!info] Three facts, each with independent doors of different types
-
-**Fact 1—the dreams are shared, specific, and not local.**
-
-- [x] Seraphina's own dream on the road *(direct experience—fires with no party action)*
-- [x] The fruit stall stranger *(testimony)*
-- [x] Wenna's clinical account *(testimony, aggregated)*
-- [ ] **Jorun's sketch of the trees** *(physical, portable, survives a bad conversation)*
-
-**Fact 2—the site is old, non-local, and wrong.**
-
-- [ ] Brynna's professional assessment *(testimony—official route only)*
-- [ ] **Jorun's firsthand read on the masonry** *(testimony—reachable via Torvald regardless of route)*
-- [x] Direct physical investigation and the perimeter count *(physical—either route)*
-
-**Fact 3—the dreams and the site are the same phenomenon.**
-
-- [x] **The watching presence**—in the dreams, and carved into the stone and the tablet *(documentary; requires no interpretation, works on either route)*
-- [x] **Jorun**—the man who went to the site is the worst-affected dreamer *(testimony; via Brynna or Jorun himself)*
-- [ ] Seraphina's geometry recognition, if her answer lands near the Savalirwood *(player-generated; may not fire)*
-
-**Partial success is legitimate.** Facts 1 and 2 without 3 means two eerie unresolved threads and no confirmed link. That's fine, not a failure to route around.
-
----
+> [!note] As played ([[Session 53]])
+> - Seraphina learned the prophecy's common wording is widely known, but the High Elven text on the shard does not match what she remembers from childhood.
+> - The party reported the find to the Truscans, framed as beneficial. Hesterian named [[Celunor's Collection - DM|Celunor]] as a scholar interested in the site, and Drawg raised the [[Cerberus Assembly - DM|Cerberus Assembly]] as a threat. The Truscans paid 50 pp in gratitude, split among the party.
+> - The site's fate stays with the Truscans. Aldous decides in the morning.
 
 ### Epilogue Thread—Bramwell
 
@@ -456,6 +366,8 @@ Nobody tells them they missed anything. The world just keeps quietly pointing at
 - **The pivot:** if he learns Seraphina was alive at the time of the original cataclysm, it recalibrates him—not warmth, a jolt of *maybe Erma's been right all along.* This is when he might genuinely suggest they meet her.
 - **Do not force the reveal.** If it never comes up, he stays a stuffy background local and the network stays dormant.
 - **Long fuse (not this arc):** his fading investment makes him a plausible future defection risk. Careless, he could be the leak that exposes Erma's research to Qalix's network.
+- **As played:** met in [[Session 51 - Between a Rock and an Old Place|Session 51]], talking with Jorun at the White Peak Inn; Dechs recognized him. Contact made and not followed up through [[Session 53]].
+- **This thread closes with the arc.** Any later contact runs from [[Bramwell Bellweather]].
 
 > [!quote]- Boxed text: the first real conversation
 > "'Bramwell,' he offers, before anyone asks. He sets his drink down. 'You're the ones who've been asking questions all over town.'"
@@ -464,28 +376,44 @@ Nobody tells them they missed anything. The world just keeps quietly pointing at
 
 - [ ] **If they know about the dreams:** "The sleeping trouble. Yes, I've heard. I collect these things—for someone else's benefit, not my own curiosity."
 - [ ] **If they know about the dig:** "Brynna mentioned the old stones past the estate, did she? I went and had a look myself. Didn't understand half of it."
-- [ ] **If they have the tablet, the sketch, or a description of the geometry:** he leans in—*"May I see that?"* or *"Describe it again. Slowly."* First real interest he's shown.
+- [ ] **If they have the sketch or a description of the geometry:** he leans in—*"May I see that?"* or *"Describe it again. Slowly."* First real interest he's shown.
 - [ ] **If neither has come up:** a mild "And what brings you through Deastok?" is as far as he goes.
 - [ ] **General texture:** "I collect odd reports for someone. Tedious work. Pays reasonably."
 - [ ] **If pushed on who:** "A researcher. Uthodurn, mostly. You wouldn't know her." Said like he's said it many times. *(This is Erma Schnieb; [[Cairel Ulthe]] is the other end of that research—an elven druid whose parents fled Molaesmyr, hunting the curse's origin. Neither name is offered here.)*
 
 **Note:** none of this runs in order. Repeat incremental conversations are fine.
 
----
+## Fact Map
 
-### Background Texture—Dechs's Kamordah Aside
+> [!info] Three facts, each with independent doors of different types
 
-> [!note] Low-cost, no spotlight
-> Dechs is present but inactive—her player is absent, so run her as background. After the party crosses paths with Bramwell, she can mention offhand that she recognizes the Bellweather name: a vineyard family back in Kamordah, known at a distance, no personal dealings. A dry aside at most—they paid tradespeople late, or she simply hasn't thought of them in years. No decision required from the table. Pure color.
+**Fact 1—the dreams are shared, specific, and not local.**
 
----
+- [x] Seraphina's own dream on the road *(direct experience—fires with no party action)*
+- [x] The fruit stall stranger *(testimony)*
+- [x] Wenna's clinical account *(testimony, aggregated)*
+- [ ] **Jorun's sketch of the trees** *(physical, portable; described to the party, not seen)*
 
-### Locations
+**Fact 2—the site is old, non-local, and wrong.**
+
+- [ ] Brynna's professional assessment *(testimony—official route only)*
+- [ ] **Jorun's firsthand read on the masonry** *(testimony—reachable via Torvald regardless of route)*
+- [x] Direct physical investigation of the hole and its five right-angled walls *(physical)*
+
+**Fact 3—the dreams and the site are the same phenomenon.**
+
+- [x] **The watching presence**—in the dreams, and carved into the stone *(documentary; requires no interpretation)*
+- [x] **Jorun**—the man who went to the site is the worst-affected dreamer *(testimony; via Brynna or Jorun himself)*
+- [x] Seraphina's geometry recognition, if her answer lands near the Savalirwood *(player-generated; fired: her answer pointed to the Savalirwood)*
+
+**Partial success is legitimate.** Facts 1 and 2 without 3 means two eerie unresolved threads and no confirmed link. That's fine, not a failure to route around.
+
+## Locations
 
 > [!info] Extraction note
 > Each subsection is written to become its own standalone note later. Wikilinks are used as if already split out—no link updates needed on extraction.
 
-#### [[Deastok]]
+### [[Deastok]]
 
 City in the Truscan Vale, Dwendalian Empire. Sister city to [[Kamordah]]. Sits on a hill bordering the Cyrengreen Forest, surrounded by fenced, segmented farmland. Population ~10,090 (60% human, 26% dwarf, 10% halfling, 4% other). Nominally led by Starosta Deter McGinneas; real power rests with the Truscan family. Single official temple, dedicated to Bahamut. Comfortable, affluent, quietly confident rather than showy.
 
@@ -503,7 +431,7 @@ City in the Truscan Vale, Dwendalian Empire. Sister city to [[Kamordah]]. Sits o
 >
 > **This is the party's first exposure to an Empire-wide routine, not a Deastok quirk.** Establish it clearly here; it recurs without re-explanation.
 
-#### [[Deastok|Jeweled Gates]]—arrival
+### [[Deastok|Jeweled Gates]]—arrival
 
 > [!quote]- Boxed text: approaching the town
 > "The road climbs a last low rise, and the watchtower comes up first—a lone stone finger against the sky, a thin curl of smoke rising from a brazier at its top. Only as the road bends does the rest of the town appear below it: rooftops, smoke from a hundred chimneys, the glint of a distant fountain, and beyond the far edge of the fields, the dark line of the forest."
@@ -535,21 +463,21 @@ City in the Truscan Vale, Dwendalian Empire. Sister city to [[Kamordah]]. Sits o
 - [ ] [[Deastok|Crownsguard Barracks]]—present, one building among several, not the focal point.
 - [ ] **The statue**—the plaza's centerpiece.
 
-##### The statue—Bahamut and Emperor Dwendal
+#### The statue—Bahamut and Emperor Dwendal
 
 Stone, weathered but well-kept. Gilded accents rather than full paint: gold leaf on the Emperor's regalia and crown, platinum on Bahamut's armor and draconic motifs. Bahamut in his paladin-warrior guise, arm-in-arm with a rendered Emperor Dwendal. Small gold-leafed canaries in flight around the pair.
 
 > [!quote]- Boxed text: the statue
 > "Two figures rise from the plaza's center in weathered stone, gilded where the light catches them—a towering armored form, wings folded, the Platinum Dragon shaped as a warrior, one gauntleted hand resting on the shoulder of a crowned man half his height. Small gold birds circle the pair in flight, one settled on the dragon's pauldron."
 
-#### The Bahamut Temple
+### The Bahamut Temple
 
 The temple keeps the Empire at its threshold, not its heart. A small foyer nods to civic piety; past it, the sanctuary belongs entirely to the Platinum Dragon.
 
 > [!quote]- Boxed text: entering the sanctuary
 > "A carved relief in the foyer gives thanks for the Emperor's blessing over the city. Beyond the inner archway, platinum light falls through high windows onto a wide, quiet sanctuary. Frescoes wrap the walls in unbroken procession—dragons in flight, in battle, in council, no two alike. Gold scales catch the light again and again, but not only gold: a hammered bronze form grapples something clawed and shadowed near the eastern wall; a curl of silver watches over a council of mortals from the shadow of a painted mountain; brass wings spread wide above a battlefield strewn with banners; a deep warm copper shape rests coiled around a sleeping village."
 
-#### [[Deastok|Bursar Plaza]]
+### [[Deastok|Bursar Plaza]]
 
 Central market and gathering space. The town's original core, gentrified into a countryside-getaway image for tourists and merchants. Dr. Wenna Alsott's practice is here. [[Shaded Bough]] sits on or just off the plaza.
 
@@ -565,11 +493,11 @@ Central market and gathering space. The town's original core, gentrified into a 
 - [ ] [[Shaded Bough]] visible if useful.
 - [ ] **The fruit-stall hook lands here.** See Scene 1.
 
-#### [[Deastok|Garden Grounds]]
+### [[Deastok|Garden Grounds]]
 
 Old-money residential, parks, red-roofed on the working map. Deastok's genuine affluent locals—the quiet unperforming wealth the [[Shaded Bough]]'s tourist crowd assumes it has found. Jorun's house is here.
 
-#### [[White Peak Inn]]
+### [[White Peak Inn]]
 
 Torvald's inn, in [[Deastok|Garden Grounds]] among the old-money residents it actually serves. A small sign on the door, no advertising. Known by the people who already know it's there. Torvald is Henrik Halsen's brother—Henrik being Marta's husband—which is why the comb went to him directly. [[Bramwell Bellweather]] is a known fixture.
 
@@ -591,45 +519,62 @@ Torvald's inn, in [[Deastok|Garden Grounds]] among the old-money residents it ac
 - [ ] Already in the room description—the stout, formally dressed man near the fire. No separate introduction. If asked about him: "Bramwell? Fixture, that one. Kamordah family, or was. Harmless."
 - [ ] **(Optional)** He can be overheard grumbling to Torvald about correspondence—"another letter, always wanting more, as if I've nothing better to do"—establishing a tedious obligation with zero specifics.
 
-#### [[Shaded Bough]]
+### [[Shaded Bough]]
 
 The flashy tourist-facing inn, on or just off [[Deastok|Bursar Plaza]] for maximum visibility. Real Deastok gentry avoid it.
 
 > [!quote]- Boxed text: passing or entering
 > "A carved wooden sign in gilt lettering swings above the door: THE SHADED BOUGH—DEASTOK'S FINEST. A doorman in a crisp green coat greets everyone who approaches as 'my lord' or 'my lady' without asking. Inside, the common room is exposed beam and hanging lantern, a lute playing somewhere, every table full."
 
-#### The Dig Site
+### The Dig Site
 
-Truscan-owned farmland northeast of town, a short walk or ride past the [[Deastok|Jeweled Gates]] checkpoint. See Scene 2. **Unnamed—name it only if it recurs.** No second Truscan household near it; simply Truscan fields, unconnected to any manor building.
+Truscan-owned farmland northeast of town, a short walk or ride past the [[Deastok|Jeweled Gates]] checkpoint. Windmills stand around it, and a hole with a 30-foot drop lies past the exposed stone. See Scene 2. **Unnamed—name it only if it recurs.** No second Truscan household near it; simply Truscan fields, unconnected to any manor building.
 
-#### Truscan Estate (Manor)
+### Truscan Estate (Manor)
 
 The large walled estate in the southwest near the forest edge—the actual seat of the Truscan family, separate from the northeastern dig site. See Scene 2 for Aldous Penwrye and the permission scene.
 
+## Loss State
+
+If the party never engages, or engages and does nothing about the deadline:
+
+- The stones are buried. **The resonance is not.** Backfilling hides masonry; it doesn't touch a planar thinning.
+- **A shard carried past that field still goes warm**—over planted wheat, on land the party has no standing to dig, with a filed report that says nothing was there.
+- Brynna leaves for her next contract. The crew disperses.
+- **Jorun never gets better.**
+
+Nobody tells them they missed anything. The world just keeps quietly pointing at it.
+
+## Loose Threads
+
+- Jorun does not recover. If the party passes back through Deastok, he still isn't sleeping right.
+- Bramwell's contact stays dormant unless the party engages: Erma Schnieb's network, and the long-fuse defection risk ([[Bramwell Bellweather]]).
+- Bella, the stall owner and Wenna's other patients keep dreaming, and nobody explains it to them.
+- The High Elven wording of the shard's verse does not match what Seraphina remembers from childhood. Nothing explains the difference yet.
+
 ---
 
-### Play History
+## Play History
 
 ```datacorejsx
 const { ArcHistory } = await dc.require(dc.headerLink("00 DM Screen/Code/Arc and Session Views.md", "Code"));
 return ArcHistory;
 ```
 
-### Paused and Abandoned Arcs
+## Paused and Abandoned Arcs
 
 ```datacorejsx
 const { RelatedArcs } = await dc.require(dc.headerLink("00 DM Screen/Code/Arc and Session Views.md", "Code"));
 return RelatedArcs;
 ```
 
-### Design To-Dos
+## Open Issues
 
-- [ ] Decide whether the Bramwell epilogue closes here or moves to a later arc (party met him at the White Peak Inn in Session 51; no follow-up yet)
-- [ ] Record the as-played version of the dig site where it differs from Scene 2
-- [ ] Resolve the possible conflict with existing Ashari Riftguard notes (flagged in The Truth)
+- What does Aldous Penwrye decide on the morning of 28 Thunsheer: keep the site, backfill it, or hand it to a scholar?
+- Is the watch-post an ancestor of the [[Ashari Riftguard]] mission? The Truth says yes, and the existing Riftguard notes may conflict.
+- Where does the Astral passage lead, and can the party find a route to it? [[Understanding the Rifts]] carries the same question.
+- What do the Truscans do with the two names the party gave them: [[Celunor's Collection - DM|Celunor]] and the [[Cerberus Assembly - DM|Cerberus Assembly]]?
 
----
-
-### Connected Elements
+## Connected Elements
 
 ![[Related Notes.base]]

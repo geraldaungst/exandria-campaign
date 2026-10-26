@@ -17,7 +17,7 @@ Conventions this module relies on:
   `- **3 Unndilar 835** · A1 · What happened. · trigger · [[Session 56]]`
   Fields are separated by ` · `: the date label in bold, the entry code, then free text (any number of fields, shown as written). Entry codes: a stage code (the track reached that stage), `phase <name>` (the campaign phase changed), `risk <level>` (the risk changed), `note`. The label is free text, so undated lines (`**Before the campaign**`) work. A description wrapped in a Calendarium span shows on the calendar if the note is tagged `inline-events`.
 - **Current state.** Each track's stage is its last stage line; a track with none has not started. Phase and risk are the last `phase` and `risk` lines.
-- **Open questions** (`##` heading `heading_track_questions`): tasks; unticked means open.
+- **Open Issues** (`##` heading `heading_track_questions`): tasks; unticked means open.
 - **Knowledge note** (optional, named by the `knows` prop): `##` headings are topics; a bullet starting with a requirement and ` · ` is a fact: `- baseline · text`, `- A3 · text`, or several stages joined with `+` (`- A3+B3 · text`), all of which must be reached. Other bullets and prose are ignored, so DM notes can sit beside the facts. A fact is **now** when all its requirements are met, **next** when one more stage on a track would unlock it, and **later** otherwise.
 - **Detail panel.** "More" on a track card opens its current and next stage cards in full and that track's History lines; a topic in the knowledge strip lists its facts. One panel at a time.
 - Lines that don't match these shapes are listed under the hub, so a broken edit shows instead of disappearing.

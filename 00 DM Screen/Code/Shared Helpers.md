@@ -72,7 +72,7 @@ const CONFIG_DEFAULTS = {
   heading_piece_rulings: "Properties and rulings",
   heading_piece_notes: "Notes",
   heading_track_history: "History",
-  heading_track_questions: "Open questions",
+  heading_track_questions: "Open Issues",
   calendar_category_pieces: "Lorestone",
   template_session: "Session Template",
   status_running: "running",

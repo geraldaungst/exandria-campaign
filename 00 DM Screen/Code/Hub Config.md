@@ -29,7 +29,7 @@ heading_piece_questions: Open questions
 heading_piece_rulings: Properties and rulings
 heading_prep: Prep
 heading_track_history: History
-heading_track_questions: Open questions
+heading_track_questions: Open Issues
 hide_from_related: true
 label_changed_at_table: Changed at the table
 label_party: Party
@@ -84,7 +84,7 @@ template_session: Session Template
 - **`dm_note_suffix`**: the suffix of a DM note that has a Player Wiki twin of the plain name (`Rexxentrum - DM` next to `Rexxentrum`), with the space, hyphen and space included. The hubs (through `stripDmSuffix` in [[Shared Helpers]]) and the templates (`dm_helpers.js`) remove it when they build display names, tags and twin lookups. Changing it does not rename any note: run `.scripts/rename_dm_suffix.py` (set OLD and NEW at the top) to rename the notes, folders and links. `Recent Work.base` has the suffix written in its formula and must be edited by hand.
 - **`calendar_category_sessions`**: the Calendarium category for session notes (left out of Close Session's event categories).
 - **Artifact pieces** ([[Artifact Pieces]]): notes tagged `<piece_tag_prefix>/<artifact slug>` are the pieces of one artifact (`piece/lorestone-of-eryndor`). The `heading_piece_…` values are the `##` headings inside each piece note. `calendar_category_pieces` is the Calendarium category the hub's change form writes. `label_party` is the plain word that stands for the whole party in a piece's lines.
-- **Progress trackers** ([[Progress Tracks]]): `heading_track_history` and `heading_track_questions` are the `##` headings of a tracker's History and Open questions sections.
+- **Progress trackers** ([[Progress Tracks]]): `heading_track_history` and `heading_track_questions` are the `##` headings of a tracker's History and Open Issues sections.
 
 ## What this note can't change
 

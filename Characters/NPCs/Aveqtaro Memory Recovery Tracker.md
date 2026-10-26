@@ -29,7 +29,7 @@ Codes: A0–A3, B0–B3 (stage reached), phase <name>, risk <level>, note. -->
 - **Before the campaign** · B0 · Pulling away from her den for two to three years; her family has noticed.
 - **27 Thunsheer 835** · risk low · Dreyara is dead and no one in her network has noticed Aveqtaro. See [[Qalix's Network]].
 
-## Open Questions
+## Open Issues
 
 - [ ] Specific triggers for each stage (3–4 per stage, a mix of party-driven and ambient)
 - [ ] Confirm which stage unlocks each fact in [[What Aveqtaro Thaan Knows]]

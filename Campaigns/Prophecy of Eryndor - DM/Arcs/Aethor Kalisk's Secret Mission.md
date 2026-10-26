@@ -2,6 +2,7 @@
 status: complete
 tags:
   - campaign/eryndor
+  - needs-work
   - arc
 threads:
   - "[[Assembling the Lorestone]]"
@@ -11,14 +12,11 @@ tier: standard
 ## Quick Reference
 
 > [!info] Essential Details
-> - Stage: Active
-> - Priority: High
-> - Timeline: 10 days (until 3 Thunsheer 835)
-> - Key Players: [[Vaud Qalix - DM]], [[Valen Elderguard]]
-> - Last Session: [[Session 20 - Bandit Ambush in Swamp]]
-> - Next Steps:
-> 	- Return to PD
-> 	- Decide what to do with Aethor and the compass
+> - Status: Complete. The party found the compass and kept it. The lead continues in [[Search for the Stonefoot Compass]].
+> - Timeline: 15 days from the hire (the deadline passed on 8 Thunsheer 835)
+> - Key Players: [[Aethor Kalisk - DM|Aethor]], [[Calderax Dunhall]], [[Keldar Stonefoot - DM|Keldar Stonefoot]]
+> - Last Session: [[Session 28 - Back at Harmony Hall]]
+> - Outcome: The party found the compass inside a snail in the Othemoor Swamp and kept it without telling Aethor.
 
 ## Overview
 
@@ -81,7 +79,7 @@ Anyone proficient in Nature would know these creatures are not native to the are
 
 ## Rewards
 
-If they return the compass to Calderax, he will tell them about [[Keldar Stonefoot - DM]] and send them to deliver the compass themselves.
+None paid. The party kept the compass and did not tell Aethor, so there was no delivery, no payment and no introduction to Calderax. See [[Search for the Stonefoot Compass]].
 
 ## NPCs
 

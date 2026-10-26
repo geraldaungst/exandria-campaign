@@ -28,6 +28,8 @@ fc-category: Sessions
 - **Decisions and consequences:**
   - Linked the new verse to the clay fragment's prophecy text
 - **Changed at the table:**
+  - The site has a hole with a 30-foot drop and five walls, all at right angles, in place of the surface footprint that was planned.
+  - Detect Magic on the shard read strong Divination and Abjuration, with nothing tied to the hole.
 - **Threads moved:** [[Assembling the Lorestone]]
 - **World next:** Report back to the Truscans
 

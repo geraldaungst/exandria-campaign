@@ -29,6 +29,9 @@ fc-category: Sessions
 - **Decisions and consequences:**
   - The dig site is on Truscan land; permission needed from the estate
 - **Changed at the table:**
+  - The fruit-stall owner named Bella as another dreamer in town (improvised; Bella has no other role).
+  - Wenna had already given the stall owner a sedative to keep her from dreaming.
+  - Seraphina posed as Popcorn's mother and Popcorn feigned nightmares at Wenna's; the ruse did not work.
 - **Threads moved:** [[Assembling the Lorestone]], [[Cleanse the Savalirwood]]
 - **World next:** Seek Truscan permission and visit the site
 

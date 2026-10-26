@@ -30,7 +30,7 @@ Anyone - Danoth's Visor, Jewel of Three Prayers, Verminshroud, Kiss of the Chang
 ### Vestiges Found
 
 - [ ] Armor of the Valiant Soul
-- [ ] [[Blade of Maroth Fenn - DM]]
+- [x] [[Blade of Maroth Fenn - DM]]
 - [ ] Cabal's Ruin
 - [ ] Circlet of Barbed Vision
 - [ ] Danoth's Visor
@@ -51,7 +51,7 @@ Anyone - Danoth's Visor, Jewel of Three Prayers, Verminshroud, Kiss of the Chang
 
 ### Short Term
 
-- [ ] [[Drawg Stormbrew - Brew|Drawg]] needs to acquire his [[Blade of Maroth Fenn - DM|dagger]]…currently held by [[Dreyara Drimvar - DM]]
+- [x] [[Drawg Stormbrew - Brew|Drawg]] needs to acquire his [[Blade of Maroth Fenn - DM|dagger]]…currently held by [[Dreyara Drimvar - DM]]. Drawg took it from her body when she died on 25 Thunsheer 835.
 - [x] …and [[Drawg Stormbrew - Brew|Drawg]] also wants a trident
 - [x] [[Drawg Stormbrew - Brew|Drawg]] has promised to help with the [[New Temple of Moradin - DM]]
 - [ ] [[Hesterian Shyr - Dot|Hesterian]] will infiltrate the Myriad, but doing so will compel her to commit evil acts.
@@ -82,3 +82,8 @@ Anyone - Danoth's Visor, Jewel of Three Prayers, Verminshroud, Kiss of the Chang
 - [ ] [[Popcorn Zikelfikel - Viv|Popcorn]]
 - [ ] [[Laucian Greycastle - Brent|Laucian]]
 - [ ] [[Eidechse - Amanda Jeane|Dechs]]
+
+## Open Issues
+
+- Several medium and long term beats are blank: Popcorn, Laucian and Dechs (medium term); Hesterian, Qilynn, Popcorn, Laucian and Dechs (long term). Fill them from each player's goals.
+- Does Laucian rejoin the party? He turned back with Varnes on 21 Thunsheer 835 and has not returned.
