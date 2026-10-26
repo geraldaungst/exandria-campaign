@@ -2,7 +2,6 @@
 tags:
   - atomic
   - campaign/eryndor
-  - needs-work
 ---
 
 ## What Aveqtaro Thaan Knows
@@ -57,6 +56,10 @@ Subnote of [[Aveqtaro Thaan]]: everything she can tell the party, by topic, with
 
 - Cadariel lived before the Calamity, so she has no memory of the Molaesmyr rupture (585 PD) or anything after it.
 - Nothing about Qalix, Ceratos, the Obsidian Echoforge, or the shards' modern holders, beyond what the party or her own reading tells her.
+
+## Open Issues
+
+- [ ] Stage placements are first guesses. Confirm each fact's stage (same item as in [[Aveqtaro Memory Recovery Tracker]])
 
 ## Source
 

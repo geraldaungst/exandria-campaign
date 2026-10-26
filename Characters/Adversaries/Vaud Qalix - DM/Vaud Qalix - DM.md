@@ -8,7 +8,6 @@ aliases:
 disposition: hostile
 tags:
   - npc
-  - needs-work
   - world/exandria
   - region/xhorhas
   - place/xarzith-kitril
@@ -93,6 +92,13 @@ As of 27 Thunsheer 835. Detail in [[Qalix's Network]].
 
 - [[Manifesto - Reclaiming the Glory of Draconia]]: the full text
 - [[Manifesto - Brief]]: the condensed version he distributes
+
+## Open Issues
+
+- [ ] How Qalix answers Dreyara's death and the party. Decide before Rexxentrum
+- [ ] Who takes over Dreyara's work ([[Ru'Shan Halrune]] is a natural fit)
+- [ ] Whether the Rexxentrum job goes ahead. Detail and the other open items: [[Qalix's Network]]
+- [ ] Whether the party meets him in person before the Molaesmyr confrontation (about level 18)
 
 ## Connected Elements
 

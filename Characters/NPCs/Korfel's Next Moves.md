@@ -87,7 +87,7 @@ Each pulls a different party member. He offers only what he has learned is lever
 - Zadash's Myriad bosses fight over the seat, and the Myriad puts a price on his killers along the road to Rexxentrum
 - To the bought Crownsguard, it is the murder of a respectable merchant
 
-### Open
+## Open Issues
 
 - [ ] Whether Korfel is the buyer for [[Eidechse - Amanda Jeane|Dechs]]'s herbs. Draft ideas: [[Brainstorms about Dechs and the Herbs]]. The older draft, The Myriad's Request, is archived
 - [ ] Whether the Rexxentrum job goes ahead. Decide before Rexxentrum

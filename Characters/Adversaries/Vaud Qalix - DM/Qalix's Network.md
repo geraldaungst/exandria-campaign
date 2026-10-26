@@ -47,7 +47,9 @@ How [[Vaud Qalix - DM|Vaud Qalix]]'s intelligence network passes information, an
   - Wants: his identity kept buried; to come out ahead whether the job goes on, changes, or collapses; to judge whether the three are a threat or worth something.
 - **The party:** Dreyara worked for a dragonborn employer ("the Eye," Xarzith Kitril), and her Zadash contact is the Gentleman. They do not know they are known.
 
-### Open (decide when it matters)
+## Open Issues
+
+Decide each when it matters.
 
 - [ ] Did Dreyara report the Cloudfang raid to Qalix before she died? Decide before Qalix's response.
 - [ ] Qalix's response, and who takes over Dreyara's work ([[Ru'Shan Halrune]] is a natural fit). Decide before Rexxentrum.

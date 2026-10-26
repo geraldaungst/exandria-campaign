@@ -75,7 +75,7 @@ Last seen by the party at Cloudfang Keep on 19 Thunsheer 835. Timeline entries a
 - **[[Dreyara Drimvar - DM]]:** Qalix's courier and inspector. Dead (25 Thunsheer 835)
 - **[[Varnes Dwell - DM|Varnes Dwell]]:** Her prisoner; she tortured and memory-modified him. Freed, and he hates her
 - **Stone Garden:** Petrified failures. Stone Sacrifice fuel
-- **Guardians:** Basilisks and others she maintains without affection. Her wyvern is now Drawg's
+- **Guardians:** Owlbears, a griffon, basilisks and others she maintains without affection ([[Cloudfang Keep - DM]]). Her wyvern is now Drawg's
 - **Handler in Zadash:** Contact through the Gentleman's network. Carries her reports to Qalix
 
 ## Background
@@ -178,6 +178,11 @@ Last seen by the party at Cloudfang Keep on 19 Thunsheer 835. Timeline entries a
 > - Keeps Stone Sacrifice for critical saves. Fights from height; the Stone Garden's petrified victims fuel it
 > - Attacks without negotiation if the party is hostile
 > - Petrification ends with Greater Restoration or Stone Sacrifice (she can be bargained with if defeated alive)
+
+## Open Issues
+
+- [ ] Her next move. Decide when the party could cross her path (same item as in [[Qalix's Network]])
+- [ ] Whether she got the location of Shard 5 (the Cobalt Soul Archive) out of [[Varnes Dwell - DM|Varnes]] while he was her prisoner. Varnes does not remember what he told her. Related: how Qalix learned that Varnes knew, in [[Rescue Ilya's Brother]]
 
 ## Connected Elements
 
