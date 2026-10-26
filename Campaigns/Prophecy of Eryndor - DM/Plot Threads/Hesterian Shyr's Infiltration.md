@@ -4,233 +4,52 @@ tags:
   - plot/upcoming
 ---
 
-## Quick Reference
+## What's Happening
 
-> [!info] Essential Details
->
-> - Stage: Seed (player-expressed goal, needs opportunity)
-> - Priority: Medium
-> - Timeline: Player-driven, connected to journey north
-> - Key Players: [[Hesterian Shyr - Dot]], [[Korfel Withrethin]], [[Myriad - DM|Myriad]]
-> - Parent Plot: Character Development
-> - Last Session: Not yet activated
-> - Next Steps: Party travels north toward [[Zadash - DM]], Hesterian decides to pursue infiltration
+[[Hesterian Shyr - Dot|Hesterian]] has said she wants to infiltrate the [[Myriad - DM|Myriad]]. The man who murdered her, [[Korfel Withrethin]], holds the Myriad's seat in [[Zadash - DM|Zadash]] as the Gentleman and believes she is dead. The party is on the road to Zadash. His hall, his people, his lines and his responses are in [[Korfel Withrethin]], [[Korfel's Next Moves]] and [[Talking with Korfel]].
 
-## Overview
+The question this thread is built on: when she meets her killer in his own territory, does she take revenge now or wait? Her options, the moral questions and the ways it can end are in [[Hesterian and Korfel - Resolution Paths]].
 
-Hesterian has expressed the goal of infiltrating the Myriad criminal organization. Unknown to her, this quest will lead her directly to the man who murdered her - [[Korfel Withrethin]], who now operates as "The Gentleman" and runs [[Characters/Factions/Exandria/Gentleman's Organization]] in [[Zadash - DM]]. The central dramatic tension lies in the immediate recognition between murderer and victim, forcing complex choices about revenge, justice, and survival.
+## What Players Know vs Don't Know
 
-**Core Dramatic Question:** When Hesterian meets her killer face-to-face in a position of power, how will she choose between immediate revenge and strategic patience?
+**They know:**
 
-## Current State
+- Hesterian remembers who killed her (details: [[Port Damali Murders]]).
+- Her killer is in Zadash, living under another name. She can't be certain what role he has in the Myriad.
+- At Harmony Hall she confronted [[Grisul Adder]] and learned some of what happened after the murders.
+- "The Gentleman" is one of the Myriad's crime bosses in Zadash.
+- Hesterian wants to infiltrate the Myriad.
 
-### Recent Events
-
-- Hesterian visited [[Harmony Hall - DM]] and confronted [[Grisul Adder]]
-- Learned some details about events after [[Port Damali Murders]]
-- Established that she's seeking her killer and has leads pointing north
-
-### Active Elements
-
-- Player has expressed interest in Myriad infiltration
-- Hesterian knows [[Korfel Withrethin]] is in [[Zadash - DM]], living under another name
-- Geographic progression brings party closer to Zadash/northern regions
-- Potential connection to [[Eidechse - Amanda Jeane|Dechs]]'s herb delivery mission
-
-### Blocking Issues
-
-- No immediate catalyst for beginning infiltration
-- Party currently focused on other objectives
-- Hesterian hasn't connected Myriad infiltration to revenge quest yet
-
-## Player Knowledge
-
-### What Hesterian Knows
-
-- **Her Murder:** Full details in [[Port Damali Murders]]
-- **Current Lead:** Killer is in [[Zadash - DM]], living under another name
-- **Infiltration Goal:** Wants to infiltrate the Myriad (player choice)
-- **Mysterious Visions:** Strange dreams about "Scourger" and flames from Stone of Memory
-
-### What Hesterian Thinks She Knows
-
-- Her infiltration of the Myriad is unrelated to her revenge quest
-- Her visions are just nightmares from trauma
-
-### What Hesterian Doesn't Know
-
-- **Identity:** [[Korfel Withrethin]] is the Gentleman
-- **Criminal Rise:** He's become a major Myriad boss with significant power
-- **Stone of Memory:** Her visions come from a Stone of Memory she unknowingly carries
-- **Family Tragedy:** [[The Capture of Melthes|Her brother Melthes was taken by the Cerberus Assembly]]
-
-## The Recognition Scenario
-
-### The Moment of Truth
-
-When Hesterian finally encounters "The Gentleman" during Myriad business, both will recognize each other immediately. This creates explosive dramatic tension:
-
-**Hesterian's Perspective:**
-
-- Shock: "You're supposed to be Korfel Withrethin, not some crime boss"
-- Rage: "You killed me and built an empire while an innocent man rots in prison"
-- Tactical Assessment: "He has resources, guards, and I'm outnumbered"
-
-**Korfel's Perspective:**
-
-- Terror: "She should be dead - how is she here?"
-- Calculation: "What does she know? Who has she told?"
-- Damage Control: "Can I eliminate this threat without exposing myself?"
-
-### Immediate Complications
-
-**No Simple Infiltration:** Traditional spy work becomes impossible when the target knows exactly who you are and what you want.
-
-**Mutual Leverage:** Both have devastating information about the other, creating a complex power dynamic rather than one-sided revenge.
-
-**Witness Management:** Any confrontation happens in front of Korfel's people, who don't know his real identity.
-
-**Blood Sample Protocol:** [[Blood Sample Collection Protocol]] becomes a critical tactical element - Korfel will desperately want Hesterian's blood for tracking.
-
-## Character Development Opportunities
-
-### Core Moral Questions
-
-**Justice vs. Revenge:** Does exposing [[Rylan Estevez Frame Job|Rylan's wrongful imprisonment]] matter more than personal satisfaction?
-
-**Greater Good vs. Personal Vendetta:** Taking down The Gentleman might destabilize [[Zadash - DM]]'s criminal balance - is that worth it?
-
-**Party Loyalty vs. Individual Goals:** How far will Hesterian go before her quest endangers her companions?
-
-**Means vs. Ends:** What criminal acts is she willing to commit to achieve her goals?
-
-### Character Growth Arcs
-
-**From Victim to Agent:** Moving from reactive revenge-seeking to proactive justice-building
-
-**Understanding Power:** Learning how institutional change works vs. individual satisfaction
-
-**Family Connections:** Discovery of [[The Capture of Melthes|Melthes's fate]] adds stakes beyond personal revenge
-
-**Identity Integration:** Accepting her nature as a Hollow One while pursuing human goals
-
-## Plot Development Stages
-
-### Phase 1: The Approach (Current)
-
-- [ ] **Trigger Opportunity:** Party travels to [[Zadash - DM]] region or encounters Myriad operatives
-- [ ] Initial contact with Myriad representatives
-- [ ] Learning about "The Gentleman" without knowing his identity
-- [ ] **Choice Point:** Commit to infiltration or find another approach
-
-### Phase 2: First Contact
-
-- [ ] Meeting with The Gentleman for "business"
-- [ ] **Recognition Moment:** Both realize who the other is
-- [ ] **Critical Choice:** Immediate confrontation vs. strategic patience
-- [ ] **Blood Sample Demand:** Korfel insists on [[Blood Sample Collection Protocol]]
-- [ ] **Information Warfare:** Both sides probe what the other knows
-
-### Phase 3: Complex Negotiation
-
-- [ ] Neither can simply eliminate the other without consequences
-- [ ] **Possible Alliance:** Temporary cooperation while planning betrayal
-- [ ] **Escalation Options:** How far each side pushes before open warfare
-- [ ] **Party Integration:** How Hesterian's quest affects group dynamics
-- [ ] **Evidence Gathering:** Building case against Korfel while avoiding exposure
-
-### Phase 4: Resolution Paths
-
-Multiple potential endings based on player choices:
-
-#### Resolution Path A: Justice Through Law
-
-- Expose Korfel's crimes and true identity to authorities
-- Free [[Rylan Estevez]] from wrongful imprisonment
-- Risk destabilizing criminal balance in [[Zadash - DM]]
-
-#### Resolution Path B: Criminal Justice
-
-- Use Myriad position to destroy organization from within
-- Turn [[Cree Deeproots]] against Korfel through [[The Capture of Melthes|Assembly connection]]
-- Replace criminal empire with more ethical alternative
-
-#### Resolution Path C: Personal Revenge
-
-- Direct confrontation and elimination of Korfel
-- Accept collateral damage to criminal underworld
-- Focus on personal satisfaction over systematic change
-
-#### Resolution Path D: Uneasy Alliance
-
-- Leverage mutual knowledge for ongoing cooperation
-- Use Korfel's resources for larger campaign goals
-- Accept moral compromise for strategic advantage
-
-## Hidden Information
+**They don't know:**
 
 > [!secret]- DM Only
->
-> ## Recognition Scene Management:
->
-> **Setup Requirements:**
->
-> - Korfel should be in position of apparent power (his territory, his people)
-> - Other party members present but not understanding full context
-> - Business pretense gives both characters reason to maintain facades initially
-> - Blood sample collection provides immediate tactical flashpoint
->
-> **Dialogue Hooks:**
->
-> - Korfel: "Do I… know you from somewhere?"
-> - Hesterian: "You look familiar. Didn't you used to live in Port Damali?"
-> - Korfel: "I'm afraid you're mistaken. I've always been a Zadash man."
-> - Hesterian: "Funny. I could have sworn I knew a Korfel Withrethin once."
->
-> **Escalation Triggers:**
->
-> - Direct use of Korfel's real name
-> - Reference to Port Damali murders
-> - Mention of [[Rylan Estevez]]
-> - Refusal to provide blood sample
-> - Threatening gestures from either side
->
-> ## Korfel's Strategic Responses:
->
-> **Immediate Tactics:** Reference [[Korfel Withrethin]] NPC page for detailed reactions **Long-term Plans:** Leverage [[Characters/Factions/Exandria/Gentleman's Organization]] resources **Vulnerabilities:** [[Rylan Estevez Frame Job]] exposure risk **Key Personnel:** [[Cree Deeproots]] becomes critical for surveillance
->
-> ## Campaign Integration Points:
->
-> **Melthes Connection:** If Hesterian mentions her brother, creates opportunity for [[Cree Deeproots]] recruitment **Assembly Opposition:** Common enemy provides potential alliance opportunity **Zadash Politics:** Resolution affects broader criminal/political landscape **Justice Subplot:** [[Rylan Estevez]] wrongful imprisonment becomes separate quest line
+> - **Korfel is the Gentleman.** Nobody in Zadash knows the name Korfel Withrethin, and he is not the original Gentleman.
+> - **He thinks she is dead.** Seeing her shakes him. The scene beats are in the "When Hesterian walks in" section of [[Korfel Withrethin]].
+> - **He holds Qalix's down payment** for the Rexxentrum Archive job (Shard 5), which puts the party's route and his business in the same place.
+> - **Melthes:** her brother was taken by the Cerberus Assembly, and Cree Deeproots, who works for Korfel, processed him ([[Rescue Melthes]]).
+> - **The Stone of Memory** she carries is the source of her "Scourger" dream ([[Hesterian Shyr - Dot]]).
 
-## Connected Elements
+## Next Move
 
-### NPCs
+- **Zadash arrival:** Korfel's watchers look for the dragonborn with the wyvern, the blonde and the gnome. An invitation reaches the party, then Meeting 1 (Cree's interview) and, the next day, Meeting 2 (the flooded hall). See [[Korfel's Next Moves#Meeting him]].
+- **If the party asks for Korfel Withrethin by name:** his informants report it within a day, and Cree asks about the name in her interview.
+- **Hesterian's choice points:** negotiate across the water, expose him, take revenge, or hold. See [[Hesterian and Korfel - Resolution Paths]].
+- **Melthes** comes up only if Cree's report names him.
 
-- [[Korfel Withrethin]] - Her murderer, now powerful crime boss
-- [[Cree Deeproots]] - Korfel's key asset, potential ally through [[The Capture of Melthes|Melthes connection]]
-- [[Rylan Estevez]] - Innocent victim of [[Rylan Estevez Frame Job]]
-- [[Grisul Adder]] - Information source about aftermath
-- Various Myriad contacts and hierarchy (to be developed)
+## Open Issues
 
-### Plot Threads
+- [ ] What did Hesterian learn about [[Rylan Estevez]] at Harmony Hall? Confirm at the table, then add it to "They know". The release terms Korfel can offer are in [[Korfel's Next Moves#What he offers]].
+- [ ] Does Dechs's herb delivery become part of the Zadash arrival? ([[Eidechse - Amanda Jeane#Goals|Dechs's herb delivery]]; an older draft is in [[The Myriad's Request]].)
+- [ ] When and how does the Stone of Memory's memory of Isolene Fenzana's workshop connect to Cree and Melthes?
+- [ ] Hesterian's player has not yet said how she wants to approach the Myriad now that the Gentleman will probably find her first.
 
-- [[The Capture of Melthes]] - Brother's fate intersects through Assembly connection
-- [[Eidechse - Amanda Jeane#Goals|Dechs's herb delivery]] - Potential shared destination in [[Zadash - DM]]
-- Justice subplot for [[Rylan Estevez]]
-- Broader Myriad/criminal organization conflicts
+### Reference Notes
 
-### Locations
+- [[Korfel Withrethin]], [[Korfel's Next Moves]], [[Talking with Korfel]]
+- [[Characters/Factions/Exandria/Gentleman's Organization]], [[Blood Sample Collection Protocol]]
+- [[Port Damali Murders]], [[Rylan Estevez Frame Job]], [[Rylan Estevez]]
+- [[Cree Deeproots]], [[Grisul Adder]], [[Harmony Hall - DM]], [[Port Damali - DM]], [[Zadash - DM]]
 
-- [[Harmony Hall - DM]] - Site of investigation and information gathering
-- [[Port Damali - DM]] - Scene of original crimes
-- [[Zadash - DM]] - Current confrontation location and Korfel's power base
-
-### Items & Evidence
-
-- Stone of Memory - Source of mysterious visions
-- Evidence of [[Rylan Estevez Frame Job]]
-
-## Connected Elements
+### Connected Elements
 
 ![[Related Notes.base]]

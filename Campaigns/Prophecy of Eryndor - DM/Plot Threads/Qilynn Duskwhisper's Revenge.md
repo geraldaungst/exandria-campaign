@@ -4,167 +4,55 @@ tags:
   - plot/upcoming
 ---
 
-## Quick Reference
+## What's Happening
 
-> [!info] Essential Details
->
-> - Stage: Seed (ready to activate when players investigate)
-> - Priority: Medium
-> - Timeline: Player-driven, no time pressure
-> - Key Players: [[Qilynn Duskwhisper - Nicole]], [[Eledyr Dephar]], [[Yrene Shadowthorn]], [[Aelorin Nightshade]]
-> - Parent Plot: Character Development
-> - Last Session: Not yet activated
-> - Next Steps: Wait for player investigation or provide opportunities to discover truth
+[[Qilynn Duskwhisper - Nicole|Qilynn]] believes [[Eledyr Dephar]] sabotaged the heist that cost her [[Aelorin Nightshade]]'s favor. [[Yrene Shadowthorn]] told her so and offered to help prove it. Qilynn promised Yrene she wouldn't kill him. Eledyr has been sent to Zadash, the party's next destination.
 
-## Overview
+## What Players Know vs Don't Know
 
-Qilynn knows her final mission failure wasn't her fault and suspects sabotage, but lacks proof. The truth involves a complex web of grudges, unrequited love, and manipulation within the Clasp that she has yet to uncover.
+**They know:**
 
-## Current State
-
-### Recent Events
-
-- Qilynn continues to carry suspicions about her failed heist
-- She remains unaware of the true perpetrators
-- [[Eledyr Dephar]] is now working with the [[Emissaries of the Sunfall - DM]], giving him new resources
-
-### Active Elements
-
-- **Evidence gathered:** Qilynn has Yrene's testimony and physical evidence (handwriting samples)
-- **Alliance formed:** Qilynn and Yrene are actively working together to expose Eledyr
-- **Investigation constraint:** Qilynn promised not to kill Eledyr (creates interesting tension)
-- **Eledyr's escalation:** He's asking questions about the prophecy, making him more dangerous
-- **Current separation:** Geographic distance from Port Damali limits immediate action
-
-### Blocking Issues
-
-- **Geographic separation:** Party is far from Port Damali where evidence and targets are located
-- **Promise constraint:** Qilynn's agreement not to kill Eledyr limits resolution options
-- **Insufficient proof:** While evidence exists, it may not be enough to convince Aelorin
-- **Eledyr's new resources:** His Emissary connections give him protection and power
-- **Timing pressure:** Eledyr's prophecy research suggests he's working on something time-sensitive
-
-## Player Knowledge
-
-### What Qilynn Knows
-
-#### About Her Failed Mission
-
-> [!note]- The heist and her first suspicions (before Sessions 7 & 8)
-> - She planned the artifact heist herself, to win back [[Aelorin Nightshade]]'s favor.
-> - Security she had not been briefed on or trained for was in place, as if someone had anticipated every move.
-> - The artifact's location and the guards' shifts differed from what she had researched and confirmed.
-> - She suspected a set-up by someone with inside knowledge.
-> - First suspect: [[Yrene Shadowthorn]], a full elf who trained under Aelorin alongside her and was his favorite. Qilynn read jealousy and rivalry in Yrene, suspected a romance between Yrene and Aelorin, and recalled Yrene's guilty look, her absences during earlier missions, and her access to the heist details.
-> - The suspicion adds a personal vendetta: Qilynn wants to prove her skill and expose the betrayer to clear her name.
+- Qilynn planned the artifact heist herself, to win back Aelorin's favor. Security she hadn't been briefed on was in place, and the artifact's location and the guards' shifts differed from what she had researched.
+- She first suspected Yrene, a full elf who trained under Aelorin alongside her and was his favorite.
+- In Sessions 7 and 8 Yrene told her Eledyr, another of Aelorin's trainees, framed her. Yrene says she found disguised notes in Eledyr's handwriting about the changes to the artifact's location and the extra security, that the guard shifts were changed at the last minute, and that unfamiliar faces were among the guards.
+- Yrene says Calderax's job was a distraction to draw guards away, and that Eledyr's interference sent it to the wrong guards.
+- Yrene and Qilynn agreed to work together to clear Qilynn's name. Qilynn promised not to kill Eledyr.
+- Eledyr has been asking too many questions about the prophecy.
+- Eledyr has been sent to Zadash.
 
 ![[Aelorin Nightshade#Reaction to the failed heist]]
 
-#### Direct Intelligence from Yrene (Sessions 7 & 8)
+**They don't know:**
 
-- **Eledyr's Identity:** She worked with Eledyr before - he was "one of the other trainees under Aelorin"
-- **Direct Accusation:** Yrene told her "Eledyr was the one who framed Q"
-- **Physical Evidence:** Yrene found "disguised notes in Eledyr's handwriting detailing changes in the artifact's location and additional security measures"
-- **Operational Evidence:** Guard shifts were changed last minute, unfamiliar faces appeared during the heist
-- **Current Activity:** Eledyr "has been asking too many questions about the prophecy"
-- **Alliance Status:** Yrene is actively "trying to clear Q's name" and they agreed to work together
-- **Constraint:** Qilynn promised Yrene she wouldn't kill Eledyr
+> [!secret]- DM Only
+> ![[The Truth about Eledyr#Core Information]]
+>
+> - **The petty motive:** Eledyr's grudge comes from her casual training feedback.
+> - **Yrene's feelings:** her protectiveness comes from romantic feelings Qilynn never suspected.
+> - **Eledyr's allegiance:** he now works with the [[Emissaries of the Sunfall - DM]], which gives him resources and protection.
+> - **The scale of it:** how deeply he has infiltrated and manipulated Clasp operations.
 
-### What Qilynn Thinks She Knows
+## Next Move
 
-- Eledyr deliberately sabotaged her mission (Yrene's accusation + evidence)
-- Yrene was wrongly suspected and is actually trying to help
-- There's enough evidence to potentially expose Eledyr
-- The sabotage connects to current prophecy research
+- Nothing is planned. The thread waits for the party. Triggers: the party meets Clasp operatives, returns to Port Damali, or Eledyr shows himself as an Emissary agent. Zadash is a new one: he was sent there.
+- Ways it can end: **revenge** (Qilynn destroys him and makes an enemy of the Clasp); **justice** (she exposes him to Aelorin and earns his respect); **redemption** (she helps him get past the grudge); **leverage** (she uses what she knows for the party's goals).
+- From [[Character Story Beats#Medium Term]]: Qilynn wants to prove she is a good thief, above all to Aelorin, both to show him up and to be accepted. If she does, Aelorin may reconsider and could become an ally.
 
-### What Qilynn Doesn't Know
+## Open Issues
 
-![[The Truth about Eledyr#Core Information]]
+- [ ] Does Qilynn hold the handwriting notes, or only Yrene's word?
+- [ ] Does the party meet Eledyr in Zadash? His own note is not touched until item 9.
+- [ ] How does Qilynn keep her promise not to kill him if he has Emissary protection?
+- [ ] Justice through Aelorin or a direct confrontation? Is the evidence enough to convince Aelorin?
+- [ ] Eledyr's prophecy research looks time-sensitive. What is he working toward, and when?
+- [ ] When does Yrene's unrequited-feelings subplot surface?
 
-#### Additional Unknowns
+### Reference Notes
 
-- **The petty motivation:** Eledyr's grudge stems from her casual training feedback
-- **Yrene's true feelings:** Yrene's protective actions come from romantic feelings Qilynn never suspected
-- **Eledyr's current allegiances:** He's now working with the Emissaries of the Sunfall
-- **Scale of deception:** How deeply Eledyr has infiltrated and manipulated Clasp operations
+- [[Qilynn Duskwhisper - Nicole#Goals]], [[Sessions 7 & 8 - Tracking Yrene]]
+- [[Eledyr Dephar]] (his silver dagger marks his Clasp status), [[Yrene Shadowthorn]], [[Aelorin Nightshade]]
+- [[Port Damali - DM]], [[Harmony Hall - DM]] (a possible place for quiet talks)
 
-## Plot Hierarchy
-
-- Parent Plot: [[Qilynn Duskwhisper - Nicole#Goals]]
-- Subplots: None yet
-
-## Development Stages
-
-### Seeds Planted
-
-- [x] Character background establishes grudge and suspicion
-- [x] Player has expressed interest in revenge subplot
-- [ ] **Trigger Opportunity:** Party returns to Port Damali or encounters Clasp operatives
-- [ ] **Alternative Trigger:** [[Eledyr Dephar]] reveals himself as Emissary agent
-
-### Planned Developments
-
-#### Phase 1: Investigation Complete / New Intelligence
-
-- [x] Qilynn has identified the real culprit (Eledyr)
-- [x] Physical evidence has been gathered (handwriting samples)
-- [x] Alliance formed with Yrene
-- [ ] **Next Step:** Return to Port Damali or bring evidence to distant confrontation
-- [ ] **Alternative:** Eledyr's Emissary activities intersect with party's main quest
-
-#### Phase 2: Confrontation Planning
-
-- [ ] Decide how to handle the "no killing" promise to Yrene
-- [ ] Gather additional corroborating evidence
-- [ ] Choose between justice through Aelorin vs. direct confrontation
-- [ ] Navigate Eledyr's new Emissary protections and resources
-
-#### Phase 3: Resolution
-
-- [ ] Expose Eledyr's betrayal (method TBD)
-- [ ] Address the underlying petty motivation (character growth opportunity)
-- [ ] Resolve Yrene's unrequited feelings subplot
-- [ ] Potential redemption or alliance with reformed Clasp relationships
-
-## Long-term Plans
-
-### Character Arc Integration
-
-From [[Character Story Beats#Medium Term]]:
-
-> [[Qilynn Duskwhisper - Nicole|Qilynn]] wants to prove that she's actually a damn good thief. She specifically wants to prove herself to [[Aelorin Nightshade|Aelorin]] - both to show him up and to be accepted by him. Once she does this, [[Aelorin Nightshade|Aelorin]] will reconsider and could potentially become an ally for the party.
-
-### Possible Branches
-
-- **Revenge Path:** Qilynn seeks to destroy Eledyr, potentially making enemy of Clasp
-- **Justice Path:** Qilynn exposes Eledyr to [[Aelorin Nightshade]], earning respect
-- **Redemption Path:** Qilynn helps Eledyr overcome his petty grudges
-- **Practical Path:** Qilynn uses knowledge as leverage for party goals
-
-## Connected Elements
-
-### NPCs
-
-- [[Eledyr Dephar]] - The actual saboteur, now Emissary agent
-- [[Yrene Shadowthorn]] - Wrongly suspected, actually protective of Qilynn
-- [[Aelorin Nightshade]] - Mentor figure, potential ally if truth revealed properly
-
-### Places
-
-- [[Port Damali - DM]] - Location where truth can be uncovered
-- [[Harmony Hall - DM]] - Potential meeting place for clandestine discussions
-
-### Items
-
-- Evidence of the sabotage (if any still exists)
-- [[Eledyr Dephar]]'s silver dagger (symbolic of his Clasp status)
-
-### Related Plot Threads
-
-- [[Eledyr Dephar]]'s work with [[Emissaries of the Sunfall - DM]] creates intersection
-- [[Assembling the Lorestone]] - Eledyr's opposition could complicate this
-- Potential Clasp alliance depending on resolution
-
-## Connected Elements
+### Connected Elements
 
 ![[Related Notes.base]]
