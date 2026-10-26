@@ -29,7 +29,7 @@ tags:
 
 # Relationships
 **Allies:** none
-**Rivals:** the [[Myriad - DM|Myriad]]: sporadic gang wars in Emon. [[Dreyara Drimvar - DM|Dreyara]]'s note lists the Clasp among Qalix's adversaries. In Port Damali the Myriad is dominant; Evaldo Ide, the tailor who fronts the HQ, is secretly a Myriad ally cooperating with Aelorin
+**Rivals:** the [[Myriad - DM|Myriad]]: sporadic gang wars in Emon. In Port Damali the Myriad is dominant; Evaldo Ide, the tailor who fronts the HQ, is secretly a Myriad ally cooperating with Aelorin
 **Neutral:**
 
 # Current Activities

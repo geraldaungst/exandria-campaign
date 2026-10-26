@@ -1,5 +1,10 @@
 # Rendspawn Stat Blocks - DM Reference
 
+Rendspawn are the early hints of [[Ceratos]]: the first things the party meets that come from the Far Realm.
+
+> [!warning] Under redesign
+> The stat blocks and the encounter numbers below (including "2-3 Rendspawn") are being redesigned for the 2024 rules. The first encounter is meant to frighten the party and may kill a PC. This party outperforms standard encounter budgets because of its magic items.
+
 ## Campaign Progression Overview
 
 - **Rendspawn (CR 9)**: Levels 7-11. First encounters near active rifts.

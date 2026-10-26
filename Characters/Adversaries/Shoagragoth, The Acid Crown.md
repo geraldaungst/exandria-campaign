@@ -4,7 +4,6 @@ aliases:
   - Acid Crown
 tags:
   - npc
-  - needs-work
   - world/exandria
   - region/xhorhas
   - place/ebonglass-massif
@@ -19,13 +18,12 @@ disposition: indifferent
 > - Key Motivation: Establish sovereignty, collect corrupted artifacts proving his intellectual superiority
 > - Attitude toward party: Initially curious, dismissive, manipulable through flattery
 > - Critical Knowledge: [[Rupture of the Molaesmyr Fey Crossing]], [[Lorestone of Eryndor - DM]]
+> - Holds: [[Shard 7 - Ebonglass Shard]]
 > - Status: Reigning over thralls in Xagonstar
 
-## Description
+## Description & Roleplay
 
-Adult black dragon (~350 years old) with pitch-black iridescent scales. Several scales along his crest artificially corroded into dwarven rune patterns. Eyes gleam with acidic yellow-green intelligence. Wears modified corroded dwarven crown. Emits sharp acrid scent that intensifies with agitation.
-
-### Roleplay
+Adult black dragon (~750 years old) with pitch-black iridescent scales. Several scales along his crest artificially corroded into dwarven rune patterns. Eyes gleam with acidic yellow-green intelligence. Wears modified corroded dwarven crown. Emits sharp acrid scent that intensifies with agitation.
 
 - Voice: Deep resonant with acidic rasp, uses unnecessarily complex vocabulary, professorial tone
 - Mannerisms: Head tilting when evaluating, rhythmic claw tapping when thinking, raises crest when challenged
@@ -35,16 +33,7 @@ Adult black dragon (~350 years old) with pitch-black iridescent scales. Several 
 
 Rules "kingdom" of corrupted thralls in Xagonstar with elaborate court structure. A planar rift to the Abyss nearby continues corrupting the area—a process he claims to control but doesn't understand. Recently sending thralls to gather information about other "sovereign powers" and similar black stone artifacts. Currently "enhancing" dwarven architecture with acid, unknowingly destabilizing the structure.
 
-## Background
-
-- Born ~485 PD in the Blightshore
-- Witnessed aftermath of Molaesmyr's fall (~585 PD)
-- At age 100 (~535 PD), defeated corrupted copper dragon Malastryx through exploiting her madness with paradoxical riddles
-- Acquired Lorestone shard from Malastryx's hoard (originally from sunken ship Consecution's Hope)
-- Discovered and claimed Xagonstar as lair (~500 PD)
-- Established "sovereign court" with corrupted thralls
-- Core Trait: "Subjugating others is preferable to destroying them. Thralls make life so much more pleasant."
-- Ideal: Envy (particularly of respected dragons and ancient civilizations)
+Emer's map marks the Ebonglass among her rift sites ([[Understanding the Rifts]]). Evidence of him and Malastryx survives in Rotthold: [[Rotthold Evidence of Shoagragoth and Malastryx]].
 
 ## Hidden Information
 
@@ -58,16 +47,21 @@ Rules "kingdom" of corrupted thralls in Xagonstar with elaborate court structure
 > - Plans to expand territory using corrupted thralls to infiltrate nearby settlements, starting with Rotthold
 > - Acid damage to Xagonstar inadvertently exposing sealed dwarven vault containing planar research artifacts
 
-## Evidence in Rotthold
+> [!note]- Background
+> - Born ~85 PD in the Blightshore (about 750 years old now)
+> - Discovered and claimed Xagonstar as lair (~500 PD, aged about 415)
+> - Defeated corrupted copper dragon Malastryx (~535 PD, aged about 450) by exploiting her madness with paradoxical riddles
+> - Acquired the Lorestone shard from Malastryx's hoard (originally from the sunken ship [[Consecution's Hope]]): [[Shard 7 - Ebonglass Shard]]
+> - Witnessed aftermath of Molaesmyr's fall (~585 PD, aged about 500)
+> - Established "sovereign court" with corrupted thralls
+> - Core Trait: "Subjugating others is preferable to destroying them. Thralls make life so much more pleasant."
+> - Ideal: Envy (particularly of respected dragons and ancient civilizations)
 
-Information about Shoagragoth and Malastryx that has survived in Rotthold:
+## Open Issues
 
-1. **Harbormaster's Logs**: Entries from ~535 PD mention copper-colored lights from northern hills, followed by black smoke and acid rain a month later.
-2. **Thesra Moonfall**: Corrupted half-elven antiquarian who witnessed the draconic confrontation, keeps half-copper/half-blackened scale, rambles about "the night of riddles" and "backward answers to impossible questions."
-3. **Scavenger's Guild Records**: Old ledger blacklisting "Copper's Folly" after salvage teams disappeared; journal describes corridors that change direction and speaking riddles.
-4. **Corrupted Shrine**: Shrine built by witnesses showing copper serpentine figure surrounded by swirling patterns and a crowned black dragon figure. Hidden documents describe Malastryx's bizarre behavior.
-5. **"Copper's Last Riddle"**: Popular tavern song about a "dragon of jokes turned sour" defeated by a "shadow with acid tongue" using "mirror words and backward thoughts."
-6. **Expedition Report Fragment**: Recovered from deceased smuggler, describes Dynasty expedition seeking Consecution's Hope but diverted from area with "mad copper terror" that collected "shiny black stones."
+- [ ] Encounter and stat block (a key encounter; Shard 7 says Challenge 12-14 and an adult black dragon). Plan: a custom stat block tuned to the challenge wanted, and/or extra minions. He stays an adult at about 750. Encounter structures for the lair, the Rotthold approach and the thralls are in [[Adaptable Modules]]
+- [ ] Molaesmyr: "witnessed the aftermath (~585 PD)" and the Rupture as his critical knowledge wait on the Molaesmyr timeline retcon (Opus Worlds review). [[Understanding the Rifts]] says no NPC knows the Rupture is the origin of the rifts, so until then what he holds is only self-flattering accounts of Molaesmyr's corruption
+- [ ] The Kryn agent among his thralls assumes a Kryn Dynasty expedition. That changes if [[Consecution's Hope]] resolves to a Drow ship
 
 ## Connected Elements
 

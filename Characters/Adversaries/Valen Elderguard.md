@@ -7,26 +7,24 @@ tags:
   - region/dwendalian-empire
   - place/rexxentrum
   - faction/emissaries-of-the-sunfall
-  - needs-work
 disposition: hostile
 ---
+
+![[valen-elderguard.png|right|300]]
 
 ## Quick Reference
 
 > [!info] Essential Details
-> - Current Location: Scroll and Scribe, Rexxentrum
+> - Current Location: Scroll and Scribe, Rexxentrum (public); a townhouse in the Pearls' Rest district (secret, see [[The Inkwell]])
+> - Role: Publicly leads the [[Emissaries of the Sunfall - DM|Emissaries of the Sunfall]]. Secretly leads the Inkwell, a cell within them financed by [[Vaud Qalix - DM]]
 > - Key Motivation: Seize control of the shards through any means necessary; restore the Emissaries to their former aggressive approach
-> - Attitude toward party: Neutral (unaware of party)
-> - Critical Knowledge: Working secretly with Vaud Qalix to undermine Emissary/Echoforge alliance
-> - Status: Active leader of splinter cell within Emissaries
+> - Attitude toward party: Neutral (unaware of the party, as far as the notes show). The party knows his name and that he leads the Emissaries
+> - Critical Knowledge: Working secretly with Vaud Qalix to undermine the Emissary/Echoforge alliance
+> - Status: Active
 
-![[valen-elderguard.png|right|300]]
-
-## Description
+## Description & Roleplay
 
 A tall, wiry half-elf with an asymmetrical hairstyle - long raven-black hair tossed to one side, shaved short on the other with a geometric tattoo on his temple. Despite what most would consider an ugly face, his outward demeanor is pleasant and inviting. He favors deep maroon robes with black and brown trim, decorated with subtle arcane patterns.
-
-### Roleplay
 
 - Voice: Calm, smooth, and eerily captivating. Speaks with measured precision, choosing words carefully. Maintains an academic's thoughtful tone.
 - Mannerisms:
@@ -42,11 +40,9 @@ A tall, wiry half-elf with an asymmetrical hairstyle - long raven-black hair tos
 
 ## Current Situation
 
-Operating primarily from two locations in Rexxentrum: the Scroll and Scribe for legitimate Emissary business, and a townhouse in the Pearls' Rest district for splinter cell activities. The townhouse serves as the primary meeting place for the Inkwell, appearing outwardly as a wealthy scholar's residence. Currently investigating an old prophecy through his agent [[Eledyr Dephar]].
+Operating primarily from two locations in Rexxentrum: the Scroll and Scribe for legitimate Emissary business, and a townhouse in the Pearls' Rest district for splinter cell activities. The townhouse serves as the primary meeting place for [[The Inkwell]], appearing outwardly as a wealthy scholar's residence. Currently investigating an old prophecy through his agent [[Eledyr Dephar]].
 
-## Background
-
-Comes from the Elderguard family, known for shadow magic prowess. Rose to prominence within the Emissaries of the Sunfall but grew disillusioned with their diplomatic approach. Secretly believes in returning to the more aggressive methods of Neris Solbane's era. Has begun gathering like-minded members within the Emissaries, forming a splinter cell financed by Vaud Qalix.
+[[Dreyara Drimvar - DM|Dreyara]], Qalix's spymaster, died on 25 Thunsheer 835 and her work has no successor yet ([[Qalix's Network]]). His cell reports to Qalix directly. The party knows his name because Dreyara named him ([[Radelia Caphax]]).
 
 ## Hidden Information
 
@@ -58,35 +54,18 @@ Comes from the Elderguard family, known for shadow magic prowess. Rose to promin
 > - Operations:
 >   - Orchestrated failed skyjacking of the *Unshaken*
 >   - Targeting [[Aethor Kalisk - DM]] and [[Obsidian Echoforge - DM]] operations
-> ## Meeting Locations
-> - Public/Legitimate: Scroll and Scribe, used for Emissary business and occasional quiet recruitment
-> - Secret: Three-story townhouse in Pearls' Rest district
-> 	- Cover: Private residence of a wealthy scholar
-> 	- Basement converted for secure meetings
-> 	- Maintains appearance of normal household
-> 	- Location well-removed from Scroll and Scribe
-> ## Splinter Cell Code Language ("The Inkwell")
-> The cell uses terminology related to writing, inks, and magical scribing as code:
-> - "The Inkwell" - The splinter cell itself (representing the source of their power)
-> - "Master scribe" - Cell leader (Valen)
-> - "Prime pigment" - Primary target
-> - "Mixed ink" - Compromised situation
-> - "Fresh batch" - New operation
-> - "Quality test" - Surveillance
-> - "Blotting" - Cleanup/covering tracks
-> - "Private commission" - Covert operation
-> - "Workshop" - Meeting location
-> - "Sealed document" - Sensitive information
-> - "Color sample" - Initial reconnaissance
-> - "Binding agent" - Key resource or ally
-> - "Preservation" - Protecting assets/people
-> - "Special order" - High-priority target
-> - "Disposal" - Elimination of a threat
-> - "Spoiled batch" - Compromised agent/operation
-> - "Formula" - Operation plan
-> - "Certification" - Clearance/authorization
-> 
-> Example: "The prime pigment needs a quality test before the fresh batch" = "The primary target needs surveillance before the new operation"
+> - Known links: [[Georgina Wiseacre]] (carries a coded map of Xhorhas in his handwriting), [[Kite of the Wind]] (reports back to him), [[Sumad-Dekon Harrowgate]] (recruited for his theories)
+> - Meeting places and code language: [[The Inkwell]]
+
+> [!note]- Background
+> Comes from the Elderguard family, known for shadow magic prowess. Rose to prominence within the Emissaries of the Sunfall but grew disillusioned with their diplomatic approach. Secretly believes in returning to the more aggressive methods of Neris Solbane's era. Has begun gathering like-minded members within the Emissaries, forming a splinter cell financed by Vaud Qalix.
+
+## Open Issues
+
+- [ ] The Emissaries note says Valen began public reconciliation with the Echoforge, while Factions with interest in the rifts says his cell opposes that partnership and works to undermine it. This note follows the Player Wiki: he publicly leads the Emissaries and the Inkwell is secret. The Emissaries note also says the Emissaries as a whole have no public tie to him (line on his splinter cell). Reconcile all of it in the Opus faction pass
+- [ ] Does Qalix tell him about the party and Dreyara's death, and does the Inkwell take over any of her work? [[Qalix's Network]] lists [[Ru'Shan Halrune]] as a natural fit to take over her work
+- [ ] Does he know the party has Shard 6?
+- [ ] The Eledyr line (recruited using Clasp connections, investigating a prophecy through him) follows Eledyr's note and waits on "Eledyr: whether he still matters, and where he is"
 
 ## Connected Elements
 
