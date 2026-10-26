@@ -27,7 +27,7 @@ Associated with the [[Lorestone of Eryndor - DM]].
 
 ![[Prophecy General Info#Core Information]]
 
-![[History of the Prophecy#Core Information]]
+![[Lorestone - Historical Creation#Core Information]]
 
 ![[The Prophecy - Original Form#Core Information]]
 

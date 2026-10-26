@@ -6,7 +6,7 @@ tags:
 
 ## What's Happening
 
-Rifts keep opening across Wildemount. Every faction has a theory about what they are, and none of them is right. The party has fought at a rift, studied Emer's research, and is about to have its own way to detect rifts: Hesterian's shard attunement.
+Rifts keep opening across Wildemount. Every faction has a theory about what they are, and none of them is right. The party has fought at a rift, studied Emer's research, and has begun attuning Hesterian to the shard, which will give it its own way to detect rifts.
 
 ## What Players Know vs Don't Know
 
@@ -17,6 +17,7 @@ Rifts keep opening across Wildemount. Every faction has a theory about what they
 - Emer's notes claim the rifts aren't natural, will widen if left alone, and may all come from "a single wound." Her map marks the Savalirwood, Zadash, Ashkeeper Peaks, Cyrios, and Ebonglass.
 - The Echoforge believes an assembled Lorestone will close the rifts. Qalix wants the stone to stabilize them.
 - The Malachite Cord calls the Savalirwood corruption a warning ripple from larger disturbances. Seraphina recognizes the blight from her home.
+- The shard warmed at the Deastok dig site, where no rift is known (Session 51).
 - Shard verse: "sees rifts' converging stream"; "to a future with rifts torn."
 
 **They don't know:**
@@ -29,10 +30,11 @@ Rifts keep opening across Wildemount. Every faction has a theory about what they
 > - **Ceratos can't touch the rifts.** It works only through its warlock thralls, Qalix among them. Qalix has a Great Old One patron but doesn't know its identity and has no direct contact with it. To Qalix, the patron is simply where his power comes from.
 > - **Rifts have been spreading since the original rupture.** For hundreds of years, the spread was not big enough or consistent enough or in enough populated areas to be noticed as anything more than random occurrences. They are starting to get noticed now only because the spread is accelerating enough to be recognizable. (The frog in the pot finally notices that the water's getting hot.)
 
-## Open Questions
+## Open Issues
 
 <!-- Deliberately undecided. Let play, and player theories, settle these. -->
 
+- [ ] **Top priority: design the first Rendspawn encounter (the next major encounter).** It happens on the road about a day short of Zadash, not in the city, and Hesterian's Planar Awareness finds the rift. Rift size and site are left to the design. The party is level 8 and Gerald plans to level it to 9 afterward. The Rendspawn tier is CR 9, and the encounter should frighten the party and may kill a PC. The stat block and the "2-3 Rendspawn" guideline are being redesigned ([[Rendspawn Reference Note]]).
 - How the rupture spreads to distant sites. (The Deastok arc's "The Truth" assumes an Astral route; keep it or loosen it when that arc closes.)
 - How the party traces the rifts back to Molaesmyr
 - Whether the rifts can be healed at the source, or only closed one at a time
@@ -48,6 +50,7 @@ Rifts keep opening across Wildemount. Every faction has a theory about what they
 
 - Hesterian's attunement gives her Planar Awareness: direction, plane, and approximate size and stability for any rift within 1,000 feet, at shorter range for weaker rifts (see [[Table Rulings#Planar Detection Range]]). The first rift she senses is the party's first real measurement.
 - Zadash, their next destination, is on Emer's map.
+- First Rendspawn: on the road a day short of Zadash; see the top Open Issue.
 - Routes already in play that could lead toward Molaesmyr (no single one has to work): Kelmen's "Molaesmyr echo," Seraphina's Savalirwood dreams, the Cord's "warning ripple," the Savalirwood signature in Emer's notes (also found at her transformation site in the Marrow Valley), and her smeared letter ("I've seen what happened to Molaesmyr").
 
 ### Reference Notes
