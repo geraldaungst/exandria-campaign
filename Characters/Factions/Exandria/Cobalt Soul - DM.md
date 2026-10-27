@@ -8,6 +8,10 @@ tags:
 ---
 
 # Quick Reference
+
+> [!quote]- What players know
+> ![[Cobalt Soul]]
+
 **Base:** [[Rexxentrum - DM|Rexxentrum]]; the order coordinates its archives from there
 **Goal:** acquire, preserve and share knowledge in the service of Ioun
 **Status:** its Rexxentrum Archive holds [[Shard 5 - Rexxentrum Shard|Shard 5]] in an unauthorized, warded vault, for a secret research project run by [[Archivist Ovedo]]

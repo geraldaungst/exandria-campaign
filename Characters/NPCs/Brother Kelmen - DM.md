@@ -10,6 +10,10 @@ whereabouts: "[[Monastery of Dimensional Harmony - DM]]"
 ---
 
 # Quick Reference
+
+> [!quote]- What players know
+> ![[Brother Kelmen]]
+
 > [!info] Essential Details
 > - **Location:** Spirit bound in [[Solvei's Vigilance]], the longbow Qilynn carries. Formerly the memorial chamber of [[Monastery of Dimensional Harmony - DM|the Monastery of Dimensional Harmony]].
 > - **Goal:** Complete what the monks began. Now that the ritual is done, to understand what the party is doing with the Lorestone and to share what he knows.

@@ -8,6 +8,9 @@ tags:
 
 ## Quick Reference
 
+> [!quote]- What players know
+> ![[Ilya's Realm Shop]]
+
 > [!info] Essential Details
 > - Current Status: Active
 > - Key Feature:

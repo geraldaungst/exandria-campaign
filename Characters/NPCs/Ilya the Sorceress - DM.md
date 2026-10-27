@@ -9,6 +9,9 @@ whereabouts: "[[Menagerie Coast]]"
 
 ## Quick Reference
 
+> [!quote]- What players know
+> ![[Ilya the Sorceress]]
+
 > [!info] Essential Details
 > - **Location:** [[Ilya's Realm Shop - DM]], Port Damali
 > - **Goal:** Run her high-end shop on her own terms and get her brother home safe

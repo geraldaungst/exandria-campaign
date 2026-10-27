@@ -6,6 +6,10 @@ tags:
 ---
 
 # Quick Reference
+
+> [!quote]- What players know
+> ![[Soulwood]]
+
 **Location:** Grows wherever a magic user died near a tree: old battlefields, abandoned mage towers, traditional meditation spots.
 **Significance:** Dense, magically insulating wood. The material of the [[Soulwood Riftcage]]. The in-world story of its origin is [[The Origin of Soulwood - A Folktale]].
 

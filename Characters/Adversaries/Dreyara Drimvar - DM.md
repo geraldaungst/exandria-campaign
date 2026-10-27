@@ -15,6 +15,9 @@ disposition: hostile
 
 ## Quick Reference
 
+> [!quote]- What players know
+> ![[Dreyara Drimvar]]
+
 > [!info] Essential Details
 > - **Location:** Deceased. Killed by the Third Act outside the rear entrance of the [[Monastery of Dimensional Harmony - DM|Monastery of Dimensional Harmony]] on 25 Thunsheer 835
 > - **Alias:** Vessa Blackthorn

@@ -7,7 +7,8 @@ tags:
   - place/ringhold
 ---
 
-![[The Ringhold]]
+> [!quote]- What players know
+> ![[The Ringhold]]
 
 ## DM Notes
 

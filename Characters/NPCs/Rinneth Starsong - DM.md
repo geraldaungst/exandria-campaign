@@ -17,6 +17,9 @@ whereabouts: "[[Menagerie Coast]]"
 
 ## Quick Reference
 
+> [!quote]- What players know
+> ![[Rinneth Starsong]]
+
 > [!info] Essential Details
 > - Current Location: [[Shrine of Melora - DM|The Shrine of Melora]]
 > - Key Motivation: Prevent catastrophic magical events foreseen in her visions

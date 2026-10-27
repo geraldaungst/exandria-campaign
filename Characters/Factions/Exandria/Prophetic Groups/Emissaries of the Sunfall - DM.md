@@ -14,6 +14,9 @@ tags:
 
 ## Quick Reference
 
+> [!quote]- What players know
+> ![[Emissaries of the Sunfall]]
+
 > [!info] Essential Details
 > - Base of Operations: Network presence in [[Rexxentrum - DM]], meetings at [[Scroll and Scribe]]
 > - Primary Goal: Construct a permanent doorway to harness rift power

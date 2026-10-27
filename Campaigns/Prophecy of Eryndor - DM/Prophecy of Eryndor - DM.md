@@ -8,6 +8,9 @@ timeline: "[[Eryndor Timeline]]"
 world: Exandria
 ---
 
+> [!quote]- What players know
+> ![[Prophecy of Eryndor]]
+
 ## Prophecy of Eryndor
 
 <!-- Campaign hub. The properties above (the campaign-hub tag, the campaign's one campaign/… tag, calendar, timeline, status, world) drive the DM hubs and templates. Add any other properties or content freely; the automation ignores them. Change `status` only when the campaign starts, pauses, or ends. -->

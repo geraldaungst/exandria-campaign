@@ -10,6 +10,9 @@ tags:
 
 ## Quick Reference
 
+> [!quote]- What players know
+> ![[Savalirwood]]
+
 > [!info] Essential Details
 > - Current Status:
 > - Key Feature:

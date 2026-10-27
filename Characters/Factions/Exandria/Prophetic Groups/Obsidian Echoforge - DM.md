@@ -13,6 +13,9 @@ tags:
 
 ## Quick Reference
 
+> [!quote]- What players know
+> ![[Obsidian Echoforge]]
+
 > [!info] Essential Details
 > - Base of Operations: Permanent collection and workshop on the outskirts of [[Palma Flora]] on the Menagerie Coast
 > - Primary Goal: Locate and assemble the fragments of the [[Lorestone of Eryndor - DM]] in order to close rifts

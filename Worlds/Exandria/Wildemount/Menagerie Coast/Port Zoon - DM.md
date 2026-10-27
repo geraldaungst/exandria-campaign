@@ -8,6 +8,9 @@ tags:
 
 ## Quick Reference
 
+> [!quote]- What players know
+> ![[Port Zoon]]
+
 > [!info] Essential Details
 > - Current Status: Active
 > - Key Feature:

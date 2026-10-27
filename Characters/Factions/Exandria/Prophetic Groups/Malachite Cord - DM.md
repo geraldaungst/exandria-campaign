@@ -11,6 +11,9 @@ ties_to:
 
 ## Quick Reference
 
+> [!quote]- What players know
+> ![[Malachite Cord]]
+
 > [!info] Essential Details
 > - Base of Operations: [[Odessloe]]
 > - Primary Goal: Identify the source of corruption in the Savalirwood and stop the spread

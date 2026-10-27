@@ -12,6 +12,10 @@ ties_to:
 ---
 
 # Quick Reference
+
+> [!quote]- What players know
+> ![[Cerberus Assembly]]
+
 **Base:** [[Rexxentrum - DM]], with a research facility in the city
 **Goal:** research the origin of the [[Rupture of the Molaesmyr Fey Crossing|cataclysm]] that ended [[Ruins of Molaesmyr - DM|Molaesmyr]], and the exploration and exploitation of Feywild connections
 **Status:** holds [[Melthes]] in custody since about 833 PD. His current condition is unknown

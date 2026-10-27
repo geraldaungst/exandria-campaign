@@ -8,6 +8,9 @@ tags:
 
 ## Quick Reference
 
+> [!quote]- What players know
+> ![[The Pudgy Pigeon]]
+
 > [!info] Essential Details
 > - Current Status: Active tavern of comfortable quality
 > - Key Feature: Historic tavern with roots in local trading history

@@ -12,6 +12,9 @@ tags:
 
 # Quick Reference
 
+> [!quote]- What players know
+> ![[Lorestone of Eryndor]]
+
 **Location:** Scattered in eight pieces. [[Lorestone Shard Status Tracker]] lists each holder and who knows what. [[Lyren Willowwhisper]] of the [[Obsidian Echoforge - DM]] holds Shards 1 to 4.
 **Significance:** Contains the [[The Prophecy|prophecy]] of [[Eryndor]]. Assembled and used with a Luxon Beacon, it closes planar rifts; used without one, it fails catastrophically.
 **Known by:** the [[Obsidian Echoforge - DM]] and, partially, [[Celdric Ambril]].

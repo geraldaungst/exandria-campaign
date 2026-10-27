@@ -9,6 +9,10 @@ tags:
 ---
 
 # Quick Reference
+
+> [!quote]- What players know
+> ![[Clasp]]
+
 **Base:** [[Aelorin's Headquarters - DM|Aelorin's Headquarters]], beneath a tailor shop in [[Port Damali - DM|Port Damali]]. The guild began in Tal'Dorei and keeps hideouts in its cities
 **Goal:** not set. It works as a guild for hire: thieves, assassins, black-market dealers and contract brokers
 **Status:** the Port Damali cell is under Aelorin. He threw Qilynn out after her failed final mission

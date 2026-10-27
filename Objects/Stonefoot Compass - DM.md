@@ -9,6 +9,10 @@ ties_to:
 ---
 
 # Quick Reference
+
+> [!quote]- What players know
+> ![[Stonefoot Compass]]
+
 **Location:** With the party. They found it inside a snail in the Othemoor Swamp ([[Search for the Stonefoot Compass]]).
 **Significance:** Aethor Kalisk of the [[Obsidian Echoforge - DM|Obsidian Echoforge]] told the party it leads to "the fifth shard". The Echoforge thinks that is Shard 5; it points to [[Shard 7 - Ebonglass Shard|Shard 7]].
 

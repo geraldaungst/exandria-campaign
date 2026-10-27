@@ -7,6 +7,10 @@ tags:
 ---
 
 # Quick Reference
+
+> [!quote]- What players know
+> ![[Blade of Maroth Fenn]]
+
 **Location:** Carried by [[Drawg Stormbrew - Brew|Drawg]].
 **Significance:** A Vestige of Divergence whose powers grow with its attuned wielder (unknown to the party). Known by: Drawg.
 

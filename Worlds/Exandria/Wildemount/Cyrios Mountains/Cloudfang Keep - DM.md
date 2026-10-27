@@ -7,6 +7,9 @@ tags:
   - world/exandria
 ---
 
+> [!quote]- What players know
+> ![[Cloudfang Keep]]
+
 When Lady Emer was human, she excelled as a scout in the mercenary Emissaries of the Sunfall. During her travels, she encountered a planar rift and became fascinated by the raw, chaotic energy it contained. She began experimenting with planar magic, seeking to understand its nature and harness its power. Her transformation into a medusa occurred during one of these early experiments with rift energy—though the exact circumstances remain unclear even to her, the memories fragmented and distorted by the very forces she was studying. Rather than reject what she became, she embraced the transformation as proof of her theories and a unique opportunity to understand how rift energy affects living beings from direct experience.
 
 Emer now seeks to master planar magic, driven by a thirst for knowledge and the potential for immense power. She believes the Lorestone shards are keys to unlocking the secrets of the planes and controlling the rifts that scar Exandria.

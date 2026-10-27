@@ -11,6 +11,9 @@ tags:
 
 ## Quick Reference
 
+> [!quote]- What players know
+> ![[Harmony Hall]]
+
 > [!info] Essential Details
 > - Current Status:
 > - Key Feature:

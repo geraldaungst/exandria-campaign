@@ -9,6 +9,9 @@ tags:
   - region/greying-wildlands
 ---
 
+> [!quote]- What players know
+> ![[Ruins of Molaesmyr]]
+
 (Pronounced "mo-LAY-əs-meer")
 
 250 years ago, Molaesmyr was a thriving elvish city in the middle of the lush Veluthil Forest. In 585 PD, the city suffered a [[Rupture of the Molaesmyr Fey Crossing|cataclysm]] of unknown origin, forcing the residents to flee. In mere days, the city was vacant and a creeping darkness was already encroaching on the surrounding woods. In the years since, a curse has infected the forest, now renamed the Savalirwood, slowly spreading outward from Molaesmyr. Many have attempted to ascertain the origin of the disaster, but none have been able to learn much.

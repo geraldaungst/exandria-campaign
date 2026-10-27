@@ -13,6 +13,10 @@ ties_to:
 ---
 
 # Quick Reference
+
+> [!quote]- What players know
+> ![[Kryn Dynasty]]
+
 **Base:** [[Rosohna]]
 **Goal:** not set (see Open Issues)
 **Status:** at open war with the [[Dwendalian Empire - DM|Dwendalian Empire]] along the frontier. Possesses Luxon Beacons but is unaware they can work with the Lorestone ([[Luxon Beacon Integration with Lorestone]])

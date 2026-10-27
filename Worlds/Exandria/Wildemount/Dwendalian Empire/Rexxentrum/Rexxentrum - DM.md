@@ -8,6 +8,9 @@ tags:
 
 ## Quick Reference
 
+> [!quote]- What players know
+> ![[Rexxentrum]]
+
 > [!info] Essential Details
 > - Current Status:
 > - Key Feature:

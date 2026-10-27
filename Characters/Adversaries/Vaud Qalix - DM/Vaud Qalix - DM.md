@@ -21,6 +21,9 @@ whereabouts: "[[Xarzith Kitril - DM]]"
 
 ## Quick Reference
 
+> [!quote]- What players know
+> ![[Vaud Qalix]]
+
 > [!info] Essential Details
 > - **Where he is:** [[Xarzith Kitril - DM|Xarzith Kitril]] in public. Runs his operation from a hidden structure in the Ruins of Draconia, thought destroyed
 > - **Office:** Eye of the Scars, Protector of the Council of the [[Scars of Scale and Tooth]]; head of the Wardens of the Ravine

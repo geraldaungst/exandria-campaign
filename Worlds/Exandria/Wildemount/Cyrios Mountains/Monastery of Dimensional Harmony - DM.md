@@ -7,6 +7,9 @@ tags:
   - world/exandria
 ---
 
+> [!quote]- What players know
+> ![[Monastery of Dimensional Harmony]]
+
 ## Overview
 
 Adding meenlocks as a secondary creature type to foreshadow and populate the Deep Meditation Chamber. This creates escalating tension and provides narrative context for what spawned in the catastrophe.

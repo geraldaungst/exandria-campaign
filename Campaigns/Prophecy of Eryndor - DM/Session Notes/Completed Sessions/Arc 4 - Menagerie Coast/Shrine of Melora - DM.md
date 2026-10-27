@@ -12,6 +12,9 @@ tags:
 
 ### Quick Reference
 
+> [!quote]- What players know
+> ![[Shrine of Melora]]
+
 > [!info] Essential Details
 > - Current Status:
 > - Key Feature:

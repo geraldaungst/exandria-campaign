@@ -10,6 +10,10 @@ tags:
 ---
 
 # Quick Reference
+
+> [!quote]- What players know
+> ![[Dwendalian Empire]]
+
 **Base:** [[Rexxentrum - DM]]
 **Goal:**
 **Status:** at open war with the [[Kryn Dynasty - DM|Kryn Dynasty]] along the eastern frontier

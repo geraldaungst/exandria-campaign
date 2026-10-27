@@ -8,6 +8,9 @@ tags:
 
 ## Quick Reference
 
+> [!quote]- What players know
+> ![[Cobalt Soul Archive in Port Damali]]
+
 **Status:**
 
 **Significance:**

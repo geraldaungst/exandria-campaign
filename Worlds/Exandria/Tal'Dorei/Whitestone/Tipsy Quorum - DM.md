@@ -6,6 +6,9 @@ tags:
   - region/taldorei
 ---
 
+> [!quote]- What players know
+> ![[Tipsy Quorum]]
+
 Tavern in Whitestone
 
 [[Shauna Rual]] is the proprietor.

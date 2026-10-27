@@ -9,6 +9,10 @@ tags:
 ---
 
 # Quick Reference
+
+> [!quote]- What players know
+> ![[Draconia]]
+
 **Base:** 
 **Goal:** 
 **Status:** 

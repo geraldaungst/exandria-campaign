@@ -9,6 +9,9 @@ tags:
 whereabouts: "[[Gnurlsotten's Nosh & Nip - DM]]"
 ---
 
+> [!quote]- What players know
+> ![[Grent Gnurlsotten]]
+
 ## Grent Gnurlsotten
 
 Proprietor of [[Gnurlsotten's Nosh & Nip - DM]] and, by accident, the maker of the most sought-after cheese in Wildemount.

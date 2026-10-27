@@ -8,6 +8,9 @@ tags:
 
 ## Quick Reference
 
+> [!quote]- What players know
+> ![[Aelorin's Headquarters]]
+
 > [!info] Essential Details
 > - Current Status: Active
 > - Key Feature: Tailor shop with hidden basement; new rift to the Plane of Earth

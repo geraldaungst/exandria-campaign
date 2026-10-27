@@ -7,6 +7,9 @@ tags:
   - region/cyrios-mountains
 ---
 
+> [!quote]- What players know
+> ![[Gnurlsotten's Nosh & Nip]]
+
 ## Gnurlsotten's Nosh & Nip
 
 A one-room tavern and cheesery at the edge of the Cyrios Mountains. Not in a town—but close enough that regulars from nearby settlements make the trip, and far enough that travelers treat it as a known haven.

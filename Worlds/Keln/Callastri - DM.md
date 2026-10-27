@@ -6,7 +6,8 @@ tags:
   - region/callastri
 ---
 
-![[Callastri]]
+> [!quote]- What players know
+> ![[Callastri]]
 
 ## DM History
 

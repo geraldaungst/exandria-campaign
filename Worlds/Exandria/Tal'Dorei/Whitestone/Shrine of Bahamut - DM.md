@@ -6,6 +6,9 @@ tags:
   - region/taldorei
 ---
 
+> [!quote]- What players know
+> ![[Shrine of Bahamut]]
+
 ## Exterior of the Shrine
 
 The shrine to Bahamut in Whitestone is a modest structure, befitting Bahamut's preference for austerity over grandiosity. It stands unassuming amidst the city's architecture, with a simple design that belies its sacred nature. The building is made of whitewashed stone with a roof of slate tiles. A single, modest spire rises from the structure, symbolizing a connection to the divine. The entrance features a plain wooden door, above which is carved a symbol of Bahamut - a dragon's head in profile, exuding a sense of quiet dignity.

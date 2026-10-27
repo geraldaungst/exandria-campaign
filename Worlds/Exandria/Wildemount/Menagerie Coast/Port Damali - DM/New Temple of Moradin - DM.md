@@ -8,6 +8,9 @@ tags:
 
 ## Quick Reference
 
+> [!quote]- What players know
+> ![[New Temple of Moradin]]
+
 > [!info] Essential Details
 > - Current Status: Construction resumed after players cleansed crypt
 > - Key Feature: Ancient Ki'Nau burial crypts beneath foundation

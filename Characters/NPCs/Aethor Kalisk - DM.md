@@ -13,6 +13,9 @@ whereabouts: "[[Port Damali - DM]]"
 
 ## Quick Reference
 
+> [!quote]- What players know
+> ![[Aethor Kalisk]]
+
 > [!info] Essential Details
 > - **Location:** [[Port Damali - DM]]
 > - **Goal:** Locate and assemble [[Lorestone of Eryndor - DM]] fragments using arcane refraction

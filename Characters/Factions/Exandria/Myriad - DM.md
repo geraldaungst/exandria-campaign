@@ -9,6 +9,10 @@ tags:
 ---
 
 # Quick Reference
+
+> [!quote]- What players know
+> ![[Myriad]]
+
 **Base:** no single seat. In Zadash, beneath the Evening Nip tavern ([[Characters/Factions/Exandria/Gentleman's Organization|Gentleman's Organization]]). Port Damali is a long-standing stronghold
 **Goal:** money and control of city institutions through bribery, blackmail and debts of favor, not open violence
 **Status:** the Zadash branch is recovering from the crackdown of winter 834–835 under Korfel; Port Damali's merchant guilds are mostly under Myriad control

@@ -12,6 +12,9 @@ tags:
 
 ## Quick Reference
 
+> [!quote]- What players know
+> ![[Celunor's Collection]]
+
 > [!info] Essential Details
 > - Current Status: Active business
 > - Key Feature: Theatrical underwater-themed bookshop

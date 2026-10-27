@@ -14,6 +14,9 @@ whereabouts: "[[Cloudfang Keep - DM]]"
 
 ## Quick Reference
 
+> [!quote]- What players know
+> ![[Varnes Dwell]]
+
 > [!info] Essential Details
 >
 > - Current Location: Cloudfang Keep (petrified in Stone Garden, Area E5)

@@ -14,6 +14,9 @@ whereabouts: "[[Cloudfang Keep - DM]]"
 
 ## Quick Reference
 
+> [!quote]- What players know
+> ![[Lady Emer]]
+
 > [!info] Essential Details
 > - **Where she is:** Cloudfang Keep, [[Cloudfang Keep - DM|Library (E6)]]. She stays unless something moves her. Next move undecided
 > - **Goal:** Revenge on the party. Keep her standing with Qalix after losing the crystal
