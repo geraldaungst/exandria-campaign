@@ -41,7 +41,7 @@ Related notes: [[DM Hubs Design]] (hub rules, campaign notes, session date field
 - A link to a place from a DM note points to the DM note when one exists, otherwise to the player note. Code treats a link to either note as the same place (2026-10-27).
 - Every DM note with a player twin embeds it in a collapsed callout directly under Quick Reference: `> [!quote]- What players know` then `> ![[<player note>]]`. Embeds go from DM to player only (2026-10-27).
 - Artifact pieces: the hub's Record a change form sets `whereabouts` when it writes a holder or moved line. History stays the record (2026-10-27).
-- Engine: one core module, `z_Templates/Scripts/location_core.js`, loaded by the templates through `dm_helpers.js` and by the hubs through Shared Helpers. It holds all twin handling (`placeOf`) and every parent walk; no other code reads the location properties directly. Spec: Location Engine Spec in 00 DM Screen (being written) (2026-10-27).
+- Engine: one core module, `z_Templates/Scripts/location_core.js`, loaded by the templates through `dm_helpers.js` and by the hubs through Shared Helpers. It holds all twin handling (`placeOf`) and every parent walk; no other code reads the location properties directly. Spec: [[Location Engine Spec]] (2026-10-27).
 
 **Note types**
 - Plot thread: a campaign-scale question spanning many arcs. Tagged with one stage: `plot/active`, `plot/upcoming`, `plot/seed`, `plot/paused` (2026-10-19).

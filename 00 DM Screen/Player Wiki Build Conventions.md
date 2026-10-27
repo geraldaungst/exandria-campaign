@@ -78,7 +78,7 @@ Player Wiki/
 
 ### Frontmatter
 
-Include all four keys. Their order does not matter: Obsidian reorders properties when a note is edited, so existing notes legitimately differ.
+Include all four keys; location notes also carry `political_region` and `natural_region`. Their order does not matter: Obsidian reorders properties when a note is edited, so existing notes legitimately differ.
 
 yaml
 
@@ -88,16 +88,18 @@ tags:
   - location          # location | npc | organization | artifact | atomic (lore)
   - player-facing
   - world/exandria
-  - region/<slug>     # locations, NPCs, and factions with a clear home region; reuse the vault's existing region tags and spellings
 aliases: []
 cssclasses:
   - world-exandria
 publish: true
+political_region:     # location notes only: links to Player Wiki notes, nearest parent first
+  - "[[Menagerie Coast]]"
+natural_region: []    # location notes only
 ---
 ```
 
-- Before creating a region tag, search the vault for the existing ones (for example `region/menagerie-coast`, `region/dwendalian-empire`) and reuse them exactly.
-- If no region tag fits, create `region/<slug>` from the region's note title, and make sure it matches `Part of`. List every new tag in the delivery so later scopes reuse it.
+- Location notes carry `political_region` (who governs the place) and `natural_region` (the land it sits on). Each is a list naming the nearest parent only, main parent first. A list is empty when there is none, and both are empty for a place at the top of its world. Link only to Player Wiki notes: frontmatter is hidden on the site but stays in the page source, so a DM note name there is a leak. A parent with no player note yet follows the usual rule for links to notes that will exist.
+- People, faction, item and lore notes carry no location properties. `region/` and `place/` tags are retired: never add one, and list any player note that still has one under "Vault notes to fix".
 - No campaign tag on player notes.
 - Put alternate names players use in `aliases`.
 - Use the `artifact` tag for every note in `Items/`, including mundane notable items such as a famous cheese. This follows the vault's tag plan, which assigns `#artifact` to items of significance.
@@ -128,7 +130,8 @@ markdown
 - Link to another subject only when it has a note, or will get one: it is on [[Player Wiki Ledger]] or owned by a scope on [[Player Wiki Scope Checklist]]. Leave every other mention as plain text. Never link player characters.
 - Every link to a subject outside this batch generates a "Link targets" check under Naming. Keep these links few: link a subject in a clause only when the connection helps the reader.
 - Use the exact note title as the link target, with an alias for display: `[[Torvald Halsen|Torvald]]`. Never shorten the target (`[[Torvald]]`), because it would not resolve to the real note.
-- Place relationships (`Part of`, the region tag, "located in") come from the vault, not from the players' notes. The region tag and `Part of` must agree. Do not add geography or facts that are not in the sources.
+- Place relationships (`Part of`, the two parent properties, "located in") come from the vault, not from the players' notes. Use the DM note's parents, except a parent that only the DM knows; then use the nearest parent players know. `Part of` names the first `political_region` entry, or the first `natural_region` entry when there is no political parent. Do not add geography or facts that are not in the sources.
+- When a new player note is the twin of an existing DM note, list under "Vault notes to fix": add the "What players know" embed to the DM note, directly under its Quick Reference, as `> [!quote]- What players know` followed by `> ![[<player note>]]`.
 - No Dataview or Datacore blocks, no `[!secret]` callouts, and no DM commentary in player notes.
 
 ### Classifying information
@@ -220,7 +223,7 @@ The wiki is built in many runs, each with its own scope. The run's scope line co
     - open questions, all in one round, grouped by subject and most consequential first, each with a proposed default;
     - a tally: facts proposed, facts held back, judgment calls, open questions.
 3. **Wait.** Do not draft notes until Gerald has answered.
-4. **Draft.** Produce each approved player note as a markdown file, ready to paste into the vault. Then give: the "Rename first" list in its two parts (this batch, and link targets with their search result), the replacement `The World of Exandria.md`, places that crossed the hub threshold, with their updated place notes and the revised hub, any new region tags, "Vault notes to fix" (outdated tags, or vault notes that disagree), the rows to add to the ledger, "Additions for existing notes", "Unassigned subjects", and a list of links that point to notes that do not exist. If a new ambiguity turns up while drafting, stop and ask. Do not decide it silently, and list it under "Raised during drafting".
+4. **Draft.** Produce each approved player note as a markdown file, ready to paste into the vault. Then give: the "Rename first" list in its two parts (this batch, and link targets with their search result), the replacement `The World of Exandria.md`, places that crossed the hub threshold, with their updated place notes and the revised hub, the parent properties of each new location note, "Vault notes to fix" (outdated tags, or vault notes that disagree), the rows to add to the ledger, "Additions for existing notes", "Unassigned subjects", and a list of links that point to notes that do not exist. If a new ambiguity turns up while drafting, stop and ask. Do not decide it silently, and list it under "Raised during drafting".
 5. **Review.** Before delivering, re-read each draft against the secret list. State in one line per note that nothing from bucket 3 is present, or say what you removed.
 
 ### Do not
