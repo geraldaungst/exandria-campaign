@@ -1,57 +1,58 @@
 <%*
-// ── NPC note: world and region, disposition, place and factions, then writes the tags ──
-// Place and faction are tags (place/…, faction/…), nested to any depth, so notes show up under every parent level.
+// ── NPC note: name, world, disposition, whereabouts, ties and factions, then writes the tags and properties ──
+// Where the NPC is found is the whereabouts property (a link to a place) or the unplaced tag; places the NPC comes from or
+// is tied to go in ties_to. Factions are tags (faction/…), nested to any depth. No place or region tags.
+// If a Player Wiki note of the same name exists, the note is named "… - DM" and embeds it under Quick Reference.
+// Quick Capture builds NPC stubs from this template's body: keep the closing tag of this block directly before the
+// frontmatter, and no Templater tags in the body except the embed tag (the word embed between percent-angle brackets).
 // ── Shared helpers: z_Templates/Scripts/dm_helpers.js (a Templater user script), used by every template that
-// runs code. Edit them there, once, for all of them.
-const { C, ABORT, FACTION, slug, tagPath, fmOf, tagsOfFile, liveNotes, vocabulary, levels, dropParents, pickTag, pickFactions, childFolders,
-  inWorldFilter, worldRegionEntries, campaignTagOf, campaignNotes, pickCampaign, campaignWorld, placeNoteFor, linkTo,
-  findPath, ensureFolder, askTitle, discard, safeMove } = tp.user.dm_helpers(tp, Notice);
-
+// runs code. Edit them there, once, for all of them. The location logic is in location_core.js, reached through them.
+const { C, ABORT, FACTION, PROP, UNPLACED, liveNotes, vocabulary, dropParents, pickFactions, inWorldFilter,
+  askTitle, discard, safeMove, locations, worldChoices, pickMany, pickOne, propText, withTwin, embedFor } = tp.user.dm_helpers(tp, Notice);
 
 // 0. Name first
-const title = await askTitle("NPC");
-if (!title) { await discard(); return; }
+const asked = await askTitle("NPC");
+if (!asked) { await discard(); return; }
+const { title, wiki } = withTwin(asked);
 
-// 1. World and region, from the folders under the worlds folder
-const worldsRoot = app.vault.getAbstractFileByPath(C("folder_worlds", "Worlds"));
-if (!worldsRoot) { new Notice("Could not find the worlds folder."); await discard(); return; }
-const entries = worldRegionEntries(worldsRoot);
-const labels = [...entries.map((e) => e.label), ABORT];
-const values = [...entries, { label: ABORT }];
-const chosen = await tp.system.suggester(labels, values, false, "Which world and region does this NPC belong to?");
-if (!chosen || chosen.label === ABORT) { await discard(); return; }
-const worldTag = `world/${slug(chosen.world)}`;
-const regionTag = chosen.region ? `region/${slug(chosen.region)}` : null;
+// 1. World
+const worlds = worldChoices();
+const world = await tp.system.suggester([...worlds.map((w) => w.label), ABORT], [...worlds, null], false, "Which world does this NPC belong to?");
+if (!world) { await discard(); return; }
 
 // 2. Disposition (set once)
 const dispositions = ["indifferent", "friendly", "hostile"];
 const disposition = await tp.system.suggester(dispositions, dispositions, false, "How does this NPC feel about the party?");
 if (!disposition) { await discard(); return; }
 
-// 3. Place: where this NPC is typically found. Only places already used in this world are listed.
-const inWorld = liveNotes().filter(inWorldFilter(chosen.world));
-const placeTag = await pickTag("place", "place", vocabulary("place", inWorld), "— none yet (adds needs-work)", true, "Where is this NPC usually found? (place tag)");
+// 3. Whereabouts: where this NPC is usually found, or unplaced. Then the places, cultures or factions the NPC is tied to.
+const loc = locations();
+const where = await pickOne(loc.pickerChoices({ field: "whereabouts", world: world.slug }), "Where is this NPC usually found?",
+  [{ extra: "unplaced", label: "— Unplaced (no known or decided location)" }], { allowNew: true });
+if (!where) { await discard(); return; }
+const unplaced = where.extra === "unplaced";
+const ties = await pickMany(loc.pickerChoices({ field: "ties_to", world: world.slug }),
+  "Which places, cultures or factions is this NPC tied to, wherever they are now? (optional) Pick any, then Done", { noneLabel: "no ties", allowNew: true });
 
 // 4. Factions: a checklist of the faction tags already used in this world.
+const inWorld = liveNotes().filter(inWorldFilter(world.slug));
 const picked = await pickFactions(vocabulary(FACTION, inWorld), "Factions for this NPC: select an entry to check or uncheck it, then choose Done");
 
-// 5. Tags and file location
-const tags = [
-  C("tag_npc", "npc"), worldTag, regionTag,
-  ...dropParents([placeTag, ...picked].filter(Boolean)),
-  ...(placeTag ? [] : [C("tag_needs_work", "needs-work")]),
-].filter(Boolean);
+// 5. Tags, properties, embed and file location
+const tags = [C("tag_npc", "npc"), `world/${world.slug}`, ...dropParents(picked), ...(unplaced ? [UNPLACED] : [])].filter(Boolean);
 const tagLines = tags.map((t) => `  - ${t}`).join("\n");
+const propLines = propText([[PROP.whereabouts, unplaced ? null : where], [PROP.ties, ties]]);
+const embed = embedFor(wiki);
 await safeMove(C("folder_npcs", "Characters/NPCs"), title);
 _%>
 ---
 aliases: []
 disposition: <% disposition %>
 tags:
-<% tagLines %>
+<% tagLines %><% propLines %>
 ---
 
-# Quick Reference
+# Quick Reference<% embed %>
 > [!info] Essential Details
 > - **Location:** 
 > - **Goal:** 

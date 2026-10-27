@@ -1,5 +1,5 @@
 // location_core.js: the only code that reads location properties or resolves twins.
-// Spec: 00 DM Screen/Location Engine Spec.md (sections 3 and 4). Version 0.1.0.
+// Spec: 00 DM Screen/Location Engine Spec.md (sections 3 and 4). Version 0.1.1.
 //
 // One file, loaded by two runtimes (see the last two lines):
 //   - Templater user script (z_Templates/Scripts), reached through dm_helpers.js `locations()`.
@@ -14,7 +14,7 @@
 //   h       a hierarchy: "political", "natural" or "both".
 
 function createLocationIndex(app, cfg) {
-  const VERSION = "0.1.0";
+  const VERSION = "0.1.1";
 
   // ── Settings ────────────────────────────────────────────────────
   // Names come from the caller's cfg (Hub Config through Shared Helpers or dm_helpers). The built-in values
@@ -435,6 +435,33 @@ function createLocationIndex(app, cfg) {
     return out.sort(byLabel);
   }
 
+  // The player note of a subject, found by name: for a DM note being created ("Ilya the Sorceress" or
+  // "Ilya the Sorceress - DM"). null when there is none. Templates use it to name the DM note and add the embed.
+  function playerTwinOf(name) {
+    const inf = wikiByName.get(stripSuffix(String(name === undefined || name === null ? "" : name).trim()));
+    return inf ? inf.file : null;
+  }
+
+  // What a note has now in a location field, as picker choices ({ label, place|file, link }) in the written order.
+  // A link that does not resolve comes back as { label, link, broken: true }. Used by Set Location to show the
+  // current value and to pre-check a multi-pick.
+  function currentChoices(file, field) {
+    file = asFile(file);
+    if (!file) return [];
+    const canon = { political_region: P.political, natural_region: P.natural, whereabouts: P.whereabouts, site: P.site, ties_to: P.ties };
+    const name = Object.keys(canon).find((k) => k === field || canon[k] === field);
+    if (!name) return [];
+    const out = [];
+    for (const text of linkTexts(infoOf(file).fm[canon[name]])) {
+      const p = placeOf(text, file.path);
+      if (p.unresolved) { out.push({ label: p.name, link: p.name, broken: true }); continue; }
+      if (isPlaceKey(p)) { out.push({ label: trailLabel(p), place: p, link: linkFor(p, file.path), playerOnly: !p.dm }); continue; }
+      const f = p.dm || p.wiki;
+      out.push({ label: p.name, file: f, link: linkFor(f, file.path), playerOnly: !p.dm });
+    }
+    return out;
+  }
+
   // ── Checks (spec section 4) ─────────────────────────────────────
   // Each check is one registry entry: { id, n, label, kind, run() }. run() returns [{ file, detail, also? }].
   const nm = (inf) => stripSuffix(inf.name);
@@ -669,7 +696,7 @@ function createLocationIndex(app, cfg) {
     placeOf, entityOf, parents, trail, ancestors, descendants, whereIs, within, entitiesWithin,
     pickerChoices, linkFor, isPlayerOnly, checks, checkList, version: VERSION,
     // Extra exports (adding is allowed, spec 3.2 rule 2):
-    wikiLink, trailLabel,
+    wikiLink, trailLabel, playerTwinOf, currentChoices,
   };
   return api;
 }

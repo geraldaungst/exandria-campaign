@@ -2,9 +2,9 @@
 hide_from_related: true
 ---
 
-**Purpose:** The configuration reader (settings from [[Hub Config]]) and general utilities every other module uses: reading links, tags, and dates from notes; reading a note's text; finding and making notes and folders with capitals ignored; base styles. Nothing here knows about campaigns, sessions, or calendars.
+**Purpose:** The configuration reader (settings from [[Hub Config]]) and general utilities every other module uses: reading links, tags, and dates from notes; reading a note's text; finding and making notes and folders with capitals ignored; base styles; and `locations()`, the one way a hub reaches the location core (`z_Templates/Scripts/location_core.js`, spec: [[Location Engine Spec]]). Nothing here knows about campaigns, sessions, or calendars.
 
-**Exports:** `CONFIG_PATH`, `CONFIG_DEFAULTS`, `cfg`, `linkPath`, `asList`, `statusOf`, `shortName`, `dmSuffix`, `stripDmSuffix`, `num`, `dateText`, `S`, `pad`, `todayDay`, `dayOf`, `rawText`, `isExcluded`, `tagsOf`, `hasTag`, `inFolder`, `findPath`, `ensureFolder`, `availablePath`, `daysBetween`, `useNoteText`, `stripComments`, `escapeRe`, `bulletValue`, `numberRanges`
+**Exports:** `CONFIG_PATH`, `CONFIG_DEFAULTS`, `cfg`, `linkPath`, `asList`, `statusOf`, `shortName`, `dmSuffix`, `stripDmSuffix`, `num`, `dateText`, `S`, `pad`, `todayDay`, `dayOf`, `rawText`, `isExcluded`, `tagsOf`, `hasTag`, `inFolder`, `findPath`, `ensureFolder`, `availablePath`, `daysBetween`, `useNoteText`, `stripComments`, `escapeRe`, `bulletValue`, `numberRanges`, `locations`
 
 **Depends on:** none
 
@@ -38,6 +38,9 @@ const CONFIG_DEFAULTS = {
   campaign_tag_prefix: "campaign/",
   tag_timeline: "inline-events",
   tag_improvised: "improvised",
+  tag_unplaced: "unplaced",
+  tag_deceased: "deceased",
+  tag_encounter: "encounter",
   folder_npcs: "Characters/NPCs",
   folder_factions: "Characters/Factions",
   folder_stubs: "Stubs",
@@ -52,6 +55,9 @@ const CONFIG_DEFAULTS = {
   folder_objects: "Objects",
   folder_characters: "Characters",
   folder_worlds: "Worlds",
+  folder_kind_places: "Places",
+  folder_kind_lore: "Lore",
+  folder_kind_tables: "Tables",
   folder_dm_screen: "00 DM Screen",
   folder_code: "00 DM Screen/Code",
   excluded_folder_prefix: "z_",
@@ -63,6 +69,12 @@ const CONFIG_DEFAULTS = {
   label_changed_at_table: "Changed at the table",
   label_world_next: "World next",
   label_party: "Party",
+  label_player_only: "player note only",
+  prop_political_region: "political_region",
+  prop_natural_region: "natural_region",
+  prop_whereabouts: "whereabouts",
+  prop_site: "site",
+  prop_ties_to: "ties_to",
   piece_tag_prefix: "piece",
   heading_piece_history: "History",
   heading_piece_knows: "Who knows",
@@ -192,6 +204,23 @@ function availablePath(folder, name) {
   }
 }
 
+// ── Location ─────────────────────────────────────────────────────
+// The location core is one plain script shared with the templates (spec: Location Engine Spec). It is loaded once here;
+// if it can't be loaded, only locations() fails, so every other hub keeps working.
+let createLocationIndex = null;
+let locationLoadError = null;
+try {
+  createLocationIndex = await dc.require("z_Templates/Scripts/location_core.js");
+} catch (e) {
+  locationLoadError = e;
+  console.error("Shared Helpers: could not load z_Templates/Scripts/location_core.js", e);
+}
+/** A fresh location index over the vault (twins, parents, whereIs, within, pickers, checks), with the current settings. */
+function locations() {
+  if (typeof createLocationIndex !== "function") throw new Error(`The location core could not be loaded (z_Templates/Scripts/location_core.js): ${locationLoadError?.message ?? "not a function"}`);
+  return createLocationIndex(app, cfg());
+}
+
 const daysBetween = (a, b) => Math.round((Date.parse(`${b}T00:00:00`) - Date.parse(`${a}T00:00:00`)) / 86400000);
 
 /** A note's full text; re-read whenever the note changes. Empty string until loaded or if missing. */
@@ -235,5 +264,5 @@ function numberRanges(nums) {
   return parts.join(", ");
 }
 
-return { CONFIG_PATH, CONFIG_DEFAULTS, cfg, linkPath, asList, statusOf, shortName, dmSuffix, stripDmSuffix, num, dateText, S, pad, todayDay, dayOf, rawText, isExcluded, tagsOf, hasTag, inFolder, findPath, ensureFolder, availablePath, daysBetween, useNoteText, stripComments, escapeRe, bulletValue, numberRanges };
+return { CONFIG_PATH, CONFIG_DEFAULTS, cfg, linkPath, asList, statusOf, shortName, dmSuffix, stripDmSuffix, num, dateText, S, pad, todayDay, dayOf, rawText, isExcluded, tagsOf, hasTag, inFolder, findPath, ensureFolder, availablePath, daysBetween, useNoteText, stripComments, escapeRe, bulletValue, numberRanges, locations };
 ```

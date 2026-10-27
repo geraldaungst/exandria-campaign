@@ -1,34 +1,41 @@
 <%*
-// ── Item note: name, then world; writes the type tag (artifact) and the world tag, and files the note in the
-// objects folder (Objects). Items carry no region tag.
-// Quick Capture builds item stubs from this template's body: keep the closing tag of this block directly
-// before the frontmatter, and no Templater tags below the frontmatter.
+// ── Item note: name, world, whereabouts; writes the type tag (artifact), the world tag and the whereabouts property, and
+// files the note in the objects folder (Objects). Whereabouts is a place or a person (a PC when the party holds it), or the
+// unplaced tag. No region tag.
+// If a Player Wiki note of the same name exists, the note is named "… - DM" and embeds it under Quick Reference.
+// Quick Capture builds item stubs from this template's body: keep the closing tag of this block directly before the
+// frontmatter, and no Templater tags in the body except the embed tag (the word embed between percent-angle brackets).
 // ── Shared helpers: z_Templates/Scripts/dm_helpers.js (a Templater user script), used by every template that
-// runs code. Edit them there, once, for all of them.
-const { C, ABORT, FACTION, slug, tagPath, fmOf, tagsOfFile, liveNotes, vocabulary, levels, dropParents, pickTag, pickFactions, childFolders,
-  inWorldFilter, worldRegionEntries, campaignTagOf, campaignNotes, pickCampaign, campaignWorld, placeNoteFor, linkTo,
-  findPath, ensureFolder, askTitle, discard, safeMove } = tp.user.dm_helpers(tp, Notice);
+// runs code. Edit them there, once, for all of them. The location logic is in location_core.js, reached through them.
+const { C, ABORT, PROP, UNPLACED, askTitle, discard, safeMove, locations, worldChoices, pickOne, propText, withTwin, embedFor } = tp.user.dm_helpers(tp, Notice);
 
-const title = await askTitle("Item");
-if (!title) { await discard(); return; }
+const asked = await askTitle("Item");
+if (!asked) { await discard(); return; }
+const { title, wiki } = withTwin(asked);
 
-// World: the folders under the worlds folder
-const worldsRoot = app.vault.getAbstractFileByPath(C("folder_worlds", "Worlds"));
-if (!worldsRoot) { new Notice("Could not find the worlds folder."); await discard(); return; }
-const worlds = childFolders(worldsRoot).map((f) => f.name).sort((a, b) => a.localeCompare(b));
-const world = await tp.system.suggester([...worlds, ABORT], [...worlds, ABORT], false, "Which world does this item belong to?");
-if (!world || world === ABORT) { await discard(); return; }
+// World
+const worlds = worldChoices();
+const world = await tp.system.suggester([...worlds.map((w) => w.label), ABORT], [...worlds, null], false, "Which world does this item belong to?");
+if (!world) { await discard(); return; }
 
-const tags = [C("tag_item", "artifact"), `world/${slug(world)}`];
+// Whereabouts: a place or the person holding it, or unplaced
+const where = await pickOne(locations().pickerChoices({ field: "whereabouts", world: world.slug, kind: "item" }), "Where is this item now (a place, or the person holding it)?",
+  [{ extra: "unplaced", label: "— Unplaced (no known or decided location)" }], { allowNew: true });
+if (!where) { await discard(); return; }
+const unplaced = where.extra === "unplaced";
+
+const tags = [C("tag_item", "artifact"), `world/${world.slug}`, ...(unplaced ? [UNPLACED] : [])];
 const tagLines = tags.map((t) => `  - ${t}`).join("\n");
+const propLines = propText([[PROP.whereabouts, unplaced ? null : where]]);
+const embed = embedFor(wiki);
 await safeMove(C("folder_objects", "Objects"), title);
 _%>
 ---
 tags:
-<% tagLines %>
+<% tagLines %><% propLines %>
 ---
 
-# Quick Reference
+# Quick Reference<% embed %>
 **Location:** 
 **Significance:** 
 

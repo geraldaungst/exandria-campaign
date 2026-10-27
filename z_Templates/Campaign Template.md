@@ -4,7 +4,7 @@
 // ── Shared helpers: z_Templates/Scripts/dm_helpers.js (a Templater user script), used by every template that
 // runs code. Edit them there, once, for all of them.
 const { C, ABORT, FACTION, slug, tagPath, fmOf, tagsOfFile, liveNotes, vocabulary, levels, dropParents, pickTag, pickFactions, childFolders,
-  inWorldFilter, worldRegionEntries, campaignTagOf, campaignNotes, pickCampaign, campaignWorld, placeNoteFor, linkTo,
+  inWorldFilter, campaignTagOf, campaignNotes, pickCampaign, campaignWorld, linkTo,
   findPath, ensureFolder, askTitle, discard, safeMove } = tp.user.dm_helpers(tp, Notice);
 
 const name = (await tp.system.prompt("Campaign name", ""))?.trim();

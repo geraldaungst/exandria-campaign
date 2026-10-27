@@ -1,13 +1,12 @@
 <%*
-// ── Arc note: name, campaign, tier, main place, then writes the tags and files it in the campaign's Arcs folder ──
-// Tags: arc, campaign/…, place/… (picked, or none for travel or several places). No world or region tags: an arc
-// lives inside one campaign. Properties: status (starts at idea), threads (empty), tier. The place's location
-// note, when it has one, is linked under Locations so the Session Hub can find the arc.
+// ── Arc note: name, campaign, tier, site, then writes the tags and files it in the campaign's Arcs folder ──
+// Tags: arc, campaign/…. No world, place or region tags: an arc lives inside one campaign. Properties: status (starts
+// at idea), threads (empty), tier, and site (a link to the place where the arc is mainly set; none for travel or several
+// places). The site is also linked under Locations so the Session Hub can find the arc.
 // ── Shared helpers: z_Templates/Scripts/dm_helpers.js (a Templater user script), used by every template that
 // runs code. Edit them there, once, for all of them.
-const { C, ABORT, FACTION, slug, tagPath, fmOf, tagsOfFile, liveNotes, vocabulary, levels, dropParents, pickTag, pickFactions, childFolders,
-  inWorldFilter, worldRegionEntries, campaignTagOf, campaignNotes, pickCampaign, campaignWorld, placeNoteFor, linkTo,
-  findPath, ensureFolder, askTitle, discard, safeMove } = tp.user.dm_helpers(tp, Notice);
+const { C, ABORT, PROP, campaignTagOf, campaignNotes, pickCampaign, campaignWorld, linkTo,
+  askTitle, discard, safeMove, locations, pickOne, fileOfChoice, propText } = tp.user.dm_helpers(tp, Notice);
 
 
 // 0. Name first
@@ -29,17 +28,19 @@ const tier = await tp.system.suggester(
 );
 if (!tier) { await discard(); return; }
 
-// 3. Place: the arc's main place, from places already tagged in the campaign's world, a new one, or none.
+// 3. Site: the place where the arc is mainly set, from the places of the campaign's world, or none.
 const worldName = campaignWorld(campaign);
-const inWorld = worldName ? liveNotes().filter(inWorldFilter(worldName)) : liveNotes();
-const placeTag = await pickTag("place", "place", vocabulary("place", inWorld), "— no place (travel or several places)", true, "Where is this arc mainly set? (place tag)");
-// The place's own location note (not a Player Wiki page), named like the tag's last part.
-const { note: placeNote } = placeNoteFor(placeTag, inWorld);
+const site = await pickOne(locations().pickerChoices({ field: "site", world: worldName || undefined }), "Where is this arc mainly set? (site)",
+  [{ extra: "none", label: "— no site (travel, several places, or none yet)" }], { allowNew: true });
+if (!site) { await discard(); return; }
+const siteChoice = site.extra ? null : site;
 
 // 4. Tags and file location (the campaign folder's Arcs folder)
-const tags = [C("tag_arc", "arc"), campaignTag, placeTag].filter(Boolean);
+const tags = [C("tag_arc", "arc"), campaignTag].filter(Boolean);
 const tagLines = tags.map((t) => `  - ${t}`).join("\n");
-const locationLine = placeNote ? `- ${linkTo(placeNote)}\n\n` : "";
+const siteProp = propText([[PROP.site, siteChoice]]);
+const siteFile = fileOfChoice(siteChoice);
+const locationLine = siteFile ? `- ${linkTo(siteFile)}\n\n` : siteChoice ? `- [[${siteChoice.link}]]\n\n` : "";
 
 await safeMove(`${campaign.parent.path}/Arcs`, title);
 -%>
@@ -48,7 +49,7 @@ status: idea
 tags:
 <% tagLines %>
 threads: []
-tier: <% tier %>
+tier: <% tier %><% siteProp %>
 ---
 
 ## Quick Reference

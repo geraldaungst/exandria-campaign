@@ -1,12 +1,12 @@
 <%*
-// ── Encounter note: name, campaign (sets world), place and factions, then writes the tags ──
-// Tags: encounter, campaign/…, world/… (from the campaign note's world property), place/… (picked),
-// region/… (copied from the place's location note), faction/… (checklist). No hand-filled properties.
+// ── Encounter note: name, campaign (sets world), site and factions, then writes the tags and the site property ──
+// Tags: encounter, campaign/…, world/… (from the campaign note's world property), faction/… (checklist). Property: site, a
+// link to the place where it happens (none for wilderness or roaming). No place or region tags.
 // ── Shared helpers: z_Templates/Scripts/dm_helpers.js (a Templater user script), used by every template that
 // runs code. Edit them there, once, for all of them.
-const { C, ABORT, FACTION, slug, tagPath, fmOf, tagsOfFile, liveNotes, vocabulary, levels, dropParents, pickTag, pickFactions, childFolders,
-  inWorldFilter, worldRegionEntries, campaignTagOf, campaignNotes, pickCampaign, campaignWorld, placeNoteFor, linkTo,
-  findPath, ensureFolder, askTitle, discard, safeMove } = tp.user.dm_helpers(tp, Notice);
+const { C, FACTION, PROP, slug, liveNotes, vocabulary, dropParents, pickFactions, inWorldFilter,
+  campaignTagOf, campaignNotes, pickCampaign, campaignWorld, linkTo,
+  askTitle, discard, safeMove, locations, pickOne, fileOfChoice, propText } = tp.user.dm_helpers(tp, Notice);
 
 
 // 0. Name first
@@ -22,29 +22,30 @@ const worldName = campaignWorld(campaign);
 const worldTag = worldName ? `world/${slug(worldName)}` : null;
 if (!worldName) new Notice(`${campaign.basename} has no world property, so the encounter gets no world tag.`);
 
-// 2. Place: places already used in the campaign's world, a new one, or none.
+// 2. Site: a place of the campaign's world, or none.
 const inWorld = worldName ? liveNotes().filter(inWorldFilter(worldName)) : liveNotes();
-const placeTag = await pickTag("place", "place", vocabulary("place", inWorld), "— no place (wilderness or roaming)", true, "Where does this encounter happen? (place tag)");
-// The place's own location note (named like the tag's last part), and the region copied from it, else from any
-// location note with this place tag (they share it).
-const { note: placeNote, tagged } = placeNoteFor(placeTag, inWorld);
-const regionTag = [placeNote, ...tagged].filter(Boolean).map((f) => tagsOfFile(f).find((t) => t.startsWith("region/"))).find(Boolean) ?? null;
+const site = await pickOne(locations().pickerChoices({ field: "site", world: worldName || undefined }), "Where does this encounter happen? (site)",
+  [{ extra: "none", label: "— no site (wilderness, roaming, several places, or none yet)" }], { allowNew: true });
+if (!site) { await discard(); return; }
+const siteChoice = site.extra ? null : site;
 
 // 3. Factions involved, enemies or allies: a checklist of the faction tags already used in this world.
 const picked = await pickFactions(vocabulary(FACTION, inWorld), "Factions involved in this encounter: select an entry to check or uncheck it, then choose Done");
 
 // 4. Tags, the Location line, and file location (the campaign folder's Encounters folder)
 const tags = [
-  C("tag_encounter", "encounter"), campaignTag, worldTag, regionTag,
-  ...dropParents([placeTag, ...picked].filter(Boolean)),
+  C("tag_encounter", "encounter"), campaignTag, worldTag,
+  ...dropParents(picked),
 ].filter(Boolean);
 const tagLines = tags.map((t) => `  - ${t}`).join("\n");
-const locationLine = placeNote ? linkTo(placeNote) : "<!-- Link the place, e.g. [[Port Damali - DM|Port Damali]] -->";
+const siteProp = propText([[PROP.site, siteChoice]]);
+const siteFile = fileOfChoice(siteChoice);
+const locationLine = siteFile ? linkTo(siteFile) : siteChoice ? `[[${siteChoice.link}]]` : "<!-- Link the place, e.g. [[Port Damali - DM|Port Damali]] -->";
 await safeMove(`${campaign.parent.path}/Encounters`, title);
 _%>
 ---
 tags:
-<% tagLines %>
+<% tagLines %><% siteProp %>
 ---
 
 # Encounter: <% title %>

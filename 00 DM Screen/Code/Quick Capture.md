@@ -12,8 +12,8 @@ hide_from_related: true
 
 Conventions this module relies on:
 
-- **Stubs** are built from the body of your own templates ([[NPC Template]], [[Location Template]], [[Faction Template]], [[Artifact-Item Template]]; names in [[Hub Config]] as `template_…`). The templates ask questions and move the file, so the module reads each template's text, drops its Templater header and frontmatter, and keeps the headings. If a template can't be found or read, the stub gets a "rebuild with the … template" note instead.
-- **Frontmatter** on every stub: the kind's tag, `needs-work`, `improvised`, the campaign's tag, and `first_session` (a link to the current session). NPC stubs also get `aliases` and `disposition: indifferent`; faction stubs get `aliases`. Place and faction are tags (`place/…`, `faction/…`), added when the note is developed. Remove `needs-work` when the note is developed.
+- **Stubs** are built from the body of your own templates ([[NPC Template]], [[Location Template]], [[Faction Template]], [[Artifact-Item Template]]; names in [[Hub Config]] as `template_…`). The templates ask questions and move the file, so the module reads each template's text, drops its Templater header and frontmatter, drops the template's `<% embed %>` tag (the "What players know" callout, which only the templates add), and keeps the headings. If a template can't be found or read, the stub gets a "rebuild with the … template" note instead.
+- **Frontmatter** on every stub: the kind's tag, `needs-work`, `improvised`, the campaign's tag, and `first_session` (a link to the current session). NPC, faction, item, location and shop stubs also get the `unplaced` tag (no prompt); Close Session then offers them a location through `first_session`, and Set Location sets one at any time. NPC stubs also get `aliases` and `disposition: indifferent`; faction stubs get `aliases`. Factions are tags (`faction/…`), added when the note is developed. Remove `needs-work` when the note is developed.
 - **Where stubs go:** NPCs to `folder_npcs`; factions to `folder_factions/<World>` (the world's name from the campaign note's `world` property); items to `folder_objects`; locations and shops to a `Stubs` folder inside the campaign's folder (`folder_stubs`; it sits there, not under Worlds, because the NPC, faction, item, and location templates read every folder directly under Worlds as a world).
 - **World tag:** the campaign note's `world` property (for example `Exandria`) becomes `world/exandria` on the stub. Without it the stub has no world tag and says so.
 - **Current session:** the session dated today (the next session on game night); with none dated today, the next session; with none at all, the last one played. The form shows which.
@@ -60,11 +60,11 @@ const dirOf = (p) => p.split("/").slice(0, -1).join("/");
 function kinds() {
   const c = cfg();
   return {
-    npc: { label: "NPC", template: c.template_npc, tags: [c.tag_npc], extra: ["aliases: []", "disposition: indifferent"] },
-    location: { label: "Location", template: c.template_location, tags: [c.tag_location], extra: [], inStubs: true },
-    shop: { label: "Shop", template: c.template_location, tags: [c.tag_location, "shop"], extra: [], inStubs: true },
-    faction: { label: "Faction", template: c.template_faction, tags: [c.tag_faction], extra: ["aliases: []"], byWorld: true },
-    item: { label: "Item", template: c.template_item, tags: [c.tag_item], extra: [] },
+    npc: { label: "NPC", template: c.template_npc, tags: [c.tag_npc, c.tag_unplaced], extra: ["aliases: []", "disposition: indifferent"] },
+    location: { label: "Location", template: c.template_location, tags: [c.tag_location, c.tag_unplaced], extra: [], inStubs: true },
+    shop: { label: "Shop", template: c.template_location, tags: [c.tag_location, "shop", c.tag_unplaced], extra: [], inStubs: true },
+    faction: { label: "Faction", template: c.template_faction, tags: [c.tag_faction, c.tag_unplaced], extra: ["aliases: []"], byWorld: true },
+    item: { label: "Item", template: c.template_item, tags: [c.tag_item, c.tag_unplaced], extra: [] },
   };
 }
 
@@ -76,7 +76,8 @@ function templateBody(text) {
   // The frontmatter ends at a "---" line; in the Location Template it follows a Templater tag directly ("%>---").
   const m = rest.match(/^\s*---\n[\s\S]*?(?:\n|%>)---\n?/);
   if (!m) return null;
-  const body = rest.slice(m[0].length).replace(/^\n+/, "");
+  // The templates' <% embed %> (the "What players know" callout, only for a note with a player twin) is not part of a stub.
+  const body = rest.slice(m[0].length).replace(/<%\s*embed\s*%>/g, "").replace(/^\n+/, "");
   return body.includes("<%") || !body.trim() ? null : body.replace(/\s*$/, "\n");
 }
 
@@ -96,7 +97,7 @@ function stubContent({ kind, line, session, campaignTag, worldTag, body, templat
     ...(line ? [`> ${line}`] : []),
     `> Needs development. Remove the \`${c.tag_needs_work}\` tag when it's done.`,
   ];
-  if (!worldTag) note.push("> No world tag yet: add `world/…` (and a region tag if it has one), as the template would.");
+  if (!worldTag) note.push("> No world tag yet: add `world/…`, as the template would.");
   if (body === null) note.push(`> The ${templateName} couldn't be used here: rebuild this note with it (create a new note from the template, then move this text across).`);
   return `${front.join("\n")}\n\n${note.join("\n")}\n\n${body ?? "# Quick Reference\n\n"}`;
 }
