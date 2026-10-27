@@ -35,6 +35,13 @@ Related notes: [[DM Hubs Design]] (hub rules, campaign notes, session date field
 - Folders under `Worlds/` are `Worlds/<world>/<kind>/` (Places, Lore, Tables). A note with its own sub-documents gets a bundle folder. A note's folder says nothing about where it is.
 - Properties are snake_case; tags are lowercase with hyphens.
 - The Linter's Sort YAML Array Values rule ignores `political_region` and `natural_region` (Gerald sets this in the Linter settings).
+- Player Wiki place notes (tag `location`) carry `political_region` and `natural_region` too, linking only to Player Wiki notes. `Part of` matches the first entry. Other player notes carry no location properties (2026-10-27).
+- A place with a DM note and a player note is one place. The DM note's parents apply when it has any, otherwise the player note's. A DM note sets its own parents only to add a secret or more precise parent (2026-10-27).
+- A Player Wiki note with no DM twin is the only record of its subject, so every hub view, list and check includes it like a DM note, marked "player note only". A player note with a DM twin is reached through the DM note (2026-10-27).
+- A link to a place from a DM note points to the DM note when one exists, otherwise to the player note. Code treats a link to either note as the same place (2026-10-27).
+- Every DM note with a player twin embeds it in a collapsed callout directly under Quick Reference: `> [!quote]- What players know` then `> ![[<player note>]]`. Embeds go from DM to player only (2026-10-27).
+- Artifact pieces: the hub's Record a change form sets `whereabouts` when it writes a holder or moved line. History stays the record (2026-10-27).
+- Engine: one core module, `z_Templates/Scripts/location_core.js`, loaded by the templates through `dm_helpers.js` and by the hubs through Shared Helpers. It holds all twin handling (`placeOf`) and every parent walk; no other code reads the location properties directly. Spec: Location Engine Spec in 00 DM Screen (being written) (2026-10-27).
 
 **Note types**
 - Plot thread: a campaign-scale question spanning many arcs. Tagged with one stage: `plot/active`, `plot/upcoming`, `plot/seed`, `plot/paused` (2026-10-19).
