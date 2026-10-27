@@ -5,6 +5,9 @@ tags:
   - region/xhorhas
   - offscreen
   - faction/scars-of-scale-and-tooth
+  - unplaced
+ties_to:
+  - "[[Xhorhas]]"
 ---
 
 ![[scars-logo.png|right|300]]

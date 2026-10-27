@@ -9,6 +9,8 @@ tags:
   - player-facing
   - world/exandria
   - region/menagerie-coast
+natural_region:
+  - "[[Menagerie Coast]]"
 ---
 
 > [!info] Quick Reference

@@ -8,6 +8,7 @@ threads:
   - "[[Assembling the Lorestone]]"
   - "[[Cleanse the Savalirwood]]"
 tier: standard
+site: "[[Deastok]]"
 ---
 
 ## Quick Reference

@@ -6,6 +6,7 @@ tags:
   - world/exandria
   - region/taldorei
   - place/rexxentrum
+whereabouts: "[[Rexxentrum - DM]]"
 ---
 
 ## Quick Reference

@@ -8,6 +8,7 @@ tags:
   - region/menagerie-coast
   - place/port-damali
   - faction/emissaries-of-the-sunfall
+whereabouts: "[[Port Damali - DM]]"
 ---
 
 ![[berinon-truegust.png|right|200]]

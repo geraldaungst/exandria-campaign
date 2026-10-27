@@ -7,6 +7,9 @@ tags:
   - world/exandria
   - region/xhorhas
   - faction/kryn-dynasty
+  - unplaced
+ties_to:
+  - "[[Xhorhas]]"
 ---
 
 # Quick Reference

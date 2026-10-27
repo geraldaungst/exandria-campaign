@@ -7,6 +7,7 @@ tags:
   - world/exandria
   - place/whitestone
 disposition: friendly
+whereabouts: "[[Whitestone]]"
 ---
 
 ![[laugu-nalakekali.png|right|300]]

@@ -6,6 +6,7 @@ tags:
   - region/menagerie-coast
   - place/port-damali
   - faction/clasp
+whereabouts: "[[Port Damali - DM]]"
 ---
 
 ## Quick Reference

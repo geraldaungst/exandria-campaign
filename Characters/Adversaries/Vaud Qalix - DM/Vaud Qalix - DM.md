@@ -14,6 +14,7 @@ tags:
   - faction/scars-of-scale-and-tooth
   - faction/draconia
   - faction/emissaries-of-the-sunfall
+whereabouts: "[[Xarzith Kitril - DM]]"
 ---
 
 ![[vaud-qalix.png|right|300]]

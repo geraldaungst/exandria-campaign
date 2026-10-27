@@ -4,6 +4,9 @@ tags:
   - world/exandria
   - region/dwendalian-empire
   - faction/ring-of-three
+  - unplaced
+ties_to:
+  - "[[Dwendalian Empire - DM]]"
 ---
 
 # Quick Reference

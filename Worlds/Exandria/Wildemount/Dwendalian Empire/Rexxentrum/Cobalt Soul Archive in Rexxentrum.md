@@ -4,6 +4,8 @@ tags:
   - world/exandria
   - region/dwendalian-empire
   - place/rexxentrum
+political_region:
+  - "[[Rexxentrum - DM]]"
 ---
 
 ## Quick Reference

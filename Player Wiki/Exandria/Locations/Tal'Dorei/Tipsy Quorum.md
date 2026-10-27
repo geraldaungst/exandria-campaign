@@ -8,6 +8,8 @@ tags:
   - player-facing
   - world/exandria
   - region/taldorei
+political_region:
+  - "[[Whitestone]]"
 ---
 
 > [!info] Quick Reference

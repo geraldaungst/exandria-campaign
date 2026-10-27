@@ -4,6 +4,8 @@ tags:
   - world/exandria
   - region/menagerie-coast
   - place/palma-flora
+natural_region:
+  - "[[Menagerie Coast]]"
 ---
 
 ## Quick Reference

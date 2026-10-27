@@ -8,6 +8,8 @@ tags:
   - player-facing
   - world/exandria
   - region/taldorei
+natural_region:
+  - "[[Tal'Dorei]]"
 ---
 
 > [!info] Quick Reference

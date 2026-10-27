@@ -7,6 +7,8 @@ tags:
 aliases: []
 publish: true
 cssclasses: world-keln
+natural_region:
+  - "[[Callastri]]"
 ---
 
 > [!info] Quick Reference

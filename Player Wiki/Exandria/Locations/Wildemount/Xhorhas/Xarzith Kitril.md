@@ -11,6 +11,8 @@ tags:
   - player-facing
   - world/exandria
   - region/xhorhas
+political_region:
+  - "[[Xhorhas]]"
 ---
 
 > [!info] Quick Reference

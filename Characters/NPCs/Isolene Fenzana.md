@@ -5,6 +5,7 @@ tags:
   - region/dwendalian-empire
   - world/exandria
   - faction/cerberus-assembly
+whereabouts: "[[Dwendalian Empire - DM]]"
 ---
 
 ![[isolene.png|right|300]]

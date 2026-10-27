@@ -8,6 +8,8 @@ aliases: []
 cssclasses:
   - world-exandria
 publish: true
+natural_region:
+  - "[[Cyrios Mountains]]"
 ---
 
 > [!info] Quick Reference

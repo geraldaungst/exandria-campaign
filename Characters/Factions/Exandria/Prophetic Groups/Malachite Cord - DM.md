@@ -4,6 +4,9 @@ tags:
   - world/exandria
   - region/menagerie-coast
   - faction/malachite-cord
+  - unplaced
+ties_to:
+  - "[[Menagerie Coast]]"
 ---
 
 ## Quick Reference

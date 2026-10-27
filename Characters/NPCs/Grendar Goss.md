@@ -6,6 +6,7 @@ tags:
   - region/taldorei
   - place/zadash
   - needs-work
+whereabouts: "[[Zadash - DM]]"
 ---
 
 ![[grendar-goss.jpeg|right|300]]

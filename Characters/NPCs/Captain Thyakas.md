@@ -8,6 +8,7 @@ tags:
   - region/menagerie-coast
   - place/port-damali
   - needs-work
+whereabouts: "[[Port Damali - DM]]"
 ---
 
 ![[thyakas.png|right|300]]

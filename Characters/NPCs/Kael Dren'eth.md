@@ -8,6 +8,7 @@ tags:
   - place/the-shrine-of-melora
   - faction/malachite-cord
   - faction/ashari/terrah
+whereabouts: "[[Shrine of Melora - DM]]"
 ---
 
 ## Quick Reference

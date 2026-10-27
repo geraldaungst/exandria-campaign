@@ -8,6 +8,7 @@ tags:
   - region/xhorhas
   - place/ebonglass-massif
 disposition: indifferent
+whereabouts: "[[Ebonglass Massif]]"
 ---
 
 ## Quick Reference

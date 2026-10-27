@@ -8,6 +8,7 @@ tags:
   - world/exandria
   - region/taldorei
   - place/whitestone
+whereabouts: "[[Whitestone]]"
 ---
 
 ![[brin-shadowfoot.png|right|300]]

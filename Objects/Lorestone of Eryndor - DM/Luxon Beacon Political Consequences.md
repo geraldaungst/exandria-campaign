@@ -4,6 +4,7 @@ tags:
   - campaign/eryndor
   - artifact
   - world/exandria
+  - unplaced
 ---
 
 ## Luxon Beacon Political Consequences

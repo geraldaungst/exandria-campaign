@@ -9,6 +9,7 @@ threads:
   - "[[Assembling the Lorestone]]"
   - "[[Understanding the Rifts]]"
 tier: standard
+site: "[[Cloudfang Keep - DM]]"
 ---
 
 ## Quick Reference

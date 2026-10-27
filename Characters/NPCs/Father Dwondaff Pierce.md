@@ -6,6 +6,7 @@ tags:
   - region/menagerie-coast
   - place/port-damali
   - faction/myriad/gentlemans-organization
+whereabouts: "[[Port Damali - DM]]"
 ---
 
 ![[dwondaff-pierce.jpeg|right|300]]

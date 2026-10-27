@@ -9,6 +9,8 @@ aliases:
 cssclasses:
   - world-exandria
 publish: true
+natural_region:
+  - "[[Menagerie Coast]]"
 ---
 
 > [!info] Quick Reference

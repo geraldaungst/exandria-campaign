@@ -8,6 +8,7 @@ tags:
   - region/taldorei
   - faction/ashari/terrah
   - needs-work
+whereabouts: "[[Tal'Dorei]]"
 ---
 
 ![[durnn.png|right|300]]

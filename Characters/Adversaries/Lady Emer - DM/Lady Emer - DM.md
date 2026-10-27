@@ -9,6 +9,7 @@ tags:
   - place/cloudfang-keep
   - faction/emissaries-of-the-sunfall
 disposition: hostile
+whereabouts: "[[Cloudfang Keep - DM]]"
 ---
 
 ## Quick Reference

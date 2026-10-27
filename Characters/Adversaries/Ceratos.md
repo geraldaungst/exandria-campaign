@@ -5,6 +5,7 @@ tags:
   - npc
   - world/exandria
   - region/far-realm
+  - unplaced
 disposition: indifferent
 ---
 

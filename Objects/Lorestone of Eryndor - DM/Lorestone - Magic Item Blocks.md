@@ -3,6 +3,7 @@ tags:
   - campaign/eryndor
   - artifact
   - world/exandria
+  - unplaced
 ---
 
 ## Lorestone Shard

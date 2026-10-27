@@ -4,6 +4,7 @@ tags:
   - world/exandria
   - faction/cobalt-soul
   - needs-work
+  - unplaced
 ---
 
 # Quick Reference

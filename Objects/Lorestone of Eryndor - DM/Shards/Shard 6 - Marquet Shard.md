@@ -5,6 +5,7 @@ tags:
   - inline-events
   - piece/lorestone-of-eryndor
   - world/exandria
+  - unplaced
 ---
 
 Shard 6 of the [[Lorestone of Eryndor - DM|Lorestone of Eryndor]]. Hub: [[Lorestone Shard Status Tracker]].

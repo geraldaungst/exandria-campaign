@@ -6,6 +6,7 @@ tags:
   - npc
   - world/exandria
   - faction/ashari/pyrah
+  - unplaced
 ---
 
 ![[lorcan.png|right|300]]

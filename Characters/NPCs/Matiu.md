@@ -5,6 +5,7 @@ tags:
   - region/menagerie-coast
   - world/exandria
 disposition: friendly
+whereabouts: "[[Menagerie Coast]]"
 ---
 
 ![[matiu.jpg|right|300]]

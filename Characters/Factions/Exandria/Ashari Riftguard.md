@@ -7,6 +7,9 @@ tags:
   - region/taldorei
   - faction/ashari
   - needs-work
+  - unplaced
+ties_to:
+  - "[[Tal'Dorei]]"
 ---
 
 ![[riftguard.png|right|400]]

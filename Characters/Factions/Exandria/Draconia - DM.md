@@ -5,6 +5,7 @@ tags:
   - world/exandria
   - faction/draconia
   - needs-work
+  - unplaced
 ---
 
 # Quick Reference

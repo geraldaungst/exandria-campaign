@@ -9,6 +9,7 @@ tags:
   - region/xhorhas
   - faction/scars-of-scale-and-tooth
   - needs-work
+whereabouts: "[[Xhorhas]]"
 ---
 
 ## Gorrath the Stonebinder

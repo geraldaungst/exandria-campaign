@@ -6,6 +6,7 @@ tags:
   - npc
   - world/exandria
   - faction/obsidian-echoforge
+  - unplaced
 disposition: indifferent
 ---
 

@@ -9,6 +9,7 @@ tags:
   - region/dwendalian-empire
   - place/zadash
   - faction/myriad/gentlemans-organization
+whereabouts: "[[Zadash - DM]]"
 ---
 
 ## Quick Reference

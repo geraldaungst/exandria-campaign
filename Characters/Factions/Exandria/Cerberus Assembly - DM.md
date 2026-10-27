@@ -6,6 +6,9 @@ tags:
   - world/exandria
   - region/dwendalian-empire
   - faction/cerberus-assembly
+  - unplaced
+ties_to:
+  - "[[Dwendalian Empire - DM]]"
 ---
 
 # Quick Reference

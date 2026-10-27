@@ -8,6 +8,7 @@ tags:
   - world/exandria
   - needs-work
 disposition: friendly
+whereabouts: "[[Dwendalian Empire - DM]]"
 ---
 
 ![[triotta.png|right|300]]

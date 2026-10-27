@@ -8,6 +8,7 @@ tags:
   - region/mount-celestia
   - place/mount-celestia
   - needs-work
+  - unplaced
 ---
 
 Dhazar Zarakas is the strongest of the gold dragons among Bahamut's seven Chosen. The Chosen are mistakenly assumed to be all gold, but only three are. Brew, the player of [[Drawg Stormbrew - Brew|Drawg]] and [[Elby Cinderdash - Brew|Elby]], supplied the details below and a character sheet: <https://www.dndbeyond.com/sheet-pdfs/brewdawggaming_116903175.pdf>

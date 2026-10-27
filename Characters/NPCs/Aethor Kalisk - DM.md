@@ -8,6 +8,7 @@ tags:
   - region/menagerie-coast
   - place/port-damali
   - faction/obsidian-echoforge
+whereabouts: "[[Port Damali - DM]]"
 ---
 
 ## Quick Reference

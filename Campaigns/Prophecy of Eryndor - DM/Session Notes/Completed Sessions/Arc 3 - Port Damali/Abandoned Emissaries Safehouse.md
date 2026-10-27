@@ -5,6 +5,8 @@ tags:
   - place/port-damali
   - world/exandria
   - region/menagerie-coast
+political_region:
+  - "[[Port Damali - DM]]"
 ---
 
 ## Exterior

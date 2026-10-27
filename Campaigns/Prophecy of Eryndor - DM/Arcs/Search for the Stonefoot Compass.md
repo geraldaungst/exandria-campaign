@@ -8,6 +8,7 @@ tags:
 threads:
   - "[[Assembling the Lorestone]]"
 tier: standard
+site: "[[Port Zoon - DM]]"
 ---
 
 ## Quick Reference

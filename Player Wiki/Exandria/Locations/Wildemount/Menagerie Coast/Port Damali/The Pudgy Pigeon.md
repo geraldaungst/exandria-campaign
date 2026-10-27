@@ -10,6 +10,8 @@ aliases:
 cssclasses:
   - world-exandria
 publish: true
+political_region:
+  - "[[Port Damali]]"
 ---
 
 > [!info] Quick Reference

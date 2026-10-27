@@ -8,6 +8,7 @@ tags:
   - place/rexxentrum
   - faction/emissaries-of-the-sunfall
 disposition: hostile
+whereabouts: "[[Rexxentrum - DM]]"
 ---
 
 ![[valen-elderguard.png|right|300]]

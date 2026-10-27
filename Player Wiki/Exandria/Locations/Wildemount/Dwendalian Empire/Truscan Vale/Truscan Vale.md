@@ -8,6 +8,8 @@ tags:
   - player-facing
   - world/exandria
   - region/dwendalian-empire
+political_region:
+  - "[[Dwendalian Empire]]"
 ---
 
 > [!info] Quick Reference

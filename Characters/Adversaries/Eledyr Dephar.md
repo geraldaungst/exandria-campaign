@@ -9,6 +9,7 @@ tags:
   - region/menagerie-coast
   - place/rexxentrum
   - faction/emissaries-of-the-sunfall
+whereabouts: "[[Rexxentrum - DM]]"
 ---
 
 ## Quick Reference

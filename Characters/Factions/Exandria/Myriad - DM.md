@@ -5,6 +5,7 @@ tags:
   - world/exandria
   - faction/myriad
   - needs-work
+  - unplaced
 ---
 
 # Quick Reference

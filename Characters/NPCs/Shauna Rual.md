@@ -7,6 +7,7 @@ tags:
   - world/exandria
   - region/taldorei
   - place/whitestone
+whereabouts: "[[Whitestone]]"
 ---
 
 ![[shauna.png|right|300]]

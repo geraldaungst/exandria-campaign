@@ -6,6 +6,7 @@ tags:
   - npc
   - region/menagerie-coast
   - world/exandria
+whereabouts: "[[Menagerie Coast]]"
 ---
 
 ![[yrene-token.png|left|100]] **Species:** Elf

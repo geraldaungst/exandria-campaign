@@ -8,6 +8,8 @@ aliases: []
 cssclasses:
   - world-exandria
 publish: true
+political_region:
+  - "[[Deastok]]"
 ---
 
 > [!info] Quick Reference

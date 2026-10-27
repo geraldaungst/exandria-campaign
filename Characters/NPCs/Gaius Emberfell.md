@@ -9,6 +9,7 @@ tags:
   - place/palma-flora
   - faction/obsidian-echoforge
   - needs-work
+whereabouts: "[[Palma Flora]]"
 ---
 
 ## Appearance & Personality

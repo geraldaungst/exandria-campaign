@@ -8,6 +8,8 @@ aliases: []
 cssclasses:
   - world-exandria
 publish: true
+natural_region:
+  - "[[Tal'Dorei]]"
 ---
 
 > [!info] Quick Reference

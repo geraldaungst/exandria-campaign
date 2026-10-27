@@ -5,6 +5,8 @@ tags:
   - campaign/eryndor
   - world/exandria
   - region/xhorhas
+ties_to:
+  - "[[Xhorhas]]"
 ---
 
 ## Rotthold Evidence of Shoagragoth and Malastryx

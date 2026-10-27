@@ -6,6 +6,7 @@ tags:
   - world/exandria
   - region/cyrios-mountains
   - place/gnurlsottens
+whereabouts: "[[Gnurlsotten's Nosh & Nip - DM]]"
 ---
 
 ## Grent Gnurlsotten

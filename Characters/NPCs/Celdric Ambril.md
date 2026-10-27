@@ -10,6 +10,7 @@ tags:
   - world/exandria
   - region/menagerie-coast
   - place/port-damali
+whereabouts: "[[Port Damali - DM]]"
 ---
 
 ![[celdric.png|right|300]]

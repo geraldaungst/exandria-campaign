@@ -6,6 +6,7 @@ tags:
   - arc
   - place/gnurlsottens
 tier: filler
+site: "[[Gnurlsotten's Nosh & Nip - DM]]"
 ---
 
 ## Session: The Herdsman of Gnurlsotten's Nosh & Nip

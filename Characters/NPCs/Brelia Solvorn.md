@@ -6,6 +6,7 @@ tags:
   - region/menagerie-coast
   - place/port-damali
   - needs-work
+whereabouts: "[[Port Damali - DM]]"
 ---
 
 ![[brelia-solvorn.jpeg|right|300]]

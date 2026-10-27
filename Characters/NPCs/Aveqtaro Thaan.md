@@ -8,6 +8,7 @@ tags:
   - region/xhorhas
   - place/rosohna
   - faction/kryn-dynasty
+whereabouts: "[[Rosohna]]"
 ---
 
 ## Quick Reference

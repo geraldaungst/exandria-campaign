@@ -7,6 +7,7 @@ tags:
   - offscreen
   - world/exandria
   - faction/emissaries-of-the-sunfall
+  - unplaced
 ---
 
 ![[emissaries.png|right|100]]

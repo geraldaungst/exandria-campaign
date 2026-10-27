@@ -8,6 +8,8 @@ tags:
   - world/exandria
   - region/dwendalian-empire
   - lore
+ties_to:
+  - "[[Dwendalian Empire - DM]]"
 ---
 
 ## Core Information

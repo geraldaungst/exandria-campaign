@@ -2,6 +2,8 @@
 tags:
   - region/menagerie-coast
   - world/exandria
+ties_to:
+  - "[[Menagerie Coast]]"
 ---
 
 ## 1. Main Shop

@@ -5,6 +5,7 @@ tags:
   - world/exandria
   - region/menagerie-coast
   - place/port-damali/harmony-hall
+whereabouts: "[[Harmony Hall - DM]]"
 ---
 
 ![[annah.jpeg|right|300]]

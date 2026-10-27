@@ -7,6 +7,7 @@ tags:
   - faction/emissaries-of-the-sunfall
   - needs-work
 disposition: hostile
+whereabouts: "[[Rexxentrum - DM]]"
 ---
 
 ![[kite.png|right|200]]

@@ -9,6 +9,8 @@ tags:
   - player-facing
   - world/exandria
   - region/cyrios-mountains
+natural_region:
+  - "[[Wildemount]]"
 ---
 
 > [!info] Quick Reference

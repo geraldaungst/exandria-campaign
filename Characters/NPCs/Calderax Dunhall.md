@@ -8,6 +8,7 @@ tags:
   - faction/clasp
   - faction/emissaries-of-the-sunfall
   - faction/obsidian-echoforge
+whereabouts: "[[Port Damali - DM]]"
 ---
 
 ## Quick Reference

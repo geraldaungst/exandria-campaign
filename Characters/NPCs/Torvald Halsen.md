@@ -7,6 +7,7 @@ tags:
   - world/exandria
   - region/dwendalian-empire
   - place/deastok
+whereabouts: "[[Deastok]]"
 ---
 
 ## Quick Reference

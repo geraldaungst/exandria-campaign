@@ -11,6 +11,8 @@ tags:
   - player-facing
   - world/exandria
   - region/menagerie-coast
+political_region:
+  - "[[Port Damali]]"
 ---
 
 > [!info] Quick Reference

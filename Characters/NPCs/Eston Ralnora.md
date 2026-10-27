@@ -5,6 +5,7 @@ tags:
   - world/exandria
   - region/dwendalian-empire
   - needs-work
+whereabouts: "[[Dwendalian Empire - DM]]"
 ---
 
 ## Appearance & Personality

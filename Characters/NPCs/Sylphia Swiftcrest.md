@@ -6,6 +6,7 @@ tags:
   - npc
   - world/exandria
   - faction/ashari/zephrah
+  - unplaced
 ---
 
 ![[sylphia.png|right|300]]

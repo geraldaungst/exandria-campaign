@@ -8,6 +8,7 @@ tags:
   - needs-work
   - region/menagerie-coast
 disposition: friendly
+whereabouts: "[[Menagerie Coast]]"
 ---
 
 *Half-Elf Druid/Bard*

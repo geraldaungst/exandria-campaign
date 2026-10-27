@@ -9,6 +9,7 @@ tags:
   - faction/dwendalian-empire
   - needs-work
 disposition: friendly
+whereabouts: "[[Cloudfang Keep - DM]]"
 ---
 
 ## Quick Reference

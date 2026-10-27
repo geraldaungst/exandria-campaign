@@ -6,6 +6,7 @@ tags:
   - offscreen
   - world/exandria
   - faction/obsidian-echoforge
+  - unplaced
 ---
 
 ![[obsidian-echoforge.png|right|100]]

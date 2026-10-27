@@ -9,6 +9,7 @@ tags:
   - region/dwendalian-empire
   - place/rexxentrum
   - faction/cobalt-soul
+whereabouts: "[[Rexxentrum - DM]]"
 ---
 
 # Quick Reference

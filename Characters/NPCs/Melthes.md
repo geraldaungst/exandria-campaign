@@ -6,6 +6,7 @@ tags:
   - region/dwendalian-empire
   - place/rexxentrum
   - faction/cerberus-assembly
+whereabouts: "[[Rexxentrum - DM]]"
 ---
 
 ![[young-melthes.png|right|300]]

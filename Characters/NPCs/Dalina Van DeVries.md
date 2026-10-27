@@ -6,6 +6,7 @@ tags:
   - region/dwendalian-empire
   - place/rexxentrum
   - faction/emissaries-of-the-sunfall
+whereabouts: "[[Rexxentrum - DM]]"
 ---
 
 ![[dalina-van-devries.png|right|300]]Skin Color: Dusky grey with a hint of green

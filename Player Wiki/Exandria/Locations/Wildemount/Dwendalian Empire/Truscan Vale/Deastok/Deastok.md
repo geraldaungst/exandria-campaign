@@ -10,6 +10,8 @@ tags:
   - player-facing
   - world/exandria
   - region/dwendalian-empire
+natural_region:
+  - "[[Truscan Vale]]"
 ---
 
 > [!info] Quick Reference

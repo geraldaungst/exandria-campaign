@@ -3,6 +3,7 @@ aliases: []
 tags:
   - artifact
   - world/exandria
+  - unplaced
 ---
 
 # Quick Reference

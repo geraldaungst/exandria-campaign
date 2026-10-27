@@ -4,6 +4,7 @@ tags:
   - npc
   - region/menagerie-coast
   - world/exandria
+whereabouts: "[[Menagerie Coast]]"
 ---
 
 ![[tharivol.jpeg|right|300]]

@@ -5,6 +5,7 @@ tags:
   - campaign/eryndor
   - artifact
   - world/exandria
+  - unplaced
 ---
 
 ![[Lorestone-of-Eryndor.png|400]]

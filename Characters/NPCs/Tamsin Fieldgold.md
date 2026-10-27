@@ -8,6 +8,7 @@ tags:
   - region/taldorei
   - place/whitestone
 disposition: friendly
+whereabouts: "[[Whitestone]]"
 ---
 
 *Small humanoid (halfling), neutral good**

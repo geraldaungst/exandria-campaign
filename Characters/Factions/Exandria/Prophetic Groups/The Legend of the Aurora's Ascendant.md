@@ -2,6 +2,8 @@
 tags:
   - world/exandria
   - region/greying-wildlands
+ties_to:
+  - "[[Greying Wildlands]]"
 ---
 
 ## Full Version (10 minutes)
