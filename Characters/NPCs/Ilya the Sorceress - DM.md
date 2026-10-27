@@ -1,19 +1,21 @@
 ---
+disposition: friendly
 tags:
   - npc
   - world/exandria
   - region/menagerie-coast
-disposition: friendly
 ---
 
-# Quick Reference
+## Quick Reference
+
 > [!info] Essential Details
 > - **Location:** [[Ilya's Realm Shop - DM]], Port Damali
 > - **Goal:** Run her high-end shop on her own terms and get her brother home safe
 > - **Attitude toward party:** Friendly. They are rescuing her brother, and she offers them an item at cost
 > - **Key knowledge:** What her shop stocks: items from her own adventuring days plus a broad range of common and uncommon magic items
 
-# Description & Roleplay
+## Description & Roleplay
+
 ![[Ilya the Sorcerer.jpeg|right|300]]
 
 Ilya was an adventurer sorceress who quested Exandria before retiring to Port Damali. She has multiple items of her time adventuring, which she sells as well as maintaining a business: [[Ilya's Realm Shop - DM]]. She is a 20th level sorceress with dragon's blood.
@@ -22,7 +24,8 @@ Ilya was an adventurer sorceress who quested Exandria before retiring to Port Da
 - **Mannerisms:** Chatty and borderline creepy.
 - **Key traits:** Unfearing of burglars. Rumor has it that when some people tried to rob her, their bodies were found in front of her shop with the skin melted off.
 
-# Current Situation
+## Current Situation
+
 - She asked the party to find her brother [[Varnes Dwell - DM|Varnes]], who was held at [[Cloudfang Keep - DM]] ([[Rescue Ilya's Brother]]).
 - Varnes was freed and is travelling to Port Damali with Laucian. The timeline puts the reunion at about 7 Unndilar 835 (estimated).
 - She will cast Sending to tell the party he arrived and offer them an item at cost. Varnes offers a free security assessment of [[Harmony Hall - DM]].
@@ -128,12 +131,12 @@ Ilya was an adventurer sorceress who quested Exandria before retiring to Port Da
 >
 > ***Shield Guardian.*** Ilya summons a shield guardian from a back room. The guardian appears in an unoccupied space she can see within 30 feet of her and acts on her initiative.
 
-## Open Issues
+### Open Issues
 
 - [ ] Is the melted-skin rumor about the would-be robbers true?
 - [ ] Are the custom items she was crafting for Drawg finished?
 - [ ] Does she know anything about Lady Emer or Qalix?
 
-## Connected Elements
+### Connected Elements
 
 ![[Related Notes.base]]
