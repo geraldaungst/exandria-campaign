@@ -1,6 +1,7 @@
 ---
 tags:
   - campaign/eryndor
+  - world/exandria
 ---
 
 | d100  | Rift Size  | Lorestone Range | Diameter   | Success Threshold | Total Successes | Riftcages Necessary to Stabilize |     |

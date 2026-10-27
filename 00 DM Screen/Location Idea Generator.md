@@ -1,3 +1,9 @@
+---
+hide_from_related: true
+tags:
+  - dm-tool
+---
+
 ## Location Idea Generator
 
 ### Quick Location Creation
@@ -44,7 +50,7 @@
 
 #### Unusual Features
 
-- Contains a monument/statue of (roll on monument table)
+- Contains a monument/statue of (roll on the Monument/Feature table below)
 - Ceiling is unusually high/low
 - Everything is oversized/undersized
 - Covered in specific vegetation

@@ -3,7 +3,7 @@ tags:
   - location
   - place/whitestone
   - world/exandria
-  - region/whitestone
+  - region/taldorei
 ---
 
 Tavern in Whitestone
