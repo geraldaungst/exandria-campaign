@@ -11,29 +11,38 @@ Related notes: [[DM Hubs Design]] (hub rules, campaign notes, session date field
 - Tags come from the existing set. A new tag is created only when necessary and logical within the system, and Claude asks first (2026-10-22).
 - Claude adds no frontmatter property without asking.
 - Temporary working notes meant for the archive, such as status notes, carry no frontmatter (2026-10-22).
-- Record keeping is automated and plain text in the note body as much as possible. Frontmatter properties are kept to a minimum, and tags are preferred to custom properties (2026-10-21).
-- Hubs and dashboards depend only on tags, links, file modified time, properties set once at creation, and the after-game entries in the session note. Never on a field Gerald has to keep current by hand (2026-10-19, 2026-10-20).
+- Record keeping is automated and plain text in the note body as much as possible (2026-10-21).
+- New properties are added only after deliberate consideration, and Claude asks first. A tag is the default. A property is justified only when (a) it does something a tag does poorly: it points to another note (Obsidian keeps links current on rename, and tags it doesn't), or it holds an ordered list, a number or a date; (b) code or a Base reads it; and (c) it applies to a whole note type, not one note. One-off properties are not added (2026-10-27; refines the 2026-10-21 ruling).
+- Hubs and dashboards depend only on tags, links, file modified time, properties set once at creation, and the after-game entries in the session note. Never on a field Gerald has to keep current by hand (2026-10-19, 2026-10-20). The location fields are the exception: they change when something moves, and Gerald edits them while he has the note open; scripts may prompt him, as Close Session does. Still ruled out: regular upkeep across notes he isn't otherwise touching (2026-10-27).
 - Properties that nothing reads are removed rather than kept for later (2026-10-22). Removed that day: `created`, `context`, `epoch`, `started`, empty one-offs, arc `location`, and the old `affiliations`, `current_location`, `possession`, `proprietor`, `species`, `type` and similar values whose content was already in the note body or tags. The Note Refactor Template and [[Quick Capture]] no longer write `created` or `context`.
 - No hub, template or script names a world or campaign. Those values come from the campaign note and [[Hub Config]] (2026-10-20).
 
 **Tags**
 - `world/toril` is the world tag for the Forgotten Realms. `world/faerun` is retired; Faerûn is a region-level name (2026-10-19).
-- `place/…` nests to any depth and means where an NPC is typically found. Deeper levels are added only to the NPCs that need them: `place/zadash` for everyone in Zadash, `place/zadash/evening-nip` for the regulars there. A search for the parent finds the children. `region/…` is the coarsest location tag; place and region can be the same (2026-10-21).
-- Location notes also carry their own `place/…` tag, so a place's tag lists the location and everyone found there (2026-10-21).
 - A group an NPC belongs to gets a `faction/<slug>` tag and a stub note from the Faction Template, even when it had no note before. Sub-factions nest under the parent: `faction/ashari/terrah` (2026-10-21).
 - A faction's own note carries the type tag `organization` plus its own `faction/<slug>` tag; NPCs and encounters carry only `faction/…`. The plain `faction` tag is retired as a type tag: it is the root of the nested tags, and a note never carries a parent tag with its child (2026-10-22). Applied to the 18 faction notes, the 11 Player Wiki faction pages and the Faction Template; the plain tag was dropped from the six non-faction notes in `Characters/Factions` that carried it; Hub Config's `tag_faction` is `organization`, and `faction_tag_prefix` holds the nested root.
 - `artifact` is the tag for every item note (folder `Objects/`), including mundane notable items. `item` is retired; a note, template or query that still uses it is out of date (2026-10-04).
 - PCs not in the party, former or on hold, use `player/inactive`, not `player` (2026-10-19).
 - `lore` marks reference notes that support a plot thread without being one, such as The Prophecy (2026-10-19).
-- Keln location region tags follow the kingdom or confederation: `region/varrinthal`, `region/ringhold` (2026-10-04).
+
+**Location (2026-10-27; replaces the `place/…` and `region/…` tags)**
+- `world/<slug>` is the setting: a world, or a plane with one value per plane (`world/feywild`, `world/far-realm`). `world/planar` is retired. Every campaign-content note carries one, and it is the root of every location hierarchy.
+- Place notes (tag `location`) carry their parents as links: `political_region` (who governs it) and `natural_region` (the land it sits on). Both are lists naming the nearest parent only. The first entry is the main parent, shown in trails; lookups use every entry. A place at the top of its setting carries neither.
+- `whereabouts`: one link to where something is now, on anything that moves or could move. NPCs: where they are found. Factions: their base. Items: a place, or the person holding them (a PC holder means the party's location).
+- `site`: one link to where an arc or encounter happens.
+- `ties_to`: a list of links to places, cultures or factions an entity comes from or is tied to, wherever it is now. A tie to a place also counts for everything that place sits inside.
+- `unplaced`: a tag for any entity with no known or decided location. NPCs tagged `deceased` need no `whereabouts`. Era goes in the note text.
+- Folders under `Worlds/` are `Worlds/<world>/<kind>/` (Places, Lore, Tables). A note with its own sub-documents gets a bundle folder. A note's folder says nothing about where it is.
+- Properties are snake_case; tags are lowercase with hyphens.
+- The Linter's Sort YAML Array Values rule ignores `political_region` and `natural_region` (Gerald sets this in the Linter settings).
 
 **Note types**
 - Plot thread: a campaign-scale question spanning many arcs. Tagged with one stage: `plot/active`, `plot/upcoming`, `plot/seed`, `plot/paused` (2026-10-19).
 - Arc: a playable module of 1 to 6 sessions. Tagged `arc` plus the campaign tag. Property `status` (idea, designing, ready, running, paused, abandoned, complete) and `threads` (links to the plot threads it advances). Only one arc runs at a time (2026-10-19). `status` stays a property: swapping an `arc/…` tag is no less hand work, and Bases groups by a property (2026-10-22).
-- Arcs carry no `location` property. The place is a `place/…` tag plus a link to the place's note in the body, as for encounters (2026-10-22; applied to all five arcs and the Arc Template).
+- Arcs carry no `location` property. The place is a `site` link (2026-10-27; it was a `place/…` tag from 2026-10-22).
 - Session: one game night, tagged `session` plus the campaign tag, with `session_number`, `date`, `arc`, `previous_session`. Its "Where we left off" section is the record of campaign state; there is no separate Status Document (2026-10-19).
 - Campaign note: one per campaign, the campaign folder's folder note, tagged `campaign-hub` plus exactly one `campaign/…` tag, with `calendar`, `timeline`, `status` and `world` (2026-10-20).
-- Encounter: tagged `encounter`, `campaign/…`, `world/…`, and where they apply `place/…`, `region/…` and `faction/…`. No `location` or `session` property; the body's Location line links the place (2026-10-21).
+- Encounter: tagged `encounter`, `campaign/…`, `world/…`, and where it applies `faction/…`, with a `site` link to where it happens (2026-10-27). No `location` or `session` property (2026-10-21).
 - Lore: campaign lore and reference documents (in-world facts, history and procedures a thread draws on, such as The Prophecy and its texts, Kelmen and Popcorn Connections, Port Damali Murders) live in `Campaigns/<campaign>/Lore/` and carry the `lore` tag. Dashboards read the tag; the folder is for browsing. Planning notes, table-meta notes and tools stay out; world and faction event notes stay with their owners (2026-10-23).
 - Quick-capture stubs carry `needs-work`. NPC, faction and item stubs go straight to their normal folders; location and shop stubs go to the `Stubs` folder inside the campaign folder (2026-10-20).
 
@@ -90,4 +99,4 @@ Registered property types (`.obsidian/types.json`): `aliases`, `cssclasses`, `ta
 1. **Old properties.** `current_location` became a `**Base:**` link (Cerberus Assembly, Dwendalian Empire, Kryn Dynasty); `affiliations` became a `**Relationships:**` link (Ring of Three, Scars of Scale and Tooth). No nested faction tags. `settlement-type` (Gnurlsotten's Nosh & Nip) and the `region` property on Randmork Stringsaw were dropped.
 2. **`disposition`.** Stays on NPCs and is removed from the 16 non-NPC notes in `Characters/Factions`. NPCs without a value are filled in as they are touched.
 3. **Tags.** See the Kept and Retired rows in the tag table.
-4. **Missing tags.** Continents are `region/` tags with no `place/` tag (`region/taldorei`, `region/callastri`). A `location` note gets `world/`, `region/` and, where it is a place, `place/`. Nine location notes were fixed; Xhorhas Landing (an encounter that never happened) and Skyship Distances (a world-wide table) get no place or region. NPC `region/` is not inferred: only one of the 19 Exandria NPCs without it has a place tag, and that place has no region. Fill both as NPCs are touched; no bulk pass.
+4. **Missing tags** (superseded 2026-10-27 by Location). Continents are `region/` tags with no `place/` tag (`region/taldorei`, `region/callastri`). A `location` note gets `world/`, `region/` and, where it is a place, `place/`. Nine location notes were fixed; Xhorhas Landing (an encounter that never happened) and Skyship Distances (a world-wide table) get no place or region. NPC `region/` is not inferred: only one of the 19 Exandria NPCs without it has a place tag, and that place has no region. Fill both as NPCs are touched; no bulk pass.
