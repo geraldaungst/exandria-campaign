@@ -2,11 +2,11 @@
 hide_from_related: true
 ---
 
-**Purpose:** Reads the pieces of a multi-part artifact (the Lorestone's shards, or any other) from their notes: each piece's history, who knows about it, who pursues it, its inscribed lines, and its open questions. Works out each piece's current holder and location and the who-knows-what grid. No views; [[Artifact Hub Views]] draws them.
+**Purpose:** Reads the pieces of a multi-part artifact (the Lorestone's shards, or any other) from their notes: each piece's history, who knows about it, who pursues it, its inscribed lines, and its open questions. Works out each piece's current holder and location (the location from the piece's `whereabouts`, read by the location core) and the who-knows-what grid. No views; [[Artifact Hub Views]] draws them.
 
-**Exports:** `PIECE_KINDS`, `KNOW_LEVELS`, `CODES`, `SHARE_PERSONAL`, `slug`, `pieceTag`, `pieceNumber`, `parsePiece`, `parseInscription`, `pieceLines`, `currentState`, `partyKnowledge`, `buildGrid`, `factionNotesByTag`, `factionsOf`, `displayName`, `usePieces`, `sectionLines`, `bullets`, `fields`
+**Exports:** `PIECE_KINDS`, `KNOW_LEVELS`, `CODES`, `SHARE_PERSONAL`, `slug`, `pieceTag`, `pieceNumber`, `parsePiece`, `parseInscription`, `pieceLines`, `currentState`, `checkWhereabouts`, `makeLocator`, `partyKnowledge`, `buildGrid`, `factionNotesByTag`, `factionsOf`, `displayName`, `usePieces`, `sectionLines`, `bullets`, `fields`
 
-**Depends on:** [[Shared Helpers]] (and [[Hub Config]] through it)
+**Depends on:** [[Shared Helpers]] (and [[Hub Config]] through it; its `locations()` loads the location core, [[Location Engine Spec]])
 
 **Used by:** [[Artifact Hub Views]] · [[Progress Tracks]] (its line readers: `sectionLines`, `bullets`, `fields`)
 
@@ -17,7 +17,8 @@ Conventions this module relies on:
 - **History** (append-only, newest last; the order in the note is the order shown):
   `- **25 Thunsheer 835** · holder · <span data-date="835-04-25" data-category="Lorestone" data-name="Shard 6: to Drawg">Taken from Dreyara's body.</span> · [[Drawg]] · at [[Some Place]] · [[Session 47]]`
   Fields are separated by ` · `: the date label in bold, the kind, the description, then any of: who (a link, or plain text such as `Party`), `at` plus a link or plain text, and a session link (any linked note tagged `session`). A dated line wraps its description in a Calendarium span, so it shows on the calendar; an undated line (`**Before the campaign**`) has plain text instead. Kinds: holder, moved, knows exists, knows where, wrong, pursuing, stopped, lines read, ruling, note. Only holder and moved lines change the current state; the others are the record.
-- **Current holder and location.** The holder is the who of the last holder line. The location is the party's location (from the last played session) when the holder is a PC or the party; otherwise the `at` of the last holder or moved line after the holder changed; otherwise the holder's own deepest `place/…` tag, shown as that place's own note (the location note with the tag whose name matches the tag's last part) when there is one.
+- **Current holder and location.** The holder is the who of the last holder line (History). The location is where the piece's `whereabouts` leads, read by the location core (`whereIs`): the place it names; a person it names, followed to that person's own `whereabouts`; or the party's location (from the last played session) when it leads to a PC. A piece with no `whereabouts` yet falls back to the old History rule until the migration ends: the party's location when the holder is a PC or the party; otherwise the `at` of the last holder or moved line after the holder changed; otherwise the holder's own deepest `place/…` tag. [[Artifact Change Form]] writes `whereabouts` whenever it records a holder or moved change.
+- **Whereabouts check** (check 10 of [[Location Engine Spec]]). `checkWhereabouts` compares `whereabouts` with the last History line, by the rule the change form writes it: a party holder means `whereabouts` must lead to a PC; a moved line after the holder means the place in its `at`; otherwise the holder's own note; otherwise (a holder with no note) the place in `at`. A difference is reported as a sentence naming both; a piece with no `whereabouts` is not reported here (the core's check 5 covers it). `usePieces` returns the sentence as `state.whereCheck` for each piece.
 - **Who knows** (current state): `- [[Vaud Qalix - DM]] · where · note text · [[Session 25]]`. Levels: `exists` (knows it exists), `where` (knows where it is or who holds it), `wrong` (believes something false about it).
 - **Pursued by** (current state): `- [[Obsidian Echoforge - DM]] · how they go about it · [[Session 28]]`.
 - **Who they share it with** (optional field on a Who knows or Pursued by line, anywhere after the who and level): `personal` keeps the line to the person (`- [[Varnes Dwell - DM|Varnes Dwell]] · where · personal · note`); `shares with [[Clasp - DM|Clasp]], [[Obsidian Echoforge - DM]]` passes it only to the factions named. Without the field, the line counts for all their factions.
@@ -32,7 +33,7 @@ The block below is plain `jsx`, so it does not run on this page. Notes load it w
 ## Code
 
 ```jsx
-const { cfg, tagsOf, isExcluded, stripComments, escapeRe, stripDmSuffix } = await dc.require(dc.headerLink("00 DM Screen/Code/Shared Helpers.md", "Code"));
+const { cfg, tagsOf, isExcluded, stripComments, escapeRe, stripDmSuffix, locations } = await dc.require(dc.headerLink("00 DM Screen/Code/Shared Helpers.md", "Code"));
 
 const SEP = " · ";
 const PIECE_KINDS = ["holder", "moved", "knows exists", "knows where", "wrong", "pursuing", "stopped", "lines read", "ruling", "note"];
@@ -274,7 +275,8 @@ function pieceLines(number, parsed, original, modern) {
 // ── Current state ─────────────────────────────────────────────────
 
 /**
- * ctx: { resolve(target) → { path, name, tags } | null, partyLocation: ref | null, placeFor(tag) → location page | null (optional) }.
+ * ctx: { resolve(target) → { path, name, tags } | null, partyLocation: ref | null, placeFor(tag) → location page | null (optional),
+ * where() → { place, via, source, link } from the location core, or null when the piece has no `whereabouts` (optional) }.
  * A ref is { target, display } (a link) or { plain }. Resolved refs gain `.page`.
  */
 const withPage = (ref, ctx) => (ref && ref.target ? { ...ref, page: ctx.resolve(ref.target) } : ref);
@@ -291,7 +293,7 @@ const deepestUnder = (tags, prefix) => {
   return under.filter((t) => !under.some((o) => o.startsWith(t + "/")));
 };
 
-/** { holder, holderSince, location, locationSource: "party" | "line" | "tag" | null, last } for a parsed piece. */
+/** { holder, holderSince, location, locationSource: "party" | "holder" | "whereabouts" | "line" | "tag" | null, last } for a parsed piece. */
 function currentState(piece, ctx) {
   let holder = null;
   let holderSince = null;
@@ -305,6 +307,14 @@ function currentState(piece, ctx) {
   }
   holder = withPage(holder, ctx);
   const last = piece.history.length ? piece.history[piece.history.length - 1] : null;
+  // The piece's own `whereabouts`, read by the core: a place, or a holder followed to their place.
+  const w = ctx.where?.() ?? null;
+  if (w && w.place) {
+    const location = { target: w.link, display: displayName(w.place.name), place: w.place };
+    const locationSource = w.source === "party" ? "party" : w.via && w.via.length ? "holder" : "whereabouts";
+    return { holder, holderSince, location, locationSource, last };
+  }
+  // No `whereabouts` yet (or it leads nowhere): the History rule, until the migration's last step removes the tag part.
   if (holder && isParty(holder) && ctx.partyLocation)
     return { holder, holderSince, location: withPage(ctx.partyLocation, ctx), locationSource: "party", last };
   if (at) return { holder, holderSince, location: withPage(at, ctx), locationSource: "line", last };
@@ -315,6 +325,70 @@ function currentState(piece, ctx) {
     return { holder, holderSince, location, locationSource: "tag", last };
   }
   return { holder, holderSince, location: null, locationSource: null, last };
+}
+
+/**
+ * The location core, applied to pieces. `loc` is the core's index; partyLocation is a ref ({ target }) or null.
+ * { partyPlace, isPlace(place), where(path), current(path) }: `where` gives whereIs plus a link for a piece that has a `whereabouts`
+ * (null when it has none); `current` gives the first value of its `whereabouts` as a picker choice ({ place } or { file }).
+ */
+function makeLocator(loc, partyLocation) {
+  const c = cfg();
+  const partyPlace = (() => {
+    if (!partyLocation?.target) return null;
+    const p = loc.placeOf(partyLocation.target, "");
+    return p && !p.unresolved ? p : null;
+  })();
+  const placeKeys = new Set(loc.pickerChoices({ field: "site" }).map((x) => x.place.key));
+  const fileAt = (path) => app.vault.getAbstractFileByPath(path);
+  const has = (file) => {
+    const v = app.metadataCache.getFileCache(file)?.frontmatter?.[c.prop_whereabouts];
+    return !(v === undefined || v === null || v === "" || (Array.isArray(v) && v.length === 0));
+  };
+  return {
+    partyPlace,
+    isPlace: (place) => !!place && !place.unresolved && placeKeys.has(place.key),
+    where(path) {
+      const file = fileAt(path);
+      if (!file || !has(file)) return null;
+      const w = loc.whereIs(file, { partyPlace });
+      return { ...w, link: w.place ? loc.linkFor(w.place, path) : null };
+    },
+    current(path) {
+      const file = fileAt(path);
+      return file ? loc.currentChoices(file, c.prop_whereabouts)[0] ?? null : null;
+    },
+  };
+}
+
+/**
+ * Check 10 (Location Engine Spec): the piece's `whereabouts` against its last History holder or `at`.
+ * A sentence when they differ; null when they agree, when the piece has no `whereabouts` (the core's check 5 covers it),
+ * or when there is nothing to compare (a holder with no note and no place in `at`).
+ */
+function checkWhereabouts(piece, state, ctx, locate) {
+  const w = ctx.where?.() ?? null;
+  if (!w || !locate) return null;
+  let at = null, lastKind = null;
+  for (const e of piece.history) {
+    if (e.kind === "holder") { at = e.at ?? null; lastKind = "holder"; }
+    else if (e.kind === "moved" && e.at) { at = e.at; lastKind = "moved"; }
+  }
+  const cur = locate.current(ctx.path);
+  const curLabel = cur ? cur.label : "nothing";
+  const holder = state.holder;
+  if (holder && isParty(holder)) return w.source === "party" ? null : `History says the party holds it, but whereabouts (${curLabel}) does not lead to a PC`;
+  const atPlace = at && at.target ? ctx.locatePlace?.(at.target) : null;
+  const holderFirst = lastKind === "holder" && holder && holder.page; // a holder with a note wins over At
+  if (atPlace && !holderFirst) return cur && cur.place && cur.place.key === atPlace.key ? null : `History puts it at ${displayName(atPlace.name)}, but whereabouts says ${curLabel}`;
+  if (holder && holder.page && ctx.fileOf) {
+    const hf = ctx.fileOf(holder.page.path);
+    if (!hf) return null;
+    const expected = ctx.entityPath(hf);
+    const actual = cur && cur.file ? ctx.entityPath(cur.file) : null;
+    return actual === expected ? null : `History says ${displayName(holder.page.name)} holds it, but whereabouts says ${curLabel}`;
+  }
+  return null;
 }
 
 /** What the party knows of a piece: "holds", "where", "exists", "wrong", or null. */
@@ -470,6 +544,15 @@ function usePieces(artifactSlug, partyLocation = null, inscription = {}) {
   const extra = [originalPath, modernPath].filter(Boolean).map((p) => all.find((x) => x.$path === p)).filter(Boolean);
   const notes = all.filter((p) => !isExcluded(p) && tagsOf(p).some((t) => t === tag || t.startsWith(tag + "/")));
   const stamp = (p) => (p.$mtime?.toMillis ? p.$mtime.toMillis() : String(p.$mtime ?? ""));
+  // The location core, rebuilt when any note changes. If it can't be loaded, pieces fall back to the History rule.
+  const core = dc.useMemo(() => {
+    try {
+      return locations();
+    } catch (e) {
+      console.error(e);
+      return null;
+    }
+  }, [all]);
   const key = [...notes, ...extra].map((p) => `${p.$path}@${stamp(p)}`).join("|");
   const [texts, setTexts] = dc.useState({});
   dc.useEffect(() => {
@@ -498,6 +581,7 @@ function usePieces(artifactSlug, partyLocation = null, inscription = {}) {
       for (const t of deepestUnder(p.tags, "place")) if (slug(p.name) === t.split("/").pop() && !places.has(t)) places.set(t, p);
     }
     const placeFor = (tag) => places.get(tag) ?? null;
+    const locate = core ? makeLocator(core, partyLocation) : null;
     const original = originalPath ? parseInscription(texts[originalPath] ?? "") : null;
     const modern = modernPath ? parseInscription(texts[modernPath] ?? "") : null;
     const resolverFor = (source) => (target) => {
@@ -512,16 +596,26 @@ function usePieces(artifactSlug, partyLocation = null, inscription = {}) {
           return !!r && (r.tags.some((x) => x === c.tag_session || x.startsWith(c.tag_session + "/")) || r.path.includes(`${c.folder_session_notes}/`));
         };
         const parsed = parsePiece(texts[p.$path] ?? "", isSession);
-        const ctx = { resolve, partyLocation, placeFor };
+        const ctx = {
+          resolve, partyLocation, placeFor, path: p.$path,
+          where: locate ? () => locate.where(p.$path) : undefined,
+          fileOf: (path) => app.vault.getAbstractFileByPath(path),
+          entityPath: (file) => core.entityOf(file).file.path,
+          locatePlace: (target) => {
+            const pl = core.placeOf(target, p.$path);
+            return locate.isPlace(pl) ? pl : null;
+          },
+        };
         const number = pieceNumber(p.$name);
         const state = currentState(parsed, ctx);
+        state.whereCheck = checkWhereabouts(parsed, state, ctx, locate);
         return { page: p, path: p.$path, name: p.$name, number, parsed, state, ctx, party: partyKnowledge(parsed, state, ctx), lines: pieceLines(number, parsed, original, modern) };
       })
       .sort((a, b) => a.number - b.number || a.name.localeCompare(b.name));
     const grid = buildGrid(pieces, { resolve: (t) => pieces[0]?.ctx.resolve(t) ?? null, partyLocation, pages });
     return { tag, pieces, grid, loading: [...notes, ...extra].some((p) => texts[p.$path] === undefined) };
-  }, [key, texts, all, partyLocation, originalPath, modernPath]);
+  }, [key, texts, all, partyLocation, originalPath, modernPath, core]);
 }
 
-return { PIECE_KINDS, KNOW_LEVELS, CODES, SHARE_PERSONAL, slug, pieceTag, pieceNumber, parsePiece, parseInscription, pieceLines, currentState, partyKnowledge, buildGrid, factionNotesByTag, factionsOf, displayName, usePieces, sectionLines, bullets, fields };
+return { PIECE_KINDS, KNOW_LEVELS, CODES, SHARE_PERSONAL, slug, pieceTag, pieceNumber, parsePiece, parseInscription, pieceLines, currentState, checkWhereabouts, makeLocator, partyKnowledge, buildGrid, factionNotesByTag, factionsOf, displayName, usePieces, sectionLines, bullets, fields };
 ```

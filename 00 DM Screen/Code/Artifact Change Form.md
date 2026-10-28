@@ -2,11 +2,11 @@
 hide_from_related: true
 ---
 
-**Purpose:** The "Record a change" form on the artifact hub. It writes one dated line to a piece's History (a Calendarium inline event) and, when the change calls for it, updates the piece's current-state sections: Who knows, Pursued by, or Properties and rulings.
+**Purpose:** The "Record a change" form on the artifact hub. It writes one dated line to a piece's History (a Calendarium inline event) and, when the change calls for it, updates the piece's current-state sections: Who knows, Pursued by, or Properties and rulings. A holder or moved change also sets the piece's `whereabouts` property, which is what the location core reads.
 
-**Exports:** `CHANGE_KINDS`, `historyLine`, `applyChange`, `refFromName`, `shareText`, `PieceChangeForm`
+**Exports:** `CHANGE_KINDS`, `historyLine`, `applyChange`, `planWhereabouts`, `refFromName`, `shareText`, `PieceChangeForm`
 
-**Depends on:** [[Shared Helpers]] · [[Campaign State]] · [[Calendar and Timeline]] · [[Artifact Pieces]]
+**Depends on:** [[Shared Helpers]] (its `locations()` loads the location core, [[Location Engine Spec]]) · [[Campaign State]] · [[Calendar and Timeline]] · [[Artifact Pieces]]
 
 **Used by:** [[Artifact Hub Views]]
 
@@ -14,13 +14,15 @@ Conventions this module relies on:
 
 - **One change, one History line**, appended at the end of the History section in the format [[Artifact Pieces]] reads: `- **27 Thunsheer 835** · holder · <span data-date="835-04-27" data-category="Lorestone" data-name="Shard 6: to Hesterian">Description.</span> · [[Hesterian Shyr - Dot|Hesterian]] · [[Session 53]]`. With "No in-world date" ticked, the bold label is the text you type and there is no span, so the line stays off the calendar.
 - **What each kind also changes:**
-  - holder, moved, lines read, note: History only. (Holder and location are read from History; "lines read" marks the piece's lines as read.)
+  - holder, moved: History, and the piece's `whereabouts` (see below). The holder shown on the hub still comes from History.
+  - lines read, note: History only ("lines read" marks the piece's lines as read).
   - knows exists, knows where, wrong: the person's line in Who knows is replaced, or added if they had none.
   - pursuing: the person's line in Pursued by is replaced or added. stopped: it is removed.
   - ruling: the description is also added as a bullet under Properties and rulings.
   A replaced or removed line survives in History, which is the full record.
 - **Who they share it with.** For the knows and pursuing kinds, when the person belongs to a faction: their factions (the default; no field written), no one (writes `personal`), or only some of them (writes `shares with [[…]], [[…]]`). The choice starts at what the person's current line says, so a personal line stays personal unless you change it. [[Artifact Pieces]] has the format.
 - **Matching a person.** Two lines are about the same person when their links point to the same note, or their plain text is the same (ignoring case).
+- **Whereabouts.** On a holder or moved change the form also writes the piece's `whereabouts` (one link, with `processFrontMatter`) and removes the `unplaced` tag if the piece had it. Moved: the place in At; if At is not a place note, `whereabouts` is left alone and the status line says so. Holder: when the holder is the party (`label_party`), a "Carried by" list of PCs appears and the chosen PC is written (the location core then gives the party's location); otherwise the holder's note (the piece then goes wherever the holder goes, even when At is filled in; At stays in History); otherwise the place in At when the holder has no note; a holder with no note and no place leaves `whereabouts` alone. [[Artifact Pieces]] checks later that the two still agree.
 - **Defaults.** Date: today in-world (the last played session's end date). Session: the last played session. Calendarium category: `calendar_category_pieces` in [[Hub Config]]; the list offers every category of the campaign's calendar. Event name: built from the kind and the person ("Shard 6: to Hesterian"), editable.
 - **Names.** The Who and At fields suggest note names (NPCs, factions, PCs, and locations) and accept anything; a name that matches a note is written as a link (by full path when another note shares its file name, such as a Player Wiki twin), anything else as plain text. `Party` (the `label_party` value) always stays plain text and stands for the whole party.
 - A missing section is created before "Connected Elements", or at the end of the note.
@@ -30,10 +32,10 @@ The block below is plain `jsx`, so it does not run on this page. Notes load it w
 ## Code
 
 ```jsx
-const { cfg, tagsOf, hasTag, isExcluded, num, escapeRe, S: BASE } = await dc.require(dc.headerLink("00 DM Screen/Code/Shared Helpers.md", "Code"));
+const { cfg, tagsOf, hasTag, isExcluded, num, escapeRe, S: BASE, locations } = await dc.require(dc.headerLink("00 DM Screen/Code/Shared Helpers.md", "Code"));
 const { useActiveCampaign, useSessionState } = await dc.require(dc.headerLink("00 DM Screen/Code/Campaign State.md", "Code"));
 const { useCalendar, inGameNow, inWorldText } = await dc.require(dc.headerLink("00 DM Screen/Code/Calendar and Timeline.md", "Code"));
-const { displayName, factionNotesByTag, factionsOf, SHARE_PERSONAL } = await dc.require(dc.headerLink("00 DM Screen/Code/Artifact Pieces.md", "Code"));
+const { displayName, factionNotesByTag, factionsOf, SHARE_PERSONAL, makeLocator } = await dc.require(dc.headerLink("00 DM Screen/Code/Artifact Pieces.md", "Code"));
 
 const SEP = " · ";
 
@@ -160,6 +162,50 @@ function applyChange(text, ch, headings, resolve) {
   return out;
 }
 
+// ── Whereabouts ───────────────────────────────────────────────────
+
+/**
+ * What a change does to the piece's `whereabouts`: null for kinds that don't touch it; { link, label } to write; or { skip: reason }.
+ * `loc` is the location core's index, `isPlace(place)` says whether a place object is a location note, `carrier` is the PC ref chosen
+ * when the party is the holder, `fileOf(path)` finds a note's file.
+ */
+function planWhereabouts(ch, { loc, sourcePath, carrier, isPlace, fileOf }) {
+  if (ch.kind !== "holder" && ch.kind !== "moved") return null;
+  const noteOf = (ref) => (ref && !ref.plain && ref.path ? fileOf(ref.path) : null);
+  const placeOfRef = (ref) => {
+    const file = noteOf(ref);
+    if (!file) return null;
+    const place = loc.placeOf(file.path.replace(/\.md$/, ""), sourcePath);
+    return isPlace(place) ? place : null;
+  };
+  const at = placeOfRef(ch.at);
+  const toPlace = (place) => ({ link: loc.linkFor(place, sourcePath), label: displayName(place.name) });
+  const toFile = (file) => ({ link: loc.linkFor(file, sourcePath), label: displayName(file.basename) });
+  if (ch.kind === "moved") return at ? toPlace(at) : { skip: ch.at ? "At is not a place note" : "no place was given" };
+  const party = !!ch.who?.plain && ch.who.plain.toLowerCase() === String(cfg().label_party).toLowerCase();
+  if (party) {
+    const file = noteOf(carrier);
+    return file ? toFile(file) : { skip: "no PC was chosen to carry it" };
+  }
+  const holder = noteOf(ch.who);
+  if (holder) return toFile(holder); // a holder with a note wins over At: the piece goes where they go
+  if (at) return toPlace(at);
+  return { skip: "the holder has no note and no place was given" };
+}
+
+/** Sets `whereabouts` on the piece to a link and removes the `unplaced` tag. */
+async function writeWhereabouts(file, link) {
+  const c = cfg();
+  const unplaced = String(c.tag_unplaced).replace(/^#/, "").toLowerCase();
+  await app.fileManager.processFrontMatter(file, (fm) => {
+    fm[c.prop_whereabouts] = `[[${link}]]`;
+    if (fm.tags !== undefined && fm.tags !== null) {
+      const list = Array.isArray(fm.tags) ? fm.tags : String(fm.tags).split(/[,\s]+/).filter(Boolean);
+      fm.tags = list.filter((t) => String(t).replace(/^#/, "").toLowerCase() !== unplaced);
+    }
+  });
+}
+
 // ── The form ──────────────────────────────────────────────────────
 
 const F = {
@@ -181,6 +227,7 @@ function useNameLists() {
     const names = (pred) => [...new Set(ok.filter(pred).map((p) => displayName(p.$name)))].sort((a, b) => a.localeCompare(b));
     const people = names((p) => hasTag(p, c.tag_npc) || hasTag(p, c.tag_pc) || hasTag(p, c.tag_faction));
     const places = names((p) => hasTag(p, c.tag_location));
+    const pcs = names((p) => hasTag(p, c.tag_pc));
     // A typed name finds its note by display name or file name; file names shared with another note (a wiki twin) link by path.
     const baseCount = new Map();
     for (const p of all) baseCount.set(p.$name.toLowerCase(), (baseCount.get(p.$name.toLowerCase()) ?? 0) + 1);
@@ -193,7 +240,7 @@ function useNameLists() {
     const pageByPath = new Map(pages.map((p) => [p.path, p]));
     const factionByTag = factionNotesByTag(pages);
     const factionsFor = (path) => factionsOf(pageByPath.get(path), factionByTag);
-    return { people: [c.label_party, ...people], places, find: (name) => byName.get(String(name).trim().toLowerCase()) ?? null, factionsFor };
+    return { people: [c.label_party, ...people], places, pcs, find: (name) => byName.get(String(name).trim().toLowerCase()) ?? null, factionsFor };
   }, [all]);
 }
 
@@ -207,7 +254,7 @@ function PieceChangeForm({ piece, onDone }) {
   const lists = useNameLists();
   const categories = Object.keys(cal.colors ?? {});
   const recent = [...played].reverse().slice(0, 8);
-  const [f, setF] = dc.useState({ kind: "holder", who: "", at: "", description: "", undated: false, label: "Before the campaign", date: null, session: null, category: null, eventName: null, share: null, shareWith: null });
+  const [f, setF] = dc.useState({ kind: "holder", who: "", at: "", description: "", undated: false, label: "Before the campaign", date: null, session: null, category: null, eventName: null, share: null, shareWith: null, carrier: "" });
   const [status, setStatus] = dc.useState(null);
   const set = (patch) => setF({ ...f, ...patch });
   const info = kindInfo(f.kind);
@@ -216,6 +263,8 @@ function PieceChangeForm({ piece, onDone }) {
   const category = f.category ?? c.calendar_category_pieces;
   const who = refFromName(f.who, lists.find);
   const at = refFromName(f.at, lists.find);
+  const carrierNeeded = f.kind === "holder" && !!who?.plain && who.plain.toLowerCase() === String(c.label_party).toLowerCase();
+  const carrier = carrierNeeded ? refFromName(f.carrier, lists.find) : null;
   const autoName = info.event(piece.number, refName(who), refName(at));
   const eventName = f.eventName ?? autoName;
   const listId = `piece-names-${piece.number}`;
@@ -235,6 +284,7 @@ function PieceChangeForm({ piece, onDone }) {
     if (info.who === "required" && !who) return setStatus({ warn: true, text: "Who is this about? Pick or type a name." });
     if (info.at === "required" && !at) return setStatus({ warn: true, text: "Where did it go? Fill in At." });
     if (!plain(f.description)) return setStatus({ warn: true, text: "Add a line describing what happened." });
+    if (carrierNeeded && !carrier) return setStatus({ warn: true, text: "Which PC carries it? Pick one under Carried by." });
     if (!f.undated && !/^\d+-\d+-\d+$/.test(date)) return setStatus({ warn: true, text: "The in-world date must be year-month-day, like 835-04-27." });
     if (askShare && shareMode === "some" && !sharePaths.length) return setStatus({ warn: true, text: "Pick at least one faction they share it with, or choose No one." });
     const share = !askShare || shareMode === "factions" ? null : shareMode === "personal" ? { personal: true } : { with: sharePaths.map((p) => refFromName(displayName(p.split("/").pop().replace(/\.md$/, "")), lists.find) ?? { plain: p }) };
@@ -259,8 +309,22 @@ function PieceChangeForm({ piece, onDone }) {
     try {
       const file = app.vault.getAbstractFileByPath(piece.path);
       await app.vault.process(file, (text) => applyChange(text, ch, headings, resolve));
-      setStatus({ text: `Added to ${piece.name}: ${historyLine(ch).replace(/<[^>]+>/g, "").replace(/^- /, "")}` });
-      setF({ ...f, who: "", at: "", description: "", eventName: null, share: null, shareWith: null });
+      let where = "";
+      if (f.kind === "holder" || f.kind === "moved") {
+        try {
+          const loc = locations();
+          const plan = planWhereabouts(ch, { loc, sourcePath: piece.path, carrier, isPlace: makeLocator(loc, null).isPlace, fileOf: (path) => app.vault.getAbstractFileByPath(path) });
+          if (plan?.link) {
+            await writeWhereabouts(file, plan.link);
+            where = ` Whereabouts: ${plan.label}.`;
+          } else if (plan?.skip) where = ` Whereabouts not changed: ${plan.skip}.`;
+        } catch (e) {
+          console.error(e);
+          where = ` Whereabouts not changed: ${e.message}.`;
+        }
+      }
+      setStatus({ text: `Added to ${piece.name}: ${historyLine(ch).replace(/<[^>]+>/g, "").replace(/^- /, "")}${where}` });
+      setF({ ...f, who: "", at: "", description: "", eventName: null, share: null, shareWith: null, carrier: "" });
       onDone?.();
     } catch (e) {
       console.error(e);
@@ -289,6 +353,15 @@ function PieceChangeForm({ piece, onDone }) {
           <label style={F.field}>
             <span style={F.label}>At{info.at === "required" ? "" : " (optional)"}</span>
             <input type="text" list={`${listId}-at`} placeholder="Place" value={f.at} onInput={(e) => set({ at: e.currentTarget.value, eventName: null })} />
+          </label>
+        ) : null}
+        {carrierNeeded ? (
+          <label style={F.field}>
+            <span style={F.label}>Carried by</span>
+            <select value={f.carrier} onChange={(e) => set({ carrier: e.currentTarget.value })}>
+              <option value="">Pick a PC</option>
+              {lists.pcs.map((n) => <option key={n} value={n}>{n}</option>)}
+            </select>
           </label>
         ) : null}
       </div>
@@ -359,7 +432,7 @@ function PieceChangeForm({ piece, onDone }) {
       <div style={{ display: "flex", gap: "8px", alignItems: "center" }}>
         <button className="mod-cta" onClick={save}>Save to {piece.name.replace(/\s+-\s+.*$/, "")}</button>
         <span style={BASE.muted}>
-          {info.section === "knows" ? "Also replaces their line in Who knows." : info.section === "pursuit" ? (info.remove ? "Also removes their line from Pursued by." : "Also replaces their line in Pursued by.") : info.section === "rulings" ? "Also adds it under Properties and rulings." : "Adds one line to History."}
+          {info.section === "knows" ? "Also replaces their line in Who knows." : info.section === "pursuit" ? (info.remove ? "Also removes their line from Pursued by." : "Also replaces their line in Pursued by.") : info.section === "rulings" ? "Also adds it under Properties and rulings." : f.kind === "holder" || f.kind === "moved" ? "Adds one line to History and sets whereabouts." : "Adds one line to History."}
         </span>
       </div>
       {status ? <div style={{ ...F.status, ...(status.warn ? F.warn : {}) }}>{status.text}</div> : null}
@@ -367,5 +440,5 @@ function PieceChangeForm({ piece, onDone }) {
   );
 }
 
-return { CHANGE_KINDS, historyLine, applyChange, refFromName, shareText, PieceChangeForm };
+return { CHANGE_KINDS, historyLine, applyChange, planWhereabouts, refFromName, shareText, PieceChangeForm };
 ```

@@ -6,7 +6,7 @@ hide_from_related: true
 
 **Exports:** `PieceOverview`, `PieceCards`, `WhoKnowsGrid`, `usePartyLocation`
 
-**Depends on:** [[Shared Helpers]] · [[Campaign State]] · [[Session Hub Views]] · [[Hub Layout]] · [[Artifact Pieces]] · [[Artifact Change Form]]
+**Depends on:** [[Shared Helpers]] (its `locations()` loads the location core, [[Location Engine Spec]]) · [[Campaign State]] · [[Session Hub Views]] · [[Hub Layout]] · [[Artifact Pieces]] · [[Artifact Change Form]]
 
 **Used by:** [[Lorestone Shard Status Tracker]]
 
@@ -15,10 +15,10 @@ Conventions this module relies on:
 - **Props.** Both components take `piece`, the artifact's slug (`piece="lorestone-of-eryndor"`); pieces are the notes tagged `<piece_tag_prefix>/<slug>` ([[Artifact Pieces]] has the note format). `PieceCards` also takes `original` and `modern`, the names of the notes holding the labeled inscription lines.
 - **Card colors** (left border): green when the party or a PC holds the piece; gray when no one holds it; the accent color when the party knows where it is or who holds it; red when only you know. A key under the cards repeats this.
 - **Line dots.** One per original line: ● the party has read it, ◐ they know only its modern version, ○ they know neither. Hover for the text.
-- **Party location.** The link in the `Party location` bullet under `Where we left off` in the last played session, the same rule as the Session Hub's "Where are we". A piece held by a PC or by the party shows that place.
+- **Party location.** The link in the `Party location` bullet under `Where we left off` in the last played session, the same rule as the Session Hub's "Where are we". A piece that leads to a PC (through its `whereabouts`) shows that place, marked "with the party"; a piece whose location comes from its holder is marked "holder's place". A card also shows a warning when the piece's `whereabouts` disagrees with its last History line ([[Artifact Pieces]], check 10).
 - **Overview.** One line: each holder followed by the numbers of the pieces they hold; each number opens its note. Made to be embedded elsewhere (the artifact's DM note, the plot thread).
 - **Cards.** One per piece in number order. "More" opens the detail panel under the cards, one piece at a time. A card with lines the reader could not parse shows a warning; the panel lists them.
-- **Who knows what.** One row per person, faction, or the party; one column per piece. Each cell is shaded by the highest level known: light green knows it exists, mid green knows where (or who holds it), dark green holds it; gold believes something false (whatever the false belief is); ↗ marks pursuing, on top of any of these. Factions and the party start folded: click a folded group's name to show its members. Once open, the name is a link to its note and the ▾ beside it folds the group again (a name, faction, or place filter opens the groups it matches). Rows come from the pieces' holders and their Who knows and Pursued by lines; a person's lines also count for each faction they belong to and, for a PC, for the party, and they are listed under it. A line marked `personal` counts only for the person, and one marked `shares with` only for the factions it names ([[Artifact Pieces]] has the format); someone whose lines are all personal is listed on their own. Filters: name, faction, and place (the `place/…` tags on the people's own notes). Clicking a cell lists the lines behind it.
+- **Who knows what.** One row per person, faction, or the party; one column per piece. Each cell is shaded by the highest level known: light green knows it exists, mid green knows where (or who holds it), dark green holds it; gold believes something false (whatever the false belief is); ↗ marks pursuing, on top of any of these. Factions and the party start folded: click a folded group's name to show its members. Once open, the name is a link to its note and the ▾ beside it folds the group again (a name, faction, or place filter opens the groups it matches). Rows come from the pieces' holders and their Who knows and Pursued by lines; a person's lines also count for each faction they belong to and, for a PC, for the party, and they are listed under it. A line marked `personal` counts only for the person, and one marked `shares with` only for the factions it names ([[Artifact Pieces]] has the format); someone whose lines are all personal is listed on their own. Filters: name, faction, and place. The place choices are the world's places that hold someone in the grid, labeled with their trail; choosing one lists the people at it or anywhere inside it (the location core's `within`, both hierarchies, with the party's location used for PCs). Clicking a cell lists the lines behind it.
 - **Sessions in the panel.** Every session note a piece's lines cite, plus every session note that links to the piece's note, newest first.
 
 The block below is plain `jsx`, so it does not run on this page. Notes load it with `dc.require(dc.headerLink("00 DM Screen/Code/Artifact Hub Views.md", "Code"))`. After editing, reopen any note that uses it. Design: [[DM Hubs Design]].
@@ -26,7 +26,7 @@ The block below is plain `jsx`, so it does not run on this page. Notes load it w
 ## Code
 
 ```jsx
-const { cfg, num, useNoteText, S: BASE } = await dc.require(dc.headerLink("00 DM Screen/Code/Shared Helpers.md", "Code"));
+const { cfg, num, useNoteText, S: BASE, locations } = await dc.require(dc.headerLink("00 DM Screen/Code/Shared Helpers.md", "Code"));
 const { useActiveCampaign, useSessionState } = await dc.require(dc.headerLink("00 DM Screen/Code/Campaign State.md", "Code"));
 const { sectionText, labelItems } = await dc.require(dc.headerLink("00 DM Screen/Code/Session Hub Views.md", "Code"));
 const { Row, Cell } = await dc.require(dc.headerLink("00 DM Screen/Code/Hub Layout.md", "Code"));
@@ -124,7 +124,7 @@ const noteLink = (p, label) => <dc.Link link={p.page.$link?.withDisplay ? p.page
 
 function locationText(state) {
   if (!state.location) return null;
-  const hint = state.locationSource === "party" ? " (with the party)" : state.locationSource === "tag" ? " (holder's place)" : "";
+  const hint = state.locationSource === "party" ? " (with the party)" : state.locationSource === "tag" || state.locationSource === "holder" ? " (holder's place)" : "";
   return `${refMd(state.location)}${hint}`;
 }
 
@@ -227,6 +227,12 @@ function PieceCard({ p, open, onToggle, onRecord }) {
         <span style={H.label}>At</span>
         {loc ? <Md text={loc} source={p.path} /> : <span style={BASE.muted}>unknown</span>}
       </div>
+      {s.whereCheck ? (
+        <div style={H.row}>
+          <span style={H.label}>Check</span>
+          <span style={{ color: "var(--text-error)", fontSize: "var(--font-ui-smaller)" }}>⚠ {s.whereCheck}</span>
+        </div>
+      ) : null}
       <div style={H.row}>
         <span style={H.label}>Knows</span>
         <RefList refs={knows} source={p.path} empty="no one" />
@@ -521,8 +527,37 @@ const pursuing = (cell) => !!cell && cell.codes.has("P");
 const cellLabel = (cell) => [levelOf(cell)?.label, pursuing(cell) ? "pursuing" : null].filter(Boolean).join(", ");
 
 const rowPage = (row) => row.ref?.page ?? null;
-const placeTags = (page) => (page?.tags ?? []).filter((t) => t.startsWith("place/"));
-const inTag = (tags, wanted) => tags.some((t) => t === wanted || t.startsWith(wanted + "/"));
+
+/**
+ * Place filter for the who-knows grid, from the location core. `rows` are grid rows (a row's page, when it has one, is a note);
+ * `partyPlace` is where the party is (used for PCs). Returns { options: [{ key, label }], passes(row, key) }: the options are the
+ * world's places that hold at least one row (where they are, or a place above it); `passes` is the core's `within`.
+ */
+function placeFilter(loc, rows, partyPlace, world) {
+  const fileOf = (r) => {
+    const page = rowPage(r);
+    return page ? app.vault.getAbstractFileByPath(page.path) : null;
+  };
+  const choices = loc.pickerChoices({ field: "site", world: world || undefined });
+  const byKey = new Map(choices.map((ch) => [ch.place.key, ch]));
+  const used = new Set();
+  for (const r of rows) {
+    const file = fileOf(r);
+    if (!file) continue;
+    const w = loc.whereIs(file, { partyPlace });
+    if (!w.place) continue;
+    used.add(w.place.key);
+    for (const a of loc.ancestors(w.place)) used.add(a.key);
+  }
+  return {
+    options: choices.filter((ch) => used.has(ch.place.key)).map((ch) => ({ key: ch.place.key, label: ch.label })),
+    passes(r, key) {
+      const file = fileOf(r);
+      const place = byKey.get(key)?.place;
+      return !!file && !!place && loc.within(file, place, { partyPlace });
+    },
+  };
+}
 
 /** Grid rows people, factions, and the party; columns the pieces. Props: piece (slug). */
 function WhoKnowsGrid({ piece }) {
@@ -534,14 +569,31 @@ function WhoKnowsGrid({ piece }) {
   const [picked, setPicked] = dc.useState(null); // { key, number }
   const [open, setOpen] = dc.useState([]); // keys of unfolded groups
   const [hoverCol, setHoverCol] = dc.useState(null);
+  const { campaign } = useActiveCampaign();
+  const everything = dc.useQuery("@page"); // the location index is rebuilt when any note changes
+  const core = dc.useMemo(() => {
+    try {
+      return locations();
+    } catch (e) {
+      console.error(e);
+      return null;
+    }
+  }, [everything]);
   if (!pieces.length) return <NoPieces tag={tag} />;
   if (loading) return <div style={BASE.muted}>Reading pieces…</div>;
 
   const byNumber = new Map(pieces.map((p) => [p.number, p]));
   const people = [...grid.factions.flatMap((f) => [f.row, ...f.members]), ...grid.others, ...(grid.party ? [grid.party.row, ...grid.party.members] : [])];
-  const places = [...new Set(people.flatMap((r) => placeTags(rowPage(r))))].sort();
+  const world = String(campaign?.page?.value("world") ?? "").replace(/^\[\[|\]\]$/g, "").replace(/\|.*$/, "").trim();
+  const partyPlace = (() => {
+    if (!core || !party?.target) return null;
+    const pl = core.placeOf(party.target, "");
+    return pl && !pl.unresolved ? pl : null;
+  })();
+  const pf = core ? placeFilter(core, people, partyPlace, world) : null;
+  const places = pf ? pf.options : [];
   const q = query.trim().toLowerCase();
-  const rowPasses = (r) => (!q || r.name.toLowerCase().includes(q)) && (!place || inTag(placeTags(rowPage(r)), place));
+  const rowPasses = (r) => (!q || r.name.toLowerCase().includes(q)) && (!place || (!!pf && pf.passes(r, place)));
 
   // Groups: each faction (or the party) with its members, then people in no faction.
   const groups = [];
@@ -607,10 +659,10 @@ function WhoKnowsGrid({ piece }) {
         </label>
         <label style={G.field}>
           <span style={H.section}>Place</span>
-          <select value={place} onChange={(e) => setPlace(e.currentTarget.value)}>
-            <option value="">Any place</option>
-            {places.map((t) => (
-              <option key={t} value={t}>{t.slice("place/".length).split("/").join(" / ")}</option>
+          <select value={place} disabled={!pf} onChange={(e) => setPlace(e.currentTarget.value)}>
+            <option value="">{pf ? "Any place" : "Location core unavailable"}</option>
+            {places.map((o) => (
+              <option key={o.key} value={o.key}>{o.label}</option>
             ))}
           </select>
         </label>

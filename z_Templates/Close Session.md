@@ -2,12 +2,11 @@
 // Close Session: run from a session note after the game (Templater: insert template).
 // Asks how much in-world time passed and the time of day, then writes fc-end and
 // ingame_time to the note's frontmatter, then offers to log events to the campaign
-// timeline note (Calendarium inline events). Inserts no text into the session note.
+// timeline note (Calendarium inline events), then asks where the NPCs and items this session touched ended up
+// (their `whereabouts`). Inserts no text into the session note.
 // ── Shared helpers: z_Templates/Scripts/dm_helpers.js (a Templater user script), used by every template that
 // runs code. Edit them there, once, for all of them.
-const { C, ABORT, FACTION, slug, tagPath, fmOf, tagsOfFile, liveNotes, vocabulary, levels, dropParents, pickTag, pickFactions, childFolders,
-  inWorldFilter, worldRegionEntries, campaignTagOf, campaignNotes, pickCampaign, campaignWorld, placeNoteFor, linkTo,
-  findPath, ensureFolder, askTitle, discard, safeMove } = tp.user.dm_helpers(tp, Notice);
+const { C, PROP, UNPLACED, fmOf, tagsOfFile, campaignNotes, campaignWorld, locations } = tp.user.dm_helpers(tp, Notice);
 const file = tp.config.target_file ?? app.workspace.getActiveFile();
 const fm = (file && app.metadataCache.getFileCache(file)?.frontmatter) ?? {};
 const tags = tagsOfFile(file);
@@ -176,4 +175,76 @@ while (timeline && categories.length) {
   added += 1;
 }
 if (added) new Notice(`Added ${added} timeline ${added === 1 ? "event" : "events"}.`);
+
+// Where did they end up? The NPC and item notes this session links to (comments and embeds left out, as the Session Hub does)
+// plus the notes whose first_session is this session. PCs and player-only notes are skipped. One suggester for each, and only
+// the changes are written. Escape, or "All remaining unchanged", stops asking and keeps what was chosen so far.
+try {
+  const loc = locations();
+  const hasTag = (f, tag) => tagsOfFile(f).some((t) => t === String(tag).toLowerCase() || t.startsWith(String(tag).toLowerCase() + "/"));
+  const body = String(await app.vault.cachedRead(file)).replace(/^---\n[\s\S]*?\n---\n?/, "").replace(/<!--[\s\S]*?-->/g, "");
+  const found = new Map();
+  const consider = (f) => {
+    if (!f || (f.extension && f.extension !== "md")) return;
+    const e = loc.entityOf(f);
+    if (e.playerOnly) return;
+    const ef = e.file;
+    if (hasTag(ef, C("tag_pc", "player"))) return;
+    if (!hasTag(ef, C("tag_npc", "npc")) && !hasTag(ef, C("tag_item", "artifact"))) return;
+    found.set(ef.path, ef);
+  };
+  for (const m of body.matchAll(/(!?)\[\[([^\]]+?)\]\]/g)) {
+    if (m[1]) continue;
+    const t = m[2].replace(/\\?\|.*$/, "").replace(/#.*$/, "").trim();
+    if (t) consider(app.metadataCache.getFirstLinkpathDest(t, file.path));
+  }
+  for (const f of app.vault.getMarkdownFiles()) {
+    const first = fmOf(f).first_session;
+    if (first && linkTarget(first, f.path)?.path === file.path) consider(f);
+  }
+  const entities = [...found.values()].sort((a, b) => a.basename.localeCompare(b.basename));
+  const world = campaignNote ? campaignWorld(campaignNote) : "";
+  const changes = []; // { file, link } or { file, unplaced: true }
+  const sameChoice = (a, b) => !!a && !!b && ((a.place && b.place && a.place.key === b.place.key) || (a.file && b.file && a.file.path === b.file.path));
+  for (let i = 0; i < entities.length; i++) {
+    const ef = entities[i];
+    const w = loc.whereIs(ef);
+    const now = w.place ? loc.trailLabel(w.place) : w.source === "unplaced" ? "unplaced" : w.source === "deceased" ? "deceased" : "no whereabouts";
+    const isItem = hasTag(ef, C("tag_item", "artifact"));
+    const choices = loc.pickerChoices({ field: PROP.whereabouts, forFile: ef, world: world || undefined, kind: isItem ? "item" : undefined });
+    const picked = await tp.system.suggester(
+      [`Unchanged (${now})`, "All remaining unchanged: done", ...choices.map((ch) => ch.label), "Unplaced"],
+      ["keep", "done", ...choices, "unplaced"],
+      false,
+      `Where is ${ef.basename.replace(/ - DM$/, "")} now? (${i + 1} of ${entities.length})`
+    );
+    if (!picked || picked === "done") break;
+    if (picked === "keep") continue;
+    const cur = loc.currentChoices(ef, PROP.whereabouts)[0];
+    if (picked === "unplaced") {
+      if (!cur && tagsOfFile(ef).includes(String(UNPLACED).toLowerCase())) continue;
+      changes.push({ file: ef, unplaced: true });
+    } else if (!sameChoice(cur, picked)) {
+      changes.push({ file: ef, link: picked.link });
+    }
+  }
+  for (const ch of changes) {
+    await app.fileManager.processFrontMatter(ch.file, (fm) => {
+      const norm = (t) => String(t).replace(/^#/, "").toLowerCase();
+      let list = fm.tags === undefined || fm.tags === null ? [] : Array.isArray(fm.tags) ? [...fm.tags] : String(fm.tags).split(/[,\s]+/).filter(Boolean);
+      list = list.filter((t) => norm(t) !== norm(UNPLACED));
+      if (ch.unplaced) {
+        delete fm[PROP.whereabouts];
+        list.push(UNPLACED);
+      } else {
+        fm[PROP.whereabouts] = `[[${ch.link}]]`;
+      }
+      fm.tags = list;
+    });
+  }
+  if (entities.length) new Notice(changes.length ? `Locations updated for ${changes.length} ${changes.length === 1 ? "note" : "notes"}: ${changes.map((c2) => c2.file.basename).join(", ")}.` : "No locations changed.");
+} catch (e) {
+  console.error(e);
+  new Notice(`Close Session: the location step was skipped (${e.message}).`);
+}
 -%>

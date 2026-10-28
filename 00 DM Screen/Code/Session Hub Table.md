@@ -2,29 +2,29 @@
 hide_from_related: true
 ---
 
-**Purpose:** The table side of the Session Hub. Currently: Tonight's cast (the NPCs, locations, factions, and items the next session note and its arc link to, each opening to its Quick Reference section) and Where are we (the notes connected to the party's current location).
+**Purpose:** The table side of the Session Hub. Currently: Tonight's cast (the NPCs, locations, factions, and items the next session note and its arc link to, each opening to its Quick Reference section) and Where are we (what is at the party's current location, read by the location core, and the notes that mention it).
 
-**Exports:** `TableCast`, `WhereAreWe`, `linkTargets`, `kindOf`
+**Exports:** `TableCast`, `WhereAreWe`, `linkTargets`, `kindOf`, `castOf`, `locatedAt`
 
-**Depends on:** [[Shared Helpers]] · [[Campaign State]] · [[Quick Capture]] · [[Session Hub Views]]
+**Depends on:** [[Shared Helpers]] (its `locations()` loads the location core, [[Location Engine Spec]]) · [[Campaign State]] · [[Quick Capture]] · [[Session Hub Views]]
 
 **Used by:** [[Session Hub]]
 
 Conventions this module relies on:
 
 - **Tonight's cast.** The session is the next one dated today or later; with none, the last one played. Its links are read from the note text, with `<!-- comments -->` and embeds (`![[...]]`) left out, so a link inside a comment does not count. The arc named in the session's `arc` property is read the same way and shown in a collapsed group.
-- **What counts as cast.** A linked note tagged `npc`, `location`, `faction`, or `artifact` (names in [[Hub Config]]). Notes in the Player Wiki folder and in excluded folders are not listed. A link that lands on a Player Wiki note shows that note's DM twin instead, the note named `<name> - DM` (or the same name outside the Player Wiki), so a DM note and its player-facing twin do not both appear. A Player Wiki note with no DM twin is left out. When an entry has a Player Wiki twin, a "player wiki" link beside it opens what the players have been told.
+- **What counts as cast.** A linked note tagged `npc`, `location`, `faction`, or `artifact` (names in [[Hub Config]]). Notes in excluded folders are not listed. A link that lands on a Player Wiki note shows that note's DM twin instead, the note named `<name> - DM` (or the same name outside the Player Wiki), so a DM note and its player-facing twin do not both appear. A Player Wiki note with no DM twin is listed as it is and marked with the `label_player_only` text. When an entry has a Player Wiki twin, a "player wiki" link beside it opens what the players have been told.
 - **Quick Reference.** Each entry opens to the `Quick Reference` section of its note, loaded when you open the entry. A note with no such heading says so.
 - **No note yet.** A link that matches no note gets a kind picker and a Create button. It builds the same stub as [[Quick Capture]] and links it to the session. The stub takes the link's name, so the original link starts working.
-- **Where are we.** The place is the link in the `Party location` bullet under `Where we left off` in the last played session (names in [[Hub Config]]). A link that lands on a Player Wiki note counts for its DM twin too. Under it: NPCs tagged with the place's own `place/…` tag or a tag nested under it ("here now"; a place note with no place tag matches on its name), then every other NPC, faction, item, plot thread, and arc whose note links to the place (body or properties), with no counts. Arcs with `status: complete` and session notes are not listed.
-- **Locations here vs. mentioned.** A location is in the place when its note sits inside the folder of the place's note (the folder named for the place, holding a note of the same name, with or without " - DM"; subfolders count; the Player Wiki twin's folder works too), or when it sets `located_in: "[[Place]]"`. Those are "Locations here" whether or not they link to the place. Locations that only link to it go in a collapsed "Mentioned, not located here" group. A Party location with no link shows its text and says to link the place.
+- **Where are we.** The place is the link in the `Party location` bullet under `Where we left off` in the last played session (names in [[Hub Config]]); the location core resolves it (`placeOf`), so a link to a Player Wiki note and to its DM twin are the same place. Under it, in this order: NPCs whose place is the party's place or anywhere inside it ("here now"), every other NPC that links to it, locations inside it (any place whose parents lead to it, political or natural), factions and items located there and then those that only link to it, plot threads that link to it, arcs and encounters whose `site` is there (arcs with `status: complete` are not listed) and arcs that only link to it. A note that is located there is never repeated as a mention. Player-only notes are listed and marked.
+- **Locations here vs. mentioned.** A location is "here" when its parents (`political_region`, `natural_region`) lead to the party's place, whether or not its note links to the place. Locations that only link to the place go in a collapsed "Mentioned, not located here" group. A Party location with no link shows its text and says to link the place. Nothing here reads `place/…` tags, folders, or `located_in`.
 
 The block below is plain `jsx`, so it does not run on this page. Notes load it with `dc.require(dc.headerLink("00 DM Screen/Code/Session Hub Table.md", "Code"))`. After editing, reopen any note that uses it. Design: [[DM Hubs Design]].
 
 ## Code
 
 ```jsx
-const { cfg, linkPath, hasTag, tagsOf, isExcluded, statusOf, useNoteText, stripComments, S, dmSuffix, stripDmSuffix } = await dc.require(dc.headerLink("00 DM Screen/Code/Shared Helpers.md", "Code"));
+const { cfg, linkPath, hasTag, isExcluded, statusOf, useNoteText, stripComments, S, dmSuffix, stripDmSuffix, locations } = await dc.require(dc.headerLink("00 DM Screen/Code/Shared Helpers.md", "Code"));
 
 const { useActiveCampaign, useSessionState } = await dc.require(dc.headerLink("00 DM Screen/Code/Campaign State.md", "Code"));
 
@@ -103,26 +103,36 @@ function castOf(text, sourcePath, byPath, wikiByName, skip) {
       continue;
     }
     let page = byPath.get(path);
+    let playerOnly = false;
     if (!page && path.startsWith(c.folder_player_wiki + "/")) {
       const name = path.split("/").pop().replace(/\.md$/, "").toLowerCase();
       page = byName.get(`${name}${dmSuffix().toLowerCase()}`) ?? byName.get(name);
+      if (!page) {
+        // A Player Wiki note with no DM twin: listed as it is, and marked.
+        const solo = wikiByName.get(name);
+        if (solo && solo.$path === path) {
+          page = solo;
+          playerOnly = true;
+        }
+      }
     }
     if (!page || taken.has(page.$path) || skip.has(page.$path)) continue;
     taken.add(page.$path);
-    const wiki = wikiByName.get(stripDmSuffix(page.$name).toLowerCase()) ?? null;
-    groups[kindOf(page)].push({ page, wiki });
+    const wiki = playerOnly ? null : wikiByName.get(stripDmSuffix(page.$name).toLowerCase()) ?? null;
+    groups[kindOf(page)].push({ page, wiki, playerOnly });
   }
   return { groups, missing, paths: taken };
 }
 
 const isEmpty = (cast) => cast.missing.length === 0 && KIND_ORDER.every((k) => cast.groups[k].length === 0);
 
-function CastEntry({ page, wiki, plain }) {
+function CastEntry({ page, wiki, plain, playerOnly }) {
   const [open, setOpen] = dc.useState(false);
   if (plain)
     return (
       <div style={T.entry}>
         <dc.Link link={page.$link} />
+        {playerOnly ? <span style={S.pill}>{cfg().label_player_only}</span> : null}
       </div>
     );
   const hasReference = (page.$sections ?? []).some((s) => String(s.$title).trim().toLowerCase() === "quick reference");
@@ -132,6 +142,7 @@ function CastEntry({ page, wiki, plain }) {
       <summary>
         <dc.Link link={page.$link} />
         {needsWork ? <span style={S.pill}>needs work</span> : null}
+        {playerOnly ? <span style={S.pill}>{cfg().label_player_only}</span> : null}
         {wiki ? (
           <span style={S.muted}>
             {" · "}
@@ -199,7 +210,7 @@ function CastGroups({ cast, campaign, session, worldName }) {
             <div key={k} style={T.panel}>
               <div style={T.label}>{KIND_LABEL[k]}</div>
               {cast.groups[k].map((e) => (
-                <CastEntry key={e.page.$path} page={e.page} wiki={e.wiki} />
+                <CastEntry key={e.page.$path} page={e.page} wiki={e.wiki} playerOnly={e.playerOnly} />
               ))}
             </div>
           ))}
@@ -225,21 +236,24 @@ const HERE_ORDER = [
   ["item", "Items"],
   ["plot", "Plot threads"],
   ["arc", "Arcs"],
+  ["encounter", "Encounters"],
 ];
 
-const noteBase = (path) => path.split("/").pop().replace(/\.md$/, "");
-// Tag-safe form of a note name: the same rule the templates use to build place/… tags.
-const placeSlug = (name) =>
-  stripDmSuffix(String(name)).trim().normalize("NFKD").replace(/[\u0300-\u036f]/g, "").toLowerCase()
-    .replace(/&/g, " and ").replace(/['’`]/g, "").replace(/[^a-z0-9_]+/g, "-").replace(/^-+|-+$/g, "");
-const placeKey = (name) => stripDmSuffix(name).trim().toLowerCase();
-
-/** The folder a place's note is the folder note of ("Rexxentrum/Rexxentrum - DM.md"), or null. */
-function folderOfPlace(path) {
-  const parts = path.split("/");
-  if (parts.length < 2) return null;
-  const folder = parts[parts.length - 2];
-  return placeKey(folder) === placeKey(noteBase(path)) ? parts.slice(0, -1).join("/") : null;
+/**
+ * What the location core finds at or inside the party's place: { here, inside, faction, item, arc, encounter }, each a list of
+ * { page, playerOnly }. `pageFor(file)` gives the Datacore page for a note's file (null skips it); `skip` is a Set of paths to leave out.
+ */
+function locatedAt(loc, partyPlace, pageFor, skip) {
+  const c = cfg();
+  const ask = (kind) =>
+    loc
+      .entitiesWithin(partyPlace, { kinds: [kind] })
+      .filter((f) => !skip.has(f.path))
+      .map((f) => ({ page: pageFor(f), playerOnly: loc.isPlayerOnly(f) }))
+      .filter((e) => e.page && !(e.page.$path && skip.has(e.page.$path)));
+  const out = { here: ask("npc"), inside: ask("location"), faction: ask("organization"), item: ask("artifact"), arc: ask("arc"), encounter: ask("encounter") };
+  out.arc = out.arc.filter((e) => statusOf(e.page) !== "complete");
+  return out;
 }
 
 /** The place the party is, from the last played session, and the notes connected to it. */
@@ -251,13 +265,23 @@ function WhereAreWe() {
 
   const pages = new Map();
   const wikiByName = new Map();
-  for (const tag of [c.tag_npc, c.tag_location, c.tag_faction, c.tag_item, c.tag_plot, c.tag_arc]) {
+  for (const tag of [c.tag_npc, c.tag_location, c.tag_faction, c.tag_item, c.tag_plot, c.tag_arc, c.tag_encounter]) {
     for (const p of dc.useQuery(`@page and #${tag}`)) {
       if (isExcluded(p)) continue;
       if (p.$path.startsWith(c.folder_player_wiki + "/")) wikiByName.set(p.$name.toLowerCase(), p);
       else pages.set(p.$path, p);
     }
   }
+  // Wiki-wide so the location index is rebuilt when any note changes.
+  const everything = dc.useQuery("@page");
+  const core = dc.useMemo(() => {
+    try {
+      return { loc: locations() };
+    } catch (e) {
+      console.error(e);
+      return { loc: null, error: e };
+    }
+  }, [everything]);
 
   if (!lastPlayed) return <div style={S.muted}>No session played yet.</div>;
   const items = labelItems(sectionText(text, c.heading_left_off), c.label_party_location);
@@ -268,14 +292,21 @@ function WhereAreWe() {
       </div>
     );
   }
+  if (!core.loc) return <div style={S.muted}>Where are we needs the location core: {String(core.error?.message ?? "it could not be loaded")}</div>;
+  const loc = core.loc;
 
   // Everything the Party location line links to, plus the DM or wiki twin of each.
   const byName = new Map([...pages.values()].map((p) => [p.$name.toLowerCase(), p]));
   const targets = new Set();
   const places = [];
+  let partyPlace = null;
   for (const target of items.flatMap((i) => linkTargets(i.text))) {
     const path = resolveTarget(target, lastPlayed.$path);
     if (!path) continue;
+    if (!partyPlace) {
+      const place = loc.placeOf(target, lastPlayed.$path);
+      if (place && !place.unresolved) partyPlace = place;
+    }
     targets.add(path);
     const inWiki = path.startsWith(c.folder_player_wiki + "/");
     const base = path.split("/").pop().replace(/\.md$/, "").toLowerCase();
@@ -303,59 +334,41 @@ function WhereAreWe() {
     );
   }
 
-  const groups = { here: [], npc: [], inside: [], mentioned: [], faction: [], item: [], plot: [], arc: [] };
+  const groups = { here: [], npc: [], inside: [], mentioned: [], faction: [], item: [], plot: [], arc: [], encounter: [] };
   const seen = new Set();
-  // "Here now": NPCs tagged with the place's own place/… tag, or a tag nested under it. A place note with no place tag
-  // of its own matches on its name instead (any place/… tag with that name as one of its levels).
-  const ownPlaceTags = new Set();
-  const nameSlugs = [];
-  for (const e of places) {
-    const own = [...tagsOf(e.page), ...(e.wiki ? tagsOf(e.wiki) : [])].filter((t) => t.startsWith("place/"));
-    own.forEach((t) => ownPlaceTags.add(t));
-    if (!own.length) nameSlugs.push(placeSlug(e.page.$name));
-  }
-  const isHere = (p) =>
-    tagsOf(p).some((t) => {
-      if (!t.startsWith("place/")) return false;
-      if ([...ownPlaceTags].some((h) => t === h || t.startsWith(h + "/"))) return true;
-      return t.split("/").slice(1).some((seg) => nameSlugs.includes(seg));
-    });
-  for (const p of pages.values()) {
-    if (targets.has(p.$path) || !hasTag(p, c.tag_npc) || !isHere(p)) continue;
-    groups.here.push(p);
-    seen.add(p.$path);
-  }
-  // Folders that hold the place, on the DM side and the Player Wiki side.
-  const folders = [];
-  for (const e of places) {
-    for (const page of [e.page, e.wiki]) {
-      const f = page ? folderOfPlace(page.$path) : null;
-      if (f) folders.push(f);
+  const solo = new Set(); // paths of player-only notes
+  const rank = new Map(); // 0 = located there, 1 = only mentions it
+  // Located at the party's place (the core): NPCs, places, factions, items, arcs and encounters.
+  const allPages = new Map([...pages, ...[...wikiByName.values()].map((p) => [p.$path, p])]);
+  const pageFor = (file) => allPages.get(file.path) ?? null;
+  if (partyPlace) {
+    const found = locatedAt(loc, partyPlace, pageFor, targets);
+    for (const [k, list] of Object.entries(found)) {
+      for (const e of list) {
+        if (seen.has(e.page.$path)) continue;
+        groups[k].push(e.page);
+        seen.add(e.page.$path);
+        rank.set(e.page.$path, 0);
+        if (e.playerOnly) solo.add(e.page.$path);
+      }
     }
   }
-  const insideOf = (p) => {
-    if (folders.some((f) => p.$path.startsWith(f + "/"))) return true;
-    const located = linkPath(p.value("located_in"));
-    if (located && targets.has(located)) return true;
-    const twin = wikiByName.get(placeKey(p.$name));
-    return !!twin && folders.some((f) => twin.$path.startsWith(f + "/"));
-  };
-  for (const p of pages.values()) {
-    if (targets.has(p.$path) || !hasTag(p, c.tag_location) || !insideOf(p)) continue;
-    groups.inside.push(p);
-    seen.add(p.$path);
-  }
+  // Everything else that links to the place.
   for (const [src, dests] of Object.entries(app.metadataCache.resolvedLinks ?? {})) {
     if (targets.has(src) || seen.has(src) || !Object.keys(dests).some((d) => targets.has(d))) continue;
     const p = pages.get(src);
     if (!p) continue;
     if (hasTag(p, c.tag_arc) && statusOf(p) === "complete") continue;
     const kind = kindOf(p) ?? (hasTag(p, c.tag_plot) ? "plot" : hasTag(p, c.tag_arc) ? "arc" : null);
+    if (!kind) continue;
+    seen.add(src);
+    rank.set(src, 1);
     if (kind === "location") groups.mentioned.push(p);
-    else if (kind) groups[kind].push(p);
+    else groups[kind].push(p);
   }
+  const byRank = (a, b) => (rank.get(a.$path) ?? 1) - (rank.get(b.$path) ?? 1) || a.$name.localeCompare(b.$name);
   const shown = HERE_ORDER.filter(([k]) => groups[k].length);
-  const wikiOf = (p) => wikiByName.get(stripDmSuffix(p.$name).toLowerCase()) ?? null;
+  const wikiOf = (p) => (solo.has(p.$path) ? null : wikiByName.get(stripDmSuffix(p.$name).toLowerCase()) ?? null);
 
   return (
     <div style={T.wrap}>
@@ -369,15 +382,15 @@ function WhereAreWe() {
             <div key={k} style={T.panel}>
               <div style={T.label}>{label}</div>
               {groups[k]
-                .sort((a, b) => a.$name.localeCompare(b.$name))
+                .sort(byRank)
                 .map((p) => (
-                  <CastEntry key={p.$path} page={p} wiki={wikiOf(p)} plain={k === "plot" || k === "arc"} />
+                  <CastEntry key={p.$path} page={p} wiki={wikiOf(p)} plain={k === "plot" || k === "arc" || k === "encounter"} playerOnly={solo.has(p.$path)} />
                 ))}
             </div>
           ))}
         </div>
       ) : groups.mentioned.length ? null : (
-        <div style={{ ...S.muted, margin: "12px 0" }}>No other NPC, location, faction, item, or plot note links to this place yet.</div>
+        <div style={{ ...S.muted, margin: "12px 0" }}>Nothing is located at this place yet, and no other NPC, location, faction, item, or plot note links to it.</div>
       )}
       {groups.mentioned.length ? (
         <details style={{ marginTop: "8px" }}>
@@ -444,5 +457,5 @@ function TableCast() {
   );
 }
 
-return { TableCast, WhereAreWe, linkTargets, kindOf };
+return { TableCast, WhereAreWe, linkTargets, kindOf, castOf, locatedAt };
 ```

@@ -1,5 +1,5 @@
 // location_core.js: the only code that reads location properties or resolves twins.
-// Spec: 00 DM Screen/Location Engine Spec.md (sections 3 and 4). Version 0.1.1.
+// Spec: 00 DM Screen/Location Engine Spec.md (sections 3 and 4). Version 0.1.2.
 //
 // One file, loaded by two runtimes (see the last two lines):
 //   - Templater user script (z_Templates/Scripts), reached through dm_helpers.js `locations()`.
@@ -14,7 +14,7 @@
 //   h       a hierarchy: "political", "natural" or "both".
 
 function createLocationIndex(app, cfg) {
-  const VERSION = "0.1.1";
+  const VERSION = "0.1.2";
 
   // ── Settings ────────────────────────────────────────────────────
   // Names come from the caller's cfg (Hub Config through Shared Helpers or dm_helpers). The built-in values
@@ -431,6 +431,14 @@ function createLocationIndex(app, cfg) {
         if (ws.length && !inWorld(ws)) continue;
         out.push(fileChoice(inf));
       }
+    }
+    // Parent pickers list the places other places already use as that parent first (most used first), so the
+    // regions in daily use sit at the top; ties and unused places follow in label order.
+    if (name === "political_region" || name === "natural_region") {
+      const h = name === "political_region" ? "political" : "natural";
+      const used = new Map();
+      for (const p of allPlaces()) for (const q of rawParents(p, h)) if (!q.unresolved) used.set(q.key, (used.get(q.key) || 0) + 1);
+      return out.sort((a, b) => (used.get(b.place.key) || 0) - (used.get(a.place.key) || 0) || byLabel(a, b));
     }
     return out.sort(byLabel);
   }

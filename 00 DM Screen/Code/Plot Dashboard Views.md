@@ -2,11 +2,11 @@
 hide_from_related: true
 ---
 
-**Purpose:** The plot thread cards: one card per thread, grouped by stage (active, upcoming, seed, paused), each listing every note connected to the thread. Props: `only` (stage keys to show, e.g. `["active"]`) and `showBar` (search and summary bar).
+**Purpose:** The plot thread cards: one card per thread, grouped by stage (active, upcoming, seed, paused), each listing every note connected to the thread. An NPC in the list shows its disposition and where it is (the trail of its `whereabouts`, read by the location core). Props: `only` (stage keys to show, e.g. `["active"]`) and `showBar` (search and summary bar).
 
 **Exports:** `PlotDashboard`
 
-**Depends on:** [[Shared Helpers]] (settings and excluded folders; its other small helpers are its own)
+**Depends on:** [[Shared Helpers]] (settings and excluded folders; its `locations()` loads the location core, [[Location Engine Spec]]; its other small helpers are its own)
 
 **Used by:** [[Plot Dashboard]] · [[00 DM Screen]] (Active stage only)
 
@@ -15,7 +15,7 @@ The block below is plain `jsx`, so it does not run on this page. Notes load it w
 ## Code
 
 ```jsx
-const { cfg, isExcluded, stripDmSuffix } = await dc.require(dc.headerLink("00 DM Screen/Code/Shared Helpers.md", "Code"));
+const { cfg, isExcluded, stripDmSuffix, locations } = await dc.require(dc.headerLink("00 DM Screen/Code/Shared Helpers.md", "Code"));
 
 // Plot Dashboard (Datacore 0.1.29)
 // One card per plot thread, grouped by stage. Every note connected to a plot
@@ -172,23 +172,30 @@ function Val({ v }) {
   return <span>{text}</span>;
 }
 
-function NpcDetail({ page }) {
+/** The trail of the place an NPC's `whereabouts` reaches ("Evening Nip · Zadash · Dwendalian Empire"), or "" when there is none. */
+function whereTrail(loc, page) {
+  if (!loc) return "";
+  const file = app.vault.getAbstractFileByPath(page.$path);
+  if (!file) return "";
+  const w = loc.whereIs(file);
+  return w.place ? loc.trailLabel(w.place) : "";
+}
+
+function NpcDetail({ page, loc }) {
   const disp = prop(page, "disposition");
-  const placeTags = tagsOf(page).filter((t) => t.startsWith("place/"));
-  const deepest = placeTags.filter((t) => !placeTags.some((o) => o.startsWith(t + "/")));
-  const loc = deepest.map((t) => t.split("/").slice(1).join(" / ")).join(", ");
-  if (!disp && !loc) return null;
+  const where = whereTrail(loc, page);
+  if (!disp && !where) return null;
   return (
     <span style={S.detail}>
       {" · "}
       {disp ? <span>{String(disp)}</span> : null}
-      {disp && loc ? ", " : null}
-      {loc ? <span>{loc}</span> : null}
+      {disp && where ? ", " : null}
+      {where ? <span>{where}</span> : null}
     </span>
   );
 }
 
-function ItemList({ items, query, showDetail }) {
+function ItemList({ items, query, showDetail, loc }) {
   return (
     <ul style={S.list}>
       {items.map((p) => {
@@ -196,7 +203,7 @@ function ItemList({ items, query, showDetail }) {
         return (
           <li key={p.$path} class="pd-item" style={hit ? { ...S.item, ...S.hit } : S.item}>
             <NoteLink page={p} />
-            {showDetail ? <NpcDetail page={p} /> : null}
+            {showDetail ? <NpcDetail page={p} loc={loc} /> : null}
           </li>
         );
       })}
@@ -204,7 +211,7 @@ function ItemList({ items, query, showDetail }) {
   );
 }
 
-function PlotCard({ plot, query }) {
+function PlotCard({ plot, query, loc }) {
   const main = plot.groups.filter((g) => g.main && g.items.length);
   const minor = plot.groups.filter((g) => !g.main && g.items.length);
   const minorCount = minor.reduce((n, g) => n + g.items.length, 0);
@@ -224,7 +231,7 @@ function PlotCard({ plot, query }) {
       {main.map((g) => (
         <div key={g.label}>
           <div style={S.groupLabel}>{g.label}</div>
-          <ItemList items={g.items} query={query} showDetail={!!g.detail} />
+          <ItemList items={g.items} query={query} showDetail={!!g.detail} loc={loc} />
         </div>
       ))}
       {minorCount > 0 ? (
@@ -247,6 +254,15 @@ function PlotDashboard({ only = null, showBar = true } = {}) {
   const STAGES = stagesFor(c);
   const GROUPS = groupsFor(c);
   const all = dc.useQuery("@page");
+  // The location core, rebuilt when any note changes. Without it the NPC lines show disposition only.
+  const loc = dc.useMemo(() => {
+    try {
+      return locations();
+    } catch (e) {
+      console.error(e);
+      return null;
+    }
+  }, [all]);
   const [rawQuery, setQuery] = dc.useState("");
   const query = rawQuery.trim().toLowerCase();
   const self = dc.currentPath ? dc.currentPath() : null;
@@ -337,7 +353,7 @@ function PlotDashboard({ only = null, showBar = true } = {}) {
             </summary>
             <div style={S.grid}>
               {list.map((p) => (
-                <PlotCard key={p.page.$path} plot={p} query={query} />
+                <PlotCard key={p.page.$path} plot={p} query={query} loc={loc} />
               ))}
             </div>
           </details>
