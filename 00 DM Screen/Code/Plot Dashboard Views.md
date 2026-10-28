@@ -2,7 +2,7 @@
 hide_from_related: true
 ---
 
-**Purpose:** The plot thread cards: one card per thread, grouped by stage (active, upcoming, seed, paused), each listing every note connected to the thread. An NPC in the list shows its disposition and where it is (the trail of its `whereabouts`, read by the location core). Props: `only` (stage keys to show, e.g. `["active"]`) and `showBar` (search and summary bar).
+**Purpose:** The plot thread cards: one card per thread, grouped by stage (active, upcoming, seed, paused), each listing every note connected to the thread. An NPC in the list shows its disposition and where it is (the trail of its `whereabouts`, read by the location core; "⚠ whereabouts loop" when the chain loops back on itself). Props: `only` (stage keys to show, e.g. `["active"]`) and `showBar` (search and summary bar).
 
 **Exports:** `PlotDashboard`
 
@@ -178,6 +178,7 @@ function whereTrail(loc, page) {
   const file = app.vault.getAbstractFileByPath(page.$path);
   if (!file) return "";
   const w = loc.whereIs(file);
+  if (w.source === "loop") return "⚠ whereabouts loop";
   return w.place ? loc.trailLabel(w.place) : "";
 }
 

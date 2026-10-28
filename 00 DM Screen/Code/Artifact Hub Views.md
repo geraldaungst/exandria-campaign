@@ -227,10 +227,10 @@ function PieceCard({ p, open, onToggle, onRecord }) {
         <span style={H.label}>At</span>
         {loc ? <Md text={loc} source={p.path} /> : <span style={BASE.muted}>unknown</span>}
       </div>
-      {s.whereCheck ? (
+      {s.whereCheck || s.whereLoop ? (
         <div style={H.row}>
           <span style={H.label}>Check</span>
-          <span style={{ color: "var(--text-error)", fontSize: "var(--font-ui-smaller)" }}>⚠ {s.whereCheck}</span>
+          <span style={{ color: "var(--text-error)", fontSize: "var(--font-ui-smaller)" }}>⚠ {s.whereCheck ?? "whereabouts loops back on itself, so the location shown comes from History"}</span>
         </div>
       ) : null}
       <div style={H.row}>

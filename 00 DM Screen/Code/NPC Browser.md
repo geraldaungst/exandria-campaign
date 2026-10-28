@@ -2,7 +2,7 @@
 hide_from_related: true
 ---
 
-**Purpose:** The NPC browser for a campaign's folder note. It lists the NPCs of the campaign's world and narrows them with filters you combine: a name search, where they are (any place, including everything inside it), faction, disposition, a status choice (no whereabouts, unplaced, player note only), and a `needs-work` toggle.
+**Purpose:** The NPC browser for a campaign's folder note. It lists the NPCs of the campaign's world and narrows them with filters you combine: a name search, where they are (any place, including everything inside it), faction, disposition, a status choice (no whereabouts, unplaced, player note only), and a `needs-work` toggle. A `whereabouts` chain that loops back on itself shows as "⚠ whereabouts loop" in the Where column and in a one-line warning above the table.
 
 **Exports:** `NpcBrowser`, `buildRows`, `optionsFor`, `matches`, `withinPaths`
 
@@ -48,6 +48,7 @@ const B = {
   table: { width: "100%", borderCollapse: "collapse" },
   th: { textAlign: "left", fontSize: "var(--font-ui-smaller)", color: "var(--text-muted)", padding: "4px 10px 4px 0", borderBottom: "1px solid var(--background-modifier-border)" },
   td: { padding: "4px 10px 4px 0", verticalAlign: "top", borderBottom: "1px solid var(--background-modifier-border-hover)" },
+  warn: { color: "var(--text-error)", fontSize: "var(--font-ui-smaller)", margin: "0 0 8px" },
 };
 
 /** Tag-safe form of a name: the rule the templates use for world/… tags. */
@@ -131,7 +132,7 @@ function matches(r, f, within) {
 const EMPTY = { where: "", ties: false, status: "", faction: "", disposition: "", needsWork: false, query: "" };
 
 /** What the Where column says for a row. */
-const whereText = (r) => r.trail || (r.source === "unplaced" ? "unplaced" : r.source === "deceased" ? "deceased" : "no whereabouts");
+const whereText = (r) => r.trail || (r.source === "loop" ? "⚠ whereabouts loop" : r.source === "unplaced" ? "unplaced" : r.source === "deceased" ? "deceased" : "no whereabouts");
 
 function Pick({ label, value, onChange, children }) {
   return (
@@ -216,6 +217,12 @@ function NpcBrowser({ world } = {}) {
         </label>
         {dirty ? <button onClick={() => setF(EMPTY)}>Clear filters</button> : null}
       </div>
+      {rows.some((r) => r.source === "loop") ? (
+        <div style={B.warn}>
+          ⚠ Whereabouts loop: {rows.filter((r) => r.source === "loop").slice(0, 5).map((r) => r.name).join(", ")}
+          {rows.filter((r) => r.source === "loop").length > 5 ? ` and ${rows.filter((r) => r.source === "loop").length - 5} more` : ""}. Fix it in the Properties panel; the Location checks on the 00 DM Screen list every loop.
+        </div>
+      ) : null}
       {!rows.length ? (
         <div style={S.muted}>
           No NPCs found{given ? ` for the world "${given}"` : ""}. NPCs need the npc tag and a world/{slug(given) || "…"} tag.

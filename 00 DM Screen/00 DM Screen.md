@@ -28,3 +28,10 @@ return function ActivePlots() {
 ## Vault health
 
 ![[Vault Health.base]]
+
+### Location checks
+
+```datacorejsx
+const { LocationChecks } = await dc.require(dc.headerLink("00 DM Screen/Code/Location Checks.md", "Code"));
+return LocationChecks;
+```

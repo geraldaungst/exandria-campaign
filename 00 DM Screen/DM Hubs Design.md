@@ -21,7 +21,7 @@ Design spec for the two hubs. Review once, then build in the order at the bottom
 - Bases first. Datacore 0.1.29 only where Bases can't do the job; each row below says why.
 - No section depends on fields updated by hand. Allowed: tags, links, mtime, properties set once at creation, and the one-time after-game entries in the session note.
 - Connected notes are listed under every item they relate to, never shown as counts.
-- Shared code lives in code notes in `00 DM Screen/Code/` (one module per responsibility: [[Shared Helpers]], [[Campaign State]], [[Calendar and Timeline]], [[Note Types]], [[Arc and Session Views]], [[DM Screen Views]], [[Plot Dashboard Views]], [[Session Hub Views]], [[Session Hub Table]], [[Quick Capture]], [[Reference Lists]], [[Section Picker]], [[Hub Layout]], [[Item Data]], [[Item Finder]], [[Treasure Roll]], [[Trap Roll]], [[Party Card]], [[Diagnostics]], [[NPC Browser]], [[Artifact Pieces]], [[Artifact Hub Views]], [[Artifact Change Form]]) and loads with `dc.require`, so the hubs use the same logic. Every tag, folder, heading, and status name comes from [[Hub Config]] (properties only), which the code notes and templates read.
+- Shared code lives in code notes in `00 DM Screen/Code/` (one module per responsibility: [[Shared Helpers]], [[Campaign State]], [[Calendar and Timeline]], [[Note Types]], [[Arc and Session Views]], [[DM Screen Views]], [[Plot Dashboard Views]], [[Session Hub Views]], [[Session Hub Table]], [[Quick Capture]], [[Reference Lists]], [[Section Picker]], [[Hub Layout]], [[Item Data]], [[Item Finder]], [[Treasure Roll]], [[Trap Roll]], [[Party Card]], [[Diagnostics]], [[NPC Browser]], [[Artifact Pieces]], [[Artifact Hub Views]], [[Artifact Change Form]], [[Location Checks]]) and the location core, `z_Templates/Scripts/location_core.js` (the only code that reads location properties or resolves player/DM twins; hubs reach it through `locations()` in Shared Helpers and templates through `dm_helpers.js`; spec: [[Location Engine Spec]]) and loads with `dc.require`, so the hubs use the same logic. Every tag, folder, heading, and status name comes from [[Hub Config]] (properties only), which the code notes and templates read.
 
 ### Shared logic
 
@@ -32,6 +32,7 @@ Design spec for the two hubs. Review once, then build in the order at the bottom
 | Today in-world | Last played session's `fc-end` plus `ingame_time` | Both hubs, quick capture |
 | Running arc | Arc with `status: running` (never more than one) | Both hubs |
 | Note type | Formula from tags and folder, matching [[Related Notes.base]] | Recent Work, workbenches |
+| Where a note is | The location core: `political_region` and `natural_region` on places, `whereabouts` on NPCs, factions and items, `site` on arcs and encounters, `ties_to`, and the `unplaced` tag; a DM note and its player twin are one place | NPC Browser, Session Hub Table, Plot Dashboard Views, artifact hub, Close Session, the templates, Location Checks |
 
 ### New conventions
 
@@ -47,7 +48,7 @@ Design spec for the two hubs. Review once, then build in the order at the bottom
 | PC links in session notes | You, in "Where we left off" (template hint added) | After the game |
 
 - Calendarium needs frontmatter events turned on, with Session Notes (and quick-capture event notes) in its paths. Exact `fc-date` format for the Exandrian calendar to be confirmed at build.
-- The "Close session" picker writes only those three date fields, then offers to append events to [[Eryndor Timeline]].
+- The "Close session" picker writes only those three date fields, then offers to append events to [[Eryndor Timeline]], then asks where the NPCs and items from the session ended up (their `whereabouts`; "Unchanged" is the default).
 - Campaign events live in [[Eryndor Timeline]] as Calendarium inline events (the note is tagged `inline-events`), one line per event; Close Session and quick capture append to it.
 
 ### 00 DM Screen
@@ -60,7 +61,8 @@ Design spec for the two hubs. Review once, then build in the order at the bottom
 | Where we left off | Embedded section of the last played session | Shared logic | Datacore (Bases can't embed a heading of a computed note) |
 | Running arc | Arc, status, unrevealed Fact Map clues; paused and abandoned arcs with what they share | `ArcClues`, `RelatedArcs` in [[Arc and Session Views]] | Datacore (exists) |
 | Active plot threads | Active threads, each with its connected player characters, NPCs, items, locations, factions, lore, related plots and arcs | Plot Dashboard logic, moved to a shared component | Datacore |
-| Recent work | 15–20 notes by last edit; the view dropdown is the type filter: All · Sessions · Arcs and threads · NPCs · Lore and Keln · Player wiki · Maintenance | mtime, type formula | Bases |
+| Recent work | 15–20 notes by last edit; the view dropdown is the type filter: All · Sessions · Arcs and threads · NPCs · Lore and Keln · Player wiki · Maintenance. A "Where" column shows the first of `political_region`, `whereabouts` and `site` (display only) | mtime, type formula, location properties | Bases |
+| Vault health | Arcs and NPCs that need work, NPCs with no `whereabouts` (and not `deceased` or `unplaced`) or no disposition, places with no parent, artifacts without a world (Bases); then the Location checks: the core's 12 checks, one collapsible group each with a count, errors first, review lists last (Datacore). The Bases are simple views of DM notes; the checks know about twins | properties, tags, the location core | Bases; Datacore ([[Location Checks]]) |
 
 #### Workbenches (callouts below the top screen, folded by default)
 
@@ -94,9 +96,9 @@ Built 2026-10-20. The table side is a set of cards grouped by what you are doing
 | Group | Card (layout) | Shows | Data | Engine |
 |---|---|---|---|---|
 | At a glance | Party (full width) | One row per PC: level, AC, max HP, speed, passive Perception, Insight and Investigation, spell save DC, defenses, languages, dated "From Roll20" | [[Party Card Data]], written by the card | Datacore ([[Party Card]]) |
-| At a glance | Where are we (three across) | Notes tied to the party's current location (from the last "Party location" bullet): NPCs here now, NPCs, locations physically inside it (folder, `located_in`, or wiki twin folder), factions, items, plot threads, arcs not complete; a collapsed group for places that only mention it | Links, folders | Datacore ([[Session Hub Table]]) |
+| At a glance | Where are we (three across) | Notes tied to the party's current location (from the last "Party location" bullet): NPCs here now, NPCs, locations inside it (places whose parents lead to it), factions, items, plot threads, arcs and encounters whose `site` is there (arcs not complete); a collapsed group for places that only mention it. Player-only notes are listed and marked | Links, location properties | Datacore ([[Session Hub Table]]) |
 | At a glance | Tonight's cast (three across) | Every NPC and location the next session note links to (or the last played one's), each expanding to its "Quick Reference" section; a link to the player wiki page; unresolved links get a kind picker and Create | Links, section embeds | Datacore ([[Session Hub Table]]) |
-| At a glance | Quick capture (three across) | Form: kind (NPC, location, shop, item, faction, event), name, one line; creates a stub in the kind's folder (NPCs `Characters/NPCs`, factions `Characters/Factions/<World>`, items `Objects`, locations and shops `Stubs` inside the campaign folder) with the kind's tag, `needs-work`, `improvised`, and `first_session` linking the current session; the body comes from the matching template. Events instead append a line to [[Eryndor Timeline]] with the in-world date and a Calendarium category | Template text read directly (the templates prompt and move files, so they can't run mid-game) | Datacore form ([[Quick Capture]]) |
+| At a glance | Quick capture (three across) | Form: kind (NPC, location, shop, item, faction, event), name, one line; creates a stub in the kind's folder (NPCs `Characters/NPCs`, factions `Characters/Factions/<World>`, items `Objects`, locations and shops `Stubs` inside the campaign folder) with the kind's tag, `unplaced`, `needs-work`, `improvised`, and `first_session` linking the current session; the body comes from the matching template. Events instead append a line to [[Eryndor Timeline]] with the in-world date and a Calendarium category | Template text read directly (the templates prompt and move files, so they can't run mid-game) | Datacore form ([[Quick Capture]]) |
 | Rules | Conditions (about 60%) | One button per condition; sections open one or several at a time | The Conditions note (2024 rules, rewritten 2026-10-20 from SRD 5.2.1, CC BY 4.0) | Datacore ([[Section Picker]]) |
 | Rules | Rulings (about 40%) | [[Table Rulings]], [[Table Rules]], [[Reaction Card]], [[Improv Rules Card]], [[Prices Card]], each opening in place | The "Rulings" group in [[Table References]] | Datacore ([[Reference Lists]]) |
 | Improvise | People and places (full width) | [[Quick NPCs]], [[Name Bank]], [[NPC Stat Block Reference Table]], [[Fast NPC + Picture]], [[Random Tavern]] (the last two embed a site) | The "People and places" group in [[Table References]] | Datacore ([[Reference Lists]]) |
@@ -116,7 +118,7 @@ How the table-side cards get their data:
 
 Built 2026-10-21. One hub per multi-part artifact; the Lorestone's is [[Lorestone Shard Status Tracker]]. Nothing in the code names the Lorestone: the hub's embed blocks name the artifact by slug (`piece="lorestone-of-eryndor"`) and the notes holding its inscription.
 
-**Data: one note per piece.** `Objects/Lorestone of Eryndor - DM/Shards/`, tagged `piece/lorestone-of-eryndor` and `inline-events` (no other properties); the number in the note name sets the order. Sections: Who knows and Pursued by (current state), Open questions (tasks), Properties and rulings, Notes, and History (append-only, one dated line per change as a Calendarium inline event in the Lorestone category). The current holder and location come from History. Format details: [[Artifact Pieces]].
+**Data: one note per piece.** `Objects/Lorestone of Eryndor - DM/Shards/`, tagged `piece/lorestone-of-eryndor` and `inline-events` (no other properties); the number in the note name sets the order. Sections: Who knows and Pursued by (current state), Open questions (tasks), Properties and rulings, Notes, and History (append-only, one dated line per change as a Calendarium inline event in the Lorestone category). The current holder comes from History; the location is the piece's `whereabouts` (a place, or a person followed to their place), which the change form sets on every holder or moved change. Format details: [[Artifact Pieces]].
 
 **Inscription.** The lines live only in [[The Prophecy - Original Form]] and [[The Prophecy - Modern Text]], each labeled with its shard and position (`4a`, `4b`; a lost shard's surviving modern line in parentheses). A shard's lines count as read once its History has a `lines read` entry.
 
