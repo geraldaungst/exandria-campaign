@@ -7,7 +7,6 @@ tags:
   - location
   - player-facing
   - world/exandria
-  - region/taldorei
 natural_region:
   - "[[Tal'Dorei]]"
 ---

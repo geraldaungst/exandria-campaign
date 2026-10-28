@@ -6,7 +6,6 @@ tags:
   - npc
   - deceased
   - world/exandria
-  - region/dwendalian-empire
   - faction/emissaries-of-the-sunfall
   - needs-work
 ---

@@ -3,8 +3,6 @@ disposition: indifferent
 tags:
   - npc
   - world/exandria
-  - region/dwendalian-empire
-  - place/rexxentrum
   - faction/emissaries-of-the-sunfall
 whereabouts: "[[Rexxentrum - DM]]"
 ---

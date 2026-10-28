@@ -5,7 +5,6 @@ tags:
   - npc
   - needs-work
   - world/exandria
-  - place/odessloe
   - faction/malachite-cord
 whereabouts: "[[Odessloe]]"
 ---

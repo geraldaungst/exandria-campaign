@@ -8,7 +8,6 @@ tags:
   - location
   - player-facing
   - world/exandria
-  - region/greying-wildlands
 natural_region:
   - "[[Wildemount]]"
 ---

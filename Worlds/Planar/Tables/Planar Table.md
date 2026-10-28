@@ -1,7 +1,7 @@
 ---
 tags:
   - campaign/eryndor
-  - world/planar
+  - world/multiplanar
 ---
 
 ## Planar Table

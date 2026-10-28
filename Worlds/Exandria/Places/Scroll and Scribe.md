@@ -1,9 +1,7 @@
 ---
 tags:
   - location
-  - place/rexxentrum
   - world/exandria
-  - region/dwendalian-empire
 political_region:
   - "[[Rexxentrum - DM]]"
 ---

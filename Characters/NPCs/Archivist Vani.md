@@ -5,8 +5,6 @@ disposition: friendly
 tags:
   - npc
   - world/exandria
-  - region/menagerie-coast
-  - place/port-damali
   - faction/cobalt-soul
   - needs-work
 whereabouts: "[[Port Damali - DM]]"

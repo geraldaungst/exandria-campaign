@@ -5,8 +5,6 @@ disposition: friendly
 tags:
   - npc
   - world/exandria
-  - region/menagerie-coast
-  - place/port-damali
 whereabouts: "[[Port Damali - DM]]"
 ---
 

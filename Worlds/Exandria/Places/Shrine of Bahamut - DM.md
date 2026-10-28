@@ -1,9 +1,7 @@
 ---
 tags:
   - location
-  - place/whitestone
   - world/exandria
-  - region/taldorei
 ---
 
 > [!quote]- What players know

@@ -1,9 +1,7 @@
 ---
 tags:
   - location
-  - place/port-damali
   - world/exandria
-  - region/menagerie-coast
 ---
 
 ## Quick Reference

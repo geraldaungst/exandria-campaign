@@ -5,8 +5,6 @@ disposition: indifferent
 tags:
   - npc
   - world/exandria
-  - region/menagerie-coast
-  - place/palma-flora
   - faction/obsidian-echoforge
   - needs-work
 whereabouts: "[[Palma Flora]]"

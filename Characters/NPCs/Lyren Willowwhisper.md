@@ -5,8 +5,6 @@ tags:
   - npc
   - needs-work
   - world/exandria
-  - region/menagerie-coast
-  - place/palma-flora
   - faction/obsidian-echoforge
 whereabouts: "[[Palma Flora]]"
 ---

@@ -5,8 +5,6 @@ disposition: hostile
 tags:
   - npc
   - world/exandria
-  - region/menagerie-coast
-  - place/port-damali
   - faction/emissaries-of-the-sunfall
 whereabouts: "[[Port Damali - DM]]"
 ---

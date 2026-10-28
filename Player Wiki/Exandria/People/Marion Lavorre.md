@@ -3,7 +3,6 @@ tags:
   - npc
   - player-facing
   - world/exandria
-  - region/menagerie-coast
 aliases:
   - Ruby of the Sea
   - The Ruby of the Sea

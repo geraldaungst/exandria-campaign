@@ -5,8 +5,6 @@ disposition: indifferent
 tags:
   - npc
   - world/exandria
-  - region/dwendalian-empire
-  - place/deastok
 whereabouts: "[[Deastok]]"
 ---
 

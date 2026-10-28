@@ -9,7 +9,6 @@ tags:
   - organization
   - player-facing
   - world/exandria
-  - region/dwendalian-empire
 ---
 
 The Truscan family is a wealthy family that has made [[Deastok]] its home for generations. It is the real power in the city.

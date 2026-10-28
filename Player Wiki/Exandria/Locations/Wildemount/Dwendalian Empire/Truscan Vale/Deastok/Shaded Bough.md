@@ -3,7 +3,6 @@ tags:
   - location
   - player-facing
   - world/exandria
-  - region/dwendalian-empire
 aliases:
   - The Shaded Bough
 cssclasses:

@@ -9,7 +9,6 @@ tags:
   - npc
   - player-facing
   - world/exandria
-  - region/cyrios-mountains
 ---
 
 > [!info] Quick Reference

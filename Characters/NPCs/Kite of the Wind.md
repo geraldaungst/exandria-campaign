@@ -2,8 +2,6 @@
 tags:
   - npc
   - world/exandria
-  - region/taldorei
-  - place/rexxentrum
   - faction/emissaries-of-the-sunfall
   - needs-work
 disposition: hostile

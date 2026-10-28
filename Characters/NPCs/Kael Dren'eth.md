@@ -4,8 +4,6 @@ aliases:
 tags:
   - npc
   - world/exandria
-  - region/menagerie-coast
-  - place/the-shrine-of-melora
   - faction/malachite-cord
   - faction/ashari/terrah
 whereabouts: "[[Shrine of Melora - DM]]"

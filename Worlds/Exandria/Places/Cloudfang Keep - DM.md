@@ -1,9 +1,7 @@
 ---
 tags:
-  - region/cyrios-mountains
   - campaign/eryndor
   - location
-  - place/cloudfang-keep
   - world/exandria
 ---
 

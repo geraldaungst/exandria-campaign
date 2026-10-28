@@ -5,7 +5,6 @@ disposition: indifferent
 tags:
   - npc
   - world/exandria
-  - region/taldorei
   - faction/ashari/terrah
   - needs-work
 whereabouts: "[[Tal'Dorei]]"

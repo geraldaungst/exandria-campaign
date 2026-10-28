@@ -6,8 +6,6 @@ tags:
   - npc
   - hook
   - world/exandria
-  - region/dwendalian-empire
-  - place/rexxentrum
   - faction/cobalt-soul
 whereabouts: "[[Rexxentrum - DM]]"
 ---

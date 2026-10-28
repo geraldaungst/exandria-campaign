@@ -8,8 +8,6 @@ tags:
   - npc
   - hook
   - world/exandria
-  - region/menagerie-coast
-  - place/port-damali
 whereabouts: "[[Port Damali - DM]]"
 ---
 

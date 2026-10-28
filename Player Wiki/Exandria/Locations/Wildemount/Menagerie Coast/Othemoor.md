@@ -3,7 +3,6 @@ tags:
   - location
   - player-facing
   - world/exandria
-  - region/menagerie-coast
 aliases:
   - Othemoor Swamp
   - Othemoor Marsh

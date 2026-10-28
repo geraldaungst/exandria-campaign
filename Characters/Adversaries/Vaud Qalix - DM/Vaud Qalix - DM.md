@@ -9,8 +9,6 @@ disposition: hostile
 tags:
   - npc
   - world/exandria
-  - region/xhorhas
-  - place/xarzith-kitril
   - faction/scars-of-scale-and-tooth
   - faction/draconia
   - faction/emissaries-of-the-sunfall

@@ -4,9 +4,7 @@ aliases:
 disposition: indifferent
 tags:
   - npc
-  - world/planar
-  - region/mount-celestia
-  - place/mount-celestia
+  - world/mount-celestia
   - needs-work
   - unplaced
 ---

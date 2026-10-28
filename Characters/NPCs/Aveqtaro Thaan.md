@@ -5,8 +5,6 @@ disposition: indifferent
 tags:
   - npc
   - world/exandria
-  - region/xhorhas
-  - place/rosohna
   - faction/kryn-dynasty
 whereabouts: "[[Rosohna]]"
 ---

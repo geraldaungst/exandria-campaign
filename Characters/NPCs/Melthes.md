@@ -3,8 +3,6 @@ disposition: friendly
 tags:
   - npc
   - world/exandria
-  - region/dwendalian-empire
-  - place/rexxentrum
   - faction/cerberus-assembly
 whereabouts: "[[Rexxentrum - DM]]"
 ---

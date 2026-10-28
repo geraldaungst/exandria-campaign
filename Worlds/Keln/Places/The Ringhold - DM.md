@@ -3,8 +3,6 @@ aliases: []
 tags:
   - location
   - world/keln
-  - region/ringhold
-  - place/ringhold
 ---
 
 > [!quote]- What players know

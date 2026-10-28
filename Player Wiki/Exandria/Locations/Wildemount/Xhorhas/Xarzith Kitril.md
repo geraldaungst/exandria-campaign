@@ -10,7 +10,6 @@ tags:
   - location
   - player-facing
   - world/exandria
-  - region/xhorhas
 political_region:
   - "[[Xhorhas]]"
 ---

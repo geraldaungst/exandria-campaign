@@ -4,7 +4,6 @@ tags:
   - lore
   - campaign/eryndor
   - world/exandria
-  - region/menagerie-coast
 ties_to:
   - "[[Menagerie Coast]]"
 ---

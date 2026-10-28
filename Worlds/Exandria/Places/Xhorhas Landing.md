@@ -1,7 +1,6 @@
 ---
 tags:
   - world/exandria
-  - region/xhorhas
 ties_to:
   - "[[Xhorhas]]"
 ---

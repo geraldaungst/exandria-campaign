@@ -3,8 +3,6 @@ tags:
   - atomic
   - location
   - world/exandria
-  - region/menagerie-coast
-  - place/palma-flora
 political_region:
   - "[[Palma Flora]]"
 ---

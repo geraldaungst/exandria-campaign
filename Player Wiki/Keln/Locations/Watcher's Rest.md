@@ -6,7 +6,6 @@ tags:
   - location
   - player-facing
   - world/keln
-  - region/varrinthal
 political_region:
   - "[[Varrinthal Kingdom]]"
 ---

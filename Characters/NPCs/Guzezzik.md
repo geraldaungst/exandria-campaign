@@ -4,7 +4,6 @@ tags:
   - npc
   - deceased
   - world/exandria
-  - region/taldorei
   - faction/emissaries-of-the-sunfall
   - needs-work
 ---

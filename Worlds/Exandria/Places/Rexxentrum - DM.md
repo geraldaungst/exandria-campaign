@@ -1,8 +1,6 @@
 ---
 tags:
   - location
-  - region/dwendalian-empire
-  - place/rexxentrum
   - world/exandria
 ---
 

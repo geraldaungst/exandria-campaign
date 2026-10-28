@@ -4,7 +4,6 @@ aliases:
   - thessaly
 tags:
   - npc
-  - region/dwendalian-empire
   - world/exandria
   - needs-work
 disposition: friendly

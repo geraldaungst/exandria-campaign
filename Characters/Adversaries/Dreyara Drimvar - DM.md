@@ -7,7 +7,6 @@ tags:
   - npc
   - deceased
   - world/exandria
-  - region/cyrios-mountains
 disposition: hostile
 ---
 

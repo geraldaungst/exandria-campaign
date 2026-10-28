@@ -2,7 +2,6 @@
 tags:
   - organization
   - world/exandria
-  - region/menagerie-coast
   - faction/malachite-cord
   - unplaced
 ties_to:

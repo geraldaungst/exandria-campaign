@@ -9,7 +9,6 @@ tags:
   - location
   - player-facing
   - world/exandria
-  - region/marquet
 ---
 
 > [!info] Quick Reference

@@ -6,7 +6,6 @@ tags:
   - world/exandria
   - faction/malachite-cord
   - needs-work
-  - region/menagerie-coast
 disposition: friendly
 whereabouts: "[[Menagerie Coast]]"
 ---

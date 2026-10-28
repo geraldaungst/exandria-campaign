@@ -3,8 +3,6 @@ disposition: indifferent
 tags:
   - npc
   - world/exandria
-  - region/taldorei
-  - place/zadash
   - needs-work
 whereabouts: "[[Zadash - DM]]"
 ---

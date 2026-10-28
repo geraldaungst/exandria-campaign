@@ -6,7 +6,6 @@ tags:
   - hook
   - offscreen
   - world/exandria
-  - region/dwendalian-empire
   - lore
 ties_to:
   - "[[Dwendalian Empire - DM]]"

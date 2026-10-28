@@ -4,7 +4,6 @@ aliases:
 tags:
   - organization
   - world/exandria
-  - region/taldorei
   - faction/ashari
   - needs-work
   - unplaced

@@ -4,8 +4,6 @@ tags:
   - npc
   - deceased
   - world/exandria
-  - region/menagerie-coast
-  - place/port-damali/harmony-hall
 ---
 
 ![[grisul-adder.jpeg|right|300]]*Medium humanoid (goliath), Chaotic Good*

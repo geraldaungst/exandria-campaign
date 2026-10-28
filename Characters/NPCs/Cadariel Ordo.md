@@ -4,7 +4,6 @@ tags:
   - npc
   - deceased
   - world/exandria
-  - region/age-of-arcanum
   - needs-work
 ---
 

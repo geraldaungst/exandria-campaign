@@ -3,7 +3,6 @@ tags:
   - organization
   - player-facing
   - world/exandria
-  - region/dwendalian-empire
 aliases:
   - The Assembly
   - The Cerberus Assembly

@@ -3,8 +3,6 @@ disposition: friendly
 tags:
   - npc
   - world/exandria
-  - region/menagerie-coast
-  - place/port-damali/harmony-hall
 whereabouts: "[[Harmony Hall - DM]]"
 ---
 

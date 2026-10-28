@@ -3,7 +3,6 @@ disposition: friendly
 tags:
   - npc
   - world/exandria
-  - region/menagerie-coast
 whereabouts: "[[Menagerie Coast]]"
 ---
 

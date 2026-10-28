@@ -2,7 +2,6 @@
 tags:
   - needs-work
   - npc
-  - region/menagerie-coast
   - world/exandria
 disposition: friendly
 whereabouts: "[[Menagerie Coast]]"

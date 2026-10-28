@@ -1,7 +1,6 @@
 ---
 tags:
   - world/exandria
-  - region/greying-wildlands
 ties_to:
   - "[[Greying Wildlands]]"
 ---

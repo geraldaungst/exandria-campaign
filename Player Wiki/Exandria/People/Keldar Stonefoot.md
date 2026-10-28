@@ -8,7 +8,6 @@ tags:
   - npc
   - player-facing
   - world/exandria
-  - region/menagerie-coast
 ---
 
 > [!info] Quick Reference

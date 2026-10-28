@@ -1,9 +1,7 @@
 ---
 tags:
-  - region/cyrios-mountains
   - campaign/eryndor
   - location
-  - place/monastery-of-dimensional-harmony
   - world/exandria
 ---
 

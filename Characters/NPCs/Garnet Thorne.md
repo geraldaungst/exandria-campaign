@@ -5,8 +5,6 @@ disposition: hostile
 tags:
   - npc
   - world/exandria
-  - region/taldorei
-  - place/whitestone
 whereabouts: "[[Whitestone]]"
 ---
 

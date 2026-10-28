@@ -4,7 +4,6 @@ tags:
   - campaign/eryndor
   - needs-work
   - arc
-  - place/gnurlsottens
 tier: filler
 site: "[[Gnurlsotten's Nosh & Nip - DM]]"
 ---

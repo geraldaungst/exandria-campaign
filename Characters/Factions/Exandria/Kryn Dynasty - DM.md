@@ -5,7 +5,6 @@ tags:
   - organization
   - offscreen
   - world/exandria
-  - region/xhorhas
   - faction/kryn-dynasty
   - unplaced
 ties_to:

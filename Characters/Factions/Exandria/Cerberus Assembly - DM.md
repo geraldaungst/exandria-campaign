@@ -4,7 +4,6 @@ aliases:
 tags:
   - organization
   - world/exandria
-  - region/dwendalian-empire
   - faction/cerberus-assembly
   - unplaced
 ties_to:

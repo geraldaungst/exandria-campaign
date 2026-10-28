@@ -1,6 +1,5 @@
 ---
 tags:
-  - region/menagerie-coast
   - world/exandria
 ties_to:
   - "[[Menagerie Coast]]"

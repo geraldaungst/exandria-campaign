@@ -6,8 +6,6 @@ tags:
   - npc
   - hook
   - world/exandria
-  - region/menagerie-coast
-  - place/rexxentrum
   - faction/emissaries-of-the-sunfall
 whereabouts: "[[Rexxentrum - DM]]"
 ---

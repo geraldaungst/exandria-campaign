@@ -4,8 +4,6 @@ tags:
   - npc
   - hook
   - world/exandria
-  - region/taldorei
-  - place/rexxentrum
 whereabouts: "[[Rexxentrum - DM]]"
 ---
 

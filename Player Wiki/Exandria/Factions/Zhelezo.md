@@ -9,7 +9,6 @@ tags:
   - organization
   - player-facing
   - world/exandria
-  - region/menagerie-coast
 ---
 
 The Zhelezo are the city guard and law enforcement of the Clovis Concord. They keep the peace in the Concord's cities along the [[Menagerie Coast]].

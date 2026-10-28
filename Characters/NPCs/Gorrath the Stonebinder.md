@@ -6,7 +6,6 @@ tags:
   - npc
   - hook
   - world/exandria
-  - region/xhorhas
   - faction/scars-of-scale-and-tooth
   - needs-work
 whereabouts: "[[Xhorhas]]"

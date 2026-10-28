@@ -2,7 +2,6 @@
 tags:
   - needs-work
   - npc
-  - region/dwendalian-empire
   - world/exandria
   - faction/cerberus-assembly
 whereabouts: "[[Dwendalian Empire - DM]]"

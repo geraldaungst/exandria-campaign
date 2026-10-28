@@ -3,7 +3,6 @@ tags:
   - location
   - player-facing
   - world/exandria
-  - region/cyrios-mountains
 aliases:
   - Coldfang Keep
 cssclasses:

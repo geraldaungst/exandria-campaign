@@ -3,8 +3,6 @@ disposition: indifferent
 tags:
   - npc
   - world/exandria
-  - region/menagerie-coast
-  - place/port-damali
   - faction/clasp
   - faction/emissaries-of-the-sunfall
   - faction/obsidian-echoforge

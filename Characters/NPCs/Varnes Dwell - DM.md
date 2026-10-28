@@ -4,8 +4,6 @@ aliases:
 tags:
   - npc
   - world/exandria
-  - region/cyrios-mountains
-  - place/cloudfang-keep
   - faction/dwendalian-empire
   - needs-work
 disposition: friendly

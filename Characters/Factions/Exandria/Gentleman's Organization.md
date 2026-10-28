@@ -3,7 +3,6 @@ aliases: []
 tags:
   - organization
   - world/exandria
-  - region/dwendalian-empire
   - faction/myriad/gentlemans-organization
   - unplaced
 ties_to:

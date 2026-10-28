@@ -3,7 +3,6 @@ tags:
   - location
   - player-facing
   - world/keln
-  - region/ringhold
 aliases: []
 publish: true
 cssclasses: world-keln

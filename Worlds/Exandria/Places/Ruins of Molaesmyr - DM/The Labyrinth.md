@@ -2,9 +2,7 @@
 tags:
   - location
   - needs-work
-  - place/molaesmyr/caes-mosor
   - world/exandria
-  - region/greying-wildlands
 political_region:
   - "[[Caes Mosor - Historical]]"
 ---

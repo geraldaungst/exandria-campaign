@@ -4,7 +4,6 @@ tags:
   - campaign/eryndor
   - needs-work
   - arc
-  - place/port-zoon
 threads:
   - "[[Assembling the Lorestone]]"
 tier: standard

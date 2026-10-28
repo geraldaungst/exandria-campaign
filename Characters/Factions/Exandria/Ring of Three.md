@@ -2,7 +2,6 @@
 tags:
   - organization
   - world/exandria
-  - region/dwendalian-empire
   - faction/ring-of-three
   - unplaced
 ties_to:

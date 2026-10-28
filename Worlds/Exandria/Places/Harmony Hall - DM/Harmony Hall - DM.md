@@ -4,9 +4,7 @@ aliases:
   - Coriander & Mallow Exchange Company
 tags:
   - location
-  - place/port-damali/harmony-hall
   - world/exandria
-  - region/menagerie-coast
 ---
 
 ## Quick Reference

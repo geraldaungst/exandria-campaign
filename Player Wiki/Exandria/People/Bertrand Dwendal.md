@@ -3,7 +3,6 @@ tags:
   - npc
   - player-facing
   - world/exandria
-  - region/dwendalian-empire
 aliases:
   - King Dwendal
   - King Bertrand

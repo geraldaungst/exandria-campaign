@@ -2,7 +2,6 @@
 tags:
   - npc
   - world/exandria
-  - region/draconia
   - needs-work
 whereabouts: "[[Draconia - DM]]"
 ---

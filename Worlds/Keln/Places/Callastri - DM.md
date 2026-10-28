@@ -3,7 +3,6 @@ aliases: []
 tags:
   - location
   - world/keln
-  - region/callastri
 ---
 
 > [!quote]- What players know

@@ -7,7 +7,6 @@ tags:
   - location
   - player-facing
   - world/exandria
-  - region/xhorhas
 natural_region:
   - "[[Wildemount]]"
 ---

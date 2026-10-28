@@ -4,7 +4,6 @@ tags:
   - lore
   - campaign/eryndor
   - world/exandria
-  - region/xhorhas
 ties_to:
   - "[[Xhorhas]]"
 ---

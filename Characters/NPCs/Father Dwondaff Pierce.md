@@ -3,8 +3,6 @@ disposition: indifferent
 tags:
   - npc
   - world/exandria
-  - region/menagerie-coast
-  - place/port-damali
   - faction/myriad/gentlemans-organization
 whereabouts: "[[Port Damali - DM]]"
 ---

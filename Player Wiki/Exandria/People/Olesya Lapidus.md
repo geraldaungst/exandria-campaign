@@ -3,7 +3,6 @@ tags:
   - npc
   - player-facing
   - world/exandria
-  - region/menagerie-coast
 aliases:
   - Marquis Lapidus
 cssclasses:

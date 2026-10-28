@@ -3,9 +3,7 @@ aliases: []
 tags:
   - campaign/eryndor
   - location
-  - place/the-shrine-of-melora
   - world/exandria
-  - region/menagerie-coast
 ---
 
 ## Location Name

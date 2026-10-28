@@ -3,7 +3,6 @@ tags:
   - location
   - player-facing
   - world/exandria
-  - region/taldorei
 aliases: []
 cssclasses:
   - world-exandria

@@ -2,9 +2,7 @@
 tags:
   - needs-work
   - location
-  - place/xarzith-kitril
   - world/exandria
-  - region/xhorhas
 ---
 
 > [!quote]- What players know

@@ -3,7 +3,6 @@ tags:
   - location
   - player-facing
   - world/exandria
-  - region/menagerie-coast
 aliases:
   - Kelinor's Collection
   - Celunor’s Collection

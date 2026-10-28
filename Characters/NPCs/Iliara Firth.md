@@ -1,7 +1,6 @@
 ---
 tags:
   - npc
-  - region/xhorhas
   - world/exandria
   - needs-work
 whereabouts: "[[Xhorhas]]"

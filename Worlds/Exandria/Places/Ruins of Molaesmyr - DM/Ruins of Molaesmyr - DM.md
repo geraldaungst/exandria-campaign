@@ -4,9 +4,7 @@ aliases:
 tags:
   - location
   - needs-work
-  - place/molaesmyr
   - world/exandria
-  - region/greying-wildlands
 ---
 
 > [!quote]- What players know

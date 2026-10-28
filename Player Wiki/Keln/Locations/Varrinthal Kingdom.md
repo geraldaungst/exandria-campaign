@@ -6,7 +6,6 @@ tags:
   - location
   - player-facing
   - world/keln
-  - region/varrinthal
 cssclasses: world-keln
 natural_region:
   - "[[Callastri]]"

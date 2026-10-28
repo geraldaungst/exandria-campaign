@@ -2,8 +2,6 @@
 tags:
   - campaign/eryndor
   - location
-  - region/menagerie-coast
-  - place/tyodan-river
   - world/exandria
 natural_region:
   - "[[Menagerie Coast]]"

@@ -4,9 +4,7 @@ aliases:
   - Emer
 tags:
   - npc
-  - region/cyrios-mountains
   - world/exandria
-  - place/cloudfang-keep
   - faction/emissaries-of-the-sunfall
 disposition: hostile
 whereabouts: "[[Cloudfang Keep - DM]]"

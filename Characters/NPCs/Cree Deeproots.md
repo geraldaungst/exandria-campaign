@@ -5,8 +5,6 @@ disposition: indifferent
 tags:
   - npc
   - world/exandria
-  - region/dwendalian-empire
-  - place/zadash
   - faction/myriad/gentlemans-organization
 whereabouts: "[[Zadash - DM]]"
 ---

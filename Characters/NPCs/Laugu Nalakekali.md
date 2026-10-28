@@ -3,9 +3,7 @@ aliases:
   - Laugu
 tags:
   - npc
-  - region/taldorei
   - world/exandria
-  - place/whitestone
 disposition: friendly
 whereabouts: "[[Whitestone]]"
 ---

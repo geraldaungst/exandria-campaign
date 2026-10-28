@@ -12,7 +12,6 @@ tags:
   - npc
   - player-facing
   - world/exandria
-  - region/xhorhas
 ---
 
 > [!info] Quick Reference

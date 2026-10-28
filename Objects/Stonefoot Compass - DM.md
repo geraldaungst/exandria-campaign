@@ -1,7 +1,6 @@
 ---
 tags:
   - artifact
-  - region/menagerie-coast
   - world/exandria
   - unplaced
 ties_to:

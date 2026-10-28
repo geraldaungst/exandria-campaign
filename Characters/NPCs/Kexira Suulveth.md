@@ -2,7 +2,6 @@
 tags:
   - npc
   - world/exandria
-  - region/dwendalian-empire
   - faction/cobalt-soul
   - needs-work
 whereabouts: "[[Dwendalian Empire - DM]]"

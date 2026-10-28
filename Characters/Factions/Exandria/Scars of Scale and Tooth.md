@@ -2,7 +2,6 @@
 tags:
   - organization
   - world/exandria
-  - region/xhorhas
   - offscreen
   - faction/scars-of-scale-and-tooth
   - unplaced

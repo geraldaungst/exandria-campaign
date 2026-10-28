@@ -5,8 +5,6 @@ tags:
   - needs-work
   - npc
   - world/exandria
-  - region/taldorei
-  - place/whitestone
 whereabouts: "[[Whitestone]]"
 ---
 

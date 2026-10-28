@@ -2,9 +2,7 @@
 tags:
   - location
   - campaign/eryndor
-  - place/gnurlsottens
   - world/exandria
-  - region/cyrios-mountains
 ---
 
 > [!quote]- What players know

@@ -1,9 +1,7 @@
 ---
 tags:
   - location
-  - place/zadash
   - world/exandria
-  - region/dwendalian-empire
 ---
 
 ## Quick Reference

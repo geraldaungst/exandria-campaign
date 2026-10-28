@@ -4,8 +4,6 @@ disposition: friendly
 tags:
   - npc
   - world/exandria
-  - region/cyrios-mountains
-  - place/monastery-of-dimensional-harmony
 whereabouts: "[[Monastery of Dimensional Harmony - DM]]"
 ---
 

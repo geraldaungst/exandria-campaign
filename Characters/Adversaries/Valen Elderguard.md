@@ -4,8 +4,6 @@ aliases:
 tags:
   - npc
   - world/exandria
-  - region/dwendalian-empire
-  - place/rexxentrum
   - faction/emissaries-of-the-sunfall
 disposition: hostile
 whereabouts: "[[Rexxentrum - DM]]"

@@ -5,8 +5,6 @@ aliases:
 tags:
   - npc
   - world/exandria
-  - region/xhorhas
-  - place/ebonglass-massif
 disposition: indifferent
 whereabouts: "[[Ebonglass Massif]]"
 ---

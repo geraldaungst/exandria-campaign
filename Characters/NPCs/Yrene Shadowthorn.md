@@ -4,7 +4,6 @@ aliases:
 tags:
   - needs-work
   - npc
-  - region/menagerie-coast
   - world/exandria
 whereabouts: "[[Menagerie Coast]]"
 ---

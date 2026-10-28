@@ -3,7 +3,6 @@ tags:
   - organization
   - player-facing
   - world/exandria
-  - region/xhorhas
 aliases:
   - Krynn Dynasty
   - The Dynasty

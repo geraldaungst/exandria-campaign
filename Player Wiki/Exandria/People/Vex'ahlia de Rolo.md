@@ -9,7 +9,6 @@ tags:
   - npc
   - player-facing
   - world/exandria
-  - region/taldorei
 ---
 
 > [!info] Quick Reference

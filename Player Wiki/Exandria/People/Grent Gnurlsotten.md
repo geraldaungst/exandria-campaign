@@ -3,7 +3,6 @@ tags:
   - npc
   - player-facing
   - world/exandria
-  - region/cyrios-mountains
 aliases:
   - Grent
 cssclasses:
