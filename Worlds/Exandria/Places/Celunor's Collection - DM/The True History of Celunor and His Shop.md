@@ -1,6 +1,7 @@
 ---
 tags:
   - atomic
+  - world/exandria
 ---
 
 ## Core Information

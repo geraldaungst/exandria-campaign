@@ -63,12 +63,12 @@ Related notes: [[DM Hubs Design]] (hub rules, campaign notes, session date field
 
 | Tag | Use |
 |---|---|
-| `world/<slug>` | Every campaign-content note. In use: `exandria` (265), `keln` (20), `multiplanar` (2), `mount-celestia` (1); `toril` (13) only in `z_Archive/Campaigns/Tyranny of Dragons/NPCs`. Counts of 2026-10-28, outside `z_` folders |
+| `world/<slug>` | Every campaign-content note. In use: `exandria` (265), `keln` (20), `multiplanar` (2), `mount-celestia` (1), `unspecified` (1: a note set in no named world, ruled 2026-10-29); `toril` (13) only in `z_Archive/Campaigns/Tyranny of Dragons/NPCs`. Counts of 2026-10-28, outside `z_` folders |
 | `unplaced` | An entity with no known or decided location (55 DM notes). Set Location removes it when a location is chosen |
 | `faction/<slug>` | Nests: `faction/myriad/gentlemans-organization`. On NPCs, encounters and the faction note itself |
-| `campaign/<slug>` | `campaign/eryndor` (139), `campaign/tyranny` (13 in the archive, 5 other) |
+| `campaign/<slug>` | `campaign/eryndor` (139), `campaign/tyranny` (13 in the archive, 5 other), `campaign/one-shots` (1: isolated one-shots, ruled 2026-10-29) |
 | `piece/<artifact>` | Pieces of a multi-part artifact: `piece/lorestone-of-eryndor` on the eight shard notes (prefix in [[Hub Config]]) |
-| Type tag | `npc`, `location`, `organization` (faction notes), `artifact`, `session`, `arc`, `plot/…`, `player`, `player/inactive`, `atomic`, `lore`, `encounter`, `campaign-hub` |
+| Type tag | `npc`, `location`, `organization` (faction notes), `artifact`, `session`, `arc`, `plot/…`, `player`, `player/inactive`, `atomic`, `lore`, `encounter`, `creature` (ruled 2026-10-29), `campaign-hub` |
 | `needs-work` | Stub or incomplete (110 notes) |
 | `improvised` | Stubs made by [[Quick Capture]] |
 | `inline-events` | Notes holding Calendarium inline events (timeline, shard notes) |
@@ -89,6 +89,7 @@ Counts are notes outside the Player Wiki carrying the type tag.
 | Location (36 DM notes, 49 in the Player Wiki) | `location`, `world/` | `aliases`, `political_region`, `natural_region` (10 DM notes carry their own parents; the others take their player twin's) |
 | Artifact (29) | `artifact`; `campaign/` on 17, `world/` on 8 | `aliases`, `whereabouts` (a place, or the person holding it), or the `unplaced` tag |
 | Lore (12: 9 in `Campaigns/Prophecy of Eryndor - DM/Lore`; The Massacre, The Capture of Melthes and The Truth about Eledyr carry the tag in place) | `lore`, usually `atomic`, `campaign/` | None |
+| Creature (5) | `creature`; the four Rendspawn notes also carry `world/` and `campaign/` (the monkey, from a finished prologue, carries only `creature`) | None |
 | Atomic (42; 31 with no other type tag) | `atomic`, usually `campaign/` | None |
 | Session (27) | `session`, `campaign/` | Session Template writes at creation: `arc`, `date`, `previous_session`, `session_number`, `fc-calendar`, `fc-date`, `fc-end`, `ingame_time`, `fc-display-name`, `fc-category`. Close Session fills `fc-end` and `ingame_time`. `next_session` on 18 old notes; nothing writes or reads it |
 | Arc (5) | `arc`, `campaign/` | `status`, `threads`, `tier`, `site` |

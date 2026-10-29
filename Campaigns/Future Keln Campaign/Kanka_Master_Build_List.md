@@ -1,3 +1,7 @@
+---
+tags:
+  - world/keln
+---
 ## Kanka Master Build List—Keln
 
 Everything decided so far, organized by Kanka category, one entity per section. Status shows whether content is ready to adapt into HTML, or whether it's a title-only shell because the decision isn't made yet. Public-facing content is separated from DM Notes content throughout.
@@ -22,6 +26,9 @@ A "Mentions to Add" section at the end lists edits needed in entries you've *alr
 
 *Ready.* Common term for people who demonstrate exceptional abilities—adventurers, powerful warriors, spellcasters. The moment such abilities manifest is "the Quickening." There's no visible marker of being Quickened; the only real evidence is demonstrated ability. Society treats the Quickened inconsistently—some revere, some fear, many resent or envy.
 
+> [!secret]- DM Only
+> - [ ] The Quickened are ordinary humans; the Quickening is a myth.
+
 ### The Gift
 
 *Ready.* A rare, inborn sensitivity that lets a person detect the presence and rough location of a @Deep. Unrelated to whether someone is @Quickened.
@@ -41,6 +48,9 @@ A "Mentions to Add" section at the end lists edits needed in entries you've *alr
 ### Titans
 
 *Ready, but deliberately incomplete.* Titans were once-living beings capable of channeling the planet's core magic directly. They are dead now, their petrified remains scattered in multiple places worldwide (Watcher's Knee among them)—a fact almost no one currently knows. Varrinthal's founding myth claims its first ruler, Varrin, was personally appointed by the Titans to claim the land, giving the monarchy's "divine right" an unintentional grain of truth. **Where Titans came from and why they died is an open question—leave unresolved.** This is consistent with your "history through contradiction" principle: different cultures may have different myths about them, and none needs to be canonically correct.
+
+> [!secret]- DM Only
+> - [ ] The Titans are dead; their petrified remains are scattered worldwide (Watcher's Knee among them).
 
 ### Refined Essence / Titan Concentrate
 
@@ -62,7 +72,13 @@ A "Mentions to Add" section at the end lists edits needed in entries you've *alr
 
 **Public Article—"The Legend of the Watcher":** the full local folktale, plus how different age groups/types of townsfolk regard it (children believe it, adults treat it as charming heritage, a superstitious minority still leaves offerings "just in case"). Full text is in the Settlement Guide, ready to adapt.
 
-**DM Notes:** Watcher's Knee is the literal petrified knee of an ancient Titan; the rest of the body extends underground through the region. Kneestone's unusual properties (warmth, chatoyancy, enchantment retention) are because it's organic remains, not mineral. Discovery is meant to be optional/flexible—background flavor unless players pursue it.
+**DM Notes:**
+
+> [!secret]- DM Only
+> - [ ] Watcher's Knee is the literal petrified knee of an ancient Titan; the rest of the body extends underground through the region.
+> - [ ] Kneestone's unusual properties (warmth, chatoyancy, enchantment retention) are because it's organic remains, not mineral.
+
+- Discovery is meant to be optional/flexible—background flavor unless players pursue it.
 
 **Also documented and ready to build as sub-Locations under Watcher's Rest:** Watcher's Knee (quarry), River's Bend Inn, Market Square (with the Watcher's Shrine), Town Hall, The Dusty Mallet (tavern), Karven's Goods (general store), Stone Yards, Main Docks, The Stone & Current (tavern), the small multi-faith Temple, The Crossing House (South Bank inn/tavern), Ferry Dock (South Bank).
 

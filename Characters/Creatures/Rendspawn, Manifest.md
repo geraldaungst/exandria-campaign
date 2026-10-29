@@ -1,5 +1,8 @@
 ---
 tags:
+  - creature
+  - world/exandria
+  - campaign/eryndor
   - needs-work
 ---
 # Core Information

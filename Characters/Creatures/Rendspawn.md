@@ -1,6 +1,8 @@
 ---
 tags:
-  - needs-work
+  - creature
+  - world/exandria
+  - campaign/eryndor
 ---
 # Core Information
 ## Rendspawn
@@ -51,16 +53,9 @@ _Large aberration, chaotic evil_
 - **First appearance**: 2-3 near active rift sites at level 7-9
 - **Weakness**: Radiant damage disrupts regeneration
 
-# Source Context
-Brief note about where this information originated (session, NPC conversation, etc.)
+## Open Issues
 
-# Relationship Details
-[Delete section if not a relationship note]
-## Nature of Connection
-Brief description of how these elements relate
-
-## Impact/Implications
-How this relationship affects the campaign
+- [ ] Stat block pending redesign for the 2024 rules; see [[Rendspawn Reference Note]].
 
 # Connections
 ## Source Note

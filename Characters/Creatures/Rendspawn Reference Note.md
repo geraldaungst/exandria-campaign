@@ -1,9 +1,14 @@
+---
+tags:
+  - creature
+  - world/exandria
+  - campaign/eryndor
+---
 # Rendspawn Stat Blocks - DM Reference
 
 Rendspawn are the early hints of [[Ceratos]]: the first things the party meets that come from the Far Realm.
 
-> [!warning] Under redesign
-> The stat blocks and the encounter numbers below (including "2-3 Rendspawn") are being redesigned for the 2024 rules. The first encounter is meant to frighten the party and may kill a PC. This party outperforms standard encounter budgets because of its magic items.
+The stat blocks and encounter numbers below are pending a redesign for the 2024 rules (see Open Issues).
 
 ## Campaign Progression Overview
 
@@ -62,3 +67,7 @@ Rendspawn are the early hints of [[Ceratos]]: the first things the party meets t
 - **Radiant Magic**: Most effective counter
 - **Dimensional Anchors**: Prevent Phase Step/Dimensional Step
 - **Multiple Targets**: Grapple mechanics shine with spread party
+
+## Open Issues
+
+- [ ] Redesign the stat blocks and the "2-3 Rendspawn" guideline for the 2024 rules. The first Rendspawn should frighten the party and may kill a PC; this party outperforms standard encounter budgets because of its magic items. First encounter: see [[Understanding the Rifts]].
