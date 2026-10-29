@@ -1,11 +1,11 @@
 ---
+aliases: []
 tags:
   - atomic
+  - world/exandria
 ---
 
-## Core Information
-
-### Timeline of Draconia
+## Timeline of Draconia
 
 **c. 400 PD**
 
@@ -19,19 +19,17 @@ tags:
 
 - **Attack of the Chroma Conclave:** The Chroma Conclave, a group of powerful chromatic dragons led by Thordak the Cinder King, launches a devastating assault on Draconia. The assault is led by Vorugal, the Frigid Doom. The cities are destroyed, many Dragonborn are killed, and the surviving Dragonborn are scattered across Exandria. The attack marks the end of Draconia's golden age and its transformation into a series of ruins.
 
-**811 PD - 836 PD**
+**811 PD - 835 PD**
 
 - **Scattering and Survival:** The surviving Dragonborn seek refuge in various parts of Exandria. The most notable settlement of survivors is Xarzith Kitril, where the Dragonborn work to preserve their cultural heritage and rebuild their society in the wake of Draconia's destruction.
 
-**c. 836 PD**
+**835 PD**
 
 - **Present Day:** Leaders like Vaud Qalix emerge with ambitions to restore Draconia to its former glory. Qalix seeks to harness the chaotic energies of the rifts and reassemble the Lorestone of Eryndor. The ruins of Draconia symbolize both a tragic past and the hope for a resurgence, as efforts to reclaim and restore the nation intensify amid various challenges and opposition.
 
-## Connections
+## Source
 
-### Source Note
-
-[[Xarzith Kitril - DM]]
+[[Xarzith Kitril - DM]]. Dates checked against the Player Wiki page [[Draconia]]. The earlier version ended at "c. 836 PD" as the present day; the campaign is in 835 PD.
 
 ## Connected Elements
 

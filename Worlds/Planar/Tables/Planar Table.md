@@ -30,3 +30,7 @@ If players encounter a rift, you may roll on this table to ascertain which plane
 | 18  | Far Realm                | Smoke    | Force       | Wisdom       |
 | 19  | Endless Athenaeum        | Indigo   | Psychic     | Intelligence |
 | 20  | Limbo                    | Teal     | Piercing    | Wisdom       |
+
+## Open Issues
+
+- [ ] Six colors repeat: Red (Fire, Nine Hells), Green (Earth, Arborea), Teal (Air, Limbo), Indigo (Astral, Endless Athenaeum), Smoke (Shadowfell, Far Realm) and Spectrum (Elysium, Ysgard). Fire and Nine Hells also share a damage type and save. Does the party identify a rift's plane by color? If so, decide what tells each pair apart.

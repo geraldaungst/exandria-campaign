@@ -1,6 +1,5 @@
 ---
 tags:
-  - location
   - world/exandria
 ---
 
