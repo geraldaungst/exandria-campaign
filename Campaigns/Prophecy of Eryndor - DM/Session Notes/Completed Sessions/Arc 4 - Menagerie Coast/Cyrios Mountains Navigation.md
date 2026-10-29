@@ -1,7 +1,12 @@
 ---
+site: "[[Cyrios Mountains]]"
 tags:
   - campaign/eryndor
+  - encounter
+  - world/exandria
 ---
+
+*Used in the pursuit of Dreyara, Sessions 32 to 36; the Current Status table shows the end positions. Reset it before reuse.*
 
 ## Mountain Pursuit System - Daily GM Reference
 

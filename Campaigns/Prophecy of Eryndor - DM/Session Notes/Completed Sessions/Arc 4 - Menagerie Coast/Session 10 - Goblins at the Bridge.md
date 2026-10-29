@@ -1,8 +1,7 @@
 ---
-date:
-next_session:
-previous_session:
-session_number:
+date: 2024-09-08
+previous_session: "[[Session 9 - Seeking the Compass]]"
+session_number: 10
 tags:
   - campaign/eryndor
   - session
@@ -14,24 +13,13 @@ tags:
 > - Location(s): [[Tyodan River Bridge]]
 > - Active Plots: Goblin Leadership Dispute
 > - Key NPCs: Vaku, Wart, Gribna, Grigna, Limper, Bez, Mugor
-> - Previous Session: [[Session 9 - Seeking the Compass]]
-> - Next Session: [[Session 12 & 13 - Finding the Compass]]
 
 ## Pre-Session Review (30-45 min)
-
-### Previous Content
-
-- [ ] Read previous session notes
-- [ ] Check [[Seeds Planted]]
-- [ ] Review active plot threads
-- [ ] Note character goals/interests
-- [ ] Check faction moves/timelines
 
 ### Current Status
 
 #### Active Plots
 
-- Goblin Leadership Dispute:
   - Current state: Death of leader Viklorg, power vacuum
   - Next developments: Leadership contest or combat
   - Involved NPCs: All bridge goblins
@@ -42,7 +30,6 @@ tags:
 
 #### Faction Status
 
-- Bridge Goblins:
   - Recent actions: Loss of leader Viklorg
   - Planned moves: Determine new leadership
   - NPC involvement: All goblins present at bridge
@@ -85,7 +72,6 @@ tags:
 
 #### Location Details
 
-- The Bridge:
   - Key aspects: Waterfall, strategic crossing
   - Present NPCs: Seven visible goblins, two hidden
   - Hidden elements: Snipers, underwater treasure
@@ -138,47 +124,7 @@ tags:
 
 ## Post-Session Processing
 
-### Required Updates
-
-- [ ] Update NPC locations/status
-- [ ] Note faction changes
-- [ ] Record plot developments
-- [ ] Update location states
-
-### Atomic Notes Needed
-
-- [ ] New facts discovered
-- [ ] Relationships changed
-- [ ] Status updates needed
-- [ ] Plot elements revealed
-
-### Review and update
-
-- [ ] Relationship notes
-- [ ] Plot threads
-- [ ] Location states
-- [ ] NPC goals
-
-### Clean up
-
-- [ ] Remove outdated status info
-- [ ] Consolidate redundant notes
-- [ ] Update broken links
-- [ ] Add missing connections
-
 ### Next Session Planning
-
-#### Likely Next Steps
-
-Consider:
-
-- Immediate player goals stated:
-- Time-sensitive plot elements:
-- Faction reactions:
-- NPC responses:
-- Location/situation changes:
-- Unresolved tensions:
-- Player expressed interests:
 
 #### Prep Priority
 
@@ -196,3 +142,13 @@ Consider:
   - Side content: Additional bridge area exploration
   - Background developments: Local reaction to events
   - Optional encounters: Wildlife or traveler interactions
+
+## Where we left off
+
+- **Party location:** Road northeast of [[Port Damali - DM]], at the Tyodan River bridge
+- **What happened:**
+	- Left Port Damali just before noon with Aethor's cart, two horses and supplies (a Bag of Holding on loan to [[Popcorn Zikelfikel - Viv|Popcorn]])
+	- A hobgoblin peddler sold [[Drawg Stormbrew - Brew|Drawg]] a diary of J'mon Sa Ord, once emperor in Ank'Harel (12 gp), a taxidermy mouse and a silver snuff box marked "dreams" that belonged to the pirate Ireya Stormhollow
+	- At the bridge two goblin leaders, Wart and Vaku, were arguing over leadership. The rat-off failed and it became a battle with nine goblins plus the two leaders
+	- [[Drawg Stormbrew - Brew|Drawg]] found a bone coin with undead vibes and gave it to [[Hesterian Shyr - Dot|Hesterian]] (the Bone Merchant's Coin)
+	- Loot: 88 gp, a love letter to "my dearest Vicklord", a sealed leather tube, and a dark polished shortbow with a white string, given to [[Qilynn Duskwhisper - Nicole|Qilynn]]

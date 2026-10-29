@@ -6,7 +6,7 @@ tags:
 ---
 
 # Quick Reference
-**Location:** Treasure in [[Session 10 & 11 - Goblins at the Bridge]]. Current holder not recorded.
+**Location:** Treasure in [[Session 10 - Goblins at the Bridge]]. Current holder not recorded.
 **Significance:** Advantage on death saving throws; pings an undead creature the bearer knows.
 
 # Description & Properties

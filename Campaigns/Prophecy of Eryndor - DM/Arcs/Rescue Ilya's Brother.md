@@ -17,7 +17,7 @@ site: "[[Cloudfang Keep - DM]]"
 > - Status: Complete
 > - Key Players: [[Drawg Stormbrew - Brew|Drawg]], [[Varnes Dwell - DM|Varnes Dwell]], [[Ilya the Sorceress - DM|Ilya]], [[Lady Emer - DM]], [[Laucian Greycastle - Brent|Laucian]]
 > - Location: [[Cloudfang Keep - DM]]
-> - Last Session: [[Session 35 - East from Cloudfang]]
+> - Last Session: [[Session 41 - East from Cloudfang]]
 > - Outcome: Varnes freed and sent back toward Port Damali.
 
 ## Overview
@@ -28,9 +28,9 @@ site: "[[Cloudfang Keep - DM]]"
 
 - Session 28: the party prepares to leave [[Port Damali - DM]].
 - 8 Thunsheer: they leave for Cloudfang.
-- 19 Thunsheer: [[Lady Emer - DM|Emer]] is bound and questioned and Varnes is freed. See [[Session 32 - Confronting Lady Emer]] and [[Session 34 - Escape from Cloudfang]].
-- [[Session 33 - What to Do with Lady Emer?|Session 33]]: Varnes tells the party about the shard held in the Archive.
-- 21 Thunsheer: [[Laucian Greycastle - Brent|Laucian]] takes Varnes toward Port Damali by cart. See [[Session 35 - East from Cloudfang]].
+- 19 Thunsheer: [[Lady Emer - DM|Emer]] is bound and questioned and Varnes is freed. See [[Session 37 - Confronting Lady Emer]] and [[Session 39 - Escape from Cloudfang]].
+- [[Session 38 - What to Do with Lady Emer?|Session 38]]: Varnes tells the party about the shard held in the Archive.
+- 21 Thunsheer: [[Laucian Greycastle - Brent|Laucian]] takes Varnes toward Port Damali by cart. See [[Session 41 - East from Cloudfang]].
 - About 7 Unndilar: Varnes reaches Port Damali and he and Ilya reunite (estimated).
 
 ## Player Knowledge
@@ -55,7 +55,7 @@ Planned, not yet played.
 
 ## Open Issues
 
-- How did Lady Emer restore Varnes from stone? She agreed to bring him back ([[Session 32 - Confronting Lady Emer|Sessions 32]] and [[Session 33 - What to Do with Lady Emer?|33]]) and the party freed him on 19 Thunsheer. The method, and any cost to Emer or Varnes, are not recorded.
+- How did Lady Emer restore Varnes from stone? She agreed to bring him back ([[Session 37 - Confronting Lady Emer|Sessions 37]] and [[Session 38 - What to Do with Lady Emer?|38]]) and the party freed him on 19 Thunsheer. The method, and any cost to Emer or Varnes, are not recorded.
 
 ## Connected Elements
 

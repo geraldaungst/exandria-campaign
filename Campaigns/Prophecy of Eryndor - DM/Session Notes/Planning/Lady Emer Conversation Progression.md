@@ -6,7 +6,7 @@ tags:
   - world/exandria
 ---
 
-*Used at the table in [[Session 33 - What to Do with Lady Emer?]]; the scene below is the prep state at that time.*
+*Used at the table in [[Session 38 - What to Do with Lady Emer?]]; the scene below is the prep state at that time.*
 
 ## Lady Emer Interrogation Scene - DM Guide
 

@@ -35,7 +35,7 @@ Town details come from published Wildemount material (see Sources). Check them a
 - Aethor is in Port Damali. His deadline for the Stonefoot Compass passed on 8 Thunsheer 835 with no word ([[Search for the Stonefoot Compass]]).
 - The town is in the quake's aftermath. The Echoforge works on as before.
 - The Emissaries plan to watch the facility's security and Lyren's routines ([[Emissaries of the Sunfall - DM]]). [[Eledyr Dephar]]'s note calls it heavily defended, with predictable supply and staffing schedules.
-- An unchecked seed from [[Session 17 & 18 - Aftermath at the Shrine of Melora]]: a courier from Palma Flora carries word of the Echoforge's progress.
+- An unchecked seed from [[Session 17 - Aftermath at the Shrine of Melora]]: a courier from Palma Flora carries word of the Echoforge's progress.
 
 # Secrets
 

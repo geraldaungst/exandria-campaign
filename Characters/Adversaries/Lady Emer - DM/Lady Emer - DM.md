@@ -63,7 +63,7 @@ Last seen by the party at Cloudfang Keep on 19 Thunsheer 835. Timeline entries a
 > - **Standing with Qalix:** Her report protects her. If it is contradicted, her position weakens
 > - **Arcanist's Prism:** She noted Qalix seeks it (Day 120 of her notes). The players have seen this; it is a myth ([[Arcanist's Prism]])
 > - **If something happens to her:** Her research goes to the Cobalt Soul in Zadash (Day 78 of her notes)
-> - **Session 34 prep seed:** "Lady Emer's scouts." Not used so far ([[Session 34 - Escape from Cloudfang]])
+> - **Session 39 prep seed:** "Lady Emer's scouts." Not used so far ([[Session 39 - Escape from Cloudfang]])
 
 > [!note]- If she reappears
 > - **Bargain:** If cornered, she trades research data for her life
@@ -97,7 +97,7 @@ Last seen by the party at Cloudfang Keep on 19 Thunsheer 835. Timeline entries a
 
 ## Documents
 
-- [[Lady Emer's Research Notes]]: twelve searchable items with DCs. The players found all of them in Session 33 and hold a copy
+- [[Lady Emer's Research Notes]]: twelve searchable items with DCs. The players found all of them in Session 38 and hold a copy
 - [[Lady Emer's Notes]]: her journal on the crystal, Day 1-38. Kept in the stone chest under it
 - [[Lady Emer's Poems]]: the chest puzzle handout and her voice
 

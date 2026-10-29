@@ -37,7 +37,7 @@ Owns an unusually fine hand-sized brass-and-glass focusing lens by a Xhorhasian 
 - The Emissaries of the Sunfall watch them through their cover operation at [[Scroll and Scribe]] ([[Emissaries of the Sunfall - DM]]).
 - [[Kexira Suulveth]] sells to the Archive and finds Ovedo useful. She does not know about Shard 5.
 - [[Vaud Qalix - DM|Qalix]] sent [[Dreyara Drimvar - DM|Dreyara]] to steal the shard. She died before reaching Rexxentrum.
-- [[Varnes Dwell - DM|Varnes]] broke his NDA and told the party about the shard on 19 Thunsheer 835 ([[Session 33 - What to Do with Lady Emer?|Session 33]]).
+- [[Varnes Dwell - DM|Varnes]] broke his NDA and told the party about the shard on 19 Thunsheer 835 ([[Session 38 - What to Do with Lady Emer?|Session 38]]).
 
 > [!secret]- Hidden Information
 > - Shard 5 sits in an unauthorised, warded vault found in the Archive's foundations, for a secret Cobalt Soul research project.

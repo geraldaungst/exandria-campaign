@@ -1,13 +1,10 @@
 ---
+arc: "[[Rescue Ilya's Brother]]"
 date: 2025-11-16
-next_session:
-  - - Session 34
-previous_session:
-  - - Session 32 - Confronting Lady Emer
-session_number: 33
+previous_session: "[[Session 37 - Confronting Lady Emer]]"
+session_number: 38
 tags:
   - campaign/eryndor
-  - needs-work
   - session
 ---
 
@@ -420,7 +417,7 @@ Then after result, turn to room: "Lady Emer lies beneath the immovable shield, h
 - [[Vaud Qalix - DM]] - The mysterious employer (what Emer knows vs. reality)
 - [[Dreyara Drimvar - DM]] - The terrifying operative
 - [[Lorestone of Eryndor - DM]] - What they're all after
-- [[Session 32 - Confronting Lady Emer]] - Previous session notes
+- [[Session 37 - Confronting Lady Emer]] - Previous session notes
 
 **Campaign Context:**
 
@@ -428,81 +425,12 @@ Then after result, turn to room: "Lady Emer lies beneath the immovable shield, h
 - [[Malachite Cord - DM]] - Another faction (Varnes mentions them)
 - [[Emissaries of the Sunfall - DM]] - Emer's former organization
 
-## Session Notes
+## Where we left off
 
-### Timeline
-
-### Significant Changes
-
-- [ ] NPC status/location changes
-- [ ] New relationships formed
-- [ ] Plot developments
-- [ ] Location changes
-- [ ] Faction moves
-
-### Player Choices & Seeds
-
-- Choice made:
-- Potential consequences:
-- Future hooks:
-
-## Post-Session Processing
-
-### Required Updates
-
-- [ ] Update NPC locations/status
-- [ ] Note faction changes
-- [ ] Record plot developments
-- [ ] Update location states
-
-### Atomic Notes Needed
-
-- [ ] New facts discovered
-- [ ] Relationships changed
-- [ ] Status updates needed
-- [ ] Plot elements revealed
-
-### Review and update
-
-- [ ] Relationship notes
-- [ ] Plot threads
-- [ ] Location states
-- [ ] NPC goals
-
-### Clean up
-
-- [ ] Remove outdated status info
-- [ ] Consolidate redundant notes
-- [ ] Update broken links
-- [ ] Add missing connections
-
-### Next Session Planning
-
-#### Likely Next Steps
-
-Consider:
-
-- Immediate player goals stated:
-- Time-sensitive plot elements:
-- Faction reactions:
-- NPC responses:
-- Location/situation changes:
-- Unresolved tensions:
-- Player expressed interests:
-
-#### Prep Priority
-
-1. Must Have
-  - Critical NPCs/locations:
-  - Active plot developments:
-  - Immediate consequences:
-
-2. Should Have
-  - Alternate paths:
-  - Faction/NPC reactions:
-  - New location details:
-
-3. Could Have
-  - Side content:
-  - Background developments:
-  - Optional encounters:
+- **Party location:** Cloudfang Keep
+- **What happened:**
+	- Emer told the truth about her research. The stone figures are assistants and thieves she petrified. The "young elf" was brought by Dreyara because he knew too much: [[Varnes Dwell - DM|Varnes Dwell]]
+	- Emer answers to Vaud Qalix, who funds her research into the rifts; he is trying to reassemble the Lorestone to stabilize rifts. Dreyara visits monthly to collect reports and specimens and scares her
+	- Emer agreed to restore Varnes; [[Drawg Stormbrew - Brew|Drawg]] tamed the wyvern, "Soft Things Run"
+	- Varnes (hired by the Cobalt Soul to assess the Rexxentrum archive) told the party that the vault there holds a Lorestone shard; Archivist Ovedo told him
+	- Emer's map marks five sites she has investigated: Savalirwood, Zadash, Ashkeeper Peaks, Cyrios and Ebonglass

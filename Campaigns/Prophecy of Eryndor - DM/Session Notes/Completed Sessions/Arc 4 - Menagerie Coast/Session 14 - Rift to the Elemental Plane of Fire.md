@@ -1,8 +1,7 @@
 ---
-date: 2024-11-03
-next_session:
-previous_session:
-session_number:
+date: 2024-10-20
+previous_session: "[[Session 13]]"
+session_number: 14
 tags:
   - campaign/eryndor
   - session
@@ -14,12 +13,8 @@ tags:
 > - Main Location(s): [[Shrine of Melora - DM|The Shrine of Melora]]
 > - Active Quests: [[Understanding the Rifts]]
 > - Important NPCs: [[Malachite Cord - DM]], [[Rinneth Starsong - DM]]
-> - Previous Session: [[Session 12 & 13 - Finding the Compass]]
-> - Next Session: [[Session 17 & 18 - Aftermath at the Shrine of Melora]]
 
 ## Pre-Session Prep
-
-### Recap
 
 ### Planned Plot Points
 
@@ -38,30 +33,10 @@ tags:
 - Combat with the fire elementals that are about to enter through the rift
 - Possible attempt to stabilize and reduce the rift with the [[Soulwood Riftcage]]
 
-## Session Notes
+## Where we left off
 
-### Key Events
-
-### New NPCs Introduced
-
-### Player Choices & Consequences
-
-### Unresolved Elements
-
-## Post-Session Processing
-
-### Action Items
-
-- [ ] Update NPC locations
-- [ ] Add new NPCs
-- [ ] Update plot threads
-- [ ] Note player reactions/decisions
-
-### Future Hooks
-
-- sd
-- [ ] Add these to [[Seeds Planted]] doc
-
-### Next Session Planning
-
-- [[Session 17 & 18 - Aftermath at the Shrine of Melora]]
+- **Party location:** On the road back toward Port Damali
+- **What happened:**
+	- The return began with two nights of camping and rain
+	- [[Qilynn Duskwhisper - Nicole|Qilynn]] caught Zac stealing a bell for [[Seraphina Amaris - Vicki|Seraphina]]. The thefts of the party's belongings were traced to him
+	- [[Seraphina Amaris - Vicki|Seraphina]] had been building an effigy for her patron. The patron showed her a sign and the party moved on

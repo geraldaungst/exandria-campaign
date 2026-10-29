@@ -1,8 +1,8 @@
 ---
+arc: "[[Search for the Stonefoot Compass]]"
 date: 2024-11-17
-next_session:
-previous_session:
-session_number:
+previous_session: "[[Session 16]]"
+session_number: 17
 tags:
   - campaign/eryndor
   - session
@@ -14,8 +14,6 @@ tags:
 > - Main Location(s): [[Shrine of Melora - DM|The Shrine of Melora]]
 > - Active Quests: [[Search for the Stonefoot Compass]]
 > - Important NPCs: [[Rinneth Starsong - DM]], [[Radelia Caphax]]
-> - Previous session: [[Session 14 to 16 - Rift to the Elemental Plane of Fire]]
-> - Next session: [[Session 19 - Interrogating Radelia]]
 
 ## Pre-Session Prep
 
@@ -111,23 +109,15 @@ When roleplaying **Rinneth Starsong**, a balance between cautious openness and p
 
 - [[Dreyara Drimvar - DM]] was mentioned
 
-### Player Choices & Consequences
-
 ### Unresolved Elements
 
 - Party have not yet talked to [[Radelia Caphax]], who likely has some useful information about the [[Lorestone of Eryndor - DM]] as well as the [[Emissaries of the Sunfall - DM]].
 
-## Post-Session Processing
+## Where we left off
 
-### Action Items
-
-- [ ] Update NPC locations
-- [ ] Add new NPCs
-- [ ] Update plot threads
-- [ ] Note player reactions/decisions
-
-### Future Hooks
-
-- [ ] Add these to [[Seeds Planted]] doc
-
-### Next Session Planning
+- **Party location:** Shrine of Melora
+- **What happened:**
+	- The rift was mostly closed. At lunch the Cord explained itself: guardians of balance who follow the Aurora's Ascendant, studying the Savalirwood corruption (three centuries old) and its link to the rifts
+	- The Cord is at odds with the Obsidian Echoforge. They fear that reuniting the Lorestone would repeat the destruction of Molaesmyr a century ago
+	- They asked the party to help rededicate the shrine and to bring them any soulwood
+	- [[Seraphina Amaris - Vicki|Seraphina]] read the Verdant Codex and was shaken. [[Popcorn Zikelfikel - Viv|Popcorn]] ran off. Later he told [[Hesterian Shyr - Dot|Hesterian]] that as a child he spent days away, possibly in the Faewild

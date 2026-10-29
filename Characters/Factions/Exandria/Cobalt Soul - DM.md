@@ -34,7 +34,7 @@ tags:
 
 # Current Activities
 - Ovedo is studying the prophecy text on Shard 5
-- [[Varnes Dwell - DM|Varnes Dwell]] found the vault on a security assessment and was paid to keep quiet. He told the party on 19 Thunsheer 835 ([[Session 33 - What to Do with Lady Emer?|Session 33]])
+- [[Varnes Dwell - DM|Varnes Dwell]] found the vault on a security assessment and was paid to keep quiet. He told the party on 19 Thunsheer 835 ([[Session 38 - What to Do with Lady Emer?|Session 38]])
 - [[Vaud Qalix - DM|Qalix]] sent Dreyara to steal the shard; she died before reaching Rexxentrum
 
 # History

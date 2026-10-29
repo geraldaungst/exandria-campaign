@@ -1,6 +1,9 @@
 ---
+site: "[[Menagerie Coast]]"
 tags:
   - campaign/eryndor
+  - encounter
+  - world/exandria
 ---
 
 See also: [[Cyrios Mountains Navigation]]

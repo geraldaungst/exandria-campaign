@@ -9,7 +9,7 @@ tags:
 > [!quote]- What players know
 > ![[New Temple of Moradin]]
 
-**Status:** Construction resumed after the party cleansed the crypt (Session 6) and the Ki'Nau agreed to the dwarves' work. In the northwest Crescents near the skyport. Barwynn and Thorlynn, dwarves at the temple, agreed to question the party's skull for 20 gp ([[Session 29-31 - Traveling to Cloudfang]]).
+**Status:** Construction resumed after the party cleansed the crypt (Session 6) and the Ki'Nau agreed to the dwarves' work. In the northwest Crescents near the skyport. Barwynn and Thorlynn, dwarves at the temple, agreed to question the party's skull for 20 gp ([[Session 32 - Traveling to Cloudfang]]).
 **Significance:** The Feywild rift in the crypt's collapsed floor is still open. The party holds the Journal of Solan Taku and the obsidian warhammer from the crypt.
 
 # Description

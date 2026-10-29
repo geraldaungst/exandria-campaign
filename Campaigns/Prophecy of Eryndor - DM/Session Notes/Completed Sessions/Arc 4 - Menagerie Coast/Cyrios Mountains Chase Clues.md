@@ -1,6 +1,9 @@
 ---
+site: "[[Cyrios Mountains]]"
 tags:
   - campaign/eryndor
+  - encounter
+  - world/exandria
 ---
 
 | d20 Roll | Clue Type                     | Gaining Ground                                                                                                                         | Maintaining Pace (2 days behind)                                                                                                     | Falling Behind                                                                                                                          | Distant Clues (Different Path)                                                                                                                                                     |

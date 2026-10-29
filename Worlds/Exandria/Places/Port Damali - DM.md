@@ -9,7 +9,7 @@ tags:
 > [!quote]- What players know
 > ![[Port Damali]]
 
-**Status:** Largest city on the Menagerie Coast. The party arrived by skyship in Sessions 4 and 5, stayed at [[The Pudgy Pigeon - DM]], and left for Cloudfang Keep after Session 28 ([[Session 29-31 - Traveling to Cloudfang]]). They keep three rooms at [[Harmony Hall - DM]] and are in Deastok now.
+**Status:** Largest city on the Menagerie Coast. The party arrived by skyship in Sessions 4 and 5, stayed at [[The Pudgy Pigeon - DM]], and left for Cloudfang Keep after Session 28 ([[Session 32 - Traveling to Cloudfang]]). They keep three rooms at [[Harmony Hall - DM]] and are in Deastok now.
 **Significance:** [[Hesterian Shyr - Dot|Hesterian]] was murdered here. The Clasp and the Myriad work the city, and the Echoforge's field agent [[Aethor Kalisk - DM]] is based here. Three threads bring the party back: [[Hesterian Shyr's Infiltration]], [[Qilynn Duskwhisper's Revenge]] and the reunion of Ilya and Varnes ([[Rescue Ilya's Brother]]).
 
 # Description

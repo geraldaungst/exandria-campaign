@@ -44,6 +44,15 @@ const arc = arcs.length
     )
   : null;
 
+// Plan for this night: a new plan, or a continuation of an earlier night's plan (Vault Conventions, Session row).
+// The Plan: line always names the note that holds the plan, never the previous night.
+let cont = false, planNote = "";
+if (prev) {
+  const prevBody = await tp.app.vault.cachedRead(prev);
+  planNote = (prevBody.match(/^Plan: \[\[([^\]|#]+)/m) ?? [])[1] ?? prev.basename;
+  cont = (await tp.system.suggester(["New plan", `Continues the plan in ${planNote}`], [false, true], false, "Plan for this night")) === true;
+}
+
 const name = `Session ${num}` + (title ? ` - ${title}` : "");
 // Renamed where it is. A name already taken (capitals ignored, as on macOS) gets a number instead of failing.
 await safeMove(tp.file.folder(true), name);
@@ -62,6 +71,7 @@ tR += `fc-display-name: "Session ${num}"\n`;
 tR += `fc-category: ${C("calendar_category_sessions", "Sessions")}\n`;
 tR += "---\n\n";
 tR += `## ${name}\n\n`;
+if (cont) tR += `Plan: [[${planNote}]]\n\n> [!note]- Plan\n> ![[${planNote}#Prep]]\n\n`;
 tR += "### Last Time\n\n";
 tR += prev ? `![[${prev.basename}#Where we left off]]\n` : "First session in this system.\n";
 -%>
@@ -73,7 +83,7 @@ const { SessionArc } = await dc.require(dc.headerLink("00 DM Screen/Code/Arc and
 return SessionArc;
 ```
 
----
+<%* if (!cont) { %>---
 
 ## Prep
 
@@ -116,7 +126,7 @@ return SessionArc;
 
 -
 
----
+<%* } %>---
 
 ## At the Table
 

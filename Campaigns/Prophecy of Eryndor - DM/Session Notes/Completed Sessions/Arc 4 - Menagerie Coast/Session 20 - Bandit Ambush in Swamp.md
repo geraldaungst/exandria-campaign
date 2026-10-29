@@ -1,9 +1,7 @@
 ---
-date: 2024-12-17
-next_session:
-previous_session:
-  - Session 7 - Speaking With Radelia
-session_number:
+date: 2024-12-22
+previous_session: "[[Session 19 - Interrogating Radelia]]"
+session_number: 20
 tags:
   - campaign/eryndor
   - session
@@ -15,29 +13,12 @@ tags:
 > - Location(s): [[Random Encounters on the Road and Forest - Menagerie Coast]]
 > - Active Plots: Side quest
 > - Key NPCs: N/A
-> - Previous Session: [[Session 19 - Interrogating Radelia]]
-> - Next Session: [[Session 21 - Return to Port Damali]]
-
-## Pre-Session Review
-
-### Previous Content
-
-- [x] Read previous session notes
-- [x] Check [[Seeds Planted]]
-- [x] Review active plot threads
-- [x] Note character goals/interests
-- [x] Check faction moves/timelines
-
-### Current Status
 
 ## Session Prep
 
 ### Strong Start
 
 - Opening scene: Navigating the swamp
-- Purpose:
-- Connected plots:
-- Required prep:
 
 ### Core Content
 
@@ -93,6 +74,11 @@ tags:
 
 #### Likely Next Steps
 
-Consider:
-
 - Immediate player goals stated: Return to Port Damali
+
+## Where we left off
+
+- **Party location:** The road back to Port Damali, then Port Damali
+- **What happened:**
+	- The cart stuck in mud. Shambling mounds attacked the scouts, knocking out [[Seraphina Amaris - Vicki|Seraphina]], [[Hesterian Shyr - Dot|Hesterian]] and [[Qilynn Duskwhisper - Nicole|Qilynn]] (healing potions revived [[Qilynn Duskwhisper - Nicole|Qilynn]])
+	- They found a path out for the wagon and returned to Port Damali

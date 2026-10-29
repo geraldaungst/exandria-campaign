@@ -1,7 +1,10 @@
 ---
-date:
-session_number:
+arc: "[[Rescue Ilya's Brother]]"
+date: 2025-11-30
+previous_session: "[[Session 38 - What to Do with Lady Emer?]]"
+session_number: 39
 tags:
+  - campaign/eryndor
   - session
 ---
 
@@ -11,39 +14,38 @@ tags:
 - **Quick NPCs**: [[Quick NPCs]] and [[NPC Stat Block Reference Table]]
 - **Location Ideas**: [[Location Idea Generator]]
 - **Reward Options**: [[Session Rewards Reference]]
-- **Detailed prep** (if exists): [[Monastery of Dimensional Harmony - DM]]
+- **Detailed prep** (if exists): [[]]
 
 ---
 
 ## Session Prep
 
-### 1. Review Characters (3 min)
-
-**Scan [[Character Story Beats]] - what's relevant THIS session?**
-
-- Encounter with Dreyara (likely in the Monastery)
-
-### 2. Strong Start (5 min)
+### 1. Strong Start (5 min)
 
 **How does the session open?**
 
 - Where are PCs physically?
+	- In the mountains outside of Cloudfang
 - What happens in the first 2 minutes?
+	- They are far enough away to be safe for the moment
+	- Party will be interested in examining their loot
 - What immediately grabs their attention?
+	- Varnes is obviously in bad shape.
 
-### 3. Potential Scenes (10 min)
+### 2. Potential Scenes (10 min)
 
 List 3-5 scenes (~1 per 45 min).
 
 For each: Who's there? What's the conflict/choice/discovery?
 
-1. Party encounters [[Encounter with Zadash Refugees|refugees from Zadash]] and learn there are escalating problems east, including more rifts and tension between nations.
-2. Dechs and Laucian arrive with the cart. Laucian just received a sending from PD and he needs to turn back.
-3. Avalanche blocks the road! Detour into the [[Monastery of Dimensional Harmony - DM]].
+1. Conversation with Varnes, decisions to make (which way, how fast)
+2. Montage back to Port Damali (see [[Cyrios Random Encounters]] for possible options)
+3. [[Encounter with Zadash Refugees]]
+4. Lady Emer's scouts
 
 *Thinking prompts: What do PCs want? What opposes them? What interrupts? What arrives? What's discovered? What choice emerges?*
 
-### 4. Secrets & Clues (10 min)
+### 3. Secrets & Clues (10 min)
 
 **What can characters discover? Check off as revealed. List up to 10:**
 
@@ -97,3 +99,11 @@ For each: Who's there? What's the conflict/choice/discovery?
 - Big decision:
 - Where we stopped:
 - What's next:
+
+## Where we left off
+
+- **Party location:** Leaving Cloudfang Keep
+- **What happened:**
+	- Opened Emer's cases: Bag of Beans and Ring of Mind Shielding ([[Popcorn Zikelfikel - Viv|Popcorn]]), Wand of Restoration and Pearl of Power ([[Seraphina Amaris - Vicki|Seraphina]]), Dust of Disappearance and potions, an ebony heavy crossbow, instruments
+	- The stone box opens with "Stone Hearts Beat in a Temporal Rhythm" in Draconic while pressing the moonstone eyes. Inside: a Temporal Resonance Crystal (grapefruit-sized, 10 to 12 faces, in a metal frame)
+	- [[Qilynn Duskwhisper - Nicole|Qilynn]] took the crystal and the party fled in front of Emer, who vowed revenge

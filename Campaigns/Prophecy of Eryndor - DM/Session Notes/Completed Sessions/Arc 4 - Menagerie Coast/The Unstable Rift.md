@@ -1,6 +1,9 @@
 ---
+site: "[[Port Damali - DM]]"
 tags:
   - campaign/eryndor
+  - encounter
+  - world/exandria
 ---
 
 ## Overview

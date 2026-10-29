@@ -1,16 +1,12 @@
 ---
-date: 2025-11-01
-next_session:
-  - Session 33
-previous_session:
-  - Sessions 29-31 - Traveling to Cloudfang
-session_number: 32
+arc: "[[Rescue Ilya's Brother]]"
+date: 2025-11-02
+previous_session: "[[Session 36]]"
+session_number: 37
 tags:
   - campaign/eryndor
   - session
 ---
-
-## SESSION PREP - Cloudfang Keep Confrontation
 
 ## Quick Reference
 
@@ -19,8 +15,6 @@ tags:
 > - Location(s): Cloudfang Keep (E6. Library → E5. Stone Garden)
 > - Active Plots: Rescue Varnes Dwell, Assembling the Lorestone, Drawg's Dagger Quest
 > - Key NPCs: Lady Emer, Varnes Dwell (petrified), Dreyara Drimvar (arrives later)
-> - Previous Session: Party arrived at Keep, began conversation with Lady Emer in Library
-> - Next Session: [[Session 33 - What to Do with Lady Emer?]]
 
 ## Pre-Session Review (30-45 min)
 
@@ -124,11 +118,9 @@ tags:
 **1. Combat with Lady Emer**
 
 - Connected plots/NPCs: All active plots, Lady Emer, indirect connection to Dreyara/Qalix
-- Potential outcomes:
     - She dies (no intel, can't warn Dreyara beyond dead guardians)
     - She surrenders (provides information, tries to warn Dreyara)
     - Party captures her (interrogation, possible bait for ambush)
-- Required prep:
     - Combat stats (CR 11 medusa modified)
     - Stone Garden layout and tactics
     - Surrender threshold and speech (~40 HP)
@@ -137,12 +129,10 @@ tags:
 **2. Lady Emer's Surrender & Interrogation**
 
 - Connected plots/NPCs: Information about Qalix operation, Dreyara's role, Lorestone research
-- Potential outcomes:
     - Party kills her anyway
     - Party releases her (she flees, warns Dreyara)
     - Party holds her prisoner (she tries to warn Dreyara via creature/signal)
     - Party tries to hire her (requires 50k+ gp, unlikely)
-- Required prep:
     - Three-tier information reveal (free → pressure → Zone of Truth)
     - Warning methods she might use (messenger creatures most likely)
     - DCs for detecting/preventing warning
@@ -151,11 +141,9 @@ tags:
 **3. Freeing Varnes and Other Statues**
 
 - Connected plots/NPCs: Rescue mission resolution, Varnes provides critical intel
-- Potential outcomes:
     - Party frees all statues (7 NPCs grateful, offer to help)
     - Party frees only Varnes (focused on mission)
     - NPCs stay at Keep to recover or travel with party
-- Required prep:
     - Greater Restoration spell or similar to de-petrify
     - 7 freed NPCs: Alia Sylf, Gorith Tork, Kaxor, Septima Vinculum, Varnes Dwell, Worjo, Orgor
     - Varnes's weakened state (multiple exhaustion levels, needs days to recover)
@@ -164,11 +152,9 @@ tags:
 **4. Varnes's Critical Information Delivery**
 
 - Connected plots/NPCs: Lorestone assembly, Rexxentrum as next destination, time pressure
-- Potential outcomes:
     - Party leaves immediately for Rexxentrum (urgency accepted)
     - Party waits at Keep to ambush Dreyara (personal quest prioritized)
     - Party splits (some escort Varnes, some wait)
-- Required prep:
     - Varnes's speech (urgent, tactical, acknowledges Drawg's blade but frames priority)
     - Information about Shard 5: Rexxentrum Archive, Archivist Ovedo, security details
     - Torture/memory magic effects (he doesn't know what he revealed)
@@ -177,11 +163,9 @@ tags:
 **5. The Choice: Stay or Go**
 
 - Connected plots/NPCs: All plots converge here - Dreyara pursuit vs. Rexxentrum mission
-- Potential outcomes:
     - Leave immediately → avalanche/Monastery next session
     - Wait at Keep → Dreyara withdraws, party realizes she's not coming
     - Set elaborate trap → depends on Lady Emer warning success
-- Required prep:
     - Understand both paths lead to Monastery eventually
     - Environmental pressure talking points (altitude, weather, supplies)
     - NPC reassurances (freed prisoners will be fine at Keep)
@@ -346,42 +330,6 @@ tags:
 
 ---
 
-## Post-Session Processing
-
-### Required Updates
-
-- [ ] Update Lady Emer status (dead/captured/released/escaped)
-- [ ] Update Varnes Dwell location (with party or staying at Keep)
-- [ ] Update Dreyara's knowledge (did Lady Emer warn her?)
-- [ ] Note party's choice (staying at Keep vs. leaving for Rexxentrum)
-- [ ] Track Luxon Beacon status (looted or left behind)
-- [ ] Update freed NPC locations (traveling with party or staying)
-
-### Atomic Notes Needed
-
-- [ ] Lady Emer's fate and any information revealed
-- [ ] Varnes's intel about Shard 5 and Archivist Ovedo
-- [ ] Party's decision and reasoning (for future reference)
-- [ ] Any new relationships formed with freed NPCs
-- [ ] Dreyara's knowledge level going forward
-
-### Review and update
-
-- [ ] Rescue Ilya's Brother plot thread (resolved or updated)
-- [ ] Assembling the Lorestone plot thread (Shard 5 location revealed)
-- [ ] Drawg's Dagger quest (choice made about pursuing vs. mission)
-- [ ] Cloudfang Keep location state (cleared, looted, secured)
-- [ ] Dreyara Drimvar NPC page (update with party's choice impact)
-
-### Clean up
-
-- [ ] Remove "party arriving at Keep" from active elements
-- [ ] Move Lady Emer to dead/captured/fled as appropriate
-- [ ] Update Varnes from "petrified at Keep" to current status
-- [ ] Add "traveling to Rexxentrum" or "waiting at Keep" to current state
-
----
-
 ## Next Session Planning
 
 ### Likely Next Steps
@@ -503,3 +451,11 @@ tags:
 - Insight to detect deception: 18-22
 - Animal Handling to intercept messenger: 16
 - Persuasion to hire Lady Emer: 20-25 (nearly impossible)
+
+## Where we left off
+
+- **Party location:** [[Cloudfang Keep - DM]], Lady Emer's library
+- **What happened:**
+	- [[Lady Emer - DM|Lady Emer]] walked out with [[Popcorn Zikelfikel - Viv|Popcorn]]'s cat form; [[Drawg Stormbrew - Brew|Drawg]] followed. A wyvern attacked
+	- They shrank a statue of the man they sought. The party attacked and bound Emer
+	- Her desk held letters signed "V.Q." (2,000 gp to prepare the facility, later 1,500 gp more; "Dreyara will visit within the fortnight"; Lorestone research takes priority), a payment ledger for the past 18 months, and a trapped stone box that no key opens

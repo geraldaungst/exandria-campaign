@@ -1,6 +1,7 @@
 ---
 tags:
   - campaign/eryndor
+  - world/exandria
 ---
 
 ## Draconia's Final Flight

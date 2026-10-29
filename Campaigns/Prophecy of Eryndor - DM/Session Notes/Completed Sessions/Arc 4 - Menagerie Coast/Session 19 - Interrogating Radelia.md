@@ -1,8 +1,7 @@
 ---
-date: 2024-12-22
-next_session:
-previous_session:
-session_number:
+date: 2024-12-15
+previous_session: "[[Session 18]]"
+session_number: 19
 tags:
   - campaign/eryndor
   - session
@@ -14,17 +13,8 @@ tags:
 > - Location(s):
 > - Active Plots:
 > - Key NPCs:
-> - Previous Session: [[Session 17 & 18 - Aftermath at the Shrine of Melora]]
-> - Next Session: [[Session 20 - Bandit Ambush in Swamp]]
 
 ## Session Prep (1-2 hours)
-
-### Strong Start
-
-- Opening scene:
-- Purpose:
-- Connected plots:
-- Required prep:
 
 ### Core Content
 
@@ -42,33 +32,11 @@ tags:
 
 - [[Radelia Caphax]]
 
-### Next Session Planning
+## Where we left off
 
-#### Likely Next Steps
-
-Consider:
-
-- Immediate player goals stated:
-- Time-sensitive plot elements:
-- Faction reactions:
-- NPC responses:
-- Location/situation changes:
-- Unresolved tensions:
-- Player expressed interests:
-
-#### Prep Priority
-
-1. Must Have
-  - Critical NPCs/locations:
-  - Active plot developments:
-  - Immediate consequences:
-
-2. Should Have
-  - Alternate paths:
-  - Faction/NPC reactions:
-  - New location details:
-
-3. Could Have
-  - Side content:
-  - Background developments:
-  - Optional encounters:
+- **Party location:** Shrine of Melora
+- **What happened:**
+	- The party returned Radelia's bag, minus the coin; she did not ask about it
+	- [[Radelia Caphax]] had shadowed Aethor in Port Damali: he meets Calderax Dunhall in the Larboard Light District, stays at the Pudgy Pigeon, visits the Cobalt Soul Library, and mentions the Lorestone of Eryndor
+	- Calderax met Dreyara Drimvar, and Radelia overheard talk of a shard. Valen Elderguard works with Dreyara and leads the Emissaries of the Sunfall. "The Eye" was mentioned; [[Drawg Stormbrew - Brew|Drawg]] thinks it is the Eye of Scars of Xarzith Kitril
+- **Threads moved:** [[Understanding the Rifts]]. The druids will look into Elderguard and the Eye. The party heads back to Port Damali to find Calderax and Dreyara.
