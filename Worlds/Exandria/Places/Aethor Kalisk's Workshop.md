@@ -2,6 +2,7 @@
 tags:
   - atomic
   - location
+  - needs-work
   - world/exandria
 political_region:
   - "[[Palma Flora]]"

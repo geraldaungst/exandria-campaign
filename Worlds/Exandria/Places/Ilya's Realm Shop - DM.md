@@ -4,22 +4,17 @@ tags:
   - world/exandria
 ---
 
-## Quick Reference
+# Quick Reference
 
 > [!quote]- What players know
 > ![[Ilya's Realm Shop]]
 
-> [!info] Essential Details
-> - Current Status: Active
-> - Key Feature:
-> - Atmosphere:
-> - Recent Events:
+**Status:** High-end magic shop in Port Damali, owned by [[Ilya the Sorceress - DM|Ilya]]. The party has shopped here and Drawg has custom items still in the works ([[Session 28 - Back at Harmony Hall]]).
+**Significance:** Ilya asked the party to find her brother Varnes. Once he reaches Port Damali she Sends to the party and offers an item at cost ([[Rescue Ilya's Brother]]).
 
-## Overview
+# Description
 
-### Physical Description
-
-- [[Ilya the Sorceress - DM|Ilya the Sorceress]] was an adventurer sorceress who quested Exandria before retiring to Port Damali. She has multiple items of her time adventuring, which she sells as well as maintaining a business. The shop has the following items on sale, in addition to a reasonably full stock of common and uncommon items:
+[[Ilya the Sorceress - DM|Ilya the Sorceress]] was an adventurer sorceress who quested Exandria before retiring to Port Damali. She has multiple items of her time adventuring, which she sells as well as maintaining a business. The shop has the following items on sale, in addition to a reasonably full stock of common and uncommon items:
 - Elixirs of Health
 - Potion of Superior Healing
 - Potions of Acid Breath (handcrafted)
@@ -34,14 +29,13 @@ tags:
 - Periapt of Health
 - Pipes of Haunting
 
-### Current State
+# What's Happening Now
 
-> [!note] Active Elements
-> - Present situation
-> - Recent changes
-> - Immediate concerns
+- The party's purchases are ticked in the stock list under Secrets (ticked means sold to the party).
+- Ilya is holding custom commissions for Drawg ([[Session 28 - Back at Harmony Hall]]).
+- Varnes is free and on his way back. Ilya's reunion with him is about 7 Unndilar 835 (estimated).
 
-## Hidden Elements
+# Secrets
 
 > [!secret]- DM Only
 > - Current Stock:
@@ -63,7 +57,12 @@ tags:
 > 	- Rush job (half crafting time): base cost * 1.4
 > 	- Example: purple Studded Leather Mariner's Armor: 1500gp or 2000gp for rush
 > 	- Example: Decanter of Endless Hot Cocoa: 250gp or 350gp for rush
-> - Future developments
+
+## Open Issues
+
+- [ ] Whether the stock refreshes after sales. Ticked items have been sold to the party.
+- [ ] Which item Ilya offers at cost, and what Drawg's pending commissions are.
+- [ ] Nothing is set for the shop's layout, staff or security. Rumor says burglars turn up dead with their skin melted ([[Ilya the Sorceress - DM]]).
 
 ## Connected Elements
 

@@ -8,30 +8,24 @@ tags:
 
 ![[celunors-collection.png|right|300]]
 
-## Quick Reference
+# Quick Reference
 
 > [!quote]- What players know
 > ![[Celunor's Collection]]
 
-> [!info] Essential Details
-> - Current Status: Active business
-> - Key Feature: Theatrical underwater-themed bookshop
-> - Atmosphere: Mysterious submerged archive
-> - Recent Events: Regular "discoveries" of new collections
-> - Proprietor: [[Celdric Ambril]] (as [[Celdric Ambril|Celunor]])
+**Status:** Thriving bookshop and local attraction near the Port Damali docks, styled as a sunken archive. [[Celdric Ambril]] runs it as [[Celdric Ambril|Celunor]] the Tidebound. The party has shopped here.
+**Significance:** Celunor is researching a blade for Drawg's scabbard. Hesterian named him to the Truscans as a scholar interested in the Deastok site ([[Deastok - DM]]).
 
-## Overview
+# Description
 
-### Physical Description
-
-#### External
+## External
 
 - Located near Port Damali docks
 - Designed to suggest ancient maritime architecture
 - Decorated with salvaged ship parts
 - Maritime artifacts on display
 
-#### Internal
+## Internal
 
 ![[cc-interior2.png|right|200]]
 
@@ -43,27 +37,6 @@ tags:
 - Bottles with strange specimens on display
 - Atmosphere mimics submerged archive
 - Strategic lighting and decorations create mysterious ambiance
-
-### Current State
-
-> [!note] Active Elements
-> - Present situation: Thriving business and local attraction
-> - Recent changes: Regular "discoveries" of new collections
-> - Immediate concerns: Maintaining mystique and authenticity
-> - Community impact: Supporting surrounding businesses through tourism
-> - Celunor is on the lookout for a blade that matches [[Drawg Stormbrew - Brew|Drawg]]'s scabbard.
-
-## Hidden Elements
-
-> [!secret]- DM Only
-> - True Identity: [[Celdric Ambril]] is actually a savvy book collector and trader
-> - Business Model: Theatrical presentation of normal acquisitions as mysterious findings
-> - Marketing Strategy:
->   - Creates events around "discoveries"
->   - Releases maps and riddles for promotion
->   - Sources items through normal supplier networks and auctions
-> - Reality vs Fiction: Shop's underwater theme is purely theatrical
-> - Actual Expertise: Genuine knowledge of history and arcane despite theatrics
 
 ## The Drowned Library Legend
 
@@ -128,6 +101,31 @@ tags:
 - Regular special events and "discoveries"
 - Marketing through mystery and intrigue
 - Network of legitimate suppliers
+
+# What's Happening Now
+
+- Thriving business and local attraction. Regular "discoveries" of new collections. Supports surrounding businesses through tourism.
+- Celunor is on the lookout for a blade that matches [[Drawg Stormbrew - Brew|Drawg]]'s scabbard. Qilynn knows him as "Keldrick". He quoted 10,000 gp for the blade and 500 gp for the research, with a 50 gp deposit ([[Party Notes]]).
+- Hesterian named Celunor to the Truscans in [[Session 53]]. The Truscans may follow up ([[Deastok Investigation]]).
+- Locals, Hesterian and Qilynn among them, know the Celunor name is a persona meant mostly for tourists (ruling of 2026-10-06).
+
+# Secrets
+
+> [!secret]- DM Only
+> - [ ] True Identity: [[Celdric Ambril]] is actually a savvy book collector and trader
+> - [ ] Business Model: Theatrical presentation of normal acquisitions as mysterious findings
+> - [ ] Marketing Strategy:
+>   - Creates events around "discoveries"
+>   - Releases maps and riddles for promotion
+>   - Sources items through normal supplier networks and auctions
+> - [ ] Reality vs Fiction: Shop's underwater theme is purely theatrical
+> - [ ] Actual Expertise: Genuine knowledge of history and arcane despite theatrics
+
+## Open Issues
+
+- [ ] Whether the party knows the Drowned Library is a sales story ([[Celdric Ambril]]).
+- [ ] What Celunor does if the Truscans or the Cerberus Assembly ask about Deastok.
+- [ ] Whether he finds a blade for the scabbard, and what it is.
 
 ## Connected Elements
 

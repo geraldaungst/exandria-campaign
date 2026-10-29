@@ -1,5 +1,6 @@
 ---
 tags:
+  - atomic
   - world/exandria
 ties_to:
   - "[[Menagerie Coast]]"
