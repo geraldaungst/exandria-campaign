@@ -29,6 +29,8 @@ tags:
 - **Decisions and consequences:**
   - Torvald steered them to the [[Shaded Bough]] for rooms and to Jorun Kettlewright, his friend who hasn't been in
 - **Changed at the table:**
+  - The gate guard is named Hans; he makes friends with Drawg (improvised).
+  - Drawg's saddle is made by Gaerlan Mooncain (improvised).
 - **Threads moved:** [[Assembling the Lorestone]]
 - **World next:** Find Jorun; rooms at the Shaded Bough
 

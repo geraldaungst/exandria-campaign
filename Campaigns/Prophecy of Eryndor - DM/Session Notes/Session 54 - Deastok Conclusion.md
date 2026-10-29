@@ -3,8 +3,8 @@ arc: "[[Deastok Investigation]]"
 date: 2026-11-01
 fc-calendar: Exandrian Calendar
 fc-category: Sessions
-fc-date: 835-04-27
-fc-display-name: Session 54
+fc-date: "835-04-27"
+fc-display-name: "Session 54"
 fc-end:
 ingame_time:
 previous_session: "[[Session 53]]"
@@ -87,10 +87,10 @@ return SessionArc;
 
 <!-- About 10 minutes. -->
 
+- [ ] Run the **Close Session** template (Templater: insert template): in-world end date and time, then key events for the campaign timeline
 - [ ] Fill in "Where we left off"
 - [ ] Tick revealed clues in the arc's Fact Map
 - [ ] Open each plot note in "Threads moved" and update it
-- [ ] Update `current_location` for any NPC who moved
 - [ ] If the arc ended or was set aside, change its `status`
 - [ ] Commit
 

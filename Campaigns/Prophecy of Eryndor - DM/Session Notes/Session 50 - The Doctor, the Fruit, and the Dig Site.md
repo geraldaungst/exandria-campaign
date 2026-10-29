@@ -31,6 +31,7 @@ fc-category: Sessions
 - **Changed at the table:**
   - The fruit-stall owner named Bella as another dreamer in town (improvised; Bella has no other role).
   - Wenna had already given the stall owner a sedative to keep her from dreaming.
+  - The Shaded Bough's contact for service is Felicia (improvised).
   - Seraphina posed as Popcorn's mother and Popcorn feigned nightmares at Wenna's; the ruse did not work.
 - **Threads moved:** [[Assembling the Lorestone]], [[Cleanse the Savalirwood]]
 - **World next:** Seek Truscan permission and visit the site
