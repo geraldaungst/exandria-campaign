@@ -21,13 +21,14 @@ tags:
 - [ ] The Beacon decision (take or leave the Luxon Beacon on the platform) is not recorded anywhere.
 - [ ] The meenlock encounters in Areas 13 and 14 (Stages 1 and 2 of the design) never reached the area entries. [[Kelmen and Popcorn Connections]] puts Popcorn's first giggle at Area 13. Whether the party met them is unrecorded.
 - [ ] The Blink Bomb in the design note was never placed.
-- [ ] The "300 years" lines wait on the Molaesmyr timeline retcon (Opus).
 
 ---
 
 ## Adventure Background
 
-High in the Cyrios Mountains of southern Wildemount lies a forgotten monastery carved from living rock and natural cave systems. Three centuries ago, a sect of firbolg monks known as the Order of Dimensional Harmony built this sanctuary to study and "heal" phase spiders they believed were suffering from dimensional corruption. The monks' compassionate but misguided research led to a catastrophic end when they attempted to stabilize a planar rift and cross through it to another realm. Their final ritual partially succeeded - many monks crossed over - but the rift then collapsed catastrophically, trapping survivors and leaving a permanent dimensional scar.
+High in the Cyrios Mountains of southern Wildemount lies a forgotten monastery carved from living rock and natural cave systems. Centuries ago, a sect of firbolg monks known as the Order of Dimensional Harmony built this sanctuary to study and "heal" phase spiders they believed were suffering from dimensional corruption. The monks' compassionate but misguided research led to a catastrophic end, about 535 PD, when they attempted to stabilize a planar rift and cross through it to another realm. Their final ritual partially succeeded - many monks crossed over - but the rift then collapsed catastrophically, trapping survivors and leaving a permanent dimensional scar.
+
+The monks also sent expeditions through a Fey crossing in the Veluthil Forest, far to the north ([[Kelmen and Popcorn Connections]]).
 
 ---
 
@@ -660,7 +661,7 @@ Kelmen grows quiet. Popcorn's pan flute hums—not played, just carried. Everyon
 
 **If the Luxon Beacon is visible:** Kelmen goes still; flickering slows.
 
-> *"Where did you find that? That… I have felt something like it only once before, in a Fey crossing deep beneath the Savalirwood. A fixed point. Something that holds the moment still while everything moves around it."*
+> *"Where did you find that? A fixed point. Something that holds the moment still while everything moves around it."*
 
 - He doesn't know its name or significance; he recognizes what it *does*
 - He does not connect it to the puzzle—that's for the players

@@ -24,7 +24,7 @@ Rifts keep opening across Wildemount. Every faction has a theory about what they
 
 > [!note]- DM Only: Fixed truths
 > - **Origin:** the [[Rupture of the Molaesmyr Fey Crossing]] is the origin of every rift. Only the DM knows this; no NPC or faction does, and neither does [[Ceratos]].
-> - **Origin isn't pattern:** size, plane, duration, and local effects are chaotic. Studying individual rifts reveals little, so every faction looking for a pattern ([[Vaud Qalix - DM|Qalix]]'s signatures, Emer's pulse) is chasing noise.
+> - **Location follows the ley lines; nothing else does.** The Rupture's damage travels along the ley lines from the Labyrinth's anchor, and rifts open where a line crosses a spot weakened by an older catastrophe ([[Rupture of the Molaesmyr Fey Crossing]]). Size, plane, duration and local effects are random, so factions studying individual rifts for a pattern ([[Vaud Qalix - DM|Qalix]]'s signatures, Emer's pulse) are chasing noise. Emer's ley-line hypothesis is close; she doesn't know the source.
 > - **Emer is an unreliable source:** [[Lady Emer's Research Notes]] rest on a handful of sites, and she presents assumptions as findings. Some of her claims happen to be true; none should be treated as reliable.
 > - **Closing a rift** requires the assembled Lorestone and an active Luxon Beacon together, plus ritual knowledge held by [[Aveqtaro Thaan]]. See [[Lorestone - Rift Closing Mechanics]].
 > - **Ceratos can't touch the rifts.** It works only through its warlock thralls, Qalix among them. Qalix has a Great Old One patron but doesn't know its identity and has no direct contact with it. To Qalix, the patron is simply where his power comes from.
@@ -35,8 +35,7 @@ Rifts keep opening across Wildemount. Every faction has a theory about what they
 <!-- Deliberately undecided. Let play, and player theories, settle these. -->
 
 - [ ] **Top priority: design the first Rendspawn encounter (the next major encounter).** It happens on the road about a day short of Zadash, not in the city, and Hesterian's Planar Awareness finds the rift. Rift size and site are left to the design. The party is level 8 and Gerald plans to level it to 9 afterward. The Rendspawn tier is CR 9, and the encounter should frighten the party and may kill a PC. The stat block and the "2-3 Rendspawn" guideline are being redesigned ([[Rendspawn Reference Note]]).
-- How the rupture spreads to distant sites. (The Deastok arc's "The Truth" assumes an Astral route; keep it or loosen it when that arc closes.)
-- How the party traces the rifts back to Molaesmyr
+- How the party gets a ley map to plot rifts on (Cadariel's map through [[Aveqtaro Thaan|Aveqtaro]], Emer's notes, or another source). The lines converge on Molaesmyr; "sees rifts' converging stream" fits.
 - Whether the rifts can be healed at the source, or only closed one at a time
 - What "moon's red wrath" in the verse refers to
 - How a Luxon Beacon, already fitted with a crude metal frame and handles, came to be buried beside the Savalirwood rift

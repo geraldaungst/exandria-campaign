@@ -18,8 +18,8 @@ tags:
 ### The Core Revelation (What Players Can Learn from Kelmen)
 
 1. **The stabilization requirement**—[[Brother Kelmen - DM|Kelmen]]'s research concluded that dimensional manipulation requires a stabilizing counterweight of equal and opposite resonance. Without it, any attempt to close or control a rift amplifies chaos instead of containing it. This is the key insight that cuts through the Echoforge/Cord faction dispute—both are partially right, and Kelmen's testimony explains why. *No faction currently knows this.*
-2. **The singing fragment**—During expeditions through the [[Savalirwood - DM]] Fey crossing (which was intact and active 300 years ago), the monks detected a resonant dimensional object *inside the Feywild itself*—not at the crossing, but deeper in. It emitted a harmonic resonance they noted but never understood. They could not locate or retrieve it before the monastery's catastrophe ended that line of research. Kelmen has carried this unfinished thread for 300 years.
-3. **The Molaesmyr echo**—Kelmen is aware of a second catastrophic failure in the Savalirwood region about 50 years after the monastery's disaster (585 PD). He doesn't know the details, but recognizes the parallel: someone else attempted dimensional manipulation without a stabilizing component, and it consumed an entire city. (*Connects to [[Rupture of the Molaesmyr Fey Crossing]] and Seraphina's storyline.*)
+2. **The singing fragment**: on expeditions through the [[Savalirwood - DM|Savalirwood]] Fey crossing (a natural crossing, still intact; Kelmen knows the forest as the Veluthil), the monks detected a resonant object deeper in the Feywild. It was Ilixidor Alo's shard, set on the Fey side of the Molaesmyr Fey Crossing about 520 PD (Shard 8). They never located it before the monastery's catastrophe (about 535 PD). Kelmen has carried this thread for 300 years.
+3. **The Molaesmyr echo**: in 585 PD, bound in the memorial chamber and still sensing planar flow, Kelmen felt one shock through the current from the north, far larger than his own failure. He doesn't know what it was or where. When the party names Molaesmyr, he recognizes the parallel: someone held a crossing open with nothing to steady it. Line: *"Some fifty winters after we fell, the current shook. Once, from the north. I did not know what had broken. Now I do."* (*Connects to [[Rupture of the Molaesmyr Fey Crossing]] and Seraphina's storyline.*)
 
 ---
 
@@ -34,7 +34,7 @@ This exchange is what unlocks his most valuable revelation: he synthesizes the p
 ### Shard 8—What Is Known (DM Only)
 
 - **Status:** Unknown to all parties. Schroedinger's Shard—existence confirmed in campaign design, location and details TBD.
-- **Location:** Hidden inside the Feywild, accessible via the Savalirwood Fey crossing.
+- **Location:** Hidden inside the Feywild, on the Fey side of the Molaesmyr Fey Crossing, reached safely through the Savalirwood Fey crossing.
 - **Kelmen's record:** The monks' research logs (possibly recoverable from the monastery) contain coordinates/directional notes toward the resonance they detected. Imprecise, but a real lead.
 - **Details to develop later:** Guardian, specific Feywild location, what adventure retrieving it entails.
 

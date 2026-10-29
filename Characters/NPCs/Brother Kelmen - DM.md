@@ -16,7 +16,7 @@ whereabouts: "[[Monastery of Dimensional Harmony - DM]]"
 > - **Location:** Spirit bound in [[Solvei's Vigilance]], the longbow Qilynn carries. Formerly the memorial chamber of [[Monastery of Dimensional Harmony - DM|the Monastery of Dimensional Harmony]].
 > - **Goal:** Complete what the monks began. Now that the ritual is done, to understand what the party is doing with the Lorestone and to share what he knows.
 > - **Attitude toward party:** Grateful. They stood as his witnesses.
-> - **Key knowledge:** Dimensional manipulation needs a stabilizing counterweight of equal and opposite resonance (no faction knows this). The monks detected a resonant object inside the Feywild. A second failure, about 50 years after the monastery's, matches the Molaesmyr collapse. Details: [[Kelmen and Popcorn Connections]].
+> - **Key knowledge:** Dimensional manipulation needs a stabilizing counterweight of equal and opposite resonance (no faction knows this). The monks detected a resonant object inside the Feywild. He felt a planar shock from the north in 585 PD; the party's word "Molaesmyr" names it for him. Details: [[Kelmen and Popcorn Connections]].
 
 # Description & Roleplay
 Firbolg monk of the Monastery of Dimensional Harmony, dead for about 300 years. Before the ritual he flickered between solid and translucent and spoke archaic Giant; the party needed a translator (Hesterian's Universal Speech, Seraphina's Comprehend Languages).
@@ -31,7 +31,7 @@ Firbolg monk of the Monastery of Dimensional Harmony, dead for about 300 years. 
 - Open: the Shard 8 lead and the stabilizing-counterweight revelation are released through him when the party discusses the Lorestone.
 
 > [!secret]- Hidden Information
-> - He carries the monks' unfinished research: a resonant object deep in the Feywild, reachable through the Savalirwood Fey crossing. The monks' logs may hold directional notes. This is the Shard 8 lead.
+> - He carries the monks' unfinished research: a resonant object deep in the Feywild, reachable through the Savalirwood Fey crossing, which he knows as the Veluthil crossing. The monks' logs may hold directional notes. This is the Shard 8 lead.
 > - Flute moment with Popcorn: the pan flute has been near a Fey crossing, and something there has listened to it for a long time. He doesn't know how he knows.
 > - On learning of the Lorestone he recognizes that the monks tried by technique what needed an artifact. See [[Kelmen and Popcorn Connections]].
 

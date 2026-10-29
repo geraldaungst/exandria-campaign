@@ -1,30 +1,40 @@
 ---
 aliases:
   - cataclysm
+  - Molaesmyr Fey Crossing
 tags:
   - location
-  - needs-work
   - world/exandria
 political_region:
-  - "[[Caes Mosor - Historical]]"
+  - "[[The Labyrinth]]"
 ---
 
-Almost 300 years ago, at the height of [[Ruins of Molaesmyr - DM|Molaesmyr]]'s grandeur, an elven sorcerer named [[Ilixidor Alo]] was exploring [[The Labyrinth]] beneath the tower of [[Caes Mosor - Historical]] with the goal of expanding it and finding new opportunities. Ilixidor discovered a previously unknown Fey Crossing in an underground cavern which led to a similar cavern in the Feywild. The parallel location was hidden below ground in the Feywild making it an ideal way to travel there without being discovered by authorities on either plane. The caverns on the Fey side of the Crossing were beneath a thick jungle at the joining of two rivers.
+# Quick Reference
+**Status:** Ruptured Fey Crossing deep in [[The Labyrinth]] beneath [[Caes Mosor - Today|Caes Mosor]]. Ruptured since 585 PD; passage kills most creatures.
+**Significance:** Origin of the Savalirwood curse and of every rift (DM only, [[Understanding the Rifts]]). [[Ilixidor Alo]]'s shard on its Fey side is [[Shard 8 - Feywild Shard|Shard 8]].
 
-Ilixidor assembled a team from the University to study the Crossing. He found powerful arcane magic energy concentrated on the Fey side of the portal, and sought a way to make it permanent so that the [[Ruins of Molaesmyr - DM|Molaesmyr]] University might benefit from studying and using it. He anchored it with a shard of the [[Lorestone of Eryndor - DM|Lorestone]], with no Luxon Beacon to stabilize it.
+# Description
+- **Material side:** an underground cavern in the Labyrinth, which was built on a ley anchor ([[The Labyrinth]]).
+- **Fey side:** a matching cavern below a thick jungle where two rivers meet. Its tunnels lead to the Feydark and, eventually, the fomorian city of Mag Tureah.
+- **Siphon:** the fomorians' cursed magic is drawn through to Exandria; Exandria's magic pours into the Feywild. Slow but steady.
+- **Harmonic rifts** fill the cursed region. Most last seconds and measure a few inches. Larger, longer ones let cursed fey and, now and then, creatures from other planes through into the Savalirwood. The curse also warps local plants and animals.
 
-What he did not know was that the caverns on the Fey side were ultimately connected with the Feydark and eventually the underground city of Mag Tureah. Ilixidor and his team never discovered this connection, but the Feydark was in fact the source of the magic.
+# What's Happening Now
+- Rifts are appearing larger and lasting longer. Erma Schnieb, a halfling mage from Uthodurn, is the first to notice: she believes she has found a portal in the Savalirwood to the Lower Planes. She is partly right; the rifts there lead to several planes. Left alone, the trend ends in catastrophe.
+- The [[Ring of Three]] approached Ludinus Da'leth of the [[Cerberus Assembly - DM]] for information about the cataclysm ([[Ruins of Molaesmyr - DM]]).
 
-In 585 PD, fomorians from Mag Tureah discovered the permanent portal. When they tried to step through to the material plane, the ancient curse that still haunts them reacted with the unstabilized Lorestone shard holding the crossing open, rupturing the Crossing further and causing the Cataclysm that began spreading the magical curse through [[Caes Mosor - Today|Caes Mosor]], then all of [[Ruins of Molaesmyr - DM|Molaesmyr]], and eventually the Veluthil Forest (later renamed the Savalirwood).
+# Secrets
+> [!secret]- DM Only
+> - **About 520 PD:** at the height of [[Ruins of Molaesmyr - DM|Molaesmyr]]'s grandeur, the elven sorcerer Ilixidor Alo, expanding the Labyrinth, found a previously unknown Fey Crossing. He brought a University team to study the arcane energy concentrated on the Fey side. To make the crossing permanent, he anchored it with a shard of the [[Lorestone of Eryndor - DM|Lorestone]], set on the Fey side, with no Luxon Beacon.
+> - He never learned that the Fey caverns connect to the Feydark, the true source of the magic.
+> - **About 525–535 PD:** firbolg monks of the [[Monastery of Dimensional Harmony - DM|Monastery of Dimensional Harmony]], entering the Feywild through the separate, natural Savalirwood Fey crossing, sensed the shard's resonance deeper in. They never found it ([[Kelmen and Popcorn Connections]]).
+> - **585 PD:** fomorians from Mag Tureah found the portal. When they tried to cross, their ancient curse reacted with the unstabilized shard and ruptured the crossing: the Cataclysm. The curse spread through Caes Mosor, then Molaesmyr, then the Veluthil Forest, renamed the Savalirwood. The shard stayed on the Fey side.
+> - **How the damage spreads:** the Rupture damaged the ley network at the Labyrinth's anchor, and the damage travels outward along the lines. A rift opens where a line crosses a spot already weakened by an older catastrophe, and it opens to the plane nearest there. Where rifts open follows the lines; size, plane, duration and effects are random.
+> - **Clue routes:** Emer's hypothesis (rifts at ley intersections weakened by past catastrophes) is close; she doesn't know the source. Rift sites plotted on Cadariel Ordo's ley map converge on Molaesmyr. Ilixidor's dated notebooks sit in a sealed room on Caes Mosor's level 6 ([[Caes Mosor - Today]]).
 
-The cataclysm caused the portal rupture to make passage extremely dangerous (most creatures that passed through afterwards were killed or disintegrated), but it has become a siphon of sorts drawing magical energy in both directions: the cursed magic from the fomorians is drawn through to Exandria while the pure magic of Exandria pours into the Feywild. The leak is slow but steady, and over 250 years the curse has spread widely through the Savalirwood.
+## Open Issues
+- [ ] How Ilixidor Alo came to hold a Lorestone shard, and what became of him and his team. ([[Ilixidor Alo]] is a planned note.)
+- [ ] Does the shard still hold the ruptured crossing open, and what would removing it do to the crossing and the curse? (Affects [[Cleanse the Savalirwood]].)
 
-Unfortunately for both planes, the rupture also tore a passage through to the Astral plane where it drifts the Astral Sea, occasionally colliding with color pools that create a temporary but direct connection from more distant planes.
-
-## Spreading Rifts
-
-The spread of the otherworldly magic in each plane has also resulted in the appearance of harmonic rifts in the region affected by the curse. The harmonic rifts are usually brief and small, lasting a few seconds and measuring no more than a few inches. Occasionally larger and longer-lasting rifts may occur, and it is through these that cursed fey creatures (and occasionally creatures from other planes via the Astral Sea) have come through and now roam the Savalirwood. The curse also affects local animal and plant life, corrupting and changing it.
-
-Recently, Erma Schnieb, a halfling mage from Uthodurn, believes she has found evidence of a portal in the Savalirwood that leads to the Lower Planes. (She is only partly correct, of course, since there are many that in fact lead to locations on several planes.) She does not know it yet, but she is the first to learn of this development that is the start of a shift in the harmonic rifts. They are appearing consistently larger and lasting longer and in time this will lead to catastrophe.
-
-Ludinus Da'leth of the [[Cerberus Assembly - DM]]has been approached by the [[Ring of Three]] seeking information about this cataclysm.
+## Connected Elements
+![[Related Notes.base]]

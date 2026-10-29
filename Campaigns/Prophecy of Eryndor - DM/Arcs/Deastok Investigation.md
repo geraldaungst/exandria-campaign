@@ -25,15 +25,15 @@ site: "[[Deastok]]"
 ## The Truth
 
 > [!secret]- What is actually going on
-> - The [[Rupture of the Molaesmyr Fey Crossing|Molaesmyr cataclysm]] tore a passage into the Astral Sea. The Astral touches other locations obliquely, so the corruption's reach was never strictly geographic—it can surface anywhere with its own latent planar sensitivity, however faint.
+> - The [[Rupture of the Molaesmyr Fey Crossing|Molaesmyr cataclysm]] damaged the ley network at the Labyrinth's ley anchor, and the damage travels along the lines. Its reach was never strictly local: it surfaces wherever a line crosses a spot with its own latent planar sensitivity, however faint.
 > - Deastok sits atop one such point: an old pre-Empire structure under farmland, recently uncovered by a survey crew, with a genuine but faint planar/Luxon-adjacent resonance. Dormant for centuries.
-> - **The dreams are not local in origin.** The thinning leaks Savalirwood imagery along the Astral. Deastok townspeople who have never left the Truscan Vale are dreaming a forest about 250 years and a continent away—*as it was*, not as it is now.
+> - **The dreams are not local in origin.** The thinning leaks Savalirwood imagery along the ley line. Deastok townspeople who have never left the Truscan Vale are dreaming a forest about 250 years and a continent away—*as it was*, not as it is now.
 > - The corruption has built for 250+ years, mostly sub-threshold. It is **only recently** crossing over—consistent with Erma Schnieb's discovery that rifts are growing larger and lasting longer. Nobody caused the acceleration. The wound is simply getting big enough to show.
 > - [[Vaud Qalix - DM]] is exploiting the trend, not causing it. [[Ceratos]] wants a way through and would speed the trend if it could, but lacks the leverage to do so directly—the party's interference has been working.
 > - **The party does not need to learn any of this explicitly.** They should leave with: (1) the dreams and the site are the same phenomenon, (2) it's old and larger than local legend, (3) the shards react to things that are not rifts, (4) Seraphina privately recognizes something personal in it. Full mechanism stays sealed.
 
 > [!secret]- What the dig site actually is (never stated to the party)
-> - A minor, long-forgotten **Ashari watch-post**—not one of the four major elemental rifts, but a secondary site monitoring a non-elemental (Astral/Far Realm-adjacent) thinning. The Ashari mandate does extend to occasional non-elemental planar incidents, which is why this existed at all.
+> - A minor, long-forgotten **Ashari watch-post**—not one of the four major elemental rifts, but a secondary site monitoring a non-elemental (Far Realm-adjacent) thinning. The Ashari mandate does extend to occasional non-elemental planar incidents, which is why this existed at all.
 > - **Why abandoned:** when the celestial solstice forced the split into four dedicated tribes, each consolidated around its assigned elemental rift. This post fell under no tribe's mandate, had never produced anything alarming, and was left behind in the reorganization—not attacked, just deprioritized until nobody remembered it.
 > - **Connection to the Riftguard:** the (unintroduced) Ashari Riftguard formed later to address exactly the non-elemental problems the four-tribe system was never built for. This site is an ancestor of their mission. A thread to pay off whenever the party meets them. *(See Open Issues.)*
 > - **The physical signature:** impossible geometry. The structure reads as an ordinary squared shape at a glance. It has five walls, every one at a right angle. See Scene 2.
@@ -324,7 +324,7 @@ Rock creatures attacked the party at the site. They roll into one another and me
 > *"You've seen a space like this before. Tell us where it was and how you came across it."*
 
 - [x] Let her define the location and circumstance. It doesn't need to match this footprint's configuration—**the impossible geometry is the throughline, not a floor plan.** The room behind the waterfall in the grotto where she used to meet with Elowyn.
-- [ ] Whatever she supplies becomes real, reusable canon. The same signature can recur anywhere Far Realm/Astral corruption touches physical construction.
+- [ ] Whatever she supplies becomes real, reusable canon. The same signature can recur anywhere Far Realm corruption touches physical construction.
 - [x] **If her answer lands near the Savalirwood,** the chain closes on its own: dreams → Savalirwood → site. Don't close it for her.
 - [ ] **If it lands somewhere unrelated,** that's fine—Fact 3 still has the watching presence. Don't steer her.
 
@@ -572,7 +572,7 @@ return RelatedArcs;
 
 - What does Aldous Penwrye decide on the morning of 28 Thunsheer: keep the site, backfill it, or hand it to a scholar?
 - Is the watch-post an ancestor of the [[Ashari Riftguard]] mission? The Truth says yes, and the existing Riftguard notes may conflict.
-- Where does the Astral passage lead, and can the party find a route to it? [[Understanding the Rifts]] carries the same question.
+- Which ley line links Deastok to Molaesmyr? Tracing it is one route back to the source ([[Understanding the Rifts]]).
 - What do the Truscans do with the two names the party gave them: [[Celunor's Collection - DM|Celunor]] and the [[Cerberus Assembly - DM|Cerberus Assembly]]?
 
 ## Connected Elements

@@ -45,7 +45,7 @@ Individual shards register as magic items. A holder within 1,000 feet of a plana
 
 #### The Molaesmyr Connection
 
-Almost 300 years ago, [[Ilixidor Alo]] used a Lorestone shard, with no Luxon Beacon, to hold the Fey Crossing beneath Molaesmyr open permanently. In 585 PD, when fomorians from Mag Tureah tried to cross, their curse reacted with the unstabilized shard and ruptured the Crossing: the Cataclysm that destroyed the city and created the cursed Savalirwood. This rupture is the origin of every rift (see [[Understanding the Rifts]]). What became of the shard is open.
+About 520 PD, [[Ilixidor Alo]] used a Lorestone shard, with no Luxon Beacon, to hold the Fey Crossing beneath Molaesmyr open permanently. In 585 PD, when fomorians from Mag Tureah tried to cross, their curse reacted with the unstabilized shard and ruptured the Crossing: the Cataclysm that destroyed the city and created the cursed Savalirwood. This rupture is the origin of every rift (see [[Understanding the Rifts]]). The shard stayed on the Fey side of the ruptured crossing: it is [[Shard 8 - Feywild Shard|Shard 8]].
 
 ### Known Locations
 

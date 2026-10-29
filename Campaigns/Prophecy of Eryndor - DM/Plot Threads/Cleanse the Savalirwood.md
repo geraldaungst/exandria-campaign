@@ -35,7 +35,7 @@ tags:
 ## Open Issues
 
 - [ ] How do the rifts connect to the corruption for the party? (The old Next Step: "Connect the rifts to the corruption in the Savalirwood".)
-- [ ] What would cleansing require? Closing rifts needs the assembled Lorestone and an active Luxon Beacon ([[Lorestone - Rift Closing Mechanics]]); whether the corruption ends when the rifts close is undecided.
+- [ ] What would cleansing require? Closing rifts needs the assembled Lorestone and an active Luxon Beacon ([[Lorestone - Rift Closing Mechanics]]); whether the corruption ends when the rifts close is undecided. Shard 8 may still hold the ruptured crossing open ([[Rupture of the Molaesmyr Fey Crossing]]).
 - [ ] What does Seraphina's patron want in the wood?
 - [ ] What triggers the thread: a destination, a Cord request, or Seraphina's own push?
 

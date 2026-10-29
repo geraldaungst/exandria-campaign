@@ -9,8 +9,8 @@ tags:
 
 ### Prophecy General Info
 
-> 1. Rifts have begun to appear across Wildemount. Some people believe these rifts are symbolic and have a pattern. They in fact are chaotic and random, and the efforts seeking to understand the patterns will ultimately prove fruitless.
-> 2. Deep beneath the [[Ruins of Molaesmyr - DM]] is a Fey Crossing. Almost 300 years ago, an elven sorcerer held it open permanently with a Lorestone shard, without a Luxon Beacon. In 585 PD the unstabilized crossing [[Rupture of the Molaesmyr Fey Crossing|ruptured]], destroying the city and most of its residents at the time.
+> 1. Rifts have begun to appear across Wildemount. Some people believe these rifts are symbolic and have a pattern. Where they open follows the ley lines from a single source. Otherwise they are chaotic and random, and efforts to find a pattern in their size, plane or behavior will prove fruitless.
+> 2. Deep beneath the [[Ruins of Molaesmyr - DM]] is a Fey Crossing. About 520 PD, an elven sorcerer held it open permanently with a Lorestone shard, without a Luxon Beacon. In 585 PD the unstabilized crossing [[Rupture of the Molaesmyr Fey Crossing|ruptured]], destroying the city and most of its residents at the time.
 > 3. A [[The Prophecy|prophecy]] exists (see below) that describes what many have interpreted to be three groups or factions that would arise and struggle for control of the rifts.
 > 4. The prophecy speaks of a "beacon" that will seal the rift. One group of scholars, the [[Obsidian Echoforge - DM]], believes that the [[Lorestone of Eryndor - DM]] itself is the beacon, and they are seeking to assemble the shards. (This group is the "Tree" of the prophecy.) (One of the passengers from Emon was a [[Aethor Kalisk - DM|member of this group]] and had a lead on someone in [[Port Damali - DM]] who may have more information about the location of a missing shard.)
 > 	- This group is partly correct--the Lorestone does need to be assembled, but it is not the beacon. It requires a [[Luxon Beacon Integration with Lorestone|Luxon Beacon]] to function properly to close rifts.

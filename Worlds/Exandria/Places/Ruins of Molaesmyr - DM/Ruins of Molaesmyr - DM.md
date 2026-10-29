@@ -32,7 +32,6 @@ Ludinus Da'leth, one of the survivors, is also a founding member of the [[Cerber
 > - A magically sealed room on Caes Mosor's level 6 holds [[Ilixidor Alo]]'s research notebooks.
 
 ## Open Issues
-- [ ] The dates here (250 years, 585 PD) wait on the Molaesmyr timeline retcon (Opus).
 - [ ] [[Cairel Ulthe]] has no note yet (planned).
 
 ## Connected Elements
