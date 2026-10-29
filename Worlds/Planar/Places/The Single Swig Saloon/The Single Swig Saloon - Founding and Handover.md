@@ -1,8 +1,8 @@
 ---
-aliases: []
 tags:
   - atomic
   - world/multiplanar
+aliases: []
 ---
 
 ## Founding and Handover

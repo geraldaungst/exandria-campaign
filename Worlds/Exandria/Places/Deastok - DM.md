@@ -5,7 +5,7 @@ tags:
   - world/exandria
 ---
 
-# Quick Reference
+## Quick Reference
 
 > [!quote]- What players know
 > ![[Deastok]]
@@ -13,7 +13,7 @@ tags:
 **Status:** Prosperous inland city in the Truscan Vale. The party has spent 27 Thunsheer 835 here ([[Session 49 - The Wheel, the Comb, and the Watchtower|Session 49]] to [[Session 53]]); [[Session 54 - Deastok Conclusion|Session 54]] closes the arc.
 **Significance:** A dormant planar thinning lies under Truscan farmland northeast of town: an old watch-post whose resonance warms Shard 6 and sends the town's dreamers the Savalirwood as it was. Torvald's inn and Bramwell are here. Detail: [[Deastok Investigation]].
 
-# Description
+## Description
 
 City in the Truscan Vale, Dwendalian Empire. Sister city to [[Kamordah]]. Sits on a hill bordering the Cyrengreen Forest, surrounded by fenced, segmented farmland. Population ~10,090 (60% human, 26% dwarf, 10% halfling, 4% other). Nominally led by Starosta Deter McGinneas; real power rests with the Truscan family. Single official temple, dedicated to Bahamut. Comfortable, affluent, quietly confident rather than showy.
 
@@ -31,11 +31,11 @@ City in the Truscan Vale, Dwendalian Empire. Sister city to [[Kamordah]]. Sits o
 >
 > **This is the party's first exposure to an Empire-wide routine, not a Deastok quirk.** Establish it clearly here; it recurs without re-explanation.
 
-# Places in Deastok
+## Places in Deastok
 
 > [!info] Boxed text and checklists for the places below were moved here unchanged from [[Deastok Investigation]], which embeds this section. The scenes, the clock and the dream timeline stay in the arc.
 
-## Jeweled Gates: arrival
+### Jeweled Gates: arrival
 
 > [!quote]- Boxed text: approaching the town
 > "The road climbs a last low rise, and the watchtower comes up first—a lone stone finger against the sky, a thin curl of smoke rising from a brazier at its top. Only as the road bends does the rest of the town appear below it: rooftops, smoke from a hundred chimneys, the glint of a distant fountain, and beyond the far edge of the fields, the dark line of the forest."
@@ -67,21 +67,21 @@ City in the Truscan Vale, Dwendalian Empire. Sister city to [[Kamordah]]. Sits o
 - [ ] [[Deastok|Crownsguard Barracks]]—present, one building among several, not the focal point.
 - [ ] **The statue**—the plaza's centerpiece.
 
-### The statue—Bahamut and Emperor Dwendal
+#### The statue—Bahamut and Emperor Dwendal
 
 Stone, weathered but well-kept. Gilded accents rather than full paint: gold leaf on the Emperor's regalia and crown, platinum on Bahamut's armor and draconic motifs. Bahamut in his paladin-warrior guise, arm-in-arm with a rendered Emperor Dwendal. Small gold-leafed canaries in flight around the pair.
 
 > [!quote]- Boxed text: the statue
 > "Two figures rise from the plaza's center in weathered stone, gilded where the light catches them—a towering armored form, wings folded, the Platinum Dragon shaped as a warrior, one gauntleted hand resting on the shoulder of a crowned man half his height. Small gold birds circle the pair in flight, one settled on the dragon's pauldron."
 
-## The Bahamut Temple
+### The Bahamut Temple
 
 The temple keeps the Empire at its threshold, not its heart. A small foyer nods to civic piety; past it, the sanctuary belongs entirely to the Platinum Dragon.
 
 > [!quote]- Boxed text: entering the sanctuary
 > "A carved relief in the foyer gives thanks for the Emperor's blessing over the city. Beyond the inner archway, platinum light falls through high windows onto a wide, quiet sanctuary. Frescoes wrap the walls in unbroken procession—dragons in flight, in battle, in council, no two alike. Gold scales catch the light again and again, but not only gold: a hammered bronze form grapples something clawed and shadowed near the eastern wall; a curl of silver watches over a council of mortals from the shadow of a painted mountain; brass wings spread wide above a battlefield strewn with banners; a deep warm copper shape rests coiled around a sleeping village."
 
-## Bursar Plaza
+### Bursar Plaza
 
 Central market and gathering space. The town's original core, gentrified into a countryside-getaway image for tourists and merchants. Dr. Wenna Alsott's practice is here. [[Shaded Bough]] sits on or just off the plaza.
 
@@ -97,11 +97,11 @@ Central market and gathering space. The town's original core, gentrified into a 
 - [ ] [[Shaded Bough]] visible if useful.
 - [ ] **The fruit-stall hook lands here.** See Scene 1.
 
-## Garden Grounds
+### Garden Grounds
 
 Old-money residential, parks, red-roofed on the working map. Deastok's genuine affluent locals—the quiet unperforming wealth the [[Shaded Bough]]'s tourist crowd assumes it has found. Jorun's house is here.
 
-## White Peak Inn
+### White Peak Inn
 
 Torvald's inn, in [[Deastok|Garden Grounds]] among the old-money residents it actually serves. A small sign on the door, no advertising. Known by the people who already know it's there. Torvald is Henrik Halsen's brother—Henrik being Marta's husband—which is why the comb went to him directly. [[Bramwell Bellweather]] is a known fixture.
 
@@ -123,22 +123,22 @@ Torvald's inn, in [[Deastok|Garden Grounds]] among the old-money residents it ac
 - [ ] Already in the room description—the stout, formally dressed man near the fire. No separate introduction. If asked about him: "Bramwell? Fixture, that one. Kamordah family, or was. Harmless."
 - [ ] **(Optional)** He can be overheard grumbling to Torvald about correspondence—"another letter, always wanting more, as if I've nothing better to do"—establishing a tedious obligation with zero specifics.
 
-## Shaded Bough
+### Shaded Bough
 
 The flashy tourist-facing inn, on or just off [[Deastok|Bursar Plaza]] for maximum visibility. Real Deastok gentry avoid it.
 
 > [!quote]- Boxed text: passing or entering
 > "A carved wooden sign in gilt lettering swings above the door: THE SHADED BOUGH—DEASTOK'S FINEST. A doorman in a crisp green coat greets everyone who approaches as 'my lord' or 'my lady' without asking. Inside, the common room is exposed beam and hanging lantern, a lute playing somewhere, every table full."
 
-## The Dig Site
+### The Dig Site
 
 Truscan-owned farmland northeast of town, a short walk or ride past the [[Deastok|Jeweled Gates]] checkpoint. Windmills stand around it, and a hole with a 30-foot drop lies past the exposed stone. See Scene 2. **Unnamed—name it only if it recurs.** No second Truscan household near it; simply Truscan fields, unconnected to any manor building.
 
-## Truscan Estate (Manor)
+### Truscan Estate (Manor)
 
 The large walled estate in the southwest near the forest edge—the actual seat of the Truscan family, separate from the northeastern dig site. See Scene 2 for Aldous Penwrye and the permission scene.
 
-# What's Happening Now
+## What's Happening Now
 
 - End of [[Session 53]]: the party has reported the dig site to the Truscans (framed as beneficial) and left its fate with them. They gave the names [[Celunor's Collection - DM|Celunor]] and the [[Cerberus Assembly - DM|Cerberus Assembly]], and were paid 50 pp.
 - Aldous Penwrye decides on the morning of 28 Thunsheer. Brynna's report is due at dawn.
@@ -147,20 +147,20 @@ The large walled estate in the southwest near the forest edge—the actual seat 
 - [[Torvald Halsen]] runs the inn. Grent Gnurlsotten's cheese courier line ends here ([[Gnurlsotten's Nosh & Nip - DM]]).
 - Next: the road east to [[Zadash - DM|Zadash]] ([[Hesterian Shyr's Infiltration]]).
 
-# Secrets
+## Secrets
 
 > [!secret]- DM Only
 > - [ ] The dig site is a forgotten Ashari watch-post for a non-elemental (Far Realm-adjacent) thinning, with five walls that all meet at right angles. It lies on a ley line from the Molaesmyr Rupture. Nothing watches in the field; the presence lives in the dreams and the stone. Full account: [[Deastok Investigation#The Truth]].
 > - [ ] Nobody in Deastok is lying. Zone of Truth shows nothing.
 > - [ ] Backfilling the field hides the masonry, not the resonance. A shard carried past it still warms ([[Deastok Investigation#Loss State]]).
 
-## Open Issues
+### Open Issues
 
 - [ ] What Aldous Penwrye decides about the site, and what the Truscans do with the two names the party gave them. Both are Open Issues on [[Deastok Investigation]].
 - [ ] Starosta Deter McGinneas and Prime Arbiter Sydnock Truscan (who lives in [[Rexxentrum - DM|Rexxentrum]]) have no notes. Write them if the party deals with the Truscans again.
 - [ ] No street map exists. Canon gives district names only, so the arc runs it as theater of the mind.
 - [ ] The dig site has no name. Name it only if it recurs.
 
-## Connected Elements
+### Connected Elements
 
 ![[Related Notes.base]]
