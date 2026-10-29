@@ -1,8 +1,4 @@
 ---
-tags:
-  - npc
-  - player-facing
-  - world/exandria
 aliases:
   - King Dwendal
   - King Bertrand
@@ -10,6 +6,10 @@ aliases:
 cssclasses:
   - world-exandria
 publish: true
+tags:
+  - npc
+  - player-facing
+  - world/exandria
 ---
 
 > [!info] Quick Reference

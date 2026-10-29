@@ -17,7 +17,7 @@ Conventions this module relies on:
 - **History** (append-only, newest last; the order in the note is the order shown):
   `- **25 Thunsheer 835** · holder · <span data-date="835-04-25" data-category="Lorestone" data-name="Shard 6: to Drawg">Taken from Dreyara's body.</span> · [[Drawg]] · at [[Some Place]] · [[Session 47]]`
   Fields are separated by ` · `: the date label in bold, the kind, the description, then any of: who (a link, or plain text such as `Party`), `at` plus a link or plain text, and a session link (any linked note tagged `session`). A dated line wraps its description in a Calendarium span, so it shows on the calendar; an undated line (`**Before the campaign**`) has plain text instead. Kinds: holder, moved, knows exists, knows where, wrong, pursuing, stopped, lines read, ruling, note. Only holder and moved lines change the current state; the others are the record.
-- **Current holder and location.** The holder is the who of the last holder line (History). The location is where the piece's `whereabouts` leads, read by the location core (`whereIs`): the place it names; a person it names, followed to that person's own `whereabouts`; or the party's location (from the last played session) when it leads to a PC. A piece with no `whereabouts` yet falls back to the old History rule until the migration ends: the party's location when the holder is a PC or the party; otherwise the `at` of the last holder or moved line after the holder changed; otherwise the holder's own deepest `place/…` tag. [[Artifact Change Form]] writes `whereabouts` whenever it records a holder or moved change.
+- **Current holder and location.** The holder is the who of the last holder line (History). The location is where the piece's `whereabouts` leads, read by the location core (`whereIs`): the place it names; a person it names, followed to that person's own `whereabouts`; or the party's location (from the last played session) when it leads to a PC. A piece with no usable `whereabouts` (none yet, or a loop) falls back to the History: the party's location when the holder is a PC or the party; otherwise the `at` of the last holder or moved line after the holder changed. The old last step, the holder's own `place/…` tag, was removed with the tags (2026-10-28). [[Artifact Change Form]] writes `whereabouts` whenever it records a holder or moved change.
 - **Whereabouts check** (check 10 of [[Location Engine Spec]]). `checkWhereabouts` compares `whereabouts` with the last History line, by the rule the change form writes it: a party holder means `whereabouts` must lead to a PC; a moved line after the holder means the place in its `at`; otherwise the holder's own note; otherwise (a holder with no note) the place in `at`. A difference is reported as a sentence naming both; a piece with no `whereabouts` is not reported here (the core's check 5 covers it). `usePieces` returns the sentence as `state.whereCheck` for each piece. It also sets `state.whereLoop` when the piece's `whereabouts` chain loops back on itself (the piece then falls back to the History rule, so the card says so).
 - **Who knows** (current state): `- [[Vaud Qalix - DM]] · where · note text · [[Session 25]]`. Levels: `exists` (knows it exists), `where` (knows where it is or who holds it), `wrong` (believes something false about it).
 - **Pursued by** (current state): `- [[Obsidian Echoforge - DM]] · how they go about it · [[Session 28]]`.
@@ -47,7 +47,7 @@ const CODES = [
   { key: "pursuing", code: "P", label: "pursuing" },
 ];
 
-/** Tag-safe form of a name: the rule the templates use for world/… and place/… tags. */
+/** Tag-safe form of a name: the rule the templates use for world/… tags. */
 const slug = (name) =>
   stripDmSuffix(name).trim().normalize("NFKD").replace(/[̀-ͯ]/g, "").toLowerCase()
     .replace(/&/g, " and ").replace(/['’`]/g, "").replace(/[^a-z0-9_]+/g, "-").replace(/^-+|-+$/g, "");
@@ -275,7 +275,7 @@ function pieceLines(number, parsed, original, modern) {
 // ── Current state ─────────────────────────────────────────────────
 
 /**
- * ctx: { resolve(target) → { path, name, tags } | null, partyLocation: ref | null, placeFor(tag) → location page | null (optional),
+ * ctx: { resolve(target) → { path, name, tags } | null, partyLocation: ref | null,
  * where() → { place, via, source, link } from the location core, or null when the piece has no `whereabouts` (optional) }.
  * A ref is { target, display } (a link) or { plain }. Resolved refs gain `.page`.
  */
@@ -293,7 +293,7 @@ const deepestUnder = (tags, prefix) => {
   return under.filter((t) => !under.some((o) => o.startsWith(t + "/")));
 };
 
-/** { holder, holderSince, location, locationSource: "party" | "holder" | "whereabouts" | "line" | "tag" | null, last } for a parsed piece. */
+/** { holder, holderSince, location, locationSource: "party" | "holder" | "whereabouts" | "line" | null, last } for a parsed piece. */
 function currentState(piece, ctx) {
   let holder = null;
   let holderSince = null;
@@ -318,12 +318,6 @@ function currentState(piece, ctx) {
   if (holder && isParty(holder) && ctx.partyLocation)
     return { holder, holderSince, location: withPage(ctx.partyLocation, ctx), locationSource: "party", last };
   if (at) return { holder, holderSince, location: withPage(at, ctx), locationSource: "line", last };
-  const place = holder?.page ? deepestUnder(holder.page.tags, "place")[0] : null;
-  if (place) {
-    const note = ctx.placeFor?.(place);
-    const location = note ? { target: note.path.replace(/\.md$/, ""), display: displayName(note.name), tag: place } : { plain: place.slice("place/".length).split("/").join(" / "), tag: place };
-    return { holder, holderSince, location, locationSource: "tag", last };
-  }
   return { holder, holderSince, location: null, locationSource: null, last };
 }
 
@@ -573,14 +567,6 @@ function usePieces(artifactSlug, partyLocation = null, inscription = {}) {
   return dc.useMemo(() => {
     const byPath = new Map(all.map((p) => [p.$path, { path: p.$path, name: p.$name, tags: tagsOf(p) }]));
     const pages = [...byPath.values()];
-    // A place tag's own note, for a holder whose location comes from their place tag: the location note carrying
-    // that tag whose name matches the tag's last part (places inside it may carry the same tag).
-    const places = new Map();
-    for (const p of pages) {
-      if (!p.tags.some((t) => t === c.tag_location || t.startsWith(c.tag_location + "/")) || p.path.startsWith(c.folder_player_wiki + "/")) continue;
-      for (const t of deepestUnder(p.tags, "place")) if (slug(p.name) === t.split("/").pop() && !places.has(t)) places.set(t, p);
-    }
-    const placeFor = (tag) => places.get(tag) ?? null;
     const locate = core ? makeLocator(core, partyLocation) : null;
     const original = originalPath ? parseInscription(texts[originalPath] ?? "") : null;
     const modern = modernPath ? parseInscription(texts[modernPath] ?? "") : null;
@@ -597,7 +583,7 @@ function usePieces(artifactSlug, partyLocation = null, inscription = {}) {
         };
         const parsed = parsePiece(texts[p.$path] ?? "", isSession);
         const ctx = {
-          resolve, partyLocation, placeFor, path: p.$path,
+          resolve, partyLocation, path: p.$path,
           where: locate ? () => locate.where(p.$path) : undefined,
           fileOf: (path) => app.vault.getAbstractFileByPath(path),
           entityPath: (file) => core.entityOf(file).file.path,

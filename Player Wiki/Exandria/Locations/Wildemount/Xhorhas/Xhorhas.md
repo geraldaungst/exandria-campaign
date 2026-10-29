@@ -1,14 +1,14 @@
 ---
-aliases: []
-cssclasses:
-  - world-exandria
-publish: true
 tags:
   - location
   - player-facing
   - world/exandria
+aliases: []
+cssclasses:
+  - world-exandria
 natural_region:
   - "[[Wildemount]]"
+publish: true
 ---
 
 > [!info] Quick Reference

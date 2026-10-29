@@ -124,7 +124,7 @@ const noteLink = (p, label) => <dc.Link link={p.page.$link?.withDisplay ? p.page
 
 function locationText(state) {
   if (!state.location) return null;
-  const hint = state.locationSource === "party" ? " (with the party)" : state.locationSource === "tag" || state.locationSource === "holder" ? " (holder's place)" : "";
+  const hint = state.locationSource === "party" ? " (with the party)" : state.locationSource === "holder" ? " (holder's place)" : "";
   return `${refMd(state.location)}${hint}`;
 }
 
