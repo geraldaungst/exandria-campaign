@@ -1,7 +1,12 @@
 ---
+site: "[[Cloudfang Keep - DM]]"
 tags:
   - campaign/eryndor
+  - encounter
+  - world/exandria
 ---
+
+*Used at the table in [[Session 32 - Confronting Lady Emer]]; the situation below is the prep state at that time.*
 
 ## CLOUDFANG KEEP & MONASTERY - DM GUIDE
 

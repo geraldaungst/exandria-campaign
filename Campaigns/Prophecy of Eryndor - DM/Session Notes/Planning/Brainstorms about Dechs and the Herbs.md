@@ -2,6 +2,7 @@
 tags:
   - copilot-conversation
   - campaign/eryndor
+  - world/exandria
 ---
 
 **user**: @vault Review everything known about the Myriad and its connection to Vaud Qalix.

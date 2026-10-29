@@ -1,6 +1,9 @@
 ---
+site: "[[Cyrios Mountains]]"
 tags:
   - campaign/eryndor
+  - encounter
+  - world/exandria
 ---
 
 *Use these when a random encounter rolls a result that has already been used as a set encounter*

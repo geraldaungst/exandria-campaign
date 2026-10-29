@@ -1,6 +1,9 @@
 ---
+site: "[[Cyrios Mountains]]"
 tags:
   - campaign/eryndor
+  - encounter
+  - world/exandria
 ---
 
 As the party travels through the dappled forest path in the foothills of the Cyrios Mountains, they come across a small clearing bathed in spring sunlight. In the center lies what appears to be an injured hippogriff, its wing bent at an unnatural angle. The creature has striking coloration - feathers in vibrant spring greens and soft pinks blend into a tawny-gold hindquarters. It watches the party approach with intelligent eyes that seem to shimmer with an unnatural luminescence.

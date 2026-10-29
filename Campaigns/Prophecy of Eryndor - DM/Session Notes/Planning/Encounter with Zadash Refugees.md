@@ -1,6 +1,9 @@
 ---
+site: "[[Cyrios Mountains]]"
 tags:
   - campaign/eryndor
+  - encounter
+  - world/exandria
 ---
 
 ## Cart 1 - The Halsen Family & Friends

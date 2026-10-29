@@ -4,6 +4,7 @@ cssclasses:
 tags:
   - needs-work
   - campaign/eryndor
+  - world/exandria
 ---
 
 | Title                        | Genre                      | Mood                    | BPM | Thematic elements                                                                                                                          |

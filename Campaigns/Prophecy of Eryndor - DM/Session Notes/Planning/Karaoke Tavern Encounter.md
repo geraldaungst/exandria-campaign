@@ -2,6 +2,8 @@
 tags:
   - needs-work
   - campaign/eryndor
+  - encounter
+  - world/exandria
 ---
 
 ## D&D Karaoke Night Competition Rules

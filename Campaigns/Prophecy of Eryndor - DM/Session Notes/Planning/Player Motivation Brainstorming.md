@@ -4,6 +4,8 @@ tags:
   - campaign/eryndor
 ---
 
+**Flagged for deletion 2026-10-29 (Gerald).**
+
 **user**: @vault My players need some motivation and need to feel some pressure to leave Port Damali and proceed with explorations in other parts of Wildemount. Give me ten ideas for increasing the stakes and creating urgency to move forward. In addition I would like three ideas to get the party to return to the Pudgy Pigeon tavern.
 
 [Timestamp: 2025/03/02 14:33:42]
