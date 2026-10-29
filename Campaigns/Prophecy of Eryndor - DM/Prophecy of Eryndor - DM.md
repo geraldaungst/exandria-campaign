@@ -1,9 +1,9 @@
 ---
-calendar: Exandrian Calendar
-status: active
 tags:
   - campaign-hub
   - campaign/eryndor
+calendar: Exandrian Calendar
+status: active
 timeline: "[[Eryndor Timeline]]"
 world: Exandria
 ---
