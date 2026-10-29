@@ -3,6 +3,7 @@ tags:
   - location
   - campaign/eryndor
   - world/exandria
+  - needs-work
 ---
 
 > [!quote]- What players know

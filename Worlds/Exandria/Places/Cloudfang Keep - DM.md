@@ -5,14 +5,22 @@ tags:
   - world/exandria
 ---
 
+## Quick Reference
 > [!quote]- What players know
 > ![[Cloudfang Keep]]
+
+**Status:** Lady Emer's keep on Frigid Summit (23,421 ft). Visited 19 Thunsheer 835.
+**Significance:** Base of [[Lady Emer - DM|Lady Emer]], who works for [[Vaud Qalix - DM]]. Site of [[Rescue Ilya's Brother]].
+
+## What's Happening Now
+- The party left on 19 Thunsheer 835. They bound and questioned Emer, freed [[Varnes Dwell - DM|Varnes]], and took the Temporal Resonance Crystal (the [[Luxon Beacon Integration with Lorestone|Luxon Beacon]]) and the "pearl of power" ([[Lawbearer's Tear]]). Drawg tamed the wyvern, Soft Things Run.
+- Emer stays in the library (E6) behind her guardians. Ra'ak flew back on the keep's gryphon (25–26 Thunsheer) and told her Dreyara is dead. Her reports go by bird to her handler in Zadash ([[Qalix's Network]]).
 
 When Lady Emer was human, she excelled as a scout in the mercenary Emissaries of the Sunfall. During her travels, she encountered a planar rift and became fascinated by the raw, chaotic energy it contained. She began experimenting with planar magic, seeking to understand its nature and harness its power. Her transformation into a medusa occurred during one of these early experiments with rift energy—though the exact circumstances remain unclear even to her, the memories fragmented and distorted by the very forces she was studying. Rather than reject what she became, she embraced the transformation as proof of her theories and a unique opportunity to understand how rift energy affects living beings from direct experience.
 
 Emer now seeks to master planar magic, driven by a thirst for knowledge and the potential for immense power. She believes the Lorestone shards are keys to unlocking the secrets of the planes and controlling the rifts that scar Exandria.
 
-[[Lady Emer - DM]] is a planar magic expert working with Vaud Qalix and Dreyara Drimvar. She uses [[Cloudfang Keep - DM]] as a base of operations for studying planar rifts and researching the Lorestone shards. She provides Qalix with arcane expertise and a secure location for experimentation.
+[[Lady Emer - DM]] is a planar magic expert working with Vaud Qalix and Dreyara Drimvar. She uses the keep as a base of operations for studying planar rifts and researching the Lorestone shards. She provides Qalix with arcane expertise and a secure location for experimentation.
 
 ## Keep Features
 
@@ -210,7 +218,7 @@ The statues in the garden are petrified individuals who failed Lady Emer's exact
 - **Gorith Tork** (orc blacksmith): Came seeking work repairing the keep, wandered into the wrong room and triggered a security measure
 - **Kaxor** (lizardfolk hunter): Failed assistant who kept contaminating specimens with improper handling
 - **Septima Vinculum** (kobold decanus): Became too frightened during fieldwork at a rift site and fled, abandoning critical equipment
-- **[[Varnes Dwell - DM|Varnes Dwell]]** (human tactician): Delivered to Lady Emer by Dreyara for interrogation about his knowledge; being held for Qalix rather than displayed as a failed assistant
+- **[[Varnes Dwell - DM|Varnes Dwell]]** (human tactician): Delivered to Lady Emer by Dreyara for interrogation about his knowledge; being held for Qalix rather than displayed as a failed assistant Freed by the party on 19 Thunsheer 835.
 - **Worjo** (minotaur devastator): Broke into the keep seeking treasure, destroyed several irreplaceable artifacts in the process
 - **Orgor** (Githzerai monk): Sent by concerned parties to investigate Lady Emer's "dangerous experiments," caught attempting sabotage"
 
@@ -439,3 +447,10 @@ Wand, Rare (Requires Attunement)
 This wand has 6 charges. While holding it, you can use an action to expend 2 of its charges to cast the lesser restoration spell from it, or 4 charges to cast the greater restoration spell from it.
 
 The wand regains 1d4 + 2 expended charges daily at dawn. If you expend the wand's last charge, roll a d20. On a roll of 1, the wand crumbles into dust and is destroyed.
+
+## Open Issues
+- [ ] Which guardians (owlbears, griffons, basilisks, oozes) survived 19 Thunsheer, and whether the six other statues were freed. The session notes do not record it.
+- [ ] Emer's next move is undecided (see [[Lady Emer - DM]]).
+
+## Connected Elements
+![[Related Notes.base]]
