@@ -21,7 +21,7 @@ Shard 6 of the [[Lorestone of Eryndor - DM|Lorestone of Eryndor]]. Hub: [[Lorest
 
 ## Pursued by
 
-- [[Obsidian Echoforge - DM|Obsidian Echoforge]] · through Aethor, who told the party it must be recovered · [[Session 28 - Back at Harmony Hall|Session 28]]
+- [[Obsidian Echoforge - DM|Obsidian Echoforge]] · through Aethor, who told the party it must be recovered · [[Session 30 - Back at Harmony Hall|Session 30]]
 - [[Vaud Qalix - DM|Vaud Qalix]] · personal · lost it with Dreyara's death; his response is undecided ([[Qalix's Network]])
 
 ## Open questions
@@ -43,11 +43,11 @@ Shard 6 of the [[Lorestone of Eryndor - DM|Lorestone of Eryndor]]. Hub: [[Lorest
 - **Shortly before 4 Thunsheer 835** · moved · Arrived in Port Damali aboard the *Wavechaser*. · at [[Port Damali - DM|Port Damali]]
 - **Shortly before 4 Thunsheer 835** · holder · Collected at the docks by Calderax for his mentor [[Aelorin Nightshade]]; Calderax then told his Echoforge contacts, who sent Aethor. · [[Calderax Dunhall]] · at [[Port Damali - DM|Port Damali]]
 - **Shortly before 4 Thunsheer 835** · holder · Stolen from Calderax's room; a rift opened at the docks an hour or two after he left with it. · [[Dreyara Drimvar - DM|Dreyara Drimvar]] · at [[Port Damali - DM|Port Damali]]
-- **4 Thunsheer 835** · knows exists · <span data-date="835-04-04" data-category="Lorestone" data-name="Shard 6: missing from Calderax's room">The party learns the shard is missing from Calderax's room; Dreyara likely framed him.</span> · Party · [[Session 25 - Interrogating Calderax|Session 25]]
-- **5 Thunsheer 835** · note · <span data-date="835-04-05" data-category="Lorestone" data-name="Shard 6: verse in the safehouse">Papers in the abandoned Emissaries safehouse quote part of its verse: "loom in twilight's reach as cosmic".</span> · Party · [[Session 26 - Investigating the Abandoned Safehouse|Session 26]]
+- **4 Thunsheer 835** · knows exists · <span data-date="835-04-04" data-category="Lorestone" data-name="Shard 6: missing from Calderax's room">The party learns the shard is missing from Calderax's room; Dreyara likely framed him.</span> · Party · [[Session 26 - Interrogating Calderax|Session 26]]
+- **5 Thunsheer 835** · note · <span data-date="835-04-05" data-category="Lorestone" data-name="Shard 6: verse in the safehouse">Papers in the abandoned Emissaries safehouse quote part of its verse: "loom in twilight's reach as cosmic".</span> · Party · [[Session 27 - Investigating the Abandoned Safehouse|Session 27]]
 - **5 Thunsheer 835** · moved · <span data-date="835-04-05" data-category="Lorestone" data-name="Shard 6: Dreyara heads north">Dreyara leaves Port Damali for Cloudfang Keep with the shard.</span> · [[Dreyara Drimvar - DM|Dreyara Drimvar]] · at [[Cloudfang Keep - DM|Cloudfang Keep]]
-- **6 Thunsheer 835** · knows where · <span data-date="835-04-06" data-category="Lorestone" data-name="Shard 6: spy says Dreyara has it">A captured spy says Dreyara is heading north with an artifact important to her employer.</span> · Party · [[Session 28 - Back at Harmony Hall|Session 28]]
-- **6 Thunsheer 835** · pursuing · <span data-date="835-04-06" data-category="Lorestone" data-name="Shard 6: Aethor wants it back">Aethor tells the party the missing shard must be recovered.</span> · [[Aethor Kalisk - DM|Aethor Kalisk]] · [[Session 28 - Back at Harmony Hall|Session 28]]
+- **6 Thunsheer 835** · knows where · <span data-date="835-04-06" data-category="Lorestone" data-name="Shard 6: spy says Dreyara has it">A captured spy says Dreyara is heading north with an artifact important to her employer.</span> · Party · [[Session 30 - Back at Harmony Hall|Session 30]]
+- **6 Thunsheer 835** · pursuing · <span data-date="835-04-06" data-category="Lorestone" data-name="Shard 6: Aethor wants it back">Aethor tells the party the missing shard must be recovered.</span> · [[Aethor Kalisk - DM|Aethor Kalisk]] · [[Session 30 - Back at Harmony Hall|Session 30]]
 - **25 Thunsheer 835** · holder · <span data-date="835-04-25" data-category="Lorestone" data-name="Shard 6: looted by Qilynn">Qilynn loots it from Dreyara's body outside the monastery's rear entrance, wrapped in cloth in a pouch.</span> · [[Qilynn Duskwhisper - Nicole|Qilynn]] · at [[Monastery of Dimensional Harmony - DM|Monastery of Dimensional Harmony]]
 - **25 Thunsheer 835** · holder · <span data-date="835-04-25" data-category="Lorestone" data-name="Shard 6: to Drawg">Qilynn hands it to Drawg, who keeps it in the Bag of Holding.</span> · [[Drawg Stormbrew - Brew|Drawg]]
 - **26 Thunsheer 835** · knows where · Ra'ak tells Lady Emer at Cloudfang that the party took the shard from Dreyara's body. · [[Lady Emer - DM|Lady Emer]]

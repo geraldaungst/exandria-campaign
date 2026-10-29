@@ -1,7 +1,11 @@
 ---
+session_number: 0.2
 tags:
   - campaign/eryndor
+  - session
 ---
+
+Played before Session 1; the date was not recorded.
 
 [[Qilynn Duskwhisper - Nicole]]
 
@@ -19,7 +23,7 @@ The PCs sneak into unused storage successfully at first. They hear odd animal so
 
 Pursuing the creature may lead them into other parts of the ship where they have to either fake their way past crew or passengers, or stay hidden. The animal will get into trouble; one or more of the following:
 
-- [ ] The [monkey](obsidian://open?vault=D%26D%20Compendium&file=bestiary%2Ftwo-headed-etcheda-monkey) attempts to drag off a crew member up into the rigging. It will maul the helpless sailor if not scared off or defeated quickly. Need to rescue them!
+- [ ] The [[two-headed-etcheda-monkey|monkey]] attempts to drag off a crew member up into the rigging. It will maul the helpless sailor if not scared off or defeated quickly. Need to rescue them!
 - [ ] It sneaks into the first-class passenger area, flashing its crystals and overturning furnishings, breaking glass. Well-dressed nobles flee in a hilarious panic from the bizarre creature.
 - [ ] The [[Guzezzik|ship's cook]] screams from the galley about a devilish beast trying to steal meat cleavers and hot pans to attack with. The monkey shows unexpected tool use intelligence.
 - [ ] It swipes a passenger's expensive hat, returning to perch on top of a swaying mast while playfully tossing the coveted headpiece back and forth between its heads. How to get it back?
@@ -50,7 +54,7 @@ This could resolve in multiple ways:
 
 ## NPCs
 
-[Two-headed Etcheda Monkey](obsidian://open?vault=D%26D%20Compendium&file=bestiary%2Ftwo-headed-etcheda-monkey)
+[[two-headed-etcheda-monkey|Two-headed Etcheda Monkey]]
 
 [[Lady Triotta Thessaly]]
 

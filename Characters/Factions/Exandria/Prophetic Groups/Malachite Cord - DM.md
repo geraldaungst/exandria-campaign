@@ -115,7 +115,7 @@ Leader: [[Rinneth Starsong - DM]]
 
 ### Recent Events
 
-Group 2 on the [[Sessions 1 to 3 - The Skyship|Skyship]].
+Group 2 on the [[Session 1 - The Skyship|Skyship]].
 
 ### Ongoing Conflicts
 

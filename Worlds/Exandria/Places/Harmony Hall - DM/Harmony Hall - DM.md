@@ -34,7 +34,7 @@ tags:
 - They saw Grisul, who seemed happier and on the up-and-up. Something big happened after Hesterian's murder, but Annah would not talk about it.
 - The party stayed for a dinner theater show. As far as Annah knows, nobody else recognized Hesterian.
 - Hesterian went back to confront Grisul. Later Grisul died, and Annah was given the establishment ([[Party Notes]]).
-- Drawg hired Sargenta Barrelcrest as guard and bartender, and two paladins stand guard outside ([[Session 28 - Back at Harmony Hall]]).
+- Drawg hired Sargenta Barrelcrest as guard and bartender, and two paladins stand guard outside ([[Session 30 - Back at Harmony Hall]]).
 
 # Secrets
 

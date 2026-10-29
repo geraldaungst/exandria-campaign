@@ -29,7 +29,7 @@ Attractive woman, lean and moderately muscular. Large tan jacket, well-kept copp
 
 ## Current Situation
 
-Recently returned from the Whitestone festival via the [[Sessions 1 to 3 - The Skyship|Unshaken]], where she was selling Cithrel Textiles goods as cover. Followed [[Aethor Kalisk - DM]] around [[Port Damali - DM]], gathering intelligence on his activities. Now stationed at [[Shrine of Melora - DM|The Shrine of Melora]] reporting to [[Rinneth Starsong - DM]].
+Recently returned from the Whitestone festival via the [[Session 1 - The Skyship|Unshaken]], where she was selling Cithrel Textiles goods as cover. Followed [[Aethor Kalisk - DM]] around [[Port Damali - DM]], gathering intelligence on his activities. Now stationed at [[Shrine of Melora - DM|The Shrine of Melora]] reporting to [[Rinneth Starsong - DM]].
 
 **Immediate plans:** Recover [[Radelia's Leather Satchel]], then return home to [[Odessloe]].
 

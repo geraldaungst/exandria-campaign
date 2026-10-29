@@ -54,13 +54,13 @@ tags:
 > - [ ] The rift is still open and will cause a problem in the future.
 > - [ ] The crypt holds evidence of wrongful executions. The executed Ki'Nau were innocent: Tāwhiri, Whetū, Kura and Awhina.
 > - [x] Key evidence: [[Journal of Solan Taku]] and an obsidian warhammer. The party took both.
-> - [ ] The warhammer is Grovelthrash, one of the Arms of the Betrayer.
+> - [ ] The warhammer is Grovelthrash, one of the Arms of the Betrayer (an artifact of Torog). The ultroloth Ciria lives inside it and answered Drawg's ritual in [[Session 6 - Cleansing the Temple of Moradin]].
 > - [ ] The temple will need a redesign to honor the Ki'Nau dead.
 
 ## Open Issues
 
 - [ ] The names. The session notes name the executed as Tāwhiri, Whetū, Kura and Awhina. The four coffins the party read were Kaihoko, Tāwhiri, Rangimarie and Whetū. Pick one set.
-- [ ] Drawg's ritual named the hammer "Ciria" (player notes). The vault says Grovelthrash. Decide which name stands and who holds the hammer now.
+- [ ] Who holds Grovelthrash now. The party took it in [[Session 6 - Cleansing the Temple of Moradin]]; no note records the holder.
 - [ ] Whether the party read the journal as proof of innocence, and what the Ki'Nau were told.
 - [ ] What comes through the rift next, and when. No Plot Thread tracks it ([[Understanding the Rifts]]).
 

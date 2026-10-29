@@ -1,8 +1,7 @@
 ---
 date: 2025-02-16
-next_session:
-previous_session:
-session_number:
+previous_session: "[[Session 22 - Raid on Aelorin's Headquarters]]"
+session_number: 23
 tags:
   - campaign/eryndor
   - session
@@ -14,41 +13,6 @@ tags:
 > - Location(s): [[Port Damali - DM]]
 > - Active Plots: [[Restore Draconia]], [[Assembling the Lorestone]]
 > - Key NPCs: [[Dreyara Drimvar - DM|Dreyara]]
-> - Previous Session: [[Session 22 - Raid on Aelorin's Headquarters]]
-> - Next Session: [[Session 24 - Gorillafish Attack]]
-
-## Pre-Session Review (30-45 min)
-
-### Previous Content
-
-- [ ] Read previous session notes
-- [ ] Check [[Seeds Planted]]
-- [ ] Review active plot threads
-- [ ] Note character goals/interests
-- [ ] Check faction moves/timelines
-
-### Current Status
-
-#### Active Plots
-
-- Plot name:
- - Current state:
- - Next developments:
- - Involved NPCs:
-
-#### PC Situations
-
-- Character name:
- - Current goals:
- - Unresolved elements:
- - Key relationships:
-
-#### Faction Status
-
-- Faction name:
- - Recent actions:
- - Planned moves:
- - NPC involvement:
 
 ## Session Prep (1-2 hours)
 
@@ -56,7 +20,6 @@ tags:
 
 - Opening scene: Players are following [[Dreyara Drimvar - DM|Dreyara]] through the streets of Port Damali.
 - Purpose: Party wants to find out what she is up to.
-- Connected plots:
 - Required prep: Encounter with the Slaadi
 
 ### Core Content
@@ -112,81 +75,11 @@ If "strangers" appear:
 - Context: Dreyara's contact has been murdered and the slaad are still in the area
 - Objectives: Kill the Slaadi, locate the portal through which they arrived, and protect it.
 
-## Session Notes
+## Where we left off
 
-### Timeline
-
-### Significant Changes
-
-- [ ] NPC status/location changes
-- [ ] New relationships formed
-- [ ] Plot developments
-- [ ] Location changes
-- [ ] Faction moves
-
-### Player Choices & Seeds
-
-- Choice made:
-- Potential consequences:
-- Future hooks:
-
-## Post-Session Processing
-
-### Required Updates
-
-- [ ] Update NPC locations/status
-- [ ] Note faction changes
-- [ ] Record plot developments
-- [ ] Update location states
-
-### Atomic Notes Needed
-
-- [ ] New facts discovered
-- [ ] Relationships changed
-- [ ] Status updates needed
-- [ ] Plot elements revealed
-
-### Review and update
-
-- [ ] Relationship notes
-- [ ] Plot threads
-- [ ] Location states
-- [ ] NPC goals
-
-### Clean up
-
-- [ ] Remove outdated status info
-- [ ] Consolidate redundant notes
-- [ ] Update broken links
-- [ ] Add missing connections
-
-### Next Session Planning
-
-#### Likely Next Steps
-
-Consider:
-
-- Immediate player goals stated:
-- Time-sensitive plot elements:
-- Faction reactions:
-- NPC responses:
-- Location/situation changes:
-- Unresolved tensions:
-- Player expressed interests:
-
-#### Prep Priority
-
-4. Must Have
-  - Critical NPCs/locations:
-  - Active plot developments:
-  - Immediate consequences:
-
-5. Should Have
-  - Alternate paths:
-  - Faction/NPC reactions:
-  - New location details:
-
-6. Could Have
-  - Side content:
-  - Background developments:
-  - Optional encounters:
+- **Party location:** The hidden space beneath the tailor shop
+- **What happened:**
+	- Hesterian followed the dwarf. Drawg and Qilynn followed a woman (early thirties, braid, scar under one eye, green tunic, dagger on her arm) who vanished with a scroll
+	- In the tailor shop's back room a formal suit has a note for Korfel Withrethin, crossed out: "left town and not coming back"
+	- The party broke into the space below and disabled traps. Two guards lie dead from a curved blade, with a hurried blood trail and bloody footprints into two doors. Two doors south and one north are still unopened
+	- The south door with the stitch pattern is Aelorin's room (saved for later). Qilynn opened the other south room: austere quarters with crates and trunks

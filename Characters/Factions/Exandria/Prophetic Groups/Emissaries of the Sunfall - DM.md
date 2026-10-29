@@ -150,7 +150,7 @@ The Massacre had profound internal consequences:
 - Maintenance of peaceful facade with [[Obsidian Echoforge - DM]]
 - Secret monitoring of [[Obsidian Echoforge - DM]] activities
 - Covert acquisition of artifacts when possible
-- [[Sessions 1 to 3 - The Skyship]] operation (unknown to most members)
+- [[Session 1 - The Skyship|Sessions 1 to 3]] operation (unknown to most members)
 
 ### Ongoing Conflicts
 

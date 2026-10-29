@@ -1,6 +1,10 @@
 ---
+date: 2024-06-23
+previous_session: "[[Session 5 - Tracking Yrene]]"
+session_number: 6
 tags:
   - campaign/eryndor
+  - session
 ---
 
 ## Arrive at Plot
@@ -94,3 +98,13 @@ Rangimarie (RAHN-gee-mah-ree-ay) - Meaning "peace" or "serenity."
 Kaihoko (kai-HO-ko) - A name meaning "seeker" or "traveler."
 
 ## [[Seeds Planted]]
+
+## Where we left off
+
+- **Party location:** The crypt under the [[New Temple of Moradin - DM|New Temple of Moradin]], in the last chamber, where a rift opens from a hole in the floor
+- **What happened:**
+	- Burning the deck of cards in the cauldron left a soot-covered white cat that coughed up the key. Beyond the door a Ki'Nau mural of a trial, four condemned criminals drowned by the sea, and their victims at peace
+	- Four coffins in the hall bear the names Kaihoko, Tāwhiri, Rangimarie and Whetū. The ghoul cat (Sootsprite) waited beyond them; Drawg returned it to the beyond, which upset Hesterian
+	- Seven coffins stand on a platform with the [[Journal of Solan Taku]] and a warhammer of black stone. A ritual let Drawg talk to the hammer: it is evil, and it gave the name Ciria, the ultroloth that lives inside Grovelthrash. The party took both
+	- Ghouls came out of the coffins and were dispatched. The group stopped at the last chamber
+	- A creature came through the rift; only Seraphina had seen its kind before

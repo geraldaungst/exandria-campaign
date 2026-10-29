@@ -117,7 +117,7 @@ For the complete 400-year history of how these name changes reflect the organiza
 
 ### Recent Events
 
-- [[Sessions 1 to 3 - The Skyship]] involving [[Aethor Kalisk - DM]]
+- [[Session 1 - The Skyship|Sessions 1 to 3]] involving [[Aethor Kalisk - DM]]
 
 ## Historical Events
 

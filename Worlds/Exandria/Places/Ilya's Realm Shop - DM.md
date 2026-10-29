@@ -9,7 +9,7 @@ tags:
 > [!quote]- What players know
 > ![[Ilya's Realm Shop]]
 
-**Status:** High-end magic shop in Port Damali, owned by [[Ilya the Sorceress - DM|Ilya]]. The party has shopped here and Drawg has custom items still in the works ([[Session 28 - Back at Harmony Hall]]).
+**Status:** High-end magic shop in Port Damali, owned by [[Ilya the Sorceress - DM|Ilya]]. The party has shopped here and Drawg has custom items still in the works ([[Session 30 - Back at Harmony Hall]]).
 **Significance:** Ilya asked the party to find her brother Varnes. Once he reaches Port Damali she Sends to the party and offers an item at cost ([[Rescue Ilya's Brother]]).
 
 # Description
@@ -32,7 +32,7 @@ tags:
 # What's Happening Now
 
 - The party's purchases are ticked in the stock list under Secrets (ticked means sold to the party).
-- Ilya is holding custom commissions for Drawg ([[Session 28 - Back at Harmony Hall]]).
+- Ilya is holding custom commissions for Drawg ([[Session 30 - Back at Harmony Hall]]).
 - Varnes is free and on his way back. Ilya's reunion with him is about 7 Unndilar 835 (estimated).
 
 # Secrets

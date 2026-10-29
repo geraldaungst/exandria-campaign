@@ -1,13 +1,12 @@
 ---
+arc: "[[Aethor Kalisk's Secret Mission]]"
+date: 2024-09-01
+previous_session: "[[Session 8]]"
+session_number: 9
 tags:
   - campaign/eryndor
+  - session
 ---
-
-## Characters
-
-- [ ] Review the characters
-- [ ] Review the [[Seeds Planted]] list
-- [ ] Review notes from last session
 
 ## Strong Start
 
@@ -84,3 +83,12 @@ Simple iron-banded chest
 	- Zux
 	- Alug
 	- Mugor
+
+## Where we left off
+
+- **Party location:** [[Port Damali - DM]], shopping before the road trip
+- **What happened:**
+	- Hesterian went to Harmony Hall: two guards outside the door and three at her room day and night because she spooked the proprietress. A new show opens next Wednesday
+	- Aethor will front the money for supplies if the Bag of Holding comes back at the end. Ildrix's Marvels asked 1,400 gp for a vintage Bag of Holding (market value about 1,000); they settled at 900 gp for the bag and a mirror
+	- The owner of Celunor's Collection will search for the sword Drawg wants for his scabbard for 10,000 gp (50 gp deposit on research; 500 gp for all of it)
+	- Laucian and Qilynn have homework before they leave

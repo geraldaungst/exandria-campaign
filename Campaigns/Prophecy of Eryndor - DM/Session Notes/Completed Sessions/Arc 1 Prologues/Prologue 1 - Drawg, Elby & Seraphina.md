@@ -1,7 +1,11 @@
 ---
+session_number: 0.1
 tags:
   - campaign/eryndor
+  - session
 ---
+
+Played before Session 1; the date was not recorded.
 
 Characters:
 

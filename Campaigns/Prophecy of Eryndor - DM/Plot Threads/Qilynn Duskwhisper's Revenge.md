@@ -14,7 +14,7 @@ tags:
 
 - Qilynn planned the artifact heist herself, to win back Aelorin's favor. Security she hadn't been briefed on was in place, and the artifact's location and the guards' shifts differed from what she had researched.
 - She first suspected Yrene, a full elf who trained under Aelorin alongside her and was his favorite.
-- In Sessions 7 and 8 Yrene told her Eledyr, another of Aelorin's trainees, framed her. Yrene says she found disguised notes in Eledyr's handwriting about the changes to the artifact's location and the extra security, that the guard shifts were changed at the last minute, and that unfamiliar faces were among the guards.
+- In Session 5 Yrene told her Eledyr, another of Aelorin's trainees, framed her. Yrene says she found disguised notes in Eledyr's handwriting about the changes to the artifact's location and the extra security, that the guard shifts were changed at the last minute, and that unfamiliar faces were among the guards.
 - Yrene says Calderax's job was a distraction to draw guards away, and that Eledyr's interference sent it to the wrong guards.
 - Yrene and Qilynn agreed to work together to clear Qilynn's name. Qilynn promised not to kill Eledyr.
 - Eledyr has been asking too many questions about the prophecy.
@@ -49,7 +49,7 @@ tags:
 
 ### Reference Notes
 
-- [[Qilynn Duskwhisper - Nicole#Goals]], [[Sessions 7 & 8 - Tracking Yrene]]
+- [[Qilynn Duskwhisper - Nicole#Goals]], [[Session 5 - Tracking Yrene]]
 - [[Eledyr Dephar]] (his silver dagger marks his Clasp status), [[Yrene Shadowthorn]], [[Aelorin Nightshade]]
 - [[Port Damali - DM]], [[Harmony Hall - DM]] (a possible place for quiet talks)
 

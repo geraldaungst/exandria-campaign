@@ -9,7 +9,7 @@ tags:
 > [!quote]- What players know
 > ![[Port Damali]]
 
-**Status:** Largest city on the Menagerie Coast. The party arrived by skyship in Sessions 4 and 5, stayed at [[The Pudgy Pigeon - DM]], and left for Cloudfang Keep after Session 28 ([[Session 32 - Traveling to Cloudfang]]). They keep three rooms at [[Harmony Hall - DM]] and are in Deastok now.
+**Status:** Largest city on the Menagerie Coast. The party arrived by skyship in Session 4, stayed at [[The Pudgy Pigeon - DM]], and left for Cloudfang Keep after Session 31 ([[Session 32 - Traveling to Cloudfang]]). They keep three rooms at [[Harmony Hall - DM]] and are in Deastok now.
 **Significance:** [[Hesterian Shyr - Dot|Hesterian]] was murdered here. The Clasp and the Myriad work the city, and the Echoforge's field agent [[Aethor Kalisk - DM]] is based here. Three threads bring the party back: [[Hesterian Shyr's Infiltration]], [[Qilynn Duskwhisper's Revenge]] and the reunion of Ilya and Varnes ([[Rescue Ilya's Brother]]).
 
 # Description
@@ -18,13 +18,13 @@ The player page covers the city: districts, the marquis, the Myriad's hold on th
 
 - [[Harmony Hall - DM]]: dinner theater in the former brothel Coriander & Mallow. The party's lodging.
 - [[The Pudgy Pigeon - DM]]: inn and tavern where the party first stayed, and where Aethor met Drawg.
-- [[Gilded Pearl Tavern]]: where Yrene meets informants ([[Sessions 7 & 8 - Tracking Yrene]]).
+- [[Gilded Pearl Tavern]]: where Yrene meets informants ([[Session 5 - Tracking Yrene]]).
 - [[Ilya's Realm Shop - DM]]: high-end magic shop.
 - [[New Temple of Moradin - DM]]: in the northwest Crescents, near the skyport.
 - [[Celunor's Collection - DM]]: bookshop near the docks.
 - [[Aelorin's Headquarters - DM]]: the Clasp's base beneath Evaldo's Elegant Attire.
 - [[Cobalt Soul Archive in Port Damali - DM]]: library and archive.
-- [[Abandoned Emissaries Safehouse]]: townhouse in the Tumbledowns ([[Session 26 - Investigating the Abandoned Safehouse]]).
+- [[Abandoned Emissaries Safehouse]]: townhouse in the Tumbledowns ([[Session 27 - Investigating the Abandoned Safehouse]]).
 - Player page only: [[Pearl Shrine]] (Crescents) and [[Staff and Scimitar]] (dockside, Larboard Light).
 - The tavern where Hesterian and Xanaphia were killed is not named ([[Port Damali Murders]]).
 

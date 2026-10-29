@@ -1,7 +1,11 @@
 ---
+session_number: 0
 tags:
   - campaign/eryndor
+  - session
 ---
+
+Played before Session 1; the date was not recorded.
 
 ## Group Teambuilding
 

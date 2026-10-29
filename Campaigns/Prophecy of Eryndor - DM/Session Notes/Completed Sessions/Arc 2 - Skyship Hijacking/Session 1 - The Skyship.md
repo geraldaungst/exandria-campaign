@@ -1,13 +1,10 @@
 ---
+date: 2024-04-14
+session_number: 1
 tags:
   - campaign/eryndor
+  - session
 ---
-
-## Characters
-
-- [ ] Review the characters
-- [ ] Review the Foreshadowing list
-- [ ] Review notes from last session
 
 ## Strong Start
 
@@ -118,4 +115,12 @@ Depending on where they land, the characters will find things to do there to get
 
 ## Treasure
 
-### Session Notes
+## Where we left off
+
+- **Party location:** Aboard the skyship Unshaken, five days out from [[Port Damali - DM]]
+- **What happened:**
+	- [[Drawg Stormbrew - Brew|Drawg]] met [[Popcorn Zikelfikel - Viv|Popcorn]] and [[Hesterian Shyr - Dot|Hesterian]]. First mate [[Berinon Truegust]] sent Drawg to the lounge, possibly as a prank (the bartender's guess)
+	- Drawg agreed to help [[Durnvolk Durmir]] rebuild the Temple of Moradin in Port Damali
+	- A canary drank Drawg's beer. [[Captain Thyakas]] asked questions, [[Laucian Greycastle - Brent|Laucian]] vouched for Drawg, and Laucian came away with bracers and 100 gp
+	- Hesterian negotiated to perform for tips only: music first, an adult show second. Popcorn was nervous
+- **Changed at the table:** Laucian promised to help [[Georgina Wiseacre]] with armor once they reach Port Damali.

@@ -14,7 +14,7 @@ site: "[[Port Zoon - DM]]"
 
 > [!info] Essential Details
 > - Status: Paused. The party has the compass and is not pursuing this now.
-> - Last Session: [[Session 28 - Back at Harmony Hall]]
+> - Last Session: [[Session 30 - Back at Harmony Hall]]
 > - Key Players: [[Aethor Kalisk - DM|Aethor]], [[Calderax Dunhall]], [[Keldar Stonefoot - DM|Keldar Stonefoot]]
 > - Location: [[Port Zoon - DM|Port Zoon]]
 > - Next Expected Development: Open. The party has not decided what to do with the compass.
@@ -23,7 +23,7 @@ site: "[[Port Zoon - DM]]"
 
 [[Aethor Kalisk - DM|Aethor]] of the [[Obsidian Echoforge - DM|Obsidian Echoforge]] hired the party to recover the [[Stonefoot Compass - DM]]. He wanted it as a trade for [[Calderax Dunhall]], who in turn wanted it for [[Keldar Stonefoot - DM|Keldar Stonefoot]]'s map, which marks where a lorestone shard was once kept.
 
-- Terms: 3,000 gp if delivered within 15 days. [[Drawg Stormbrew - Brew|Drawg]] gets an artificer item. [[Qilynn Duskwhisper - Nicole|Qilynn]] gets an introduction to Calderax. Aethor pays for supplies and transport. (Hired in [[Sessions 7 & 8 - Tracking Yrene|Sessions 7–8]]; found in [[Session 12 - Finding the Compass|Sessions 12–13]].)
+- Terms: 3,000 gp if delivered within 15 days. [[Drawg Stormbrew - Brew|Drawg]] gets an artificer item. [[Qilynn Duskwhisper - Nicole|Qilynn]] gets an introduction to Calderax. Aethor pays for supplies and transport. (Hired in [[Session 8]]; found in [[Session 12 - Finding the Compass|Sessions 12–13]].)
 - The party found the compass inside a snail in the Othemoor Swamp.
 - The party then decided to keep it and not tell Aethor. Aethor does not know they have it.
 - They did not return to Port Damali with it before the 15 days ran out.

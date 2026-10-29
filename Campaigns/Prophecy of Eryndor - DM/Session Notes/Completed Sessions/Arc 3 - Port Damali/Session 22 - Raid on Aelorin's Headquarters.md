@@ -1,10 +1,7 @@
 ---
-date: 2025-01-18
-next_session:
-  - Session 23
-previous_session:
-  - Session 21 - Return to Port Damali
-session_number:
+date: 2025-01-26
+previous_session: "[[Session 21 - Return to Port Damali]]"
+session_number: 22
 tags:
   - campaign/eryndor
   - session
@@ -16,18 +13,8 @@ tags:
 > - Location(s): [[Aelorin's Headquarters - DM]]
 > - Active Plots: [[Restore Draconia]], [[Assembling the Lorestone]]
 > - Key NPCs: [[Dreyara Drimvar - DM]], [[Aelorin Nightshade]]
-> - Previous Session: [[Session 21 - Return to Port Damali]]
-> - Next Session: [[Session 23 - Players Follow Dreyara and Return to Aelorin's]]
 
 ## Pre-Session Review (30-45 min)
-
-### Previous Content
-
-- [x] Read previous session notes
-- [x] Check [[Seeds Planted]]
-- [x] Review active plot threads
-- [x] Note character goals/interests
-- [x] Check faction moves/timelines
 
 ### Current Status
 
@@ -35,7 +22,6 @@ tags:
 
 - Plot name: [[Restore Draconia]], [[Assembling the Lorestone]]
  - Current state: Active
- - Next developments:
  - Involved NPCs: [[Dreyara Drimvar - DM]], [[Aelorin Nightshade]]
 
 ## Session Notes
@@ -59,42 +45,11 @@ tags:
 	- [ ] Party did not learn any of the information from the basement
 	- [ ] Dreyara was successful in planting false evidence of [[Calderax Dunhall]]'s double-cross
 
-## Post-Session Processing
+## Where we left off
 
-### Required Updates
-
-- [x] Update NPC locations/status
-- [x] Note faction changes
-- [x] Record plot developments
-- [x] Update location states
-
-### Next Session Planning
-
-#### Likely Next Steps
-
-Consider:
-
-- Immediate player goals stated:
-- Time-sensitive plot elements:
-- Faction reactions:
-- NPC responses:
-- Location/situation changes:
-- Unresolved tensions:
-- Player expressed interests:
-
-#### Prep Priority
-
-1. Must Have
-  - Critical NPCs/locations:
-  - Active plot developments:
-  - Immediate consequences:
-
-2. Should Have
-  - Alternate paths:
-  - Faction/NPC reactions:
-  - New location details:
-
-3. Could Have
-  - Side content:
-  - Background developments:
-  - Optional encounters:
+- **Party location:** Outside [[Aelorin's Headquarters - DM]], the tailor shop Evaldo's Elegant Attire in Port Damali
+- **What happened:**
+	- The shop fronts a lair on more land than most buildings in the district: a path to the front door, two short walls beside it and two clusters of cypress trees, which are uncommon in the city
+	- [[Seraphina Amaris - Vicki|Seraphina]] sent her rat, Ratt Damon, inside and flew to the skylight. She saw a dwarf, a black dragonborn and a human woman heading for the main room
+	- Calderax is a lavender-skinned tiefling in expensive clothes. [[Aelorin Nightshade]] is a tall elf
+	- Ra'ak, Brunhilda and Dreyara left one at a time; none noticed the party. Dreyara and Ra'ak went east, Brunhilda west into a tavern

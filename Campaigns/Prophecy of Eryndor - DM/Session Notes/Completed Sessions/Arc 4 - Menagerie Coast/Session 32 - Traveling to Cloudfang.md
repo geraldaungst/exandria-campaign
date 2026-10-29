@@ -1,7 +1,7 @@
 ---
 arc: "[[Rescue Ilya's Brother]]"
 date: 2025-05-18
-previous_session: "[[Session 28 - Back at Harmony Hall]]"
+previous_session: "[[Session 31]]"
 session_number: 32
 tags:
   - campaign/eryndor

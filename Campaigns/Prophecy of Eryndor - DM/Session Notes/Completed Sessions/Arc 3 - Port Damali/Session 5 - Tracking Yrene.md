@@ -1,7 +1,17 @@
 ---
+date: 2024-06-02
+previous_session: "[[Session 4 - Arrival in Port Damali]]"
+session_number: 5
 tags:
   - campaign/eryndor
+  - session
 ---
+
+## Strong Start
+
+Qilynn and Drawg are out late at night roaming her old haunts where she knows that [[Yrene Shadowthorn|Yrene]] used to hang out.
+
+## Tracking Yrene
 
 [[Yrene Shadowthorn|Yrene]] is found in a dark corner at the back of the [[Gilded Pearl Tavern]]. She seems to be in a tense conversation with a nervous-looking informant.
 
@@ -61,3 +71,10 @@ Here are some converstion points that might come up with Yrene. The [[Qilynn Dus
 - [ ] **Unusual Attention**: "I kept track of your movements, not to spy on you, but because I care about what happens to you."
 - [x] **Unexpected Kindness**: "I made sure to gather information that could help you, even if it meant risking my position."
 - [x] **Emotional Slip**: "It hurt to see you suffer after the heist. I wish I could have done more to protect you."
+
+## Where we left off
+
+- **Party location:** [[Port Damali - DM]], the [[Gilded Pearl Tavern]] and [[Harmony Hall - DM|Harmony Hall]]
+- **What happened:**
+	- Drawg and Qilynn went to the Gilded Pearl. Qilynn almost killed [[Yrene Shadowthorn|Yrene]], who has a friend as large as Drawg. Qilynn agreed to meet Yrene the next day at noon about Eledyr, who may have betrayed her. A second meeting took place before Session 8; the night is not recorded
+	- Hesterian found her old establishment turned into a community theater, still run by the same person, with Popcorn, Laucian and Seraphina in tow. She reconnected with a tiefling friend she has to meet the next day

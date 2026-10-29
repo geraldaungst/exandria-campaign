@@ -26,7 +26,7 @@ site: "[[Cloudfang Keep - DM]]"
 
 ## Timeline
 
-- Session 28: the party prepares to leave [[Port Damali - DM]].
+- Session 31: the party prepares to leave [[Port Damali - DM]].
 - 8 Thunsheer: they leave for Cloudfang.
 - 19 Thunsheer: [[Lady Emer - DM|Emer]] is bound and questioned and Varnes is freed. See [[Session 37 - Confronting Lady Emer]] and [[Session 39 - Escape from Cloudfang]].
 - [[Session 38 - What to Do with Lady Emer?|Session 38]]: Varnes tells the party about the shard held in the Archive.

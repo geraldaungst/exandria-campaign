@@ -15,7 +15,7 @@ Shard 7 of the [[Lorestone of Eryndor - DM|Lorestone of Eryndor]]. Hub: [[Lorest
 - [[Keldar Stonefoot - DM|Keldar Stonefoot]] · wrong · his map shows where it once was, not where it is now
 - [[Calderax Dunhall]] · wrong · shares with [[Obsidian Echoforge - DM|Obsidian Echoforge]] · was brokering the trade for Keldar's map; thinks it leads to Shard 5
 - [[Aethor Kalisk - DM|Aethor Kalisk]] · wrong · investigating the map lead; thinks it points to Shard 5
-- Party · wrong · Aethor told them the compass leads to "the fifth shard" · [[Sessions 7 & 8 - Tracking Yrene|Sessions 7–8]]
+- Party · wrong · Aethor told them the compass leads to "the fifth shard" · [[Session 8]]
 
 ## Pursued by
 
@@ -43,8 +43,8 @@ Shard 7 of the [[Lorestone of Eryndor - DM|Lorestone of Eryndor]]. Hub: [[Lorest
 - **136 PD** · moved · The ship sank in a storm just off the Blightshore with the shard aboard. · at the Blightshore
 - **About 300 PD** · holder · The copper dragon Malastryx, already unstable, took it from the wreck into her hoard. A Dynasty expedition searching for the Hope turned back from the "mad copper terror". · Malastryx
 - **About 535 PD** · holder · Shoagragoth beat Malastryx with paradoxical riddles and took the shard from her hoard. · [[Shoagragoth, The Acid Crown|Shoagragoth]] · at [[Xagonstar]], in the [[Ebonglass Massif]]
-- **23 Dualahei 835** · wrong · <span data-date="835-03-23" data-category="Lorestone" data-name="Shard 7: the compass lead">Aethor hires the party to find the Stonefoot Compass, a lead on what he calls the fifth shard.</span> · Party · [[Sessions 7 & 8 - Tracking Yrene|Sessions 7–8]]
-- **6 Thunsheer 835** · wrong · <span data-date="835-04-06" data-category="Lorestone" data-name="Shard 7: hoped for through Port Zoon">Aethor says the Echoforge hopes to obtain another shard through Port Zoon once the compass is found.</span> · Party · [[Session 28 - Back at Harmony Hall|Session 28]]
+- **23 Dualahei 835** · wrong · <span data-date="835-03-23" data-category="Lorestone" data-name="Shard 7: the compass lead">Aethor hires the party to find the Stonefoot Compass, a lead on what he calls the fifth shard.</span> · Party · [[Session 8]]
+- **6 Thunsheer 835** · wrong · <span data-date="835-04-06" data-category="Lorestone" data-name="Shard 7: hoped for through Port Zoon">Aethor says the Echoforge hopes to obtain another shard through Port Zoon once the compass is found.</span> · Party · [[Session 30 - Back at Harmony Hall|Session 30]]
 
 ## Connected Elements
 

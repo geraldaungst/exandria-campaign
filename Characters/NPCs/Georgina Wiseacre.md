@@ -32,6 +32,8 @@ S: Medium - Believes in the cause, but not willing to die for it
 
 Partners with [[Kite of the Wind]] (who escaped) though they are not advertising that.
 
+Dead. [[Hesterian Shyr - Dot|Hesterian]] stabbed her in [[Session 3]]; the party kept her head and had it questioned at the Temple of Moradin in [[Session 31]].
+
 Info Georgina knows that she might share if interrogated. (DC 15 persuasion if asked by an ally, DC 20 Intimidation if asked by a neutral party, disadvantage on either roll if actively hostile):
 
 - She was paid to recruit a team to redirect the skyship.

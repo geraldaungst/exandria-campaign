@@ -1,8 +1,8 @@
 ---
-date: 2025-01-08
-next_session:
-previous_session:
-session_number:
+arc: "[[Aethor Kalisk's Secret Mission]]"
+date: 2025-01-12
+previous_session: "[[Session 20 - Bandit Ambush in Swamp]]"
+session_number: 21
 tags:
   - campaign/eryndor
   - session
@@ -12,20 +12,8 @@ tags:
 
 > [!info] Essential Details
 > - Location(s): [[Port Damali - DM]]
-> - Active Plots: [[]]
-> - Key NPCs:
-> - Previous Session: [[Session 20 - Bandit Ambush in Swamp]]
-> - Next Session: [[Session 22 - Raid on Aelorin's Headquarters]]
 
 ## Pre-Session Review (30-45 min)
-
-### Previous Content
-
-- [x] Read previous session notes
-- [x] Check [[Seeds Planted]]
-- [x] Review active plot threads
-- [x] Note character goals/interests
-- [x] Check faction moves/timelines
 
 ### Current Status
 
@@ -36,13 +24,6 @@ tags:
 - Next developments: Aethor needs the Compass to trade to Calderax
 - Involved NPCs: [[Aethor Kalisk - DM|Aethor]], [[Calderax Dunhall]], [[Dreyara Drimvar - DM|Dreyara]]
 
-#### Faction Status
-
-- Faction name:
-- Recent actions:
-- Planned moves:
-- NPC involvement:
-
 ## Session Prep (1-2 hours)
 
 ### Strong Start
@@ -51,114 +32,13 @@ tags:
 	- Had a Zhelezo inspector in here earlier. Briarfell. Looking for you lot." *emphasize the word 'looking' ominously* "Said you should come by Primework Station. Something about that skyship business." *meaningful pause* "Seemed very interested in finding you. Wouldn't say why.
 - Purpose: Force players to choose a path--who to see, where to go.
 
-### Core Content
+## Where we left off
 
-#### Potential Scenes
-
-1. Scene description
-  - Connected plots/NPCs:
-  - Potential outcomes:
-  - Required prep:
-
-#### Secrets & Clues
-
-- [ ] Secret (check when revealed)
-
-#### Location Details
-
-- Location name:
- - Key aspects:
- - Present NPCs:
- - Hidden elements:
-
-#### Prepared NPCs
-
-| NPC Name | Current Goals | Key Information | Likely Reactions |
-| -------- | ------------- | --------------- | ---------------- |
-|          |               |                 |                  |
-
-#### Combat Encounters
-
-- Location:
-- Monsters:
-- Context:
-- Objectives:
-
-## Session Notes
-
-### Timeline
-
-### Significant Changes
-
-- [ ] NPC status/location changes
-- [ ] New relationships formed
-- [ ] Plot developments
-- [ ] Location changes
-- [ ] Faction moves
-
-### Player Choices & Seeds
-
-- Choice made:
-- Potential consequences:
-- Future hooks:
-
-## Post-Session Processing
-
-### Required Updates
-
-- [ ] Update NPC locations/status
-- [ ] Note faction changes
-- [ ] Record plot developments
-- [ ] Update location states
-
-### Atomic Notes Needed
-
-- [ ] New facts discovered
-- [ ] Relationships changed
-- [ ] Status updates needed
-- [ ] Plot elements revealed
-
-### Review and update
-
-- [ ] Relationship notes
-- [ ] Plot threads
-- [ ] Location states
-- [ ] NPC goals
-
-### Clean up
-
-- [ ] Remove outdated status info
-- [ ] Consolidate redundant notes
-- [ ] Update broken links
-- [ ] Add missing connections
-
-### Next Session Planning
-
-#### Likely Next Steps
-
-Consider:
-
-- Immediate player goals stated:
-- Time-sensitive plot elements:
-- Faction reactions:
-- NPC responses:
-- Location/situation changes:
-- Unresolved tensions:
-- Player expressed interests:
-
-#### Prep Priority
-
-1. Must Have
-  - Critical NPCs/locations:
-  - Active plot developments:
-  - Immediate consequences:
-
-2. Should Have
-  - Alternate paths:
-  - Faction/NPC reactions:
-  - New location details:
-
-3. Could Have
-  - Side content:
-  - Background developments:
-  - Optional encounters:
+- **Party location:** [[Harmony Hall - DM|Harmony Hall]], then the [[Gilded Pearl Tavern]]
+- **What happened:**
+	- The party plans to keep the Stonefoot Compass
+	- Hesterian went home to Harmony Hall (the Mallow, now a theater). Grisul is dead and [[Annah]] has been given the place; she offered Hesterian half ownership and Hesterian took it. Annah does not know Calderax or Dreyara. A small shrine to the Changebringer is in Grisul's rooms
+	- Three rooms are set aside for the party in addition to Grisul's, which Hesterian and Drawg share
+	- At the Gilded Pearl Yrene said Aelorin promoted Calderax and gives him bigger missions. She knows little about Dreyara, but a contact saw her in Port Damali recently. Dreyara used to be tied to the Dwendalian Empire, specifically the Volstrucker
+	- Qilynn turned Yrene down. The party decided to watch Aelorin's place overnight
+- **Changed at the table:** Hesterian co-owns Harmony Hall.

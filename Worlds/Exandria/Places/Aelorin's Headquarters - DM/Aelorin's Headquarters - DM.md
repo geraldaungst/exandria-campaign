@@ -21,7 +21,7 @@ tags:
 # What's Happening Now
 
 - Aelorin threw Qilynn out after her failed heist and does not suspect his own setup. He does not know the relic he sent [[Calderax Dunhall]] for was Shard 6 ([[Aelorin Nightshade]]).
-- Calderax met the party in Session 25 and agreed not to tell Aelorin ([[Calderax Dunhall]]).
+- Calderax met the party in Session 26 and agreed not to tell Aelorin ([[Calderax Dunhall]]).
 - Aelorin wants the Clasp to expand into the Tumbledowns next.
 
 # Secrets
