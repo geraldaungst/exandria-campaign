@@ -63,9 +63,9 @@ You have this covered with your current adventure. No additional modules needed 
 
 **Current Holder:** Shoagragoth, The Acid Crown
 
-**Location:** Xagonstar (buried dwarven stronghold), Ebonglass Massif
+**Location:** [[Xagonstar]] (buried dwarven stronghold), [[Ebonglass Massif]]
 
-This is your major dragon setpiece. You need content for both the **journey to Blightshore** (including Rotthold investigation) and the **lair itself**.
+This is your major dragon setpiece. You need content for both the **journey to Blightshore** (including [[Rotthold]] investigation) and the **lair itself**.
 
 ##### The Journey: Rotthold and Blightshore Approach
 

@@ -14,7 +14,7 @@ Rifts keep opening across Wildemount. Every faction has a theory about what they
 
 - The rifts are wounds between realms. They bleed raw magic, warp plants and beasts, pull creatures through, and leave fragments of foreign terrain behind. Some flicker out; others last.
 - Riftcages made of soulwood siphon a rift's energy and shrink it, but they can't close it, and only a few exist. They saw this with Rinneth's crew at the Plane of Fire rift.
-- Emer's notes claim the rifts aren't natural, will widen if left alone, and may all come from "a single wound." Her map marks the Savalirwood, Zadash, Ashkeeper Peaks, Cyrios, and Ebonglass.
+- Emer's notes claim the rifts aren't natural, will widen if left alone, and may all come from "a single wound." Her map marks the Savalirwood, Zadash, Ashkeeper Peaks, Cyrios, and [[Ebonglass Massif|Ebonglass]].
 - The Echoforge believes an assembled Lorestone will close the rifts. Qalix wants the stone to stabilize them.
 - The Malachite Cord calls the Savalirwood corruption a warning ripple from larger disturbances. Seraphina recognizes the blight from her home.
 - The shard warmed at the Deastok dig site, where no rift is known (Session 51).

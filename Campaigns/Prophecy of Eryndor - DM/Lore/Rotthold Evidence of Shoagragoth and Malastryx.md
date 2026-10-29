@@ -5,12 +5,13 @@ tags:
   - campaign/eryndor
   - world/exandria
 ties_to:
+  - "[[Rotthold]]"
   - "[[Xhorhas]]"
 ---
 
 ## Rotthold Evidence of Shoagragoth and Malastryx
 
-Information about [[Shoagragoth, The Acid Crown|Shoagragoth]] and Malastryx that has survived in Rotthold:
+Information about [[Shoagragoth, The Acid Crown|Shoagragoth]] and Malastryx that has survived in [[Rotthold]]:
 
 1. **Harbormaster's Logs**: Entries from ~535 PD mention copper-colored lights from northern hills, followed by black smoke and acid rain a month later.
 2. **Thesra Moonfall**: Corrupted half-elven antiquarian who witnessed the draconic confrontation, keeps half-copper/half-blackened scale, rambles about "the night of riddles" and "backward answers to impossible questions."

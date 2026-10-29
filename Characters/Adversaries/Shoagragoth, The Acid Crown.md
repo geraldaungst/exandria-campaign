@@ -1,19 +1,19 @@
 ---
-aliases:
-  - Shoagragoth
-  - Acid Crown
 tags:
   - npc
   - world/exandria
+aliases:
+  - Shoagragoth
+  - Acid Crown
 disposition: indifferent
-whereabouts: "[[Ebonglass Massif]]"
+whereabouts: "[[Xagonstar]]"
 ---
 
 ## Quick Reference
 
 > [!info] Essential Details
 > - Also known as the Tyrant of the Ebonglass.
-> - Current Location: Corrupted temple complex in buried dwarven stronghold of Xagonstar, Ebonglass Massif, Blightshore
+> - Current Location: Corrupted temple complex in buried dwarven stronghold of [[Xagonstar]], [[Ebonglass Massif]], [[Blightshore]]
 > - Key Motivation: Establish sovereignty, collect corrupted artifacts proving his intellectual superiority, and feed his palate
 > - Attitude toward party: Initially curious, dismissive, manipulable through flattery
 > - Critical Knowledge: An eyewitness account of Molaesmyr's fall; [[Lorestone of Eryndor - DM]]
@@ -46,12 +46,12 @@ Emer's map marks the Ebonglass among her rift sites ([[Understanding the Rifts]]
 > - Flew to Molaesmyr in the weeks after its fall. His account is self-flattering but accurate in detail: the purple fog rose first from under Caes Mosor, and for days the blight moved along straight lines in the ground before it spread into the trees (the Labyrinth and the ley lines; see [[Rupture of the Molaesmyr Fey Crossing]]). He calls it proof of elven arrogance and claims he foresaw it. He doesn't know a crossing ruptured, or that the rifts come from it
 > - The condition: phthoromania to Cobalt Soul scholars, blight-thirst to common folk. He never uses either name, and a scholar's word for it is one of the few things that angers him
 > - How it progressed: drawn to corruption → the high → needing more → making his own (the thralls, the acid "enhancements" of Xagonstar, feeding the Abyss rift to taste it). Nothing has matched Molaesmyr. The chance to stand at the Molaesmyr Fey Crossing is a price he would pay
-> - Plans to expand territory using corrupted thralls to infiltrate nearby settlements, starting with Rotthold
+> - Plans to expand territory using corrupted thralls to infiltrate nearby settlements, starting with [[Rotthold]]
 > - Acid damage to Xagonstar inadvertently exposing sealed dwarven vault containing planar research artifacts
 
 > [!note]- Background
 > - Born ~85 PD in the Blightshore (about 750 years old now)
-> - Discovered and claimed Xagonstar as lair (~500 PD, aged about 415)
+> - Discovered and claimed [[Xagonstar]] as lair (~500 PD, aged about 415)
 > - Defeated corrupted copper dragon Malastryx (~535 PD, aged about 450) by exploiting her madness with paradoxical riddles
 > - Acquired the Lorestone shard from Malastryx's hoard (originally from the sunken ship [[Consecution's Hope]]): [[Shard 7 - Ebonglass Shard]]
 > - Flew to Molaesmyr in the weeks after its fall (~585 PD, aged about 500)

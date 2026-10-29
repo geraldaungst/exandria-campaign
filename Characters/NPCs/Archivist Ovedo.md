@@ -49,7 +49,7 @@ Owns an unusually fine hand-sized brass-and-glass focusing lens by a Xhorhasian 
 - [ ] Does Ovedo learn that Varnes talked?
 - [ ] Is the vault known to the wider order? That is an Open Issue on [[Cobalt Soul - DM]].
 - [ ] Does the lens react to a Luxon Beacon (idea: it vibrates within 100 ft, and Ovedo has never seen it happen)? Undecided. It ties to Aveqtaro's unresolved consecution question and to whether the Empire or the Cobalt Soul holds a Beacon.
-- [ ] How do the Lorestone clues route the party to Aveqtaro in Rosohna, which lies on the way to the Ebonglass Massif? To be designed separately.
+- [ ] How do the Lorestone clues route the party to Aveqtaro in Rosohna, which lies on the way to the [[Ebonglass Massif]]? To be designed separately.
 
 ## Connected Elements
 
