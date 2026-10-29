@@ -7,7 +7,7 @@ fc-date: "835-04-26"
 fc-display-name: "Session 49"
 fc-end: "835-04-27"
 ingame_time: Morning
-previous_session:
+previous_session: "[[Session 48]]"
 session_number: 49
 tags:
   - campaign/eryndor

@@ -1,17 +1,17 @@
 ---
-arc: "[[Deastok Investigation]]"
-date: 2026-09-20
-previous_session: "[[Session 49 - The Wheel, the Comb, and the Watchtower]]"
-session_number: 50
 tags:
   - campaign/eryndor
   - session
+arc: "[[Deastok Investigation]]"
+date: 2026-09-20
 fc-calendar: Exandrian Calendar
+fc-category: Sessions
 fc-date: "835-04-27"
+fc-display-name: "Session 50"
 fc-end: "835-04-27"
 ingame_time: Morning
-fc-display-name: "Session 50"
-fc-category: Sessions
+previous_session: "[[Session 49 - The Wheel, the Comb, and the Watchtower]]"
+session_number: 50
 ---
 
 ## Session 50 - The Doctor, the Fruit, and the Dig Site

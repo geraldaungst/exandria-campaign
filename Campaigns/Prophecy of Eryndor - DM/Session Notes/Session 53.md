@@ -1,4 +1,7 @@
 ---
+tags:
+  - campaign/eryndor
+  - session
 arc: "[[Deastok Investigation]]"
 date: 2026-10-11
 fc-calendar: Exandrian Calendar
@@ -9,9 +12,6 @@ fc-end: "835-04-27"
 ingame_time: Evening
 previous_session: "[[Session 52 - A Very Vexing Hole and a Black Shard]]"
 session_number: 53
-tags:
-  - campaign/eryndor
-  - session
 ---
 
 ## Session 53

@@ -1,7 +1,7 @@
 ---
 arc: "[[Rescue Ilya's Brother]]"
 date: 2026-01-18
-previous_session: "[[Session 39 - Escape from Cloudfang]]"
+previous_session: "[[Session 40]]"
 session_number: 41
 tags:
   - campaign/eryndor

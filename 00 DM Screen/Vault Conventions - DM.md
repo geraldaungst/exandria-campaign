@@ -91,7 +91,7 @@ Counts are notes outside the Player Wiki carrying the type tag.
 | Lore (12: 9 in `Campaigns/Prophecy of Eryndor - DM/Lore`; The Massacre, The Capture of Melthes and The Truth about Eledyr carry the tag in place) | `lore`, usually `atomic`, `campaign/` | None |
 | Creature (5) | `creature`; the four Rendspawn notes also carry `world/` and `campaign/` (the monkey, from a finished prologue, carries only `creature`) | None |
 | Atomic (42; 31 with no other type tag) | `atomic`, usually `campaign/` | None |
-| Session (35) | `session`, `campaign/` | Session Template writes at creation: `arc`, `date`, `previous_session`, `session_number`, `fc-calendar`, `fc-date`, `fc-end`, `ingame_time`, `fc-display-name`, `fc-category`. Close Session fills `fc-end` and `ingame_time`. `next_session` was removed from the Arc 4 and Arc 5 notes on 2026-10-29 (pointers go backwards only); it was removed from the Arc 3 notes on 2026-10-29 as well |
+| Session (58) | `session`, `campaign/` | Session Template writes at creation: `arc`, `date`, `previous_session`, `session_number`, `fc-calendar`, `fc-date`, `fc-end`, `ingame_time`, `fc-display-name`, `fc-category`. Close Session fills `fc-end` and `ingame_time`. `next_session` was removed from the Arc 4 and Arc 5 notes on 2026-10-29 (pointers go backwards only); it was removed from the Arc 3 notes on 2026-10-29 as well |
 | Arc (5) | `arc`, `campaign/` | `status`, `threads`, `tier`, `site` |
 | Plot thread (7) | One stage tag (`plot/active` and so on) | None |
 | Campaign note (1) | `campaign-hub`, one `campaign/…` | `calendar`, `timeline`, `status`, `world` |

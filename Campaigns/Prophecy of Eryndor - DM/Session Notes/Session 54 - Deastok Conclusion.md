@@ -1,4 +1,7 @@
 ---
+tags:
+  - campaign/eryndor
+  - session
 arc: "[[Deastok Investigation]]"
 date: 2026-11-01
 fc-calendar: Exandrian Calendar
@@ -9,9 +12,6 @@ fc-end:
 ingame_time:
 previous_session: "[[Session 53]]"
 session_number: 54
-tags:
-  - campaign/eryndor
-  - session
 ---
 
 ## Session 54 - Deastok Conclusion

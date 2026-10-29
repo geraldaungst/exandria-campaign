@@ -15,10 +15,10 @@ tags:
 ## What's Happening Now
 - The party entered on 23 Thunsheer 835 through the avalanche opening. The ritual was completed on 24 Thunsheer, and Kelmen passed through the Whisper into Solvei's Vigilance. [[Qilynn Duskwhisper - Nicole|Qilynn]] is attuned to the bow.
 - Dreyara was killed on 25 Thunsheer outside the rear entrance.
+- The party took the Luxon Beacon back when they left the room after taking the bow ([[Session 46]]); it had been used to align the soulwood disks ([[Session 45]]).
 - Meenlock design history: [[Monastery Meenlock Design]].
 
 ## Open Issues
-- [ ] The Beacon decision (take or leave the Luxon Beacon on the platform) is not recorded anywhere.
 - [ ] The meenlock encounters in Areas 13 and 14 (Stages 1 and 2 of the design) never reached the area entries. [[Kelmen and Popcorn Connections]] puts Popcorn's first giggle at Area 13. Whether the party met them is unrecorded.
 - [ ] The Blink Bomb in the design note was never placed.
 
