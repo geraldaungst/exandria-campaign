@@ -1,29 +1,21 @@
 ---
-political_region:
-  - "[[Rexxentrum - DM]]"
 tags:
   - location
   - world/exandria
+political_region:
+  - "[[Rexxentrum - DM]]"
 ---
 
-## Quick Reference
+# Quick Reference
+**Status:** Open for business, partly packed. [[Azel Brightful]] moved the shop from Emon to Rexxentrum and means to go on to Xarzith Kitril. Military surplus and curiosities, and relics of the Chroma Conclave era.
+**Significance:** Holds the [[Scale Mail of the Frigid Doom]] and a medal engraved with Vaud Qalix's name. Drawg bought a pair of tactical pants here in Emon.
 
-> [!info] Essential Details
-> - Current Status: Open for business
-> - Location: Recently moved to Rexxentruum
-> - Key Feature: Military surplus and curiosities; relics of the Chroma Conclave era
-> - Atmosphere: Cluttered, warm, faintly melancholy—a place where old things are treated with respect
-> - Owner: [[Azel Brightful]]
+# Description
+Cluttered and warm, with an air of old things treated with respect. The physical layout is not described. Develop it if the party visits.
 
-## Overview
+## Inventory
 
-### Physical Description
-
-- Left blank for now—to be developed if the party ever visits
-
-### Inventory
-
-#### General Items
+### General Items
 
 1. Military-grade backpacks and rucksacks
 2. Weatherproof tents and camping gear
@@ -46,9 +38,9 @@ tags:
 19. Surplus ammunition (arrows, bolts, sling bullets)
 20. Decommissioned military uniforms and insignia
 
-#### Rare Items
+### Rare Items
 
-##### Chroma Conclave Relics
+#### Chroma Conclave Relics
 
 *Acquired directly by Azel or sought out by him over the years. He doesn't advertise these. They're displayed quietly, and he's choosy about who he sells them to—or whether he sells them at all.*
 
@@ -60,7 +52,7 @@ tags:
 6. A ceremonial medal of valor awarded to Draconian soldiers who fought against Vorugal, slightly damaged but intact *(close inspection reveals the name "Vaud Qalix" engraved on the back)*
 7. A small, worn memorial ledger in Azel's handwriting—names, ranks, and a line or two about each soldier he knew who didn't come home. Not for sale.
 
-##### Magic Items
+#### Magic Items
 
 1. [[Scale Mail of the Frigid Doom]]—dragon scale mail made from Vorugal's remains, collected by Azel himself and commissioned from a master craftsman
 2. Boots of the Winterlands
@@ -70,7 +62,7 @@ tags:
 6. Smoldering Armor
 7. Sword of Wounding
 
-##### Other Unique Items
+#### Other Unique Items
 
 1. A spyglass crafted by gnomish artisans from Hupperdook, featuring intricate detailing and rangefinding marks engraved on the lenses
 2. A set of bone dice carved from the remains of a young remorhaz, popular among soldiers stationed in Eiselcross
@@ -79,12 +71,18 @@ tags:
 5. A collection of pressed flowers from the Blooming Grove, preserved in a book and said to bring good fortune to travelers
 6. A pair of tactical-style pants with an unusual number of pockets, well-made and barely worn *(Azel always seems to have a pair like this in stock)*
 
-## Hidden Elements
+# What's Happening Now
+- The shop is a waystation. Azel is helping [[Kexira Suulveth]] catalogue Draconian materials for the Cobalt Soul Archive ([[Azel Brightful]]).
 
+# Secrets
 > [!secret]- DM Only
-> - The memorial ledger is the origin of the "Deacon" nickname, though Azel would never say so. Long-time Emon locals know it exists. He's never shown it to a customer.
-> - The pants are a quiet callback—Azel has a habit of stocking practical, well-made clothing that soldiers would actually want.
+> - [ ] The memorial ledger is the origin of the "Deacon" nickname, though Azel would never say so. Long-time Emon locals know it exists. He has never shown it to a customer.
+> - The pants are a quiet callback: Azel stocks practical, well-made clothing that soldiers would actually want.
+> - [ ] The medal engraved "Vaud Qalix" is Qalix's own ([[Vaud Qalix - DM]]).
+
+## Open Issues
+- [ ] Where in Rexxentrum the shop stands, and how long Azel stays.
+- [ ] The history of the Scale Mail of the Frigid Doom is blank (see its note).
 
 ## Connected Elements
-
 ![[Related Notes.base]]

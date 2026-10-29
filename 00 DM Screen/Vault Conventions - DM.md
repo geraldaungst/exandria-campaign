@@ -53,6 +53,7 @@ Related notes: [[DM Hubs Design]] (hub rules, campaign notes, session date field
 - Encounter: tagged `encounter`, `campaign/…`, `world/…`, and where it applies `faction/…`, with a `site` link to where it happens (2026-10-27). No `location` or `session` property (2026-10-21).
 - Lore: campaign lore and reference documents (in-world facts, history and procedures a thread draws on, such as The Prophecy and its texts, Kelmen and Popcorn Connections, Port Damali Murders) live in `Campaigns/<campaign>/Lore/` and carry the `lore` tag. Dashboards read the tag; the folder is for browsing. Planning notes, table-meta notes and tools stay out; world and faction event notes stay with their owners (2026-10-23).
 - Quick-capture stubs carry `needs-work`. NPC, faction and item stubs go straight to their normal folders; location and shop stubs go to the `Stubs` folder inside the campaign folder (2026-10-20).
+- Secrets: DM-only information that the party may learn (secret and hidden-information callouts) is written as checklist lines (`- [ ]`), ticked when the party learns it (2026-10-29). Running notes for the DM that are not facts the party could learn stay plain bullets. Existing notes convert in the Secrets-as-checklists pass.
 
 **Naming and events**
 - A DM note gets the " - DM" suffix only when a player-facing note on the same subject exists; the player note takes the plain name. Note titles avoid parentheses and underscores (2026-10-04).

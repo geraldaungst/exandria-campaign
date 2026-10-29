@@ -58,7 +58,7 @@ actions:
 
 ## History
 
-Growing up among the elite of Rexxentrum, Dalina Van DeVries was fascinated by the magical artifacts and ancient scrolls her family collected. She was accepted to the prestigious Solstryce Academy, where she initially pursued studies in spellcasting. However, Dalina soon realized her true passion lay in the craft of writing and inscribing, not in casting spells. She made the difficult decision to drop out, but left on good terms, maintaining powerful connections with the faculty. Using her refined skills and noble heritage, Dalina opened The [[Scroll and Scribe]] Emporium, where she offers the finest enchanted quills and parchments. Her shop quickly became famous among nobles and wizards alike, blending her noble upbringing with her artisanal talents.
+Growing up among the elite of Rexxentrum, Dalina Van DeVries was fascinated by the magical artifacts and ancient scrolls her family collected. She was accepted to the prestigious Soltryce Academy, where she initially pursued studies in spellcasting. However, Dalina soon realized her true passion lay in the craft of writing and inscribing, not in casting spells. She made the difficult decision to drop out, but left on good terms, maintaining powerful connections with the faculty. Using her refined skills and noble heritage, Dalina opened The [[Scroll and Scribe]] Emporium, where she offers the finest enchanted quills and parchments. Her shop quickly became famous among nobles and wizards alike, blending her noble upbringing with her artisanal talents.
 
 ## Emissaries of the Sunfall
 
