@@ -1,15 +1,15 @@
 ---
+tags:
+  - artifact
+  - campaign/eryndor
+  - world/exandria
+  - unplaced
 aliases:
   - Shard Tracker
   - Lorestone Shards
 cssclasses:
   - wide-page
 hide_from_related: true
-tags:
-  - artifact
-  - campaign/eryndor
-  - world/exandria
-  - unplaced
 ---
 
 [[Lorestone of Eryndor - DM|Lorestone of Eryndor]] · [[Assembling the Lorestone]] · [[The Prophecy]] · [[Eryndor Timeline]]
