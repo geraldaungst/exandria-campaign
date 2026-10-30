@@ -509,6 +509,7 @@ const G = {
   foldedName: { cursor: "pointer", userSelect: "none" },
   swatch: { display: "inline-block", width: "12px", height: "12px", borderRadius: "3px", verticalAlign: "-2px", marginRight: "5px" },
   groupRow: { borderTop: "1px solid var(--background-modifier-border-hover)" },
+  divider: { padding: "10px 0 2px", textAlign: "left", fontSize: "var(--font-ui-smaller)", fontWeight: 600, textTransform: "uppercase", letterSpacing: "0.05em", color: "var(--text-muted)", borderBottom: "1px solid var(--background-modifier-border)" },
   picked: { background: "var(--background-modifier-hover)", outline: "1px solid var(--interactive-accent)" },
   sources: { margin: "10px 0", padding: "8px 12px", borderLeft: "3px solid var(--interactive-accent)", background: "var(--background-primary-alt)" },
 };
@@ -560,6 +561,30 @@ function placeFilter(loc, rows, partyPlace, world) {
 }
 
 /** Grid rows people, factions, and the party; columns the pieces. Props: piece (slug). */
+/**
+ * The grid's rows in display order: the party first, then a "Factions" divider and the factions (A to Z, each with its members),
+ * then an "Individuals not in a faction" divider and those people (A to Z). A divider appears only when its block has rows.
+ * faction: the Faction filter's key ("" for any); filtering: a name or place filter is on; rowPasses(row) applies those filters.
+ * Returns [{ divider }] and [{ head, members, forced }] entries.
+ */
+function gridGroups(grid, faction, filtering, rowPasses) {
+  const groupOf = (head, all, forcedByFaction) => {
+    const members = all.filter(rowPasses);
+    if (!members.length && !rowPasses(head)) return null;
+    return { head, members: filtering ? members : all, forced: !!(forcedByFaction || (filtering && members.length)) };
+  };
+  const out = [];
+  if (!faction && grid.party) {
+    const g = groupOf(grid.party.row, grid.party.members, false);
+    if (g) out.push(g);
+  }
+  const factions = grid.factions.filter((f) => !faction || f.row.key === faction).map((f) => groupOf(f.row, f.members, !!faction)).filter(Boolean);
+  if (factions.length) out.push({ divider: "Factions" }, ...factions);
+  const others = faction ? [] : grid.others.filter(rowPasses).map((r) => ({ head: r, members: [] }));
+  if (others.length) out.push({ divider: "Individuals not in a faction" }, ...others);
+  return out;
+}
+
 function WhoKnowsGrid({ piece }) {
   const party = usePartyLocation();
   const { pieces, grid, tag, loading } = usePieces(piece, party);
@@ -595,20 +620,8 @@ function WhoKnowsGrid({ piece }) {
   const q = query.trim().toLowerCase();
   const rowPasses = (r) => (!q || r.name.toLowerCase().includes(q)) && (!place || (!!pf && pf.passes(r, place)));
 
-  // Groups: each faction (or the party) with its members, then people in no faction.
-  const groups = [];
-  for (const f of grid.factions) {
-    if (faction && f.row.key !== faction) continue;
-    const members = f.members.filter(rowPasses);
-    if (members.length || rowPasses(f.row)) groups.push({ head: f.row, members: q || place ? members : f.members, forced: !!(faction || ((q || place) && members.length)) });
-  }
-  if (!faction) {
-    for (const r of grid.others) if (rowPasses(r)) groups.push({ head: r, members: [] });
-    if (grid.party) {
-      const members = grid.party.members.filter(rowPasses);
-      if (members.length || rowPasses(grid.party.row)) groups.push({ head: grid.party.row, members: q || place ? members : grid.party.members, forced: !!((q || place) && members.length) });
-    }
-  }
+  // Groups: the party, then each faction with its members, then people in no faction, with a divider before each of the last two blocks.
+  const groups = gridGroups(grid, faction, !!(q || place), rowPasses);
 
   const pickedRow = picked ? people.find((r) => r.key === picked.key) : null;
   const pickedCell = pickedRow?.cells[picked.number] ?? null;
@@ -686,7 +699,11 @@ function WhoKnowsGrid({ piece }) {
             </tr>
           </thead>
           <tbody>
-            {groups.map((g) => [
+            {groups.map((g) => g.divider ? (
+              <tr key={`divider:${g.divider}`}>
+                <td colSpan={grid.numbers.length + 1} style={G.divider}>{g.divider}</td>
+              </tr>
+            ) : [
               <tr key={g.head.key} style={G.groupRow}>
                 {g.members.length && !isOpen(g) ? (
                   <td style={{ ...G.name, ...G.foldedName }} data-fold={g.head.key} title="Show members" onClick={() => toggle(g.head.key)}>
