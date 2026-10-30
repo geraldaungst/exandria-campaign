@@ -549,10 +549,10 @@ Players want Varnes restored. Lady Emer is the most convenient solution (her Sto
 
 **Escape Plan (If Freed Enough to Try):**
 
-1. Shadowstep to desk/chest area (grab Beacon or journals)
-2. Shadowstep to garden
-3. Mount wyvern
-4. Fly away toward Savalirwood
+1. [ ] Shadowstep to desk/chest area (grab Beacon or journals)
+2. [ ] Shadowstep to garden
+3. [ ] Mount wyvern
+4. [ ] Fly away toward Savalirwood
 
 ---
 

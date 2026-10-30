@@ -40,9 +40,9 @@ tier: standard
 
 > [!secret]- The dream timeline—get this straight before the table does
 > **Two stages, weeks apart. Don't collapse them.**
-> 1. **Weeks ago:** the crew breaks through to the stone. Town dreams begin—**vague.** Trees, being watched, a general wrongness. Nobody can describe much, and nobody makes much of it. Four or five of Wenna's patients over several weeks.
-> 2. **Two days ago:** Brynna fetches Jorun out to the site. He works a few hours, goes home sick, and dreams it that night—**specific.** Bark, leaves, the shape of the presence, the same every time.
-> 3. **Since:** crew idle, Jorun at home, Brynna waiting on him.
+> 1. [ ] **Weeks ago:** the crew breaks through to the stone. Town dreams begin—**vague.** Trees, being watched, a general wrongness. Nobody can describe much, and nobody makes much of it. Four or five of Wenna's patients over several weeks.
+> 2. [ ] **Two days ago:** Brynna fetches Jorun out to the site. He works a few hours, goes home sick, and dreams it that night—**specific.** Bark, leaves, the shape of the presence, the same every time.
+> 3. [ ] **Since:** crew idle, Jorun at home, Brynna waiting on him.
 >
 > **Jorun is the sharpest source because he was closest to it, not because he was first.** He's the newest dreamer and the worst-affected. That's the correlation Brynna half-notices and doesn't pursue.
 >
