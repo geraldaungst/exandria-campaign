@@ -1,9 +1,9 @@
 ---
-site: "[[Cloudfang Keep - DM]]"
 tags:
   - campaign/eryndor
   - encounter
   - world/exandria
+site: "[[Cloudfang Keep - DM]]"
 ---
 
 *Used at the table in [[Session 38 - What to Do with Lady Emer?]]; the scene below is the prep state at that time.*
