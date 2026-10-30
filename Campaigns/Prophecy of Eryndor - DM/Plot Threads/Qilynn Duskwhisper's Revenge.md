@@ -12,13 +12,13 @@ tags:
 
 **They know:**
 
-- Qilynn planned the artifact heist herself, to win back Aelorin's favor. Security she hadn't been briefed on was in place, and the artifact's location and the guards' shifts differed from what she had researched.
-- She first suspected Yrene, a full elf who trained under Aelorin alongside her and was his favorite.
-- In Session 5 Yrene told her Eledyr, another of Aelorin's trainees, framed her. Yrene says she found disguised notes in Eledyr's handwriting about the changes to the artifact's location and the extra security, that the guard shifts were changed at the last minute, and that unfamiliar faces were among the guards.
-- Yrene says Calderax's job was a distraction to draw guards away, and that Eledyr's interference sent it to the wrong guards.
-- Yrene and Qilynn agreed to work together to clear Qilynn's name. Qilynn promised not to kill Eledyr.
-- Eledyr has been asking too many questions about the prophecy.
-- Eledyr has been sent to Zadash.
+- [ ] Qilynn planned the artifact heist herself, to win back Aelorin's favor. Security she hadn't been briefed on was in place, and the artifact's location and the guards' shifts differed from what she had researched.
+- [ ] She first suspected Yrene, a full elf who trained under Aelorin alongside her and was his favorite.
+- [ ] In Session 5 Yrene told her Eledyr, another of Aelorin's trainees, framed her. Yrene says she found disguised notes in Eledyr's handwriting about the changes to the artifact's location and the extra security, that the guard shifts were changed at the last minute, and that unfamiliar faces were among the guards.
+- [ ] Yrene says Calderax's job was a distraction to draw guards away, and that Eledyr's interference sent it to the wrong guards.
+- [ ] Yrene and Qilynn agreed to work together to clear Qilynn's name. Qilynn promised not to kill Eledyr.
+- [ ] Eledyr has been asking too many questions about the prophecy.
+- [ ] Eledyr has been sent to Zadash.
 
 ![[Aelorin Nightshade#Reaction to the failed heist]]
 
@@ -27,10 +27,10 @@ tags:
 > [!secret]- DM Only
 > ![[The Truth about Eledyr#Core Information]]
 >
-> - **The petty motive:** Eledyr's grudge comes from her casual training feedback.
-> - **Yrene's feelings:** her protectiveness comes from romantic feelings Qilynn never suspected.
-> - **Eledyr's allegiance:** he now works with the [[Emissaries of the Sunfall - DM]], which gives him resources and protection.
-> - **The scale of it:** how deeply he has infiltrated and manipulated Clasp operations.
+> - [ ] **The petty motive:** Eledyr's grudge comes from her casual training feedback.
+> - [ ] **Yrene's feelings:** her protectiveness comes from romantic feelings Qilynn never suspected.
+> - [ ] **Eledyr's allegiance:** he now works with the [[Emissaries of the Sunfall - DM]], which gives him resources and protection.
+> - [ ] **The scale of it:** how deeply he has infiltrated and manipulated Clasp operations.
 
 ## Next Move
 

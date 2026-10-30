@@ -36,15 +36,15 @@ site: "[[Cloudfang Keep - DM]]"
 ## Player Knowledge
 
 - What they know:
-	- Varnes is free and on his way home with Laucian.
-	- Varnes told them about the shard in the Archive.
-	- [[Archivist Ovedo]] told Varnes about the shard and paid him to keep quiet.
-	- [[Vaud Qalix - DM|Qalix]] learned that Varnes knew, and that is why he was taken.
-	- Emer is bound and swore revenge.
+	- [ ] Varnes is free and on his way home with Laucian.
+	- [ ] Varnes told them about the shard in the Archive.
+	- [ ] [[Archivist Ovedo]] told Varnes about the shard and paid him to keep quiet.
+	- [ ] [[Vaud Qalix - DM|Qalix]] learned that Varnes knew, and that is why he was taken.
+	- [ ] Emer is bound and swore revenge.
 - What they think they know:
-	- Varnes was held because of his connection to the Archive.
+	- [ ] Varnes was held because of his connection to the Archive.
 - What they don't know:
-	- How Qalix learned that Varnes knew.
+	- [ ] How Qalix learned that Varnes knew.
 
 ## Aftermath
 

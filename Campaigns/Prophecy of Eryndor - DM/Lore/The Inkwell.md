@@ -22,24 +22,24 @@ tags:
 ### Code Language
 
 The cell uses terminology related to writing, inks, and magical scribing as code:
-- "The Inkwell" - The splinter cell itself (representing the source of their power)
-- "Master scribe" - Cell leader (Valen)
-- "Prime pigment" - Primary target
-- "Mixed ink" - Compromised situation
-- "Fresh batch" - New operation
-- "Quality test" - Surveillance
-- "Blotting" - Cleanup/covering tracks
-- "Private commission" - Covert operation
-- "Workshop" - Meeting location
-- "Sealed document" - Sensitive information
-- "Color sample" - Initial reconnaissance
-- "Binding agent" - Key resource or ally
-- "Preservation" - Protecting assets/people
-- "Special order" - High-priority target
-- "Disposal" - Elimination of a threat
-- "Spoiled batch" - Compromised agent/operation
-- "Formula" - Operation plan
-- "Certification" - Clearance/authorization
+- [ ] "The Inkwell" - The splinter cell itself (representing the source of their power)
+- [ ] "Master scribe" - Cell leader (Valen)
+- [ ] "Prime pigment" - Primary target
+- [ ] "Mixed ink" - Compromised situation
+- [ ] "Fresh batch" - New operation
+- [ ] "Quality test" - Surveillance
+- [ ] "Blotting" - Cleanup/covering tracks
+- [ ] "Private commission" - Covert operation
+- [ ] "Workshop" - Meeting location
+- [ ] "Sealed document" - Sensitive information
+- [ ] "Color sample" - Initial reconnaissance
+- [ ] "Binding agent" - Key resource or ally
+- [ ] "Preservation" - Protecting assets/people
+- [ ] "Special order" - High-priority target
+- [ ] "Disposal" - Elimination of a threat
+- [ ] "Spoiled batch" - Compromised agent/operation
+- [ ] "Formula" - Operation plan
+- [ ] "Certification" - Clearance/authorization
 
 Example: "The prime pigment needs a quality test before the fresh batch" = "The primary target needs surveillance before the new operation"
 

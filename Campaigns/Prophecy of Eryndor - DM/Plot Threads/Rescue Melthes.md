@@ -12,17 +12,17 @@ tags:
 
 **They know:**
 
-- Hesterian has a brother named Melthes.
-- She believes he is studying magic somewhere and has been out of contact for a long time.
+- [ ] Hesterian has a brother named Melthes.
+- [ ] She believes he is studying magic somewhere and has been out of contact for a long time.
 
 **They don't know:**
 
 > [!secret]- DM Only
-> - The Assembly took him against his will. His parents were persuaded and paid. He was terrified at intake and kept asking about his family and when he could go home.
-> - Cree took part in his assessment. She doesn't know Hesterian is his sister, and doesn't know where he is now.
-> - The Assembly sees him as an exploitable asset, not a student.
-> - One of the two Volstrucker agents involved was Hesterian's former client, the one who owned the Stone of Memory.
-> - His current location and condition are open (see [[Melthes#Open Issues]]).
+> - [ ] The Assembly took him against his will. His parents were persuaded and paid. He was terrified at intake and kept asking about his family and when he could go home.
+> - [ ] Cree took part in his assessment. She doesn't know Hesterian is his sister, and doesn't know where he is now.
+> - [ ] The Assembly sees him as an exploitable asset, not a student.
+> - [ ] One of the two Volstrucker agents involved was Hesterian's former client, the one who owned the Stone of Memory.
+> - [ ] His current location and condition are open (see [[Melthes#Open Issues]]).
 
 ## Next Move
 

@@ -12,20 +12,20 @@ tags:
 
 **They know:**
 
-- Seraphina knows the corruption was spreading when she left. She has traveled about 300 years into the future. The last entries in her journal describe the corruption, and she recognizes the blight from home.
-- The [[Malachite Cord - DM|Malachite Cord]] says the corruption has spread for three centuries or more, and calls it a warning ripple from greater disturbances across Exandria. Its different groups are studying the wood. All they have found is that the rifts may be connected to it.
-- [[Rinneth Starsong - DM|Rinneth]] says the Cord is rededicating old places of worship such as the Shrine of Melora and studying the rifts with druids and scholars.
-- Seraphina believes her patron said they need to work with the druids. Drawg's view is that each of them experienced what they expected.
+- [ ] Seraphina knows the corruption was spreading when she left. She has traveled about 300 years into the future. The last entries in her journal describe the corruption, and she recognizes the blight from home.
+- [ ] The [[Malachite Cord - DM|Malachite Cord]] says the corruption has spread for three centuries or more, and calls it a warning ripple from greater disturbances across Exandria. Its different groups are studying the wood. All they have found is that the rifts may be connected to it.
+- [ ] [[Rinneth Starsong - DM|Rinneth]] says the Cord is rededicating old places of worship such as the Shrine of Melora and studying the rifts with druids and scholars.
+- [ ] Seraphina believes her patron said they need to work with the druids. Drawg's view is that each of them experienced what they expected.
 
 **They don't know:**
 
 > [!secret]- DM Only
-> - **Date:** the corruption began in 585 PD, almost at once after the [[Rupture of the Molaesmyr Fey Crossing|Rupture]]. That date is fixed canon. "About 300 years" and "three centuries or more" are in-world estimates.
-> - **Origin:** the corruption spread from the center of Molaesmyr. The Rupture is the origin of every rift (DM only, see [[Understanding the Rifts]]).
-> - **What the wood is now:** the former Veluthil Forest, a pristine elven forest in northern Wildemount, is now covered in sickly purple fog. Plants are twisted and aggressive, native creatures are warped into more dangerous versions, and the forest resists settlement and clearing.
-> - **Where:** it covers much of the Greying Wildlands north of Wynandir, surrounds the [[Ruins of Molaesmyr - DM|ruins of Molaesmyr]] and makes them nearly inaccessible, and forms a natural barrier between Uthodurn and the rest of Wildemount.
-> - **Rifts in the wood:** they connect to the Feywild and sometimes other planes, let corrupted creatures through, and are growing larger and more frequent.
-> - **No cure** has been found in over 250 years, despite attempts by Uthodurn's mages and others.
+> - [ ] **Date:** the corruption began in 585 PD, almost at once after the [[Rupture of the Molaesmyr Fey Crossing|Rupture]]. That date is fixed canon. "About 300 years" and "three centuries or more" are in-world estimates.
+> - [ ] **Origin:** the corruption spread from the center of Molaesmyr. The Rupture is the origin of every rift (DM only, see [[Understanding the Rifts]]).
+> - [ ] **What the wood is now:** the former Veluthil Forest, a pristine elven forest in northern Wildemount, is now covered in sickly purple fog. Plants are twisted and aggressive, native creatures are warped into more dangerous versions, and the forest resists settlement and clearing.
+> - [ ] **Where:** it covers much of the Greying Wildlands north of Wynandir, surrounds the [[Ruins of Molaesmyr - DM|ruins of Molaesmyr]] and makes them nearly inaccessible, and forms a natural barrier between Uthodurn and the rest of Wildemount.
+> - [ ] **Rifts in the wood:** they connect to the Feywild and sometimes other planes, let corrupted creatures through, and are growing larger and more frequent.
+> - [ ] **No cure** has been found in over 250 years, despite attempts by Uthodurn's mages and others.
 
 ## Next Move
 

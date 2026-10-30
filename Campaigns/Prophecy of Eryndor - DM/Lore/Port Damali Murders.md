@@ -53,14 +53,14 @@ Korfel and Xanaphia devised a plan to draw Hesterian to a neutral location where
 
 #### **The Discovery and Resurrection**
 
-- The women were found by other tavern lodgers because their door had been left open
-- Another lodger, who claimed to have magical abilities to raise the dead, attempted to save them
-- They were unable to revive Xanaphia despite trying multiple times
-- Hesterian was successfully brought back, but something went wrong in the resurrection
-- She awoke as a Hollow One with memories of her past life only partially intact
-- **What she remembers:** Who killed her, what her profession had been, who her family was, and who the dead woman lying near her was
-- **What she doesn't remember:** The angry words that Korfel spoke during his fit of rage, scolding both women for betraying him
-- She was left with a deep sense of anger and resentment for the man who killed both her and her lover on the night of their supposed escape
+- [ ] The women were found by other tavern lodgers because their door had been left open
+- [ ] Another lodger, who claimed to have magical abilities to raise the dead, attempted to save them
+- [ ] They were unable to revive Xanaphia despite trying multiple times
+- [ ] Hesterian was successfully brought back, but something went wrong in the resurrection
+- [ ] She awoke as a Hollow One with memories of her past life only partially intact
+- [ ] **What she remembers:** Who killed her, what her profession had been, who her family was, and who the dead woman lying near her was
+- [ ] **What she doesn't remember:** The angry words that Korfel spoke during his fit of rage, scolding both women for betraying him
+- [ ] She was left with a deep sense of anger and resentment for the man who killed both her and her lover on the night of their supposed escape
 
 #### **Immediate Aftermath**
 

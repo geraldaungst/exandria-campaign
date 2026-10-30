@@ -12,18 +12,18 @@ tags:
 
 **They know:**
 
-- Dreyara, in conversation with Calderax, named [[Valen Elderguard]] as the leader of the Emissaries of the Sunfall, and mentioned someone called "the Eye" (learned through [[Radelia Caphax]]).
-- Drawg thinks "the Eye" is the Eye of the Scars from Xarzith Kitril, old Draconia.
-- The druids said they would look into Elderguard and the Eye.
-- Hesterian does not want to go to Xarzith Kitril.
+- [ ] Dreyara, in conversation with Calderax, named [[Valen Elderguard]] as the leader of the Emissaries of the Sunfall, and mentioned someone called "the Eye" (learned through [[Radelia Caphax]]).
+- [ ] Drawg thinks "the Eye" is the Eye of the Scars from Xarzith Kitril, old Draconia.
+- [ ] The druids said they would look into Elderguard and the Eye.
+- [ ] Hesterian does not want to go to Xarzith Kitril.
 
 **They don't know:**
 
 > [!secret]- DM Only
-> - **Qalix is the Eye**, and Restoring Draconia is his goal. Goal table, Manifesto and Plan Outline: [[Vaud Qalix - DM]], [[Vaud Qalix's Plan Outline]], [[Manifesto - Reclaiming the Glory of Draconia]].
-> - **Why he works alone (tentative):** he believes the council is too slow-moving and cautious. Its six members disagree instead of speaking with one mind, and that makes it ineffective. He believes a single voice would do more, faster, and that belief is what pushes him to act privately. This is a reconstruction and still needs confirming.
-> - **The splinter cell:** Valen Elderguard's group inside the Emissaries opposes the Emissaries' partnership with the Obsidian Echoforge and works to undermine it, with Qalix's money ([[Factions with interest in the rifts]]).
-> - **His response to the party** (they killed Dreyara, raided Cloudfang and took Shard 6) is undecided. Names reach him 10-24 Unndilar 835.
+> - [ ] **Qalix is the Eye**, and Restoring Draconia is his goal. Goal table, Manifesto and Plan Outline: [[Vaud Qalix - DM]], [[Vaud Qalix's Plan Outline]], [[Manifesto - Reclaiming the Glory of Draconia]].
+> - [ ] **Why he works alone (tentative):** he believes the council is too slow-moving and cautious. Its six members disagree instead of speaking with one mind, and that makes it ineffective. He believes a single voice would do more, faster, and that belief is what pushes him to act privately. This is a reconstruction and still needs confirming.
+> - [ ] **The splinter cell:** Valen Elderguard's group inside the Emissaries opposes the Emissaries' partnership with the Obsidian Echoforge and works to undermine it, with Qalix's money ([[Factions with interest in the rifts]]).
+> - [ ] **His response to the party** (they killed Dreyara, raided Cloudfang and took Shard 6) is undecided. Names reach him 10-24 Unndilar 835.
 
 ## Next Move
 

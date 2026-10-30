@@ -79,12 +79,12 @@ The shard is inside the Feywild itself—not in any specific Material Plane loca
 
 Use these sparingly—one at a time, never explained, never repeated too close together. The goal is a slow accumulation that rewards attentive players without telegraphing the destination.
 
-- **When Popcorn rages**—the primal surge briefly opens something. A half-second of giggling at the peak of it, gone before he can focus.
-- **When the party discusses the rifts seriously**—the pixies are interested in this conversation. A faint sound, as if something leaned in to listen.
-- **When Popcorn plays the flute voluntarily**—he already knows this happens, but it's slightly more persistent than usual at this point in the story.
-- **When Popcorn is alone or on watch**—quiet moments are when they check in. A rustle, a giggle, gone.
-- **When the party is near any rift or dimensional anomaly**—the proximity stirs the flute's resonance. Popcorn notices it feels warmer, or hums faintly.
-- **When Popcorn mentions home or his family**—the pixies have been watching him since childhood. Homesickness is a known quantity to them.
+- [ ] **When Popcorn rages**—the primal surge briefly opens something. A half-second of giggling at the peak of it, gone before he can focus.
+- [ ] **When the party discusses the rifts seriously**—the pixies are interested in this conversation. A faint sound, as if something leaned in to listen.
+- [ ] **When Popcorn plays the flute voluntarily**—he already knows this happens, but it's slightly more persistent than usual at this point in the story.
+- [ ] **When Popcorn is alone or on watch**—quiet moments are when they check in. A rustle, a giggle, gone.
+- [ ] **When the party is near any rift or dimensional anomaly**—the proximity stirs the flute's resonance. Popcorn notices it feels warmer, or hums faintly.
+- [ ] **When Popcorn mentions home or his family**—the pixies have been watching him since childhood. Homesickness is a known quantity to them.
 
 ---
 

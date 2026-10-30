@@ -37,15 +37,15 @@ site: "[[Port Zoon - DM]]"
 ## Player Knowledge
 
 - What they know:
-	- They hold the [[Stonefoot Compass - DM]].
-	- Aethor offered payment and an introduction to Calderax for it.
-	- [[Keldar Stonefoot Letter to Calderax|Keldar Stonefoot's letter to Calderax]] says the compass is a Stonefoot heirloom lost in the Othemoor, and that he will part with the artifact Calderax seeks if it is returned.
-	- Aethor told them the compass leads to "the fifth shard".
+	- [ ] They hold the [[Stonefoot Compass - DM]].
+	- [ ] Aethor offered payment and an introduction to Calderax for it.
+	- [ ] [[Keldar Stonefoot Letter to Calderax|Keldar Stonefoot's letter to Calderax]] says the compass is a Stonefoot heirloom lost in the Othemoor, and that he will part with the artifact Calderax seeks if it is returned.
+	- [ ] Aethor told them the compass leads to "the fifth shard".
 - What they think they know:
-	- The compass leads to the shard Aethor hopes to obtain through Port Zoon.
+	- [ ] The compass leads to the shard Aethor hopes to obtain through Port Zoon.
 - What they don't know:
-	- Which shard the map and compass actually lead to.
-	- What Aethor and the Echoforge will do about the missed deadline.
+	- [ ] Which shard the map and compass actually lead to.
+	- [ ] What Aethor and the Echoforge will do about the missed deadline.
 
 ## Open Issues
 

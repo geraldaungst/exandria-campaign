@@ -14,20 +14,20 @@ Three groups want the [[Lorestone of Eryndor - DM]] for different ends: the [[Ob
 
 **They know:**
 
-- The Lorestone is an obsidian disc bearing the prophecy, shattered and scattered.
-- The Echoforge holds four shards and wants to reassemble it to close the rifts; the Cord fears a Molaesmyr-style catastrophe; Qalix is collecting shards.
-- Shard 5 is in the Cobalt Soul's archive in Rexxentrum. They carry the Stonefoot Compass and have kept it from Aethor.
-- Shard 6 is theirs: Seraphina identified it and read its verse (Session 52); Hesterian has begun attuning to it (Session 53).
-- The shard brightens near the Luxon Beacon in Drawg's bag, a Kryn-sacred artifact (Session 53).
-- The prophecy's common wording is widely known; the High Elven text doesn't match Seraphina's childhood version (Session 53).
+- [ ] The Lorestone is an obsidian disc bearing the prophecy, shattered and scattered.
+- [ ] The Echoforge holds four shards and wants to reassemble it to close the rifts; the Cord fears a Molaesmyr-style catastrophe; Qalix is collecting shards.
+- [ ] Shard 5 is in the Cobalt Soul's archive in Rexxentrum. They carry the Stonefoot Compass and have kept it from Aethor.
+- [ ] Shard 6 is theirs: Seraphina identified it and read its verse (Session 52); Hesterian has begun attuning to it (Session 53).
+- [ ] The shard brightens near the Luxon Beacon in Drawg's bag, a Kryn-sacred artifact (Session 53).
+- [ ] The prophecy's common wording is widely known; the High Elven text doesn't match Seraphina's childhood version (Session 53).
 
 **They don't know:**
 
 > [!secret]- DM Only
-> - The Beacon's role: the Lorestone can't be used safely without it ([[Luxon Beacon Integration with Lorestone]]).
-> - How each faction reads the Lorestone: [[Lorestone of Eryndor - DM#Current Interpretations (All Incomplete)]].
-> - Where Shards 7 and 8 are ([[Shard 7 - Ebonglass Shard]], [[Shard 8 - Feywild Shard]]), and that the compass points to Shard 7, not Shard 5.
-> - Faction aims (kept from the old note): the Echoforge assembles it to fulfill the prophecy; the Cord prevents assembly, fearing a repeat of [[Ruins of Molaesmyr - DM]]; the Emissaries plan a permanent gate.
+> - [ ] The Beacon's role: the Lorestone can't be used safely without it ([[Luxon Beacon Integration with Lorestone]]).
+> - [ ] How each faction reads the Lorestone: [[Lorestone of Eryndor - DM#Current Interpretations (All Incomplete)]].
+> - [ ] Where Shards 7 and 8 are ([[Shard 7 - Ebonglass Shard]], [[Shard 8 - Feywild Shard]]), and that the compass points to Shard 7, not Shard 5.
+> - [ ] Faction aims (kept from the old note): the Echoforge assembles it to fulfill the prophecy; the Cord prevents assembly, fearing a repeat of [[Ruins of Molaesmyr - DM]]; the Emissaries plan a permanent gate.
 
 ## Next Move
 

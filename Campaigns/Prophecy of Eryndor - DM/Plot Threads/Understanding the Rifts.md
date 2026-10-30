@@ -12,23 +12,23 @@ Rifts keep opening across Wildemount. Every faction has a theory about what they
 
 **They know:**
 
-- The rifts are wounds between realms. They bleed raw magic, warp plants and beasts, pull creatures through, and leave fragments of foreign terrain behind. Some flicker out; others last.
-- Riftcages made of soulwood siphon a rift's energy and shrink it, but they can't close it, and only a few exist. They saw this with Rinneth's crew at the Plane of Fire rift.
-- Emer's notes claim the rifts aren't natural, will widen if left alone, and may all come from "a single wound." Her map marks the Savalirwood, Zadash, Ashkeeper Peaks, Cyrios, and [[Ebonglass Massif|Ebonglass]].
-- The Echoforge believes an assembled Lorestone will close the rifts. Qalix wants the stone to stabilize them.
-- The Malachite Cord calls the Savalirwood corruption a warning ripple from larger disturbances. Seraphina recognizes the blight from her home.
-- The shard warmed at the Deastok dig site, where no rift is known (Session 51).
-- Shard verse: "sees rifts' converging stream"; "to a future with rifts torn."
+- [ ] The rifts are wounds between realms. They bleed raw magic, warp plants and beasts, pull creatures through, and leave fragments of foreign terrain behind. Some flicker out; others last.
+- [ ] Riftcages made of soulwood siphon a rift's energy and shrink it, but they can't close it, and only a few exist. They saw this with Rinneth's crew at the Plane of Fire rift.
+- [ ] Emer's notes claim the rifts aren't natural, will widen if left alone, and may all come from "a single wound." Her map marks the Savalirwood, Zadash, Ashkeeper Peaks, Cyrios, and [[Ebonglass Massif|Ebonglass]].
+- [ ] The Echoforge believes an assembled Lorestone will close the rifts. Qalix wants the stone to stabilize them.
+- [ ] The Malachite Cord calls the Savalirwood corruption a warning ripple from larger disturbances. Seraphina recognizes the blight from her home.
+- [ ] The shard warmed at the Deastok dig site, where no rift is known (Session 51).
+- [ ] Shard verse: "sees rifts' converging stream"; "to a future with rifts torn."
 
 **They don't know:**
 
 > [!note]- DM Only: Fixed truths
-> - **Origin:** the [[Rupture of the Molaesmyr Fey Crossing]] is the origin of every rift. Only the DM knows this; no NPC or faction does, and neither does [[Ceratos]].
-> - **Location follows the ley lines; nothing else does.** The Rupture's damage travels along the ley lines from the Labyrinth's anchor, and rifts open where a line crosses a spot weakened by an older catastrophe ([[Rupture of the Molaesmyr Fey Crossing]]). Size, plane, duration and local effects are random, so factions studying individual rifts for a pattern ([[Vaud Qalix - DM|Qalix]]'s signatures, Emer's pulse) are chasing noise. Emer's ley-line hypothesis is close; she doesn't know the source.
-> - **Emer is an unreliable source:** [[Lady Emer's Research Notes]] rest on a handful of sites, and she presents assumptions as findings. Some of her claims happen to be true; none should be treated as reliable.
-> - **Closing a rift** requires the assembled Lorestone and an active Luxon Beacon together, plus ritual knowledge held by [[Aveqtaro Thaan]]. See [[Lorestone - Rift Closing Mechanics]].
-> - **Ceratos can't touch the rifts.** It works only through its warlock thralls, Qalix among them. Qalix has a Great Old One patron but doesn't know its identity and has no direct contact with it. To Qalix, the patron is simply where his power comes from.
-> - **Rifts have been spreading since the original rupture.** For hundreds of years, the spread was not big enough or consistent enough or in enough populated areas to be noticed as anything more than random occurrences. They are starting to get noticed now only because the spread is accelerating enough to be recognizable. (The frog in the pot finally notices that the water's getting hot.)
+> - [ ] **Origin:** the [[Rupture of the Molaesmyr Fey Crossing]] is the origin of every rift. Only the DM knows this; no NPC or faction does, and neither does [[Ceratos]].
+> - [ ] **Location follows the ley lines; nothing else does.** The Rupture's damage travels along the ley lines from the Labyrinth's anchor, and rifts open where a line crosses a spot weakened by an older catastrophe ([[Rupture of the Molaesmyr Fey Crossing]]). Size, plane, duration and local effects are random, so factions studying individual rifts for a pattern ([[Vaud Qalix - DM|Qalix]]'s signatures, Emer's pulse) are chasing noise. Emer's ley-line hypothesis is close; she doesn't know the source.
+> - [ ] **Emer is an unreliable source:** [[Lady Emer's Research Notes]] rest on a handful of sites, and she presents assumptions as findings. Some of her claims happen to be true; none should be treated as reliable.
+> - [ ] **Closing a rift** requires the assembled Lorestone and an active Luxon Beacon together, plus ritual knowledge held by [[Aveqtaro Thaan]]. See [[Lorestone - Rift Closing Mechanics]].
+> - [ ] **Ceratos can't touch the rifts.** It works only through its warlock thralls, Qalix among them. Qalix has a Great Old One patron but doesn't know its identity and has no direct contact with it. To Qalix, the patron is simply where his power comes from.
+> - [ ] **Rifts have been spreading since the original rupture.** For hundreds of years, the spread was not big enough or consistent enough or in enough populated areas to be noticed as anything more than random occurrences. They are starting to get noticed now only because the spread is accelerating enough to be recognizable. (The frog in the pot finally notices that the water's getting hot.)
 
 ## Open Issues
 

@@ -14,20 +14,20 @@ The question this thread is built on: when she meets her killer in his own terri
 
 **They know:**
 
-- Hesterian remembers who killed her (details: [[Port Damali Murders]]).
-- Her killer is in Zadash, living under another name. She can't be certain what role he has in the Myriad.
-- At Harmony Hall she confronted [[Grisul Adder]] and learned some of what happened after the murders.
-- "The Gentleman" is one of the Myriad's crime bosses in Zadash.
-- Hesterian wants to infiltrate the Myriad.
+- [ ] Hesterian remembers who killed her (details: [[Port Damali Murders]]).
+- [ ] Her killer is in Zadash, living under another name. She can't be certain what role he has in the Myriad.
+- [ ] At Harmony Hall she confronted [[Grisul Adder]] and learned some of what happened after the murders.
+- [ ] "The Gentleman" is one of the Myriad's crime bosses in Zadash.
+- [ ] Hesterian wants to infiltrate the Myriad.
 
 **They don't know:**
 
 > [!secret]- DM Only
-> - **Korfel is the Gentleman.** Nobody in Zadash knows the name Korfel Withrethin, and he is not the original Gentleman.
-> - **He thinks she is dead.** Seeing her shakes him. The scene beats are in the "When Hesterian walks in" section of [[Korfel Withrethin]].
-> - **He holds Qalix's down payment** for the Rexxentrum Archive job (Shard 5), which puts the party's route and his business in the same place.
-> - **Melthes:** her brother was taken by the Cerberus Assembly, and Cree Deeproots, who works for Korfel, processed him ([[Rescue Melthes]]).
-> - **The Stone of Memory** she carries is the source of her "Scourger" dream ([[Hesterian Shyr - Dot]]).
+> - [ ] **Korfel is the Gentleman.** Nobody in Zadash knows the name Korfel Withrethin, and he is not the original Gentleman.
+> - [ ] **He thinks she is dead.** Seeing her shakes him. The scene beats are in the "When Hesterian walks in" section of [[Korfel Withrethin]].
+> - [ ] **He holds Qalix's down payment** for the Rexxentrum Archive job (Shard 5), which puts the party's route and his business in the same place.
+> - [ ] **Melthes:** her brother was taken by the Cerberus Assembly, and Cree Deeproots, who works for Korfel, processed him ([[Rescue Melthes]]).
+> - [ ] **The Stone of Memory** she carries is the source of her "Scourger" dream ([[Hesterian Shyr - Dot]]).
 
 ## Next Move
 

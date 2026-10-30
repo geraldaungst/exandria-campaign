@@ -25,18 +25,18 @@ tier: standard
 ## The Truth
 
 > [!secret]- What is actually going on
-> - The [[Rupture of the Molaesmyr Fey Crossing|Molaesmyr cataclysm]] damaged the ley network at the Labyrinth's ley anchor, and the damage travels along the lines. Its reach was never strictly local: it surfaces wherever a line crosses a spot with its own latent planar sensitivity, however faint.
-> - Deastok sits atop one such point: an old pre-Empire structure under farmland, recently uncovered by a survey crew, with a genuine but faint planar/Luxon-adjacent resonance. Dormant for centuries.
-> - **The dreams are not local in origin.** The thinning leaks Savalirwood imagery along the ley line. Deastok townspeople who have never left the Truscan Vale are dreaming a forest about 250 years and a continent away—*as it was*, not as it is now.
-> - The corruption has built for 250+ years, mostly sub-threshold. It is **only recently** crossing over—consistent with Erma Schnieb's discovery that rifts are growing larger and lasting longer. Nobody caused the acceleration. The wound is simply getting big enough to show.
-> - [[Vaud Qalix - DM]] is exploiting the trend, not causing it. [[Ceratos]] wants a way through and would speed the trend if it could, but lacks the leverage to do so directly—the party's interference has been working.
-> - **The party does not need to learn any of this explicitly.** They should leave with: (1) the dreams and the site are the same phenomenon, (2) it's old and larger than local legend, (3) the shards react to things that are not rifts, (4) Seraphina privately recognizes something personal in it. Full mechanism stays sealed.
+> - [ ] The [[Rupture of the Molaesmyr Fey Crossing|Molaesmyr cataclysm]] damaged the ley network at the Labyrinth's ley anchor, and the damage travels along the lines. Its reach was never strictly local: it surfaces wherever a line crosses a spot with its own latent planar sensitivity, however faint.
+> - [ ] Deastok sits atop one such point: an old pre-Empire structure under farmland, recently uncovered by a survey crew, with a genuine but faint planar/Luxon-adjacent resonance. Dormant for centuries.
+> - [ ] **The dreams are not local in origin.** The thinning leaks Savalirwood imagery along the ley line. Deastok townspeople who have never left the Truscan Vale are dreaming a forest about 250 years and a continent away—*as it was*, not as it is now.
+> - [ ] The corruption has built for 250+ years, mostly sub-threshold. It is **only recently** crossing over—consistent with Erma Schnieb's discovery that rifts are growing larger and lasting longer. Nobody caused the acceleration. The wound is simply getting big enough to show.
+> - [ ] [[Vaud Qalix - DM]] is exploiting the trend, not causing it. [[Ceratos]] wants a way through and would speed the trend if it could, but lacks the leverage to do so directly—the party's interference has been working.
+> - [ ] **The party does not need to learn any of this explicitly.** They should leave with: (1) the dreams and the site are the same phenomenon, (2) it's old and larger than local legend, (3) the shards react to things that are not rifts, (4) Seraphina privately recognizes something personal in it. Full mechanism stays sealed.
 
 > [!secret]- What the dig site actually is (never stated to the party)
-> - A minor, long-forgotten **Ashari watch-post**—not one of the four major elemental rifts, but a secondary site monitoring a non-elemental (Far Realm-adjacent) thinning. The Ashari mandate does extend to occasional non-elemental planar incidents, which is why this existed at all.
-> - **Why abandoned:** when the celestial solstice forced the split into four dedicated tribes, each consolidated around its assigned elemental rift. This post fell under no tribe's mandate, had never produced anything alarming, and was left behind in the reorganization—not attacked, just deprioritized until nobody remembered it.
-> - **Connection to the Riftguard:** the (unintroduced) Ashari Riftguard formed later to address exactly the non-elemental problems the four-tribe system was never built for. This site is an ancestor of their mission. A thread to pay off whenever the party meets them. *(See Open Issues.)*
-> - **The physical signature:** impossible geometry. The structure reads as an ordinary squared shape at a glance. It has five walls, every one at a right angle. See Scene 2.
+> - [ ] A minor, long-forgotten **Ashari watch-post**—not one of the four major elemental rifts, but a secondary site monitoring a non-elemental (Far Realm-adjacent) thinning. The Ashari mandate does extend to occasional non-elemental planar incidents, which is why this existed at all.
+> - [ ] **Why abandoned:** when the celestial solstice forced the split into four dedicated tribes, each consolidated around its assigned elemental rift. This post fell under no tribe's mandate, had never produced anything alarming, and was left behind in the reorganization—not attacked, just deprioritized until nobody remembered it.
+> - [ ] **Connection to the Riftguard:** the (unintroduced) Ashari Riftguard formed later to address exactly the non-elemental problems the four-tribe system was never built for. This site is an ancestor of their mission. A thread to pay off whenever the party meets them. *(See Open Issues.)*
+> - [ ] **The physical signature:** impossible geometry. The structure reads as an ordinary squared shape at a glance. It has five walls, every one at a right angle. See Scene 2.
 
 > [!secret]- The dream timeline—get this straight before the table does
 > **Two stages, weeks apart. Don't collapse them.**
@@ -49,9 +49,9 @@ tier: standard
 > Seraphina's dream is stage-2 sharp—she's been carrying the shard toward this place for two nights.
 
 > [!secret]- Jorun Kettlewright—why him
-> - Jorun is Brynna's crew stonemason. He **went to the site**, worked a few hours, left sick, and has not been back. The dream started that night.
-> - **Why he was the only one affected is deliberately unanswered.** Available reads—closest to the center, there longest, touched the stone, nothing at all—are all fine and none is true. **Do not invent an explanation at the table.**
-> - He does not recover. Not today, not later. If the party ever passes back through Deastok, he still isn't sleeping right.
+> - [ ] Jorun is Brynna's crew stonemason. He **went to the site**, worked a few hours, left sick, and has not been back. The dream started that night.
+> - [ ] **Why he was the only one affected is deliberately unanswered.** Available reads—closest to the center, there longest, touched the stone, nothing at all—are all fine and none is true. **Do not invent an explanation at the table.**
+> - [ ] He does not recover. Not today, not later. If the party ever passes back through Deastok, he still isn't sleeping right.
 
 ### The clock
 

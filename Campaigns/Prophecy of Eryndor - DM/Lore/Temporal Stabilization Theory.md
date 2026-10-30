@@ -107,17 +107,17 @@ Dunamantic magic, particularly as channeled through Luxon Beacons, provides temp
 
 **Who Understands This Theory:**
 
-- **Comprehensive:** [[Aveqtaro Thaan]] (through recovered memories)
-- **Partial:** Advanced Kryn dunamancers, some Cerberus Assembly researchers
-- **Practical but not theoretical:** Experienced chronurgy/graviturgy practitioners
-- **Historical precedent only:** Molaesmyr survivors, certain Cobalt Soul scholars
+- [ ] **Comprehensive:** [[Aveqtaro Thaan]] (through recovered memories)
+- [ ] **Partial:** Advanced Kryn dunamancers, some Cerberus Assembly researchers
+- [ ] **Practical but not theoretical:** Experienced chronurgy/graviturgy practitioners
+- [ ] **Historical precedent only:** Molaesmyr survivors, certain Cobalt Soul scholars
 
 **Faction Blind Spots:**
 
-- **Obsidian Echoforge:** Focused on energy channeling, ignores temporal effects
-- **Malachite Cord:** Fears the symptoms but doesn't understand the underlying cause
-- **Emissaries of the Sunfall:** Seeks power without comprehending safety requirements
-- **Vaud Qalix:** Lists a Luxon Beacon as a Conduit component but doesn't know it is the stabilizer; no one living does
+- [ ] **Obsidian Echoforge:** Focused on energy channeling, ignores temporal effects
+- [ ] **Malachite Cord:** Fears the symptoms but doesn't understand the underlying cause
+- [ ] **Emissaries of the Sunfall:** Seeks power without comprehending safety requirements
+- [ ] **Vaud Qalix:** Lists a Luxon Beacon as a Conduit component but doesn't know it is the stabilizer; no one living does
 
 #### Research Implications
 
