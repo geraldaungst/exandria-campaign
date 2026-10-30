@@ -8,7 +8,7 @@ hide_from_related: true
 
 **Depends on:** [[Shared Helpers]] · [[Campaign State]] · [[Calendar and Timeline]] · [[Note Types]]
 
-**Used by:** [[Session Hub]]
+**Used by:** [[Session Hub]] · [[Session Hub Table]]
 
 Conventions this module relies on:
 
