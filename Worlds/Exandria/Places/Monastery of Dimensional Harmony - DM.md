@@ -56,11 +56,11 @@ The monastery sits at high altitude in the Cyrios Mountains, where the air is th
 
 ### Adventure Hooks
 
-- **Planar Researchers**: The party is hired by scholars studying dimensional rifts to investigate reports of strange ethereal disturbances emanating from the Cyrios peaks.
-- **Missing Expedition**: A group of mountain climbers discovered the entrance but never returned. Their families offer a reward for answers.
-- **Phase Spider Encounters**: Travelers report phase spiders behaving strangely near the mountains - some appearing almost… sad?
-- **Ancient Knowledge**: Rumors speak of firbolg texts containing pre-Calamity dimensional magic housed in a lost mountain monastery.
-- **Mountain Passage**: Local guides mention an old story about a "path through the mountain" that avoids the dangerous exterior passes.
+- [ ] **Planar Researchers**: The party is hired by scholars studying dimensional rifts to investigate reports of strange ethereal disturbances emanating from the Cyrios peaks.
+- [ ] **Missing Expedition**: A group of mountain climbers discovered the entrance but never returned. Their families offer a reward for answers.
+- [ ] **Phase Spider Encounters**: Travelers report phase spiders behaving strangely near the mountains - some appearing almost… sad?
+- [ ] **Ancient Knowledge**: Rumors speak of firbolg texts containing pre-Calamity dimensional magic housed in a lost mountain monastery.
+- [ ] **Mountain Passage**: Local guides mention an old story about a "path through the mountain" that avoids the dangerous exterior passes.
 
 ---
 
@@ -72,8 +72,8 @@ A recent avalanche has cleared centuries of accumulated rockfall and snow, revea
 
 **Survival:
 
-- **(DC 12)**: The avalanche occurred recently - within the past few weeks.
-- **(DC 18)** Animal tracks around the entrance suggest local wildlife is avoiding the area.
+- [ ] **(DC 12)**: The avalanche occurred recently - within the past few weeks.
+- [ ] **(DC 18)** Animal tracks around the entrance suggest local wildlife is avoiding the area.
 
 ### The Entrance Passage
 

@@ -98,8 +98,8 @@ Legend says this blade was forged through a collaboration between the elves of S
 >
 > **Serendipitous Strike.** When you make a weapon attack or spell attack with any weapon, you can expend 3 charges and use your reaction to invoke Avandra's fortune. Choose one of the following effects:
 >
-> - **Fortune's Reversal:** If you missed with the attack, the miss becomes a hit, and you can immediately move up to 15 feet without provoking opportunity attacks. If this movement brings another enemy within your reach, you can make one additional weapon attack against that creature as part of the same action.
-> - **Fortune's Strike:** If you hit with the attack, the hit becomes a critical hit.
+> - [ ] **Fortune's Reversal:** If you missed with the attack, the miss becomes a hit, and you can immediately move up to 15 feet without provoking opportunity attacks. If this movement brings another enemy within your reach, you can make one additional weapon attack against that creature as part of the same action.
+> - [ ] **Fortune's Strike:** If you hit with the attack, the hit becomes a critical hit.
 >
 > **Legendary (Level 4)**
 >

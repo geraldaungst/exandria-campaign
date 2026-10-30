@@ -98,19 +98,19 @@ The shrine is a mix of ancient and new: natural carvings of Melora's symbols alo
 ### **Options For Player Interaction**
 
 1. **Observe from Afar**
-   - **Stealth Check** (DC 15) to observe undetected.
+   - [ ] **Stealth Check** (DC 15) to observe undetected.
    - The party sees **Radelia** speaking urgently with a Cord leader. She appears anxious but doesn't notice the party.
-     - **Insight Check** (DC 14): Radelia is hiding something, but it's unclear if she's fully aligned with the group.
-     - The Cord members' **rituals seem strained**; the rift pulses unnervingly.
+     - [ ] **Insight Check** (DC 14): Radelia is hiding something, but it's unclear if she's fully aligned with the group.
+     - [ ] The Cord members' **rituals seem strained**; the rift pulses unnervingly.
 
 2. **Confront Radelia**
-   - The party can approach openly and confront Radelia, who acts surprised to see them. She explains she's trying to "restore balance" to the shrine, claiming it's for the greater good.
-   - **Persuasion/Deception Check** (DC 12) allows her to convince them to stay and observe. Failure raises their suspicions—her association with the Cord feels questionable.
+   - [ ] The party can approach openly and confront Radelia, who acts surprised to see them. She explains she's trying to "restore balance" to the shrine, claiming it's for the greater good.
+   - [ ] **Persuasion/Deception Check** (DC 12) allows her to convince them to stay and observe. Failure raises their suspicions—her association with the Cord feels questionable.
 
 3. **Examine the Rift**
-   - **Arcana Check** (DC 15) reveals that the Cord's rituals are unstable and may **backfire**.
+   - [ ] **Arcana Check** (DC 15) reveals that the Cord's rituals are unstable and may **backfire**.
    - The rift shimmers dangerously, and the runes used by the Cord seem improperly placed.
-     - If the party gets close, they sense something **otherworldly** from beyond the rift.
+     - [ ] If the party gets close, they sense something **otherworldly** from beyond the rift.
 
 ---
 
@@ -156,9 +156,9 @@ The Cord's ritual **succeeds temporarily**, and the rift's light dims. However, 
 
 ### **Ending Options**
 
-- **If the Party Aids the Cord**: They help stabilize the rift or protect the shrine, potentially forging a temporary alliance. However, their unease remains, and Radelia's connection to the group raises questions.
-- **If the Party Opposes or Distrusts the Cord**: They could disrupt the ritual or confront Radelia, leading to a fight or heated argument. The Cord might retreat, leaving the rift unstable.
-- **If the Rift Destabilizes**: A larger **rift event** occurs, leading to chaos as more creatures pour through or the shrine begins to collapse. The party must decide whether to save the shrine or leave the Cord to their fate.
+- [ ] **If the Party Aids the Cord**: They help stabilize the rift or protect the shrine, potentially forging a temporary alliance. However, their unease remains, and Radelia's connection to the group raises questions.
+- [ ] **If the Party Opposes or Distrusts the Cord**: They could disrupt the ritual or confront Radelia, leading to a fight or heated argument. The Cord might retreat, leaving the rift unstable.
+- [ ] **If the Rift Destabilizes**: A larger **rift event** occurs, leading to chaos as more creatures pour through or the shrine begins to collapse. The party must decide whether to save the shrine or leave the Cord to their fate.
 
 ## Connected Elements
 

@@ -57,10 +57,10 @@ natural_region:
 ### Secrets & Clues
 
 > [!secret]- DM Only
-> - Hidden caves behind waterfall
-> - Deep pool beneath bridge often collects valuable debris
-> - Several natural sniper positions in surrounding rocks
-> - Seasonal water levels affect access to lower areas
+> - [ ] Hidden caves behind waterfall
+> - [ ] Deep pool beneath bridge often collects valuable debris
+> - [ ] Several natural sniper positions in surrounding rocks
+> - [ ] Seasonal water levels affect access to lower areas
 
 ## Connected Elements
 

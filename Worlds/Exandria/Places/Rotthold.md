@@ -22,7 +22,7 @@ natural_region:
 
 # Secrets
 > [!secret]- DM Only
-> - Shoagragoth means to infiltrate nearby settlements with corrupted thralls, starting with Rotthold ([[Shoagragoth, The Acid Crown]]).
+> - [ ] Shoagragoth means to infiltrate nearby settlements with corrupted thralls, starting with Rotthold ([[Shoagragoth, The Acid Crown]]).
 
 ## Open Issues
 - [ ] Who governs Rotthold, how large it is, and who lives there.

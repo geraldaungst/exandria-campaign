@@ -52,9 +52,9 @@ tags:
 ## Hidden Elements
 
 > [!secret]- DM Only
-> - Concealed features: Hidden storage space beneath the cellar
-> - Unknown connections: Old smuggling tunnel (now collapsed) in the cellar
-> - Future developments: Local merchant guild showing interest in purchasing the property
+> - [ ] Concealed features: Hidden storage space beneath the cellar
+> - [ ] Unknown connections: Old smuggling tunnel (now collapsed) in the cellar
+> - [ ] Future developments: Local merchant guild showing interest in purchasing the property
 
 ## Proprietors
 

@@ -22,10 +22,10 @@ Sickly purple fog fills the forest. Plants grow twisted and aggressive, native c
 
 # Secrets
 > [!secret]- DM Only
-> - The corruption began in 585 PD and spread from the center of Molaesmyr after the [[Rupture of the Molaesmyr Fey Crossing|Rupture]].
-> - The rifts connect to the Feywild and sometimes other planes, and cursed creatures come through them.
-> - Erma Schnieb, a halfling mage from Uthodurn, believes she has found a portal in the wood to the Lower Planes. She is only partly right: several rifts lead to several planes.
-> - The Savalirwood Fey crossing is a natural crossing in the wood, separate from the ruptured Molaesmyr Fey Crossing and safe to pass. The monastery's monks used it before 535 PD. It reaches the Feywild region where Shard 8 lies. Popcorn's flute stirs near it and the whispers grow louder on arrival ([[Kelmen and Popcorn Connections]]).
+> - [ ] The corruption began in 585 PD and spread from the center of Molaesmyr after the [[Rupture of the Molaesmyr Fey Crossing|Rupture]].
+> - [ ] The rifts connect to the Feywild and sometimes other planes, and cursed creatures come through them.
+> - [ ] Erma Schnieb, a halfling mage from Uthodurn, believes she has found a portal in the wood to the Lower Planes. She is only partly right: several rifts lead to several planes.
+> - [ ] The Savalirwood Fey crossing is a natural crossing in the wood, separate from the ruptured Molaesmyr Fey Crossing and safe to pass. The monastery's monks used it before 535 PD. It reaches the Feywild region where Shard 8 lies. Popcorn's flute stirs near it and the whispers grow louder on arrival ([[Kelmen and Popcorn Connections]]).
 
 ## Open Issues
 - [ ] Nothing is designed for travel through the wood: the route, its encounters, and how the party finds the Fey crossing.

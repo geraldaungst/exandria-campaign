@@ -120,9 +120,9 @@ Four feet tall, stout and barrel-chested, roughly thirty, ruddy and gap-toothed,
 
 ### Hooks
 
-- **The splurge items.** A few visibly expensive objects sit around the tavern, kept because Grent likes them rather than to show off. Unexplained. A reason to come back.
-- **The cheese cave.** Nobody gets in. Grent doesn't fully understand why the cave works, either.
-- **Banked trial ideas.** *Wheel-Balance Gauntlet* and *The Long Story*—unused challenges held for a return visit.
+- [ ] **The splurge items.** A few visibly expensive objects sit around the tavern, kept because Grent likes them rather than to show off. Unexplained. A reason to come back.
+- [ ] **The cheese cave.** Nobody gets in. Grent doesn't fully understand why the cave works, either.
+- [ ] **Banked trial ideas.** *Wheel-Balance Gauntlet* and *The Long Story*—unused challenges held for a return visit.
 
 ---
 

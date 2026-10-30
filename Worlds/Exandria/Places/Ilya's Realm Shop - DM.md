@@ -53,10 +53,10 @@ tags:
 > 	- [x] Periapt of Health 5000gp - quoted 4500
 > 	- [ ] Pipes of Haunting 5000gp
 > - Bespoke Items:
-> 	- (Cost for materials + DMG item cost) * 1.25
-> 	- Rush job (half crafting time): base cost * 1.4
-> 	- Example: purple Studded Leather Mariner's Armor: 1500gp or 2000gp for rush
-> 	- Example: Decanter of Endless Hot Cocoa: 250gp or 350gp for rush
+> 	- [ ] (Cost for materials + DMG item cost) * 1.25
+> 	- [ ] Rush job (half crafting time): base cost * 1.4
+> 	- [ ] Example: purple Studded Leather Mariner's Armor: 1500gp or 2000gp for rush
+> 	- [ ] Example: Decanter of Endless Hot Cocoa: 250gp or 350gp for rush
 
 ## Open Issues
 

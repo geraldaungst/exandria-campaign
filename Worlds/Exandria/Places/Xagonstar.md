@@ -20,10 +20,10 @@ natural_region:
 
 # Secrets
 > [!secret]- DM Only
-> - The acid has exposed a sealed dwarven vault holding planar research artifacts.
-> - One thrall is a trapped Kryn agent who found hints about the lost shard.
-> - The shard is slowly affecting Shoagragoth's mind and feeding his sovereignty obsession.
-> - The Abyssal rift nearby is unstable because he feeds it.
+> - [ ] The acid has exposed a sealed dwarven vault holding planar research artifacts.
+> - [ ] One thrall is a trapped Kryn agent who found hints about the lost shard.
+> - [ ] The shard is slowly affecting Shoagragoth's mind and feeding his sovereignty obsession.
+> - [ ] The Abyssal rift nearby is unstable because he feeds it.
 
 ## Open Issues
 - [ ] Which dwarves built Xagonstar, when, and how it came to be buried.

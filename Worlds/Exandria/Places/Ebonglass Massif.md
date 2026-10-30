@@ -24,9 +24,9 @@ natural_region:
 
 # Secrets
 > [!secret]- DM Only
-> - Keldar's map shows where Shard 7 once was (the wreck of [[Consecution's Hope]]), not where it is now.
-> - The rift is growing unstable because Shoagragoth feeds it to taste it. He claims to control it and does not.
-> - Rifts open where a ley line crosses a spot weakened by an older catastrophe ([[Understanding the Rifts]]).
+> - [ ] Keldar's map shows where Shard 7 once was (the wreck of [[Consecution's Hope]]), not where it is now.
+> - [ ] The rift is growing unstable because Shoagragoth feeds it to taste it. He claims to control it and does not.
+> - [ ] Rifts open where a ley line crosses a spot weakened by an older catastrophe ([[Understanding the Rifts]]).
 
 ## Open Issues
 - [ ] Nothing is designed for the approach: route, landscape, encounters. [[Adaptable Modules]] proposes reskinning The Curse of Wardenwood (volcanic glass instead of forest; earlier shard expeditions trapped there; rescuing them gives intelligence on the lair).

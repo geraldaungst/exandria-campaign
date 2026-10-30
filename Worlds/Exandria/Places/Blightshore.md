@@ -21,7 +21,7 @@ natural_region:
 
 # Secrets
 > [!secret]- DM Only
-> - An Abyssal rift near [[Xagonstar]] keeps corrupting the area. Every rift comes from the 585 PD [[Rupture of the Molaesmyr Fey Crossing|Rupture]] ([[Understanding the Rifts]]).
+> - [ ] An Abyssal rift near [[Xagonstar]] keeps corrupting the area. Every rift comes from the 585 PD [[Rupture of the Molaesmyr Fey Crossing|Rupture]] ([[Understanding the Rifts]]).
 
 ## Open Issues
 - [ ] Who governs the Blightshore, who lives there, and how the party gets there (Rosohna is on the way).

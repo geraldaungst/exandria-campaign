@@ -77,7 +77,7 @@ Cluttered and warm, with an air of old things treated with respect. The physical
 # Secrets
 > [!secret]- DM Only
 > - [ ] The memorial ledger is the origin of the "Deacon" nickname, though Azel would never say so. Long-time Emon locals know it exists. He has never shown it to a customer.
-> - The pants are a quiet callback: Azel stocks practical, well-made clothing that soldiers would actually want.
+> - [ ] The pants are a quiet callback: Azel stocks practical, well-made clothing that soldiers would actually want.
 > - [ ] The medal engraved "Vaud Qalix" is Qalix's own ([[Vaud Qalix - DM]]).
 
 ## Open Issues

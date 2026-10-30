@@ -28,8 +28,8 @@ Ludinus Da'leth, one of the survivors, is also a founding member of the [[Cerber
 
 # Secrets
 > [!secret]- DM Only
-> - The Fey Crossing lies in the Labyrinth beneath Caes Mosor. Cause and consequences: [[Rupture of the Molaesmyr Fey Crossing]].
-> - A magically sealed room on Caes Mosor's level 6 holds [[Ilixidor Alo]]'s research notebooks.
+> - [ ] The Fey Crossing lies in the Labyrinth beneath Caes Mosor. Cause and consequences: [[Rupture of the Molaesmyr Fey Crossing]].
+> - [ ] A magically sealed room on Caes Mosor's level 6 holds [[Ilixidor Alo]]'s research notebooks.
 
 ## Open Issues
 - [ ] [[Cairel Ulthe]] has no note yet (planned).

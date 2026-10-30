@@ -115,9 +115,9 @@ tags:
 > - [ ] True Identity: [[Celdric Ambril]] is actually a savvy book collector and trader
 > - [ ] Business Model: Theatrical presentation of normal acquisitions as mysterious findings
 > - [ ] Marketing Strategy:
->   - Creates events around "discoveries"
->   - Releases maps and riddles for promotion
->   - Sources items through normal supplier networks and auctions
+>   - [ ] Creates events around "discoveries"
+>   - [ ] Releases maps and riddles for promotion
+>   - [ ] Sources items through normal supplier networks and auctions
 > - [ ] Reality vs Fiction: Shop's underwater theme is purely theatrical
 > - [ ] Actual Expertise: Genuine knowledge of history and arcane despite theatrics
 

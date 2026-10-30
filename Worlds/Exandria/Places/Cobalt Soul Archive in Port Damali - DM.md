@@ -25,7 +25,7 @@ tags:
 # Secrets
 
 > [!secret]- DM Only
-> - Nothing is set for this archive. The hidden shard is in the Rexxentrum one ([[Cobalt Soul Archive in Rexxentrum]]).
+> - [ ] Nothing is set for this archive. The hidden shard is in the Rexxentrum one ([[Cobalt Soul Archive in Rexxentrum]]).
 
 ## Open Issues
 

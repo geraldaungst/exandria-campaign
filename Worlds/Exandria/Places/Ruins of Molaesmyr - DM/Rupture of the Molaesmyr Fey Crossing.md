@@ -29,12 +29,12 @@ political_region:
 ## Secrets
 
 > [!secret]- DM Only
-> - **About 520 PD:** at the height of [[Ruins of Molaesmyr - DM|Molaesmyr]]'s grandeur, the elven sorcerer Ilixidor Alo, expanding the Labyrinth, found a previously unknown Fey Crossing. He brought a University team to study the arcane energy concentrated on the Fey side. To make the crossing permanent, he anchored it with a shard of the [[Lorestone of Eryndor - DM|Lorestone]], set on the Fey side, with no Luxon Beacon.
-> - He never learned that the Fey caverns connect to the Feydark, the true source of the magic.
-> - **About 525–535 PD:** firbolg monks of the [[Monastery of Dimensional Harmony - DM|Monastery of Dimensional Harmony]], entering the Feywild through the separate, natural Savalirwood Fey crossing, sensed the shard's resonance deeper in. They never found it ([[Kelmen and Popcorn Connections]]).
-> - **585 PD:** fomorians from Mag Tureah found the portal. When they tried to cross, their ancient curse reacted with the unstabilized shard and ruptured the crossing: the Cataclysm. The curse spread through Caes Mosor, then Molaesmyr, then the Veluthil Forest, renamed the Savalirwood. The shard stayed on the Fey side.
-> - **How the damage spreads:** the Rupture damaged the ley network at the Labyrinth's anchor, and the damage travels outward along the lines. A rift opens where a line crosses a spot already weakened by an older catastrophe, and it opens to the plane nearest there. Where rifts open follows the lines; size, plane, duration and effects are random.
-> - **Clue routes:** Emer's hypothesis (rifts at ley intersections weakened by past catastrophes) is close; she doesn't know the source. Rift sites plotted on Cadariel Ordo's ley map converge on Molaesmyr. Ilixidor's dated notebooks sit in a sealed room on Caes Mosor's level 6 ([[Caes Mosor - Today]]).
+> - [ ] **About 520 PD:** at the height of [[Ruins of Molaesmyr - DM|Molaesmyr]]'s grandeur, the elven sorcerer Ilixidor Alo, expanding the Labyrinth, found a previously unknown Fey Crossing. He brought a University team to study the arcane energy concentrated on the Fey side. To make the crossing permanent, he anchored it with a shard of the [[Lorestone of Eryndor - DM|Lorestone]], set on the Fey side, with no Luxon Beacon.
+> - [ ] He never learned that the Fey caverns connect to the Feydark, the true source of the magic.
+> - [ ] **About 525–535 PD:** firbolg monks of the [[Monastery of Dimensional Harmony - DM|Monastery of Dimensional Harmony]], entering the Feywild through the separate, natural Savalirwood Fey crossing, sensed the shard's resonance deeper in. They never found it ([[Kelmen and Popcorn Connections]]).
+> - [ ] **585 PD:** fomorians from Mag Tureah found the portal. When they tried to cross, their ancient curse reacted with the unstabilized shard and ruptured the crossing: the Cataclysm. The curse spread through Caes Mosor, then Molaesmyr, then the Veluthil Forest, renamed the Savalirwood. The shard stayed on the Fey side.
+> - [ ] **How the damage spreads:** the Rupture damaged the ley network at the Labyrinth's anchor, and the damage travels outward along the lines. A rift opens where a line crosses a spot already weakened by an older catastrophe, and it opens to the plane nearest there. Where rifts open follows the lines; size, plane, duration and effects are random.
+> - [ ] **Clue routes:** Emer's hypothesis (rifts at ley intersections weakened by past catastrophes) is close; she doesn't know the source. Rift sites plotted on Cadariel Ordo's ley map converge on Molaesmyr. Ilixidor's dated notebooks sit in a sealed room on Caes Mosor's level 6 ([[Caes Mosor - Today]]).
 
 ### Open Issues
 
