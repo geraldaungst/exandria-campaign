@@ -1,24 +1,22 @@
-## Designing and Documenting TTRPG Adventures: Non-Linear Structure and DM-Facing Usability (D&D 2024 / 5.5e and Beyond)
+---
+tags:
+  - dm-tool
+hide_from_related: true
+---
 
-### TL;DR
+## Designing Good Adventures
 
-- **Prep situations, not plots**: The strongest consensus across WotC's 2024 DMG, The Alexandrian, Sly Flourish, and Matt Colville is to build a dynamic *situation* (factions, locations, NPC goals, clues, a ticking clock) rather than a fixed sequence of events, then let player choices drive outcomes—the 2024 DMG itself states "your players are coauthors of the story with you, and the events of the story shouldn't be predetermined."
-- **Build in redundancy and multiple paths**: Use the Three Clue Rule (three clues per conclusion), node-based design, and "Jaquayed" (looping, multi-entrance) maps so no single die roll, NPC, or corridor is a chokepoint—the 2024 DMG echoes this: "make sure there are multiple ways the characters can progress."
-- **Write for two modes of use**: A great DM-facing document is read once for prep and flipped through at speed mid-session. The best formats read like a *cookbook*, not a textbook: short scannable text, bolded key terms, bulleted room contents instead of purple boxed prose, cheat-sheets, annotated maps, adversary rosters, and embedded lite stat blocks.
+**Purpose:** A guide to designing and documenting non-linear, table-friendly adventures (D&D 2024 / 5.5e and beyond), compiled from the 2024 DMG, The Alexandrian, Sly Flourish, Scroll for Initiative and others. The short principles and the step-by-step checklist are on [[Design Advice]]; this note holds the reasoning and sources behind them. Reorganized on 2026-10-29 from a single pasted research report; the original text is kept, with its summary sections (TL;DR and Key Findings) folded into the hub.
 
-### Key Findings
-
-1. **The dominant modern design philosophy is anti-railroad and situation-based.** Justin Alexander's "Don't Prep Plots, Prep Situations" (2009) is now effectively mainstream doctrine, adopted almost verbatim by the official 2024 DMG. A "plot" is a predetermined sequence (A→B→C); a "situation" is a set of tools—factions, locations, motivations, resources, and events that happen if the PCs do nothing.
-2. **Player agency is defined by meaningful, informed choices with real consequences**—not the mere appearance of choice. The "quantum ogre" critique (Justin Alexander, 2011) shows that giving illusory choices (same encounter regardless of the path taken) invalidates player decisions.
-3. **Redundancy is the structural backbone of robust design.** The Three Clue Rule and node-based scenario design exist specifically to eliminate chokepoints—single points of failure where the adventure grinds to a halt if players miss one clue or fail one roll.
-4. **Non-linear *spatial* design ("Jaquaying")**—multiple entrances, looping paths, and level connections—applies to dungeons, wilderness (hex/pointcrawls), and even cities.
-5. **The document is a tool, not a novel.** There is broad, pointed criticism (Angry GM, Sly Flourish, Scroll for Initiative, Dyson Logos) that many published modules—especially recent WotC hardcovers—are hard to run at the table because information is buried in dense prose. The fix is information architecture borrowed from cookbooks and journalism.
-
-### Details
-
-#### PART A—NON-LINEAR / ANTI-RAILROAD DESIGN
+### Situations, not plots
 
 **Don't Prep Plots, Prep Situations (Justin Alexander, The Alexandrian, 2009).** Alexander's foundational argument: "the problem with trying to prep a plot for an RPG is that you're attempting to pre-determine events that have not yet happened. Your gaming session is not a story—it is a happening." Instead of scripting "the PCs board the derelict and fight the monster," you prep the *situation* ("the villains have escaped on two ships heading toward Tarsis") and let players supply the actions. A key refinement is **"Tools, Not Contingencies"** (2019): don't waste prep second-guessing every branch (the "Choose Your Own Adventure trap")—build a reusable toolbox of NPCs, locations, and events you can redeploy wherever players go. His **Campaign Status document** operationalizes this: a running one-stop sheet tracking daily news, upcoming events, major NPC activities, dangling threads, and "hot spots," plus **scenario timelines** ("what happens if the PCs do nothing") that create pressure and reactivity.
+
+**Matt Colville (MCDM, "Running the Game").** His working rule from big-game design, as summarized by a reviewer of his design talks: tell the players what to do, but not how—there's a difference between herding players toward prepared content and railroading them toward a predetermined outcome (the latter attacks agency). He also emphasizes shorter adventures and strong, active villains who appear early and demonstrate their threat. (Note: this "what, not how" phrasing is a paraphrase from a secondary digest of Colville's remarks rather than a verified verbatim quote.)
+
+**How to adapt on the fly.** The through-line across Alexander, Shea, and Colville: keep a flexible toolkit (NPCs, encounters, locations) that can be redeployed; prep *content* rather than *outcomes* ("prep answers, not plots"); and lean on improvisation supported by pre-cooked components. Sly Flourish's phrase: prep "little dishes of pre-cooked food so you can improvise the meal at the table."
+
+### Clues and chokepoints
 
 **The Three Clue Rule (The Alexandrian, May 6, 2008).** "For any conclusion you want the PCs to make, include at least three clues." The rationale, verbatim: "Why three? Because the PCs will probably miss the first; ignore the second; and misinterpret the third before making some incredible leap of logic that gets them where you wanted them to go all along." A *chokepoint* is any problem that must be solved to proceed; in a mystery each required clue is itself a chokepoint, so redundancy is essential. Extensions:
 
@@ -28,6 +26,16 @@
 
 **Node-Based Scenario Design (The Alexandrian).** Prep the scenario as *nodes* (locations, NPCs, encounters) connected by *leads* (clues). Each node contains clues pointing to multiple other nodes, so players can traverse the web in any order and always have enough leads to proceed. This converts a linear "bread-crumb trail" into a resilient, non-linear structure. Alexander explicitly notes node-based design is *not* prepping a plot—you dictate the scenario *concept* ("figure out who's selling red opium") but not the sequence of actions or the outcome.
 
+### Player agency
+
+**The Quantum Ogre and legitimate vs. illegitimate illusionism.** The term (Justin Alexander, 2011) describes placing a pre-planned encounter so that it occurs no matter which path the players choose—the "shell game" of "hide the MacGuffin." The nuanced debate:
+
+- *Illegitimate*: When the DM **invalidates a decision the players made with intent**—e.g., they gathered information, chose Path A specifically to avoid the ogre, and the DM moves the ogre onto Path A anyway. Hack & Slash's formulation: the quantum ogre "isn't about putting an ogre in the woods. It's about invalidating the players' decisions."
+- *Legitimate / not a violation*: If the players had **no information** distinguishing the paths, the choice was blind, so no agency was overridden (Lich House, Crimson Longinus). Also legitimate: **side effects and independent events**—the ogre ambushes them on the return journey, or a faction acts off-screen—because these are occurrences beyond the player's direct control, not negations of their choices.
+- The design takeaway (Hack & Slash): **never give blind choices**—always attach information so choices can be made with intent, and let outcomes relate to the intent of the choice.
+
+### Space and exploration
+
 **"Jaquaying the Dungeon" / "Xandering the Dungeon" (The Alexandrian, named for designer Jennell Jaquays).** Non-linear *spatial* design. Techniques listed in the original article: multiple entrances, looping paths, multiple and discontinuous level connections, secret paths, sub-levels, divided levels, nested dungeons, minor elevation changes, midpoint entry, and extradimensional spaces. As Alexander documents in "Xandering the Dungeon," Jaquays's *Caverns of Thracia* (1979) "includes three separate entrances to the first level of the dungeon. And from Level 1 of the dungeon you will find two conventional paths and no less than eight unconventional or secret paths leading down to the lower levels." The point: in a linear dungeon the players' "pseudo-choices" lead them along a predetermined route; in a Jaquayed dungeon "the choices the players make will have a meaningful impact on how the adventure plays out."
 
 **Exploration structures for non-dungeon environments:**
@@ -36,21 +44,13 @@
 - **Pointcrawl** (coined by Chris Kutalik, "Crawling Without Hexes," 2012): nodes (points of interest) connected by in-world paths (roads, rivers, trails). Deliberate, meaningful path choice like a dungeon. Points can vary in size (a city vs. a broken bridge). Easier to prep (no empty-space filler) and easier to read at a glance. Sly Flourish recommends applying Jaquaying principles—multiple paths, loopbacks, shortcuts, secret paths—to pointcrawls. Alexander's **"Layered Hexcrawl"** keeps a pointcrawl layer (paths) in sync with a hex layer (freeform movement) so the GM can resolve travel either way.
 - The 2024 DMG describes pointcrawl-style overland travel without naming it.
 
-**The Quantum Ogre and legitimate vs. illegitimate illusionism.** The term (Justin Alexander, 2011) describes placing a pre-planned encounter so that it occurs no matter which path the players choose—the "shell game" of "hide the MacGuffin." The nuanced debate:
-
-- *Illegitimate*: When the DM **invalidates a decision the players made with intent**—e.g., they gathered information, chose Path A specifically to avoid the ogre, and the DM moves the ogre onto Path A anyway. Hack & Slash's formulation: the quantum ogre "isn't about putting an ogre in the woods. It's about invalidating the players' decisions."
-- *Legitimate / not a violation*: If the players had **no information** distinguishing the paths, the choice was blind, so no agency was overridden (Lich House, Crimson Longinus). Also legitimate: **side effects and independent events**—the ogre ambushes them on the return journey, or a faction acts off-screen—because these are occurrences beyond the player's direct control, not negations of their choices.
-- The design takeaway (Hack & Slash): **never give blind choices**—always attach information so choices can be made with intent, and let outcomes relate to the intent of the choice.
+### Factions and adversary rosters
 
 **Faction-based design.** Give several NPC groups independent, conflicting goals; emergent plot arises regardless of what the party does. Best practice (Eldritch Exarch, others): make a few representative NPCs per faction, give each a broad faction goal plus personal desires that conflict with other members', and add a few locations the faction wants but isn't actively pursuing. Crucially, **factions must operate in the foreground**—faction agendas that only happen in the background are "wasted effort"; lore only becomes real when players interact with it. Pair factions with a **scenario timeline** so their moves create visible pressure.
 
 **Adversary Rosters (The Alexandrian, "The Art of the Key" Part 4 / "Design Notes: Adversary Rosters," 2020).** Alexander's "greatest secret weapon" for making locations dynamic and reactive. Rather than nailing every monster to a room, list mobile adversaries separately with their locations, notes (day/night positions, "must be summoned," "will launch prepared ambush"), and let them react as a group—call for help, reinforce, flee to warn others. Benefits: shifts some encounter-design responsibility to the players (they "create" the big fight by triggering alarms), and it's trivial to retrofit onto a published module by skimming and listing its mobile monsters. Stationary monsters stay in the location key.
 
-**Matt Colville (MCDM, "Running the Game").** His working rule from big-game design, as summarized by a reviewer of his design talks: tell the players what to do, but not how—there's a difference between herding players toward prepared content and railroading them toward a predetermined outcome (the latter attacks agency). He also emphasizes shorter adventures and strong, active villains who appear early and demonstrate their threat. (Note: this "what, not how" phrasing is a paraphrase from a secondary digest of Colville's remarks rather than a verified verbatim quote.)
-
-**How to adapt on the fly.** The through-line across Alexander, Shea, and Colville: keep a flexible toolkit (NPCs, encounters, locations) that can be redeployed; prep *content* rather than *outcomes* ("prep answers, not plots"); and lean on improvisation supported by pre-cooked components. Sly Flourish's phrase: prep "little dishes of pre-cooked food so you can improvise the meal at the table."
-
-#### PART B—STRUCTURING THE ADVENTURE ITSELF
+### Structuring an adventure
 
 **The 2024 DMG (D&D 5.5e), Chapter 4 "Creating Adventures."** WotC's official four-step framework:
 
@@ -69,7 +69,7 @@ The 2024 DMG explicitly frames adventures around agency: "an adventure isn't a c
 
 **Pacing.** Vary encounter type (the 2024 DMG: "Use a mix of social interaction, exploration, and combat encounters… combat encounters offer the most [tension]"). The Angry GM's **Tension Pool** is a visible dice mechanic for exploration/travel: add a d6 to a pool for time-consuming actions; roll for reckless actions; at six dice, roll and clear, and any 1 triggers a Complication from a prepared table. It externalizes time pressure and gives structure to the "empty" parts between set-pieces.
 
-#### PART C—WRITING THE DM-FACING DOCUMENT
+### Writing the DM document
 
 **The core problem.** There is broad criticism that recent published adventures are hard to run. The Angry GM: "the latest batch of D&D modules are horrible for anyone who doesn't want to waste huge chunks of time on prep. They are LOADED with highly detailed walls of text and give you very little you need to actually just run the game at the table." Sly Flourish notes even a 916-page book like *Crown of the Oathbreaker* takes enormous effort to digest, and that published adventures are *not* "GMing on easy mode." The consistent advice from Gnome Stew and DMs Journey: make your own condensed notes separate from the book, because "you do not want to have to page through a book or a PDF in the middle of the game."
 
@@ -111,32 +111,7 @@ The 2024 DMG explicitly frames adventures around agency: "an adventure isn't a c
 
 **Good vs. bad examples.** Critics repeatedly contrast dense modern WotC hardcovers (*Curse of Strahd*, pushing 260 pages; *The Wild Beyond the Witchlight*, cited for information-architecture flaws) against economical older modules. *The Forge of Fury* (Richard Baker, Wizards of the Coast, 2000) is a frequent benchmark: 32 pages that Scroll for Initiative says pack "enough material for at least three or four sessions of play"—a module ranked the 12th greatest D&D adventure of all time by *Dungeon* magazine in 2004. Lean modern publishers are also cited as models: The Arcane Library's adventures are often under 20 pages, and Free League's typography is praised. The lesson is not "less content" but "better information architecture."
 
-### Recommendations
-
-**A prioritized checklist for designing your own 2024 adventures:**
-
-*Stage 1—Situation (before any prose):*
-
-1. Write the **premise + conflict** in one or two sentences (2024 DMG Step 1). State what's happening and why it matters.
-2. Identify **2–4 factions/NPCs** with goals, personal desires, and conflicts. Give each a foreground presence.
-3. Draft a **scenario timeline**: what happens, session by session, *if the PCs do nothing*. This creates pressure and reactivity.
-4. Write **exactly ten secrets & clues** as oneor two-sentence "tweets," untethered from any specific location or NPC (Sly Flourish + Three Clue Rule).
-
-*Stage 2—Structure:*
-
-5. For every conclusion the PCs must reach, seed **at least three clues of different types**; for every chokepoint problem, prep **at least three solutions** and stay open to improvised ones.
-6. Lay out locations as a **node web** (leads connecting nodes) or a **Jaquayed map** (multiple entrances, loops, shortcuts, secret paths). Verify players can reach the climax by more than one route.
-7. Build an **adversary roster** for mobile threats, with day/night positions, alarm/reinforcement behavior, and brief tactical notes.
-8. Plan the **climax to be foreshadowed** and to allow for player victory (or failure)—never a single predetermined outcome.
-
-*Stage 3—Document (write for two modes of use):*
-
-9. Draft each location/scene using the **inverted pyramid** and **bullet points**; reserve prose for a short intro/background.
-10. Replace long boxed text with **1–2 sentence hooks or bulleted sensory details**; if you keep read-aloud, write it in **third person** and never dictate PC actions/feelings.
-11. **Bold** every scannable term (monsters, DCs, exits, secret triggers); visually separate DM-only notes from anything read aloud.
-12. Add **cheat-sheets** (NPC/faction table, clue list, timeline), an **annotated map**, and **embedded lite stat blocks**.
-13. Add **"if/then" contingency lines** for the 2–3 most likely player disruptions and for alarm logic.
-14. Pressure-test length: can the whole thing (or each section) be skimmed in minutes and found at a glance mid-session? If not, cut and reformat. Aim for the **one-page** discipline per location where possible.
+### Preparing a published adventure
 
 **For preparing/adapting a published adventure:**
 
@@ -146,13 +121,6 @@ The 2024 DMG explicitly frames adventures around agency: "an adventure isn't a c
 4. **Re-key mobile monsters** into an adversary roster to make static locations reactive.
 5. **Rewrite or bullet-point the boxed text** into your own words before the session.
 6. Treat the module as raw material—"these are not sacred texts" (Gnome Stew).
-
-**Benchmarks that should change your approach:**
-
-- If your players regularly reach a dead-end where "the adventure can't continue unless they do X" → you have chokepoints; add clues/paths.
-- If you find yourself moving encounters to wherever the players go regardless of their informed decisions → you're deploying illegitimate quantum ogres; give informed choices instead.
-- If you're flipping through the document mid-session hunting for a fact → your information architecture failed; build cheat-sheets and annotate.
-- If prep consistently takes many hours per session → shift from prepping contingencies/plots to prepping situations and toolkits.
 
 ### Caveats
 

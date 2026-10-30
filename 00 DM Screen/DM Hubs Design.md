@@ -4,7 +4,7 @@ hide_from_related: true
 
 ## DM Hubs Design
 
-Design spec for the two hubs. Review once, then build in the order at the bottom. Decisions made here are final unless this note changes.
+Design and as-built reference for the two hubs. Brought current on 2026-10-29: everything here is built except the workbenches, which are listed under "Workbenches (not built)". Decisions made here are final unless this note changes.
 
 ### The two hubs
 
@@ -21,7 +21,7 @@ Design spec for the two hubs. Review once, then build in the order at the bottom
 - Bases first. Datacore 0.1.29 only where Bases can't do the job; each row below says why.
 - No section depends on fields updated by hand. Allowed: tags, links, mtime, properties set once at creation, and the one-time after-game entries in the session note.
 - Connected notes are listed under every item they relate to, never shown as counts.
-- Shared code lives in code notes in `00 DM Screen/Code/` (one module per responsibility: [[Shared Helpers]], [[Campaign State]], [[Calendar and Timeline]], [[Note Types]], [[Arc and Session Views]], [[DM Screen Views]], [[Plot Dashboard Views]], [[Session Hub Views]], [[Session Hub Table]], [[Quick Capture]], [[Reference Lists]], [[Section Picker]], [[Hub Layout]], [[Item Data]], [[Item Finder]], [[Treasure Roll]], [[Trap Roll]], [[Party Card]], [[Diagnostics]], [[NPC Browser]], [[Artifact Pieces]], [[Artifact Hub Views]], [[Artifact Change Form]], [[Location Checks]]) and the location core, `z_Templates/Scripts/location_core.js` (the only code that reads location properties or resolves player/DM twins; hubs reach it through `locations()` in Shared Helpers and templates through `dm_helpers.js`; spec: [[Location Engine Spec]]) and loads with `dc.require`, so the hubs use the same logic. Every tag, folder, heading, and status name comes from [[Hub Config]] (properties only), which the code notes and templates read.
+- Shared code lives in code notes in `00 DM Screen/Code/` (one module per responsibility: [[Shared Helpers]], [[Campaign State]], [[Calendar and Timeline]], [[Note Types]], [[Arc and Session Views]], [[DM Screen Views]], [[Plot Dashboard Views]], [[Session Hub Views]], [[Session Hub Table]], [[Quick Capture]], [[Reference Lists]], [[Section Picker]], [[Hub Layout]], [[Item Data]], [[Item Finder]], [[Treasure Roll]], [[Trap Roll]], [[Party Card]], [[Roll20 Party Script]], [[Diagnostics]], [[NPC Browser]], [[Progress Tracks]], [[Artifact Pieces]], [[Artifact Hub Views]], [[Artifact Change Form]], [[Location Checks]]) and the location core, `z_Templates/Scripts/location_core.js` (the only code that reads location properties or resolves player/DM twins; hubs reach it through `locations()` in Shared Helpers and templates through `dm_helpers.js`; spec: [[Location Engine Spec]]) and loads with `dc.require`, so the hubs use the same logic. Every tag, folder, heading, and status name comes from [[Hub Config]] (properties only), which the code notes and templates read.
 
 ### Shared logic
 
@@ -64,7 +64,11 @@ Design spec for the two hubs. Review once, then build in the order at the bottom
 | Recent work | 15–20 notes by last edit; the view dropdown is the type filter: All · Sessions · Arcs and threads · NPCs · Lore and Keln · Player wiki · Maintenance. A "Where" column shows the first of `political_region`, `whereabouts` and `site` (display only) | mtime, type formula, location properties | Bases |
 | Vault health | Arcs and NPCs that need work, NPCs with no `whereabouts` (and not `deceased` or `unplaced`) or no disposition, places with no parent, artifacts without a world (Bases); then the Location checks: the core's 12 checks, one collapsible group each with a count, errors first, review lists last (Datacore). The Bases are simple views of DM notes; the checks know about twins | properties, tags, the location core | Bases; Datacore ([[Location Checks]]) |
 
-#### Workbenches (callouts below the top screen, folded by default)
+#### Workbenches (not built)
+
+Not built as of 2026-10-29. The hub as built has the top screen, Active plot threads, Recent work and Vault health (the table above); the plot dashboard, Recent Work, Vault Health and the Session Hub cover much of what these were for. Gerald's ruling of 2026-10-29: keep the as-built hub, and treat the workbenches as a design topic (Project map: DM Screen workbenches). The plan is kept below unchanged for that conversation.
+
+Planned as callouts below the top screen, folded by default:
 
 | Workbench | Contents | Engine |
 |---|---|---|
@@ -142,25 +146,20 @@ Gaps:
 - Lodging and meal prices: linked, not copied.
 - "Close session" script (done earlier as the Close Session template; confirm nothing else is pending).
 
-### Maintenance backlog found during design
+### Maintenance backlog (checked 2026-10-29)
 
-- Scan the entire vault for cruft and clutter no longer in active use (stale notes, orphaned attachments, unused templates and code notes, empty folders, retired plugin data), and list candidates for review before anything is removed
-- Retire the old folder-note queries in `00 DM Screen/00 DM Screen.md` (replaced by this build)
-- Calendarium: 62 existing events, some linked to old `90 Session Notes/...` paths
-- Calendarium: Dreyara's Antagonist Plans after 21 Thunsheer (arrives Zadash 4 Unndilar, leaves 7 Unndilar, arrives Rexxentrum 24 Unndilar) never happened; she died 25 Thunsheer 835
-- Two links to the removed compendium: Thunderwave (Sessions 1 to 3 - The Skyship), monuments ([[Location Idea Generator]]); point them at D&D Beyond
-- Four restored items in `Objects/` carry only `compendium`; retag `artifact`
-- Rendspawn notes and Two-Headed Etcheda Monkey now in `Characters/Creatures`
-- `z-Mechanics` reference tables are 2014 SRD (Conditions was rewritten to the 2024 rules on 2026-10-20; the others are not)
-- About 90 notes use the old `world-exandria` tag instead of `world/exandria`; retag them (Recent Work's World column reads both forms meanwhile)
-- "Keln" is no longer a note type (2026-10-20): Recent Work views are by type only, with Campaign and World columns for scope
-- Dataview is still enabled; the old screen is one of its last users
-- [[Artifact-Item Template]] was stale (found 2026-10-20); rewritten 2026-10-22: tags `artifact` plus `world/…`, files into `Objects/`, uses the shared template helpers
-- Add `world: <name>` to any other campaign note; the Campaign Template now asks for it
-- Roll20: the Roll20 Attribute Dump was a one-time diagnostic. Its note was archived on 2026-10-29 (`z_Archive/Roll20/`). The same API Scripts slot now runs `!party` ([[Roll20 Party Script]])
-- [[Encounter Design Guide]] now embeds [[Party Card Data]] where it used to embed the Party Combat Profile
-- Table side: the embeds in Fast NPC + Picture and Random Tavern render inside the hub (confirmed 2026-10-20)
-- The NPC, Faction, Item, and Location templates treat every folder directly under `Worlds/` as a world, so nothing that isn't a world (such as a stubs folder) can live there
+Open:
+- `z-Mechanics` reference tables are 2014 SRD (Conditions was rewritten to the 2024 rules on 2026-10-20; the others are not).
+- About 92 Player Wiki notes carry the old `world-exandria` tag instead of `world/exandria` (Player Wiki review; Recent Work's World column reads both forms meanwhile).
+- Scan the entire vault for cruft no longer in active use (stale notes, orphaned attachments, unused templates and code notes, empty folders) and list candidates before anything is removed: covered by the Duplicates and misfiled-notes pass.
+
+Done since the design: the old folder-note queries on `00 DM Screen.md` are gone; Calendarium has no events on old `90 Session Notes` paths and no Dreyara events after her death on 25 Thunsheer 835; the compendium links and the four `compendium` items are fixed; the Rendspawn notes and the monkey are in `Characters/Creatures`; Dataview is removed; the Artifact-Item Template was rewritten 2026-10-22; the Campaign Template asks for `world`; the Roll20 Attribute Dump note was archived 2026-10-29 (the `!party` script now runs in its API Scripts slot, see [[Roll20 Party Script]]).
+
+Facts that still apply:
+- "Keln" is no longer a note type (2026-10-20): Recent Work views are by type only, with Campaign and World columns for scope.
+- [[Encounter Design Guide]] embeds [[Party Card Data]] where it used to embed the Party Combat Profile.
+- The embeds in [[Fast NPC + Picture]] and [[Random Tavern]] render inside the hub (confirmed 2026-10-20); Fast NPC + Picture uses `https` since 2026-10-29.
+- The NPC, Faction, Item, and Location templates treat every folder directly under `Worlds/` as a world, so nothing that isn't a world (such as a stubs folder) can live there.
 
 ### Settled during review
 
@@ -173,6 +172,8 @@ Gaps:
 - Quick-capture stubs carry `needs-work` (remove it when developed) and `improvised`; location and shop stubs live in `Stubs` inside the campaign folder, not under `Worlds/`.
 
 ### Build order
+
+All seven steps are built except the workbenches in step 3 (Gerald's ruling 2026-10-29: design topic). Original order:
 
 1. Shared logic (now in [[Campaign State]], [[Calendar and Timeline]], [[Note Types]]): last played, next session, today in-world, type formula
 2. Session conventions: Calendarium settings, template changes, "Close session" script; backfill Sessions 49–53 if wanted

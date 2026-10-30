@@ -2,7 +2,7 @@
 
 How notes are tagged and what frontmatter they carry. Derived on 2026-10-22 from an audit of the vault's notes outside `z_` folders, the templates and code notes, and a review of past conversations. Rules under **Ruled** come from Gerald; the dates show when he decided. The rest describes what the vault does now. Items under "Open" need his decision before they become rules. This note has no frontmatter.
 
-Related notes: [[DM Hubs Design]] (hub rules, campaign notes, session date fields), [[Vault Reorganization Status - DM]] (where things live, NPC tiers, the separate-note test, merge pattern), [[Plugin Migration Status - DM]] (Linter, Calendarium and Janitor settings), [[Hub Config]] (every tag, folder and heading name the code uses).
+Related notes: [[DM Hubs Design]] (hub rules, campaign notes, session date fields), [[Vault Reorganization Status - DM]] (where things live, NPC tiers, the separate-note test, merge pattern), the plugin rules at the end of this note (Linter, Calendarium and Janitor settings; the old Plugin Migration Status note is archived in `z_Archive/Plugin Migration/`), [[Hub Config]] (every tag, folder and heading name the code uses).
 
 ### Ruled
 
@@ -110,3 +110,30 @@ Registered property types (`.obsidian/types.json`): `aliases`, `cssclasses`, `ta
 2. **`disposition`.** Stays on NPCs and is removed from the 16 non-NPC notes in `Characters/Factions`. NPCs without a value are filled in as they are touched.
 3. **Tags.** See the Kept and Retired rows in the tag table.
 4. **Missing tags** (superseded 2026-10-27 by Location). Continents are `region/` tags with no `place/` tag (`region/taldorei`, `region/callastri`). A `location` note gets `world/`, `region/` and, where it is a place, `place/`. Nine location notes were fixed; Xhorhas Landing (an encounter that never happened) and Skyship Distances (a world-wide table) get no place or region; Skyship Distances also lost its `location` tag on 2026-10-29. NPC `region/` is not inferred: only one of the 19 Exandria NPCs without it has a place tag, and that place has no region. Fill both as NPCs are touched; no bulk pass.
+
+### Plugin and tool rules
+
+Carried over on 2026-10-29 from the archived Plugin Migration Status note, which is history only.
+
+**Decisions (2026-10-18 to 2026-10-22)**
+
+| Decision | Reason |
+|---|---|
+| Initiative Tracker rejected | Combat is never run from the vault. The vault holds session notes and prep |
+| Smart Connections rejected | Copilot already handles related notes |
+| Frontmatter Operator and Vaultman rejected | The vault auditor and fixer scripts cover it |
+| Declined 2026-10-22: Iconic, Notebook Navigator, Strong Start, The DM Compendium, Advanced Multi Column | Cosmetic; overlaps Folder Notes, Recent Files and Tag Wrangler; would duplicate Session Hub, arcs and Fact Map; would put compendium data back in the vault (Item Finder and online references cover it); no column use (and it does not render on Publish) |
+| Obsidian Git is not installed in the personal vault | That vault is not git-synced by design. The DM vault uses git only to share with the Claude project |
+| Obsidian Publish does not run community plugins | A published note using plugin syntax (Admonition `ad-` blocks, statblocks) will not render. Check before putting any such syntax in a published note |
+| Simple queries go to Bases, complex ones to Datacore | Dataview is gone (2026-10-27) |
+| Omnisearch stays; Gerald's final keep-or-remove decision waits for live use and is outside the reorganization project | Decided 2026-10-29 |
+
+**Settings**
+- Calendarium: "Parse note titles for event dates" stays off. A note with frontmatter and no `fc-date` is ignored while it is off. Calendarium scans the whole vault, so a backup of a note with `fc-date` or the `inline-events` tag must end in `.bak`.
+- Janitor: excluded-files entries are regular expressions matched against the vault-relative path, not globs. Use `^name_.*\.json$`, not `name_*.json`.
+- Git: `.gitignore` excludes `z_*/` (templates, reference, archive) by design, so edits there never show in git. It also excludes `DM Screen/`, which does not match the folder `00 DM Screen`; that folder syncs to the Claude project, which is intended.
+
+**Related Notes.base**
+- It lives in `00 DM Screen`. Embed it with `![[Related Notes.base]]` under `## Connected Elements` at the end of a note; the entity templates and the Atomic Note template already do.
+- To hide a note from every related list, add the checkbox property `hide_from_related` (type Checkbox, value true, no quotes). `z_Templates` is excluded in the base filter.
+- Its Kanban view uses `columnWidth: 200` and overflows the note width; List is the default view.

@@ -5,7 +5,7 @@ cssclasses:
 hide_from_related: true
 ---
 
-[[Session Hub]] · [[Plot Dashboard]] · [[Eryndor Timeline]] · [[DM Hubs Design]]
+[[Session Hub]] · [[Plot Dashboard]] · [[Eryndor Timeline]] · [[DM Hubs Design]] · [[Design Advice]]
 
 ```datacorejsx
 const { DMScreenTop } = await dc.require(dc.headerLink("00 DM Screen/Code/DM Screen Views.md", "Code"));

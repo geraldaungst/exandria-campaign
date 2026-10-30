@@ -6,7 +6,7 @@ hide_from_related: true
 
 Build spec for the location engine in Gerald's DM vault: a core module, the changes to every template, hub and Base that uses location, the Player Wiki changes, and the migration from `place/…` and `region/…` tags. Written 2026-10-27 (Opus) so that a Claude project with no access to the design conversation can build from it. Decisions here are final; anything not decided is under "Ask Gerald". Where this note and [[Vault Conventions - DM]] disagree, raise it with Gerald before building.
 
-**Status (2026-10-28):** Stage 1 is built and the migration is finished (steps 0 to 5 applied; step 6 is the documentation). Sentences below that say "today" or list what the code reads describe the vault on 2026-10-27, before the build. Stage 2 (the plugin) has not started.
+**Status (2026-10-29):** Stage 1 is built and the migration is finished: steps 0 to 6 were applied and checked on 2026-10-28, and Gerald confirmed the Obsidian checks. Sentences below that say "today" or list what the code reads describe the vault on 2026-10-27, before the build. Stage 2 (the plugin) has not started; it is Gerald's learning project (see the Project map in [[Vault Reorganization Status - DM]]).
 
 Two stages:
 - **Stage 1 (this build, Sonnet):** the core module as a plain script loaded by Datacore and Templater, every consumer rewritten to use it, the migration, and the documentation updates.
