@@ -8,7 +8,7 @@ hide_from_related: true
 
 **Depends on:** [[Shared Helpers]]
 
-**Used by:** [[Diagnostics]] · [[Quick Capture]]
+**Used by:** [[Quick Capture]]
 
 Tag rules come first, then folder fallbacks for untagged notes (Session Notes, Objects, Characters, Worlds, Campaigns). The tag and folder names come from [[Hub Config]]. Bases formulas can't read Hub Config, so if you change a name there, update this formula and the one in Recent Work too. The matching Bases formula, used by [[Recent Work.base|Recent Work]]:
 
@@ -16,7 +16,7 @@ Tag rules come first, then folder fallbacks for untagged notes (Session Notes, O
 if(file.inFolder("Player Wiki"), "Player wiki", if(file.hasTag("session"), "Session", if(file.hasTag("arc"), "Arc", if(file.hasTag("plot", "plot/active", "plot/upcoming", "plot/seed", "plot/paused"), "Plot thread", if(file.hasTag("lore"), "Lore", if(file.hasTag("player", "player/inactive"), "Player Character", if(file.hasTag("npc"), "NPC", if(file.inFolder("Characters/Creatures"), "Creature", if(file.hasTag("location"), "Location", if(file.hasTag("organization"), "Organization", if(file.hasTag("artifact"), "Artifact", if(file.inFolder("00 DM Screen") || file.hasTag("dm-tool"), "DM tools", if(file.path.contains("Session Notes/"), "Session", if(file.inFolder("Objects"), "Artifact", if(file.inFolder("Characters"), "NPC", if(file.inFolder("Worlds"), "World", if(file.inFolder("Campaigns"), "Campaign", "Other")))))))))))))))))
 ```
 
-A third copy of the type rules is the `Type` formula in [[Related Notes.base]]. It is shorter (Session, Arc, Plot thread, Lore, Player Character, NPC, Location, Organization, Artifact, Atomic note, Other) and tests in the same order. Keep it in step when a type is added or a label changes. Labels match Recent Work and the code below (Player Character, Organization, Artifact).
+A third copy of the type rules is the `Type` formula in [[Related Notes.base]]. It is shorter (Session, Arc, Plot thread, Lore, Player Character, NPC, Creature, Location, Organization, Artifact, Atomic note, Other) and tests in the same order. Keep it in step when a type is added or a label changes. Labels match Recent Work and the code below (Player Character, Organization, Artifact).
 
 The block below is plain `jsx`, so it does not run on this page. Notes load it with `dc.require(dc.headerLink("00 DM Screen/Code/Note Types.md", "Code"))`. After editing, reopen any note that uses it. Design: [[DM Hubs Design]].
 

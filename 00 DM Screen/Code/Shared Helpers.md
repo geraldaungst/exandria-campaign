@@ -8,7 +8,7 @@ hide_from_related: true
 
 **Depends on:** none
 
-**Used by:** [[Campaign State]] · [[Calendar and Timeline]] · [[Note Types]] · [[Arc and Session Views]] · [[DM Screen Views]] · [[Session Hub Views]] · [[Session Hub Table]] · [[Quick Capture]] · [[Item Data]] · [[Party Card]] · [[NPC Browser]] · [[Diagnostics]] · [[Artifact Pieces]] · [[Progress Tracks]]
+**Used by:** [[Campaign State]] · [[Calendar and Timeline]] · [[Note Types]] · [[Arc and Session Views]] · [[DM Screen Views]] · [[Session Hub Views]] · [[Session Hub Table]] · [[Quick Capture]] · [[Item Data]] · [[Party Card]] · [[NPC Browser]] · [[Artifact Pieces]] · [[Progress Tracks]] · [[Artifact Change Form]] · [[Artifact Hub Views]] · [[Item Finder]] · [[Location Checks]] · [[Plot Dashboard Views]] · [[Reference Lists]] · [[Section Picker]] · [[Trap Roll]] · [[Treasure Roll]]
 
 The block below is plain `jsx`, so it does not run on this page. Notes load it with `dc.require(dc.headerLink("00 DM Screen/Code/Shared Helpers.md", "Code"))`. After editing, reopen any note that uses it. Design: [[DM Hubs Design]].
 

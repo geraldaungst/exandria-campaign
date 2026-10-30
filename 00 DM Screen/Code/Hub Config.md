@@ -84,7 +84,7 @@ template_session: Session Template
 - **`tag_…`**: tags without `#`. Tags nest, so `plot` also matches `plot/active`. Plot stages are always `<tag_plot>/active`, `/upcoming`, `/seed`, `/paused`.
 - **`tag_faction` and `faction_tag_prefix`**: a faction's own note carries the type tag `tag_faction` (`organization`) plus its own `<faction_tag_prefix>/<slug>` tag (`faction/cerberus-assembly`). NPCs and encounters carry only the `faction/…` tag, so a search for `faction/cerberus-assembly` finds the faction and everyone tied to it, while `organization` finds only faction notes.
 - **`campaign_tag_prefix`**: the start of each campaign's own tag (`campaign/eryndor`). A campaign note (tagged `tag_campaign_note`) carries exactly one such tag, and so does every session and arc of that campaign.
-- **`folder_…`**: vault paths without a trailing slash. Notes with no type tag fall back to a type by folder (Session Notes → Session, Objects → Item, Characters → NPC, Worlds → World, Campaigns → Campaign).
+- **`folder_…`**: vault paths without a trailing slash. Notes with no type tag fall back to a type by folder (Session Notes → Session, Objects → Artifact, Characters → NPC, Worlds → World, Campaigns → Campaign).
 - **`excluded_folder_prefix`**: folders whose names start with this are ignored everywhere (archives, templates, reference).
 - **`heading_…` and `label_…`**: the exact heading and bullet-label text in session and arc notes. `label_world_next` and `label_changed_at_table` are the "Where we left off" bullets the Session Hub reads.
 - **`template_…`**: the name of a template note (without `.md`), looked up in Templater's template folder. `template_session` is run by the Session Hub's "Create next session" button. The NPC, location, faction, and item templates supply the body of quick-capture stubs ([[Quick Capture]]).
@@ -101,6 +101,6 @@ template_session: Session Template
 ## What this note can't change
 
 - **Where the code lives.** Each note's loader block names its code note by path (`00 DM Screen/Code/...`), because it has to find the code before it can read this note. `folder_code` records the location for reference only. Moving the Code folder means updating those loader blocks.
-- **Bases formulas.** Bases can't read another note's properties. The type rules in [[Recent Work.base|Recent Work]] and the arc and session lists on each campaign note use their own copies of the tag and folder names. If you rename a tag or folder here, update those too ([[Note Types]] holds the matching formula).
+- **Bases formulas.** Bases can't read another note's properties. The type rules in [[Recent Work.base|Recent Work]] and the arc and session lists on each campaign note use their own copies of the tag and folder names, as does the `Type` formula in [[Related Notes.base]]. If you rename a tag or folder here, update those too ([[Note Types]] holds the matching formula).
 - **Template text.** The headings and bullet labels written into new session and arc notes are fixed text in the templates. Rename one here and in the template together.
 - **Arc statuses `complete`, `idea`, `designing`, `ready`.** These are plain values in the arc template and the session template's arc list, not settings.

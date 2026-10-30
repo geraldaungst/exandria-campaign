@@ -8,7 +8,7 @@ hide_from_related: true
 
 **Depends on:** [[Shared Helpers]]
 
-**Used by:** [[DM Screen Views]] · [[Session Hub Views]] · [[Quick Capture]] · [[Diagnostics]]
+**Used by:** [[DM Screen Views]] · [[Session Hub Views]] · [[Quick Capture]] · [[Artifact Change Form]]
 
 Conventions this module relies on:
 

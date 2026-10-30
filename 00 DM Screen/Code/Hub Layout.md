@@ -8,7 +8,7 @@ hide_from_related: true
 
 **Depends on:** none
 
-**Used by:** [[Session Hub]]
+**Used by:** [[Session Hub]] · [[Artifact Hub Views]]
 
 Conventions this module relies on:
 

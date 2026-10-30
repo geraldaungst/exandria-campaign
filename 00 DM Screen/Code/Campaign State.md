@@ -8,7 +8,7 @@ hide_from_related: true
 
 **Depends on:** [[Shared Helpers]] (and [[Hub Config]] through it)
 
-**Used by:** [[Arc and Session Views]] · [[DM Screen Views]] · [[Session Hub Views]] · [[Quick Capture]] · [[Diagnostics]]
+**Used by:** [[Arc and Session Views]] · [[DM Screen Views]] · [[Session Hub Views]] · [[Quick Capture]] · [[Session Hub Table]] · [[Artifact Change Form]] · [[Artifact Hub Views]]
 
 Conventions this module relies on:
 
