@@ -1,9 +1,9 @@
 ---
-disposition: indifferent
 tags:
   - npc
   - world/exandria
   - faction/clasp
+disposition: indifferent
 whereabouts: "[[Port Damali - DM]]"
 ---
 
