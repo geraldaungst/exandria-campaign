@@ -4,7 +4,7 @@ tags:
 hide_from_related: true
 ---
 
-**Purpose:** Command reference for the Roll20 API scripts installed in the campaign game (list confirmed by Gerald 2026-10-29): GroupInitiative, GroupCheck, TokenMod, Token Action Maker, HealthColors, libTokenMarkers and Party Export (see [[Roll20 Party Script]]). Scripts the game does not run are in the callout at the end.
+**Purpose:** Command reference for the Roll20 API scripts installed in the campaign game (list confirmed by Gerald 2026-10-29; TokenNameNumber added the same evening): GroupInitiative, GroupCheck, TokenMod, Token Action Maker, HealthColors, TokenNameNumber, libTokenMarkers and Party Export (see [[Roll20 Party Script]]). Scripts the game does not run are in the callout at the end.
 
 ## Quick Reference - Most Used Commands
 
@@ -14,6 +14,7 @@ hide_from_related: true
 !token-mod --set <property>|<value>  # Modify token properties
 !aura                        # Open HealthColors menu
 !ta                          # Create token actions for selected character
+!tnn --renumber              # Renumber tokens on page
 ```
 
 ---
@@ -289,6 +290,32 @@ All PF2 commands require adding "pf2" argument:
 
 ---
 
+## TokenNameNumber
+
+**Basic Commands**
+
+- `!tnn` - Display help and configuration options
+- `!tnn --help` - Display help
+- `!tnn --renumber` - Reset numbers on page and fix hanging %%NUMBERED%% cases
+
+**Usage:**
+
+This script works automatically. To enable auto-numbering:
+
+1. In the character name field, include `%%NUMBERED%%` somewhere in the name
+    - Example: `Goblin %%NUMBERED%%` becomes "Goblin 1", "Goblin 2", etc.
+2. When you drag tokens onto the map, they'll automatically be numbered
+3. Numbers increment based on existing tokens on the page
+
+**Notes:**
+
+- `%%NUMBERED%%` must be in UPPERCASE
+- Script handles copy/paste automatically
+- Numbers persist and increment intelligently
+- Depends on libTokenMarkers (installed automatically with one-click)
+
+---
+
 ## libTokenMarkers
 
 **Usage:**
@@ -342,31 +369,7 @@ No user interaction needed - it works behind the scenes.
 ```
 
 > [!note]- Not installed in the game (checked with Gerald 2026-10-29)
-> TokenNameNumber, the 5th Edition OGL by Roll20 Companion and TurnMarker1 are not installed. Kept here for reference. Until TokenNameNumber is installed, `%%NUMBERED%%` in a token name (as in the monster-token workflow above) is not replaced by a number.
->
-> ## TokenNameNumber
->
-> **Basic Commands**
->
-> - `!tnn` - Display help and configuration options
-> - `!tnn --help` - Display help
-> - `!tnn --renumber` - Reset numbers on page and fix hanging %%NUMBERED%% cases
->
-> **Usage:**
->
-> This script works automatically. To enable auto-numbering:
->
-> 1. In the character name field, include `%%NUMBERED%%` somewhere in the name
->     - Example: `Goblin %%NUMBERED%%` becomes "Goblin 1", "Goblin 2", etc.
-> 2. When you drag tokens onto the map, they'll automatically be numbered
-> 3. Numbers increment based on existing tokens on the page
->
-> **Notes:**
->
-> - `%%NUMBERED%%` must be in UPPERCASE
-> - Script handles copy/paste automatically
-> - Numbers persist and increment intelligently
-> - Depends on libTokenMarkers (installed automatically with one-click)
+> The 5th Edition OGL by Roll20 Companion and TurnMarker1 are not installed. Kept here for reference.
 >
 > ## 5th Edition OGL by Roll20 Companion
 >

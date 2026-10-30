@@ -1,7 +1,7 @@
 ---
-hide_from_related: true
 tags:
   - dm-tool
+hide_from_related: true
 ---
 
 **Purpose:** External sites and generators for use at the table. The [[Session Hub]] shows this note under "Sites and maps". Edit it like any note: add a bullet, delete a bullet, move a bullet between headings, or add a heading. Nothing reads it except your eyes.
@@ -21,7 +21,7 @@ Format: `- [Name](https://address) · what it's for`
 
 ## NPCs and names
 
-- [Fast NPC + Picture](http://www.dmheroes.com/) · also in [[Fast NPC + Picture]]
+- [Fast NPC + Picture](https://www.dmheroes.com/) · also in [[Fast NPC + Picture]]
 - [Fantasy Name Generators](https://www.fantasynamegenerators.com) · names by culture and type
 - [Behind the Name](https://www.behindthename.com) · real-world names by origin, for building a culture's name list
 - [[Quick NPCs]] · table-based NPC reference in this vault
