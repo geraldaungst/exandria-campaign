@@ -31,7 +31,7 @@ Youthful exuberance despite the weight she carries. Tall for her lineage, deep b
 
 Based at [[Palma Flora]], leading the [[Obsidian Echoforge - DM]]'s operations. Wears Shard 1 as a pendant and keeps Shards 2-4 in a magically locked and trapped chest at Palma Flora. Has [[Aethor Kalisk - DM]] deployed to [[Port Damali - DM]] pursuing leads on additional shards.
 
-Growing increasingly urgent about the rift situation—the rifts are worsening, Qalix is stealing shards, and the [[Malachite Cord - DM]] is obstructing rather than helping. She believes delay costs lives, and she's not entirely wrong.
+Growing increasingly urgent about the rift situation—the rifts are worsening, someone is stealing shards (Dreyara took Shard 6 for an employer the party tied to 'the Eye'), and the [[Malachite Cord - DM]] is obstructing rather than helping. She believes delay costs lives, and she's not entirely wrong.
 
 **Key relationships:**
 

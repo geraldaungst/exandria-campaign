@@ -57,11 +57,11 @@ Operating primarily from two locations in Rexxentrum: the Scroll and Scribe for 
 > - [ ] Meeting places and code language: [[The Inkwell]]
 
 > [!note]- Background
-> Comes from the Elderguard family, known for shadow magic prowess. Rose to prominence within the Emissaries of the Sunfall but grew disillusioned with their diplomatic approach. Secretly believes in returning to the more aggressive methods of Neris Solbane's era. Has begun gathering like-minded members within the Emissaries, forming a splinter cell financed by Vaud Qalix.
+> Comes from the Elderguard family, known for shadow magic prowess. Rose to prominence within the Emissaries of the Sunfall but grew disillusioned with their diplomatic approach. Secretly believes in returning to the more aggressive methods of Neris Solbane's era. Has begun gathering like-minded members within the Emissaries, forming a splinter cell financed by Vaud Qalix. He won the leadership by promising to keep the partnership with the Echoforge, and keeps it in public.
 
 ## Open Issues
 
-- [ ] The Emissaries note says Valen began public reconciliation with the Echoforge, while Factions with interest in the rifts says his cell opposes that partnership and works to undermine it. This note follows the Player Wiki: he publicly leads the Emissaries and the Inkwell is secret. The Emissaries note also says the Emissaries as a whole have no public tie to him (line on his splinter cell). Reconcile all of it in the Opus faction pass
+- [x] The Emissaries note says Valen began public reconciliation with the Echoforge, while Factions with interest in the rifts says his cell opposes that partnership and works to undermine it. This note follows the Player Wiki: he publicly leads the Emissaries and the Inkwell is secret. The Emissaries note also says the Emissaries as a whole have no public tie to him (line on his splinter cell). Reconcile all of it in the Opus faction pass (Settled 2026-10-30: Valen publicly leads the Emissaries, as the Player Wiki says. The partnership with the Echoforge is the order's sincere policy, begun by the moderates late in Talrek Sunshadow's leadership. Valen won the leadership by promising to keep it, upholds it in public and works against it through the Inkwell. The old line about "no public tie" meant Qalix, not Valen.)
 - [ ] Does Qalix tell him about the party and Dreyara's death, and does the Inkwell take over any of her work? [[Qalix's Network]] lists [[Ru'Shan Halrune]] as a natural fit to take over her work
 - [ ] Does he know the party has Shard 6?
 - [ ] The Eledyr line (recruited using Clasp connections, investigating a prophecy through him) follows Eledyr's note and waits on "Eledyr: whether he still matters, and where he is"

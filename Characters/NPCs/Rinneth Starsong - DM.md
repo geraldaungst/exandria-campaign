@@ -99,7 +99,7 @@ whereabouts: "[[Menagerie Coast]]"
 - Inner Circle members (particularly Kael and Radelia)
 - Complex diplomatic ties with the Cobalt Soul
 - Tense opposition to Obsidian Echoforge
-- Maintaining alliances with Ashari and Wardens of Sylene
+- Cordial, situational ties with individual Ashari and Wardens of Sylene
 - Acts as spiritual guide to many Cord members
 
 ## Future Plans

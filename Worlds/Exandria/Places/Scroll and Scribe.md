@@ -21,7 +21,7 @@ A large, central table displays a variety of quills, ink bottles, and writing to
 
 # What's Happening Now
 - [[Valen Elderguard]]'s note puts him here for Emissary business. [[Eledyr Dephar]]'s note has him frequenting the shop as an academic researcher; his whereabouts are open.
-- The Emissaries watch Ovedo through the shop ([[Emissaries of the Sunfall - DM]]).
+- The Inkwell watches Ovedo through the shop ([[Emissaries of the Sunfall - DM]]).
 
 # Secrets
 > [!secret]- DM Only
@@ -30,7 +30,7 @@ A large, central table displays a variety of quills, ink bottles, and writing to
 > - [ ] Dalina knows about the cellar and cooperates willingly ([[Dalina Van DeVries]]).
 
 ## Open Issues
-- [ ] Which Emissaries use the cellar, and how often. This waits on the Emissaries rebuild (Opus faction pass).
+- [x] Which Emissaries use the cellar, and how often. This waits on the Emissaries rebuild (Opus faction pass). (The order's Rexxentrum members meet there for ordinary Emissary business, and the Inkwell watches Ovedo from the shop; Inkwell meetings stay at the Pearls' Rest townhouse. How often: left to play.)
 
 ## Connected Elements
 ![[Related Notes.base]]

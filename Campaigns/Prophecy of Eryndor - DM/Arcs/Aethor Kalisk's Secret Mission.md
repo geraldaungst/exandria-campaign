@@ -1,5 +1,5 @@
 ---
-status: complete
+status: paused
 tags:
   - campaign/eryndor
   - needs-work
@@ -12,11 +12,11 @@ tier: standard
 ## Quick Reference
 
 > [!info] Essential Details
-> - Status: Complete. The party found the compass and kept it. The lead continues in [[Search for the Stonefoot Compass]].
+> - Status: Paused, unfulfilled. The party found the compass and kept it without telling Aethor; his deadline passed on 8 Thunsheer 835 and his response is pending. The lead to Shard 7 continues in [[Search for the Stonefoot Compass]].
 > - Timeline: 15 days from the hire (the deadline passed on 8 Thunsheer 835)
 > - Key Players: [[Aethor Kalisk - DM|Aethor]], [[Calderax Dunhall]], [[Keldar Stonefoot - DM|Keldar Stonefoot]]
 > - Last Session: [[Session 30 - Back at Harmony Hall]]
-> - Outcome: The party found the compass inside a snail in the Othemoor Swamp and kept it without telling Aethor.
+> - Outcome: The party found the compass inside a snail in the Othemoor Swamp and kept it without telling Aethor. Unfulfilled; a consequence is still to come.
 
 ## Overview
 

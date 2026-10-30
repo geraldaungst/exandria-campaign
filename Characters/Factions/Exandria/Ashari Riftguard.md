@@ -43,7 +43,7 @@ The Ashari are extremely concerned about the potential for opening new rifts. Th
 These four Ashari represent a microcosm of the world's elements and reflect the Ashari's holistic approach to maintaining the balance between the planes. They each bring unique perspectives and abilities to the group, making them a formidable force against the chaotic energies threatening to upset the natural order.
 
 # Relationships
-**Allies:** none yet. The [[Malachite Cord - DM|Malachite Cord]]'s note lists the Ashari as allies (see Open Issues)
+**Allies:** none. Individual Ashari are on cordial, situational terms with members of the [[Malachite Cord - DM|Malachite Cord]], not allied with it
 **Rivals:** the Emissaries, whose permanent door they oppose
 **Neutral:** the Ashari are not allied with "either of the other two groups (yet)" because they do not have enough information to know whether [[Aveqtaro Thaan]] is sincere. The original note does not name the two groups (see Open Issues)
 
@@ -56,7 +56,7 @@ The Ashari were the people who arose to seal the rifts formed at the last eclips
 ## Open Issues
 
 - [ ] [[Lorcan Vale]], [[Melina Denos]], [[Durnn Keth]] and [[Sylphia Swiftcrest]] are one-paragraph notes. Flesh them out before the Riftguard comes into play.
-- [ ] The Malachite Cord's note lists the Ashari as allies, while this note says the Riftguard is not allied with anyone yet. [[Kael Dren'eth]] is Terrah and sits in the Cord's inner circle. Decide how they relate.
+- [x] The Malachite Cord's note lists the Ashari as allies, while this note says the Riftguard is not allied with anyone yet. [[Kael Dren'eth]] is Terrah and sits in the Cord's inner circle. Decide how they relate. (Settled 2026-10-30: no alliance between the groups. Individual Ashari and Cord members are on cordial, situational terms and work together when it helps both, like two parties in a parliament. Kael, who left Terrah, is seen there as a heretic.)
 - [ ] Which "other two groups" is the Riftguard holding back from? Probably the Obsidian Echoforge and the Malachite Cord, but the original note does not say.
 
 ## Connected Elements

@@ -6,7 +6,7 @@ tags:
 ---
 
 # Quick Reference
-**Location:** With the [[Malachite Cord - DM]].
+**Location:** The original at the [[Malachite Cord - DM|Malachite Cord]]'s headquarters in [[Odessloe]]; each cell carries an official copy.
 **Significance:** Originally [[Seraphina Amaris - Vicki|Seraphina]]'s childhood nature journal. The Cord treats it as a sacred text.
 
 # Description & Properties
@@ -14,22 +14,14 @@ The Verdant Codex was originally [[Seraphina Amaris - Vicki|Seraphina's]] childh
 
 # Lore
 
-> [!warning] Undecided brainstorm
-> The two sections below are speculation ("would likely", "might be"), kept verbatim. They are not settled canon.
-
-## Preserved Original
-
-- **Magical Protection**: Given their deep respect for the Aurora's Ascendant and their access to skilled magic users, the original nature journal would almost certainly have been magically preserved. Enchantments to prevent aging, decay, and damage from the elements would be essential to keeping the journal intact. This preservation might have been one of the group's early priorities upon acquiring the artifact.
-- **Sacred Storage**: The original journal would be kept in a specially consecrated area within their hidden base, possibly in a shrine or vault designed to protect and honor [[Seraphina Amaris - Vicki|Seraphina]]'s relic. Only the highest-ranking members or those undergoing significant rites or missions might be granted the chance to view or study it directly.
-
-## Copies and Transcriptions
-
-- **Widespread Use**: Recognizing the importance of the wisdom within the pages and the risk of losing it, the [[Malachite Cord - DM]] would likely have made detailed copies and transcriptions of the journal. These copies allow members to study and utilize [[Seraphina Amaris - Vicki|Seraphina]]'s observations without risking the original artifact.
-- **Evolving Interpretations**: Over the centuries, as the journal has been copied, members might have added annotations, interpretations, and cross-references to other works or their own findings. These evolving documents serve not only as a preservation of [[Seraphina Amaris - Vicki|Seraphina]]'s insights but also as a living record of the Cord's ongoing work and understanding of the forest's magic and the corruption they combat.
+- [ ] The original is the Ascendant's childhood journal, preserved by magic against age, decay and the elements, and kept at the Odessloe headquarters. Only the inner circle may read it
+- [ ] Each cell's official copy was made directly from the original by an inner-circle member. Members keep copies of those copies
+- [ ] Over generations, members have added annotations, interpretations and cross-references, so the copies are also a record of the Cord's own work on the forest and the corruption
+- [x] The shrine cell's official copy, a clean transcription with a new green-leather cover, is the one the party handled. It holds drawings of the forest and its fey, and its last entries describe the corruption. [[Session 17 - Aftermath at the Shrine of Melora|Session 17]]
 
 ## Open Issues
 
-- [ ] Decide whether the original is preserved in a Cord shrine and whether copies and annotations exist. Settle it with the Malachite Cord rewrite (Opus faction pass).
+- [x] Decide whether the original is preserved in a Cord shrine and whether copies and annotations exist. Settle it with the Malachite Cord rewrite (Opus faction pass). (Settled 2026-10-30: the original is kept under preservation magic at the Cord's Odessloe headquarters; only the inner circle reads it. Each cell's official copy was made directly from the original by an inner-circle member; copies of copies circulate; annotations build up over generations. The shrine cell's copy, which the party handled in Session 17, is a clean transcription.)
 
 ## Connected Elements
 

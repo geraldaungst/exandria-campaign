@@ -16,6 +16,7 @@ Shard 5 of the [[Lorestone of Eryndor - DM|Lorestone of Eryndor]]. Hub: [[Lorest
 - Party · where · Varnes told them at Cloudfang · [[Session 38 - What to Do with Lady Emer?|Session 38]]
 - [[Vaud Qalix - DM|Vaud Qalix]] · where · personal · sent Dreyara to steal it from the Archive
 - [[Korfel Withrethin]] · where · Dreyara's Myriad partner for the Archive heist
+- [[Archivist Ovedo]] · where · personal · holds it in a secret vault; the order does not know
 - [[Obsidian Echoforge - DM|Obsidian Echoforge]] · wrong · know it exists, but think the Stonefoot Compass lead points to it; unaware Ovedo holds it
 
 ## Pursued by

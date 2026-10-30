@@ -25,7 +25,7 @@ Conventions this module relies on:
 - **Inscribed lines** come from two notes the hub names: the original text and the version known today (`original` and `modern` props). Each line starts with a label, the piece's number and the line's position on it: `4a Where once-grand spires…`. A modern line carries the label of the original line it comes from; a label in parentheses, `(6b)`, is a line that survived although its piece is lost. Markdown around the text (bold, italics, a link) is ignored. A line's state: **read** once the piece's History has a `lines read` entry; **modern** when only its modern version is known; **unknown** otherwise. With no `original` note, the piece note's own "Prophecy lines" tasks are used instead (ticked = read).
 - **Open Issues** (`heading_open_issues`; the Shard notes' heading since 2026-10-30, formerly `Open questions`): tasks; unticked means open.
 - **Party knowledge** (for the card color): `holds` when the holder is a PC or the party; otherwise the best `Who knows` level of any line about the party or a PC (`where`, `exists`, `wrong`); otherwise none.
-- **Grid roll-up.** A line about a person also counts for each faction they belong to (`faction/…` tags, every level that has a faction note) and, for a PC, for the party, unless the line says otherwise (`personal`, or `shares with` naming some of those factions; a named faction they don't belong to is ignored). A person is listed under a faction only when at least one of their lines reaches it; someone whose lines are all personal is listed on their own. The current holder always counts for their factions. A faction's note is a note tagged `faction` or `faction/…` that is not an NPC, PC, location, or player wiki page; when several carry the same faction tag, the one whose name matches the tag wins, then one in the factions folder.
+- **Grid roll-up.** A line about a person also counts for each faction they belong to (`faction/…` tags, every level that has a faction note) and, for a PC, for the party, unless the line says otherwise (`personal`, or `shares with` naming some of those factions; a named faction they don't belong to is ignored). A person is listed under a faction only when at least one of their lines reaches it; someone whose lines are all personal is listed on their own. The current holder counts for their factions too, unless the holder's own Who knows line on that piece says otherwise (`personal`, or `shares with`), as [[Archivist Ovedo]]'s line on Shard 5 does. A faction's note is a note tagged `faction` or `faction/…` that is not an NPC, PC, location, or player wiki page; when several carry the same faction tag, the one whose name matches the tag wins, then one in the factions folder.
 - Lines that don't match these shapes are reported as problems, so a hand edit that breaks the format shows on the hub instead of disappearing.
 
 The block below is plain `jsx`, so it does not run on this page. Notes load it with `dc.require(dc.headerLink("00 DM Screen/Code/Artifact Pieces.md", "Code"))`. After editing, reopen any note that uses it. Design: [[DM Hubs Design]].
@@ -495,7 +495,12 @@ function buildGrid(pieces, ctx) {
   };
 
   for (const p of pieces) {
-    if (p.state.holder) record(p.state.holder, p.number, "H", p.state.holderSince?.description ?? "", p.state.holderSince?.session ?? null);
+    if (p.state.holder) {
+      // The holder's own Who knows line on this piece, if any, sets how far the hold reaches (personal, or shares with).
+      const holderKey = subjectKey(withPage(p.state.holder, ctx));
+      const own = p.parsed.knows.find((k) => subjectKey(withPage(k.who, ctx)) === holderKey);
+      record(p.state.holder, p.number, "H", p.state.holderSince?.description ?? "", p.state.holderSince?.session ?? null, own?.share ?? null);
+    }
     for (const k of p.parsed.knows) record(k.who, p.number, k.level === "where" ? "K" : k.level === "exists" ? "E" : "W", k.note, k.session, k.share);
     for (const q of p.parsed.pursuit) record(q.who, p.number, "P", q.how, q.session, q.share);
   }

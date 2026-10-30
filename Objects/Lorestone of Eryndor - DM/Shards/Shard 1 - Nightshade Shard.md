@@ -13,12 +13,13 @@ Shard 1 of the [[Lorestone of Eryndor - DM|Lorestone of Eryndor]]. Hub: [[Lorest
 ## Who knows
 
 - [[Malachite Cord - DM|Malachite Cord]] · where · aware of the Echoforge's holdings
+- [[Emissaries of the Sunfall - DM|Emissaries of the Sunfall]] · where · partners of the Echoforge; the Inkwell watches Palma Flora
 - [[Vaud Qalix - DM|Vaud Qalix]] · where · personal · knows the Echoforge's holdings through his spy network
 - Party · where · library research, confirmed by Aethor · [[Session 7]], [[Session 8]]
 
 ## Pursued by
 
-- [[Emissaries of the Sunfall - DM|Emissaries of the Sunfall]] · theft, infiltration, violence
+- [[Emissaries of the Sunfall - DM|Emissaries of the Sunfall]] · the Inkwell, by theft, infiltration or violence
 - [[Vaud Qalix - DM|Vaud Qalix]] · personal · through his spy network
 
 ## Open Issues

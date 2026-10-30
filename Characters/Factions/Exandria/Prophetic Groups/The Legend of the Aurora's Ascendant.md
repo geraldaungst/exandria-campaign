@@ -1,11 +1,16 @@
 ---
 tags:
+  - atomic
   - world/exandria
 ties_to:
   - "[[Greying Wildlands]]"
 ---
 
-## Full Version (10 minutes)
+## The Legend of the Aurora's Ascendant
+
+The [[Malachite Cord - DM|Malachite Cord]]'s story of the Aurora's Ascendant, in four lengths for telling at the table. Cord members told the party the 3 minute version at the Shrine of Melora ([[Session 17 - Aftermath at the Shrine of Melora|Session 17]]). DM only: the Ascendant is [[Seraphina Amaris - Vicki|Seraphina]].
+
+### Full Version (10 minutes)
 
 Gather close, children of the stars and earth, for I shall weave for you the tale of The Aurora's Ascendant, a saga of light, darkness, and the eternal dance between them. In the heart of the Savalirwood, where the trees are ancient and their whispers are the echoes of time itself, our legend begins.
 
@@ -19,7 +24,7 @@ But even heroes have their moments of doubt. There came a time when The Ascendan
 
 And what of us, you might ask, the descendants of those who first told her tale? We are the keepers of her story, the bearers of her legacy. The [[Malachite Cord - DM]], those sworn to combat the creeping corruption, hold her tale in their hearts. They fight not just for the land, but for the spirit of The Ascendant, for the promise that her light continues to shine, even in the darkest of times. So, let us remember, as we walk beneath the boughs of the Savalirwood, as we gaze upon the stars that once whispered to our heroine, that we are part of a story much greater than ourselves. The Aurora's Ascendant, though not present in body, is ever-present in spirit. In the rustle of the leaves, in the murmur of the brooks, in the whisper of the night wind, she is there. Her legend, a tapestry woven from threads of truth and myth, continues to inspire. It reminds us that we, too, have a part to play in the ongoing battle against the darkness. We, too, can be a light in the night, a force for good in a world that so often seems on the brink of succumbing to despair. So, let us carry her story in our hearts as we go forth. Let us be brave as she was brave, let us be kind as she was kind. And let us never forget the Aurora's Ascendant, whose light guides us still, a shining path amidst the shadows, a promise of dawn in the darkest night.
 
-## 5 Minute Version
+### 5 Minute Version
 
 Gather close, children of the stars and earth, for I shall weave for you the tale of *The Aurora's Ascendant*, a saga of light, darkness, and the eternal dance between them. In the heart of the Savalirwood, where ancient trees whisper with the echoes of time, our legend begins.
 
@@ -35,7 +40,7 @@ We, the descendants, are keepers of her story and bearers of her legacy. We are 
 
 Let us carry her story as we go forth, brave and kind as she was. And let us never forget the Aurora's Ascendant, whose light guides us still.
 
-## 3 Minute Version
+### 3 Minute Version
 
 Gather 'round, for I'll recount the tale of The Aurora's Ascendant, a radiance born under a cosmic dance in the heart of The Wood.
 
@@ -45,6 +50,14 @@ With a heavy but determined heart, she was lifted up to the heavens, seeking wis
 
 So let us carry her light within us, beacons against the night, and remember, in every whisper of the forest, in every shimmer of the stars, her story lives on, guiding us forward.
 
-## 100 Word Version
+### 100 Word Version
 
 In the Savalirwood, where ancients whisper, The Aurora's Ascendant, born under a cosmic dance, emerged. Creatures could sense her pure soul. A nexus of starlight and earth, she grew, her essence a balm to the forest. When darkness threatened, she, anointed by the will of Melora, confronted the shadows, then vanished to the heavens. Her spirit, a beacon of hope, inspires the [[Malachite Cord - DM]] to fight darkness, her legend a guiding star in the night.
+
+## Source
+
+The Cord's legend, kept verbatim from the original note. Summary for the players: [[Malachite Cord]] (Player Wiki).
+
+## Connected Elements
+
+![[Related Notes.base]]

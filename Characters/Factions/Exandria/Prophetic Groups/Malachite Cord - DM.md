@@ -1,171 +1,89 @@
 ---
+aliases:
+  - The Cord
 tags:
   - organization
   - world/exandria
   - faction/malachite-cord
   - unplaced
 ties_to:
-  - "[[Menagerie Coast]]"
+  - "[[Savalirwood - DM]]"
 ---
 
-## Quick Reference
+![[malachite-cord.png|right|150]]
+
+# Quick Reference
 
 > [!quote]- What players know
 > ![[Malachite Cord]]
 
-> [!info] Essential Details
-> - Base of Operations: [[Odessloe]]
-> - Primary Goal: Identify the source of corruption in the Savalirwood and stop the spread
-> - Secondary Goal: Prevent assembly of the [[Lorestone of Eryndor - DM|Lorestone]] to avoid catastrophe
-> - Current Status: Active
-> - Party Standing: Neutral
-> - Influence Level: Regional
+**Base:** [[Odessloe]], near Rexxentrum. Records and meetings in a section of [[Radelia Caphax]]'s Cithrel Textiles warehouse. Most members are on the move more often than not
+**Goal:** find the source of the corruption in the Savalirwood, stop its spread and heal the forest. Prevent the [[Lorestone of Eryndor - DM|Lorestone]] from being reassembled, which they believe would bring a catastrophe like [[Ruins of Molaesmyr - DM|Molaesmyr]]'s
+**Status:** active. A cell under [[Rinneth Starsong - DM|Rinneth]] is restoring and rededicating the [[Shrine of Melora - DM|Shrine of Melora]] east of Port Damali and shrinking its rift with riftcages
+**Influence:** small and regional. About 150 members in cells of 15 to 30. Every cell shares the Cord's beliefs, and cell leaders answer to Rinneth and her inner circle
 
-## Organization
+# Leadership
+**Current Leader:** [[Rinneth Starsong - DM|Rinneth Starsong]], half-elf druid and bard. Members take her visions as the Aurora's Ascendant's guidance. Her inner circle, [[Kael Dren'eth]], [[Radelia Caphax]] and others, advises her and keeps the Cord's history, its relics and the original Verdant Codex
 
-### Leadership Structure
+**Notable Members:**
+- [x] [[Rinneth Starsong - DM|Rinneth Starsong]]: leader. [[Session 15]]
+- [x] [[Radelia Caphax]]: inner circle. Owns Cithrel Textiles; shadowed Aethor for the Cord. [[Session 19 - Interrogating Radelia|Session 19]]
+- [x] [[Kael Dren'eth]]: inner circle. White dragonborn sorcerer who left the Ashari Earth tribe (Terrah). [[Session 15]]
+- [ ] Kael believes chaos can be mastered and rifts turned into a source of power. Some members see him as a rising star, others as a dangerous liability
+- [x] The shrine cell (roleplay notes on [[Shrine of Melora - DM]]): Vren Kosselheim, Samir Nasim, Quorri Galesong, Lirael Brightriver, Elias Thornheart and Poppy Underhill. [[Session 15]], [[Session 16]]
+- [ ] Theron Galevor: human ranger. Carries a pendant of the Aurora's Ascendant into every mission, believing it connects him to her spirit
+- [ ] Elyndra Sweetcheek: gnome wizard. Studies the celestial events of the Ascendant's birth and how they relate to the rifts and the corruption
 
-Leader: [[Rinneth Starsong - DM]]
+# Culture & Methods
+- [x] Guardians of balance who follow the Aurora's Ascendant, the Chosen of Melora. They read the Savalirwood's corruption as a warning of greater disturbances across Exandria. [[Session 17 - Aftermath at the Shrine of Melora|Session 17]]
+- [ ] The Ascendant is [[Seraphina Amaris - Vicki|Seraphina]]. The Cord's story of her is [[The Legend of the Aurora's Ascendant]]
+- [x] Many members carry a wooden symbol on a green cord. [[Session 17 - Aftermath at the Shrine of Melora|Session 17]]
+- [ ] Members carry icons of the Ascendant on missions, collect and preserve relics tied to her, and use them in rituals
+- [ ] Celestial observation is part of their practice
+- [x] Their teachings are gathered in the [[Verdant Codex]]. [[Session 17 - Aftermath at the Shrine of Melora|Session 17]]
+- [ ] The original Codex is the Ascendant's childhood nature journal, kept under preservation magic at the Odessloe headquarters. Only the inner circle reads it
+- [ ] Each cell's official copy was made directly from the original by an inner-circle member. Members also keep copies of those copies, and annotations build up over the generations. The shrine cell's official copy is a clean transcription
+- [x] Riftcages, soulwood devices that draw energy from a rift and shrink it but cannot close it. There are too few for the rifts spreading across Exandria, and the Cord seeks soulwood. [[Session 16]]
+- [ ] They prefer prevention and healing to force: research, protection of affected sites, covert work, and both rangers and wizards or druids in the field
+- [x] They believe reassembling the Lorestone will tear the rifts wider. [[Session 17 - Aftermath at the Shrine of Melora|Session 17]]
+- [ ] They are partly right: used without a Luxon Beacon, the Lorestone fails catastrophically. They don't know a Beacon makes it safe
 
-- **[[Rinneth Starsong - DM]]** As the leader, [[Rinneth Starsong - DM|Rinneth]] is the heart and soul of the Malachite Cord. Her gentle demeanor, iron will, and cryptic visions are believed to be an echo of the Aurora's Ascendant's celestial guidance. She leads the Cord with songs that are not only beautiful but are also said to carry fragments of [[Seraphina Amaris - Vicki|Seraphina]]'s own wisdom and strength.
-- **Inner Circle**: This small council includes [[Kael Dren'eth]] and [[Radelia Caphax]], among others, who are not just strategists and advisors but also custodians of the group's history and the legacy of the Aurora's Ascendant. They ensure that every action and mission aligns with the spirit of what they believe [[Seraphina Amaris - Vicki|Seraphina]] stood for.
+# Relationships
+**Allies:** none as groups. The Cord has cordial, situational ties through individual members with the Ashari, the Wardens of Sylene, some Claret Orders and the Wild Clay. They work together when it helps both and do not otherwise support each other. Kael, who left the Earth tribe, is seen there as a heretic
 
-### Notable Members
+**Rivals:**
+- [x] The [[Obsidian Echoforge - DM|Obsidian Echoforge]]. The two once stood on common ground and have divided over the rifts: the Echoforge seeks mastery, the Cord harmony. They still confer when the rifts require it. [[Session 17 - Aftermath at the Shrine of Melora|Session 17]]
+- [ ] The Cord knows the Echoforge holds four shards and where they are kept
+- [x] The [[Emissaries of the Sunfall - DM|Emissaries of the Sunfall]]. The Cord knows Valen Elderguard leads them and that they turned from the Echoforge's enemies into its partners. It told the party it would look into Elderguard and "the Eye". [[Session 19 - Interrogating Radelia|Session 19]]
+- [ ] The Cord does not know Vaud Qalix by name or that the Inkwell exists
+- [ ] The [[Cerberus Assembly - DM|Cerberus Assembly]]: they clash over magical research methods and the handling of artifacts
 
-- [[Kael Dren'eth]]
-- [[Radelia Caphax]]
-- **Theron Galevor**: A human Ranger and a disciple of the Aurora's Ascendant's teachings. He's known for carrying a pendant of The Aurora's Ascendant into every mission, believing it connects him to [[Seraphina Amaris - Vicki|Seraphina]]'s spirit and guidance.
-- **Elyndra Sweetcheek**: A gnome Wizard fascinated by the celestial phenomena that marked [[Seraphina Amaris - Vicki|Seraphina]]'s birth. She's dedicated to understanding the cosmic forces at play and how they relate to the rifts and corruption, believing that the answers lie in the stars.
+**Neutral:** the [[Cobalt Soul - DM|Cobalt Soul]]. A research relationship, and Rinneth keeps diplomatic ties with the order. The Cord does not know about Shard 5
 
-### Size/Scale
+# Current Activities
+- [ ] Restore and rededicate the Shrine of Melora, and shrink its rift to the Elemental Plane of Fire with riftcages
+- [ ] Study the Savalirwood corruption, three centuries old or more, and its link to the rifts. In the short term contain it; in the long term find its source and heal the forest
+- [ ] Work to prevent the restoration of the Lorestone
+- [ ] Look into Valen Elderguard and "the Eye", as the Cord told the party it would. [[Session 19 - Interrogating Radelia|Session 19]]
+- [ ] Strengthen the cell network and secure communication between cells
+- [ ] Rinneth wants to prevent the threats she has seen in recent visions
 
-- About 150 total members spread across a loose organization of cells.
-- All cells share the beliefs and vision of the Cord
-- Each cell ranges from about 15-30 members.
-- Cell leaders recognize Rinneth and her inner circle
+## Faction Knowledge Evolution
 
-### Resources & Assets
+![[Lorestone of Eryndor - DM#Faction Knowledge Evolution]]
 
-- The group's headquarters (such as it is) is in [[Odessloe]], near [[Rexxentrum - DM]]. The group uses a section of Radelia Caphax's Cithrel Textiles company warehouse for their records and meetings, though more often than not the group is traveling and does not stay in one place much.
+# History
+- **Founding:** after the Ascendant vanished into the Feywild, a small group who revered her, including her half-sibling, formed the Cord to protect the Savalirwood from the spreading corruption. They studied the forest, her life and the celestial events around it
+- **Years 1 to 50:** the Cord grew slowly, admitting those who shared its reverence. Members gathered artifacts and relics of the Ascendant, which became central to their rituals and decisions. Traditions grew from her teachings and the values of her parents
+- **Years 51 to 100:** the Cord codified its beliefs around the legend and began carrying icons of the Ascendant. Its first real successes protected and healed parts of the forest
+- **Years 101 to 150:** ties with other groups concerned with natural balance, among them the Ashari and some druid circles; a period of reflection reaffirmed the founding principles
+- **Years 151 to 200:** losses to the corruption and internal conflicts, from which the Cord came out more dedicated
+- **The modern Cord:** [[Rinneth Starsong - DM|Rinneth]], once a performer of prophetic ballads, gave up her career after visions of the Echoforge's plans. Recognized as a spiritual successor to the Ascendant's legacy, she gathered the inner circle, set up the mobile cell structure and made the Cord more practical and action-oriented
 
-## Culture & Methods
+## Seeds Planted
 
-### Philosophy/Beliefs
-
-- Seraphina's legacy serves as the spiritual and moral foundation for all their work
-- The Aurora's Ascendant's guidance continues through celestial signs and Rinneth's visions
-- Natural balance must be protected and restored, particularly in regards to the Savalirwood
-- Direct intervention to prevent catastrophic magical events is necessary
-- Prevention and healing are preferred over aggressive countermeasures
-- Fears that assembly of the [[Lorestone of Eryndor - DM]] will result in disaster. (They are unaware that the Lorestone can be used in conjunction with a Beacon to close rifts safely and stably)
-
-### Traditions/Customs
-
-- Members carry icons of the Aurora's Ascendant during missions
-- Regular rituals involving artifacts and relics connected to Seraphina
-- Collection and preservation of items related to Seraphina's history
-- Celestial observation is integrated into their practices
-- Inner Circle serves as custodians of the group's history and Seraphina's legacy
-
-### Typical Methods
-
-- Research-based approach to understanding corruption and rifts
-- Covert operations and strategic alliances
-- Mobile operations rather than fixed positions (except for the Odessloe headquarters)
-- Protection of affected areas combined with healing efforts
-- Study of ancient texts and lore, particularly relating to Seraphina's battles
-- Use of both martial (rangers) and magical (wizards/druids) approaches to problems
-
-### Known Symbols
-
-- [[The Legend of the Aurora's Ascendant]]
-- [[Verdant Codex]]
-![[malachite-cord.png|300]]
-
-## Relationships
-
-### Allies
-
-- The Ashari - shared protection of natural boundaries and experience with rifts
-- Wardens of Sylene - mutual interest in protecting sacred sites and nature
-- Select Claret Orders - aligned on supernatural threat prevention
-- The Wild Clay - parallel goals in Savalirwood preservation
-
-### Complex/Evolving Relationships
-
-- The Cobalt Soul - Initial neutral research relationship complicated by Lorestone piece possession. Potential for either conflict or stronger alliance depending on Cobalt Soul's assessment of the artifact's danger
-
-### Rivals
-
-- [[Obsidian Echoforge - DM]] - Similar goals, strong differences of opinion on methods
-- [[Emissaries of the Sunfall - DM]] - Not yet aware of this group, but will likely oppose them when aware
-- [[Cerberus Assembly - DM]] - clash over magical research methods and artifact handling
-
-### Neutral Parties
-
-- None as of yet
-
-## Current Activities
-
-### Active Operations
-
-- They are working short term to prevent the the location of and long term to determine the actual source of the corruption in order to heal the Savalirwood and return it ultimately to its healthy state.
-- They are also working to prevent the restoration of the [[Lorestone of Eryndor - DM]] as they believe it to be a dangerous artifact.
-- Attemping to restore and rededicate [[Shrine of Melora - DM|The Shrine of Melora]].
-
-### Recent Events
-
-Group 2 on the [[Session 1 - The Skyship|Skyship]].
-
-### Ongoing Conflicts
-
-- They know of the [[Obsidian Echoforge - DM]] and the [[The Prophecy|Prophecy]].
-- The Malachite Cord are terrified of the consequences of the OE activities because they believe that the attempts to seal the rifts will instead rip them larger causing a widespread [[Rupture of the Molaesmyr Fey Crossing|catastrophe not unlike what happened]] in [[Ruins of Molaesmyr - DM|Molaesmyr]] hundreds of years ago.
-
-## Future Developments
-
-### Short-term Goals
-
-- [ ] Restore and rededicate [[Shrine of Melora - DM|The Shrine of Melora]]
-
-### Long-term Aspirations
-
-- [ ] **Protection and Healing**: Emulating the Ascendant's role as a guardian, the Cord focuses on protecting affected areas and healing what corruption they can. They see this as continuing the work [[Seraphina Amaris - Vicki|Seraphina]] once started, guided by the symbolic icon of The Aurora's Ascendant they carry into every battle.
-- [ ] **Research and Legacy**: Understanding the nature of the corruption and the rifts is paramount. Members delve into ancient texts and lore, seeking any references to [[Seraphina Amaris - Vicki|Seraphina]]'s own battles and strategies, hoping her past victories will shine a light on their path forward.
-
-### Potential Plot Hooks
-
-## History
-
-### Founding - Year 0 (Post-[[Seraphina Amaris - Vicki|Seraphina]]'s Departure)
-
-- **Formation**: After [[Seraphina Amaris - Vicki|Seraphina]] vanished into the Feywild, a small group of individuals who revered [[The Legend of the Aurora's Ascendant]], including her half-sibling, formed the Malachite Cord. Inspired by her legacy, they vowed to protect the Savalirwood from the spreading corruption.
-- **Early Actions**: They began by studying the forest, [[Seraphina Amaris - Vicki|Seraphina]]'s known history, and the celestial events surrounding her life, seeking guidance in her past actions and the natural balance she upheld.
-
-### Years 1-50: The First Generation
-
-- **Expansion of Knowledge**: The Cord expanded modestly, inviting those who showed a deep reverence for [[Seraphina Amaris - Vicki|Seraphina]]'s legacy and a commitment to their cause. They established traditions based on her perceived teachings and the values her parents embodied.
-- **Artifacts and Relics**: Members collected artifacts and relics related to [[Seraphina Amaris - Vicki|Seraphina]], believing them to be imbued with her spirit and guidance. These items became central to their rituals and decision-making.
-
-### Years 51-100: The Second Generation
-
-- **Formalization of Beliefs**: The group codified their beliefs and practices around the lore of the Aurora's Ascendant, seeing themselves as her spiritual successors. They began to carry icons of The Aurora's Ascendant as symbols of their duty.
-- **First Major Successes**: Leveraging their growing understanding of the corruption, the Cord made significant strides in protecting and healing parts of the forest, believing they were continuing [[Seraphina Amaris - Vicki|Seraphina]]'s work.
-
-### Years 101-150: Strengthening Connections
-
-- **Alliances and Influence**: The Malachite Cord formed alliances with other groups concerned with the natural balance, such as the Ashari and certain druid circles, sharing their reverence for [[Seraphina Amaris - Vicki|Seraphina]] and her ideals.
-- **Internal Reflection**: A period of introspection led the Cord to reaffirm their commitment to their founding principles, ensuring that their actions always honored the Aurora's Ascendant's legacy.
-
-### Years 151-200: Dark Times and Resilience
-
-- **Catastrophic Events**: The Cord faced several setbacks, including losses to the corruption and internal conflicts. These challenges tested their resolve but ultimately strengthened their dedication to their founding principles.
-- **Renewed Dedication**: Emerging from these trials with a renewed sense of purpose, the Cord intensified their efforts, using their knowledge of [[Seraphina Amaris - Vicki|Seraphina]]'s legacy to guide them through these dark times.
-
-### Years 201-250: The Modern Cord
-
-- **[[Rinneth Starsong - DM|Rinneth]]'s Leadership**: With the ascension of [[Rinneth Starsong - DM]], a new era began. Her prophetic abilities and connection to the celestial forces were seen as a sign of the Aurora's Ascendant's continuing guidance.
-- **Focused Activities**: The Cord, now a small but highly effective group, conducts research, covert operations, and strategic alliances, all while maintaining a deep spiritual connection to [[Seraphina Amaris - Vicki|Seraphina]]'s spirit. They view their mission as a sacred trust, passed down through generations, never straying from the purpose and goals set by their founders.
+- [ ] Asked the party to help rededicate the Shrine of Melora. [[Session 17 - Aftermath at the Shrine of Melora|Session 17]]
+- [ ] Asked the party to bring them any soulwood they come across. [[Session 17 - Aftermath at the Shrine of Melora|Session 17]]
 
 ## Connected Elements
 

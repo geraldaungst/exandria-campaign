@@ -7,189 +7,88 @@ tags:
   - offscreen
   - world/exandria
   - faction/emissaries-of-the-sunfall
-  - unplaced
+whereabouts: "[[Scroll and Scribe]]"
 ---
 
 ![[emissaries.png|right|100]]
 
-## Quick Reference
+# Quick Reference
 
 > [!quote]- What players know
 > ![[Emissaries of the Sunfall]]
 
-> [!info] Essential Details
-> - Base of Operations: Network presence in [[Rexxentrum - DM]], meetings at [[Scroll and Scribe]]
-> - Primary Goal: Construct a permanent doorway to harness rift power
-> - Current Status: Active, operating covertly
-> - Party Standing: Unknown
-> - Influence Level: Regional
+**Base:** Rexxentrum, as a network of members rather than a headquarters. Members meet in the hidden cellar under [[Scroll and Scribe]] in the Court of Colors. [[The Inkwell]] meets in a townhouse in the Pearls' Rest district. In Port Damali, Dreyara's crew used the [[Abandoned Emissaries Safehouse]] in the Tumbledowns
+**Goal:** master the rifts rather than close them: one permanent, controlled doorway in place of random tears, which they argue would bring order to Exandria. The Inkwell wants that power for itself and the Lorestone shards by any means
+**Status:** active. Publicly partnered with the [[Obsidian Echoforge - DM|Obsidian Echoforge]], a partnership most members support sincerely. [[Valen Elderguard]] leads the order in public and, in secret, the Inkwell, which works against the partnership with [[Vaud Qalix - DM|Qalix]]'s money
+**Influence:** regional. Known in Rexxentrum for a long history of seeking ways to harness power, for their own benefit and, by their own account, for Exandria's
 
-## Organization
+# Leadership
+**Current Leader:** [[Valen Elderguard]]. He upholds the partnership in public and leads the Inkwell in secret
 
-### Leadership Structure
+**Notable Members:**
+- [x] [[Valen Elderguard]]: leader. [[Session 19 - Interrogating Radelia|Session 19]]
+- [ ] [[Valen Elderguard]] is "master scribe" of the Inkwell, his secret cell inside the order, financed by Qalix and reporting to him directly
+- [ ] [[Sumad-Dekon Harrowgate]]: human wizard, recruited by Valen for his theories on the Age of Arcanum. [[Tessa Sunwarden]] of the Echoforge is his old academy rival
+- [ ] [[Kite of the Wind]]: tabaxi rogue. Escaped the failed skyjacking of the *Unshaken* and went to Rexxentrum to report to Valen
+- [ ] [[Georgina Wiseacre]] (deceased): led the skyjacking, a black op unknown even to most Emissaries. Carried a coded map of Xhorhas in Valen's handwriting
+- [ ] [[Lady Emer - DM|Lady Emer]]: once a scout and mercenary for the order; later Qalix's researcher at Cloudfang Keep
+- [ ] [[Eledyr Dephar]]: a Clasp member Valen recruited. His role waits on his design topic
+- [ ] Not members: [[Vaud Qalix - DM|Vaud Qalix]] finances the Inkwell and publicly has no tie to the order. [[Dreyara Drimvar - DM|Dreyara]], his spymaster, worked with Valen until her death
 
-#### Current Leadership
+# Culture & Methods
+- [ ] Named for the Sunfall, an eclipse the founders read as a sign of dormant power on Exandria waiting to be used
+- [ ] They believe the rifts can be mastered: a permanent doorway, held open and controlled, would replace the chaos of random tears
+- [ ] Important papers are spread among members instead of kept in one archive
+- [ ] The order works through public diplomacy. The Inkwell adds espionage, artifact theft and deniable "black ops" run through hired hands
+- [ ] The Inkwell's code language (writing, inks and scribing) is in [[The Inkwell]]
 
-- [[Valen Elderguard]] - Current Leader
+# Relationships
+**Allies:** the [[Obsidian Echoforge - DM|Obsidian Echoforge]], in public. Both want the Lorestone assembled and both see the Malachite Cord as an obstacle; they part ways on what to do with it (the Echoforge would close the rifts, the Emissaries would hold one open). Most members cooperate sincerely, and lower-ranking members work with Echoforge members in good faith
+- [ ] The Inkwell works against the partnership: it watches the Echoforge, and it targeted [[Aethor Kalisk - DM|Aethor]] with the skyjacking of the *Unshaken* ([[Session 1 - The Skyship|Sessions 1 to 3]])
+- [ ] If Valen's double game is exposed, the order splits between the sincere majority and the Inkwell
 
-#### Historical Leadership
+**Rivals:** the [[Malachite Cord - DM|Malachite Cord]], which opposes assembling the Lorestone. The Cord knows Valen leads the order and has said it will look into him ([[Session 19 - Interrogating Radelia|Session 19]]). The [[Ashari Riftguard]] opposes the permanent doorway
+**Neutral:** [[Vaud Qalix - DM|Vaud Qalix]], in public. In secret he finances the Inkwell; the order as a whole does not know
 
-| Leader | Era | Notable Achievements | Legacy |
-|--------|-----|---------------------|---------|
-| Lorion Lightseer | Founding | Created faction philosophy | Established reverence-based approach |
-| Neris Solbane | Age of Aggression | Theorized obsidian shard power | Led assault on [[Obsidian Echoforge - DM]] |
-| Talrek Sunshadow | Shadow Era | Built network of allies | Established covert operations model |
-| [[Valen Elderguard]] | Present | Peace overtures to [[Obsidian Echoforge - DM]] | Public diplomacy, secret operations |
+# Current Activities
+- [ ] The order keeps up the partnership with the Echoforge
+- [ ] [[Kite of the Wind]] reported the failed skyjacking to Valen, about 20 days after it
 
-### Notable Members
+## The Inkwell's operations
+Unknown to most members. Each line is a standing task.
+- [ ] Help Qalix gather the [[Lorestone of Eryndor - DM|Lorestone]] shards
+- [ ] Track [[Aethor Kalisk - DM|Aethor]]'s movements in [[Port Damali - DM|Port Damali]], to learn whether he carries shards
+- [ ] Watch the Echoforge's [[Palma Flora]] facility, especially the security around its shard collection
+- [ ] Learn [[Lyren Willowwhisper]]'s routines and weak points
+- [ ] Watch [[Archivist Ovedo]] from [[Scroll and Scribe]]
+- [ ] Listen to Echoforge communications for mentions of the [[Harmonic Planar Conduit]] components
+- [ ] Keep a secure supply route between [[Rexxentrum - DM|Rexxentrum]] and the ruins of Draconia
+- [ ] Screen recruits for Valen's "special operations"
+- [ ] Look into unusual arcane activity near known rift sites
 
-- [[Sumad-Dekon Harrowgate]] - Human Wizard
-- [[Valen Elderguard]] - Leader, orchestrator of current operations
-- [[Vaud Qalix - DM]] - Secret financier of recent operations
+## Hooks
+- [ ] Workers disappear from the Echoforge's facility at [[Palma Flora]]
+- [ ] Shipping through [[Scroll and Scribe]] increases
+- [ ] People are asking questions about [[Lyren Willowwhisper]]'s movements
+- [ ] Strangers study rift sites
+- [ ] Someone takes an unusual interest in historical documents about Draconia
+- [ ] Several break-in attempts at artifact stores
+- [ ] Suspicious "scholarly visitors" turn up at archives
+- [ ] Mercenary recruitment rises in [[Rexxentrum - DM|Rexxentrum]]
 
-### Size/Scale
+## Faction Knowledge Evolution
 
-Regional organization with distributed network structure
+![[Lorestone of Eryndor - DM#Faction Knowledge Evolution]]
 
-### Resources & Assets
+# History
+- **Lorion Lightseer**, founder, set the order's philosophy: reverence for the power the Sunfall revealed
+- **Neris Solbane** ("Age of Aggression") argued that the obsidian shards held great power and ordered the attack on an Echoforge gathering known as [[The Massacre]] (785 PD). Many members opposed it, some left, and the order split into moderates and hardliners
+- **Talrek Sunshadow** ("Shadow Era") turned the order to covert work and built its network of allies. Late in his leadership the moderates who had stayed opened talks with the Echoforge, and the partnership began
+- **[[Valen Elderguard]]** won the leadership by promising to keep the partnership. He keeps it in public and built the Inkwell, financed by Qalix, to return the order to Neris's methods
 
-- Distributed network of members in [[Rexxentrum - DM]]
-- Important materials and documents spread among members
-- Meeting location at [[Scroll and Scribe]] in Court of Colors
-- Financial backing from hidden sources
+## Open Issues
 
-## Culture & Methods
-
-### Philosophy/Beliefs
-
-- Born from interpretation of the "Sunfall" eclipse as a sign of hidden power
-- Believe in harnessing dormant powers on Exandria
-- Public goal: Bring order to chaotic rifts for Exandria's benefit
-- Private goal: Control and exploit rift power
-
-### Traditions/Customs
-
-- Distributed information storage
-- Covert operations
-- Mix of public diplomacy and secret missions
-
-### Typical Methods
-
-- Espionage
-- Theft of powerful artifacts
-- Secret "black ops" missions
-- Public peace initiatives as cover
-
-### Known Symbols
-
-![[emissaries.png|right|100]]
-
-## Relationships
-
-### Rivals
-
-- [[Obsidian Echoforge - DM]] - Complex adversarial relationship
-  - Historical enemies after [[The Massacre]]
-  - Current public stance of diplomatic cooperation
-  - Secret continued opposition under [[Valen Elderguard]]
-  - Most members unaware of leadership's true intentions
-
-### Historical Progression of Relations
-
-#### Early Period
-
-- Initial competition for artifacts and shards
-- Philosophical clash over use of power vs. preservation
-- Escalating tensions under Neris Solbane's leadership
-
-#### The Breaking Point
-
-- [[The Massacre|Massacre]] at [[Obsidian Echoforge - DM]] gathering
-- Neris Solbane led assault believing group was close to assembling major portion of artifacts
-- Resulted in deaths and loss of gathered shards
-- Created lasting enmity between organizations
-
-#### Modern Evolution
-
-- Talrek Sunshadow's leadership shifted to covert opposition
-- [[Valen Elderguard]] initiated public reconciliation
-- Current facade of cooperation masks continued subversion
-- Lower-ranking members often engage in genuine cooperation
-
-## Historical Events
-
-### The Massacre
-
-![[The Massacre#Core Information#The Event]]
-
-#### Impact on Emissaries of the Sunfall
-
-The Massacre had profound internal consequences:
-
-- Many members opposed the violence
-- Some left the organization in protest
-- Created lasting divide between moderates and extremists
-- Forced eventual leadership changes
-
-*For complete event details, see [[The Massacre]]*
-
-### Post-Massacre Evolution
-
-- Initial period of open hostility
-- Gradual shift to covert operations under Talrek Sunshadow
-- [[Valen Elderguard]]'s strategic changes:
-  - Public peace initiatives
-  - Secret continuation of original goals
-  - Development of "black ops" approach
-  - Cultivation of deniable assets
-
-## Current Activities
-
-### Active Operations
-
-- Maintenance of peaceful facade with [[Obsidian Echoforge - DM]]
-- Secret monitoring of [[Obsidian Echoforge - DM]] activities
-- Covert acquisition of artifacts when possible
-- [[Session 1 - The Skyship|Sessions 1 to 3]] operation (unknown to most members)
-
-### Ongoing Conflicts
-
-- Internal tension between true believers in peace and secret operatives
-- Hidden agenda vs public cooperation with [[Obsidian Echoforge - DM]]
-- Risk of exposure of [[Valen Elderguard]]'s duplicity
-
-## Future Developments
-
-### Short-term Goals
-
-- Track [[Aethor Kalisk - DM]]'s movements in [[Port Damali - DM]] to determine if he's transporting shards
-- Establish surveillance on the [[Obsidian Echoforge - DM]]'s [[Palma Flora]] facility, focusing on security measures around their shard collection
-- Gather intelligence on [[Lyren Willowwhisper]]'s daily routines and vulnerabilities
-- Maintain cover operations at [[Scroll and Scribe]] to monitor [[Archivist Ovedo]]'s activities
-- Establish secure supply routes between [[Rexxentrum - DM]] and the Ruins of Draconia
-- Screen potential recruits for [[Valen Elderguard]]'s "special operations" team
-- Investigate any unusual arcane activity near known rift locations
-- Monitor [[Obsidian Echoforge - DM]] communications for mentions of the [[Harmonic Planar Conduit]] components
-
-### Medium-term Goals
-
-- [[Valen Elderguard]]'s splinter cell: help [[Vaud Qalix - DM]] gather [[Lorestone of Eryndor - DM]] shards. The Emissaries as a whole have no public tie to him
-
-### Long-term Goals
-
-- Construct a permanent doorway
-- Control rifts for power
-
-### Potential Plot Hooks
-
-- Mysterious disappearances of workers at [[Palma Flora]]
-- Increased shipping activity through [[Scroll and Scribe]]
-- Reports of people asking questions about [[Lyren Willowwhisper]]'s movements
-- Strange individuals studying rift locations
-- Unusual interest in historical documents about Draconia
-- Multiple break-in attempts at artifact storage facilities
-- Suspicious "scholarly visitors" at various archives
-- Increased recruitment of mercenaries in [[Rexxentrum - DM]]
+- [ ] Does the Inkwell know [[Archivist Ovedo]] holds Shard 5? It watches him from Scroll and Scribe, and Qalix knows, but Qalix sent the Myriad, not Valen's cell, for the Archive job.
 
 ## Connected Elements
 

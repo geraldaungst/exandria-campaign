@@ -14,7 +14,7 @@ tags:
 
 **Base:** [[Rexxentrum - DM|Rexxentrum]]; the order coordinates its archives from there
 **Goal:** acquire, preserve and share knowledge in the service of Ioun
-**Status:** its Rexxentrum Archive holds [[Shard 5 - Rexxentrum Shard|Shard 5]] in an unauthorized, warded vault, for a secret research project run by [[Archivist Ovedo]]
+**Status:** its Rexxentrum Archive holds [[Shard 5 - Rexxentrum Shard|Shard 5]] in an unauthorized, warded vault, for a secret research project run by [[Archivist Ovedo]]. The order does not know
 **Influence:** archives in major cities: Rexxentrum, the Valley Archive in Zadash, and [[Cobalt Soul Archive in Port Damali - DM|Port Damali]]. It operates openly in the Empire
 
 # Leadership
@@ -42,7 +42,7 @@ tags:
 
 ## Open Issues
 
-- [ ] **Priority:** Does the wider order know about the Lorestone and Shard 5? The Lorestone hub lists the order under Known by, while Shard 5 says the vault is unauthorized and secret.
+- [x] **Priority:** Does the wider order know about the Lorestone and Shard 5? The Lorestone hub lists the order under Known by, while Shard 5 says the vault is unauthorized and secret. (No. Ovedo keeps the shard from the order. He told Varnes the project was sanctioned to buy his silence.)
 - [ ] Who carries Qalix's courtship of the order? No note names an envoy (Sirion handles the Empire and the Dynasty).
 - [ ] **Priority:** Who leads the order in Rexxentrum? No note sets it.
 
