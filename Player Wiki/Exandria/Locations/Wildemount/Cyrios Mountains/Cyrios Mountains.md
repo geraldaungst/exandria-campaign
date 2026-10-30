@@ -33,12 +33,6 @@ The Cyrios Mountains rise north and east of the [[Menagerie Coast]], between the
 - Conditions change sharply with altitude. The foothills are warm and often rainy. The high routes are cold, with snow, strong winds, and whiteouts.
 - Heavy storms sweep the range, and avalanches can block the roads.
 
-## Notable Sites
-
-- [[Cloudfang Keep]]: a keep in the high peaks
-- [[Gnurlsotten's Nosh & Nip]]: a tavern and cheesery at the edge of the range, on the road toward Deastok
-- [[Monastery of Dimensional Harmony]]: an ancient monastery carved into a mountain
-
 ## In the Cyrios Mountains
 
 ### Locations

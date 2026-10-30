@@ -19,7 +19,7 @@ natural_region:
 
 ## Description
 
-The Dwendalian Empire rules the western half of [[Wynandir]], on the continent of [[Wildemount]]. Its capital is [[Rexxentrum]]. The Empire is landlocked and relies on trade with its neighbors, especially the Clovis Concord of the [[Menagerie Coast]].
+The Dwendalian Empire rules the western half of Wynandir, on the continent of [[Wildemount]]. Its capital is [[Rexxentrum]]. The Empire is landlocked and relies on trade with its neighbors, especially the Clovis Concord of the [[Menagerie Coast]].
 
 ## Geography
 

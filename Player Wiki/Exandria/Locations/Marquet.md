@@ -35,4 +35,4 @@ Marquet is a continent far to the southwest of Wildemount, across the [[Lucidian
 - [[Port Damali]] was founded as a colony of Marquet.
 - Ships from Marquet call at Port Damali, and skyships also arrive from Marquet at its skyport.
 - Marquesian spices are traded through Port Damali.
-- The Marquet fragment of the [[Lorestone of Eryndor]] was found in Marquet.
+- The Marquet fragment of the [[Lorestone of Eryndor]] reached Wildemount by ship from Marquet.

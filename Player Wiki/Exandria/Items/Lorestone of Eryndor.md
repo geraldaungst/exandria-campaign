@@ -30,7 +30,7 @@ The Lorestone of Eryndor is an ancient obsidian disc, made before [[the Calamity
 ## Known Shards
 
 - The [[Obsidian Echoforge]] holds four shards.
-- The Marquet fragment was found in [[Marquet]]. Its lines are recorded under [[Prophecy of Eryndor#Lines on the Marquet Fragment|Prophecy of Eryndor]].
+- The Marquet fragment arrived by ship from [[Marquet]]. Its lines are recorded under [[Prophecy of Eryndor#Lines on the Marquet Fragment|Prophecy of Eryndor]].
 
 ## Interest in the Lorestone
 
