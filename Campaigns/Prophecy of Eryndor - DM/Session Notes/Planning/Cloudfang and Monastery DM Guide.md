@@ -247,11 +247,11 @@ tags:
 
 **Key Information:**
 
-- 2-3 bodies visible (Dreyara's companions)
-- Someone survived and went toward Monastery
-- Road ahead: completely blocked
-- Road back: days of backtracking
-- **Monastery visible: only shelter in area**
+- [ ] 2-3 bodies visible (Dreyara's companions)
+- [ ] Someone survived and went toward Monastery
+- [ ] Road ahead: completely blocked
+- [ ] Road back: days of backtracking
+- [ ] **Monastery visible: only shelter in area**
 
 ---
 
@@ -313,10 +313,10 @@ tags:
 
 > You find signs of recent occupation:
 >
-> - Bloodied bandages, still damp
-> - Empty ration wrappers
-> - Bedroll, still warm
-> - Phase spider ichor and fresh sword cuts
+> - [ ] Bloodied bandages, still damp
+> - [ ] Empty ration wrappers
+> - [ ] Bedroll, still warm
+> - [ ] Phase spider ichor and fresh sword cuts
 >
 > Investigation checks reveal: injured person, alone, been fighting spiders, systematically exploring for exit
 >
@@ -330,35 +330,35 @@ tags:
 
 **1. Attack Dreyara on Sight**
 
-- She's wounded, outnumbered, exhausted
-- But phase spiders hear combat
-- Multi-front battle: Party vs Dreyara vs Spiders
+- [ ] She's wounded, outnumbered, exhausted
+- [ ] But phase spiders hear combat
+- [ ] Multi-front battle: Party vs Dreyara vs Spiders
 
 **2. Negotiate Temporary Truce**
 
-- Both need to survive/escape
-- Common enemy (phase spiders)
-- Both going east (different reasons)
-- Temporary alliance until escape
+- [ ] Both need to survive/escape
+- [ ] Common enemy (phase spiders)
+- [ ] Both going east (different reasons)
+- [ ] Temporary alliance until escape
 
 **3. Ignore/Avoid Each Other**
 
-- Explore separately
-- Risky - spiders are numerous
-- Possible but difficult
+- [ ] Explore separately
+- [ ] Risky - spiders are numerous
+- [ ] Possible but difficult
 
 **4. Attempt Capture While Wounded**
 
-- She's vulnerable now
-- Could interrogate about Qalix
-- Could demand blade/shard
-- Spider threat complicates this
+- [ ] She's vulnerable now
+- [ ] Could interrogate about Qalix
+- [ ] Could demand blade/shard
+- [ ] Spider threat complicates this
 
 **5. Demand Blade/Information**
 
-- Drawg's personal quest
-- Leverage: she needs help surviving
-- She's pragmatic, might negotiate
+- [ ] Drawg's personal quest
+- [ ] Leverage: she needs help surviving
+- [ ] She's pragmatic, might negotiate
 
 #### Dreyara's Calculation
 

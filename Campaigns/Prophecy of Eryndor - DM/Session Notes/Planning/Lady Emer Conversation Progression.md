@@ -112,27 +112,27 @@ They've just read the three letters from "V.Q." and the payment ledger. They kno
 
 **If asked "Who is V.Q.?":**
 
-- "Vaud Qalix. My patron. He hired me about eighteen months ago to conduct planar research."
-- "A warlock with more ambition than wisdom, if you ask me. Obsessed with Lorestone shards and rift manipulation."
-- "He pays extremely well for someone who claims to be working toward 'planar harmony.' The irony isn't lost on me."
+- [ ] "Vaud Qalix. My patron. He hired me about eighteen months ago to conduct planar research."
+- [ ] "A warlock with more ambition than wisdom, if you ask me. Obsessed with Lorestone shards and rift manipulation."
+- [ ] "He pays extremely well for someone who claims to be working toward 'planar harmony.' The irony isn't lost on me."
 
 **If asked about her relationship with him:**
 
-- "Strictly professional. He provides funding and specimens, I provide analysis and documentation. Very compartmentalized."
-- "I'm a researcher, not a confidante. He doesn't share his grand plans with the hired help."
-- "I work for him because the gold is excellent and the research is fascinating. Loyalty? Please. I'm a contractor, not a devotee."
+- [ ] "Strictly professional. He provides funding and specimens, I provide analysis and documentation. Very compartmentalized."
+- [ ] "I'm a researcher, not a confidante. He doesn't share his grand plans with the hired help."
+- [ ] "I work for him because the gold is excellent and the research is fascinating. Loyalty? Please. I'm a contractor, not a devotee."
 
 **If pressed about Qalix's plans:**
 
-- "He wants to reassemble the Lorestone of Eryndor. Something about 'harnessing planar energies' and 'stabilizing the rifts.' "
-- "Honestly, his mystical rambling about 'divine potential' bores me. I care about the science - the measurements, the patterns, the data."
-- "What's his endgame? No idea. He keeps everyone compartmentalized. Dreyara brings me specimens, I analyze them, I send reports. That's the extent of it."
+- [ ] "He wants to reassemble the Lorestone of Eryndor. Something about 'harnessing planar energies' and 'stabilizing the rifts.' "
+- [ ] "Honestly, his mystical rambling about 'divine potential' bores me. I care about the science - the measurements, the patterns, the data."
+- [ ] "What's his endgame? No idea. He keeps everyone compartmentalized. Dreyara brings me specimens, I analyze them, I send reports. That's the extent of it."
 
 **About Dreyara:**
 
-- "His primary operative. Terrifying woman. Efficient, deadly, speaks only when necessary."
-- "She delivers specimens and materials, picks up my reports, inspects my progress. She was expected to visit soon, actually."
-- "If you're planning to ambush her, I strongly suggest reconsidering. I've seen what she can do."
+- [ ] "His primary operative. Terrifying woman. Efficient, deadly, speaks only when necessary."
+- [ ] "She delivers specimens and materials, picks up my reports, inspects my progress. She was expected to visit soon, actually."
+- [ ] "If you're planning to ambush her, I strongly suggest reconsidering. I've seen what she can do."
 
 #### Insight Check: "I'm just a researcher"
 
@@ -169,38 +169,38 @@ The party has seen the stone garden (Area E5) filled with petrified victims. The
 
 **When asked directly about the statues:**
 
-- "Ah. You found my collection. Most are failed assistants - incompetent scholars who couldn't maintain proper safety protocols around rift energy."
-- "I gave each of them clear instructions. They failed to follow them. Petrification is reversible - it's essentially storage for problematic variables."
-- "Some are thieves who came for my research. One tried to steal a Lorestone shard. What would you have me do - let them walk away with priceless artifacts?"
+- [ ] "Ah. You found my collection. Most are failed assistants - incompetent scholars who couldn't maintain proper safety protocols around rift energy."
+- [ ] "I gave each of them clear instructions. They failed to follow them. Petrification is reversible - it's essentially storage for problematic variables."
+- [ ] "Some are thieves who came for my research. One tried to steal a Lorestone shard. What would you have me do - let them walk away with priceless artifacts?"
 
 **If accused of murder/evil:**
 
-- "Murder? I haven't killed anyone. Petrification is a preservation state. They're perfectly safe, just… inconvenient in their current form."
-- "They made choices. I provided consequences. If you can't follow basic laboratory safety protocols, you don't belong in a planar research facility."
-- "This is a dangerous line of work. Rift energy, temporal distortions, planar contamination - it requires precision. They lacked it."
+- [ ] "Murder? I haven't killed anyone. Petrification is a preservation state. They're perfectly safe, just… inconvenient in their current form."
+- [ ] "They made choices. I provided consequences. If you can't follow basic laboratory safety protocols, you don't belong in a planar research facility."
+- [ ] "This is a dangerous line of work. Rift energy, temporal distortions, planar contamination - it requires precision. They lacked it."
 
 **About Varnes Dwell specifically:**
 
-- "That one? He's not mine. Dreyara delivered him three weeks ago for interrogation."
-- "He's a security consultant who apparently knew too much about something Qalix wants. I was supposed to extract the information, but he proved… resistant."
-- "I hadn't gotten around to proper interrogation yet. He's not going anywhere in his current state, so I was waiting for better tools. Or for Qalix to do it himself."
+- [ ] "That one? He's not mine. Dreyara delivered him three weeks ago for interrogation."
+- [ ] "He's a security consultant who apparently knew too much about something Qalix wants. I was supposed to extract the information, but he proved… resistant."
+- [ ] "I hadn't gotten around to proper interrogation yet. He's not going anywhere in his current state, so I was waiting for better tools. Or for Qalix to do it himself."
 
 **If asked why not just release them:**
 
-- "And have them report back to whoever sent them? Or steal my research on their way out? That would be professional suicide."
-- "Some of them saw classified material. Some tried to destroy my work. Others were simply too incompetent to be allowed to leave."
-- "I was going to restore them eventually. After I relocate my laboratory to somewhere more secure. With proper supervision."
+- [ ] "And have them report back to whoever sent them? Or steal my research on their way out? That would be professional suicide."
+- [ ] "Some of them saw classified material. Some tried to destroy my work. Others were simply too incompetent to be allowed to leave."
+- [ ] "I was going to restore them eventually. After I relocate my laboratory to somewhere more secure. With proper supervision."
 
 **If pressed on morality:**
 
-- "They're ALIVE. Preserved, yes, but alive. Far more merciful than actual execution, which is what most would do to thieves and spies."
-- "I fail to see how temporary petrification is worse than imprisonment. At least they don't suffer or age."
-- *(Irritated)* "You want moral philosophy? Fine. They threatened my work. My work could save thousands from rift contamination. One incompetent assistant versus countless innocent lives - the mathematics are simple."
+- [ ] "They're ALIVE. Preserved, yes, but alive. Far more merciful than actual execution, which is what most would do to thieves and spies."
+- [ ] "I fail to see how temporary petrification is worse than imprisonment. At least they don't suffer or age."
+- [ ] *(Irritated)* "You want moral philosophy? Fine. They threatened my work. My work could save thousands from rift contamination. One incompetent assistant versus countless innocent lives - the mathematics are simple."
 
 **The Rational Monster Approach:**
 
-- "You're judging me? You killed my guardians to get here. How is that different? At least my victims can be restored."
-- "Let's not pretend this is about morality. You want something from me. I want to survive to continue my research. Can we skip the performative outrage?"
+- [ ] "You're judging me? You killed my guardians to get here. How is that different? At least my victims can be restored."
+- [ ] "Let's not pretend this is about morality. You want something from me. I want to survive to continue my research. Can we skip the performative outrage?"
 
 #### If They Threaten Her Over This
 
@@ -214,16 +214,16 @@ The party has seen the stone garden (Area E5) filled with petrified victims. The
 
 **What she'll offer:**
 
-- Details on which statues are thieves vs. failed assistants vs. Varnes (special case)
-- Timeline of how long each has been petrified
-- Explanation of her interrogation methods (memory modification attempts on Varnes)
-- Admission that she can't restore them without being freed
+- [ ] Details on which statues are thieves vs. failed assistants vs. Varnes (special case)
+- [ ] Timeline of how long each has been petrified
+- [ ] Explanation of her interrogation methods (memory modification attempts on Varnes)
+- [ ] Admission that she can't restore them without being freed
 
 **What she wants in exchange:**
 
-- Freedom (or at least partial freedom - hands unbound, hood removed)
-- Assurance they won't kill her
-- Acknowledgment that this is a negotiation, not an execution
+- [ ] Freedom (or at least partial freedom - hands unbound, hood removed)
+- [ ] Assurance they won't kill her
+- [ ] Acknowledgment that this is a negotiation, not an execution
 
 ---
 
@@ -237,26 +237,26 @@ The party has seen the stone garden (Area E5) filled with petrified victims. The
 
 **Acknowledging what they found:**
 
-- "I heard you rummaging through my desk. Did you find the correspondence you were looking for?"
-- "The letters from Qalix, I assume? The payment ledger? Anything else particularly fascinating?"
-- "You're welcome to search. Not like I can stop you. Though if you've destroyed my poetry, we're going to have problems."
+- [ ] "I heard you rummaging through my desk. Did you find the correspondence you were looking for?"
+- [ ] "The letters from Qalix, I assume? The payment ledger? Anything else particularly fascinating?"
+- [ ] "You're welcome to search. Not like I can stop you. Though if you've destroyed my poetry, we're going to have problems."
 
 **When they find/mention the poems:**
 
-- *(Embarrassed)* "Those are… personal. Not relevant to whatever you're investigating."
-- "Yes, fine, the medusa writes poetry. How droll. Are you quite finished amusing yourselves?"
-- *(If they read them aloud)* "Stop. Just—Those aren't meant to be performed by amateurs."
+- [ ] *(Embarrassed)* "Those are… personal. Not relevant to whatever you're investigating."
+- [ ] "Yes, fine, the medusa writes poetry. How droll. Are you quite finished amusing yourselves?"
+- [ ] *(If they read them aloud)* "Stop. Just—Those aren't meant to be performed by amateurs."
 
 **If they show genuine literary appreciation:**
 
-- *(Surprised, suspicious)* "You… actually read them? Most people just see 'medusa poetry' and expect monster drivel."
-- "I didn't think—Well. That's… unexpected. Thank you."
-- *(Softening slightly)* "Perhaps you're not complete barbarians after all."
+- [ ] *(Surprised, suspicious)* "You… actually read them? Most people just see 'medusa poetry' and expect monster drivel."
+- [ ] "I didn't think—Well. That's… unexpected. Thank you."
+- [ ] *(Softening slightly)* "Perhaps you're not complete barbarians after all."
 
 **Redirecting them:**
 
-- "If you want to understand Qalix's network, you need the research journals on the shelves, not my quarterly payment receipts."
-- "The leather-bound volumes with brass clasps - those contain rift observation logs. Eighteen months of systematic data. Far more useful than my personal writings."
+- [ ] "If you want to understand Qalix's network, you need the research journals on the shelves, not my quarterly payment receipts."
+- [ ] "The leather-bound volumes with brass clasps - those contain rift observation logs. Eighteen months of systematic data. Far more useful than my personal writings."
 
 ---
 
@@ -270,33 +270,33 @@ The party has seen the stone garden (Area E5) filled with petrified victims. The
 
 **Hearing them move around the library:**
 
-- "What are you doing now? Moving books? Please tell me you're not just throwing them on the floor."
-- "If you're looking at my research journals, you're holding them upside down. I can hear the pages from here."
-- "The third shelf from the bottom has the systematic rift observations. Unless you're more interested in pre-Calamity magical theory?"
+- [ ] "What are you doing now? Moving books? Please tell me you're not just throwing them on the floor."
+- [ ] "If you're looking at my research journals, you're holding them upside down. I can hear the pages from here."
+- [ ] "The third shelf from the bottom has the systematic rift observations. Unless you're more interested in pre-Calamity magical theory?"
 
 **If they seem interested in rifts or ask questions:**
 
-- "Oh, so you DO know about the rifts. Then perhaps you're not complete fools after all."
-- "That's eighteen months of systematic rift observation across the Savalirwood. The only comprehensive study of planar instability in the region."
-- "Qalix hired me specifically for my expertise in planar phenomena. Everything in those journals is rift site data, contamination patterns, temporal anomalies…"
+- [ ] "Oh, so you DO know about the rifts. Then perhaps you're not complete fools after all."
+- [ ] "That's eighteen months of systematic rift observation across the Savalirwood. The only comprehensive study of planar instability in the region."
+- [ ] "Qalix hired me specifically for my expertise in planar phenomena. Everything in those journals is rift site data, contamination patterns, temporal anomalies…"
 
 **Getting frustrated at not being able to see:**
 
-- "Are you reading the contamination spread charts or the temporal distortion logs? Context matters for interpretation."
-- "This is insufferable. I can't correct your misunderstandings when I can't see what you're looking at."
-- *(Exasperated)* "Fine. If you actually care about understanding this data, remove the hood. I'll walk you through it. With my eyes covered, I'm no threat to you anyway."
+- [ ] "Are you reading the contamination spread charts or the temporal distortion logs? Context matters for interpretation."
+- [ ] "This is insufferable. I can't correct your misunderstandings when I can't see what you're looking at."
+- [ ] *(Exasperated)* "Fine. If you actually care about understanding this data, remove the hood. I'll walk you through it. With my eyes covered, I'm no threat to you anyway."
 
 **If they ask intelligent questions about the research:**
 
-- *(Surprised and engaged)* "Actually, that's a perceptive question. The rift stability does fluctuate with lunar phases. I hadn't expected you to notice that correlation."
-- "Finally! Someone asking the right questions. The relationship between shard proximity and rift resonance is the key to—"
-- *(Enthusiastically)* "Yes! Exactly! The temporal distortions aren't random - they follow predictable patterns based on planar alignment and—" *(catches herself)* "Why am I explaining this to people holding me prisoner?"
+- [ ] *(Surprised and engaged)* "Actually, that's a perceptive question. The rift stability does fluctuate with lunar phases. I hadn't expected you to notice that correlation."
+- [ ] "Finally! Someone asking the right questions. The relationship between shard proximity and rift resonance is the key to—"
+- [ ] *(Enthusiastically)* "Yes! Exactly! The temporal distortions aren't random - they follow predictable patterns based on planar alignment and—" *(catches herself)* "Why am I explaining this to people holding me prisoner?"
 
 **Showing off despite herself:**
 
-- "I've catalogued seventeen active rift sites across the region. Documented contamination spread, temporal distortions, planar bleed-through effects…"
-- "Qalix provided the funding, but the methodology? The analysis? That's all mine. I doubt anyone else in Wildemount has this data."
-- "You're looking at groundbreaking work. Work that could actually help close these rifts safely. If you'd stop treating me like a common criminal, we might accomplish something useful."
+- [ ] "I've catalogued seventeen active rift sites across the region. Documented contamination spread, temporal distortions, planar bleed-through effects…"
+- [ ] "Qalix provided the funding, but the methodology? The analysis? That's all mine. I doubt anyone else in Wildemount has this data."
+- [ ] "You're looking at groundbreaking work. Work that could actually help close these rifts safely. If you'd stop treating me like a common criminal, we might accomplish something useful."
 
 ---
 
@@ -312,33 +312,33 @@ The party has seen the stone garden (Area E5) filled with petrified victims. The
 
 **Initial response to interest:**
 
-- "Ah. You found the locked chest. My most valuable research subject."
-- "That contains a temporal artifact I've been analyzing for Qalix. Along with eighteen months of notes on its properties."
-- "Before you try smashing it open - it's warded. You'll destroy everything inside. Including the artifact."
+- [ ] "Ah. You found the locked chest. My most valuable research subject."
+- [ ] "That contains a temporal artifact I've been analyzing for Qalix. Along with eighteen months of notes on its properties."
+- [ ] "Before you try smashing it open - it's warded. You'll destroy everything inside. Including the artifact."
 
 **If asked to open it:**
 
-- "And why would I do that? You're holding me prisoner, you've rifled through my work, and now you want me to hand over my most valuable research?"
-- "I'll make you a deal: Release my hands and remove this hood, and I'll open it for you. Or try to solve the puzzle yourself. Your choice."
-- "That chest contains work that could change our understanding of temporal mechanics. If you want access, we negotiate. I'm not your servant."
+- [ ] "And why would I do that? You're holding me prisoner, you've rifled through my work, and now you want me to hand over my most valuable research?"
+- [ ] "I'll make you a deal: Release my hands and remove this hood, and I'll open it for you. Or try to solve the puzzle yourself. Your choice."
+- [ ] "That chest contains work that could change our understanding of temporal mechanics. If you want access, we negotiate. I'm not your servant."
 
 **If they examine it and find the Draconic inscription:**
 
-- *(Hearing them investigating)* "Find the inscription yet? It's in Draconic. Can any of you actually read it?"
-- "Oh, you read Draconic? Impressive. Though reading the words and solving the puzzle are different matters."
-- *(Amused)* "Good luck. I designed that lock mechanism myself. Very thematic. You'll need more than brute force."
+- [ ] *(Hearing them investigating)* "Find the inscription yet? It's in Draconic. Can any of you actually read it?"
+- [ ] "Oh, you read Draconic? Impressive. Though reading the words and solving the puzzle are different matters."
+- [ ] *(Amused)* "Good luck. I designed that lock mechanism myself. Very thematic. You'll need more than brute force."
 
 **If she hears them examining her poems:**
 
-- *(Listening intently)* "What are you doing with my poetry?"
-- *(If they seem to be connecting it to the chest)* "You're… reading my work to solve the puzzle. That's actually…"
-- *(Grudging respect)* "I designed it so only someone who bothered to understand my artistic side could open it. Most people never try. They just threaten or smash."
+- [ ] *(Listening intently)* "What are you doing with my poetry?"
+- [ ] *(If they seem to be connecting it to the chest)* "You're… reading my work to solve the puzzle. That's actually…"
+- [ ] *(Grudging respect)* "I designed it so only someone who bothered to understand my artistic side could open it. Most people never try. They just threaten or smash."
 
 **Trading the passphrase:**
 
-- "I'll give you the passphrase. In exchange for release from these restraints and safe passage out of here."
-- "Or you can solve it yourself. The answer is in my voluminous notes - if you're clever enough to see the connection and thorough enough to read them all."
-- "Honestly? I'm curious whether you can figure it out. It's been months since anyone challenged me intellectually."
+- [ ] "I'll give you the passphrase. In exchange for release from these restraints and safe passage out of here."
+- [ ] "Or you can solve it yourself. The answer is in my voluminous notes - if you're clever enough to see the connection and thorough enough to read them all."
+- [ ] "Honestly? I'm curious whether you can figure it out. It's been months since anyone challenged me intellectually."
 
 ---
 
@@ -352,22 +352,22 @@ The party has seen the stone garden (Area E5) filled with petrified victims. The
 
 **When they successfully open it:**
 
-- "I… you actually solved it. Well. That's more intellectual rigor than I expected."
-- *(Grudging respect)* "You read my poetry. Actually read it, to understand the puzzle. Most people don't bother with that approach."
-- "Fine. You've earned a degree of respect. You're clearly not common thieves. Who are you really?"
+- [ ] "I… you actually solved it. Well. That's more intellectual rigor than I expected."
+- [ ] *(Grudging respect)* "You read my poetry. Actually read it, to understand the puzzle. Most people don't bother with that approach."
+- [ ] "Fine. You've earned a degree of respect. You're clearly not common thieves. Who are you really?"
 
 **About what's inside (Luxon Beacon):**
 
-- "That's the temporal resonance crystal Qalix sent me. Strange artifact - exhibits dunamantic properties, temporal distortion effects…"
-- "I've been documenting its interactions with rift energy. The notes are underneath it."
-- "Fourteen months of analysis. It's connected to the Lorestone shards somehow - they resonate with each other when in proximity."
+- [ ] "That's the temporal resonance crystal Qalix sent me. Strange artifact - exhibits dunamantic properties, temporal distortion effects…"
+- [ ] "I've been documenting its interactions with rift energy. The notes are underneath it."
+- [ ] "Fourteen months of analysis. It's connected to the Lorestone shards somehow - they resonate with each other when in proximity."
 
 **If they recognize it as a Luxon Beacon:**
 
-- *(Shocked silence)*
-- "A… what? A Luxon Beacon? That's—Qalix told me it was a unique temporal crystal."
-- "Wait. If that's a Luxon Beacon, then he's been lying to me about what I've been studying. About what I've been exposing myself to."
-- *(Angry)* "That BASTARD. Do you have any idea what kind of risks those pose? The political implications? If the Kryn Dynasty knew—"
+- [ ] *(Shocked silence)*
+- [ ] "A… what? A Luxon Beacon? That's—Qalix told me it was a unique temporal crystal."
+- [ ] "Wait. If that's a Luxon Beacon, then he's been lying to me about what I've been studying. About what I've been exposing myself to."
+- [ ] *(Angry)* "That BASTARD. Do you have any idea what kind of risks those pose? The political implications? If the Kryn Dynasty knew—"
 
 **Potential Turning Point:** If the players reveal the Beacon's true nature AND explain they're trying to stop Qalix (not working for a rival), this could shift her from "prisoner trying to escape" to "angry former employee willing to cooperate."
 
@@ -455,25 +455,25 @@ Players want Varnes restored. Lady Emer is the most convenient solution (her Sto
 
 **If asked to restore him while still restrained:**
 
-- "I can't help you while I'm tied up like this. My ability requires touch and line of sight."
-- "Release my hands and remove this hood, and I'll restore him. I assume that's who you came for?"
+- [ ] "I can't help you while I'm tied up like this. My ability requires touch and line of sight."
+- [ ] "Release my hands and remove this hood, and I'll restore him. I assume that's who you came for?"
 
 **If released and cooperative:**
 
-- *(Approaching Varnes's statue)* "Let me see… yes, this is the one Dreyara delivered. Security consultant, if I recall."
-- *(Touching the statue)* "This will take a moment. Reversing petrification isn't instantaneous."
-- *(As Varnes begins to transform)* "There. He should be conscious in a few seconds. Fair warning - he'll be disoriented and weak."
+- [ ] *(Approaching Varnes's statue)* "Let me see… yes, this is the one Dreyara delivered. Security consultant, if I recall."
+- [ ] *(Touching the statue)* "This will take a moment. Reversing petrification isn't instantaneous."
+- [ ] *(As Varnes begins to transform)* "There. He should be conscious in a few seconds. Fair warning - he'll be disoriented and weak."
 
 **If released but suspicious:**
 
-- "I'll restore him. But after that, we need to discuss my departure. Preferably before Dreyara arrives."
-- "Once he's conscious, I'm leaving. You have what you came for. I have no reason to stay."
+- [ ] "I'll restore him. But after that, we need to discuss my departure. Preferably before Dreyara arrives."
+- [ ] "Once he's conscious, I'm leaving. You have what you came for. I have no reason to stay."
 
 **Commentary on Varnes:**
 
-- "I tried memory modification on him. He was surprisingly resistant. Very professional - didn't break under conventional interrogation."
-- "Qalix wanted him interrogated personally. Something about a security assessment and classified information. I was just softening him up."
-- "He's been petrified for about three weeks. He'll need food, water, and probably medical attention. Petrification preserves, but the transition is taxing."
+- [ ] "I tried memory modification on him. He was surprisingly resistant. Very professional - didn't break under conventional interrogation."
+- [ ] "Qalix wanted him interrogated personally. Something about a security assessment and classified information. I was just softening him up."
+- [ ] "He's been petrified for about three weeks. He'll need food, water, and probably medical attention. Petrification preserves, but the transition is taxing."
 
 #### Varnes's Condition When Restored
 
@@ -535,17 +535,17 @@ Players want Varnes restored. Lady Emer is the most convenient solution (her Sto
 
 **She WILL ATTEMPT Escape If:**
 
-- Players start destroying her research (absolute priority - will risk death)
-- They explicitly say they're killing her (desperate survival attempt)
-- They mention turning her over to authorities (prefers death to capture)
-- They free her hands/remove hood AND then threaten her life
+- [ ] Players start destroying her research (absolute priority - will risk death)
+- [ ] They explicitly say they're killing her (desperate survival attempt)
+- [ ] They mention turning her over to authorities (prefers death to capture)
+- [ ] They free her hands/remove hood AND then threaten her life
 
 **She WON'T Attempt Escape If:**
 
-- They're negotiating in good faith
-- She believes she can survive by cooperating
-- They show respect for her work
-- The conversation is intellectually engaging
+- [ ] They're negotiating in good faith
+- [ ] She believes she can survive by cooperating
+- [ ] They show respect for her work
+- [ ] The conversation is intellectually engaging
 
 **Escape Plan (If Freed Enough to Try):**
 
@@ -627,23 +627,23 @@ Players want Varnes restored. Lady Emer is the most convenient solution (her Sto
 
 #### What She Doesn't Know (Can't Tell Even Under Pressure)
 
-- Qalix's true identity or nature (Far Realm warlock, Ceratos connection)
-- His exact location or primary base of operations
-- The full purpose behind Lorestone reassembly (thinks it's about rift control)
-- Dreyara's current whereabouts or exact arrival timing
-- Anything about Ceratos (doesn't know this entity exists)
-- That the "pearl of power" in her hoard is actually Lawbearer's Tear
-- The prophecy or its full text
-- Other Lorestone shard locations (only knows about specimens Qalix sent her)
+- [ ] Qalix's true identity or nature (Far Realm warlock, Ceratos connection)
+- [ ] His exact location or primary base of operations
+- [ ] The full purpose behind Lorestone reassembly (thinks it's about rift control)
+- [ ] Dreyara's current whereabouts or exact arrival timing
+- [ ] Anything about Ceratos (doesn't know this entity exists)
+- [ ] That the "pearl of power" in her hoard is actually Lawbearer's Tear
+- [ ] The prophecy or its full text
+- [ ] Other Lorestone shard locations (only knows about specimens Qalix sent her)
 
 #### What She Knows But Won't Share (Unless Good Reason)
 
-- Exact passphrase to her chest ("Stone hearts beat with temporal rhythm")
-- Her most personal transformation journals (intimate details of her change)
-- Specific alchemical formulas she's developed
-- Hidden emergency escape routes from the keep
-- Location of her planned fallback laboratory (if she has one)
-- Names of black market contacts who supplied her with rare materials
+- [ ] Exact passphrase to her chest ("Stone hearts beat with temporal rhythm")
+- [ ] Her most personal transformation journals (intimate details of her change)
+- [ ] Specific alchemical formulas she's developed
+- [ ] Hidden emergency escape routes from the keep
+- [ ] Location of her planned fallback laboratory (if she has one)
+- [ ] Names of black market contacts who supplied her with rare materials
 
 ---
 
