@@ -2,9 +2,9 @@
 hide_from_related: true
 ---
 
-**Purpose:** The plot thread cards: one card per thread, grouped by stage (active, upcoming, seed, paused), each listing every note connected to the thread. An NPC in the list shows its disposition and where it is (the trail of its `whereabouts`, read by the location core; "⚠ whereabouts loop" when the chain loops back on itself). Props: `only` (stage keys to show, e.g. `["active"]`) and `showBar` (search and summary bar).
+**Purpose:** The plot thread cards: one card per thread, grouped by stage (active, upcoming, seed, paused), each listing every note connected to the thread. An NPC in the list shows its disposition and where it is (the trail of its `whereabouts`, read by the location core; "⚠ whereabouts loop" when the chain loops back on itself). Props: `only` (stage keys to show, e.g. `["active"]`) and `showBar` (search and summary bar). `plotConnections(pages, c)` works out which notes connect to each thread (a note the thread links to, or one that links to the thread; notes with `hide_from_related` are left out) and is the one place that rule lives.
 
-**Exports:** `PlotDashboard`
+**Exports:** `PlotDashboard`, `plotConnections`
 
 **Depends on:** [[Shared Helpers]] (settings and excluded folders; its `locations()` loads the location core, [[Location Engine Spec]]; its other small helpers are its own)
 
@@ -250,6 +250,52 @@ function PlotCard({ plot, query, loc }) {
   );
 }
 
+/**
+ * Which notes connect to which plot thread: a note the thread links to, or a note that links to the thread.
+ * `pages`: the Datacore pages that count (excluded folders and any page that must not appear already removed); `c`: the settings.
+ * A note with hide_from_related gets no card and appears on no card.
+ * Returns { plots: [{ page, linked }], plotsOf }: for each plot thread its connected notes, and for each connected note's path the plot threads it connects to.
+ * The Plot Dashboard and the Open Issues collector both read connections through this function.
+ */
+function plotConnections(pages, c) {
+  const byPath = new Map(pages.map((p) => [p.$path, p]));
+  const byName = new Map(pages.map((p) => [fileName(p.$path).toLowerCase(), p]));
+  const resolve = (l) => {
+    if (!l || !l.path) return undefined;
+    return byPath.get(l.path) ?? byPath.get(l.path + ".md") ?? byName.get(fileName(l.path).toLowerCase());
+  };
+  const hidden = (p) => prop(p, "hide_from_related") === true;
+
+  // Notes with hide_from_related (e.g. index notes) get no card and appear on no card
+  const plotPages = pages.filter((p) => hasTag(p, c.tag_plot) && !hidden(p));
+  const conns = new Map(plotPages.map((p) => [p.$path, new Map()]));
+
+  // Notes the plot links to
+  for (const plot of plotPages) {
+    for (const l of plot.$links ?? []) {
+      const target = resolve(l);
+      if (target && target.$path !== plot.$path && !hidden(target)) conns.get(plot.$path).set(target.$path, target);
+    }
+  }
+  // Notes that link to the plot
+  for (const page of pages) {
+    if (hidden(page)) continue;
+    for (const l of page.$links ?? []) {
+      const target = resolve(l);
+      if (target && target.$path !== page.$path && conns.has(target.$path)) conns.get(target.$path).set(page.$path, page);
+    }
+  }
+  const plots = plotPages.map((page) => ({ page, linked: [...conns.get(page.$path).values()] }));
+  const plotsOf = new Map();
+  for (const { page, linked } of plots) {
+    for (const n of linked) {
+      if (!plotsOf.has(n.$path)) plotsOf.set(n.$path, []);
+      plotsOf.get(n.$path).push(page);
+    }
+  }
+  return { plots, plotsOf };
+}
+
 function PlotDashboard({ only = null, showBar = true } = {}) {
   const c = cfg();
   const STAGES = stagesFor(c);
@@ -270,36 +316,7 @@ function PlotDashboard({ only = null, showBar = true } = {}) {
 
   const plots = dc.useMemo(() => {
     const pages = all.filter((p) => !isExcluded(p) && p.$path !== self);
-    const byPath = new Map(pages.map((p) => [p.$path, p]));
-    const byName = new Map(pages.map((p) => [fileName(p.$path).toLowerCase(), p]));
-    const resolve = (l) => {
-      if (!l || !l.path) return undefined;
-      return byPath.get(l.path) ?? byPath.get(l.path + ".md") ?? byName.get(fileName(l.path).toLowerCase());
-    };
-    const hidden = (p) => prop(p, "hide_from_related") === true;
-
-    // Notes with hide_from_related (e.g. index notes) get no card and appear on no card
-    const plotPages = pages.filter((p) => hasTag(p, c.tag_plot) && !hidden(p));
-    const conns = new Map(plotPages.map((p) => [p.$path, new Map()]));
-
-    // Notes the plot links to
-    for (const plot of plotPages) {
-      for (const l of plot.$links ?? []) {
-        const target = resolve(l);
-        if (target && target.$path !== plot.$path && !hidden(target)) conns.get(plot.$path).set(target.$path, target);
-      }
-    }
-    // Notes that link to the plot
-    for (const page of pages) {
-      if (hidden(page)) continue;
-      for (const l of page.$links ?? []) {
-        const target = resolve(l);
-        if (target && target.$path !== page.$path && conns.has(target.$path)) conns.get(target.$path).set(page.$path, page);
-      }
-    }
-
-    return plotPages.map((page) => {
-      const linked = [...conns.get(page.$path).values()];
+    return plotConnections(pages, c).plots.map(({ page, linked }) => {
       const used = new Set();
       const groups = GROUPS.map((g) => {
         const items = linked
@@ -364,5 +381,5 @@ function PlotDashboard({ only = null, showBar = true } = {}) {
   );
 }
 
-return { PlotDashboard };
+return { PlotDashboard, plotConnections };
 ```

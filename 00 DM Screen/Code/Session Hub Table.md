@@ -4,7 +4,7 @@ hide_from_related: true
 
 **Purpose:** The table side of the Session Hub. Currently: Tonight's cast (the NPCs, locations, factions, and items the next session note and its arc link to, each opening to its Quick Reference section) and Where are we (what is at the party's current location, read by the location core, and the notes that mention it).
 
-**Exports:** `TableCast`, `WhereAreWe`, `linkTargets`, `kindOf`, `castOf`, `locatedAt`
+**Exports:** `TableCast`, `WhereAreWe`, `linkTargets`, `kindOf`, `castOf`, `locatedAt`, `partyPlaceOf`
 
 **Depends on:** [[Shared Helpers]] (its `locations()` loads the location core, [[Location Engine Spec]]) · [[Campaign State]] · [[Quick Capture]] · [[Session Hub Views]]
 
@@ -16,7 +16,7 @@ Conventions this module relies on:
 - **What counts as cast.** A linked note tagged `npc`, `location`, `organization` (a faction note), or `artifact` (names in [[Hub Config]]). Notes in excluded folders are not listed. A link that lands on a Player Wiki note shows that note's DM twin instead, the note named `<name> - DM` (or the same name outside the Player Wiki), so a DM note and its player-facing twin do not both appear. A Player Wiki note with no DM twin is listed as it is and marked with the `label_player_only` text. When an entry has a Player Wiki twin, a "player wiki" link beside it opens what the players have been told.
 - **Quick Reference.** Each entry opens to the `Quick Reference` section of its note, loaded when you open the entry. A note with no such heading says so.
 - **No note yet.** A link that matches no note gets a kind picker and a Create button. It builds the same stub as [[Quick Capture]] and links it to the session. The stub takes the link's name, so the original link starts working.
-- **Where are we.** The place is the link in the `Party location` bullet under `Where we left off` in the last played session (names in [[Hub Config]]); the location core resolves it (`placeOf`), so a link to a Player Wiki note and to its DM twin are the same place. Under it, in this order: NPCs whose place is the party's place or anywhere inside it ("here now"), every other NPC that links to it, locations inside it (any place whose parents lead to it, political or natural), factions and items located there and then those that only link to it, plot threads that link to it, arcs and encounters whose `site` is there (arcs with `status: complete` are not listed) and arcs that only link to it. A note that is located there is never repeated as a mention. Player-only notes are listed and marked.
+- **Where are we.** The place is the link in the `Party location` bullet under `Where we left off` in the last played session (names in [[Hub Config]]); the location core resolves it (`placeOf`; `partyPlaceOf(loc, text, sourcePath)` is the one function that applies this rule, taking the first link that resolves), so a link to a Player Wiki note and to its DM twin are the same place. Under it, in this order: NPCs whose place is the party's place or anywhere inside it ("here now"), every other NPC that links to it, locations inside it (any place whose parents lead to it, political or natural), factions and items located there and then those that only link to it, plot threads that link to it, arcs and encounters whose `site` is there (arcs with `status: complete` are not listed) and arcs that only link to it. A note that is located there is never repeated as a mention. Player-only notes are listed and marked.
 - **Locations here vs. mentioned.** A location is "here" when its parents (`political_region`, `natural_region`) lead to the party's place, whether or not its note links to the place. Locations that only link to the place go in a collapsed "Mentioned, not located here" group. A Party location with no link shows its text and says to link the place. Nothing here reads `place/…` tags, folders, or `located_in`.
 
 The block below is plain `jsx`, so it does not run on this page. Notes load it with `dc.require(dc.headerLink("00 DM Screen/Code/Session Hub Table.md", "Code"))`. After editing, reopen any note that uses it. Design: [[DM Hubs Design]].
@@ -256,6 +256,20 @@ function locatedAt(loc, partyPlace, pageFor, skip) {
   return out;
 }
 
+/**
+ * The party's place: the first link in the `Party location` bullet under `Where we left off` of a session note's text
+ * (`sourcePath` is that note) that the location core resolves to a note; null when there is none.
+ * Where are we and the Open Issues collector both use this rule. `c`: the settings.
+ */
+function partyPlaceOf(loc, text, sourcePath, c = cfg()) {
+  const items = labelItems(sectionText(text, c.heading_left_off), c.label_party_location);
+  for (const target of items.flatMap((i) => linkTargets(i.text))) {
+    const place = loc.placeOf(target, sourcePath);
+    if (place && !place.unresolved) return place;
+  }
+  return null;
+}
+
 /** The place the party is, from the last played session, and the notes connected to it. */
 function WhereAreWe() {
   const c = cfg();
@@ -299,14 +313,10 @@ function WhereAreWe() {
   const byName = new Map([...pages.values()].map((p) => [p.$name.toLowerCase(), p]));
   const targets = new Set();
   const places = [];
-  let partyPlace = null;
+  const partyPlace = partyPlaceOf(loc, text, lastPlayed.$path, c);
   for (const target of items.flatMap((i) => linkTargets(i.text))) {
     const path = resolveTarget(target, lastPlayed.$path);
     if (!path) continue;
-    if (!partyPlace) {
-      const place = loc.placeOf(target, lastPlayed.$path);
-      if (place && !place.unresolved) partyPlace = place;
-    }
     targets.add(path);
     const inWiki = path.startsWith(c.folder_player_wiki + "/");
     const base = path.split("/").pop().replace(/\.md$/, "").toLowerCase();
@@ -457,5 +467,5 @@ function TableCast() {
   );
 }
 
-return { TableCast, WhereAreWe, linkTargets, kindOf, castOf, locatedAt };
+return { TableCast, WhereAreWe, linkTargets, kindOf, castOf, locatedAt, partyPlaceOf };
 ```
