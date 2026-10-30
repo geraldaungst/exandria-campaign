@@ -45,6 +45,14 @@ tags:
 # Lore
 <!-- History, legends, secrets - add only if relevant. Secrets the party may learn are checklist lines (- [ ]), ticked when learned. -->
 
+## Open Issues
+
+- [ ] 
+
+## Seeds Planted
+
+- [ ] 
+
 ## Connected Elements
 
 ![[Related Notes.base]]

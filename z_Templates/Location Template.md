@@ -52,6 +52,14 @@ tags:
 
 - [ ]
 
+## Open Issues
+
+- [ ] 
+
+## Seeds Planted
+
+- [ ] 
+
 ## Connected Elements
 
 ![[Related Notes.base]]

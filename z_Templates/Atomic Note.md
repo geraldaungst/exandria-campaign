@@ -9,6 +9,14 @@ tags:
 <!-- Which note(s) did this come from? -->
 
 
+## Open Issues
+
+- [ ] 
+
+## Seeds Planted
+
+- [ ] 
+
 ## Connected Elements
 
 ![[Related Notes.base]]

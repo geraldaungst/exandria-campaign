@@ -90,6 +90,14 @@ tags:
 # History
 <!-- Origins, major events, evolution -->
 
+## Open Issues
+
+- [ ] 
+
+## Seeds Planted
+
+- [ ] 
+
 ## Connected Elements
 
 ![[Related Notes.base]]

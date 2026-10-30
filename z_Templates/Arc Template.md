@@ -100,10 +100,6 @@ For each: who is there, what they want, what the party can find, what changes if
 
 <!-- What failure looks like, and how the campaign keeps moving if it happens. -->
 
-## Loose Threads
-
-<!-- What this arc leaves open for later arcs. -->
-
 ---
 
 ## Play History
@@ -124,7 +120,17 @@ return RelatedArcs;
 
 <!-- Work still needed on this document. Keep these here, not in the scenes. -->
 
-- [ ]
+- [ ] 
+
+## Open Issues
+
+- [ ] 
+
+## Seeds Planted
+
+<!-- What this arc leaves open for later arcs. -->
+
+- [ ] 
 
 ## Connected Elements
 

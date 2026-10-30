@@ -149,3 +149,11 @@ tags:
 
 **Connections to other notes:**
 - 
+
+## Open Issues
+
+- [ ] 
+
+## Seeds Planted
+
+- [ ] 

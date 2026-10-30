@@ -84,6 +84,14 @@ This replaces the separate "Status" note.]
 > [Stat block if needed. Collapsed by default.
 > Many NPCs won't need this at all.]
 
+## Open Issues
+
+- [ ] 
+
+## Seeds Planted
+
+- [ ] 
+
 ## Connected Elements
 
 ![[Related Notes.base]]

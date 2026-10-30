@@ -163,6 +163,8 @@ return SessionArc;
 - [ ] Fill in "Where we left off"
 - [ ] Tick revealed clues in the arc's Fact Map
 - [ ] Open each plot note in "Threads moved" and update it
+- [ ] Move open questions from the session log to their notes' Open Issues
+- [ ] Add tonight's seeds to their notes' Seeds Planted, with the session link
 - [ ] If the arc ended or was set aside, change its `status`
 - [ ] Commit
 

@@ -9,14 +9,22 @@ tags:
 # What Players Know vs Don't Know
 **They know:**
 
-- [ ]
+- [ ] 
 
 **They don't know:**
 
-- [ ]
+- [ ] 
 
 # Next Move
 <!-- What happens next? What's the tension? -->
+
+## Open Issues
+
+- [ ] 
+
+## Seeds Planted
+
+- [ ] 
 
 ## Connected Elements
 
