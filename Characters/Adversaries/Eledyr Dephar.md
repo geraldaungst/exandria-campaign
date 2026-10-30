@@ -1,16 +1,16 @@
 ---
-aliases:
-  - Eledyr
-disposition: hostile
 tags:
   - npc
   - hook
   - world/exandria
   - faction/emissaries-of-the-sunfall
   - faction/clasp
-whereabouts: "[[Zadash - DM]]"
+aliases:
+  - Eledyr
+disposition: hostile
 ties_to:
   - "[[Port Damali - DM]]"
+whereabouts: "[[Zadash - DM]]"
 ---
 
 ## Quick Reference
