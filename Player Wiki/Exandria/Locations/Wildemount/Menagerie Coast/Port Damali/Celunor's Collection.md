@@ -23,7 +23,7 @@ Celunor's Collection is a shop near the Port Damali docks that sells rare books,
 
 ## Proprietor
 
-- Celdric Ambril runs the shop and presents himself to customers as Celunor the Tidebound.
+- Celdric Ambril runs the shop, known to customers as Celunor the Tidebound.
 - He is a local celebrity and a storyteller who tells a tale about each item he sells.
 - He takes commissions to find specific items and to research subjects for customers.
 
