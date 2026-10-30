@@ -21,7 +21,7 @@ Shard 7 of the [[Lorestone of Eryndor - DM|Lorestone of Eryndor]]. Hub: [[Lorest
 
 - [[Obsidian Echoforge - DM|Obsidian Echoforge]] · through the map and the Stonefoot Compass; they think it leads to Shard 5
 
-## Open questions
+## Open Issues
 
 
 ## Properties and rulings

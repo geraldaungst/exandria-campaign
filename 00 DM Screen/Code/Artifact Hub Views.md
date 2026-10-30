@@ -2,7 +2,7 @@
 hide_from_related: true
 ---
 
-**Purpose:** The views on an artifact hub (the Lorestone Shard Status Tracker): a one-line "held by" overview, a who-knows-what grid, and a card per piece showing its holder, location, who knows, who pursues it, and its inscribed lines, with a detail panel for its full history, rulings, notes, open questions, and sessions. "Record change" on a card opens the change form ([[Artifact Change Form]]) in that piece's panel.
+**Purpose:** The views on an artifact hub (the Lorestone Shard Status Tracker): a one-line "held by" overview, a who-knows-what grid, and a card per piece showing its holder, location, who knows, who pursues it, and its inscribed lines, with a detail panel for its full history, rulings, notes, open issues, and sessions. "Record change" on a card opens the change form ([[Artifact Change Form]]) in that piece's panel.
 
 **Exports:** `PieceOverview`, `PieceCards`, `WhoKnowsGrid`, `usePartyLocation`
 
@@ -435,7 +435,7 @@ function PieceDetail({ p, onClose, showForm, setShowForm }) {
           <Section title={c.heading_piece_lines}>
             <LineList lines={p.lines} />
           </Section>
-          <Section title={c.heading_piece_questions}>
+          <Section title={c.heading_open_issues}>
             <TaskList items={p.parsed.questions.filter((q) => q.open)} source={p.path} empty="None open." mark={() => "?"} />
           </Section>
           <Section title="Sessions">

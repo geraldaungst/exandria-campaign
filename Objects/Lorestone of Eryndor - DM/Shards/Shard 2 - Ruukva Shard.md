@@ -21,7 +21,7 @@ Shard 2 of the [[Lorestone of Eryndor - DM|Lorestone of Eryndor]]. Hub: [[Lorest
 - [[Emissaries of the Sunfall - DM|Emissaries of the Sunfall]] · theft, infiltration, violence
 - [[Vaud Qalix - DM|Vaud Qalix]] · personal · through his spy network
 
-## Open questions
+## Open Issues
 
 ## Properties and rulings
 

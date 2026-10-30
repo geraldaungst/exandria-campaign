@@ -23,21 +23,22 @@ folder_stubs: Stubs
 folder_worlds: Worlds
 heading_fact_map: Fact Map
 heading_left_off: Where we left off
+heading_open_issues: Open Issues
 heading_piece_history: History
 heading_piece_knows: Who knows
 heading_piece_lines: Prophecy lines
 heading_piece_notes: Notes
 heading_piece_pursuit: Pursued by
-heading_piece_questions: Open questions
 heading_piece_rulings: Properties and rulings
 heading_prep: Prep
+heading_seeds: Seeds Planted
 heading_track_history: History
-heading_track_questions: Open Issues
 hide_from_related: true
 label_changed_at_table: Changed at the table
 label_player_only: player note only
 label_party: Party
 label_party_location: Party location
+label_priority: Priority
 label_threads_moved: Threads moved
 label_world_next: World next
 party_card_note: 00 DM Screen/Party Card Data.md
@@ -95,8 +96,9 @@ template_session: Session Template
 - **`dm_note_suffix`**: the suffix of a DM note that has a Player Wiki twin of the plain name (`Rexxentrum - DM` next to `Rexxentrum`), with the space, hyphen and space included. The hubs (through `stripDmSuffix` in [[Shared Helpers]]) and the templates (`dm_helpers.js`) remove it when they build display names, tags and twin lookups. Changing it does not rename any note: run `.scripts/rename_dm_suffix.py` (set OLD and NEW at the top) to rename the notes, folders and links. `Recent Work.base` has the suffix written in its formula and must be edited by hand.
 - **Location** ([[Location Engine Spec]]): `prop_political_region`, `prop_natural_region`, `prop_whereabouts`, `prop_site` and `prop_ties_to` are the property names the location core reads (place parents, where something is, where an arc or encounter happens, and what it is tied to). `tag_unplaced` marks an entity with no known or decided location and `tag_deceased` one that needs no whereabouts. `folder_kind_places`, `folder_kind_lore` and `folder_kind_tables` are the kind folders under `Worlds/<World>/`; new places go in `folder_kind_places`. `label_player_only` is the mark shown beside a Player Wiki note that has no DM twin. The core file is `z_Templates/Scripts/location_core.js`; the templates reach it through `dm_helpers.js` and the hubs through [[Shared Helpers]].
 - **`calendar_category_sessions`**: the Calendarium category for session notes (left out of Close Session's event categories).
-- **Artifact pieces** ([[Artifact Pieces]]): notes tagged `<piece_tag_prefix>/<artifact slug>` are the pieces of one artifact (`piece/lorestone-of-eryndor`). The `heading_piece_…` values are the `##` headings inside each piece note. `calendar_category_pieces` is the Calendarium category the hub's change form writes. `label_party` is the plain word that stands for the whole party in a piece's lines.
-- **Progress trackers** ([[Progress Tracks]]): `heading_track_history` and `heading_track_questions` are the `##` headings of a tracker's History and Open Issues sections.
+- **Artifact pieces** ([[Artifact Pieces]]): notes tagged `<piece_tag_prefix>/<artifact slug>` are the pieces of one artifact (`piece/lorestone-of-eryndor`). The `heading_piece_…` values are the `##` headings inside each piece note (its open questions are under `heading_open_issues`). `calendar_category_pieces` is the Calendarium category the hub's change form writes. `label_party` is the plain word that stands for the whole party in a piece's lines.
+- **Open Issues and Seeds Planted** (`heading_open_issues`, `heading_seeds`, `label_priority`): the headings of the two note sections that hold campaign questions and things put before the players, and the bold label (`**Priority`, matched without regard to case) that flags a line. Progress trackers and artifact pieces read their open questions under `heading_open_issues`; the collector ([[Open Issues Spec]]) reads all three. `heading_seeds` and `label_priority` are not used until the collector is built.
+- **Progress trackers** ([[Progress Tracks]]): `heading_track_history` is the `##` heading of a tracker's History section; its open questions are under `heading_open_issues`.
 
 ## What this note can't change
 

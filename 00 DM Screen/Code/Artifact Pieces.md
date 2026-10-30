@@ -2,7 +2,7 @@
 hide_from_related: true
 ---
 
-**Purpose:** Reads the pieces of a multi-part artifact (the Lorestone's shards, or any other) from their notes: each piece's history, who knows about it, who pursues it, its inscribed lines, and its open questions. Works out each piece's current holder and location (the location from the piece's `whereabouts`, read by the location core) and the who-knows-what grid. No views; [[Artifact Hub Views]] draws them.
+**Purpose:** Reads the pieces of a multi-part artifact (the Lorestone's shards, or any other) from their notes: each piece's history, who knows about it, who pursues it, its inscribed lines, and its open issues. Works out each piece's current holder and location (the location from the piece's `whereabouts`, read by the location core) and the who-knows-what grid. No views; [[Artifact Hub Views]] draws them.
 
 **Exports:** `PIECE_KINDS`, `KNOW_LEVELS`, `CODES`, `SHARE_PERSONAL`, `slug`, `pieceTag`, `pieceNumber`, `parsePiece`, `parseInscription`, `pieceLines`, `currentState`, `checkWhereabouts`, `makeLocator`, `partyKnowledge`, `buildGrid`, `factionNotesByTag`, `factionsOf`, `displayName`, `usePieces`, `sectionLines`, `bullets`, `fields`
 
@@ -13,7 +13,7 @@ hide_from_related: true
 Conventions this module relies on:
 
 - **Which notes are pieces.** Notes tagged `<piece_tag_prefix>/<artifact slug>` (`piece/lorestone-of-eryndor`). The hub names the slug in its embed block, so renaming the artifact's note changes nothing. A piece's number is the first number in its note name (`Shard 6 - Marquet Shard` is 6); pieces without one sort last. Notes in excluded folders are ignored.
-- **Sections.** Each piece note has `##` headings named in [[Hub Config]]: History, Who knows, Pursued by, Prophecy lines, Open questions, Properties and rulings, Notes. A missing section counts as empty; the last two are free text, shown on the hub as they are.
+- **Sections.** Each piece note has `##` headings named in [[Hub Config]]: History, Who knows, Pursued by, Prophecy lines, Open Issues, Properties and rulings, Notes. A missing section counts as empty; the last two are free text, shown on the hub as they are.
 - **History** (append-only, newest last; the order in the note is the order shown):
   `- **25 Thunsheer 835** · holder · <span data-date="835-04-25" data-category="Lorestone" data-name="Shard 6: to Drawg">Taken from Dreyara's body.</span> · [[Drawg]] · at [[Some Place]] · [[Session 47]]`
   Fields are separated by ` · `: the date label in bold, the kind, the description, then any of: who (a link, or plain text such as `Party`), `at` plus a link or plain text, and a session link (any linked note tagged `session`). A dated line wraps its description in a Calendarium span, so it shows on the calendar; an undated line (`**Before the campaign**`) has plain text instead. Kinds: holder, moved, knows exists, knows where, wrong, pursuing, stopped, lines read, ruling, note. Only holder and moved lines change the current state; the others are the record.
@@ -23,7 +23,7 @@ Conventions this module relies on:
 - **Pursued by** (current state): `- [[Obsidian Echoforge - DM]] · how they go about it · [[Session 28]]`.
 - **Who they share it with** (optional field on a Who knows or Pursued by line, anywhere after the who and level): `personal` keeps the line to the person (`- [[Varnes Dwell - DM|Varnes Dwell]] · where · personal · note`); `shares with [[Clasp - DM|Clasp]], [[Obsidian Echoforge - DM]]` passes it only to the factions named. Without the field, the line counts for all their factions.
 - **Inscribed lines** come from two notes the hub names: the original text and the version known today (`original` and `modern` props). Each line starts with a label, the piece's number and the line's position on it: `4a Where once-grand spires…`. A modern line carries the label of the original line it comes from; a label in parentheses, `(6b)`, is a line that survived although its piece is lost. Markdown around the text (bold, italics, a link) is ignored. A line's state: **read** once the piece's History has a `lines read` entry; **modern** when only its modern version is known; **unknown** otherwise. With no `original` note, the piece note's own "Prophecy lines" tasks are used instead (ticked = read).
-- **Open questions**: tasks; unticked means open.
+- **Open Issues** (`heading_open_issues`; the Shard notes' heading since 2026-10-30, formerly `Open questions`): tasks; unticked means open.
 - **Party knowledge** (for the card color): `holds` when the holder is a PC or the party; otherwise the best `Who knows` level of any line about the party or a PC (`where`, `exists`, `wrong`); otherwise none.
 - **Grid roll-up.** A line about a person also counts for each faction they belong to (`faction/…` tags, every level that has a faction note) and, for a PC, for the party, unless the line says otherwise (`personal`, or `shares with` naming some of those factions; a named faction they don't belong to is ignored). A person is listed under a faction only when at least one of their lines reaches it; someone whose lines are all personal is listed on their own. The current holder always counts for their factions. A faction's note is a note tagged `faction` or `faction/…` that is not an NPC, PC, location, or player wiki page; when several carry the same faction tag, the one whose name matches the tag wins, then one in the factions folder.
 - Lines that don't match these shapes are reported as problems, so a hand edit that breaks the format shows on the hub instead of disappearing.
@@ -222,7 +222,7 @@ function parsePiece(text, isSession = () => false) {
     return out;
   };
   const lines = read(c.heading_piece_lines, parseTask).map((t) => ({ ...t, read: t.done }));
-  const questions = read(c.heading_piece_questions, parseTask).map((t) => ({ ...t, open: !t.done }));
+  const questions = read(c.heading_open_issues, parseTask).map((t) => ({ ...t, open: !t.done }));
   return {
     history: read(c.heading_piece_history, parseHistory),
     knows: read(c.heading_piece_knows, parseKnows),

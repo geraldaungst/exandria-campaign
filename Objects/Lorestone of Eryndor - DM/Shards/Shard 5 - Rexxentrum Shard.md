@@ -23,7 +23,7 @@ Shard 5 of the [[Lorestone of Eryndor - DM|Lorestone of Eryndor]]. Hub: [[Lorest
 - [[Vaud Qalix - DM|Vaud Qalix]] · personal · Dreyara was to steal it with the Gentleman's help; she died before reaching Rexxentrum
 - [[Obsidian Echoforge - DM|Obsidian Echoforge]] · following the compass lead, which actually points to Shard 7
 
-## Open questions
+## Open Issues
 
 - [x] What is this shard's name? The Rexxentrum Shard, after where it was found.
 - [ ] When does Ovedo reveal the shard to the Echoforge or the party?

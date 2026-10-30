@@ -14,7 +14,7 @@ Shard 8 of the [[Lorestone of Eryndor - DM|Lorestone of Eryndor]]. Hub: [[Lorest
 
 ## Pursued by
 
-## Open questions
+## Open Issues
 
 - [ ] Where in the Feywild is it, and who or what guards it? An ancient ruin, a powerful guardian, hidden in plain sight?
 - [ ] How did [[Ilixidor Alo]] come to hold it?

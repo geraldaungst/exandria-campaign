@@ -1,11 +1,11 @@
 ---
-aliases:
-  - aveqtaro
-disposition: indifferent
 tags:
   - npc
   - world/exandria
   - faction/kryn-dynasty
+aliases:
+  - aveqtaro
+disposition: indifferent
 whereabouts: "[[Rosohna]]"
 ---
 

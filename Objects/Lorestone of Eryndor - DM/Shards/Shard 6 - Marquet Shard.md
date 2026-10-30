@@ -24,7 +24,7 @@ Shard 6 of the [[Lorestone of Eryndor - DM|Lorestone of Eryndor]]. Hub: [[Lorest
 - [[Obsidian Echoforge - DM|Obsidian Echoforge]] · through Aethor, who told the party it must be recovered · [[Session 30 - Back at Harmony Hall|Session 30]]
 - [[Vaud Qalix - DM|Vaud Qalix]] · personal · lost it with Dreyara's death; his response is undecided ([[Qalix's Network]])
 
-## Open questions
+## Open Issues
 
 - [x] Does Qalix know Dreyara is dead and the party has the shard? Yes, from 26–27 Thunsheer 835; see [[Qalix's Network]]
 - [ ] Does the Echoforge know the party has it?

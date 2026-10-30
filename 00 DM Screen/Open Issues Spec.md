@@ -6,7 +6,7 @@ hide_from_related: true
 
 Build spec for the Open Issues collector in Gerald's DM vault: the two note sections it reads (Open Issues and Seeds Planted), the code that collects them into one view with priority bands, the compact views on both hubs, the template changes and the rescan of existing notes. Written 2026-10-30 (Opus) so that a conversation with no access to the design conversation can build from it. Decisions here are final; anything not decided is under "Ask Gerald". Where this note and [[Vault Conventions - DM]] disagree, raise it with Gerald before building.
 
-**Status (2026-10-30):** designed, not built.
+**Status (2026-10-30):** designed; build step 1 of 8 done (config keys and Shard heading), Obsidian check pending. Sentences in section 1 that name `heading_track_questions`, `heading_piece_questions` or `## Open questions` describe the vault before step 1.
 
 **Goal (Gerald, 2026-10-23):** seeds and threads that were set aside stay in front of Gerald at session planning, found automatically, with no tracking note updated by hand.
 
