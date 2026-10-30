@@ -1,18 +1,18 @@
 ---
-aliases:
-  - The Cord
 tags:
   - organization
   - world/exandria
   - faction/malachite-cord
   - unplaced
+aliases:
+  - The Cord
 ties_to:
   - "[[Savalirwood - DM]]"
 ---
 
 ![[malachite-cord.png|right|150]]
 
-# Quick Reference
+## Quick Reference
 
 > [!quote]- What players know
 > ![[Malachite Cord]]
@@ -22,7 +22,8 @@ ties_to:
 **Status:** active. A cell under [[Rinneth Starsong - DM|Rinneth]] is restoring and rededicating the [[Shrine of Melora - DM|Shrine of Melora]] east of Port Damali and shrinking its rift with riftcages
 **Influence:** small and regional. About 150 members in cells of 15 to 30. Every cell shares the Cord's beliefs, and cell leaders answer to Rinneth and her inner circle
 
-# Leadership
+## Leadership
+
 **Current Leader:** [[Rinneth Starsong - DM|Rinneth Starsong]], half-elf druid and bard. Members take her visions as the Aurora's Ascendant's guidance. Her inner circle, [[Kael Dren'eth]], [[Radelia Caphax]] and others, advises her and keeps the Cord's history, its relics and the original Verdant Codex
 
 **Notable Members:**
@@ -34,7 +35,8 @@ ties_to:
 - [ ] Theron Galevor: human ranger. Carries a pendant of the Aurora's Ascendant into every mission, believing it connects him to her spirit
 - [ ] Elyndra Sweetcheek: gnome wizard. Studies the celestial events of the Ascendant's birth and how they relate to the rifts and the corruption
 
-# Culture & Methods
+## Culture & Methods
+
 - [x] Guardians of balance who follow the Aurora's Ascendant, the Chosen of Melora. They read the Savalirwood's corruption as a warning of greater disturbances across Exandria. [[Session 17 - Aftermath at the Shrine of Melora|Session 17]]
 - [ ] The Ascendant is [[Seraphina Amaris - Vicki|Seraphina]]. The Cord's story of her is [[The Legend of the Aurora's Ascendant]]
 - [x] Many members carry a wooden symbol on a green cord. [[Session 17 - Aftermath at the Shrine of Melora|Session 17]]
@@ -48,7 +50,8 @@ ties_to:
 - [x] They believe reassembling the Lorestone will tear the rifts wider. [[Session 17 - Aftermath at the Shrine of Melora|Session 17]]
 - [ ] They are partly right: used without a Luxon Beacon, the Lorestone fails catastrophically. They don't know a Beacon makes it safe
 
-# Relationships
+## Relationships
+
 **Allies:** none as groups. The Cord has cordial, situational ties through individual members with the Ashari, the Wardens of Sylene, some Claret Orders and the Wild Clay. They work together when it helps both and do not otherwise support each other. Kael, who left the Earth tribe, is seen there as a heretic
 
 **Rivals:**
@@ -60,7 +63,8 @@ ties_to:
 
 **Neutral:** the [[Cobalt Soul - DM|Cobalt Soul]]. A research relationship, and Rinneth keeps diplomatic ties with the order. The Cord does not know about Shard 5
 
-# Current Activities
+## Current Activities
+
 - [ ] Restore and rededicate the Shrine of Melora, and shrink its rift to the Elemental Plane of Fire with riftcages
 - [ ] Study the Savalirwood corruption, three centuries old or more, and its link to the rifts. In the short term contain it; in the long term find its source and heal the forest
 - [ ] Work to prevent the restoration of the Lorestone
@@ -68,11 +72,12 @@ ties_to:
 - [ ] Strengthen the cell network and secure communication between cells
 - [ ] Rinneth wants to prevent the threats she has seen in recent visions
 
-## Faction Knowledge Evolution
+### Faction Knowledge Evolution
 
 ![[Lorestone of Eryndor - DM#Faction Knowledge Evolution]]
 
-# History
+## History
+
 - **Founding:** after the Ascendant vanished into the Feywild, a small group who revered her, including her half-sibling, formed the Cord to protect the Savalirwood from the spreading corruption. They studied the forest, her life and the celestial events around it
 - **Years 1 to 50:** the Cord grew slowly, admitting those who shared its reverence. Members gathered artifacts and relics of the Ascendant, which became central to their rituals and decisions. Traditions grew from her teachings and the values of her parents
 - **Years 51 to 100:** the Cord codified its beliefs around the legend and began carrying icons of the Ascendant. Its first real successes protected and healed parts of the forest
@@ -80,11 +85,11 @@ ties_to:
 - **Years 151 to 200:** losses to the corruption and internal conflicts, from which the Cord came out more dedicated
 - **The modern Cord:** [[Rinneth Starsong - DM|Rinneth]], once a performer of prophetic ballads, gave up her career after visions of the Echoforge's plans. Recognized as a spiritual successor to the Ascendant's legacy, she gathered the inner circle, set up the mobile cell structure and made the Cord more practical and action-oriented
 
-## Seeds Planted
+### Seeds Planted
 
 - [ ] Asked the party to help rededicate the Shrine of Melora. [[Session 17 - Aftermath at the Shrine of Melora|Session 17]]
 - [ ] Asked the party to bring them any soulwood they come across. [[Session 17 - Aftermath at the Shrine of Melora|Session 17]]
 
-## Connected Elements
+### Connected Elements
 
 ![[Related Notes.base]]
