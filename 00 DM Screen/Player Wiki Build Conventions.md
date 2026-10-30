@@ -1,6 +1,7 @@
 ---
 aliases: []
 tags: []
+hide_from_related: true
 ---
 
 ## Player Wiki Build Conventions

@@ -8,7 +8,7 @@ hide_from_related: true
 
 How to install it:
 
-1. In Roll20, open **Game Settings → API Scripts** (Pro, campaign creator only). Open the existing `Attribute dump` script, replace its contents with the script below, rename it `Party export`, and **Save Script**. The API console should log "Party export ready:!party".
+1. In Roll20, open **Game Settings → API Scripts** (Pro, campaign creator only). Add a new script named `Party export` (or open the existing `Party export` script), replace its contents with the script below, and **Save Script**. The API console should log "Party export ready:!party".
 2. Mod Script Sandbox must be 1.5 or newer (it is in your game). The 2024 sheets are read with `getComputed`, which older sandboxes don't have.
 
 How to use it:

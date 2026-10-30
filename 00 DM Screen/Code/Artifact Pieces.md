@@ -8,7 +8,7 @@ hide_from_related: true
 
 **Depends on:** [[Shared Helpers]] (and [[Hub Config]] through it; its `locations()` loads the location core, [[Location Engine Spec]])
 
-**Used by:** [[Artifact Hub Views]] · [[Progress Tracks]] (its line readers: `sectionLines`, `bullets`, `fields`)
+**Used by:** [[Artifact Hub Views]] · [[Artifact Change Form]] · [[Location Checks]] · [[Progress Tracks]] (its line readers: `sectionLines`, `bullets`, `fields`)
 
 Conventions this module relies on:
 

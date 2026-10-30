@@ -1,7 +1,7 @@
 ---
-hide_from_related: true
 cssclasses:
   - wide-page
+hide_from_related: true
 ---
 
 All plot threads by stage, with every connected note listed on each thread's card. The code lives in [[Plot Dashboard Views]].

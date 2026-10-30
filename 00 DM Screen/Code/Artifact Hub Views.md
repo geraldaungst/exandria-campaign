@@ -8,7 +8,7 @@ hide_from_related: true
 
 **Depends on:** [[Shared Helpers]] (its `locations()` loads the location core, [[Location Engine Spec]]) · [[Campaign State]] · [[Session Hub Views]] · [[Hub Layout]] · [[Artifact Pieces]] · [[Artifact Change Form]]
 
-**Used by:** [[Lorestone Shard Status Tracker]]
+**Used by:** [[Lorestone Shard Status Tracker]] · [[Location Checks]] (`usePartyLocation`)
 
 Conventions this module relies on:
 
