@@ -32,9 +32,7 @@ Rifts keep opening across Wildemount. Every faction has a theory about what they
 
 ## Open Issues
 
-<!-- Deliberately undecided. Let play, and player theories, settle these. -->
-
-- [ ] **Top priority: design the first Rendspawn encounter (the next major encounter).** It happens on the road about a day short of Zadash, not in the city, and Hesterian's Planar Awareness finds the rift. Rift size and site are left to the design. The party is level 8 and Gerald plans to level it to 9 afterward. The Rendspawn tier is CR 9, and the encounter should frighten the party and may kill a PC. The stat block and the "2-3 Rendspawn" guideline are being redesigned ([[Rendspawn Reference Note]]).
+- [ ] **Priority: design the first Rendspawn encounter (the next major encounter).** It happens on the road about a day short of Zadash, not in the city, and Hesterian's Planar Awareness finds the rift. Rift size and site are left to the design. The party is level 8 and Gerald plans to level it to 9 afterward. The Rendspawn tier is CR 9, and the encounter should frighten the party and may kill a PC. The stat block and the "2-3 Rendspawn" guideline are being redesigned ([[Rendspawn Reference Note]]).
 - How the party gets a ley map to plot rifts on (Cadariel's map through [[Aveqtaro Thaan|Aveqtaro]], Emer's notes, or another source). The lines converge on Molaesmyr; "sees rifts' converging stream" fits.
 - Whether the rifts can be healed at the source, or only closed one at a time
 - What "moon's red wrath" in the verse refers to
