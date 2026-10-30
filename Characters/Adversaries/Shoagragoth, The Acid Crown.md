@@ -39,15 +39,15 @@ Emer's map marks the Ebonglass among her rift sites ([[Understanding the Rifts]]
 
 > [!secret]- DM Only
 >
-> - Lorestone shard subtly affecting his mind, feeding sovereignty obsession
-> - Misinterprets prophecy line "In the abyss, a beacon bright, its fate a mysterious stone" as referring to himself
-> - Planar rift growing unstable due to his experiments (he feeds it for his palate)
-> - One thrall secretly a trapped Kryn agent who discovered hints about the lost shard
-> - Flew to Molaesmyr in the weeks after its fall. His account is self-flattering but accurate in detail: the purple fog rose first from under Caes Mosor, and for days the blight moved along straight lines in the ground before it spread into the trees (the Labyrinth and the ley lines; see [[Rupture of the Molaesmyr Fey Crossing]]). He calls it proof of elven arrogance and claims he foresaw it. He doesn't know a crossing ruptured, or that the rifts come from it
-> - The condition: phthoromania to Cobalt Soul scholars, blight-thirst to common folk. He never uses either name, and a scholar's word for it is one of the few things that angers him
-> - How it progressed: drawn to corruption → the high → needing more → making his own (the thralls, the acid "enhancements" of Xagonstar, feeding the Abyss rift to taste it). Nothing has matched Molaesmyr. The chance to stand at the Molaesmyr Fey Crossing is a price he would pay
-> - Plans to expand territory using corrupted thralls to infiltrate nearby settlements, starting with [[Rotthold]]
-> - Acid damage to Xagonstar inadvertently exposing sealed dwarven vault containing planar research artifacts
+> - [ ] Lorestone shard subtly affecting his mind, feeding sovereignty obsession
+> - [ ] Misinterprets prophecy line "In the abyss, a beacon bright, its fate a mysterious stone" as referring to himself
+> - [ ] Planar rift growing unstable due to his experiments (he feeds it for his palate)
+> - [ ] One thrall secretly a trapped Kryn agent who discovered hints about the lost shard
+> - [ ] Flew to Molaesmyr in the weeks after its fall. His account is self-flattering but accurate in detail: the purple fog rose first from under Caes Mosor, and for days the blight moved along straight lines in the ground before it spread into the trees (the Labyrinth and the ley lines; see [[Rupture of the Molaesmyr Fey Crossing]]). He calls it proof of elven arrogance and claims he foresaw it. He doesn't know a crossing ruptured, or that the rifts come from it
+> - [ ] The condition: phthoromania to Cobalt Soul scholars, blight-thirst to common folk. He never uses either name, and a scholar's word for it is one of the few things that angers him
+> - [ ] How it progressed: drawn to corruption → the high → needing more → making his own (the thralls, the acid "enhancements" of Xagonstar, feeding the Abyss rift to taste it). Nothing has matched Molaesmyr. The chance to stand at the Molaesmyr Fey Crossing is a price he would pay
+> - [ ] Plans to expand territory using corrupted thralls to infiltrate nearby settlements, starting with [[Rotthold]]
+> - [ ] Acid damage to Xagonstar inadvertently exposing sealed dwarven vault containing planar research artifacts
 
 > [!note]- Background
 > - Born ~85 PD in the Blightshore (about 750 years old now)

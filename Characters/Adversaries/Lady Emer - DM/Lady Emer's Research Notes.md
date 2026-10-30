@@ -169,11 +169,11 @@ The artifact pulses with faint internal light. Even without magical examination,
 
 What I could determine:
 
-- Definitely magical (obviously)
-- Temporal manipulation properties confirmed
-- Requires physical contact and concentration to activate
-- Origin: Unknown (predates any magical tradition I recognize)
-- Purpose: Unclear
+- [ ] Definitely magical (obviously)
+- [ ] Temporal manipulation properties confirmed
+- [ ] Requires physical contact and concentration to activate
+- [ ] Origin: Unknown (predates any magical tradition I recognize)
+- [ ] Purpose: Unclear
 
 **Working theory**: This "temporal resonance crystal" may be connected to the rift phenomena. Its presence here cannot be coincidence. Perhaps it's a focusing device from pre-Calamity experiments? Or a natural formation created by prolonged exposure to rift energy?
 

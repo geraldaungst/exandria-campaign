@@ -43,19 +43,19 @@ Last seen by the party at Cloudfang Keep on 19 Thunsheer 835. Timeline entries a
 - **Now:** Next move undecided. She is still in the keep, behind her guardians and the Stone Garden
 
 > [!note]- What she knows
-> - The party took her crystal (her "Temporal Resonance Crystal"; she has not identified it as a Luxon Beacon) and Shard 6
-> - Descriptions of Drawg, Seraphina and the gnome. No names unless she learned them at the keep
-> - The party emptied her display cases. She does not know the pearl was the Lawbearer's Tear
-> - Dreyara is dead
-> - Her own research (the handout) and what she wrote about Savalirwood Site Delta
-> - Open: whether she got Shard 5 (the Cobalt Soul Archive) out of Varnes. Varnes does not remember what he said
+> - [ ] The party took her crystal (her "Temporal Resonance Crystal"; she has not identified it as a Luxon Beacon) and Shard 6
+> - [ ] Descriptions of Drawg, Seraphina and the gnome. No names unless she learned them at the keep
+> - [ ] The party emptied her display cases. She does not know the pearl was the Lawbearer's Tear
+> - [ ] Dreyara is dead
+> - [ ] Her own research (the handout) and what she wrote about Savalirwood Site Delta
+> - [ ] Open: whether she got Shard 5 (the Cobalt Soul Archive) out of Varnes. Varnes does not remember what he said
 
 > [!note]- What she does not know
-> - Qalix is using her and considers her expendable
-> - [[Ceratos]] and the Far Realm manipulation
-> - What the Lorestone shards are for in Qalix's plan
-> - That Qalix has not met her and may never
-> - What the Tear is. Her notes record unexplained effects she never connected to an artifact
+> - [ ] Qalix is using her and considers her expendable
+> - [ ] [[Ceratos]] and the Far Realm manipulation
+> - [ ] What the Lorestone shards are for in Qalix's plan
+> - [ ] That Qalix has not met her and may never
+> - [ ] What the Tear is. Her notes record unexplained effects she never connected to an artifact
 
 > [!note]- Offscreen threads (not played)
 > - **Revenge:** What she does about it is open. She has her guardians, her birds and her handler
@@ -90,10 +90,10 @@ Last seen by the party at Cloudfang Keep on 19 Thunsheer 835. Timeline entries a
 > - Found the crystal at the Savalirwood rift (Day 61 of her notes); see [[Luxon Beacon Political Consequences]]
 
 > [!secret]- Hidden Information
-> - Believes her research will break through planar mechanics
-> - Wants to *choose* her form, not reverse it out of regret
-> - Does not know Qalix treats her as expendable, or that Dreyara viewed her as disposable
-> - Never met Qalix. All contact was letters and Dreyara's visits
+> - [ ] Believes her research will break through planar mechanics
+> - [ ] Wants to *choose* her form, not reverse it out of regret
+> - [ ] Does not know Qalix treats her as expendable, or that Dreyara viewed her as disposable
+> - [ ] Never met Qalix. All contact was letters and Dreyara's visits
 
 ## Documents
 

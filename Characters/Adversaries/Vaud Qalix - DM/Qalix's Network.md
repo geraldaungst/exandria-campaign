@@ -38,14 +38,14 @@ How [[Vaud Qalix - DM|Vaud Qalix]]'s intelligence network passes information, an
 
 ### Who knows what (as the party reaches Zadash)
 
-- **Qalix:** Dreyara is dead, Cloudfang was raided, [[Varnes Dwell - DM|Varnes Dwell]] is free, and the crystal and Shard 6 were taken by the people who did it. Names and Emer's full account follow by courier. His response is undecided.
-- **Lady Emer:** everything she saw at Cloudfang, plus Ra'ak's account. Has vowed revenge. Slants her reports to protect her standing.
-- **Ra'ak:** saw Dreyara die and the party take the shard. Free. Says he was just hired muscle.
-- **The handler:** Emer's full report.
+- [ ] **Qalix:** Dreyara is dead, Cloudfang was raided, [[Varnes Dwell - DM|Varnes Dwell]] is free, and the crystal and Shard 6 were taken by the people who did it. Names and Emer's full account follow by courier. His response is undecided.
+- [ ] **Lady Emer:** everything she saw at Cloudfang, plus Ra'ak's account. Has vowed revenge. Slants her reports to protect her standing.
+- [ ] **Ra'ak:** saw Dreyara die and the party take the shard. Free. Says he was just hired muscle.
+- [ ] **The handler:** Emer's full report.
 - **The Gentleman:** Dreyara is dead, killed by the three he is watching for. Still holds Qalix's down payment for the Rexxentrum job ([[Characters/Factions/Exandria/Gentleman's Organization]]).
-  - Does not know: that the party carries the shard or the crystal, or that Hesterian is with them.
-  - Wants: his identity kept buried; to come out ahead whether the job goes on, changes, or collapses; to judge whether the three are a threat or worth something.
-- **The party:** Dreyara worked for a dragonborn employer ("the Eye," Xarzith Kitril), and her Zadash contact is the Gentleman. They do not know they are known.
+  - [ ] Does not know: that the party carries the shard or the crystal, or that Hesterian is with them.
+  - [ ] Wants: his identity kept buried; to come out ahead whether the job goes on, changes, or collapses; to judge whether the three are a threat or worth something.
+- [ ] **The party:** Dreyara worked for a dragonborn employer ("the Eye," Xarzith Kitril), and her Zadash contact is the Gentleman. They do not know they are known.
 
 ## Open Issues
 

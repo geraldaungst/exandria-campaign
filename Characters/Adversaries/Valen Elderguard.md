@@ -46,15 +46,15 @@ Operating primarily from two locations in Rexxentrum: the Scroll and Scribe for 
 ## Hidden Information
 
 > [!secret]- DM Only
-> - Secret motivations: Believes power and control are the only reliable means of securing peace
+> - [ ] Secret motivations: Believes power and control are the only reliable means of securing peace
 > - Unknown connections:
->   - Reports directly to [[Vaud Qalix - DM]]
->   - Has recruited [[Eledyr Dephar]] using Clasp connections
+>   - [ ] Reports directly to [[Vaud Qalix - DM]]
+>   - [ ] Has recruited [[Eledyr Dephar]] using Clasp connections
 > - Operations:
->   - Orchestrated failed skyjacking of the *Unshaken*
->   - Targeting [[Aethor Kalisk - DM]] and [[Obsidian Echoforge - DM]] operations
-> - Known links: [[Georgina Wiseacre]] (carries a coded map of Xhorhas in his handwriting), [[Kite of the Wind]] (reports back to him), [[Sumad-Dekon Harrowgate]] (recruited for his theories)
-> - Meeting places and code language: [[The Inkwell]]
+>   - [ ] Orchestrated failed skyjacking of the *Unshaken*
+>   - [ ] Targeting [[Aethor Kalisk - DM]] and [[Obsidian Echoforge - DM]] operations
+> - [ ] Known links: [[Georgina Wiseacre]] (carries a coded map of Xhorhas in his handwriting), [[Kite of the Wind]] (reports back to him), [[Sumad-Dekon Harrowgate]] (recruited for his theories)
+> - [ ] Meeting places and code language: [[The Inkwell]]
 
 > [!note]- Background
 > Comes from the Elderguard family, known for shadow magic prowess. Rose to prominence within the Emissaries of the Sunfall but grew disillusioned with their diplomatic approach. Secretly believes in returning to the more aggressive methods of Neris Solbane's era. Has begun gathering like-minded members within the Emissaries, forming a splinter cell financed by Vaud Qalix.

@@ -71,15 +71,15 @@ As of 27 Thunsheer 835. Detail in [[Qalix's Network]].
 ## Hidden Information
 
 > [!secret]- What he doesn't know
-> - He is one of [[Ceratos]]'s warlock thralls. Ceratos steers him toward the rifts because it cannot touch them itself, and does not care whether his plan succeeds, only that the attempt opens a way from the Far Realm into Exandria
-> - He has never spoken with his patron and does not know what it is
-> - The rift "signatures" he catalogues are random arcane noise that shifts over time; no pattern ties a reading to a rift
-> - The crystal Emer lost is a Luxon Beacon. Beacon lore is closely held within the Kryn Dynasty
-> - Blind spots in his plan: [[Vaud Qalix's Plan Outline]]
+> - [ ] He is one of [[Ceratos]]'s warlock thralls. Ceratos steers him toward the rifts because it cannot touch them itself, and does not care whether his plan succeeds, only that the attempt opens a way from the Far Realm into Exandria
+> - [ ] He has never spoken with his patron and does not know what it is
+> - [ ] The rift "signatures" he catalogues are random arcane noise that shifts over time; no pattern ties a reading to a rift
+> - [ ] The crystal Emer lost is a Luxon Beacon. Beacon lore is closely held within the Kryn Dynasty
+> - [ ] Blind spots in his plan: [[Vaud Qalix's Plan Outline]]
 
 > [!secret]- What he hides
-> - The treasury is a previously undiscovered portion of Vorugal's hoard, plus funds embezzled from the Xarzith Kitril council
-> - He secretly finances [[Valen Elderguard]]'s splinter cell within the [[Emissaries of the Sunfall - DM|Emissaries of the Sunfall]]; publicly he has no tie to them
+> - [ ] The treasury is a previously undiscovered portion of Vorugal's hoard, plus funds embezzled from the Xarzith Kitril council
+> - [ ] He secretly finances [[Valen Elderguard]]'s splinter cell within the [[Emissaries of the Sunfall - DM|Emissaries of the Sunfall]]; publicly he has no tie to them
 
 > [!note]- Endgame
 > - Intended final confrontation at Molaesmyr, around level 18. [[Ceratos]] is revealed only after Qalix is defeated

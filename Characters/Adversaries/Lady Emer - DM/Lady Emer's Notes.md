@@ -11,11 +11,11 @@ Found the artifact partially exposed in collapsed earth about twenty feet from t
 
 **Physical Properties:**
 
-- Weight: Approximately 15 pounds (seems heavier than dimensions suggest)
-- Material: Gray translucent crystal, possibly quartz-like but with unusual internal structure
-- Shape: Perfect dodecahedron with natural faceting
-- Temperature: Cool to touch, maintains constant temperature regardless of environment
-- Luminescence: Faint gray glow that pulses irregularly
+- [ ] Weight: Approximately 15 pounds (seems heavier than dimensions suggest)
+- [ ] Material: Gray translucent crystal, possibly quartz-like but with unusual internal structure
+- [ ] Shape: Perfect dodecahedron with natural faceting
+- [ ] Temperature: Cool to touch, maintains constant temperature regardless of environment
+- [ ] Luminescence: Faint gray glow that pulses irregularly
 
 The metal handles and golden trim were clearly added later by someone else - crude work compared to the artifact itself.
 

@@ -44,11 +44,11 @@ The Never-Present Nemesis, working through the Apparent Nemesis ([[Vaud Qalix - 
 ## Hidden Information
 
 > [!secret]- DM Only
-> - [[Vaud Qalix - DM|Vaud Qalix]] is one of its warlock thralls. It steers him toward the rifts because it cannot touch them itself. He has never spoken with it and does not know what it is
-> - It does not care whether Qalix's plan succeeds. A stable portal, a Planar Inversion or a rift expanding out of control all give it a way in; only a clean closure denies it ([[Harmonic Planar Conduit]])
-> - It does not know the rifts' origin, the [[Rupture of the Molaesmyr Fey Crossing]]. Only the DM knows ([[Understanding the Rifts]])
-> - The Rendspawn were designed as the first hints of it: the lowest tier (CR 9) for levels 7-9, the Manifest tier (CR 13) as Qalix's controlled forces, the Harbinger tier (CR 17) as true heralds of the breach ([[Rendspawn Reference Note]])
-> - The reveal comes after the Qalix confrontation and is meant to be short: a cliffhanger, one investigation session, one approach session, the finale
+> - [ ] [[Vaud Qalix - DM|Vaud Qalix]] is one of its warlock thralls. It steers him toward the rifts because it cannot touch them itself. He has never spoken with it and does not know what it is
+> - [ ] It does not care whether Qalix's plan succeeds. A stable portal, a Planar Inversion or a rift expanding out of control all give it a way in; only a clean closure denies it ([[Harmonic Planar Conduit]])
+> - [ ] It does not know the rifts' origin, the [[Rupture of the Molaesmyr Fey Crossing]]. Only the DM knows ([[Understanding the Rifts]])
+> - [ ] The Rendspawn were designed as the first hints of it: the lowest tier (CR 9) for levels 7-9, the Manifest tier (CR 13) as Qalix's controlled forces, the Harbinger tier (CR 17) as true heralds of the breach ([[Rendspawn Reference Note]])
+> - [ ] The reveal comes after the Qalix confrontation and is meant to be short: a cliffhanger, one investigation session, one approach session, the finale
 
 > [!note]- Stats (unfinished)
 > Not designed. Gathered from earlier planning (Sept 2025 chat) and the vault:

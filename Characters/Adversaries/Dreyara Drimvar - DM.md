@@ -67,9 +67,9 @@ Deceased. Killed by the Third Act outside the rear entrance of the [[Monastery o
 ## Hidden Information
 
 > [!secret]- DM Only
-> - The dagger Qalix gave her is the Blade of Maroth Fenn. She did not know what it was. The party has it: Drawg carries it ([[Blade of Maroth Fenn - DM]])
-> - Her loyalty to Qalix was genuine but based on respect and opportunity, not true belief in his cause
-> - She kept some old Volstrucker contacts who did not know her current allegiance. Her knowledge of Volstrucker operations and methods is a security risk to the Empire if it ever surfaces
+> - [ ] The dagger Qalix gave her is the Blade of Maroth Fenn. She did not know what it was. The party has it: Drawg carries it ([[Blade of Maroth Fenn - DM]])
+> - [ ] Her loyalty to Qalix was genuine but based on respect and opportunity, not true belief in his cause
+> - [ ] She kept some old Volstrucker contacts who did not know her current allegiance. Her knowledge of Volstrucker operations and methods is a security risk to the Empire if it ever surfaces
 
 > [!note]- Background
 > Born near Rexxentrum. Recruited young into the Volstrucker (Cerberus Assembly's secret police); became one of their top agents specializing in espionage and assassination. Growing disillusionment set in as she discovered missions served political vendettas rather than Empire security—the final straw was learning one of her successful assassinations was orchestrated to cover Assembly corruption.
