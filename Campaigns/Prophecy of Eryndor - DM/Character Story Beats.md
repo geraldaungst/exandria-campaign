@@ -7,7 +7,7 @@ tags:
 
 - [x] Give each character a reason to be traveling from Emon to [[Port Damali - DM]]
 - [x] Plan a one-shot pre-campaign adventure for each pair.
-- [x] See [[90 Player Preferences|Player Preferences]] for more info on what the party wants
+- [x] See [[Player Preferences]] for more info on what the party wants
 
 ## Weapon Options for Each Character
 

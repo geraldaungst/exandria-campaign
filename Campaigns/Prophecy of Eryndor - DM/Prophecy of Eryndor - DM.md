@@ -17,7 +17,7 @@ world: Exandria
 
 ### Key notes
 
-- [[Eryndor Timeline]] · [[Character Story Beats]] · [[Party Notes]]
+- [[Eryndor Timeline]] · [[Character Story Beats]] · [[Party Notes]] · [[Player Preferences]]
 - [[The Prophecy]] · [[Lorestone Shard Status Tracker|Shard Tracker]] · [[Adaptable Modules]]
 - [[Plot Dashboard]] · [[00 DM Screen|DM Screen]]
 
