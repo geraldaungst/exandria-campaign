@@ -26,6 +26,7 @@ Tall high elf, [[Qilynn Duskwhisper - Nicole|Qilynn]]'s mentor and trainer. Qily
 ## Current Situation
 
 - Threw Qilynn out after her unauthorised heist (see below).
+- Posted [[Eledyr Dephar]] to Zadash, at Eledyr's request, to find out how weak the Zadash Myriad is after last winter's crackdown and whether the Clasp can push in.
 - Recently got word of a rare and ancient relic and sent his new mentee [[Calderax Dunhall]] to pick it up. It was [[Shard 6 - Marquet Shard|Shard 6]]. Calderax reported it to the [[Obsidian Echoforge - DM]], who sent [[Aethor Kalisk - DM]] to get it, and the shard was then stolen from Calderax's room.
 - Has attracted the attention of the Myriad and local rival gangs as his status and wealth grew.
 

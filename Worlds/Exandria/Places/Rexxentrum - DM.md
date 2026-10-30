@@ -33,7 +33,7 @@ tags:
 - [[Kite of the Wind]] is on his way to report to [[Valen Elderguard]] after the failed mission (about 20 days' travel).
 - [[Vaud Qalix - DM|Qalix]]'s Rexxentrum job (the Archive heist) lost [[Dreyara Drimvar - DM|Dreyara]] before she arrived. Whether it goes ahead is open ([[Qalix's Network]]).
 - [[Melthes]] may still be at the Assembly facility. It is open ([[Rescue Melthes]]).
-- [[Eledyr Dephar]]'s whereabouts are open. His note says Rexxentrum; the player notes say Zadash.
+- [[Eledyr Dephar]] is in Zadash. He comes here only if the Myriad drives him out of Zadash or Valen calls him.
 
 # Secrets
 

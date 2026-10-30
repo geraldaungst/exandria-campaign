@@ -59,6 +59,7 @@ What [[Korfel Withrethin|Korfel]] does between scenes. Each move names what he m
 
 **He learns someone is asking about the crackdown or Babenon's fate**
 - [ ] The greatest threat to him. Moves fast to remove whoever is asking, and frames someone else for it
+- [ ] [[Eledyr Dephar]], a Clasp agent posing as a scholar, is asking exactly this. Korfel wants him gone by no hand of his own. If he learns Qilynn's grudge, he offers her Eledyr: alone, at a set time and place. Otherwise his people close in and Eledyr flees to Rexxentrum
 
 ### Escalation if the party turns on him
 

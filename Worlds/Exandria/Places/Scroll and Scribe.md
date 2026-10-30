@@ -20,7 +20,7 @@ Scroll & Scribe is a small but well-organized shop specializing in high-quality 
 A large, central table displays a variety of quills, ink bottles, and writing tools, inviting customers to test and compare. Dalina's workspace is tucked in a corner, where she can often be found crafting custom orders or experimenting with new ink formulas. Her dark brown hair, often pushed back with a leather headband, cascades over her shoulders as she works.
 
 # What's Happening Now
-- [[Valen Elderguard]]'s note puts him here for Emissary business. [[Eledyr Dephar]]'s note has him frequenting the shop as an academic researcher; his whereabouts are open.
+- [[Valen Elderguard]]'s note puts him here for Emissary business. [[Eledyr Dephar]], his agent, is in Zadash and reports by courier; he comes to Rexxentrum only if driven out of Zadash or called.
 - The Inkwell watches Ovedo through the shop ([[Emissaries of the Sunfall - DM]]).
 
 # Secrets

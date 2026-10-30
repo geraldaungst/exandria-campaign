@@ -33,7 +33,7 @@ whereabouts: "[[Scroll and Scribe]]"
 - [ ] [[Kite of the Wind]]: tabaxi rogue. Escaped the failed skyjacking of the *Unshaken* and went to Rexxentrum to report to Valen
 - [ ] [[Georgina Wiseacre]] (deceased): led the skyjacking, a black op unknown even to most Emissaries. Carried a coded map of Xhorhas in Valen's handwriting
 - [ ] [[Lady Emer - DM|Lady Emer]]: once a scout and mercenary for the order; later Qalix's researcher at Cloudfang Keep
-- [ ] [[Eledyr Dephar]]: a Clasp member Valen recruited. His role waits on his design topic
+- [ ] [[Eledyr Dephar]]: a Clasp member Valen recruited; works for the Inkwell. In Zadash, watching the Gentleman for Valen under a scholar's cover
 - [ ] Not members: [[Vaud Qalix - DM|Vaud Qalix]] finances the Inkwell and publicly has no tie to the order. [[Dreyara Drimvar - DM|Dreyara]], his spymaster, worked with Valen until her death
 
 ## Culture & Methods

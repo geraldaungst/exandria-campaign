@@ -24,6 +24,7 @@ tags:
 - The party's arrival: an invitation reaches them, then [[Cree Deeproots]]'s interview in a back room of the Evening Nip, then the flooded hall the next day ([[Korfel's Next Moves#Meeting him]]).
 - Dechs needs her contact to deliver the herbs ([[Character Story Beats]]).
 - The Gentleman holds Qalix's down payment for the Rexxentrum heist ([[Gentleman's Organization]]).
+- [[Eledyr Dephar]], a Clasp agent, arrived about a week before the party. He poses as a scholar at the Valley Archive and asks Myriad runners about the crackdown ([[Korfel's Next Moves]]).
 - Marta Halsen's refugee group came from here. [[Torvald Halsen]] is her brother-in-law in Deastok.
 
 # Secrets

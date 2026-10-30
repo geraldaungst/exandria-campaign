@@ -25,6 +25,7 @@ tags:
 - [[Aelorin Nightshade]]: runs the Port Damali cell; Qilynn's mentor and trainer
 - [[Yrene Shadowthorn]]: one of his most trusted operatives
 - [[Calderax Dunhall]]: Aelorin's recent mentee, recently promoted. He reported Shard 6 to the Obsidian Echoforge, not to Aelorin
+- [[Eledyr Dephar]]: one of Aelorin's trainees, posted to Zadash at his own request. Qilynn believes he framed her ([[Qilynn Duskwhisper's Revenge]])
 - [[Qilynn Duskwhisper - Nicole|Qilynn Duskwhisper]] (PC): trained in the Clasp under Aelorin. She does not suspect him of the setup ([[Qilynn Duskwhisper's Revenge]])
 
 # Culture & Methods
@@ -39,6 +40,7 @@ tags:
 
 # Current Activities
 - Aelorin sent Calderax for what he took to be a rare relic. It was [[Shard 6 - Marquet Shard|Shard 6]], and he still does not know that
+- Aelorin posted [[Eledyr Dephar]] to Zadash to find out how weak the Zadash Myriad is after last winter's crackdown, and whether the Clasp can push in
 - Aelorin's reaction to the failed heist is in [[Aelorin Nightshade]]
 
 # History

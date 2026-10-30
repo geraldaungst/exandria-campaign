@@ -39,7 +39,7 @@ A tall, wiry half-elf with an asymmetrical hairstyle - long raven-black hair tos
 
 ## Current Situation
 
-Operating primarily from two locations in Rexxentrum: the Scroll and Scribe for legitimate Emissary business, and a townhouse in the Pearls' Rest district for splinter cell activities. The townhouse serves as the primary meeting place for [[The Inkwell]], appearing outwardly as a wealthy scholar's residence. Currently investigating an old prophecy through his agent [[Eledyr Dephar]].
+Operating primarily from two locations in Rexxentrum: the Scroll and Scribe for legitimate Emissary business, and a townhouse in the Pearls' Rest district for splinter cell activities. The townhouse serves as the primary meeting place for [[The Inkwell]], appearing outwardly as a wealthy scholar's residence. His agent [[Eledyr Dephar]] is in Zadash, researching the prophecy at the Valley Archive and watching the Gentleman, Dreyara's Zadash contact, for him.
 
 [[Dreyara Drimvar - DM|Dreyara]], Qalix's spymaster, died on 25 Thunsheer 835 and her work has no successor yet ([[Qalix's Network]]). His cell reports to Qalix directly. The party knows his name because Dreyara named him ([[Radelia Caphax]]).
 
@@ -64,7 +64,7 @@ Operating primarily from two locations in Rexxentrum: the Scroll and Scribe for 
 - [x] The Emissaries note says Valen began public reconciliation with the Echoforge, while Factions with interest in the rifts says his cell opposes that partnership and works to undermine it. This note follows the Player Wiki: he publicly leads the Emissaries and the Inkwell is secret. The Emissaries note also says the Emissaries as a whole have no public tie to him (line on his splinter cell). Reconcile all of it in the Opus faction pass (Settled 2026-10-30: Valen publicly leads the Emissaries, as the Player Wiki says. The partnership with the Echoforge is the order's sincere policy, begun by the moderates late in Talrek Sunshadow's leadership. Valen won the leadership by promising to keep it, upholds it in public and works against it through the Inkwell. The old line about "no public tie" meant Qalix, not Valen.)
 - [ ] Does Qalix tell him about the party and Dreyara's death, and does the Inkwell take over any of her work? [[Qalix's Network]] lists [[Ru'Shan Halrune]] as a natural fit to take over her work
 - [ ] Does he know the party has Shard 6?
-- [ ] The Eledyr line (recruited using Clasp connections, investigating a prophecy through him) follows Eledyr's note and waits on "Eledyr: whether he still matters, and where he is"
+- [x] The Eledyr line (recruited using Clasp connections, investigating a prophecy through him) follows Eledyr's note and waits on "Eledyr: whether he still matters, and where he is" (Settled 2026-10-30: Eledyr is in Zadash on a Clasp posting he asked for. For Valen he researches the prophecy at the Valley Archive and watches the Gentleman; he works for the Inkwell and reports by courier in its code.)
 
 ## Connected Elements
 
