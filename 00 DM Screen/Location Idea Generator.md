@@ -1,7 +1,7 @@
 ---
-hide_from_related: true
 tags:
   - dm-tool
+hide_from_related: true
 ---
 
 ## Location Idea Generator
@@ -110,7 +110,14 @@ tags:
 
 - **Dyson Logos Maps**: <https://dysonlogos.blog/maps/>
 - **Donjon Generators**: <https://donjon.bin.sh/>
-- **DMG Tables**: Chapter 5 - Dungeon & Exotic Locations, Monuments, Weird Locales
+- **DMG Tables**:
+	- [Dungeon Quirks](https://www.dndbeyond.com/sources/dnd/dmg-2024/dms-toolbox#DungeonQuirks)
+	- [Dungeon Decay](https://www.dndbeyond.com/sources/dnd/dmg-2024/dms-toolbox#DungeonDecay)
+	- [Hazards](https://www.dndbeyond.com/sources/dnd/dmg-2024/dms-toolbox#Hazards)
+	- [Dungeon Locations](https://www.dndbeyond.com/sources/dnd/dmg-2014/adventure-environments#DungeonLocationTable)
+	- [Exotic Locations](https://www.dndbeyond.com/sources/dnd/dmg-2014/adventure-environments#ExoticLocation)
+	- [Monuments](https://www.dndbeyond.com/sources/dnd/dmg-2014/adventure-environments#MonumentsTable)
+	- [Weird Locales](https://www.dndbeyond.com/sources/dnd/dmg-2014/adventure-environments#WeirdLocales)
 
 ### Location Building Worksheet
 

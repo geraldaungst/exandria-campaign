@@ -1,3 +1,10 @@
+---
+tags:
+  - dm-tool
+  - needs-work
+hide_from_related: true
+---
+
 ## Normal Effects
 
 Additions to the table from Tasha's. (Roll20 table has these as well.)

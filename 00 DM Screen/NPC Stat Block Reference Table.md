@@ -1,6 +1,7 @@
 ---
 tags:
   - dm-tool
+hide_from_related: true
 ---
 
 | Category                 | Role/Job                 | Stat Block           | Source | Modifications   |

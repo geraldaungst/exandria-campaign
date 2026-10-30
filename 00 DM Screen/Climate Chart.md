@@ -1,3 +1,10 @@
+---
+tags:
+  - dm-tool
+  - needs-work
+hide_from_related: true
+---
+
 ## Exandria Climate Chart by Region and Season
 
 ### Tal'Dorei

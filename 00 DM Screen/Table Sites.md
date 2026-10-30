@@ -32,6 +32,11 @@ Format: `- [Name](https://address) · what it's for`
 - [Donjon](https://donjon.bin.sh) · random tables and generators for most things
 - [Chartopia](https://chartopia.d12dev.com) · shared random tables
 
+## Roll20
+
+- [[Roll20 Script Reference]] · command syntax for the installed mod scripts (GroupInitiative, TokenMod and others)
+- [[Roll20 Party Script]] · the `!party` export that updates the Party card
+
 ## Rules
 
 - [D&D Beyond 2024 Basic Rules](https://www.dndbeyond.com/sources/dnd/br-2024) · free, official, 2024 rules

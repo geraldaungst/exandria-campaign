@@ -1,5 +1,8 @@
 ---
 cssclasses: wide-table
+tags:
+  - dm-tool
+hide_from_related: true
 ---
 
 See also [[NPC Stat Block Reference Table]]

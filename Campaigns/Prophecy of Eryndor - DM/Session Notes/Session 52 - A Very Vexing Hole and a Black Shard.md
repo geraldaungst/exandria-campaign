@@ -1,17 +1,17 @@
 ---
-arc: "[[Deastok Investigation]]"
-date: 2026-10-04
-previous_session: "[[Session 51 - Between a Rock and an Old Place]]"
-session_number: 52
 tags:
   - campaign/eryndor
   - session
+arc: "[[Deastok Investigation]]"
+date: 2026-10-04
 fc-calendar: Exandrian Calendar
+fc-category: Sessions
 fc-date: "835-04-27"
+fc-display-name: "Session 52"
 fc-end: "835-04-27"
 ingame_time: Afternoon
-fc-display-name: "Session 52"
-fc-category: Sessions
+previous_session: "[[Session 51 - Between a Rock and an Old Place]]"
+session_number: 52
 ---
 
 ## Session 52 - A Very Vexing Hole and a Black Shard
