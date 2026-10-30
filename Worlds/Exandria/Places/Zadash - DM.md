@@ -35,8 +35,8 @@ tags:
 
 ## Open Issues
 
-- [ ] Nothing is set for Zadash outside the Myriad: shops, inns, the Evening Nip's upstairs, the Tri-Spire. Write them when the party goes there.
-- [ ] Dechs's herb contact and what the herbs are for.
+- [ ] **Priority:** Nothing is set for Zadash outside the Myriad: shops, inns, the Evening Nip's upstairs, the Tri-Spire. Write them when the party goes there.
+- [ ] **Priority:** Dechs's herb contact and what the herbs are for.
 
 ## Connected Elements
 

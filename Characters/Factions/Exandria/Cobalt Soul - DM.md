@@ -42,9 +42,9 @@ tags:
 
 ## Open Issues
 
-- [ ] Does the wider order know about the Lorestone and Shard 5? The Lorestone hub lists the order under Known by, while Shard 5 says the vault is unauthorized and secret.
+- [ ] **Priority:** Does the wider order know about the Lorestone and Shard 5? The Lorestone hub lists the order under Known by, while Shard 5 says the vault is unauthorized and secret.
 - [ ] Who carries Qalix's courtship of the order? No note names an envoy (Sirion handles the Empire and the Dynasty).
-- [ ] Who leads the order in Rexxentrum? No note sets it.
+- [ ] **Priority:** Who leads the order in Rexxentrum? No note sets it.
 
 ## Connected Elements
 

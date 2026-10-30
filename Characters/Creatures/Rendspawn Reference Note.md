@@ -71,6 +71,6 @@ The stat blocks and encounter numbers below are pending a redesign for the 2024 
 
 ### Open Issues
 
-- [ ] Redesign the stat blocks and the "2-3 Rendspawn" guideline for the 2024 rules. The first Rendspawn should frighten the party and may kill a PC; this party outperforms standard encounter budgets because of its magic items. First encounter: see [[Understanding the Rifts]].
+- [ ] **Priority:** Redesign the stat blocks and the "2-3 Rendspawn" guideline for the 2024 rules. The first Rendspawn should frighten the party and may kill a PC; this party outperforms standard encounter budgets because of its magic items. First encounter: see [[Understanding the Rifts]].
 
 ![[Related Notes.base]]

@@ -41,7 +41,7 @@ tags:
 ## Open Issues
 
 - [ ] Does Qilynn hold the handwriting notes, or only Yrene's word?
-- [ ] Does the party meet Eledyr in Zadash? His own note is not touched until item 9.
+- [ ] **Priority:** Does the party meet Eledyr in Zadash? His own note is not touched until item 9.
 - [ ] How does Qilynn keep her promise not to kill him if he has Emissary protection?
 - [ ] Justice through Aelorin or a direct confrontation? Is the evidence enough to convince Aelorin?
 - [ ] Eledyr's prophecy research looks time-sensitive. What is he working toward, and when?

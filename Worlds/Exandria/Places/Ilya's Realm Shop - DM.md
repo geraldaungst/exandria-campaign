@@ -61,7 +61,7 @@ tags:
 ## Open Issues
 
 - [ ] Whether the stock refreshes after sales. Ticked items have been sold to the party.
-- [ ] Which item Ilya offers at cost, and what Drawg's pending commissions are.
+- [ ] **Priority:** Which item Ilya offers at cost, and what Drawg's pending commissions are.
 - [ ] Nothing is set for the shop's layout, staff or security. Rumor says burglars turn up dead with their skin melted ([[Ilya the Sorceress - DM]]).
 
 ## Connected Elements

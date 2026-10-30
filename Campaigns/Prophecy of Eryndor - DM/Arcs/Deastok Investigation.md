@@ -447,10 +447,10 @@ return RelatedArcs;
 
 ## Open Issues
 
-- [ ] What does Aldous Penwrye decide on the morning of 28 Thunsheer: keep the site, backfill it, or hand it to a scholar?
+- [ ] **Priority:** What does Aldous Penwrye decide on the morning of 28 Thunsheer: keep the site, backfill it, or hand it to a scholar?
 - [ ] Is the watch-post an ancestor of the [[Ashari Riftguard]] mission? The Truth says yes, and the existing Riftguard notes may conflict.
 - [ ] Which ley line links Deastok to Molaesmyr? Tracing it is one route back to the source ([[Understanding the Rifts]]).
-- [ ] What do the Truscans do with the two names the party gave them: [[Celunor's Collection - DM|Celunor]] and the [[Cerberus Assembly - DM|Cerberus Assembly]]?
+- [ ] **Priority:** What do the Truscans do with the two names the party gave them: [[Celunor's Collection - DM|Celunor]] and the [[Cerberus Assembly - DM|Cerberus Assembly]]?
 
 ## Connected Elements
 

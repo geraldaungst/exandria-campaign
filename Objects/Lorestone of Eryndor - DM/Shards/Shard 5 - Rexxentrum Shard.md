@@ -26,7 +26,7 @@ Shard 5 of the [[Lorestone of Eryndor - DM|Lorestone of Eryndor]]. Hub: [[Lorest
 ## Open Issues
 
 - [x] What is this shard's name? The Rexxentrum Shard, after where it was found.
-- [ ] When does Ovedo reveal the shard to the Echoforge or the party?
+- [ ] **Priority:** When does Ovedo reveal the shard to the Echoforge or the party?
 - [ ] How did Qalix learn the shard is in the Rexxentrum Archive? Open on [[Lady Emer - DM|Lady Emer]]'s note: did she get it out of Varnes?
 
 ## Properties and rulings

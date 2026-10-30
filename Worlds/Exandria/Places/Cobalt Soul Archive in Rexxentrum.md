@@ -28,7 +28,7 @@ political_region:
 > - [ ] Ovedo's focusing lens is the work of [[Aveqtaro Thaan]], a Kryn artisan in Rosohna. Ovedo does not know her name.
 
 ## Open Issues
-- [ ] The Archive's layout, staff and security, and how the party gets to the vault. Nothing is designed.
+- [ ] **Priority:** The Archive's layout, staff and security, and how the party gets to the vault. Nothing is designed.
 - [ ] Whether the wider order knows about the vault. This is an Open Issue on [[Cobalt Soul - DM]].
 - [ ] Whether the Qalix heist goes ahead ([[Qalix's Network]]).
 
