@@ -71,8 +71,9 @@ Update this as the campaign progresses.
 This replaces the separate "Status" note.]
 
 > [!secret]- Hidden Information
-> [DM-only secrets, future plans, what they're hiding.
-> Collapsed by default.]
+> - [ ] [A secret the party may learn: one line per fact, ticked when they learn it.
+> Future plans and what they're hiding go here too. Collapsed by default.
+> Running notes the party could not learn stay plain bullets.]
 
 > [!note]- Background
 > [Condensed background — just what informs their behavior.

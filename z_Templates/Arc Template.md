@@ -65,7 +65,9 @@ tier: <% tier %><% siteProp %>
 
 ## The Truth
 
-<!-- DM only. What is actually going on, in a few bullets. -->
+<!-- DM only. What is actually going on, as checklist lines (- [ ]), ticked when the party learns each. Running notes the party could not learn stay plain bullets. -->
+
+- [ ]
 
 ### The clock
 

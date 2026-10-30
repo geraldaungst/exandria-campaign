@@ -43,7 +43,7 @@ tags:
 <!-- Physical description, magical properties, game mechanics all together -->
 
 # Lore
-<!-- History, legends, secrets - add only if relevant -->
+<!-- History, legends, secrets - add only if relevant. Secrets the party may learn are checklist lines (- [ ]), ticked when learned. -->
 
 ## Connected Elements
 

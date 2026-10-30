@@ -48,7 +48,9 @@ tags:
 <!-- Current plot hooks, recent events, immediate concerns -->
 
 # Secrets
-<!-- DM-only info, hidden connections -->
+<!-- DM-only info, hidden connections. One checklist line per fact the party could learn, ticked when they learn it. Running notes the party could not learn stay plain bullets. -->
+
+- [ ]
 
 ## Connected Elements
 
