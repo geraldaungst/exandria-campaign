@@ -5,7 +5,7 @@ cssclasses:
 hide_from_related: true
 ---
 
-[[Session Hub]] · [[Plot Dashboard]] · [[Eryndor Timeline]] · [[DM Hubs Design]] · [[Design Advice]]
+[[Session Hub]] · [[Plot Dashboard]] · [[Open Issues]] · [[Eryndor Timeline]] · [[DM Hubs Design]] · [[Design Advice]]
 
 ```datacorejsx
 const { DMScreenTop } = await dc.require(dc.headerLink("00 DM Screen/Code/DM Screen Views.md", "Code"));
@@ -18,6 +18,15 @@ return DMScreenTop;
 const { PlotDashboard } = await dc.require(dc.headerLink("00 DM Screen/Code/Plot Dashboard Views.md", "Code"));
 return function ActivePlots() {
   return <PlotDashboard only={["active"]} showBar={false} />;
+};
+```
+
+## Open issues
+
+```datacorejsx
+const { OpenIssuesCompact } = await dc.require(dc.headerLink("00 DM Screen/Code/Open Issues Views.md", "Code"));
+return function ScreenOpenIssues() {
+  return <OpenIssuesCompact />;
 };
 ```
 

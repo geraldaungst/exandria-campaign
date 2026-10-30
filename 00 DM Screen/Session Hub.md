@@ -14,6 +14,13 @@ const { SessionHubPrep } = await dc.require(dc.headerLink("00 DM Screen/Code/Ses
 return SessionHubPrep;
 ```
 
+```datacorejsx
+const { OpenIssuesCompact } = await dc.require(dc.headerLink("00 DM Screen/Code/Open Issues Views.md", "Code"));
+return function SessionOpenIssues() {
+  return <OpenIssuesCompact />;
+};
+```
+
 ## At a glance
 
 ```datacorejsx

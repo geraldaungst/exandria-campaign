@@ -2,13 +2,13 @@
 hide_from_related: true
 ---
 
-**Purpose:** The code behind the Open Issues collector ([[Open Issues Spec]]): reads the `## Open Issues` and `## Seeds Planted` sections of every DM note into items, puts each item in a priority band from links, tags and properties the vault already keeps, and draws them: an Issues | Seeds switch, five groupings (Priority, Note, Thread, Place, Type), filters, a sort, and the format problems. `OpenIssuesFull` is the full view ([[Open Issues]]). The compact views for the Session Hub and the 00 DM Screen hub are added in the next build step.
+**Purpose:** The code behind the Open Issues collector ([[Open Issues Spec]]): reads the `## Open Issues` and `## Seeds Planted` sections of every DM note into items, puts each item in a priority band from links, tags and properties the vault already keeps, and draws them: an Issues | Seeds switch, five groupings (Priority, Note, Thread, Place, Type), filters, a sort, and the format problems. `OpenIssuesFull` is the full view ([[Open Issues]]). `OpenIssuesCompact` draws the two compact views.
 
-**Exports:** `PRIORITY_RE`, `NEAR_MISS_HEADINGS`, `parseOpenItems`, `bandOf`, `sortEntries`, `filterEntries`, `groupEntries`, `useOpenItems`, `OpenIssuesPanel`, `OpenIssuesFull`
+**Exports:** `PRIORITY_RE`, `NEAR_MISS_HEADINGS`, `parseOpenItems`, `bandOf`, `sortEntries`, `filterEntries`, `groupEntries`, `useOpenItems`, `OpenIssuesPanel`, `OpenIssuesFull`, `OpenIssuesCompact`
 
-**Depends on:** [[Shared Helpers]] (and [[Hub Config]] through it; its `locations()` loads the location core, [[Location Engine Spec]]) · [[Campaign State]] · [[Note Types]] · [[Plot Dashboard Views]] (`plotConnections`) · [[Session Hub Table]] (`linkTargets`, `partyPlaceOf`) · [[Session Hub Views]] (`sectionText`)
+**Depends on:** [[Hub Layout]] (`Row`, `Cell`) · [[Shared Helpers]] (and [[Hub Config]] through it; its `locations()` loads the location core, [[Location Engine Spec]]) · [[Campaign State]] · [[Note Types]] · [[Plot Dashboard Views]] (`plotConnections`) · [[Session Hub Table]] (`linkTargets`, `partyPlaceOf`) · [[Session Hub Views]] (`sectionText`)
 
-**Used by:** [[Open Issues]]
+**Used by:** [[Open Issues]] · [[Session Hub]] · [[00 DM Screen]]
 
 Conventions this module relies on:
 
@@ -23,6 +23,7 @@ Conventions this module relies on:
 - **Bands** (`bandOf`, first match wins; spec 2.9). 1 Flagged: the item has the Priority label. 2 Next session: its note is the running arc, is linked from it, is linked from `Where we left off`, or is at or inside the party's place. 3 Active threads: its note connects to a `plot/active` thread or is one. 4 Upcoming: a `plot/upcoming` thread, or an arc whose `status` is in `statuses_paused`. 5 Everything else (collapsed). Bands 2 to 4 show their reason in muted text. In-world deadlines are not read from the text.
 - **Groupings.** Priority: the bands. Note: one group per note (name, type, up to two thread names coloured by stage and "+n", nearest place). Thread: one group per plot thread by stage (active, upcoming, seed, paused), then "No thread"; a note on two threads is under both. Place: nearest place, "No place" last. Type: the order of `NOTE_TYPES`. Outside the Note grouping each item shows its note's name in muted text.
 - **Items.** The first sentence, with a ★ for a flagged item; a click shows the full text and the details when there are any. A session link at the end of a line shows as "raised in Session N" (issues) or "planted in Session N" (seeds). A group collapses to its header, which shows how many items it holds.
+- **Compact view** (`OpenIssuesCompact`, used on the Session Hub under Prep and on the 00 DM Screen hub under Open issues; Gerald's decision 2026-10-30: the two are the same). Issues and Seeds side by side, Priority grouping, bands 1 and 2 only (Flagged and Next session), no switch or filters; a line under each list counts the items in lower bands, and a "Full view" link goes to [[Open Issues]].
 - **Filters and sort.** Text (the item and its note's name), type, thread, Running arc (the running arc and notes it links to), Where the party is. Sort inside each group: band first, then the note's last edit (newest first) or its name.
 - **Remembered choices.** The Issues | Seeds switch, the grouping and the sort are kept per device with `app.saveLocalStorage` and `app.loadLocalStorage` (wrapped in try/catch; without them the choices last for the session). Never a plugin settings file.
 - **Not read.** The Shard notes' `## Who knows` lines, `## Design To-Dos`, `## Player Theories`, the hook headings and the other headings listed in the spec's section 2.7.
@@ -38,6 +39,7 @@ const { noteType, NOTE_TYPES } = await dc.require(dc.headerLink("00 DM Screen/Co
 const { plotConnections } = await dc.require(dc.headerLink("00 DM Screen/Code/Plot Dashboard Views.md", "Code"));
 const { linkTargets, partyPlaceOf } = await dc.require(dc.headerLink("00 DM Screen/Code/Session Hub Table.md", "Code"));
 const { sectionText } = await dc.require(dc.headerLink("00 DM Screen/Code/Session Hub Views.md", "Code"));
+const { Row, Cell } = await dc.require(dc.headerLink("00 DM Screen/Code/Hub Layout.md", "Code"));
 
 /** The priority mark: `**Priority` anywhere in a line, in any case. */
 const PRIORITY_RE = /\*\*\s*priority/i;
@@ -572,13 +574,21 @@ function Problems({ problems }) {
   );
 }
 
-const FULL = { storeKey: "full", grouping: "priority", maxBand: 5, filters: true, problems: true, fullLink: null };
+function FullLink({ name }) {
+  return <dc.Markdown content={`[[${name}|Full view]]`} inline={true} sourcePath={dc.currentPath ? dc.currentPath() : ""} />;
+}
+
+const FULL = { storeKey: "full", grouping: "priority", maxBand: 5, filters: true, problems: true, stats: true, switchBar: true, groupingBar: true, fixedKind: null };
+// The compact view (Session Hub and 00 DM Screen hub): Issues and Seeds side by side, bands 1 and 2.
+const SESSION = { ...FULL, storeKey: "session", grouping: "priority", maxBand: 2, filters: false, problems: false, stats: false, switchBar: false, groupingBar: false };
 
 /** The lists, switch, groupings and filters over data from useOpenItems(). options: see FULL. */
 function OpenIssuesPanel({ data, options = FULL }) {
   const o = { ...FULL, ...options };
-  const [kind, setKindRaw] = dc.useState(() => remember.get(o.storeKey, "kind", "issue", ["issue", "seed"]));
-  const [grouping, setGroupingRaw] = dc.useState(() => remember.get(o.storeKey, "grouping", o.grouping, GROUPINGS.map((g) => g[0])));
+  const [kindState, setKindRaw] = dc.useState(() => remember.get(o.storeKey, "kind", "issue", ["issue", "seed"]));
+  const [groupingState, setGroupingRaw] = dc.useState(() => remember.get(o.storeKey, "grouping", o.grouping, GROUPINGS.map((g) => g[0])));
+  const kind = o.fixedKind ?? kindState;
+  const grouping = o.groupingBar ? groupingState : o.grouping;
   const [sort, setSortRaw] = dc.useState(() => remember.get(o.storeKey, "sort", "edit", SORTS.map((s) => s[0])));
   const [filter, setFilter] = dc.useState({ q: "", type: "", thread: "", arc: false, party: false });
   const setKind = (v) => (setKindRaw(v), remember.set(o.storeKey, "kind", v));
@@ -590,6 +600,7 @@ function OpenIssuesPanel({ data, options = FULL }) {
   const ofKind = data.entries.filter((e) => e.kind === kind);
   const shown = filterEntries(ofKind, filter);
   const groups = groupEntries(shown, grouping, sort, o.maxBand);
+  const lower = o.maxBand < 5 ? shown.filter((e) => e.band > o.maxBand).length : 0;
   const count = (k) => data.entries.filter((e) => e.kind === k).length;
   const types = [...new Set(ofKind.map((e) => e.note.type))].sort((a, b) => NOTE_TYPES.indexOf(a) - NOTE_TYPES.indexOf(b));
   const threads = [...new Map(ofKind.flatMap((e) => e.note.threads).map((t) => [t.path, t])).values()].sort((a, b) => a.name.localeCompare(b.name));
@@ -606,11 +617,12 @@ function OpenIssuesPanel({ data, options = FULL }) {
   return (
     <div className="oi-view">
       <style>{CSS}</style>
-      <div style={O.bar}>
-        {seg([["issue", `Issues (${count("issue")})`], ["seed", `Seeds (${count("seed")})`]], kind, setKind)}
-        {seg(GROUPINGS, grouping, setGrouping)}
-        {o.fullLink ? <dc.Markdown content={`[[${o.fullLink}|Full view]]`} inline={true} sourcePath={dc.currentPath ? dc.currentPath() : ""} /> : null}
-      </div>
+      {o.switchBar || o.groupingBar ? (
+        <div style={O.bar}>
+          {o.switchBar ? seg([["issue", `Issues (${count("issue")})`], ["seed", `Seeds (${count("seed")})`]], kind, setKind) : null}
+          {o.groupingBar ? seg(GROUPINGS, grouping, setGrouping) : null}
+        </div>
+      ) : null}
       {o.filters ? (
         <div style={O.bar}>
           <input type="search" placeholder="Search items and notes" value={filter.q} onInput={(e) => patch({ q: e.currentTarget.value })} style={O.search} />
@@ -640,7 +652,15 @@ function OpenIssuesPanel({ data, options = FULL }) {
         </div>
       ) : null}
       {groups.length === 0 ? (
-        <div style={O.muted}>{ofKind.length ? "Nothing matches the filters." : kind === "seed" ? "No open seeds yet. Add a ## Seeds Planted section to a note." : "No open issues."}</div>
+        <div style={O.muted}>
+          {ofKind.length
+            ? lower
+              ? `Nothing flagged or tied to the next session; ${lower} more in the full view.`
+              : "Nothing matches the filters."
+            : kind === "seed"
+            ? "No open seeds yet. Add a ## Seeds Planted section to a note."
+            : "No open issues."}
+        </div>
       ) : (
         groups.map((g) => (
           <details key={`${kind}:${grouping}:${g.key}`} open={!g.collapsed} style={O.group}>
@@ -656,8 +676,9 @@ function OpenIssuesPanel({ data, options = FULL }) {
           </details>
         ))
       )}
+      {groups.length && lower ? <div style={O.muted}>{`${lower} more in lower bands, in the full view.`}</div> : null}
       {o.problems ? <Problems problems={data.problems} /> : null}
-      {data.stats ? (
+      {o.stats && data.stats ? (
         <div style={{ ...O.muted, marginTop: "14px" }}>
           {`Read ${data.stats.reads} of ${data.stats.candidates} candidate notes (${data.stats.notes} in the vault) in ${data.stats.ms} ms${data.stats.indexUsed ? "; Datacore's section index narrowed the list" : "; no section index, every note checked"}.`}
         </div>
@@ -672,5 +693,28 @@ function OpenIssuesFull() {
   return <OpenIssuesPanel data={data} options={FULL} />;
 }
 
-return { PRIORITY_RE, NEAR_MISS_HEADINGS, parseOpenItems, bandOf, sortEntries, filterEntries, groupEntries, useOpenItems, OpenIssuesPanel, OpenIssuesFull };
+/**
+ * The compact view on the Session Hub and the 00 DM Screen hub: Issues and Seeds side by side, Priority grouping, bands 1 and 2,
+ * with a link to the full view.
+ */
+function OpenIssuesCompact() {
+  const data = useOpenItems();
+  return (
+    <div>
+      <div style={{ margin: "0 0 4px" }}>
+        <FullLink name="Open Issues" />
+      </div>
+      <Row>
+        <Cell title="Open issues" grow={1} min={320}>
+          <OpenIssuesPanel data={data} options={{ ...SESSION, fixedKind: "issue" }} />
+        </Cell>
+        <Cell title="Seeds planted" grow={1} min={320}>
+          <OpenIssuesPanel data={data} options={{ ...SESSION, fixedKind: "seed" }} />
+        </Cell>
+      </Row>
+    </div>
+  );
+}
+
+return { PRIORITY_RE, NEAR_MISS_HEADINGS, parseOpenItems, bandOf, sortEntries, filterEntries, groupEntries, useOpenItems, OpenIssuesPanel, OpenIssuesFull, OpenIssuesCompact };
 ```

@@ -6,7 +6,7 @@ hide_from_related: true
 
 Build spec for the Open Issues collector in Gerald's DM vault: the two note sections it reads (Open Issues and Seeds Planted), the code that collects them into one view with priority bands, the compact views on both hubs, the template changes and the rescan of existing notes. Written 2026-10-30 (Opus) so that a conversation with no access to the design conversation can build from it. Decisions here are final; anything not decided is under "Ask Gerald". Where this note and [[Vault Conventions - DM]] disagree, raise it with Gerald before building.
 
-**Status (2026-10-30):** designed; build steps 1 to 4 of 8 done (config keys and Shard heading; parser, tests, review file; shared pieces exported; full view), step 4 Obsidian check pending. Sentences in section 1 that name `heading_track_questions`, `heading_piece_questions` or `## Open questions` describe the vault before step 1.
+**Status (2026-10-30):** designed; build steps 1 to 5 of 8 done (config keys and Shard heading; parser, tests, review file; shared pieces exported; full view; compact views), step 5 Obsidian check pending. Sentences in section 1 that name `heading_track_questions`, `heading_piece_questions` or `## Open questions` describe the vault before step 1.
 
 **Goal (Gerald, 2026-10-23):** seeds and threads that were set aside stay in front of Gerald at session planning, found automatically, with no tracking note updated by hand.
 
@@ -105,7 +105,7 @@ Bands 2 to 4 show the reason in muted text: "linked from the running arc", "at t
 
 - **Full view:** a new note, `00 DM Screen/Open Issues.md`. Opens on Priority, every band shown, "Everything else" collapsed, the format problems at the bottom.
 - **Compact view on the Session Hub** (under `## Prep`, after the Prep block): Priority grouping, bands 1 and 2, Issues and Seeds side by side.
-- **Compact view on the 00 DM Screen hub** (a new `## Open issues` section after `## Active plot threads`): Thread grouping, active and upcoming threads, sorted by band, with the Issues | Seeds switch.
+- **Compact view on the 00 DM Screen hub** (a new `## Open issues` section after `## Active plot threads`): the same as the Session Hub's (Gerald, 2026-10-30, after seeing both: Flagged and Next session, Issues and Seeds side by side; more is one click away in the full view). The first design had the Thread grouping, active and upcoming threads and the Issues | Seeds switch.
 - Both compact views carry a "Full view" link to the full view in their header. The 00 DM Screen hub also gets a plain link to it.
 - Not in the Session template: an embedded live list would show today's issues in every old session note.
 
@@ -141,7 +141,7 @@ Bands 2 to 4 show the reason in muted text: "linked from the running arc", "at t
 - **Reading:** pages from `dc.useQuery("@page")`, minus excluded folders and `Player Wiki/`. Note text read with `app.vault.cachedRead` in an effect, as `usePieces` in [[Artifact Pieces]] does, cached by path and mtime. If Datacore 0.1.29's section index can narrow the notes to those with a matching or near-miss heading, use it; probe it first and say what was found. Measure the full read on the real vault and report the time.
 - **Parser** (pure, testable): `parseOpenItems(text)` → `{ issues, seeds, problems }`. Each item: `text` (label removed), `first` (first sentence), `details`, `open`, `priority`, `session`, `raw`, `line`. Uses `stripComments` from Shared Helpers.
 - **Context:** running arc and its links, last played session's "Where we left off" links, party place, thread connections with stages, note type, nearest place (location core `whereIs`, then the place name).
-- **Exports:** `parseOpenItems`, `bandOf`, `useOpenItems`, `OpenIssuesFull`, `OpenIssuesCompact` (props: `preset` of `"session"` or `"screen"`).
+- **Exports:** `parseOpenItems`, `bandOf`, `useOpenItems`, `OpenIssuesFull`, `OpenIssuesCompact` (no props).
 - **Remembered choices:** the grouping and the Issues | Seeds switch are saved per device with `app.saveLocalStorage` / `app.loadLocalStorage` when they exist (wrapped in try/catch); otherwise they last for the session. Never a plugin settings file.
 
 ### 5. Documentation
