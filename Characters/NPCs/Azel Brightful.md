@@ -56,11 +56,11 @@ He does not know that Kexira passes information to Qalix's network. He does not 
 ## Hidden Information
 
 > [!secret]- DM Only
-> - Azel's view of Tiberius is more nuanced than the historical record. He knew the arrogance and the recklessness firsthand. He also knew what drove it. He doesn't correct the statue's inscription—but he doesn't fully believe it either.
-> - The "Deacon" nickname has a specific origin locals know. Azel has never explained it to an outsider.
-> - Kexira's visit to Emon was not entirely accidental. Whether she was sent specifically for Azel or simply recognized his value when she found him is unclear even to Qalix's network. Either way, the relationship is genuine on both sides—which makes it more dangerous, not less.
-> - Azel would be devastated to learn the full truth about Qalix. He would not abandon the goal of restoration. He would absolutely abandon Qalix.
-> - If the party is honest with him and respectful, he will listen. He will not be easily convinced. But he will think about it.
+> - [ ] Azel's view of Tiberius is more nuanced than the historical record. He knew the arrogance and the recklessness firsthand. He also knew what drove it. He doesn't correct the statue's inscription—but he doesn't fully believe it either.
+> - [ ] The "Deacon" nickname has a specific origin locals know. Azel has never explained it to an outsider.
+> - [ ] Kexira's visit to Emon was not entirely accidental. Whether she was sent specifically for Azel or simply recognized his value when she found him is unclear even to Qalix's network. Either way, the relationship is genuine on both sides—which makes it more dangerous, not less.
+> - [ ] Azel would be devastated to learn the full truth about Qalix. He would not abandon the goal of restoration. He would absolutely abandon Qalix.
+> - [ ] If the party is honest with him and respectful, he will listen. He will not be easily convinced. But he will think about it.
 
 ## Connected Elements
 

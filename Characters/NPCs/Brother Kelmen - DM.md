@@ -31,9 +31,9 @@ Firbolg monk of the Monastery of Dimensional Harmony, dead for about 300 years. 
 - Open: the Shard 8 lead and the stabilizing-counterweight revelation are released through him when the party discusses the Lorestone.
 
 > [!secret]- Hidden Information
-> - He carries the monks' unfinished research: a resonant object deep in the Feywild, reachable through the Savalirwood Fey crossing, which he knows as the Veluthil crossing. The monks' logs may hold directional notes. This is the Shard 8 lead.
-> - Flute moment with Popcorn: the pan flute has been near a Fey crossing, and something there has listened to it for a long time. He doesn't know how he knows.
-> - On learning of the Lorestone he recognizes that the monks tried by technique what needed an artifact. See [[Kelmen and Popcorn Connections]].
+> - [ ] He carries the monks' unfinished research: a resonant object deep in the Feywild, reachable through the Savalirwood Fey crossing, which he knows as the Veluthil crossing. The monks' logs may hold directional notes. This is the Shard 8 lead.
+> - [ ] Flute moment with Popcorn: the pan flute has been near a Fey crossing, and something there has listened to it for a long time. He doesn't know how he knows.
+> - [ ] On learning of the Lorestone he recognizes that the monks tried by technique what needed an artifact. See [[Kelmen and Popcorn Connections]].
 
 > [!note]- Background
 > Monk of the Monastery of Dimensional Harmony. When the floor above the lower chamber collapsed, his ritual was left unfinished and his spirit stayed in the memorial chamber for 300 years. He could not cross to the breach until the party cleansed Area 22. Encounter and ritual: [[Monastery of Dimensional Harmony - DM]]. Player version: [[Brother Kelmen]].

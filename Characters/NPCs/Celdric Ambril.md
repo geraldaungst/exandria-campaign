@@ -34,10 +34,10 @@ Average height, wiry and scholarly, with wavy sand-colored hair and eyes that sh
 - Knows Shard 6 was found, but not what it is or who owns it.
 
 > [!secret]- Hidden Information
-> - He is a human born to a pair of traveling merchants, with nothing mystic in his origin. An old book his parents acquired subtly sharpened his gift for mimicry.
-> - After his parents died he took his inheritance to Port Damali and founded the Drowned Library. The sunken-archive theme is theater, and his "discoveries" are ordinary purchases from suppliers and auctions.
-> - His expertise in history and the arcane is real.
-> - Full text in [[Celdric Ambril - Persona and Sayings]].
+> - [ ] He is a human born to a pair of traveling merchants, with nothing mystic in his origin. An old book his parents acquired subtly sharpened his gift for mimicry.
+> - [ ] After his parents died he took his inheritance to Port Damali and founded the Drowned Library. The sunken-archive theme is theater, and his "discoveries" are ordinary purchases from suppliers and auctions.
+> - [ ] His expertise in history and the arcane is real.
+> - [ ] Full text in [[Celdric Ambril - Persona and Sayings]].
 
 ## Open Issues
 

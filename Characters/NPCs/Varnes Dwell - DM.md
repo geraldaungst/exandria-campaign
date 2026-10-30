@@ -260,12 +260,12 @@ Use **Veteran** statistics (Monster Manual p. 350) with the following modificati
 
 ### Plot Hooks
 
-- **Rescue Mission:** Primary hook—party learns he's at Cloudfang Keep
-- **Information Broker:** Reveals Shard 5 location, propelling them toward Rexxentrum
-- **Moral Complexity:** Breaking client confidentiality for greater good
-- **Urgency Creation:** His uncertainty about what he revealed creates time pressure
-- **Clean Separation:** Stays at Keep to recover, doesn't burden party
-- **Future Ally:** Recurring NPC with useful skills and connections
+- [ ] **Rescue Mission:** Primary hook—party learns he's at Cloudfang Keep
+- [ ] **Information Broker:** Reveals Shard 5 location, propelling them toward Rexxentrum
+- [ ] **Moral Complexity:** Breaking client confidentiality for greater good
+- [ ] **Urgency Creation:** His uncertainty about what he revealed creates time pressure
+- [ ] **Clean Separation:** Stays at Keep to recover, doesn't burden party
+- [ ] **Future Ally:** Recurring NPC with useful skills and connections
 
 ### The Recovery Period at Cloudfang Keep
 
@@ -317,11 +317,11 @@ Use **Veteran** statistics (Monster Manual p. 350) with the following modificati
 
 ### Possible Complications
 
-- What if Lady Emer DID extract the info and Qalix already knows? (Party discovers they're racing Dreyara)
-- What if Ovedo refuses to forgive the breach of confidentiality?
-- What if the Cobalt Soul sees Varnes's revelation as a security breach?
-- What if Qalix sends assassins after Varnes once he learns he survived and talked?
-- What if party encounters the traveling NPC group on the road later? (Dreyara attacking them?)
+- [ ] What if Lady Emer DID extract the info and Qalix already knows? (Party discovers they're racing Dreyara)
+- [ ] What if Ovedo refuses to forgive the breach of confidentiality?
+- [ ] What if the Cobalt Soul sees Varnes's revelation as a security breach?
+- [ ] What if Qalix sends assassins after Varnes once he learns he survived and talked?
+- [ ] What if party encounters the traveling NPC group on the road later? (Dreyara attacking them?)
 
 ### Character Development Opportunities
 
@@ -346,16 +346,16 @@ Use **Veteran** statistics (Monster Manual p. 350) with the following modificati
 
 **When party returns to Port Damali:**
 
-- Varnes has recovered, back to work
-- Deeply grateful reunion
-- Ilya also expresses thanks
-- Varnes offers assistance: "You need anything - intel, planning, contacts - it's yours."
+- [ ] Varnes has recovered, back to work
+- [ ] Deeply grateful reunion
+- [ ] Ilya also expresses thanks
+- [ ] Varnes offers assistance: "You need anything - intel, planning, contacts - it's yours."
 
 **If party needs Archive help later:**
 
-- Varnes can provide detailed maps, protocols, advice
-- Might even come along if mission requires his expertise
-- But makes it clear: "This time, I'm ready. No more getting captured."
+- [ ] Varnes can provide detailed maps, protocols, advice
+- [ ] Might even come along if mission requires his expertise
+- [ ] But makes it clear: "This time, I'm ready. No more getting captured."
 
 ## Connected Elements
 

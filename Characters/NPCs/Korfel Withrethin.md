@@ -46,29 +46,29 @@ As of 28 Thunsheer 835. Network detail: [[Qalix's Network]].
 ## Hidden Information
 
 > [!secret]- Who he really is
-> - **Korfel Withrethin**, a merchant known in [[Port Damali - DM|Port Damali]] for years, with criminal dealings that included the [[Clasp - DM|Clasp]]. Murdered [[Hesterian Shyr - Dot|Hesterian]] and Xanaphia Lothliss ([[Port Damali Murders]]), framed [[Rylan Estevez]] ([[Rylan Estevez Frame Job]]), and fled north about 2–3 years ago
-> - **How he became the Gentleman:** tipped off the Crownsguard about a lieutenant's plot against a starosta, then killed the original Gentleman, Babenon Dosal, in the tunnels during the crackdown. Detail: [[Characters/Factions/Exandria/Gentleman's Organization#History]]
-> - **Names:** arrived in Zadash under a merchant alias (unnamed), which vanished in the crackdown. Nobody in Zadash knows the name Korfel Withrethin
-> - **Nobody knows:** not Cree, not his staff, not [[Father Dwondaff Pierce]] (who knew Korfel the merchant), not the wider Myriad
+> - [ ] **Korfel Withrethin**, a merchant known in [[Port Damali - DM|Port Damali]] for years, with criminal dealings that included the [[Clasp - DM|Clasp]]. Murdered [[Hesterian Shyr - Dot|Hesterian]] and Xanaphia Lothliss ([[Port Damali Murders]]), framed [[Rylan Estevez]] ([[Rylan Estevez Frame Job]]), and fled north about 2–3 years ago
+> - [ ] **How he became the Gentleman:** tipped off the Crownsguard about a lieutenant's plot against a starosta, then killed the original Gentleman, Babenon Dosal, in the tunnels during the crackdown. Detail: [[Characters/Factions/Exandria/Gentleman's Organization#History]]
+> - [ ] **Names:** arrived in Zadash under a merchant alias (unnamed), which vanished in the crackdown. Nobody in Zadash knows the name Korfel Withrethin
+> - [ ] **Nobody knows:** not Cree, not his staff, not [[Father Dwondaff Pierce]] (who knew Korfel the merchant), not the wider Myriad
 
 > [!secret]- When Hesterian walks in
-> - **Surprise:** mutual. If the party asked after his name, he arrives probing for who and why, but seeing Hesterian still shakes him. Scene beats and lines: [[Talking with Korfel]]
-> - **First seconds:** a flicker of real fear, then calculation. He keeps the Gentleman's composure; his people must not see weakness or hear his name
-> - **Opening line:** denial. "I'm afraid you're mistaken. I've always been a Zadash man." More lines: [[Hesterian Shyr's Infiltration]]
-> - **Clears the floor:** "Leave us. Sorah, the door." His people go to the far doors, where the falling water covers voices, and he negotiates across the water
-> - **Probes for:** how she is alive, what she wants, who else knows
-> - **First reach:** [[Rylan Estevez|Rylan]]'s release, to buy time (terms in [[Korfel's Next Moves#What he offers]])
-> - **Offers:** civility ("let's discuss this like civilized people"); paid work that keeps the party close and watched; a claim that he was desperate or has changed; the argument that exposing him helps no one
-> - **Demands:** blood samples from everyone at the table, as standard terms
-> - **Flashpoints:** his real name said aloud; Port Damali; Rylan; refusing the blood sample; a threat from either side
-> - **If the party attacks:** he drops into the water and is gone. The party fights his people until the Crownsguard arrive and arrests them on real charges. Then the cell visit ([[Korfel's Next Moves]])
+> - [ ] **Surprise:** mutual. If the party asked after his name, he arrives probing for who and why, but seeing Hesterian still shakes him. Scene beats and lines: [[Talking with Korfel]]
+> - [ ] **First seconds:** a flicker of real fear, then calculation. He keeps the Gentleman's composure; his people must not see weakness or hear his name
+> - [ ] **Opening line:** denial. "I'm afraid you're mistaken. I've always been a Zadash man." More lines: [[Hesterian Shyr's Infiltration]]
+> - [ ] **Clears the floor:** "Leave us. Sorah, the door." His people go to the far doors, where the falling water covers voices, and he negotiates across the water
+> - [ ] **Probes for:** how she is alive, what she wants, who else knows
+> - [ ] **First reach:** [[Rylan Estevez|Rylan]]'s release, to buy time (terms in [[Korfel's Next Moves#What he offers]])
+> - [ ] **Offers:** civility ("let's discuss this like civilized people"); paid work that keeps the party close and watched; a claim that he was desperate or has changed; the argument that exposing him helps no one
+> - [ ] **Demands:** blood samples from everyone at the table, as standard terms
+> - [ ] **Flashpoints:** his real name said aloud; Port Damali; Rylan; refusing the blood sample; a threat from either side
+> - [ ] **If the party attacks:** he drops into the water and is gone. The party fights his people until the Crownsguard arrive and arrests them on real charges. Then the cell visit ([[Korfel's Next Moves]])
 
 > [!secret]- Vulnerabilities
-> - **His own people:** if the Myriad learns he betrayed the lieutenant and killed Babenon, he is dead. This is the bigger danger
-> - **Paper trail:** an anonymous tip to the Crownsguard in a merchant's hand. Babenon's captured lieutenants, in Crownsguard custody, knew the real Gentleman's face
-> - **His past:** [[Qilynn Duskwhisper - Nicole|Qilynn]] knows his name from Clasp business but has never met him. Marion Lavorre may know his real name. Rylan's conviction falls apart under examination
-> - **Cree:** the blood-sample system depends on one person, loyal for professional reasons, not personal ones
-> - **Temperament:** sees only total control or total destruction; his paranoia overreacts and makes new enemies
+> - [ ] **His own people:** if the Myriad learns he betrayed the lieutenant and killed Babenon, he is dead. This is the bigger danger
+> - [ ] **Paper trail:** an anonymous tip to the Crownsguard in a merchant's hand. Babenon's captured lieutenants, in Crownsguard custody, knew the real Gentleman's face
+> - [ ] **His past:** [[Qilynn Duskwhisper - Nicole|Qilynn]] knows his name from Clasp business but has never met him. Marion Lavorre may know his real name. Rylan's conviction falls apart under examination
+> - [ ] **Cree:** the blood-sample system depends on one person, loyal for professional reasons, not personal ones
+> - [ ] **Temperament:** sees only total control or total destruction; his paranoia overreacts and makes new enemies
 
 > [!note]- Stats
 > CR 12. Stat block not in the vault. Rarely without Sorah and Kutha

@@ -40,9 +40,9 @@ Owns an unusually fine hand-sized brass-and-glass focusing lens by a Xhorhasian 
 - [[Varnes Dwell - DM|Varnes]] broke his NDA and told the party about the shard on 19 Thunsheer 835 ([[Session 38 - What to Do with Lady Emer?|Session 38]]).
 
 > [!secret]- Hidden Information
-> - Shard 5 sits in an unauthorised, warded vault found in the Archive's foundations, for a secret Cobalt Soul research project.
-> - Ovedo paid Varnes double his original fee plus an ongoing retainer for discretion, and had him sign additional NDAs.
-> - The lens is the work of [[Aveqtaro Thaan]], a Kryn artisan in Rosohna. Ovedo does not know her name. It is the Rexxentrum trail in the [[Aveqtaro Memory Recovery Tracker]]'s Awareness phase.
+> - [ ] Shard 5 sits in an unauthorised, warded vault found in the Archive's foundations, for a secret Cobalt Soul research project.
+> - [ ] Ovedo paid Varnes double his original fee plus an ongoing retainer for discretion, and had him sign additional NDAs.
+> - [ ] The lens is the work of [[Aveqtaro Thaan]], a Kryn artisan in Rosohna. Ovedo does not know her name. It is the Rexxentrum trail in the [[Aveqtaro Memory Recovery Tracker]]'s Awareness phase.
 
 ## Open Issues
 

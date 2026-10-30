@@ -24,41 +24,41 @@ What [[Korfel Withrethin|Korfel]] does between scenes. Each move names what he m
 ### Triggers
 
 **His watchers spot the dragonborn with the wyvern, the blonde or the gnome in Zadash**
-- Makes contact first, through an intermediary, to judge whether they are a threat or an asset. People who could kill Qalix's spymaster could be hired
-- Wants them in a room where Cree can take blood
+- [ ] Makes contact first, through an intermediary, to judge whether they are a threat or an asset. People who could kill Qalix's spymaster could be hired
+- [ ] Wants them in a room where Cree can take blood
 
 **He learns someone in Zadash is asking for Korfel Withrethin** (his informants report it within a day; Cree passes it on if asked)
-- Knows someone from his past has come for him, not who or why. Has Cree watch them closely
-- Has Cree ask about the name in her interview, and asks again himself before turning. Gives nothing away ([[Talking with Korfel]])
+- [ ] Knows someone from his past has come for him, not who or why. Has Cree watch them closely
+- [ ] Has Cree ask about the name in her interview, and asks again himself before turning. Gives nothing away ([[Talking with Korfel]])
 
 **Cree's report links a party member to Port Damali, Harmony Hall or a murder**
-- Same as above: he probes for who and why, and gives nothing away. He still believes Hesterian is dead, so seeing her shakes him
+- [ ] Same as above: he probes for who and why, and gives nothing away. He still believes Hesterian is dead, so seeing her shakes him
 
 **Cree's report mentions the name Melthes**
-- Learns a party member has a brother the Cerberus Assembly took, and that Cree processed him. Cree's memory is now his to give or withhold
+- [ ] Learns a party member has a brother the Cerberus Assembly took, and that Cree processed him. Cree's memory is now his to give or withhold
 
 **He learns Hesterian is alive** (on sight, or from a report)
-- First reach: Rylan's release, to buy time (terms below)
-- Within a day: his network digs into her companions and their recent movements, looking for leverage on each
-- Moves money and anything incriminating; readies his escape routes
-- Warns his inner circle of "a threat" without saying what
-- Wants her dead, by no hand that leads back to him. Until then, keeps her close with an offer of work
+- [ ] First reach: Rylan's release, to buy time (terms below)
+- [ ] Within a day: his network digs into her companions and their recent movements, looking for leverage on each
+- [ ] Moves money and anything incriminating; readies his escape routes
+- [ ] Warns his inner circle of "a threat" without saying what
+- [ ] Wants her dead, by no hand that leads back to him. Until then, keeps her close with an offer of work
 
 **He learns the party carries Shard 6 or the crystal**
-- Treats them as goods: something to sell to Qalix's side, or leverage over the party. Doesn't care what they are
+- [ ] Treats them as goods: something to sell to Qalix's side, or leverage over the party. Doesn't care what they are
 
 **Someone from Qalix's side contacts him about Rexxentrum**
-- Renegotiates upward; Dreyara is dead and the risk has gone up
-- Who comes, and whether the job goes ahead: open ([[Qalix's Network]])
+- [ ] Renegotiates upward; Dreyara is dead and the risk has gone up
+- [ ] Who comes, and whether the job goes ahead: open ([[Qalix's Network]])
 
 **He learns the party wants into the Rexxentrum Archive**
-- The natural deal: he has half a plan, the tunnels and the routes; they have skill and a reason. Asks for blood samples and a cut, and keeps them where he can watch them
+- [ ] The natural deal: he has half a plan, the tunnels and the routes; they have skill and a reason. Asks for blood samples and a cut, and keeps them where he can watch them
 
 **The party is arrested**
-- A well-dressed visitor comes to the cells: the Gentleman can make the charges disappear. The price is blood, the job, and silence
+- [ ] A well-dressed visitor comes to the cells: the Gentleman can make the charges disappear. The price is blood, the job, and silence
 
 **He learns someone is asking about the crackdown or Babenon's fate**
-- The greatest threat to him. Moves fast to remove whoever is asking, and frames someone else for it
+- [ ] The greatest threat to him. Moves fast to remove whoever is asking, and frames someone else for it
 
 ### Escalation if the party turns on him
 

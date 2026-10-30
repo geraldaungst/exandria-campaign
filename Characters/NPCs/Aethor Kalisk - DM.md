@@ -41,10 +41,10 @@ Headquartered in [[Port Damali - DM]] while researching Lorestone assembly. Has 
 - [[Valen Elderguard]]—unknown enemy who targeted him during the skyship journey
 
 > [!secret]- Hidden Information
-> - Has a lead on Calderax Dunhall regarding a Lorestone shard
-> - Was the target of [[Valen Elderguard]]'s plot to skyjack the ship
-> - Calderax is actually working with [[Aelorin Nightshade]]
-> - The shard trail leads to [[Keldar Stonefoot - DM]]
+> - [ ] Has a lead on Calderax Dunhall regarding a Lorestone shard
+> - [ ] Was the target of [[Valen Elderguard]]'s plot to skyjack the ship
+> - [ ] Calderax is actually working with [[Aelorin Nightshade]]
+> - [ ] The shard trail leads to [[Keldar Stonefoot - DM]]
 
 > [!note]- Arcane Refraction Device
 > His primary research: a device that aligns chaotic planar rift energies with the order inherent in Lorestone fragments, using prismatic and temporal elements to locate and assemble scattered pieces.

@@ -36,8 +36,8 @@ Tall high elf, [[Qilynn Duskwhisper - Nicole|Qilynn]]'s mentor and trainer. Qily
 - Qilynn does not suspect him of the setup.
 
 > [!secret]- Hidden Information
-> - He does not know the relic was Shard 6, and does not know Calderax lost it.
-> - Evaldo Ide, the tailor who fronts the HQ, is secretly a Myriad ally cooperating with him.
+> - [ ] He does not know the relic was Shard 6, and does not know Calderax lost it.
+> - [ ] Evaldo Ide, the tailor who fronts the HQ, is secretly a Myriad ally cooperating with him.
 
 > [!note]- Background
 > Aelorin was an orphan who grew up in the Driftwood Asylum. While there, he was often sent on "missions" by the cruel headmaster, Grankton. Eventually, he grew tired of the life there, and as a teenager he left on a mission and never returned. Grankton assumed he had died and never looked into it.

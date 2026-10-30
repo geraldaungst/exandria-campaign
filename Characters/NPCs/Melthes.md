@@ -33,10 +33,10 @@ Half-elf, taken at 16 in 833 PD. Now about 18 but looks much older, from poor tr
 Whereabouts unknown. Last confirmed at the Assembly's Rexxentrum facility, assigned to [[Isolene Fenzana]]'s research division. Whether he is still in their custody is open.
 
 > [!secret]- Hidden Information
-> - The Assembly values him for navigating and manipulating the Feywild and its energies, for expanding its understanding of other planes, for his Feydark connection in political maneuvering, and for insight or leverage in dealings with fey and other planar powers.
-> - He was recommended for advanced study under Isolene Fenzana.
-> - [[Hesterian Shyr - Dot|Hesterian]] is unaware of his real situation.
-> - [[Cree Deeproots]] conducted his assessment and remembers the name.
+> - [ ] The Assembly values him for navigating and manipulating the Feywild and its energies, for expanding its understanding of other planes, for his Feydark connection in political maneuvering, and for insight or leverage in dealings with fey and other planar powers.
+> - [ ] He was recommended for advanced study under Isolene Fenzana.
+> - [ ] [[Hesterian Shyr - Dot|Hesterian]] is unaware of his real situation.
+> - [ ] [[Cree Deeproots]] conducted his assessment and remembers the name.
 
 > [!note]- Background
 > - **Family:** sister [[Hesterian Shyr - Dot|Hesterian]]; parents living in [[Xarzith Kitril - DM]] when he was taken (current status unknown). A close-knit family.

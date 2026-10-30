@@ -48,11 +48,11 @@ Met [[Azel Brightful]] in Emon while sourcing Conclave-era materials. Whether sh
 ## Hidden Information
 
 > [!secret]- DM Only
-> - Kexira does not think of herself as a spy or an agent. She thinks of herself as someone who believes in something and acts accordingly. This is not self-deception in the cynical sense—it is genuine moral compartmentalization, which is harder to argue with and harder to undo.
-> - She does not know about Shard 5. Ovedo is extremely careful, and Kexira has not been inside the archive's restricted sections. She is close enough to be dangerous, not close enough to know it yet.
-> - If she ever learns the full scope of what Qalix is doing—the patron, the manipulation, the cascading harm—her response will not be predictable. She is not simply a villain waiting to be revealed. She is someone who made a series of choices she believed in and will have to reckon with where they led.
-> - She would not betray Azel deliberately. She may do so accidentally. She does not know this about herself yet.
-> - If the party approaches her honestly and with evidence rather than accusation, there is a path where she becomes an asset. It is not an easy path.
+> - [ ] Kexira does not think of herself as a spy or an agent. She thinks of herself as someone who believes in something and acts accordingly. This is not self-deception in the cynical sense—it is genuine moral compartmentalization, which is harder to argue with and harder to undo.
+> - [ ] She does not know about Shard 5. Ovedo is extremely careful, and Kexira has not been inside the archive's restricted sections. She is close enough to be dangerous, not close enough to know it yet.
+> - [ ] If she ever learns the full scope of what Qalix is doing—the patron, the manipulation, the cascading harm—her response will not be predictable. She is not simply a villain waiting to be revealed. She is someone who made a series of choices she believed in and will have to reckon with where they led.
+> - [ ] She would not betray Azel deliberately. She may do so accidentally. She does not know this about herself yet.
+> - [ ] If the party approaches her honestly and with evidence rather than accusation, there is a path where she becomes an asset. It is not an easy path.
 
 ## Connected Elements
 

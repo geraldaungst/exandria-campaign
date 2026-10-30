@@ -33,11 +33,11 @@ Stout, formally dressed. Sits alone near the fire with a drink he hasn't touched
 - If never engaged, he stays a stuffy local and Erma's network stays dormant.
 
 > [!secret]- Hidden Information
-> - **The researcher is Erma Schnieb**, a halfling mage in Uthodurn. She believes she has found a portal in the Savalirwood leading to the Lower Planes ([[Rupture of the Molaesmyr Fey Crossing]]). He does not offer her name.
-> - **The other end of her research is Cairel Ulthe**, an elven druid whose parents fled Molaesmyr, hunting the origin of the curse. Neither name is offered at the inn.
-> - **What he offers if engaged:** favor-based fast travel through Erma's contacts. Price: real, high-quality information, not crumbs. He says so a little tiredly, because he catches the grief when she is unimpressed.
-> - **The pivot:** if he learns Seraphina was alive at the time of the original cataclysm, he is jolted: *maybe Erma has been right all along.* Not warmth. He might then suggest they meet her. Do not force this.
-> - **Long fuse (not this arc):** his fading investment makes him a plausible defection risk. Careless, he could leak Erma's research to Qalix's network.
+> - [ ] **The researcher is Erma Schnieb**, a halfling mage in Uthodurn. She believes she has found a portal in the Savalirwood leading to the Lower Planes ([[Rupture of the Molaesmyr Fey Crossing]]). He does not offer her name.
+> - [ ] **The other end of her research is Cairel Ulthe**, an elven druid whose parents fled Molaesmyr, hunting the origin of the curse. Neither name is offered at the inn.
+> - [ ] **What he offers if engaged:** favor-based fast travel through Erma's contacts. Price: real, high-quality information, not crumbs. He says so a little tiredly, because he catches the grief when she is unimpressed.
+> - [ ] **The pivot:** if he learns Seraphina was alive at the time of the original cataclysm, he is jolted: *maybe Erma has been right all along.* Not warmth. He might then suggest they meet her. Do not force this.
+> - [ ] **Long fuse (not this arc):** his fading investment makes him a plausible defection risk. Careless, he could leak Erma's research to Qalix's network.
 
 > [!note]- Conversation branches
 > Mix freely, in any order.

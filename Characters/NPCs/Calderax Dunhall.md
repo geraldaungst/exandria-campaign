@@ -37,12 +37,12 @@ No onscreen scenes since Session 26. What the party learned there: the shard Cal
 - Aelorin still doesn't know the relic he sent Calderax for was Shard 6 ([[Clasp - DM]]).
 
 > [!secret]- Hidden Information
-> - He was Dreyara's informant while posing as an Echoforge member. He tracked Aethor's movements for her.
-> - Unrequited romantic feelings for Dreyara; she manipulated them to secure his loyalty.
-> - Dreyara stole Shard 6 from his room and had a forged letter planted to frame him and burn him as an asset ([[Aelorin's HQ Basement Text]]).
-> - His mentorship under Aelorin served as cover for gathering information.
-> - Possible resentment toward some Echoforge members over subtle prejudice about his tiefling heritage.
-> - Yrene remembers him as an ambitious, dedicated trainee with a hard upbringing, loyal to those who were kind to him and still indebted to Aelorin ([[Session 5 - Tracking Yrene]]).
+> - [ ] He was Dreyara's informant while posing as an Echoforge member. He tracked Aethor's movements for her.
+> - [ ] Unrequited romantic feelings for Dreyara; she manipulated them to secure his loyalty.
+> - [ ] Dreyara stole Shard 6 from his room and had a forged letter planted to frame him and burn him as an asset ([[Aelorin's HQ Basement Text]]).
+> - [ ] His mentorship under Aelorin served as cover for gathering information.
+> - [ ] Possible resentment toward some Echoforge members over subtle prejudice about his tiefling heritage.
+> - [ ] Yrene remembers him as an ambitious, dedicated trainee with a hard upbringing, loyal to those who were kind to him and still indebted to Aelorin ([[Session 5 - Tracking Yrene]]).
 
 > [!note]- Background
 > Timings below are as of Session 26 (4 Thunsheer 835).
