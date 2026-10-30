@@ -7,7 +7,9 @@ tags:
   - session
 ---
 
+## Session 25
 
+Plan: [[The Unstable Rift]]
 
 ## Where we left off
 

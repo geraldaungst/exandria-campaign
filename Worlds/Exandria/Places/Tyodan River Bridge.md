@@ -3,6 +3,7 @@ tags:
   - campaign/eryndor
   - location
   - world/exandria
+  - needs-work
 natural_region:
   - "[[Menagerie Coast]]"
 ---
@@ -51,7 +52,7 @@ natural_region:
 - Local wildlife avoids area due to regular traffic
 - Water level varies seasonally affecting passage below
 - Recent events:
-	- session 5.5
+	- [[Session 10 - Goblins at the Bridge|Session 10]]
 
 ### Secrets & Clues
 

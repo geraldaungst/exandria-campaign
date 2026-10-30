@@ -161,3 +161,7 @@ The creature's face bears a twisted resemblance to a silverback's, but the jaw h
 - Allow the party to believe there's a connection between the shard and the rift
 - Multiple NPCs will reinforce this false connection through their own beliefs
 - The true coincidental nature of events can remain unknown to enhance the mystery
+
+## Open Issues
+
+- [ ] This note puts the rift at Pier 7; Session 25 records the party meeting the Zhelezo at Pier 14. Decide which pier is right.

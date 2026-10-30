@@ -3,6 +3,7 @@ tags:
   - campaign/eryndor
   - location
   - world/exandria
+  - needs-work
 political_region:
   - "[[Port Damali - DM]]"
 ---

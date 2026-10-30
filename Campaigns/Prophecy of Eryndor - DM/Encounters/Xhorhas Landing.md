@@ -1,8 +1,9 @@
 ---
 tags:
+  - encounter
+  - campaign/eryndor
   - world/exandria
-ties_to:
-  - "[[Xhorhas]]"
+site: "[[Xhorhas]]"
 ---
 
 Two of the passengers (not a hijacker) will be injured and ask the characters to help them get back to their family in Talonstadt.

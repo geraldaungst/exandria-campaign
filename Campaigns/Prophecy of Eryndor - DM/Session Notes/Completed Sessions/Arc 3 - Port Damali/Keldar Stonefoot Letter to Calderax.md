@@ -1,5 +1,6 @@
 ---
 tags:
+  - campaign/eryndor
   - world/exandria
 ties_to:
   - "[[Menagerie Coast]]"
