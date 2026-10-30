@@ -6,7 +6,7 @@ hide_from_related: true
 
 Build spec for the Open Issues collector in Gerald's DM vault: the two note sections it reads (Open Issues and Seeds Planted), the code that collects them into one view with priority bands, the compact views on both hubs, the template changes and the rescan of existing notes. Written 2026-10-30 (Opus) so that a conversation with no access to the design conversation can build from it. Decisions here are final; anything not decided is under "Ask Gerald". Where this note and [[Vault Conventions - DM]] disagree, raise it with Gerald before building.
 
-**Status (2026-10-30):** designed; build steps 1 to 7 of 8 done (config keys and Shard heading; parser, tests, review file; shared pieces exported; full view; compact views; templates; migration steps 2 to 4), step 8 (documentation and Checkpoint) next. Sentences in section 1 that name `heading_track_questions`, `heading_piece_questions` or `## Open questions` describe the vault before step 1.
+**Status (2026-10-30):** designed and built; all 8 build steps done (config keys and Shard heading; parser, tests, review file; shared pieces exported; full view; compact views; templates; migration steps 2 to 4; documentation and Checkpoint). Section 6 records where the migration differed from the plan. Sentences in section 1 that name `heading_track_questions`, `heading_piece_questions` or `## Open questions` describe the vault before step 1.
 
 **Goal (Gerald, 2026-10-23):** seeds and threads that were set aside stay in front of Gerald at session planning, found automatically, with no tracking note updated by hand.
 
@@ -162,6 +162,12 @@ Each step is a batch: dry-run script, backups, Gerald's approval, link scan, Pha
 3. **Seeds:** the Seeds Planted note's lines, Session 17's "Unresolved Elements" line about Radelia Caphax, and the Loose Threads of Deastok Investigation and Gnurlsotten's Nosh and Nip Arc move into Seeds Planted sections on the notes they concern (proposed per line in the review file; the arc itself where no better note exists), with a session link where the review file names one. Then remove the 5 empty `## [[Seeds Planted]]` headings (Aethor Kalisk's Secret Mission, Session 6 and the three prologues) and move the Seeds Planted note to `z_Archive/`.
 4. **Questions outside the sections:** search DM notes for unanswered campaign questions and seeds outside these sections (lines with a question mark, "undecided", "TBD", "not decided", "unknown", "to decide", "if the party ever"), skipping dialogue menus, boxed text, Track These and other play material, and completed session notes for seeds never followed up. Gerald decides per line, in batches, which become items and on which note.
 5. **Checkpoint** per the status note's rules.
+
+**As built (2026-10-30).** The exact outcomes are in the Phase log lines in `Vault Reorganization History 2026-10-22 to 2026-10-30` (`z_Archive/Vault Reorganization/`). `z_Reference/Open Issues Review.md` holds the inventory and the proposals; its Your decision columns were left blank because Gerald decided in conversation.
+- Step 2: the five Understanding the Rifts lines stayed open instead of being ticked `(Left to play.)`; Character Story Beats stayed an Open Issue; the "Deliberately undecided" comment was removed.
+- Step 3: the Loose Threads of Deastok Investigation and Gnurlsotten's Nosh and Nip Arc were renamed Seeds Planted in place. Bramwell's line moved to Bramwell Bellweather, Grent's to Gnurlsotten's Nosh & Nip - DM. The Seeds Planted note's lines went to Aethor Kalisk - DM, Calderax Dunhall and Dreyara Drimvar - DM with Session 19 links. Session 17's Radelia line went to Radelia Caphax, ticked. Session 12's Dechs line went to Eidechse - Amanda Jeane. The Seeds Planted note is in `z_Archive/Campaigns/Prophecy of Eryndor - DM/Session Notes/`.
+- Step 4: 425 candidate lines in 107 notes came down to four items (Lorestone of Eryndor - DM, Seraphina Amaris - Vicki, Refined Essence - Titan Concentrate, The Capture of Melthes); Gerald approved skipping the rest.
+- Not in the plan: a priority review of the 217 open issues (Opus), 19 lines marked `**Priority:**`. Only the note where each decision is made carries the mark, not its copies.
 
 ### 7. Ask Gerald (not decided)
 

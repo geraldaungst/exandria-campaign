@@ -4,7 +4,7 @@ hide_from_related: true
 
 ## DM Hubs Design
 
-Design and as-built reference for the two hubs. Brought current on 2026-10-29: everything here is built except the workbenches, which are listed under "Workbenches (not built)". Decisions made here are final unless this note changes.
+Design and as-built reference for the two hubs. Brought current on 2026-10-29 (the Open Issues collector added 2026-10-30): everything here is built except the workbenches, which are listed under "Workbenches (not built)". Decisions made here are final unless this note changes.
 
 ### The two hubs
 
@@ -21,7 +21,7 @@ Design and as-built reference for the two hubs. Brought current on 2026-10-29: e
 - Bases first. Datacore 0.1.29 only where Bases can't do the job; each row below says why.
 - No section depends on fields updated by hand. Allowed: tags, links, mtime, properties set once at creation, and the one-time after-game entries in the session note.
 - Connected notes are listed under every item they relate to, never shown as counts.
-- Shared code lives in code notes in `00 DM Screen/Code/` (one module per responsibility: [[Shared Helpers]], [[Campaign State]], [[Calendar and Timeline]], [[Note Types]], [[Arc and Session Views]], [[DM Screen Views]], [[Plot Dashboard Views]], [[Session Hub Views]], [[Session Hub Table]], [[Quick Capture]], [[Reference Lists]], [[Section Picker]], [[Hub Layout]], [[Item Data]], [[Item Finder]], [[Treasure Roll]], [[Trap Roll]], [[Party Card]], [[Roll20 Party Script]], [[NPC Browser]], [[Progress Tracks]], [[Artifact Pieces]], [[Artifact Hub Views]], [[Artifact Change Form]], [[Location Checks]]) and the location core, `z_Templates/Scripts/location_core.js` (the only code that reads location properties or resolves player/DM twins; hubs reach it through `locations()` in Shared Helpers and templates through `dm_helpers.js`; spec: [[Location Engine Spec]]) and loads with `dc.require`, so the hubs use the same logic. Every tag, folder, heading, and status name comes from [[Hub Config]] (properties only), which the code notes and templates read.
+- Shared code lives in code notes in `00 DM Screen/Code/` (one module per responsibility: [[Shared Helpers]], [[Campaign State]], [[Calendar and Timeline]], [[Note Types]], [[Arc and Session Views]], [[DM Screen Views]], [[Plot Dashboard Views]], [[Session Hub Views]], [[Session Hub Table]], [[Quick Capture]], [[Reference Lists]], [[Section Picker]], [[Hub Layout]], [[Item Data]], [[Item Finder]], [[Treasure Roll]], [[Trap Roll]], [[Party Card]], [[Roll20 Party Script]], [[NPC Browser]], [[Progress Tracks]], [[Artifact Pieces]], [[Artifact Hub Views]], [[Artifact Change Form]], [[Open Issues Views]], [[Location Checks]]) and the location core, `z_Templates/Scripts/location_core.js` (the only code that reads location properties or resolves player/DM twins; hubs reach it through `locations()` in Shared Helpers and templates through `dm_helpers.js`; spec: [[Location Engine Spec]]) and loads with `dc.require`, so the hubs use the same logic. Every tag, folder, heading, and status name comes from [[Hub Config]] (properties only), which the code notes and templates read.
 
 ### Shared logic
 
@@ -61,18 +61,19 @@ Design and as-built reference for the two hubs. Brought current on 2026-10-29: e
 | Where we left off | Embedded section of the last played session | Shared logic | Datacore (Bases can't embed a heading of a computed note) |
 | Running arc | Arc, status, unrevealed Fact Map clues; paused and abandoned arcs with what they share | `ArcClues`, `RelatedArcs` in [[Arc and Session Views]] | Datacore (exists) |
 | Active plot threads | Active threads, each with its connected player characters, NPCs, items, locations, factions, lore, related plots and arcs | Plot Dashboard logic, moved to a shared component | Datacore |
+| Open issues | Flagged and Next session items from the Open Issues and Seeds Planted sections, Issues and Seeds side by side, with a link to the full view [[Open Issues]]; the same view as on the Session Hub | Items in the DM notes, links, tags | Datacore ([[Open Issues Views]]) |
 | Recent work | 15–20 notes by last edit; the view dropdown is the type filter: All · Sessions · Arcs and threads · NPCs · Lore and Keln · Player wiki · Maintenance. A "Where" column shows the first of `political_region`, `whereabouts` and `site` (display only) | mtime, type formula, location properties | Bases |
 | Vault health | Arcs and NPCs that need work, NPCs with no `whereabouts` (and not `deceased` or `unplaced`) or no disposition, places with no parent, artifacts without a world (Bases); then the Location checks: the core's 12 checks, one collapsible group each with a count, errors first, review lists last (Datacore). The Bases are simple views of DM notes; the checks know about twins | properties, tags, the location core | Bases; Datacore ([[Location Checks]]) |
 
 #### Workbenches (not built)
 
-Not built as of 2026-10-29. The hub as built has the top screen, Active plot threads, Recent work and Vault health (the table above); the plot dashboard, Recent Work, Vault Health and the Session Hub cover much of what these were for. Gerald's ruling of 2026-10-29: keep the as-built hub, and treat the workbenches as a design topic (Project map: DM Screen workbenches). The plan is kept below unchanged for that conversation.
+Not built as of 2026-10-29. The hub as built has the top screen, Active plot threads, Open issues, Recent work and Vault health (the table above); the plot dashboard, Recent Work, Vault Health and the Session Hub cover much of what these were for. Gerald's ruling of 2026-10-29: keep the as-built hub, and treat the workbenches as a design topic (Project map: DM Screen workbenches). The plan is kept below unchanged for that conversation.
 
 Planned as callouts below the top screen, folded by default:
 
 | Workbench | Contents | Engine |
 |---|---|---|
-| Campaign planning | Arcs grouped by status (idea, designing, ready, paused, abandoned); full [[Plot Dashboard]]; [[Seeds Planted]]; open hooks (`hook`, `offscreen` tags); unrevealed clues across all arcs | Bases (arcs, hooks); Datacore (clues across arcs) |
+| Campaign planning | Arcs grouped by status (idea, designing, ready, paused, abandoned); full [[Plot Dashboard]]; [[Open Issues]] (issues and seeds); open hooks (`hook`, `offscreen` tags); unrevealed clues across all arcs | Bases (arcs, hooks); Datacore (clues across arcs; open issues, built) |
 | Characters | Party sheets; recently seen NPCs (linked from the last 3 played sessions); NPCs tagged `needs-work`; improvised backlog grouped by `first_session` | Bases, except recently seen (Datacore: needs links from a computed set of notes) |
 | Encounters | [[Encounter Design Guide]], Encounter Template, [[Party Card Data]], [[NPC Stat Block Reference Table]], `Characters/Creatures` | Links and Bases |
 | Lore and Keln | `lore` notes; `world/keln` notes by last edit; [[Kanka_Master_Build_List]] | Bases |
@@ -92,6 +93,7 @@ Planned as callouts below the top screen, folded by default:
 | Spotlight | Each PC tagged `player` but not `player/inactive`: sessions since their note or personal thread was last linked from a played session. A plot note is a PC's personal thread when the PC's note links to it, or it links that PC and no other active PC | Links (`resolvedLinks`) | Datacore |
 | Prep progress | Which of prep steps 0–5 in the next session note have content | Section contents | Datacore |
 | Arc and clues | Running arc's unrevealed clues | `ArcClues` | Datacore (exists) |
+| Open issues | The same compact view as on the 00 DM Screen hub | Items in the DM notes, links, tags, properties | Datacore ([[Open Issues Views]]) |
 
 #### At the table
 
@@ -129,9 +131,18 @@ Built 2026-10-21. One hub per multi-part artifact; the Lorestone's is [[Loreston
 | Section | Shows | Engine |
 |---|---|---|
 | Overview | Each holder with the numbers of the shards they hold (embedded in the Lorestone DM note and Assembling the Lorestone) | Datacore ([[Artifact Hub Views]]) |
-| Shards | A card per shard: holder, location (the party's location when a PC holds it), who knows, pursued by, line dots (● read, ◐ modern version only, ○ not known); border color: green party holds, accent party knows where, red only the DM knows, gray no holder. More opens history, knowledge, pursuit, lines with their modern versions, open questions, sessions, rulings, notes | Datacore ([[Artifact Hub Views]]) |
+| Shards | A card per shard: holder, location (the party's location when a PC holds it), who knows, pursued by, line dots (● read, ◐ modern version only, ○ not known); border color: green party holds, accent party knows where, red only the DM knows, gray no holder. More opens history, knowledge, pursuit, lines with their modern versions, open issues, sessions, rulings, notes | Datacore ([[Artifact Hub Views]]) |
 | Who knows what | Factions (members folded under them), individuals, and the Party against the shards; shading by level (green with black: 45% knows it exists, 70% knows where, full green holds), gold for a false belief, ↗ pursuing; a person's lines also count for their factions (`faction/…` tags) and, for a PC, the party, unless the line is marked `personal` (the person only) or `shares with [[…]]` (only the factions named); filters for name, faction, place; click a cell for the lines behind it | Datacore ([[Artifact Hub Views]]) |
 | Record change | Form on each card: one History line, plus the matching update to Who knows, Pursued by, or Properties and rulings, including whom the person shares it with; defaults to today in-world and the last played session | Datacore ([[Artifact Change Form]]) |
+
+### Open Issues collector
+
+Built 2026-10-30. Every open item in the `## Open Issues` and `## Seeds Planted` sections of the DM notes, found by one Datacore view with no tracking note updated by hand. Datacore only: Bases cannot read note text, so it cannot tell which notes have open items. Design and decisions: [[Open Issues Spec]]. Rules for the two sections: [[Vault Conventions - DM]]. Code: [[Open Issues Views]].
+
+- **Full view:** [[Open Issues]]. An Issues | Seeds switch; five groupings (Priority, Note, Thread, Place, Type), remembered per device; filters for text, type, thread, running arc and where the party is. Priority bands: Flagged (`**Priority`), Next session (the running arc, notes it links to, notes linked from Where we left off, notes at or inside the party's place), Active threads, Upcoming, Everything else (collapsed). Format problems are listed at the bottom.
+- **Compact view:** `<OpenIssuesCompact />`, no props, identical on both hubs: Issues and Seeds side by side, Priority grouping, Flagged and Next session only, with a link to the full view.
+- **Shared pieces:** `plotConnections` in [[Plot Dashboard Views]] and `partyPlaceOf` in [[Session Hub Table]]; the plot dashboard, Where are we and the collector all call them.
+- **Migration record:** `z_Reference/Open Issues Review.md` (inventory and proposals) and the Phase log lines in the history note in `z_Archive/Vault Reorganization/`.
 
 ### Content to create
 
@@ -169,6 +180,7 @@ Facts that still apply:
 - Searches worth having on the hub: items, treasure, and traps and hazards. Monsters, spells, and vehicles are not (decided 2026-10-20).
 - The party card reads Roll20; nothing in the vault is typed by hand except Beacon characters' languages.
 - Quick-capture stubs carry `needs-work` (remove it when developed) and `improvised`; location and shop stubs live in `Stubs` inside the campaign folder, not under `Worlds/`.
+- The Open Issues compact view is the same on both hubs (2026-10-30, after Gerald saw both): Flagged and Next session, Issues and Seeds side by side; more is one click away in the full view. The first design gave the DM Screen hub a Thread grouping and an Issues | Seeds switch.
 
 ### Build order
 

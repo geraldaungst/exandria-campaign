@@ -120,7 +120,6 @@ Four feet tall, stout and barrel-chested, roughly thirty, ruddy and gap-toothed,
 
 ### Hooks
 
-- [ ] **The splurge items.** A few visibly expensive objects sit around the tavern, kept because Grent likes them rather than to show off. Unexplained. A reason to come back.
 - [ ] **The cheese cave.** Nobody gets in. Grent doesn't fully understand why the cave works, either.
 - [ ] **Banked trial ideas.** *Wheel-Balance Gauntlet* and *The Long Story*—unused challenges held for a return visit.
 
@@ -133,4 +132,4 @@ Four feet tall, stout and barrel-chested, roughly thirty, ruddy and gap-toothed,
 
 ### Seeds Planted
 
-- [ ] Grent's visibly expensive items around the tavern go unexplained. A hook if you want a reason to come back.
+- [ ] Grent's visibly expensive items around the tavern go unexplained: he keeps them because he likes them, not to show off. The party was told about them and paid little attention. [[Session 48]]

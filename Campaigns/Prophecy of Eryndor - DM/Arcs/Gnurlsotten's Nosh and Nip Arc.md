@@ -438,4 +438,4 @@ Genuinely, mildly annoyed. Every time.
 
 ### Seeds Planted
 
-- [ ] **Wheel-Balance Gauntlet** and **The Long Story**—unused trial ideas, banked for a return visit.
+- [ ]
