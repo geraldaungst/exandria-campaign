@@ -11,4 +11,4 @@ cssclasses: world-keln
 > [!info] Quick Reference
 > **Type:** Ruling monarch
 
-The current Right of Varrin is [[Dessarin the Ninth]].
+The current Right of Varrin is Dessarin the Ninth.

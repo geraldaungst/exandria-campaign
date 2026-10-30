@@ -28,7 +28,7 @@ It is said that she once served the Volstrucker, who are rumored to be the Dwend
 
 ## The Dagger
 
-She carried a dagger that Qalix had given her as a personal gift. She did not know it was the [[Blade of Maroth Fenn]].
+The dagger on her arm was the [[Blade of Maroth Fenn]].
 
 ## Death
 

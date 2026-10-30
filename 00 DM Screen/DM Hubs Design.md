@@ -150,7 +150,6 @@ Gaps:
 
 Open:
 - `z-Mechanics` reference tables are 2014 SRD (Conditions was rewritten to the 2024 rules on 2026-10-20; the others are not).
-- About 92 Player Wiki notes carry the old `world-exandria` tag instead of `world/exandria` (Player Wiki review; Recent Work's World column reads both forms meanwhile).
 - Scan the entire vault for cruft no longer in active use (stale notes, orphaned attachments, unused templates and code notes, empty folders) and list candidates before anything is removed: covered by the Duplicates and misfiled-notes pass.
 
 Done since the design: the old folder-note queries on `00 DM Screen.md` are gone; Calendarium has no events on old `90 Session Notes` paths and no Dreyara events after her death on 25 Thunsheer 835; the compendium links and the four `compendium` items are fixed; the Rendspawn notes and the monkey are in `Characters/Creatures`; Dataview is removed; the Artifact-Item Template was rewritten 2026-10-22; the Campaign Template asks for `world`; the Roll20 Attribute Dump note was archived 2026-10-29 (the `!party` script now runs in its API Scripts slot, see [[Roll20 Party Script]]).

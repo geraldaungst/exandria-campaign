@@ -229,6 +229,6 @@ The wiki is built in many runs, each with its own scope. The run's scope line co
 
 ### Do not
 
-- Modify `Keln/`, `Table Rules/`, or `Index.md` (except to propose a link to The World of Exandria if it is missing).
+- Modify `Keln/`, `Table Rules/`, or `Index.md` during a build run (except to propose a link to The World of Exandria if it is missing). The Player Wiki review of 2026-10-29 covered them directly.
 - Edit, rename, or delete any DM note. Only list renames.
 - Add facts that are not in the sources.

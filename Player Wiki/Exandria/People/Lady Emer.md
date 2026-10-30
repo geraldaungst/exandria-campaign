@@ -27,7 +27,7 @@ Lady Emer is a medusa. Living snakes grow from her head in place of hair, and he
 ## Reputation
 
 - She turns thieves, trespassers, and assistants who fail her to stone. She keeps them as statues in the keep's stone garden.
-- She can reverse her own petrification.
+- She can reverse the petrification she causes.
 
 ## Work for Vaud Qalix
 

@@ -4,13 +4,14 @@ tags:
   - world/exandria
   - campaign/eryndor
 ---
-# Rendspawn Stat Blocks - DM Reference
+
+## Rendspawn Stat Blocks - DM Reference
 
 Rendspawn are the early hints of [[Ceratos]]: the first things the party meets that come from the Far Realm.
 
 The stat blocks and encounter numbers below are pending a redesign for the 2024 rules (see Open Issues).
 
-## Campaign Progression Overview
+### Campaign Progression Overview
 
 - **Rendspawn (CR 9)**: Levels 7-11. First encounters near active rifts.
 - **Manifest Rendspawn (CR 13)**: Levels 12-17. Vaud's controlled forces.
@@ -30,30 +31,30 @@ The stat blocks and encounter numbers below are pending a redesign for the 2024 
 
 ---
 
-## Encounter Design Guidelines
+### Encounter Design Guidelines
 
-### Level 7-9 (First Contact)
+#### Level 7-9 (First Contact)
 
 - **2-3 Rendspawn** near active rift
 - Players don't know about regeneration weakness
 - Emphasize alien horror and grapple mechanics
 - One may escape to report back
 
-### Level 12-14 (Vaud's Forces)
+#### Level 12-14 (Vaud's Forces)
 
 - **1-2 Manifest Rendspawn** as guardians
 - May be accompanied by cultists or other creatures
 - Demonstrate tactical intelligence
 - Vaud's control is evident
 
-### Level 15-17 (Escalation)
+#### Level 15-17 (Escalation)
 
 - **2-3 Manifest Rendspawn** coordinated assault
 - Use Legendary Actions for dramatic tension
 - Can be bound/controlled until Vaud's death
 - Phase Step makes them slippery
 
-### Level 18-20 (The Truth)
+#### Level 18-20 (The Truth)
 
 - **1 Harbinger Rendspawn** observing party
 - Does not engage unless cornered
@@ -61,14 +62,14 @@ The stat blocks and encounter numbers below are pending a redesign for the 2024 
 - Later encounters: **1-2 Harbingers** actively pursuing mission
 - Final battles before Ceratos may include multiple Harbingers
 
-### Environmental Factors
+#### Environmental Factors
 
 - **Near Rifts**: Manifest/Harbinger regeneration strengthened
 - **Radiant Magic**: Most effective counter
 - **Dimensional Anchors**: Prevent Phase Step/Dimensional Step
 - **Multiple Targets**: Grapple mechanics shine with spread party
 
-## Open Issues
+### Open Issues
 
 - [ ] Redesign the stat blocks and the "2-3 Rendspawn" guideline for the 2024 rules. The first Rendspawn should frighten the party and may kill a PC; this party outperforms standard encounter budgets because of its magic items. First encounter: see [[Understanding the Rifts]].
 

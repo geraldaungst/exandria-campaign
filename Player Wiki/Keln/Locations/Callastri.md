@@ -21,4 +21,4 @@ Legend holds that [[The Ringhold]] was founded by five survivors of a lost coast
 
 ## Geography and Regions
 
-[[Callastri]] is bounded by the [[Kelvantor Mountains]], which separate [[Varrinthal Kingdom]]'s territory in the southeast from [[The Ringhold]]'s lands in the north and west. Between the two lies wide, wild country. Forests, hills, and open land where few settlements exist and travel is best done on known roads and rivers, like the [[Skarnveil]].
+[[Callastri]] is bounded by the [[Kelvantor Mountains]], which separate [[Varrinthal Kingdom]]'s territory in the southeast from [[The Ringhold]]'s lands in the north and west. Between the two lies wide, wild country. Forests, hills, and open land where few settlements exist and travel is best done on known roads and rivers, like the Skarnveil.

@@ -9,7 +9,7 @@ tags:
   - world/exandria
 ---
 
-The Blade of Maroth Fenn is a magical kukri-style dagger. [[Dreyara Drimvar]] carried it as a personal gift from [[Vaud Qalix]], without knowing what it was.
+The Blade of Maroth Fenn is a magical kukri-style dagger. [[Dreyara Drimvar]] carried it.
 
 ## Description
 

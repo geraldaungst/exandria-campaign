@@ -12,6 +12,9 @@ whereabouts: "[[Zadash - DM]]"
 
 ## Quick Reference
 
+> [!quote]- What players know
+> ![[The Gentleman]]
+
 > [!info] Essential Details
 > - **Where he is:** beneath the Evening Nip in [[Zadash - DM|Zadash]], and the tunnels that came with the seat
 > - **Who he is to Zadash:** the Gentleman, head of the [[Myriad - DM|Myriad]] there. Nobody knows he is Korfel Withrethin, or that he is not the original Gentleman
