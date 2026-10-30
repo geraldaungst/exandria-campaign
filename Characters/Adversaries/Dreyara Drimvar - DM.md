@@ -83,6 +83,11 @@ Deceased. Killed by the Third Act outside the rear entrance of the [[Monastery o
 - [ ] Her old Volstrucker contacts: does anyone learn she worked for Qalix, and does the Empire hear of her death?
 - [ ] Her other agents and contacts (Brunhilda, her watchers in Port Damali, her unnamed Rexxentrum contacts) are listed as open in [[Qalix's Network]]. Design as needed
 
+## Seeds Planted
+
+- [ ] Mentioned [[Valen Elderguard]], who is leader of the [[Emissaries of the Sunfall - DM]]. [[Session 19 - Interrogating Radelia|Session 19]]
+- [ ] Also mentioned someone called "The Eye". [[Session 19 - Interrogating Radelia|Session 19]]
+
 ## Connected Elements
 
 ![[Related Notes.base]]

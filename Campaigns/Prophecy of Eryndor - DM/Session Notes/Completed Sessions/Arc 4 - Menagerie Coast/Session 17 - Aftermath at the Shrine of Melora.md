@@ -109,10 +109,6 @@ When roleplaying **Rinneth Starsong**, a balance between cautious openness and p
 
 - [[Dreyara Drimvar - DM]] was mentioned
 
-### Unresolved Elements
-
-- Party have not yet talked to [[Radelia Caphax]], who likely has some useful information about the [[Lorestone of Eryndor - DM]] as well as the [[Emissaries of the Sunfall - DM]].
-
 ## Where we left off
 
 - **Party location:** Shrine of Melora

@@ -63,6 +63,10 @@ Recently returned from the Whitestone festival via the [[Session 1 - The Skyship
 > [!note]- Background
 > Born to a wealthy landowner in a frontier town. Normal childhood, married into minor nobility, spouse died of illness. Inherited the family business including Cithrel Textiles, which she's maintained for 6 years. The Cord uses a section of the Cithrel Textiles warehouse in [[Odessloe]] for records and meetings.
 
+## Seeds Planted
+
+- [x] The party had not yet talked to her; she likely has useful information about the [[Lorestone of Eryndor - DM]] and the [[Emissaries of the Sunfall - DM]]. Followed up in Session 19. [[Session 17 - Aftermath at the Shrine of Melora|Session 17]]
+
 ## Connected Elements
 
 ![[Related Notes.base]]

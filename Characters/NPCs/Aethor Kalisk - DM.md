@@ -57,6 +57,11 @@ Headquartered in [[Port Damali - DM]] while researching Lorestone assembly. Has 
 > [!note]- Background
 > Key researcher for the [[Obsidian Echoforge - DM]]. Originally based in [[Hupperdook]], where he saved [[Lyren Willowwhisper]] from an ambush using one of his devices. After years of persistent recruitment by Lyren—including showing him a Lorestone fragment that resonated with his research—he joined as the Echoforge's leading researcher on arcane refraction.
 
+## Seeds Planted
+
+- [ ] Met with [[Calderax Dunhall]]. [[Session 19 - Interrogating Radelia|Session 19]]
+- [ ] Also visited the PD Cobalt Soul library (met with [[Archivist Vani]] who also helped the players). [[Session 19 - Interrogating Radelia|Session 19]]
+
 ## Connected Elements
 
 ![[Related Notes.base]]

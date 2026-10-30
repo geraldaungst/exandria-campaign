@@ -56,7 +56,6 @@ About 520 PD, [[Ilixidor Alo]] used a Lorestone shard, with no Luxon Beacon, to 
 #### Faction Knowledge Evolution
 
 - [ ] The [[Obsidian Echoforge - DM]] originally believed only 5 shards existed based on gaps in their reconstructed prophecy.
-- [ ] Shard 6 surfacing in Marquet raised their count to six. Whether anyone in the world suspects more than six is undecided; the party should be the ones to work it out.
 - [ ] They currently assume the Stonefoot Compass lead will take them to Shard 5, unaware it actually points to Shard 7.
 - [ ] The party knows Shard 5 is in Rexxentrum and carries the compass, so they are positioned to be first to realize the compass shard is a seventh.
 - [ ] When all 7 Exandrian shards are assembled and fail to fit together correctly, this will reveal the existence of a final 8th piece—which is no longer on Exandria.
@@ -77,6 +76,10 @@ About 520 PD, [[Ilixidor Alo]] used a Lorestone shard, with no Luxon Beacon, to 
 - [[Celdric Ambril]] doesn't know Shard 6's significance or true owner
 - **The prophecy's "beacon bright" refers to the Luxon Beacon, not the Lorestone**
 - **Only [[Aveqtaro Thaan]], once her memories as [[Cadariel Ordo]] are recovered, can have complete knowledge of the dual-artifact requirement**
+
+### Open Issues
+
+- [ ] Shard 6 surfacing in Marquet raised the [[Obsidian Echoforge - DM|Echoforge]]'s count to six. Whether anyone in the world suspects more than six is undecided; the party should be the ones to work it out.
 
 ### Connected Elements
 

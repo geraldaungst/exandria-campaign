@@ -28,10 +28,6 @@ tags:
 - Found the compass in the stomach of the snail.
 - Collected the remaining herbs needed by Dechs.
 
-### Player Choices & Seeds
-
-- Future hooks: Dechs needs to return to [[Zadash - DM]] to turn in her herbs
-
 ## Where we left off
 
 - **Party location:** Othemoor swamp, at the willows

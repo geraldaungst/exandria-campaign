@@ -83,6 +83,10 @@ Event known through multiple sources:
 - [[Hesterian Shyr - Dot|Hesterian]]'s investigation (incomplete knowledge)
 - Assembly records (restricted access)
 
+## Open Issues
+
+- [ ] Political ramifications when [[Hesterian Shyr - Dot|Hesterian]] discovers the capture. See Potential Consequences.
+
 ## Connected Elements
 
 ![[Related Notes.base]]

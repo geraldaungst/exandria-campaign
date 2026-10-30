@@ -130,3 +130,7 @@ Four feet tall, stout and barrel-chested, roughly thirty, ruddy and gap-toothed,
 
 - **Courier route** to **[[Torvald Halsen|Torvald]]** at the **White Peak Inn** in [[Deastok]]—Grent sends cheese down regularly.
 - On the road toward [[Deastok]] and, beyond it, [[Zadash - DM]].
+
+### Seeds Planted
+
+- [ ] Grent's visibly expensive items around the tavern go unexplained. A hook if you want a reason to come back.

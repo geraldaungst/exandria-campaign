@@ -436,7 +436,6 @@ Genuinely, mildly annoyed. Every time.
 
 ---
 
-### Loose Threads
+### Seeds Planted
 
-- **Wheel-Balance Gauntlet** and **The Long Story**—unused trial ideas, banked for a return visit.
-- Grent's visibly expensive items around the tavern go unexplained. A hook if you want a reason to come back. See [[Gnurlsotten's Nosh & Nip - DM]].
+- [ ] **Wheel-Balance Gauntlet** and **The Long Story**—unused trial ideas, banked for a return visit.

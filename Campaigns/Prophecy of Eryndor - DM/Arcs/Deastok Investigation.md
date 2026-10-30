@@ -423,12 +423,11 @@ If the party never engages, or engages and does nothing about the deadline:
 
 Nobody tells them they missed anything. The world just keeps quietly pointing at it.
 
-## Loose Threads
+## Seeds Planted
 
-- Jorun does not recover. If the party passes back through Deastok, he still isn't sleeping right.
-- Bramwell's contact stays dormant unless the party engages: Erma Schnieb's network, and the long-fuse defection risk ([[Bramwell Bellweather]]).
-- Bella, the stall owner and Wenna's other patients keep dreaming, and nobody explains it to them.
-- The High Elven wording of the shard's verse does not match what Seraphina remembers from childhood. Nothing explains the difference yet.
+- [ ] Jorun does not recover. If the party passes back through Deastok, he still isn't sleeping right.
+- [ ] Bella, the stall owner and Wenna's other patients keep dreaming, and nobody explains it to them.
+- [ ] The High Elven wording of the shard's verse does not match what Seraphina remembers from childhood. Nothing explains the difference yet.
 
 ---
 

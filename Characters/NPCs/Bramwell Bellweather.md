@@ -55,6 +55,10 @@ Stout, formally dressed. Sits alone near the fire with a drink he hasn't touched
 > [!note]- Stats
 > Passive Insight 14. Deception +5, Insight +4. No combat stats; not expected to fight.
 
+## Seeds Planted
+
+- [ ] Bramwell's contact stays dormant unless the party engages: Erma Schnieb's network, and the long-fuse defection risk.
+
 ## Connected Elements
 
 ![[Related Notes.base]]

@@ -79,5 +79,3 @@ Barret Giliam - halfling male, 30 years old
 Devon Ilda - rock gnome female, 51 years old
 
 Vita Brenatto - human female, 23 years old
-
-## [[Seeds Planted]]

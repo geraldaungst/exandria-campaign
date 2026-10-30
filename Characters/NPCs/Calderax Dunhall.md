@@ -55,6 +55,10 @@ No onscreen scenes since Session 26. What the party learned there: the shard Cal
 - [ ] Does the Echoforge or Aelorin learn that he lost Shard 6?
 - [ ] Does he go on brokering Keldar's map after Aethor's deadline lapsed?
 
+## Seeds Planted
+
+- [ ] Also met with [[Dreyara Drimvar - DM]]. [[Session 19 - Interrogating Radelia|Session 19]]
+
 ## Connected Elements
 
 ![[Related Notes.base]]

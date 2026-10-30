@@ -20,7 +20,7 @@ tags:
 
 # What's Happening Now
 
-- Nothing is running here. Aethor's visits are in [[Seeds Planted]].
+- Nothing is running here. Aethor's visits are in [[Aethor Kalisk - DM]].
 
 # Secrets
 

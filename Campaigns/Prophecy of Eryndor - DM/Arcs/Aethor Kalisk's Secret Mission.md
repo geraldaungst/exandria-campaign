@@ -87,5 +87,3 @@ None paid. The party kept the compass and did not tell Aethor, so there was no d
 [[Calderax Dunhall]]
 [[Keldar Stonefoot - DM]]
 ---
-
-## [[Seeds Planted]]

@@ -97,8 +97,6 @@ Rangimarie (RAHN-gee-mah-ree-ay) - Meaning "peace" or "serenity."
 
 Kaihoko (kai-HO-ko) - A name meaning "seeker" or "traveler."
 
-## [[Seeds Planted]]
-
 ## Where we left off
 
 - **Party location:** The crypt under the [[New Temple of Moradin - DM|New Temple of Moradin]], in the last chamber, where a rift opens from a hole in the floor

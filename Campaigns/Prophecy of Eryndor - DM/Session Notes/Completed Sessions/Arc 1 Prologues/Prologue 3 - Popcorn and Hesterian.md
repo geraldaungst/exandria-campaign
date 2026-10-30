@@ -131,5 +131,3 @@ Adano Cora, 39 - An earth genasi with skin that resembles polished stone and sho
 Nara Zenya, 44 - This dragonborn's bronze scales glint in the light, with her head crowned by a short crest of darker bronze spikes. She wears armor that accentuates her stature, decorated with the emblems of her lineage. Clutched in one hand is a family heirloom, a beautifully crafted dragon-headed staff.
 
 Vita Bensharo, 23 - Vita has dark brown skin and long, flowing black hair. She favors vibrant, flowing dresses that reflect her adventurous spirit. Her most cherished item is a map satchel, always slung over her shoulder, filled with charts of places she dreams of visiting.
-
-## [[Seeds Planted]]

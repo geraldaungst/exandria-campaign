@@ -29,3 +29,7 @@ Seraphina did not know that the growing corruption had its source far away from 
 ## Important Beats or Callbacks to tie in
 
 - Seraphina's mother's death - connect it to the [[Ruins of Molaesmyr - DM]]? What's the consequence 200+ years later?
+
+## Open Issues
+
+- [ ] Seraphina's mother's death: connect it to the [[Ruins of Molaesmyr - DM]]? What is the consequence 200+ years later?
