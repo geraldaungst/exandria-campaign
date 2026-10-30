@@ -85,5 +85,5 @@ Anyone - Danoth's Visor, Jewel of Three Prayers, Verminshroud, Kiss of the Chang
 
 ## Open Issues
 
-- Several medium and long term beats are blank: Popcorn, Laucian and Dechs (medium term); Hesterian, Qilynn, Popcorn, Laucian and Dechs (long term). Fill them from each player's goals.
-- Does Laucian rejoin the party? He turned back with Varnes on 21 Thunsheer 835 and has not returned.
+- [ ] Several medium and long term beats are blank: Popcorn, Laucian and Dechs (medium term); Hesterian, Qilynn, Popcorn, Laucian and Dechs (long term). Fill them from each player's goals.
+- [ ] Does Laucian rejoin the party? He turned back with Varnes on 21 Thunsheer 835 and has not returned.

@@ -55,7 +55,7 @@ Planned, not yet played.
 
 ## Open Issues
 
-- How did Lady Emer restore Varnes from stone? She agreed to bring him back ([[Session 37 - Confronting Lady Emer|Sessions 37]] and [[Session 38 - What to Do with Lady Emer?|38]]) and the party freed him on 19 Thunsheer. The method, and any cost to Emer or Varnes, are not recorded.
+- [ ] How did Lady Emer restore Varnes from stone? She agreed to bring him back ([[Session 37 - Confronting Lady Emer|Sessions 37]] and [[Session 38 - What to Do with Lady Emer?|38]]) and the party freed him on 19 Thunsheer. The method, and any cost to Emer or Varnes, are not recorded.
 
 ## Connected Elements
 
