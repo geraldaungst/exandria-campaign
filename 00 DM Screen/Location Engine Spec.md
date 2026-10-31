@@ -197,7 +197,7 @@ Code notes keep their header format (Purpose, Exports, Depends on, Used by, then
 
 ### 7. Migration
 
-One script, `migrate_location.py` (finished; archived 2026-10-29 to `z_Archive/Scripts/`), with `--dry-run` (default), `--apply` and `--undo <manifest>`. It edits only the frontmatter keys and tags named here and leaves every other line as it is. Steps run in this order, each as its own batch with Gerald's approval, on a copy first.
+One script, `migrate_location.py` (finished; archived 2026-10-29; now in the Pass Archive under `z_Archive/Scripts/`), with `--dry-run` (default), `--apply` and `--undo <manifest>`. It edits only the frontmatter keys and tags named here and leaves every other line as it is. Steps run in this order, each as its own batch with Gerald's approval, on a copy first.
 
 0. **Inventory and review file.** List every `place/…` and `region/…` value (36 distinct DM values on 2026-10-27; 47 NPCs, 34 location notes and 4 arcs carry `place/`; 68 NPCs, 35 location notes, 8 factions, 4 lore notes, 1 artifact and 5 other notes carry `region/`) and every note carrying them, with a proposed mapping. Write it to `z_Reference/Location Migration Review.md` (no frontmatter) as tables Gerald can edit:
    - each tag value → the place note it means (by slug, as `placeNoteFor` does), or "no note";

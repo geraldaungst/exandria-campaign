@@ -5,7 +5,7 @@ cssclasses:
 
 ## Vault Reorganization Status: DM Vault
 
-Location: the DM Screen folder. The plugin migration is complete; its note, [[Plugin Migration Status - DM]], was archived to `z_Archive/Plugin Migration/` on 2026-10-29 and its standing rules moved to [[Vault Conventions - DM]]. This note holds current state, the rules for every pass and the remaining work. History is condensed (2026-10-30): the Stage summary at the bottom says what each stage did, and the full Phase log of 2026-10-22 to 2026-10-30 sits in [[Vault Reorganization History 2026-10-22 to 2026-10-30]] in `z_Archive/Vault Reorganization/`. Read the history only when a question needs the exact record of a past change.
+Location: the DM Screen folder. The plugin migration is complete; its note, Plugin Migration Status - DM, was archived on 2026-10-29 and its standing rules moved to [[Vault Conventions - DM]]. This note holds current state, the rules for every pass and the remaining work. History is condensed (2026-10-30): the Stage summary at the bottom says what each stage did, and the full Phase log of 2026-10-22 to 2026-10-30 sits in the note Vault Reorganization History 2026-10-22 to 2026-10-30. On 2026-10-30 the finished-pass material (every pass backup, the one-use scripts, the old plans, the history note and Open Issues Review) was moved out of the vault to the Pass Archive, `DM Vault Deprecated Content/2026-10-30 Reorganization/` beside the vault. It keeps the vault paths, so a path below such as `z_Archive/Scripts/…` or `z_Reference/template-backups/…` is read inside the Pass Archive. Read the history only when a question needs the exact record of a past change.
 
 ### How Claude should use this note
 
@@ -14,7 +14,7 @@ Location: the DM Screen folder. The plugin migration is complete; its note, [[Pl
 
 ### Project map
 
-**Vault reorganization. You are here: note triage, Review of the remaining areas done 2026-10-29 (Worlds and Creatures, Sessions, One-Shots, DM Screen tools and code, and Player Wiki, Checkpoints included); the Duplicates and misfiled-notes pass done 2026-10-29 (survey, batches 1 and 2, Checkpoint); the Secrets-as-checklists pass done 2026-10-29 (batches 1 to 5, Checkpoint, Obsidian checks passed); the Open Issues collector done 2026-10-30 ([[Open Issues Spec]]; build steps 1 to 8; migration; priority review of the 217 open issues, 19 marked; Checkpoint passed); the Opus faction pass done 2026-10-30 (three core factions rebuilt, four atomic notes, the Artifact Pieces holder fix); the Eledyr pass done 2026-10-30 (Eledyr Dephar rewritten; he is in Zadash); the Open Issues copies cleanup done 2026-10-30 (the 18 Priority issues in batches 1 and 2, non-Priority clusters in batch 3); the Confirmations for Final verification done 2026-10-30 (Lore and z_Templates confirmed, Vault Conventions counts recounted); this status note condensed 2026-10-30; Final verification done 2026-10-30; next the vault sync migration, in its own conversation**
+**Vault reorganization. You are here: note triage, Review of the remaining areas done 2026-10-29 (Worlds and Creatures, Sessions, One-Shots, DM Screen tools and code, and Player Wiki, Checkpoints included); the Duplicates and misfiled-notes pass done 2026-10-29 (survey, batches 1 and 2, Checkpoint); the Secrets-as-checklists pass done 2026-10-29 (batches 1 to 5, Checkpoint, Obsidian checks passed); the Open Issues collector done 2026-10-30 ([[Open Issues Spec]]; build steps 1 to 8; migration; priority review of the 217 open issues, 19 marked; Checkpoint passed); the Opus faction pass done 2026-10-30 (three core factions rebuilt, four atomic notes, the Artifact Pieces holder fix); the Eledyr pass done 2026-10-30 (Eledyr Dephar rewritten; he is in Zadash); the Open Issues copies cleanup done 2026-10-30 (the 18 Priority issues in batches 1 and 2, non-Priority clusters in batch 3); the Confirmations for Final verification done 2026-10-30 (Lore and z_Templates confirmed, Vault Conventions counts recounted); this status note condensed 2026-10-30; Final verification done 2026-10-30; the Pass Archive move done 2026-10-30; next the vault sync migration, in its own conversation**
 
 **Done**
 1. Structure
@@ -33,6 +33,7 @@ Location: the DM Screen folder. The plugin migration is complete; its note, [[Pl
 14. Open Issues copies cleanup (2026-10-30, Sonnet): an issue raised on several notes now stays open only on the note it concerns; each copy is ticked with `(Open on` and a link to that note. 28 copies ticked across the 18 Priority issues and 9 further clusters; the Consecution's Hope line lists the three notes to revisit when it resolves. 182 open issues remain
 15. Confirmations for Final verification (2026-10-30, Sonnet): Lore (`world/exandria` on 10 notes, Prophecy General Info items 6 and 8 brought into line with the faction ruling, one Open Issue added, a template placeholder and a typo fixed); z_Templates (Hub Config gained `tag_encounter`; Note Refactor Template gained the placeholder fix and the two sections); Vault Conventions counts recounted from the vault and the `world/` rule clarified
 16. Final verification (2026-10-30, Sonnet): Review coverage and Vault Conventions counts done; link scan 0 new; no retired tags or properties on live notes; no temporary notes, stray scripts or non-`.bak` backups; Gerald's Obsidian check of The Prophecy passed; the Claude project's Player Wiki Build Conventions refreshed from the vault
+17. Pass Archive move (2026-10-30, Sonnet): 1,847 files (28 MB) moved out of the vault to `DM Vault Deprecated Content/2026-10-30 Reorganization/`: every pass backup, the one-use scripts, the old plans and history, Open Issues Review. Copied and checksum-verified before the originals were removed; references fixed in five notes. `z_Archive/Campaigns` and `z_Archive/Objects` stay
 
 **In progress**
 - Nothing is running now. Everything under Still to come waits on Gerald or on its own conversation.
@@ -109,7 +110,7 @@ Decided with Gerald 2026-10-25. They apply to every conversation on this project
 - Never write a plugin's settings file unless the plugin documents it.
 - Obsidian is closed during edits unless Gerald says otherwise. Say when he should close it and when he can reopen it.
 - Claude can't delete files; name them for Gerald.
-- Each batch ends with a Phase log line: `YYYY-MM-DD | phase | what changed | result`. Keep lines short: what changed, the result, the backup folder. At each stage's Checkpoint, condense that stage's lines into one row of the Stage summary and move the full lines to the history note in `z_Archive/Vault Reorganization/`, so the next conversation reads a small note.
+- Each batch ends with a Phase log line: `YYYY-MM-DD | phase | what changed | result`. Keep lines short: what changed, the result, the backup folder. At each stage's Checkpoint, condense that stage's lines into one row of the Stage summary and move the full lines to a history note in `z_Archive/Vault Reorganization/` (the 2026-10-22 to 2026-10-30 one is in the Pass Archive), so the next conversation reads a small note.
 
 #### Models and conversations
 
@@ -135,17 +136,17 @@ Every row names the pass that picks it up. Rows are removed when done; the Phase
 
 ### Archived documents
 
-Archived to `z_Archive/Vault Reorganization/`. Nothing in them is maintained; every open task is tracked here. Because `z_Archive` is excluded from search and Bases, anything still needed is copied into this note.
+Moved to the Pass Archive on 2026-10-30. Nothing in them is maintained; every open task is tracked here. Because the Pass Archive is outside the vault, anything still needed is copied into this note.
 
 | Document | Final state |
 |---|---|
-| [[Vault Reorganization History 2026-10-22 to 2026-10-30]] | The full Phase log (2026-10-22 to 2026-10-30), the Current state tables and the finished Remaining work items, as they stood on 2026-10-30 |
-| [[DM_Vault_Reorganization_Plan]] | Phases 1-7 done. Phase 8 replaced by Revised Phase 8 |
-| [[Revised Phase 8]] | Parts A to F done (see Completed plans) |
-| [[Exandria Vault Reorganization]] | Superseded. 38 of 73 tasks done; the 35 open tasks depend on the retired `processed` property and Dataview blocks |
-| [[npc-folder-audit]] | Phases 1 to 5 done (see Completed plans) |
+| Vault Reorganization History 2026-10-22 to 2026-10-30 | The full Phase log (2026-10-22 to 2026-10-30), the Current state tables and the finished Remaining work items, as they stood on 2026-10-30 |
+| DM_Vault_Reorganization_Plan | Phases 1-7 done. Phase 8 replaced by Revised Phase 8 |
+| Revised Phase 8 | Parts A to F done (see Completed plans) |
+| Exandria Vault Reorganization | Superseded. 38 of 73 tasks done; the 35 open tasks depend on the retired `processed` property and Dataview blocks |
+| npc-folder-audit | Phases 1 to 5 done (see Completed plans) |
 
-The Dataview code in these documents is documentation only. Dataview is no longer enabled (2026-10-27). Do not convert it. Other archives from this project: `z_Archive/Scripts/` (old scripts, including `migrate_location.py` and `rename_backups_bak.py`), `z_Archive/Location Migration/`, `z_Archive/NPC Tag Cleanup/`.
+The Dataview code in these documents is documentation only. Dataview is no longer enabled (2026-10-27). Do not convert it. Other archives from this project are in the Pass Archive: `z_Archive/Scripts/` (old scripts, including `migrate_location.py` and `rename_backups_bak.py`), `z_Archive/Location Migration/`, `z_Archive/NPC Tag Cleanup/`.
 
 ### Rules to apply
 
@@ -197,7 +198,8 @@ Decided with Gerald during the project. Rules about note content (tags, properti
 
 ### Undo and recovery
 
-- Restore a note from a backup: remove the `.bak` and copy it over the live note. Dated folders are in `z_Reference/template-backups/`.
+- Backups, manifests and one-use scripts moved to the Pass Archive on 2026-10-30. Restore from there: copy the file back to its vault path and remove the `.bak`. `z_Reference/template-backups/` is gone from the vault; the next pass creates it again.
+- Restore a note from a backup: remove the `.bak` and copy it over the live note. Dated folders are in `z_Reference/template-backups/` (in the Pass Archive).
 - Location migration manifests (with `--undo`): `2026-10-27 Location migration step 1`, `step 2`, `step 3`, `2026-10-28 Location migration step 5`, each with a `manifest.json`. The script is `z_Archive/Scripts/migrate_location.py`; copy it back to `.scripts` to use it. Command shape: `python3.scripts/migrate_location.py <properties|embeds|folders|tags> --undo "<manifest path>"`.
 - Older scripts with `--undo` (`fix_links_batch1` to `4`, `prune_plot_threads` and others, now in `z_Archive/Scripts/`) look for plain `.md` backup names: remove the `.bak` first. `rename_backups_bak.py --undo` reverses the 2026-10-28 `.bak` rename.
 - The 16 Calendarium backup renames (2026-10-23) are listed in `z_Reference/template-backups/2026-10-23 calendarium backup copies/rename manifest.json.bak`.
@@ -259,7 +261,7 @@ See the Project map at the top of this note. The step marked "now" is the next s
 
 ### Stage summary
 
-Each stage ended with a Checkpoint: link scan at the baseline (0 new), tags and properties against Vault Conventions, backup endings, leftovers, Parked work rows with a pass. Backups of every change are in dated folders under `z_Reference/template-backups/`. The exact lines are in the history note.
+Each stage ended with a Checkpoint: link scan at the baseline (0 new), tags and properties against Vault Conventions, backup endings, leftovers, Parked work rows with a pass. Backups of every change are in dated folders under `z_Reference/template-backups/` (in the Pass Archive since 2026-10-30). The exact lines are in the history note.
 
 | Stage | Dates | What it did | Result |
 |---|---|---|---|
@@ -281,6 +283,7 @@ Each stage ended with a Checkpoint: link scan at the baseline (0 new), tags and 
 | Open Issues copies cleanup | 2026-10-30 | Gerald chose the pointer format (a copy is ticked with `(Open on` and a link to the home note); the 18 Priority issues scanned for copies by meaning (13 copies ticked in batches 1 and 2), then the scope widened to non-Priority issues (batch 3: 9 more clusters, 15 copies, homes agreed with Gerald) | Link scan 0 new; Open Issues 182 open, 41 closed, 18 priority, 14 open seeds, 0 problems |
 | Confirmations for Final verification | 2026-10-30 | Lore: `world/exandria` on 10 notes, Prophecy General Info items 6 and 8 and a new Open Issue, a template placeholder and a typo. z_Templates: `tag_encounter` in Hub Config; Note Refactor Template placeholder and the two sections. Vault Conventions: every count recounted, `world/` rule clarified | Link scan 0 new; all test suites pass; Open Issues 183 open, 41 closed, 18 priority, 14 open seeds, 0 problems |
 | Final verification | 2026-10-30 | Link scan; retired tags and properties; leftovers (temporary notes, scripts, empty folders, backup endings); Claude project check (vault repo removed by Gerald, campaign content now added by folder; Player Wiki Build Conventions refreshed); Gerald's Obsidian check of The Prophecy | Link scan 0 new; no retired tags or properties on live notes; Arc 6 - Deastok is the only empty folder (kept on purpose) |
+| Pass Archive move | 2026-10-30 | Gerald asked for files not part of the active vault to be collected outside it. Scan; script `move_out.py` (dry run, tested on a copy, copy with checksums, remove); references fixed in this note, DM Hubs Design, Open Issues Spec, Location Engine Spec and Vault Conventions | 1,847 files (28 MB) moved; link scan 0 new |
 
 ### Phase log
 
@@ -294,7 +297,7 @@ Newest at the bottom. Format: `YYYY-MM-DD | phase | what changed | result`. Full
 
 2026-10-29 | Delete list check | Every file named for deletion earlier is gone; kept on purpose: 55 unreferenced Roll20 tokens in z_Assets, the Alt trees in z-Mechanics | Files for Gerald to delete: none
 
-2026-10-30 | Status note condensed (Sonnet) | Gerald asked for a review of the whole note for stale or inaccurate text and a condensed log. Moved the full Phase log (155 KB), Current state and Remaining work to [[Vault Reorganization History 2026-10-22 to 2026-10-30]]; replaced them with Rulings, Undo and recovery, Link scan baseline, Completed plans, Open design items, Review coverage, Final verification and the Stage summary. Fixed stale text: counts in the review table (recounted), the Ruins of Molaesmyr planned target (the old text said Marethis), the 'Known quirks' reference in the Vault sync row, the pre-Region-rule tag counts and the retired 'Remaining work' items; added a Parked row for the Shard Who knows lines | Backup in z_Reference/template-backups/2026-10-30 Status note condense/before (.bak)
+2026-10-30 | Status note condensed (Sonnet) | Gerald asked for a review of the whole note for stale or inaccurate text and a condensed log. Moved the full Phase log (155 KB), Current state and Remaining work to Vault Reorganization History 2026-10-22 to 2026-10-30 (now in the Pass Archive); replaced them with Rulings, Undo and recovery, Link scan baseline, Completed plans, Open design items, Review coverage, Final verification and the Stage summary. Fixed stale text: counts in the review table (recounted), the Ruins of Molaesmyr planned target (the old text said Marethis), the 'Known quirks' reference in the Vault sync row, the pre-Region-rule tag counts and the retired 'Remaining work' items; added a Parked row for the Shard Who knows lines | Backup in z_Reference/template-backups/2026-10-30 Status note condense/before (.bak)
 
 2026-10-30 | Open Issues build step 8 of 8 (Sonnet) | Documentation, each draft approved by Gerald: Vault Conventions (the two sections, closing words, Priority label, hooks versus seeds, Who knows lines as a permanent exception), Hub Config prose, DM Hubs Design (module, collector section, both hub tables, Campaign planning row), Open Issues Spec (status, as-built record in section 6), Open Issues Review (what happened). Gnurlsotten's Nosh & Nip - DM: the splurge-items hook merged into its seed (Session 48 link); the Gnurlsotten arc's Seeds Planted line (banked trial ideas, never shown to the players, already a hook on the place note) removed. This note: Project map, Done item 11, Still to come (new item 2, Open Issues copies cleanup), Shard Who knows Parked row removed, Stage summary; the 13 collector Phase log lines moved to the history note; migrate_step2/3/4.py and mark_priority.py moved to z_Archive/Scripts | Full-vault run: 217 open issues, 2 closed, 19 priority, 11 open seeds (1 closed) in 8 notes, 0 format problems. Backup in z_Reference/template-backups/2026-10-30 Open Issues build step 8/before (.bak)
 
@@ -318,3 +321,5 @@ Newest at the bottom. Format: `YYYY-MM-DD | phase | what changed | result`. Full
 2026-10-30 | Confirmations for Final verification (Sonnet) | Gerald approved each draft. Lore row: `world/exandria` added to 10 notes (script tested on a copy); Prophecy General Info items 6 and 8 rewritten to the faction ruling and an Open Issue added (do the Emissaries know the Cord exists); Modern Text placeholder and Original Form typo fixed. z_Templates row: Hub Config gained `tag_encounter: encounter`; Note Refactor Template placeholder replaced and Open Issues and Seeds Planted added. Vault Conventions: counts recounted (world, unplaced, campaign, needs-work, NPC, Faction, Location, Artifact, Lore, Atomic, Encounter, DM Screen tools) and the `world/` rule clarified. Gerald deleted Arcs/Untitled.md (an empty plot thread stub). Review coverage and Final verification rows updated; the stale-counts Parked row removed | Link scan 47 outside code (43 planned, 4 known), 0 new. All test suites pass. Open Issues 183 open, 41 closed, 18 priority, 14 open seeds, 0 problems. Not opened in Obsidian. Files for Gerald to delete: none. Backups in z_Reference/template-backups/2026-10-30 Lore confirmation, 2026-10-30 z_Templates confirmation, 2026-10-30 Vault Conventions counts and 2026-10-30 Confirmations status note (.bak)
 
 2026-10-30 | Final verification (Sonnet) | Link scan, retired tags and properties on live notes, leftovers (temporary notes, scripts, empty folders, backup endings), Review coverage and Vault Conventions counts checked. Claude project: Gerald removed the vault repo; campaign content now reaches the project by adding the vault folder from his computer. The project's Player Wiki Build Conventions (stale: it still told Claude to add region/ tags) was replaced with the vault copy; its other documents are standalone and left as they are. Gerald's Obsidian check of The Prophecy passed (items 6 and 8 read correctly, no Open Issues section in the embed). Project map, Done 16, Still to come, Final verification table, Parked work row and Stage summary updated | Link scan 47 outside code (43 planned, 4 known), 0 new. No retired tags or properties on live notes. Only empty folder: Arc 6 - Deastok (kept on purpose). Files for Gerald to delete: none. Backup in z_Reference/template-backups/2026-10-30 Final verification status note/before (.bak)
+
+2026-10-30 | Pass Archive move (Sonnet) | Gerald approved the scope (template-backups, the old-procedure folders in z_Archive, Open Issues Review) and the destination `DM Vault Deprecated Content/2026-10-30 Reorganization/`. `.DS_Store` files left alone (Finder recreates them). `move_out.py` tested on a copy, then run on the vault: 1,847 files copied and checksum-verified, originals removed with Gerald's delete permission. Manifest and script saved in the Pass Archive. Kept in the vault: z_Archive/Campaigns and Objects, z_Templates, .scripts, z-Mechanics, z_Assets. References fixed in this note, DM Hubs Design, Open Issues Spec, Location Engine Spec and Vault Conventions (wikilinks to the moved notes became plain names) | Link scan 47 outside code (43 planned, 4 known), 0 new. Only empty folder: Arc 6 - Deastok (kept on purpose). Files for Gerald to delete: none. Backup of the five notes in z_Reference/template-backups/2026-10-30 Pass Archive move/before (.bak)

@@ -2,7 +2,7 @@
 
 How notes are tagged and what frontmatter they carry. Derived on 2026-10-22 from an audit of the vault's notes outside `z_` folders, the templates and code notes, and a review of past conversations. Rules under **Ruled** come from Gerald; the dates show when he decided. The rest describes what the vault does now. Items under "Open" need his decision before they become rules. This note has no frontmatter.
 
-Related notes: [[DM Hubs Design]] (hub rules, campaign notes, session date fields), [[Vault Reorganization Status - DM]] (where things live, NPC tiers, the separate-note test, merge pattern), the plugin rules at the end of this note (Linter, Calendarium and Janitor settings; the old Plugin Migration Status note is archived in `z_Archive/Plugin Migration/`), [[Hub Config]] (every tag, folder and heading name the code uses), [[Open Issues Spec]] (the Open Issues and Seeds Planted sections).
+Related notes: [[DM Hubs Design]] (hub rules, campaign notes, session date fields), [[Vault Reorganization Status - DM]] (where things live, NPC tiers, the separate-note test, merge pattern), the plugin rules at the end of this note (Linter, Calendarium and Janitor settings; the old Plugin Migration Status note is in the Pass Archive, outside the vault), [[Hub Config]] (every tag, folder and heading name the code uses), [[Open Issues Spec]] (the Open Issues and Seeds Planted sections).
 
 ### Ruled
 

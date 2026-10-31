@@ -78,7 +78,7 @@ Planned as callouts below the top screen, folded by default:
 | Encounters | [[Encounter Design Guide]], Encounter Template, [[Party Card Data]], [[NPC Stat Block Reference Table]], `Characters/Creatures` | Links and Bases |
 | Lore and Keln | `lore` notes; `world/keln` notes by last edit; [[Kanka_Master_Build_List]] | Bases |
 | Player wiki | [[Player Wiki/Index\|Player Wiki Index]], [[The World of Exandria]], ledger and scope checklist; wiki drift (DM note edited after its player twin) | Bases; drift in Datacore unless Bases can compare two files |
-| Vault maintenance | `needs-work` notes, maintenance backlog (below), [[DM_Vault_Reorganization_Plan]], [[Plugin Migration Status - DM]] | Bases and links |
+| Vault maintenance | `needs-work` notes, maintenance backlog (below), DM_Vault_Reorganization_Plan, Plugin Migration Status - DM (both in the Pass Archive) | Bases and links |
 
 ### Session Hub
 
@@ -142,7 +142,7 @@ Built 2026-10-30. Every open item in the `## Open Issues` and `## Seeds Planted`
 - **Full view:** [[Open Issues]]. An Issues | Seeds switch; five groupings (Priority, Note, Thread, Place, Type), remembered per device; filters for text, type, thread, running arc and where the party is. Priority bands: Flagged (`**Priority`), Next session (the running arc, notes it links to, notes linked from Where we left off, notes at or inside the party's place), Active threads, Upcoming, Everything else (collapsed). Format problems are listed at the bottom.
 - **Compact view:** `<OpenIssuesCompact />`, no props, identical on both hubs: Issues and Seeds side by side, Priority grouping, Flagged and Next session only, with a link to the full view.
 - **Shared pieces:** `plotConnections` in [[Plot Dashboard Views]] and `partyPlaceOf` in [[Session Hub Table]]; the plot dashboard, Where are we and the collector all call them.
-- **Migration record:** `z_Reference/Open Issues Review.md` (inventory and proposals) and the Phase log lines in the history note in `z_Archive/Vault Reorganization/`.
+- **Migration record:** `z_Reference/Open Issues Review.md` (inventory and proposals) and the Phase log lines in the history note in the Pass Archive.
 
 ### Content to create
 
