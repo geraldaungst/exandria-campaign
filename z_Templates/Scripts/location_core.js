@@ -1,5 +1,5 @@
 // location_core.js: the only code that reads location properties or resolves twins.
-// Spec: 00 DM Screen/Location Engine Spec.md (sections 3 and 4). Version 0.1.2.
+// Spec: 00 DM Screen/Vault Maintenance/Location Engine Spec.md (sections 3 and 4). Version 0.1.2.
 //
 // One file, loaded by two runtimes (see the last two lines):
 //   - Templater user script (z_Templates/Scripts), reached through dm_helpers.js `locations()`.
