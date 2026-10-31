@@ -1,10 +1,10 @@
 ---
-aliases:
-  - prophecy
 tags:
   - campaign/eryndor
   - lore
   - world/exandria
+aliases:
+  - prophecy
 ---
 
 ## Overview
