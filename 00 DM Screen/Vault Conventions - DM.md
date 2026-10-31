@@ -61,6 +61,7 @@ Related notes: [[DM Hubs Design]] (hub rules, campaign notes, session date field
   - `**Priority` anywhere in an entry flags it (`label_priority` in [[Hub Config]]; case does not matter; works on seeds). It is a label in the text, not a tag.
   - A hook (the hook menus on place and faction notes) is an option the players have not seen. Once Gerald uses a hook at the table it becomes a seed on that note.
   - An entry goes on the note it concerns. Where it came up in play, it ends with a link to the session note; the views show "raised in" or "planted in".
+  - An issue raised on several notes stays open only on the note it concerns (its home note). Each copy is ticked with a pointer to the home note, for example `(Open on [[Qalix's Network]].)`. Where a copy records a dependency, the home line lists the notes to revisit when it resolves, so ticking the copy hides nothing (2026-10-30).
 
 **Naming and events**
 - A DM note gets the " - DM" suffix only when a player-facing note on the same subject exists; the player note takes the plain name. Note titles avoid parentheses and underscores (2026-10-04).
