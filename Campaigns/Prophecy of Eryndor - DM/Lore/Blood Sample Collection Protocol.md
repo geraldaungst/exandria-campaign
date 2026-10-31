@@ -3,6 +3,7 @@ tags:
   - atomic
   - campaign/eryndor
   - lore
+  - world/exandria
 ---
 
 ## Core Information

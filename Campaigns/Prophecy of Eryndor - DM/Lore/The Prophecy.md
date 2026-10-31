@@ -4,6 +4,7 @@ aliases:
 tags:
   - campaign/eryndor
   - lore
+  - world/exandria
 ---
 
 ## Overview

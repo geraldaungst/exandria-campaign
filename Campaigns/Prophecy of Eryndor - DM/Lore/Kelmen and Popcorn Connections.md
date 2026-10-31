@@ -6,6 +6,7 @@ tags:
   - campaign/eryndor
   - atomic
   - lore
+  - world/exandria
 ---
 
 ## Kelmen, Shard 8, and Popcorn—DM Reference

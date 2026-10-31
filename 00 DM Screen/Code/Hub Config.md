@@ -55,6 +55,7 @@ statuses_paused:
 tag_arc: arc
 tag_campaign_note: campaign-hub
 tag_deceased: deceased
+tag_encounter: encounter
 tag_faction: organization
 tag_improvised: improvised
 tag_item: artifact

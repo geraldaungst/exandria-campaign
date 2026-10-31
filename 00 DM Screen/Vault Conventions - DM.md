@@ -26,7 +26,7 @@ Related notes: [[DM Hubs Design]] (hub rules, campaign notes, session date field
 - `lore` marks reference notes that support a plot thread without being one, such as The Prophecy (2026-10-19).
 
 **Location (2026-10-27; replaces the `place/…` and `region/…` tags)**
-- `world/<slug>` is the setting: a world, or a plane with one value per plane (`world/feywild`, `world/far-realm`). `world/planar` is retired. Every campaign-content note carries one, and it is the root of every location hierarchy.
+- `world/<slug>` is the setting: a world, or a plane with one value per plane (`world/feywild`, `world/far-realm`). `world/planar` is retired. Every campaign-content note carries one, except sessions, arcs, player characters and the campaign note, which take the world from the campaign note's `world` property. It is the root of every location hierarchy.
 - Place notes (tag `location`) carry their parents as links: `political_region` (who governs it) and `natural_region` (the land it sits on). Both are lists naming the nearest parent only. The first entry is the main parent, shown in trails; lookups use every entry. A place at the top of its setting carries neither.
 - `whereabouts`: one link to where something is now, on anything that moves or could move. NPCs: where they are found. Factions: their base. Items: a place, or the person holding them (a PC holder means the party's location).
 - `site`: one link to where an arc or encounter happens.
@@ -71,13 +71,13 @@ Related notes: [[DM Hubs Design]] (hub rules, campaign notes, session date field
 
 | Tag | Use |
 |---|---|
-| `world/<slug>` | Every campaign-content note. In use: `exandria` (265), `keln` (20), `multiplanar` (2), `mount-celestia` (1), `unspecified` (1: a note set in no named world, ruled 2026-10-29); `toril` (13) only in `z_Archive/Campaigns/Tyranny of Dragons/NPCs`. Counts of 2026-10-28, outside `z_` folders |
-| `unplaced` | An entity with no known or decided location (55 DM notes). Set Location removes it when a location is chosen |
+| `world/<slug>` | Every campaign-content note. In use: `exandria` (309), `keln` (21), `multiplanar` (3), `mount-celestia` (1), `unspecified` (1: a note set in no named world, ruled 2026-10-29); `toril` (13) only in `z_Archive/Campaigns/Tyranny of Dragons/NPCs`. Counts of 2026-10-30, outside `z_` folders, Player Wiki included (92 of the Exandria and 13 of the Keln notes are Player Wiki) |
+| `unplaced` | An entity with no known or decided location (53 DM notes). Set Location removes it when a location is chosen |
 | `faction/<slug>` | Nests: `faction/myriad/gentlemans-organization`. On NPCs, encounters and the faction note itself |
-| `campaign/<slug>` | `campaign/eryndor` (139), `campaign/tyranny` (13 in the archive, 5 other), `campaign/one-shots` (1: isolated one-shots, ruled 2026-10-29) |
+| `campaign/<slug>` | `campaign/eryndor` (164; 13 more in `z_Archive`), `campaign/tyranny` (13, all in `z_Archive`), `campaign/one-shots` (1: isolated one-shots, ruled 2026-10-29) |
 | `piece/<artifact>` | Pieces of a multi-part artifact: `piece/lorestone-of-eryndor` on the eight shard notes (prefix in [[Hub Config]]) |
 | Type tag | `npc`, `location`, `organization` (faction notes), `artifact`, `session`, `arc`, `plot/…`, `player`, `player/inactive`, `atomic`, `lore`, `encounter`, `creature` (ruled 2026-10-29), `campaign-hub` |
-| `needs-work` | Stub or incomplete (110 notes) |
+| `needs-work` | Stub or incomplete (69 notes; 87 with the archive) |
 | `improvised` | Stubs made by [[Quick Capture]] |
 | `inline-events` | Notes holding Calendarium inline events (timeline, shard notes) |
 | `dm-tool` | DM Screen tools |
@@ -92,20 +92,20 @@ Counts are notes outside the Player Wiki carrying the type tag.
 
 | Type | Tags | Properties |
 |---|---|---|
-| NPC (77) | `npc`, `world/`, `faction/`; `unplaced` when no location is known, `deceased` when dead | `disposition` (friendly, indifferent, hostile; the NPC template asks for it), `aliases`, `whereabouts`, `ties_to` |
-| Faction (24 notes in `Characters/Factions`) | `organization`, `world/`, and the note's own `faction/<slug>` (18 notes, retagged 2026-10-22; the other 6 are event, overview and hook notes without it) | Template: `aliases`, `whereabouts` (the base) or the `unplaced` tag, `ties_to`. Older notes also carry `disposition` (16), `current_location` (3), `affiliations` (2) |
-| Location (36 DM notes, 49 in the Player Wiki) | `location`, `world/` | `aliases`, `political_region`, `natural_region` (10 DM notes carry their own parents; the others take their player twin's) |
-| Artifact (29) | `artifact`; `campaign/` on 17, `world/` on 8 | `aliases`, `whereabouts` (a place, or the person holding it), or the `unplaced` tag |
-| Lore (12: 9 in `Campaigns/Prophecy of Eryndor - DM/Lore`; The Massacre, The Capture of Melthes and The Truth about Eledyr carry the tag in place) | `lore`, usually `atomic`, `campaign/` | None |
+| NPC (77: 70 in `Characters/NPCs`, 7 in `Characters/Adversaries`) | `npc`, `world/`, `faction/`; `unplaced` when no location is known, `deceased` when dead | `disposition` (friendly, indifferent, hostile; the NPC template asks for it), `aliases`, `whereabouts`, `ties_to` |
+| Faction (19 notes in `Characters/Factions`) | `organization`, `world/`, and the note's own `faction/<slug>` (14 notes; the other 5 are event, overview and atomic notes without it) | Template: `aliases`, `whereabouts` (the base) or the `unplaced` tag, `ties_to`. The older `disposition`, `current_location` and `affiliations` properties are on no faction note |
+| Location (40 DM notes, 49 in the Player Wiki) | `location`, `world/` | `aliases`, `political_region`, `natural_region` (17 DM notes carry their own parents; the others take their player twin's) |
+| Artifact (32) | `artifact`, `world/`; `campaign/` on 16 | `aliases`, `whereabouts` (a place, or the person holding it), or the `unplaced` tag |
+| Lore (19: 15 in `Campaigns/Prophecy of Eryndor - DM/Lore`; The Truth about Eledyr, The Massacre, The Capture of Melthes and The Origin of Soulwood carry the tag in place) | `lore`, usually `atomic`, `campaign/`, `world/` | `aliases` (2 notes), `ties_to` (3 notes) |
 | Creature (5) | `creature`; the four Rendspawn notes also carry `world/` and `campaign/` (the monkey, from a finished prologue, carries only `creature`) | None |
-| Atomic (42; 31 with no other type tag) | `atomic`, usually `campaign/` | None |
+| Atomic (50; 26 with no other type tag) | `atomic`, usually `campaign/` | None |
 | Session (58) | `session`, `campaign/` | Session Template writes at creation: `arc`, `date`, `previous_session`, `session_number`, `fc-calendar`, `fc-date`, `fc-end`, `ingame_time`, `fc-display-name`, `fc-category`. Close Session fills `fc-end` and `ingame_time`. `next_session` was removed from the Arc 4 and Arc 5 notes on 2026-10-29 (pointers go backwards only); it was removed from the Arc 3 notes on 2026-10-29 as well |
 | Arc (5) | `arc`, `campaign/` | `status`, `threads`, `tier`, `site` |
 | Plot thread (7) | One stage tag (`plot/active` and so on) | None |
 | Campaign note (1) | `campaign-hub`, one `campaign/…` | `calendar`, `timeline`, `status`, `world` |
-| Encounter (0 so far) | As ruled above | `site` |
+| Encounter (14: 1 in the campaign's `Encounters` folder, 13 tagged in place under Session Notes) | As ruled above | `site` |
 | Player (8) | `player` or `player/inactive`, `campaign/` | `aliases` (`modifier` removed 2026-10-23: leftover from tracking stats in notes; nothing read it) |
-| DM Screen tools | `dm-tool` | `hide_from_related` (checkbox; 39 notes), `cssclasses` |
+| DM Screen tools (19) | `dm-tool` | `hide_from_related` (checkbox; 54 notes: 17 tools, plus 37 hubs, specs, code notes and the Shard tracker), `cssclasses` |
 | Player Wiki (118) | `player-facing`, `world/`, type tag | `publish`, `aliases`, `cssclasses`; place notes also `political_region` and `natural_region` (player notes only). Separate system; do not touch without checking the Publish build rules |
 
 **Read by code** (hubs, Bases, templates): `session_number`, `date`, `arc`, `fc-date`, `fc-end`, `fc-calendar`, `ingame_time`, `status`, `threads`, `world`, `calendar`, `timeline`, `disposition`, `first_session`, `political_region`, `natural_region`, `whereabouts`, `site`, `ties_to`, `hide_from_related`. **Read by nothing:** `tier`, `previous_session`, `next_session` (kept: arc and session fields).

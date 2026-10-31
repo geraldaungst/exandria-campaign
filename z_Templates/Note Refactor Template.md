@@ -7,7 +7,7 @@ tags:
 {{content}}
 
 # Source Context
-Brief note about where this information originated (session, NPC conversation, etc.)
+<!-- Which note(s) did this come from? -->
 
 # Relationship Details
 [Delete section if not a relationship note]
@@ -21,6 +21,14 @@ How this relationship affects the campaign
 # Connections
 ## Source Note
 {{source_link}}
+
+## Open Issues
+
+- [ ] 
+
+## Seeds Planted
+
+- [ ] 
 
 ## Connected Elements
 

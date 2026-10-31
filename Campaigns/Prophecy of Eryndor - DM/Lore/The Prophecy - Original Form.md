@@ -3,6 +3,7 @@ tags:
   - atomic
   - campaign/eryndor
   - lore
+  - world/exandria
 ---
 
 ## Core Information
@@ -53,7 +54,7 @@ The prophecy has evolved over time and the original form is lost due to the miss
 
 ### Impact/Implications
 
-Players will learn the prophecy is not accurate and will have to ajust their choices and allegiances.
+Players will learn the prophecy is not accurate and will have to adjust their choices and allegiances.
 
 ## Connections
 

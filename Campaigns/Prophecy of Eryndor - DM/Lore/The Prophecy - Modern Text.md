@@ -3,6 +3,7 @@ tags:
   - atomic
   - campaign/eryndor
   - lore
+  - world/exandria
 ---
 
 ## Core Information
@@ -39,7 +40,7 @@ tags:
 
 ## Source Context
 
-Brief note about where this information originated (session, NPC conversation, etc.)
+Lines recovered from the shards of the [[Lorestone of Eryndor - DM]] found so far, and from recorded legends.
 
 ## Relationship Details
 
