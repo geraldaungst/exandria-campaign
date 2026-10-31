@@ -450,7 +450,7 @@ The wand regains 1d4 + 2 expended charges daily at dawn. If you expend the wand'
 
 ## Open Issues
 - [ ] Which guardians (owlbears, griffons, basilisks, oozes) survived 19 Thunsheer, and whether the six other statues were freed. The session notes do not record it.
-- [ ] Emer's next move is undecided (see [[Lady Emer - DM]]).
+- [x] Emer's next move. (Open on [[Lady Emer - DM]].)
 
 ## Connected Elements
 ![[Related Notes.base]]

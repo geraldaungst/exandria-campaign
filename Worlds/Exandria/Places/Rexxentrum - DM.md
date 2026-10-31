@@ -46,9 +46,9 @@ tags:
 ## Open Issues
 
 - [ ] **Priority:** The Assembly facility has no note: where it is, how it is guarded, who runs it, who else is held there.
-- [ ] Who leads the Cobalt Soul in Rexxentrum. This is also an Open Issue on [[Cobalt Soul - DM]].
+- [x] Who leads the Cobalt Soul in Rexxentrum. (Open on [[Cobalt Soul - DM]].)
 - [ ] The rest of the city: other districts, the Academy, the King's court. Write them only when the party goes to them.
-- [ ] Qalix's response to Dreyara's death and the Rexxentrum job. Decide before the party arrives.
+- [x] Qalix's response to Dreyara's death and the Rexxentrum job. (Open on [[Qalix's Network]].)
 
 ## Connected Elements
 

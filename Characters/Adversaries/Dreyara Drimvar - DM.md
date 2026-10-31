@@ -81,7 +81,7 @@ Deceased. Killed by the Third Act outside the rear entrance of the [[Monastery o
 ## Open Issues
 
 - [ ] Her old Volstrucker contacts: does anyone learn she worked for Qalix, and does the Empire hear of her death?
-- [ ] Her other agents and contacts (Brunhilda, her watchers in Port Damali, her unnamed Rexxentrum contacts) are listed as open in [[Qalix's Network]]. Design as needed
+- [x] Her other agents and contacts (Brunhilda, her watchers in Port Damali, her unnamed Rexxentrum contacts). (Open on [[Qalix's Network]].)
 
 ## Seeds Planted
 

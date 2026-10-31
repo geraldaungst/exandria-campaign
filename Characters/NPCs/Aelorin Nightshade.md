@@ -48,7 +48,7 @@ Tall high elf, [[Qilynn Duskwhisper - Nicole|Qilynn]]'s mentor and trainer. Qily
 ### Open Issues
 
 - [ ] His private chamber has a permanent Alarm that alerts him through a ring. The party took his signet ring, 500 pp and two sending stones. Does he know, and what does he do?
-- [ ] Does he learn that Calderax lost Shard 6, and what happens to Calderax then?
+- [x] Does he learn that Calderax lost Shard 6, and what happens to Calderax then? (Open on [[Calderax Dunhall]].)
 - [ ] Is he still in Port Damali?
 
 ### Connected Elements

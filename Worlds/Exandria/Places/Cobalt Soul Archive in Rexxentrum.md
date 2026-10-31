@@ -30,7 +30,7 @@ political_region:
 ## Open Issues
 - [ ] **Priority:** The Archive's layout, staff and security, and how the party gets to the vault. Nothing is designed.
 - [x] Whether the wider order knows about the vault. This is an Open Issue on [[Cobalt Soul - DM]]. (No. Ovedo keeps it from the order.)
-- [ ] Whether the Qalix heist goes ahead ([[Qalix's Network]]).
+- [x] Whether the Qalix heist goes ahead. (Open on [[Qalix's Network]].)
 
 ## Connected Elements
 ![[Related Notes.base]]

@@ -62,7 +62,7 @@ Emer's map marks the Ebonglass among her rift sites ([[Understanding the Rifts]]
 ## Open Issues
 
 - [ ] Encounter and stat block (a key encounter; Shard 7 says Challenge 12-14 and an adult black dragon). Plan: a custom stat block tuned to the challenge wanted, and/or extra minions. He stays an adult at about 750. Encounter structures for the lair, the Rotthold approach and the thralls are in [[Adaptable Modules]]
-- [ ] The Kryn agent among his thralls assumes a Kryn Dynasty expedition. That changes if [[Consecution's Hope]] resolves to a Drow ship
+- [x] The Kryn agent among his thralls assumes a Kryn Dynasty expedition. (Open on [[Consecution's Hope]].)
 
 ## Connected Elements
 

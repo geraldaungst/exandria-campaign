@@ -26,7 +26,7 @@ Moved from `Objects/` on 2026-10-25 (a lore note, not an item). Referenced from 
 
 ## Open Issues
 
-- [ ] [[Keldar Stonefoot - DM]] calls the ship an ancient Drow ship; this note has a Kryn Dynasty expedition from Xhorhas in 136 PD. Decide which is true, or whether both are (a Drow crew on a Dynasty expedition).
+- [ ] [[Keldar Stonefoot - DM]] calls the ship an ancient Drow ship; this note has a Kryn Dynasty expedition from Xhorhas in 136 PD. Decide which is true, or whether both are (a Drow crew on a Dynasty expedition). When this resolves, revisit [[Rotthold Evidence of Shoagragoth and Malastryx]], [[Shoagragoth, The Acid Crown]] and [[Xagonstar]].
 
 ## Connected Elements
 

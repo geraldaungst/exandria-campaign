@@ -156,7 +156,7 @@ The large walled estate in the southwest near the forest edge—the actual seat 
 
 ### Open Issues
 
-- [ ] What Aldous Penwrye decides about the site, and what the Truscans do with the two names the party gave them. Both are Open Issues on [[Deastok Investigation]].
+- [x] What Aldous Penwrye decides about the site, and what the Truscans do with the two names the party gave them. (Open on [[Deastok Investigation]].)
 - [ ] Starosta Deter McGinneas and Prime Arbiter Sydnock Truscan (who lives in [[Rexxentrum - DM|Rexxentrum]]) have no notes. Write them if the party deals with the Truscans again.
 - [ ] No street map exists. Canon gives district names only, so the arc runs it as theater of the mind.
 - [ ] The dig site has no name. Name it only if it recurs.

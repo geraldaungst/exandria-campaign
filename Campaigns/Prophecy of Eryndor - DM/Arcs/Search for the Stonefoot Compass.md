@@ -53,7 +53,7 @@ Offstage, to decide.
 
 - [ ] What did Aethor do when the deadline passed on 8 Thunsheer: wait, send someone, or cut his losses?
 - [ ] What do the Echoforge and Calderax do with their own leads in the meantime?
-- [ ] What is waiting at Port Zoon with Keldar if the party ever goes?
+- [x] What is waiting at Port Zoon with Keldar if the party ever goes? (Open on [[Port Zoon - DM]].)
 
 ## Future Developments
 

@@ -29,7 +29,7 @@ natural_region:
 - [ ] Which dwarves built Xagonstar, when, and how it came to be buried.
 - [ ] What the sealed vault holds, and what the planar research was for.
 - [ ] Lair layout and map. The encounter and stat block are Open Issues on [[Shoagragoth, The Acid Crown]].
-- [ ] The Kryn agent assumes a Kryn Dynasty expedition. It changes if [[Consecution's Hope]] resolves to a Drow ship (also an Open Issue on Shoagragoth).
+- [x] The Kryn agent assumes a Kryn Dynasty expedition. (Open on [[Consecution's Hope]].)
 
 ## Connected Elements
 ![[Related Notes.base]]

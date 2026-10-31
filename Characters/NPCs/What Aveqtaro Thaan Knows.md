@@ -59,7 +59,7 @@ Subnote of [[Aveqtaro Thaan]]: everything she can tell the party, by topic, with
 
 ## Open Issues
 
-- [ ] Stage placements are first guesses. Confirm each fact's stage (same item as in [[Aveqtaro Memory Recovery Tracker]])
+- [x] Stage placements are first guesses. Confirm each fact's stage. (Open on [[Aveqtaro Memory Recovery Tracker]].)
 
 ## Source
 

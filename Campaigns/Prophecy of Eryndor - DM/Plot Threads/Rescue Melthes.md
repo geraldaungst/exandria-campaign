@@ -31,7 +31,7 @@ tags:
 
 ## Open Issues
 
-- [ ] Melthes's status, location, condition and attitude are open. They are listed in [[Melthes#Open Issues]].
+- [x] Melthes's status, location, condition and attitude. (Open on [[Melthes#Open Issues]].)
 - [ ] Does Cree's report to Korfel reach the Assembly?
 - [ ] What does Hesterian do once she knows: press Cree for more, plan an approach, or go to Rexxentrum first?
 

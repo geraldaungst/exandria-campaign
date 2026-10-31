@@ -41,7 +41,7 @@ Three groups want the [[Lorestone of Eryndor - DM]] for different ends: the [[Ob
 
 ## Open Issues
 
-- [ ] Does the Echoforge know the party holds Shard 6?
+- [x] Does the Echoforge know the party holds Shard 6? (Open on [[Shard 6 - Marquet Shard]].)
 - [ ] No timeline for assembly is set.
 
 ## Reference Notes

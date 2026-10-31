@@ -137,7 +137,7 @@ Ilya was an adventurer sorceress who quested Exandria before retiring to Port Da
 ### Open Issues
 
 - [ ] Is the melted-skin rumor about the would-be robbers true?
-- [ ] Are the custom items she was crafting for Drawg finished?
+- [x] Are the custom items she was crafting for Drawg finished? (Open on [[Ilya's Realm Shop - DM]].)
 - [ ] Does she know anything about Lady Emer or Qalix?
 
 ### Connected Elements

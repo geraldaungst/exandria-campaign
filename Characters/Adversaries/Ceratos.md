@@ -131,7 +131,7 @@ The Never-Present Nemesis, working through the Apparent Nemesis ([[Vaud Qalix - 
 <!-- Deliberately undecided. Let play settle these. -->
 
 - [ ] Stat block: unfinished. Revisit and finalize. Decide whether it is fought as a creature at levels 19-20 or the finale centers on its domain and a rift, which CR, and the ally NPC plan (see Stats)
-- [ ] The first Rendspawn is due soon (the lowest tier was designed for levels 7-9). It should frighten the party, and a PC death is acceptable. Placed (decided 2026-10-25): on the road about a day short of Zadash. Encounter design is the top Open Issue in [[Understanding the Rifts]]
+- [x] The first Rendspawn is due soon (the lowest tier was designed for levels 7-9). It should frighten the party, and a PC death is acceptable. Placed (decided 2026-10-25): on the road about a day short of Zadash. (Open on [[Understanding the Rifts]].)
 - [ ] The level of the Qalix confrontation: the Qalix hub says about 18, Adaptable Modules says 18 with Ceratos at 19-20, the Sept 2025 planning said Qalix at 19, then a level-up to 20
 - [ ] Who its other warlock thralls are
 - [ ] What its passage into Exandria would look like, and what it does once through

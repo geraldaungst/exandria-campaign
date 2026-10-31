@@ -84,7 +84,7 @@ Her default is cheerful and optimistic. When things go wrong, her anxiety surfac
 - [ ] How the [[Obsidian Echoforge - DM]] first learns she exists. Options so far: rumors of a Kryn artisan with unusual knowledge, her black-market contacts traced, her work attracting scholarly attention
 - [ ] Whether her reincarnation involved consecution. It can stay open until it matters
 - [ ] How the [[Ashari Riftguard]] know of her. Their note says they can't tell whether she is sincere, but nothing here records any contact
-- [ ] Stage triggers and the convergence choice are tracked in [[Aveqtaro Memory Recovery Tracker]]
+- [x] Stage triggers and the convergence choice. (Open on [[Aveqtaro Memory Recovery Tracker]].)
 
 ## Connected Elements
 

@@ -54,7 +54,7 @@ Decide each when it matters.
 - [ ] **Priority:** Did Dreyara report the Cloudfang raid to Qalix before she died? Decide before Qalix's response.
 - [ ] **Priority:** Qalix's response, and who takes over Dreyara's work ([[Ru'Shan Halrune]] is a natural fit). Decide before Rexxentrum.
 - [ ] **Priority:** Whether the Rexxentrum heist goes ahead, is moved up, or is dropped. Decide before Rexxentrum.
-- [ ] Lady Emer's next move. Decide when the party could cross her path.
+- [x] Lady Emer's next move. (Open on [[Lady Emer - DM]].)
 - [ ] Ra'ak's next move, and whether he knew more than he said. Leave to player theories.
 - [ ] Dreyara's other agents and contacts: Brunhilda, her watchers in Port Damali, her unnamed "Rexxentrum contacts," [[Valen Elderguard]]'s cell (reports to Qalix directly), [[Kexira Suulveth]] (feeds the network). Design as needed.
 

@@ -97,9 +97,9 @@ As of 27 Thunsheer 835. Detail in [[Qalix's Network]].
 
 ## Open Issues
 
-- [ ] How Qalix answers Dreyara's death and the party. Decide before Rexxentrum
-- [ ] Who takes over Dreyara's work ([[Ru'Shan Halrune]] is a natural fit)
-- [ ] Whether the Rexxentrum job goes ahead. Detail and the other open items: [[Qalix's Network]]
+- [x] How Qalix answers Dreyara's death and the party. (Open on [[Qalix's Network]].)
+- [x] Who takes over Dreyara's work ([[Ru'Shan Halrune]] is a natural fit). (Open on [[Qalix's Network]].)
+- [x] Whether the Rexxentrum job goes ahead. (Open on [[Qalix's Network]], with the other open items.)
 - [ ] Whether the party meets him in person before the Molaesmyr confrontation (about level 18)
 
 ## Connected Elements

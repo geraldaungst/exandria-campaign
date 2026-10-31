@@ -82,7 +82,7 @@ Cluttered and warm, with an air of old things treated with respect. The physical
 
 ## Open Issues
 - [ ] Where in Rexxentrum the shop stands, and how long Azel stays.
-- [ ] The history of the Scale Mail of the Frigid Doom is blank (see its note).
+- [x] The history of the Scale Mail of the Frigid Doom. (Open on [[Scale Mail of the Frigid Doom]].)
 
 ## Connected Elements
 ![[Related Notes.base]]

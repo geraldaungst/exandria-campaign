@@ -55,7 +55,7 @@ _Large aberration, chaotic evil_
 
 ## Open Issues
 
-- [ ] Stat block pending redesign for the 2024 rules; see [[Rendspawn Reference Note]].
+- [x] Stat block pending redesign for the 2024 rules. (Open on [[Rendspawn Reference Note]].)
 
 # Connections
 ## Source Note

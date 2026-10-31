@@ -183,7 +183,7 @@ Last seen by the party at Cloudfang Keep on 19 Thunsheer 835. Timeline entries a
 
 ## Open Issues
 
-- [ ] Her next move. Decide when the party could cross her path (same item as in [[Qalix's Network]])
+- [ ] Her next move. Decide when the party could cross her path.
 - [ ] **Priority:** Whether she got the location of Shard 5 (the Cobalt Soul Archive) out of [[Varnes Dwell - DM|Varnes]] while he was her prisoner. Varnes does not remember what he told her. Related: how Qalix learned that Varnes knew, in [[Rescue Ilya's Brother]]
 
 ## Connected Elements

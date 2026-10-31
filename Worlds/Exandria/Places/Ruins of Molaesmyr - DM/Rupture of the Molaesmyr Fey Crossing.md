@@ -38,8 +38,8 @@ political_region:
 
 ### Open Issues
 
-- [ ] How Ilixidor Alo came to hold a Lorestone shard, and what became of him and his team. ([[Ilixidor Alo]] is a planned note.)
-- [ ] Does the shard still hold the ruptured crossing open, and what would removing it do to the crossing and the curse? (Affects [[Cleanse the Savalirwood]].)
+- [x] How Ilixidor Alo came to hold a Lorestone shard, and what became of him and his team. (Open on [[Shard 8 - Feywild Shard]]; [[Ilixidor Alo]] is a planned note.)
+- [x] Does the shard still hold the ruptured crossing open, and what would removing it do to the crossing and the curse? (Open on [[Shard 8 - Feywild Shard]]; affects [[Cleanse the Savalirwood]].)
 
 ### Connected Elements
 

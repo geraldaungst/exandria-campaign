@@ -46,7 +46,7 @@ tags:
 ## Open Issues
 
 - [ ] The old note named Hesterian "current owner, inherited from Grisul". The player notes say Annah inherited and offered Hesterian half. This draft follows the player notes. Confirm.
-- [ ] What Hesterian learned about Rylan Estevez here ([[Hesterian Shyr's Infiltration]]).
+- [x] What Hesterian learned about Rylan Estevez here. (Open on [[Hesterian Shyr's Infiltration]].)
 - [ ] Layout, staff and security. The Hall has no description beyond its history. Varnes's assessment would add it.
 
 ## Connected Elements

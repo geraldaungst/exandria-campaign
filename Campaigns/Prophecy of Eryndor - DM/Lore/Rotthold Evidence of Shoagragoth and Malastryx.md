@@ -26,7 +26,7 @@ Moved from [[Shoagragoth, The Acid Crown]] on 2026-10-25 (detail that did not be
 
 ## Open Issues
 
-- [ ] Item 6 assumes a Kryn Dynasty expedition. It changes if [[Consecution's Hope]] resolves to a Drow ship.
+- [x] Item 6 assumes a Kryn Dynasty expedition. (Open on [[Consecution's Hope]].)
 
 ## Connected Elements
 
